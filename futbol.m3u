@@ -77,3 +77,6 @@ http://176.222.164.71:80/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8
 
 #EXTINF:-1, PREMIER SPORTS 2
 http://77.247.109.94/hls/T2.m3u8
+
+#EXTINF:-1, YALLA LIVE (ÁRABE)
+https://d30tho09timqkb.cloudfront.net:443/out/v1/e9aa749a29a34ba59e6a2e9b70dbe138/index_2.m3u8
