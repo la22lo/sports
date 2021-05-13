@@ -12,11 +12,17 @@ http://king.mazystreams.xyz:80/live/streamqsd/chunks.m3u8
 #EXTINF:-1,BEIN SPORTS CANADA 2
 http://king.mazystreams.xyz/live/streamqsd/chunks.m3u8
 
+#EXTINF:-1,BEIN SPORTS HD ENG
+http://d267nylqk6r27x.cloudfront.net/live/CH2/index.m3u8
+
 #EXTINF:-1,ESPN 1
 http://134.19.182.131:8080/edg4_2.m3u8
 
 #EXTINF:-1,ESPN 2
 http://134.19.182.131:8080/edg5_2.m3u8
+
+#EXTINF:-1,ESPN 2 SPA
+https://google-br.cdn.booyah.live/hls/1000042/60397402.m3u8
 
 #EXTINF:-1,ESPN 2 ENG
 http://king.mazystreams.xyz/live/streamesd/chunks.m3u8
