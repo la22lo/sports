@@ -6,8 +6,11 @@ http://144.217.253.140/beinsport2/tracks-v1a1/index.m3u8
 #EXTINF:-1,BEIN SPORTS 1 PREMIUM 
 http://144.217.253.140/beinsport1/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,BEIN SPORTS CANADA 
+#EXTINF:-1,BEIN SPORTS CANADA 1
 http://king.mazystreams.xyz:80/live/streamqsd/chunks.m3u8
+
+#EXTINF:-1,BEIN SPORTS CANADA 2
+http://king.mazystreams.xyz/live/streamqsd/chunks.m3u8
 
 #EXTINF:-1,ESPN 1
 http://134.19.182.131:8080/edg4_2.m3u8
