@@ -89,3 +89,6 @@ http://77.247.109.94/hls/T2.m3u8
 
 #EXTINF:-1, YALLA LIVE (ÁRABE)
 https://d30tho09timqkb.cloudfront.net:443/out/v1/e9aa749a29a34ba59e6a2e9b70dbe138/index_2.m3u8
+
+#EXTINF:-1, YALLA LIVE PREMIUM (ÁRABE)
+https://d1oazx2tvmyimz.cloudfront.net:443/out/v1/bbc3aaff7d6b4c94b0adfb02a97a67a7/index_1.m3u8?SBN
