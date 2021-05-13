@@ -56,6 +56,3 @@ http://king.mazystreams.xyz/live/streamwsd/playlist.m3u8
 
 #EXTINF:-1, SPORT TV1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-
-#EXTINF:-1, TENIS
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
