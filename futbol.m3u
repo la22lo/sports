@@ -87,8 +87,8 @@ http://176.222.164.71:80/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8
 #EXTINF:-1, PREMIER SPORTS 2
 http://77.247.109.94/hls/T2.m3u8
 
-#EXTINF:-1, YALLA LIVE (ÁRABE)
-https://d30tho09timqkb.cloudfront.net:443/out/v1/e9aa749a29a34ba59e6a2e9b70dbe138/index_2.m3u8
+#EXTINF:-1, SPORT TV5
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 
-#EXTINF:-1, YALLA LIVE PREMIUM (ÁRABE)
-https://d1oazx2tvmyimz.cloudfront.net:443/out/v1/bbc3aaff7d6b4c94b0adfb02a97a67a7/index_1.m3u8?SBN
+#EXTINF:-1, MOVISTAR LALIGA
+http://31.220.41.87:8081/live/bein-laliga.stream/playlist.m3u8
