@@ -36,6 +36,10 @@ https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/ind
 #EXTINF:-1,GOL TELEVISION
 https://api.goltelevision.com/api/v1/stream/live/stream.m3u8
 
+#EXTINF:-1,GOL TELEVISION 2
+
+http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8
+
 #EXTINF:-1, CANAL RUSO 
 http://46.174.189.51/m1/tracks-v1a1/mono.m3u8
 
