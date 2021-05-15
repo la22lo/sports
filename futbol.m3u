@@ -154,5 +154,8 @@ http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=tvcdep&f=.m3u8
 #EXTINF:-1, M Liga Campeones
 http://209.205.221.74:130/R3$3202/3R1W3$32/1615_.m3u8
 
+#EXTINF:-1, YALLA LIVE (ARABE)
+https://d2z7pt5uzl9nwh.cloudfront.net/out/v1/74bdda57876a4df48d6fe6b6b570903b/index_2.m3u8
+
 #EXTINF:-1, AFIZZIONADOS REGIO
 http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=afizzionados&f=.m3u8
