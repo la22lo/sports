@@ -164,6 +164,9 @@ https://d2z7pt5uzl9nwh.cloudfront.net/out/v1/74bdda57876a4df48d6fe6b6b570903b/in
 #EXTINF:-1, ARMENIA TV
 http://ott-cdn.ucom.am/s4/04.m3u8
 
+#EXTINF:-1, CCTV5
+http://39.135.137.22/PLTV/88888888/224/3221225491/index.m3u8
+
 #EXTINF:-1, VTV PLUS
 https://google-br.cdn.booyah.live/hls/1000042/63358219.m3u8
 
