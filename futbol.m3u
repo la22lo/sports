@@ -48,6 +48,9 @@ http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=foxsportp&f=.m3u8
 #EXTINF:-1,FOX 2 SPORTS REGIO
 http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=foxsport2mx&f=.m3u8
 
+#EXTINF:-1,FOX 2 SPORTS
+http://161.35.63.85/live/ovostream2/chunks.m3u8
+
 #EXTINF:-1,FOX 3 SPORTS REGIO
 http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=foxsport3mx&f=.m3u8
 
