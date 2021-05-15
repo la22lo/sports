@@ -12,6 +12,9 @@ http://king.mazystreams.xyz:80/live/streamqsd/chunks.m3u8
 #EXTINF:-1,BEIN SPORTS CANADA 2
 http://king.mazystreams.xyz/live/streamqsd/chunks.m3u8
 
+#EXTINF:-1,BEIN SPORTS ENGLISH
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+
 #EXTINF:-1,LALIGA REGIO
 http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=laliga&f=.m3u8
 
