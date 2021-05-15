@@ -42,8 +42,8 @@ http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
 #EXTINF:-1,ESPN HD 
 http://acvlzxxmvr.chickenkiller.com/fs2.m3u8
 
-#EXTINF:-1,TIGO SPORTS 
-https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_6.m3u8
+#EXTINF:-1,GOL televisión VIVO 
+https://google-br.cdn.booyah.live/hls/1000052/60397402.m3u8
 
 #EXTINF:-1,FOX SPORTS REGIO
 http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=foxsportp&f=.m3u8
