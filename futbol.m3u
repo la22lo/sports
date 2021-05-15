@@ -48,6 +48,9 @@ http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=foxsportp&f=.m3u8
 #EXTINF:-1,FOX 2 SPORTS REGIO
 http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=foxsport2mx&f=.m3u8
 
+#EXTINF:-1,FOX 3 SPORTS REGIO
+http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=foxsport3mx&f=.m3u8
+
 #EXTINF:-1,GOL TELEVISION
 https://api.goltelevision.com/api/v1/stream/live/stream.m3u8
 
