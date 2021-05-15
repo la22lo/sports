@@ -136,6 +136,9 @@ http://31.220.41.87:8081/live/bein-laliga.stream/playlist.m3u8
 #EXTINF:-1, MOVISTAR LALIGA
 http://209.205.221.74:130/R3$3202/3R1W3$32/1618_.m3u8
 
+#EXTINF:-1, MOVISTAR LALIGA
+http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
+
 #EXTINF:-1, VAMOS
 http://209.205.221.74:130/R3$3202/3R1W3$32/1626_.m3u8
 
