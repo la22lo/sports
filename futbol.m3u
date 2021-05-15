@@ -127,5 +127,8 @@ http://209.205.221.74:130/R3$3202/3R1W3$32/1626_.m3u8
 #EXTINF:-1, TVC SPORTS REGIO
 http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=tvcdep&f=.m3u8
 
+#EXTINF:-1, M Liga Campeones
+http://209.205.221.74:130/R3$3202/3R1W3$32/1615_.m3u8
+
 #EXTINF:-1, AFIZZIONADOS REGIO
 http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=afizzionados&f=.m3u8
