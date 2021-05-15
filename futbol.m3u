@@ -45,6 +45,9 @@ https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/ind
 #EXTINF:-1,FOX SPORTS REGIO
 http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=foxsportp&f=.m3u8
 
+#EXTINF:-1,FOX 2 SPORTS REGIO
+http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=foxsport2mx&f=.m3u8
+
 #EXTINF:-1,GOL TELEVISION
 https://api.goltelevision.com/api/v1/stream/live/stream.m3u8
 
