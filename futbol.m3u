@@ -202,5 +202,8 @@ http://king.mazystreams.xyz/live/7/chunks.m3u8
 #EXTINF:-1, TENNIS CHANNEL
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
+#EXTINF:-1, TRUE SPORT
+http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
+
 #EXTINF:-1, AFIZZIONADOS REGIO
 http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=afizzionados&f=.m3u8
