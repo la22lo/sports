@@ -69,6 +69,9 @@ https://wrtc544108.bigmarker.com/user-rtmp/83053dbabb42-febf092c7b82f69640e0cff7
 #EXTINF:-1,LALIGA REGIO
 http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=laliga&f=.m3u8
 
+#EXTINF:-1, YALLA LIVE (ARABE)
+https://d2z7pt5uzl9nwh.cloudfront.net/out/v1/74bdda57876a4df48d6fe6b6b570903b/index_2.m3u8
+
 #EXTINF:-1,DIRECT TV REGIO
 http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=directv&f=.m3u8
 
@@ -185,9 +188,6 @@ http://209.205.221.74:130/R3$3202/3R1W3$32/1615_.m3u8
 
 #EXTINF:-1, MOVISTAR DEPORTES
 http://144.76.154.85:9900/live/mytvonline/pa3w0qg0do/32841.chunklist_w164367821.m3u8
-
-#EXTINF:-1, YALLA LIVE (ARABE)
-https://d2z7pt5uzl9nwh.cloudfront.net/out/v1/74bdda57876a4df48d6fe6b6b570903b/index_2.m3u8
 
 #EXTINF:-1, ARMENIA TV
 http://ott-cdn.ucom.am/s4/04.m3u8
