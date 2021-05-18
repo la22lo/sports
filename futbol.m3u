@@ -154,7 +154,6 @@ http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=tudnus&f=.m3u8
 http://176.222.164.71:80/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8
 
 #EXTINF:-1, PREMIER SPORTS 2
-
 http://161.35.63.85/live/ovostream2/chunks.m3u8
 
 #EXTINF:-1, SPORT TV5
@@ -175,8 +174,8 @@ http://209.126.119.148:25461/live/9a04e8d7dff84f62931ea9b96c4d9fd0/dc0be6687edd4
 #EXTINF:-1, VAMOS
 http://209.205.221.74:130/R3$3202/3R1W3$32/1626_.m3u8
 
-#EXTINF:-1, TVC SPORTS REGIO
-http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=tvcdep&f=.m3u8
+#EXTINF:-1, TVC SPORTS
+http://tecnotv.club/goom/smartvsport.php?c=749_&f=.m3u8
 
 #EXTINF:-1, M Liga Campeones
 http://209.205.221.74:130/R3$3202/3R1W3$32/1615_.m3u8
