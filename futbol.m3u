@@ -93,9 +93,6 @@ https://95-213-224-181.livesports24.online/ntvmatchfoot1.m3u8
 #EXTINF:-1, CANAL RUSO 6
 https://95-213-224-180.livesports24.online/ntvmatchfoot1.m3u8
 
-#EXTINF:-1, DAZN
-http://nba2.cdncrack.gq/live/box/chunks.m3u8
-
 #EXTINF:-1, SETANTA SPORT 1
 http://46.174.189.51/setanta1/video.m3u8
 
@@ -122,9 +119,6 @@ http://31.220.41.87:8081/live/bt33.stream/playlist.m3u8?per
 
 #EXTINF:-1, CANAL RUSO 7
 https://46-21-250-207.livesports24.online/ntvmatchfoot1.m3u8
-
-#EXTINF:-1, CANAL RUSO 8
-https://hls.myvideocontent.ru/hls2/kandratiev1/index.m3u8?per
 
 #EXTINF:-1, SKY SPORTS
 http://161.35.233.68/hls/k1/chunks.m3u8
