@@ -24,6 +24,9 @@ https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1,BEIN SPORTS EXTRA
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 
+#EXTINF:-1,BEIN SPORTS
+http://tecnotv.club/goom/smartv.php?c=594_&f=.m3u8
+
 #EXTINF:-1,LALIGA REGIO
 http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=laliga&f=.m3u8
 
