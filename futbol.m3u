@@ -111,9 +111,6 @@ http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_slen
 #EXTINF:-1, MOVISTAR LALIGA
 https://www.streamaway.net/fra/frpx/frprx.php/Z2x5cGV8fGh0dHBzOi8vcHJveHkubG9naXN0ZWYuZnIvYnJvd3NlLnBocD91PQ==/31.220.41.87:8081/live/es-laligatvbar.stream/playlist.m3u8
 
-#EXTINF:-1, EIN SPORT
-http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=winhd&f=.m3u8
-
 #EXTINF:-1, SPORT 1
 https://46-21-250-207.livesports24.online/sport1ua.m3u8
 
