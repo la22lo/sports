@@ -15,6 +15,9 @@ http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1,BEIN SPORTS 2 ENGLISH
 https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
 
+#EXTINF:-1,BEIN SPORTS 3 ENGLISH
+https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/Co4Eb_d8gDP8P64iLXDfNViLtHrcowADOylyVG-1Nrkm269ALAu2g-ZmbVbFWJaDe69JPXWh9ssJ4EoawIO6AX-HP5rXRD63bseEhHzQEWVecn7kwk46o72ch-ZI11FtadRDgovURgrHee43bS1N7avEtaLTXAJuG6B-aMObfth1yI0X-LOnzASYe5iGsAnrMtB0yTd156TrFmMhU2oI1VsBghYPHhoACjZJmC4UsiH40UgfcdT1cN7M5Lo-kuwOvB3KVzkdRDzL9FGeDzgWZyJcf-YuVti_6PjwmH-TczM3xFwWg-rhehsjShKLPbGSBlG-wySTx_Gb4UpIwNPfDektlsy-cyh0XOuP9NpOah0IYbEr9H_QzDRNPBSovwIKO9j2xzWJmLO_B5dw1GI2-4g5ClyHhpDn7a4nAYqS2nmYkRL4LF_2c5aB3uUursXkCilgF67GyrWOkhu3d4RPAUx0SzYxGZ1KAYiMI2VrLuzJeFLZ_JxbFpOByX5aUMTl8SVXWu3nvVi7vxZsc0s3J8U3qh1O-tEHajc-FZBAZUVmpQTjs8oRrQrDIJM8t_xAnOLo9k-1OcyHcwyeCXuophKDCU8kkqlepGY8ng-16gaqxhO9vvdbYuH-Bw_CtVf1hHImPzR7xbf4Et9FBiHsSXuzYhXAWqWxYSWCK1g1bT7tc6LT1Ok10yYIB70VUvGpCRIQ0vNdImYobRerIux_as47oBoMusGmGJrpQgEUtEyJ.m3u8
+
 #EXTINF:-1,BEIN SPORTS EXTRA
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 
@@ -81,11 +84,17 @@ http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=directv&f=.m3u8
 #EXTINF:-1,DIRECT TV + REGIO
 http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=directvplus&f=.m3u8
 
+#EXTINF:-1,DIRECT TV
+https://wrtc545494.bigmarker.com/user-rtmp/cfeac545e73f-f9c1bce88f6c4f3aff391e7e26d24adf.m3u8
+
+#EXTINF:-1,DIRECT TV
+https://akamai2-br.cdn.booyah.live/hls/1000044/61110961.m3u8
+
 #EXTINF:-1,EUROSPORT
 http://91.126.141.201:1935/live/eurosport1nntv/chunklist_w65928025.m3u8
 
 #EXTINF:-1,EUROSPORT
-http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
+http://46.174.189.51/Eurosport1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, SETANTA SPORT 1
 http://46.174.189.51/setanta1/video.m3u8
@@ -136,16 +145,22 @@ http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 http://31.220.41.87:8081/live/bt33.stream/playlist.m3u8?per
 
 #EXTINF:-1, SKY SPORTS
-http://cloud.mazystreams.xyz/live/2/chunks.m3u8
+http://cloud3.mazystreams.xyz/live/2/chunks.m3u8
 
 #EXTINF:-1, SKY SPORTS 2
-http://cloud.mazystreams.xyz/live/1/chunks.m3u8
+http://cloud3.mazystreams.xyz/live/1/chunks.m3u8
+
+#EXTINF:-1, SKY SPORTS 3
+https://video-weaver.den01.hls.ttvnw.net/v1/playlist/CpYEl9ZfIZtxR8R8K3KQNEvk0HJBAHnYE22r7eWJtucrYEq2Qy7OOMB843oWE0CyViQDQVljVXxrjjdWD3zGaEfdKpmrT3_PBdz7LffPo18T6GlsTSbfp3581k-BI3ocbuBqUhaLUgarntFY_ppU7YLEPOZEkZwgZ1OmSU4ZvXMQHvwBVnzahcmcsNx4f2EgnuYz7ZfolKmnsg24N5zZBMEIpOuw_43C4uXSr4uEvPU-5IwrzYYnv9Md_n_5KShqBwJmyhsNU8YxqhkaG1aYAvhoqAdT2zoxNV14Qam4rPexNbrntlkHVP68JekbpCO47KlS_BCYDus37pzq4UikV6KkA2NmiLySrcGEKq2wL-R_wYfmgOo4m7_-isZf70eg3bxwbCPvfS3oJyMOCmbXmGGLNOerOva_0Fbbr99oXrkGnLBQn7JqA-4TX9tM_2xwRcnCvrVeTLjAimksLnq2hX8vIN8gutI9gYNMx_bGl3cjrEYK9pSPOoh-TuJf3LT5YSQUW4yEY8DgRSeAfxUE6nXFCBFYqrldjZ2ImuXJ-qFOqjWrn4GWLGcegsXWf2amDPzh_BXFkJmk5Dt0dvdGH3d_gi6wVcAcJkaWtsG8DhtACo1-eWr-sVtuXvJBZQSr8ciOq1VISJ7WrVjEz_wduML5Yy4MI269xgYnI-PE2ER8z_BCS_uNw1sSMghIejD0Kl2ZjaCPmwgFEhBaVGn0TrxUKc5MVYj9cyMFGgxFNqURkTMpnjV5w-I.m3u8
 
 #EXTINF:-1, SPORT TV1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 
 #EXTINF:-1, SPORT TV2
 http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1, SPORT TV2
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
 
 #EXTINF:-1, SPORT TV3
 http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
@@ -155,6 +170,12 @@ http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
 
 #EXTINF:-1, SPORT TV5
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+
+#EXTINF:-1, SPORT TV5
+https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+#EXTINF:-1, DAZN 1
+https://wrtc545492.bigmarker.com/user-rtmp/915f6a4f599d-9c0510ee69d32de691fd22097fbcb386.m3u8
 
 #EXTINF:-1, TUDN MX REGIO
 http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=tudnmx&f=.m3u8
@@ -191,6 +212,12 @@ http://209.205.221.74:130/R3$3202/3R1W3$32/1615_.m3u8
 
 #EXTINF:-1, MOVISTAR DEPORTES
 http://144.76.154.85:9900/live/mytvonline/pa3w0qg0do/32841.chunklist_w164367821.m3u8
+
+#EXTINF:-1, MOVISTAR DEPORTES II
+http://144.76.154.85:9900/live/mytvonline/pa3w0qg0do/32841.m3u8
+
+#EXTINF:-1, MOVISTAR DEPORTES III
+https://www.streamaway.net/fra/frpx/frprx.php/Z2x5cGV8fGh0dHBzOi8vcHJveHkubG9naXN0ZWYuZnIvYnJvd3NlLnBocD91PQ==/31.220.41.90:8081/live/es-movistar-deportes.stream/chunks.m3u8
 
 #EXTINF:-1, ARMENIA TV
 http://ott-cdn.ucom.am/s4/04.m3u8
