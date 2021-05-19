@@ -78,6 +78,12 @@ http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=laliga&f=.m3u8
 #EXTINF:-1, YALLA LIVE (ARABE)
 https://d2z7pt5uzl9nwh.cloudfront.net/out/v1/74bdda57876a4df48d6fe6b6b570903b/index_2.m3u8
 
+#EXTINF:-1, YALLA LIVE PREMIUM (ARABE)
+https://d3g8ubaferj2d1.cloudfront.net:443/out/v1/3849055818a5461985839047f9ef6eae/index_1.m3u8
+
+#EXTINF:-1, YALLA LIVE PREMIUM HD (ARABE)
+https://d32rnlt7udit.cloudfront.net:443/out/v1/1dc1b4c9726d41e8a482877f4a597d50/index_2.m3u8
+
 #EXTINF:-1,DIRECT TV REGIO
 http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=directv&f=.m3u8
 
@@ -103,7 +109,7 @@ http://46.174.189.51/setanta1/video.m3u8
 http://92.43.140.200/s82/04.m3u8
 
 #EXTINF:-1,GOL televisión VIVO 
-https://google-br.cdn.booyah.live/hls/1000052/60397402.m3u8
+https://wrtc545614.bigmarker.com/user-rtmp/fe638e2a3598-14df45e4107e55fca93c310a9a3b1a6c.m3u8
 
 #EXTINF:-1,FOX SPORTS REGIO
 http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=foxsportp&f=.m3u8
@@ -136,7 +142,7 @@ http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 
 #EXTINF:-1, BT SPORT 1 HD
-http://king.mazystreams.xyz/live/streamqsd/chunks.m3u8
+http://cloud3.mazystreams.xyz/live/3/chunks.m3u8
 
 #EXTINF:-1, BT SPORT 2 HD
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
@@ -152,6 +158,9 @@ http://cloud3.mazystreams.xyz/live/1/chunks.m3u8
 
 #EXTINF:-1, SKY SPORTS 3
 https://video-weaver.den01.hls.ttvnw.net/v1/playlist/CpYEl9ZfIZtxR8R8K3KQNEvk0HJBAHnYE22r7eWJtucrYEq2Qy7OOMB843oWE0CyViQDQVljVXxrjjdWD3zGaEfdKpmrT3_PBdz7LffPo18T6GlsTSbfp3581k-BI3ocbuBqUhaLUgarntFY_ppU7YLEPOZEkZwgZ1OmSU4ZvXMQHvwBVnzahcmcsNx4f2EgnuYz7ZfolKmnsg24N5zZBMEIpOuw_43C4uXSr4uEvPU-5IwrzYYnv9Md_n_5KShqBwJmyhsNU8YxqhkaG1aYAvhoqAdT2zoxNV14Qam4rPexNbrntlkHVP68JekbpCO47KlS_BCYDus37pzq4UikV6KkA2NmiLySrcGEKq2wL-R_wYfmgOo4m7_-isZf70eg3bxwbCPvfS3oJyMOCmbXmGGLNOerOva_0Fbbr99oXrkGnLBQn7JqA-4TX9tM_2xwRcnCvrVeTLjAimksLnq2hX8vIN8gutI9gYNMx_bGl3cjrEYK9pSPOoh-TuJf3LT5YSQUW4yEY8DgRSeAfxUE6nXFCBFYqrldjZ2ImuXJ-qFOqjWrn4GWLGcegsXWf2amDPzh_BXFkJmk5Dt0dvdGH3d_gi6wVcAcJkaWtsG8DhtACo1-eWr-sVtuXvJBZQSr8ciOq1VISJ7WrVjEz_wduML5Yy4MI269xgYnI-PE2ER8z_BCS_uNw1sSMghIejD0Kl2ZjaCPmwgFEhBaVGn0TrxUKc5MVYj9cyMFGgxFNqURkTMpnjV5w-I.m3u8
+
+#EXTINF:-1, SKY SPORTS HD
+http://uk.mazystreams.xyz:80/live/1/chunks.m3u8
 
 #EXTINF:-1, SPORT TV1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
