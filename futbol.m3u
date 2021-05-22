@@ -66,6 +66,12 @@ http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1, SPORT TV5
 https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 
+#EXTINF:-1,EUROSPORT
+http://91.126.141.201:1935/live/eurosport1nntv/chunklist_w65928025.m3u8
+
+#EXTINF:-1,EUROSPORT
+http://46.174.189.51/Eurosport1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, MOVISTAR LALIGA
 http://31.220.41.87:8081/live/bein-laliga.stream/playlist.m3u8
 
@@ -74,6 +80,12 @@ http://209.205.221.74:130/R3$3202/3R1W3$32/1618_.m3u8
 
 #EXTINF:-1, MOVISTAR LALIGA
 http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
+
+#EXTINF:-1, MOVISTAR LALIGA
+http://l3d.us:8080/live/agustintrejo/HnGuHuND6c/157373.m3u8
+
+#EXTINF:-1, MOVISTAR LALIGA
+http://209.126.119.148:25461/live/a17e187d2bd546ef98a43e2096430d06/86b7e3d3a463492890a21b408c87b172/172.m3u8
 
 #EXTINF:-1, M Liga Campeones
 http://209.205.221.74:130/R3$3202/3R1W3$32/1615_.m3u8
@@ -155,12 +167,6 @@ https://wrtc545494.bigmarker.com/user-rtmp/cfeac545e73f-f9c1bce88f6c4f3aff391e7e
 
 #EXTINF:-1,DIRECT TV
 https://akamai2-br.cdn.booyah.live/hls/1000044/61110961.m3u8
-
-#EXTINF:-1,EUROSPORT
-http://91.126.141.201:1935/live/eurosport1nntv/chunklist_w65928025.m3u8
-
-#EXTINF:-1,EUROSPORT
-http://46.174.189.51/Eurosport1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,GOL televisión VIVO 
 https://wrtc545614.bigmarker.com/user-rtmp/fe638e2a3598-14df45e4107e55fca93c310a9a3b1a6c.m3u8
