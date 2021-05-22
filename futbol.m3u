@@ -151,7 +151,10 @@ https://akamai2-br.cdn.booyah.live/hls/1000010/60397402.m3u8
 http://134.19.182.131:8080/edg13_2.m3u8
 
 #EXTINF:-1,ESPN 3
-http://134.19.182.131:8080/edg3_2.m3u8
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=espn3mx&f=.m3u8
+
+#EXTINF:-1,ESPN EXTRA
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=espnextramx&f=.m3u8
 
 #EXTINF:-1,ESPN HD 
 http://acvlzxxmvr.chickenkiller.com/fs2.m3u8
@@ -161,6 +164,9 @@ https://wrtc544108.bigmarker.com/user-rtmp/83053dbabb42-febf092c7b82f69640e0cff7
 
 #EXTINF:-1,PGA ESPN
 https://gma2.blab.email/fs2.m3u8
+
+#EXTINF:-1,ESPN DEPORTES
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=espndep&f=.m3u8
 
 #EXTINF:-1, YALLA LIVE (ARABE)
 https://d2z7pt5uzl9nwh.cloudfront.net/out/v1/74bdda57876a4df48d6fe6b6b570903b/index_2.m3u8
@@ -180,8 +186,11 @@ https://akamai2-br.cdn.booyah.live/hls/1000044/61110961.m3u8
 #EXTINF:-1,GOL televisión VIVO 
 https://wrtc545614.bigmarker.com/user-rtmp/fe638e2a3598-14df45e4107e55fca93c310a9a3b1a6c.m3u8
 
+#EXTINF:-1,FOX 1 SPORTS
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=foxsport1mx&f=.m3u8
+
 #EXTINF:-1,FOX 2 SPORTS
-http://161.35.63.85/live/ovostream2/chunks.m3u8
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=foxsport2mx&f=.m3u8
 
 #EXTINF:-1,FOX 3 SPORTS 
 http://balancer1.ottmex.com:8081/tecno/FoxSports3.BKR/chunks.m3u8
@@ -210,6 +219,12 @@ https://video-weaver.den01.hls.ttvnw.net/v1/playlist/CpYEl9ZfIZtxR8R8K3KQNEvk0HJ
 #EXTINF:-1, SKY SPORTS HD
 http://uk.mazystreams.xyz:80/live/1/chunks.m3u8
 
+#EXTINF:-1, TUDN MX
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=tudnmx&f=.m3u8
+
+#EXTINF:-1, TUDN USA
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=tudnus&f=.m3u8
+
 #EXTINF:-1, QAZ SPORT
 http://176.222.164.71:80/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8
 
@@ -227,6 +242,9 @@ http://ott-cdn.ucom.am/s83/03.m3u8
 
 #EXTINF:-1, CCTV5
 http://39.135.137.22/PLTV/88888888/224/3221225491/index.m3u8
+
+#EXTINF:-1, TVC DEPORTES
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=tvcdep&f=.m3u8
 
 #EXTINF:-1, TV MATIC
 http://cdn.tvmatic.net/sport.m3u8
