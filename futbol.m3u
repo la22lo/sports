@@ -105,6 +105,9 @@ http://31.220.41.87:8081/live/es-moviestarf1.stream/playlist.m3u8
 #EXTINF:-1, DAZN 2
 http://144.76.154.85:9900/live/mytvonline/pa3w0qg0do/16669.m3u8
 
+#EXTINF:-1, BEIN SPORT N
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=beines&f=.m3u8
+
 #EXTINF:-1,BEIN SPORTS 2 PREMIUM 
 http://144.217.253.140/beinsport2/tracks-v1a1/index.m3u8
 
