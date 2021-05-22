@@ -45,6 +45,9 @@ http://31.220.41.87:8081/live/bt33.stream/playlist.m3u8?per
 #EXTINF:-1, SPORT TV1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 
+#EXTINF:-1, SPORT TV1
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+
 #EXTINF:-1, SPORT TV2
 http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
 
@@ -62,6 +65,27 @@ http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1, SPORT TV5
 https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+#EXTINF:-1, MOVISTAR LALIGA
+http://31.220.41.87:8081/live/bein-laliga.stream/playlist.m3u8
+
+#EXTINF:-1, MOVISTAR LALIGA
+http://209.205.221.74:130/R3$3202/3R1W3$32/1618_.m3u8
+
+#EXTINF:-1, MOVISTAR LALIGA
+http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
+
+#EXTINF:-1, M Liga Campeones
+http://209.205.221.74:130/R3$3202/3R1W3$32/1615_.m3u8
+
+#EXTINF:-1, MOVISTAR DEPORTES
+http://144.76.154.85:9900/live/mytvonline/pa3w0qg0do/32841.chunklist_w164367821.m3u8
+
+#EXTINF:-1, MOVISTAR DEPORTES II
+http://144.76.154.85:9900/live/mytvonline/pa3w0qg0do/32841.m3u8
+
+#EXTINF:-1, MOVISTAR DEPORTES III
+https://www.streamaway.net/fra/frpx/frprx.php/Z2x5cGV8fGh0dHBzOi8vcHJveHkubG9naXN0ZWYuZnIvYnJvd3NlLnBocD91PQ==/31.220.41.90:8081/live/es-movistar-deportes.stream/chunks.m3u8
 
 #EXTINF:-1,BEIN SPORTS 2 PREMIUM 
 http://144.217.253.140/beinsport2/tracks-v1a1/index.m3u8
@@ -186,32 +210,8 @@ http://176.222.164.71:80/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8
 #EXTINF:-1, PREMIER SPORTS 2
 http://161.35.63.85/live/ovostream2/chunks.m3u8
 
-#EXTINF:-1, MOVISTAR LALIGA
-http://31.220.41.87:8081/live/bein-laliga.stream/playlist.m3u8
-
-#EXTINF:-1, MOVISTAR LALIGA
-http://209.205.221.74:130/R3$3202/3R1W3$32/1618_.m3u8
-
-#EXTINF:-1, MOVISTAR LALIGA
-http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
-
-#EXTINF:-1, MOVISTAR LALIGA
-http://209.126.119.148:25461/live/9a04e8d7dff84f62931ea9b96c4d9fd0/dc0be6687edd41ab826a9c6d916cecfe/172.m3u8
-
 #EXTINF:-1, VAMOS
 http://209.205.221.74:130/R3$3202/3R1W3$32/1626_.m3u8
-
-#EXTINF:-1, M Liga Campeones
-http://209.205.221.74:130/R3$3202/3R1W3$32/1615_.m3u8
-
-#EXTINF:-1, MOVISTAR DEPORTES
-http://144.76.154.85:9900/live/mytvonline/pa3w0qg0do/32841.chunklist_w164367821.m3u8
-
-#EXTINF:-1, MOVISTAR DEPORTES II
-http://144.76.154.85:9900/live/mytvonline/pa3w0qg0do/32841.m3u8
-
-#EXTINF:-1, MOVISTAR DEPORTES III
-https://www.streamaway.net/fra/frpx/frprx.php/Z2x5cGV8fGh0dHBzOi8vcHJveHkubG9naXN0ZWYuZnIvYnJvd3NlLnBocD91PQ==/31.220.41.90:8081/live/es-movistar-deportes.stream/chunks.m3u8
 
 #EXTINF:-1, ARMENIA TV
 http://ott-cdn.ucom.am/s4/04.m3u8
