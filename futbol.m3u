@@ -141,8 +141,11 @@ https://wrtc544107.bigmarker.com/user-rtmp/7d899a854742-cefec062d0fe4cf714d298ae
 #EXTINF:-1,ESPN 2 VIVO II
 https://akamai2-br.cdn.booyah.live/hls/1000010/60397402.m3u8
 
-#EXTINF:-1,ESPN 3
+#EXTINF:-1,ESPN 2
 http://134.19.182.131:8080/edg13_2.m3u8
+
+#EXTINF:-1,ESPN 3
+http://134.19.182.131:8080/edg3_2.m3u8
 
 #EXTINF:-1,ESPN HD 
 http://acvlzxxmvr.chickenkiller.com/fs2.m3u8
