@@ -42,6 +42,27 @@ http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1, BT SPORT 3
 http://31.220.41.87:8081/live/bt33.stream/playlist.m3u8?per
 
+#EXTINF:-1, SPORT TV1
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:-1, SPORT TV2
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1, SPORT TV2
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1, SPORT TV3
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+
+#EXTINF:-1, SPORT TV4
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+
+#EXTINF:-1, SPORT TV5
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+
+#EXTINF:-1, SPORT TV5
+https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+
 #EXTINF:-1,BEIN SPORTS 2 PREMIUM 
 http://144.217.253.140/beinsport2/tracks-v1a1/index.m3u8
 
@@ -152,27 +173,6 @@ https://video-weaver.den01.hls.ttvnw.net/v1/playlist/CpYEl9ZfIZtxR8R8K3KQNEvk0HJ
 
 #EXTINF:-1, SKY SPORTS HD
 http://uk.mazystreams.xyz:80/live/1/chunks.m3u8
-
-#EXTINF:-1, SPORT TV1
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-
-#EXTINF:-1, SPORT TV2
-http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
-
-#EXTINF:-1, SPORT TV2
-https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
-
-#EXTINF:-1, SPORT TV3
-http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
-
-#EXTINF:-1, SPORT TV4
-http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
-
-#EXTINF:-1, SPORT TV5
-http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
-
-#EXTINF:-1, SPORT TV5
-https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1, DAZN 1
 http://31.220.41.87:8081/live/es-moviestarf1.stream/playlist.m3u8
