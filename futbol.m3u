@@ -96,6 +96,15 @@ http://144.76.154.85:9900/live/mytvonline/pa3w0qg0do/32841.m3u8
 #EXTINF:-1, MOVISTAR DEPORTES III
 https://www.streamaway.net/fra/frpx/frprx.php/Z2x5cGV8fGh0dHBzOi8vcHJveHkubG9naXN0ZWYuZnIvYnJvd3NlLnBocD91PQ==/31.220.41.90:8081/live/es-movistar-deportes.stream/chunks.m3u8
 
+#EXTINF:-1, MOVISTAR LALIGA
+https://www.streamaway.net/fra/frpx/frprx.php/Z2x5cGV8fGh0dHBzOi8vcHJveHkubG9naXN0ZWYuZnIvYnJvd3NlLnBocD91PQ==/31.220.41.87:8081/live/es-laligatvbar.stream/playlist.m3u8
+
+#EXTINF:-1, DAZN 1
+http://31.220.41.87:8081/live/es-moviestarf1.stream/playlist.m3u8
+
+#EXTINF:-1, DAZN 2
+http://144.76.154.85:9900/live/mytvonline/pa3w0qg0do/16669.m3u8
+
 #EXTINF:-1,BEIN SPORTS 2 PREMIUM 
 http://144.217.253.140/beinsport2/tracks-v1a1/index.m3u8
 
@@ -186,9 +195,6 @@ https://api.goltelevision.com/api/v1/stream/live/stream.m3u8
 #EXTINF:-1,GOL TELEVISION 2
 http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8
 
-#EXTINF:-1, MOVISTAR LALIGA
-https://www.streamaway.net/fra/frpx/frprx.php/Z2x5cGV8fGh0dHBzOi8vcHJveHkubG9naXN0ZWYuZnIvYnJvd3NlLnBocD91PQ==/31.220.41.87:8081/live/es-laligatvbar.stream/playlist.m3u8
-
 #EXTINF:-1, SPORT 1
 https://46-21-250-207.livesports24.online/sport1ua.m3u8
 
@@ -203,12 +209,6 @@ https://video-weaver.den01.hls.ttvnw.net/v1/playlist/CpYEl9ZfIZtxR8R8K3KQNEvk0HJ
 
 #EXTINF:-1, SKY SPORTS HD
 http://uk.mazystreams.xyz:80/live/1/chunks.m3u8
-
-#EXTINF:-1, DAZN 1
-http://31.220.41.87:8081/live/es-moviestarf1.stream/playlist.m3u8
-
-#EXTINF:-1, DAZN 2
-http://144.76.154.85:9900/live/mytvonline/pa3w0qg0do/16669.m3u8
 
 #EXTINF:-1, QAZ SPORT
 http://176.222.164.71:80/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8
