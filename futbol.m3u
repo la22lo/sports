@@ -228,12 +228,6 @@ http://ott-cdn.ucom.am/s83/03.m3u8
 #EXTINF:-1, CCTV5
 http://39.135.137.22/PLTV/88888888/224/3221225491/index.m3u8
 
-#EXTINF:-1, VTV PLUS
-https://google-br.cdn.booyah.live/hls/1000042/63358219.m3u8
-
-#EXTINF:-1, NBC LIVE
-http://g.givemenbastreams.com/hls/nbcsn/chunks.m3u8
-
 #EXTINF:-1, TV MATIC
 http://cdn.tvmatic.net/sport.m3u8
 
