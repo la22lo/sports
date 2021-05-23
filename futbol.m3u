@@ -177,6 +177,9 @@ https://google-br.cdn.booyah.live/hls/1000042/54589695.m3u8
 #EXTINF:-1,PGA ESPN
 https://gma2.blab.email/fs2.m3u8
 
+#EXTINF:-1,ESPN VIVO
+https://abr-f.eu-central-1.edge.mycdn.live/eiplus/3e41bee9a15d01e9d1ed5a74416f402e/playlist.m3u8
+
 #EXTINF:-1,ESPN DEPORTES
 http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=espndep&f=.m3u8
 
