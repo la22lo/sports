@@ -222,6 +222,9 @@ https://wrtc545614.bigmarker.com/user-rtmp/fe638e2a3598-14df45e4107e55fca93c310a
 #EXTINF:-1,FOX 1 SPORTS
 http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=foxsport1mx&f=.m3u8
 
+#EXTINF:-1,FOX SPORTS
+http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
+
 #EXTINF:-1,FOX 2 SPORTS
 http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=foxsport2mx&f=.m3u8
 
