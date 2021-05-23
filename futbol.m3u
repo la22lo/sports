@@ -159,6 +159,9 @@ http://164.68.124.111/espn2.m3u8
 #EXTINF:-1,ESPN 2 VIVO
 http://134.19.182.131:8080/edg13_2.m3u8
 
+#EXTINF:-1,ESPN 2
+http://acvlzxxmvr.chickenkiller.com/fs2.m3u8
+
 #EXTINF:-1,ESPN 3
 http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=espn3mx&f=.m3u8
 
