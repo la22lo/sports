@@ -270,6 +270,9 @@ http://g7.mazystreams.xyz/live/2/chunks.m3u8
 #EXTINF:-1, VAMOS
 http://209.205.221.74:130/R3$3202/3R1W3$32/1626_.m3u8
 
+#EXTINF:-1, VAMOS II
+http://144.76.154.85:9900/live/mytvonline/pa3w0qg0do/32845.m3u8
+
 #EXTINF:-1, TIGO SPORTS 2
 https://d108h32trr4h8c.cloudfront.net/out/v1/d543fa4ff337450db0e38fcc19705c21/index_6.m3u8
 
