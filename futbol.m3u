@@ -117,23 +117,8 @@ http://zeroxtv.xyz:2082/live/ecuamovies/AwkXxxjPQU/62745.m3u8
 #EXTINF:-1, BEIN SPORT N
 http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=beines&f=.m3u8
 
-#EXTINF:-1,BEIN SPORTS 2 PREMIUM 
-http://nl2.mazystreams.xyz/live/3/chunks.m3u8
-
-#EXTINF:-1,BEIN SPORTS 1 PREMIUM 
-http://144.217.253.140/beinsport1/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,BEIN SPORTS 3
-http://144.217.253.140/beinsport3/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,BEIN SPORTS ENGLISH
-http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
-
 #EXTINF:-1,BEIN SPORTS 2 ENGLISH
 https://bit.ly/3wlIBpg
-
-#EXTINF:-1,BEIN SPORTS 3 ENGLISH
-https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/Co4Eb_d8gDP8P64iLXDfNViLtHrcowADOylyVG-1Nrkm269ALAu2g-ZmbVbFWJaDe69JPXWh9ssJ4EoawIO6AX-HP5rXRD63bseEhHzQEWVecn7kwk46o72ch-ZI11FtadRDgovURgrHee43bS1N7avEtaLTXAJuG6B-aMObfth1yI0X-LOnzASYe5iGsAnrMtB0yTd156TrFmMhU2oI1VsBghYPHhoACjZJmC4UsiH40UgfcdT1cN7M5Lo-kuwOvB3KVzkdRDzL9FGeDzgWZyJcf-YuVti_6PjwmH-TczM3xFwWg-rhehsjShKLPbGSBlG-wySTx_Gb4UpIwNPfDektlsy-cyh0XOuP9NpOah0IYbEr9H_QzDRNPBSovwIKO9j2xzWJmLO_B5dw1GI2-4g5ClyHhpDn7a4nAYqS2nmYkRL4LF_2c5aB3uUursXkCilgF67GyrWOkhu3d4RPAUx0SzYxGZ1KAYiMI2VrLuzJeFLZ_JxbFpOByX5aUMTl8SVXWu3nvVi7vxZsc0s3J8U3qh1O-tEHajc-FZBAZUVmpQTjs8oRrQrDIJM8t_xAnOLo9k-1OcyHcwyeCXuophKDCU8kkqlepGY8ng-16gaqxhO9vvdbYuH-Bw_CtVf1hHImPzR7xbf4Et9FBiHsSXuzYhXAWqWxYSWCK1g1bT7tc6LT1Ok10yYIB70VUvGpCRIQ0vNdImYobRerIux_as47oBoMusGmGJrpQgEUtEyJ.m3u8
 
 #EXTINF:-1,BEIN SPORT EXTRA
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
@@ -141,50 +126,35 @@ https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:-1,BEIN SPORTS EXTRA HD
 https://siloh-ns1.plutotv.net:443/lilo/production/bein/master_1.m3u8
 
-#EXTINF:-1,BEIN SPORTS
-http://tecnotv.club/goom/smartv.php?c=594_&f=.m3u8
-
-#EXTINF:-1,ESPN DEPORTES
-http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=espn1mx&f=.m3u8
-
 #EXTINF:-1,ESPN 1
 http://134.19.182.131:8080/edg4_2.m3u8
 
-#EXTINF:-1,ESPN
+#EXTINF:-1,ESPN MLB
 http://balancer1.ottmex.com:8081/tecno/Espn1.BKR/chunks.m3u8
 
 #EXTINF:-1,ESPN
 http://134.19.182.131:8080/edg3_2.m3u8
 
-#EXTINF:-1,ESPN 2
+#EXTINF:-1,ESPN 2 NBA
 http://164.68.124.111/espn2.m3u8
 
-#EXTINF:-1,ESPN 2 VIVO
+#EXTINF:-1,ESPN VIVO
 http://134.19.182.131:8080/edg13_2.m3u8
 
-#EXTINF:-1,ESPN 2
+#EXTINF:-1,ESPN PGA
 http://acvlzxxmvr.chickenkiller.com/fs2.m3u8
-
-#EXTINF:-1,ESPN 3
-http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=espn3mx&f=.m3u8
-
-#EXTINF:-1,ESPN EXTRA
-http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=espnextramx&f=.m3u8
-
-#EXTINF:-1,ESPN HD 
-http://acvlzxxmvr.chickenkiller.com/fs2.m3u8
-
-#EXTINF:-1,ESPN VIVO
-https://google-br.cdn.booyah.live/hls/1000042/54589695.m3u8
 
 #EXTINF:-1,PGA ESPN
 https://gma2.blab.email/fs2.m3u8
 
+#EXTINF:-1,ESPN 3
+http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=espn3mx&f=.m3u8
+
+#EXTINF:-1,ESPN VIVO
+https://google-br.cdn.booyah.live/hls/1000042/54589695.m3u8
+
 #EXTINF:-1,ESPN VIVO
 https://abr-f.eu-central-1.edge.mycdn.live/eiplus/3e41bee9a15d01e9d1ed5a74416f402e/playlist.m3u8
-
-#EXTINF:-1,ESPN DEPORTES
-http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=espndep&f=.m3u8
 
 #EXTINF:-1,SUPER SPORTS 3
 http://51.89.195.111:8880/ss3/playlist.m3u8
@@ -204,23 +174,11 @@ https://d32rnlt7udit.cloudfront.net:443/out/v1/1dc1b4c9726d41e8a482877f4a597d50/
 #EXTINF:-1,ELEVEN 1
 http://g7.mazystreams.xyz/live/5/chunks.m3u8
 
-#EXTINF:-1,ELEVEN 2
-http://cloud3.mazystreams.xyz/live/9/chunks.m3u8
-
-#EXTINF:-1,ELEVEN 5
-http://cloud3.mazystreams.xyz/live/4/chunks.m3u8
-
 #EXTINF:-1,ELEVEN 6
 http://cloudfronthd.mazystreams.xyz/live/7/chunks.m3u8
 
 #EXTINF:-1,APEHA TV
 https://95-213-224-173.livesports24.online/rumatcharena.m3u8
-
-#EXTINF:-1,DIRECT TV
-https://wrtc545494.bigmarker.com/user-rtmp/cfeac545e73f-f9c1bce88f6c4f3aff391e7e26d24adf.m3u8
-
-#EXTINF:-1,DIRECT TV
-https://akamai2-br.cdn.booyah.live/hls/1000044/61110961.m3u8
 
 #EXTINF:-1,GOL televisión VIVO 
 https://wrtc545614.bigmarker.com/user-rtmp/fe638e2a3598-14df45e4107e55fca93c310a9a3b1a6c.m3u8
@@ -237,7 +195,7 @@ http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=foxsport2mx&f=.m3u8
 #EXTINF:-1,FOX 3 SPORTS 
 http://balancer1.ottmex.com:8081/tecno/FoxSports3.BKR/chunks.m3u8
 
-#EXTINF:-1,FOX DEPORTES
+#EXTINF:-1,FOX SOCCER PLUS
 http://134.19.182.131:8080/edg15_2.m3u8
 
 #EXTINF:-1,GOL TELEVISION
@@ -248,9 +206,6 @@ http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_slen
 
 #EXTINF:-1,GOL TV
 http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=goltv&f=.m3u8
-
-#EXTINF:-1, SPORT 1
-https://46-21-250-207.livesports24.online/sport1ua.m3u8
 
 #EXTINF:-1, SKY SPORTS
 http://g7.mazystreams.xyz/live/6/chunks.m3u8
@@ -284,12 +239,6 @@ http://g7.mazystreams.xyz/live/2/chunks.m3u8
 
 #EXTINF:-1, VAMOS
 http://209.205.221.74:130/R3$3202/3R1W3$32/1626_.m3u8
-
-#EXTINF:-1, VAMOS II
-http://144.76.154.85:9900/live/mytvonline/pa3w0qg0do/32845.m3u8
-
-#EXTINF:-1, TIGO SPORTS 2
-https://d108h32trr4h8c.cloudfront.net/out/v1/d543fa4ff337450db0e38fcc19705c21/index_6.m3u8
 
 #EXTINF:-1, ARMENIA TV
 http://ott-cdn.ucom.am/s4/04.m3u8
