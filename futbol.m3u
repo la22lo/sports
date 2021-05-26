@@ -43,7 +43,7 @@ http://ott-cdn.ucom.am/s82/index.m3u8
 https://95-213-224-186.livesports24.online/setantaplusru.m3u8
 
 #EXTINF:-1, BT SPORT 1
-http://yuahdaj.azureedge.net/edge/BTS1/chunks.m3u8
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 
 #EXTINF:-1, BT SPORT 2 HD
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
@@ -168,6 +168,9 @@ https://d32rnlt7udit.cloudfront.net:443/out/v1/1dc1b4c9726d41e8a482877f4a597d50/
 #EXTINF:-1, YALLA LIVE PREMIUM (ARABE)
 https://d32rnlt7udit.cloudfront.net:443/out/v1/1dc1b4c9726d41e8a482877f4a597d50/index_2.m3u8
 
+#EXTINF:-1, VARCHAT 2
+http://46.174.189.51/m1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, SPORT TV1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 
@@ -209,6 +212,9 @@ https://wrtc545614.bigmarker.com/user-rtmp/fe638e2a3598-14df45e4107e55fca93c310a
 
 #EXTINF:-1,FOX SPORTS USA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
+
+#EXTINF:-1,FOX SPORTS VIVO
+http://212.224.98.206:2200/BR/Fox_Sports_HD-br/tracks-v1a1/mono.m3u8?token=RED_1-jcnMySirZA5OeXJYd2AA%3D%3D%2C1622070983.4667790476
 
 #EXTINF:-1,FOX SPORTS
 http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
