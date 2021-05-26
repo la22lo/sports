@@ -33,6 +33,12 @@ http://46.174.189.51/setanta1/video.m3u8
 #EXTINF:-1, SETANTA SPORT 2
 http://92.43.140.200/s82/04.m3u8
 
+#EXTINF:-1, SETANTA SPORT 1 LIVE
+http://ott-cdn.ucom.am/s81/index.m3u8
+
+#EXTINF:-1, SETANTA SPORT 2 LIVE
+http://ott-cdn.ucom.am/s82/index.m3u8
+
 #EXTINF:-1, SETANTA SPORT 2 (2)
 https://95-213-224-186.livesports24.online/setantaplusru.m3u8
 
@@ -126,8 +132,8 @@ http://acvlzxxmvr.chickenkiller.com/fs2.m3u8
 #EXTINF:-1,PGA ESPN
 https://gma2.blab.email/fs2.m3u8
 
-#EXTINF:-1,ESPN 3
-http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=espn3mx&f=.m3u8
+#EXTINF:-1,ESPN 2
+https://gma2.blab.email/espn2.m3u8
 
 #EXTINF:-1,ESPN VIVO
 http://134.19.182.131:8080/edg4_2.m3u8
@@ -158,6 +164,9 @@ https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 
 #EXTINF:-1, SPORT TV2
 http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1, SPORT TV2
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8?mvk
 
 #EXTINF:-1, SPORT TV2
 https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
@@ -208,7 +217,7 @@ https://api.goltelevision.com/api/v1/stream/live/stream.m3u8
 http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8
 
 #EXTINF:-1,GOL TV
-http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=goltv&f=.m3u8
+http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8?mvk
 
 #EXTINF:-1, SKY SPORTS
 http://g7.mazystreams.xyz/live/6/chunks.m3u8
@@ -243,11 +252,23 @@ http://g7.mazystreams.xyz/live/2/chunks.m3u8
 #EXTINF:-1, VAMOS
 http://209.205.221.74:130/R3$3202/3R1W3$32/1626_.m3u8
 
+#EXTINF:-1, FUTBOL TV
+http://ott-cdn.ucom.am/s41/index.m3u8
+
+#EXTINF:-1, BAHRAIN SPORTS
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
+
+#EXTINF:-1, ARRIADIA (MARRUECOS)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+
 #EXTINF:-1, ARMENIA TV
 http://ott-cdn.ucom.am/s4/04.m3u8
 
 #EXTINF:-1, PREMIUM ARMENIA TV
 http://ott-cdn.ucom.am/s83/03.m3u8
+
+#EXTINF:-1, DUBAI SPORTS
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1, CCTV5
 http://39.135.137.22/PLTV/88888888/224/3221225491/index.m3u8
@@ -261,8 +282,14 @@ http://cdn.tvmatic.net/sport.m3u8
 #EXTINF:-1, SHARJJAH SPORT
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
-#EXTINF:-1, TENNIS CHANNEL
+#EXTINF:-1, TENNIS CHANNEL INTERNACIONAL
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1, TENNIS CHANNEL
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+
+#EXTINF:-1, TENNIS CHANNEL PLUS
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 
 #EXTINF:-1, ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
@@ -278,6 +305,18 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 
 #EXTINF:-1, VIASAT SPORT
 http://46.174.189.51/ViasatSport9/index.m3u8
+
+#EXTINF:-1, RTV SPORT
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b542000_slita_t64TUQoMzYwcCk=.m3u8
+
+#EXTINF:-1, TELETRAK
+http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+
+#EXTINF:-1, BEK SPORTS
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+
+#EXTINF:-1, LAX SPORTS
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 
 #EXTINF:-1, CICLISMO ESUKERA (EITB)
 https://live-dvr.eitb-fastly.cross-media.es/live-content/oka2hd-hls/bitrate_4.m3u8
