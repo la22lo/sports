@@ -133,7 +133,7 @@ https://gma2.blab.email/fs2.m3u8
 https://gma2.blab.email/espn2.m3u8
 
 #EXTINF:-1,ESPN VIVO
-http://134.19.182.131:8080/edg13_2.m3u8
+https://google-br.cdn.booyah.live/hls/1000048/61110961.m3u8
 
 #EXTINF:-1,ESPN PGA
 http://acvlzxxmvr.chickenkiller.com/fs2.m3u8
@@ -216,6 +216,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a6173797
 #EXTINF:-1,FOX SPORTS VIVO
 http://212.224.98.206:2200/BR/Fox_Sports_HD-br/tracks-v1a1/mono.m3u8?token=RED_1-jcnMySirZA5OeXJYd2AA%3D%3D%2C1622070983.4667790476
 
+#EXTINF:-1,FOX SPORTS LIVE
+https://akamai2-br.cdn.booyah.live/hls/1000009/60397402.m3u8
+
 #EXTINF:-1,FOX SPORTS
 http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
 
@@ -293,6 +296,12 @@ http://g7.mazystreams.xyz/live/2/chunks.m3u8
 
 #EXTINF:-1, VAMOS
 http://209.205.221.74:130/R3$3202/3R1W3$32/1626_.m3u8
+
+#EXTINF:-1, VAMOSSKY NET SPORT 1
+http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
+
+#EXTINF:-1, LIVE SPORT
+https://wrtc552612.bigmarker.com/user-rtmp/a258272aff0d-c79b114a2ec89614e48ef70ea920203a.m3u8
 
 #EXTINF:-1, FUTBOL TV
 http://ott-cdn.ucom.am/s41/index.m3u8
