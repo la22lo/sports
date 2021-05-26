@@ -105,8 +105,14 @@ http://31.220.41.87:8081/live/es-moviestarf1.stream/playlist.m3u8
 #EXTINF:-1, DAZN 2
 http://zeroxtv.xyz:2082/live/ecuamovies/AwkXxxjPQU/62745.m3u8
 
-#EXTINF:-1, BEIN SPORT 1
+#EXTINF:-1, BEIN SPORTS 1
 http://1.alhawalouh.xyz/live/6161655/index.m3u8
+
+#EXTINF:-1, BEIN SPORTS 2
+http://2.alhawalouh.xyz/live/616194987/index.m3u8
+
+#EXTINF:-1, BEIN SPORTS 3
+http://3.alhawalouh.xyz/live/6151278887/index.m3u8
 
 #EXTINF:-1, BEIN SPORT ENGLISH
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8?thejoelc
@@ -202,7 +208,7 @@ http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
 
 #EXTINF:-1, SPORT TV5
-http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1, SPORT TV5
 https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
@@ -305,6 +311,9 @@ http://176.222.164.71:80/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8
 
 #EXTINF:-1, QAZ SPORT 
 http://37.99.5.237:80/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8
+
+#EXTINF:-1, ENGLISH PREMIER LEAGUE 
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 
 #EXTINF:-1, PREMIER SPORTS 2
 http://g7.mazystreams.xyz/live/2/chunks.m3u8
