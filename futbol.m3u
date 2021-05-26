@@ -171,6 +171,9 @@ https://d32rnlt7udit.cloudfront.net:443/out/v1/1dc1b4c9726d41e8a482877f4a597d50/
 #EXTINF:-1, VARCHAT 2
 http://46.174.189.51/m1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, VARCHAT 2
+http://46.174.189.51:80/match/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, SPORT TV1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 
@@ -218,6 +221,9 @@ http://212.224.98.206:2200/BR/Fox_Sports_HD-br/tracks-v1a1/mono.m3u8?token=RED_1
 
 #EXTINF:-1,FOX SPORTS LIVE
 https://akamai2-br.cdn.booyah.live/hls/1000009/60397402.m3u8
+
+#EXTINF:-1,FOX SPORTS VIVO
+https://bit.ly/3oUmpjp?thejoelc.m3u8
 
 #EXTINF:-1,FOX SPORTS
 http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
