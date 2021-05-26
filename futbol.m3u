@@ -48,6 +48,9 @@ http://yuahdaj.azureedge.net/edge/BTS1/chunks.m3u8
 #EXTINF:-1, BT SPORT 2 HD
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 
+#EXTINF:-1, BT SPORT 2
+http://77.247.109.111/hls/A2.m3u8?thejoelc
+
 #EXTINF:-1, BT SPORT 3
 http://yuahdaj.azureedge.net/edge/BTS3/chunks.m3u8
 
@@ -99,8 +102,8 @@ http://31.220.41.87:8081/live/es-moviestarf1.stream/playlist.m3u8
 #EXTINF:-1, DAZN 2
 http://zeroxtv.xyz:2082/live/ecuamovies/AwkXxxjPQU/62745.m3u8
 
-#EXTINF:-1, BEIN SPORT N
-http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=beines&f=.m3u8
+#EXTINF:-1, BEIN SPORT ENGLISH
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8?thejoelc
 
 #EXTINF:-1,BEIN SPORTS 2 ENGLISH
 https://bit.ly/3wlIBpg
@@ -145,7 +148,7 @@ https://abr-f.eu-central-1.edge.mycdn.live/eiplus/3e41bee9a15d01e9d1ed5a74416f40
 http://51.89.195.111:8880/ss3/playlist.m3u8
 
 #EXTINF:-1, YALLA LIVE (ARABE)
-https://d32rnlt7udit.cloudfront.net:443/out/v1/1dc1b4c9726d41e8a482877f4a597d50/index_2.m3u8
+http://matiasstornini00.shortcm.li/shio1.m3u8?thejoel
 
 #EXTINF:-1, YALLA LIVE PREMIUM (ARABE)
 https://d3g8ubaferj2d1.cloudfront.net:443/out/v1/3849055818a5461985839047f9ef6eae/index_1.m3u8
