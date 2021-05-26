@@ -174,6 +174,9 @@ http://46.174.189.51/m1/tracks-v1a1/mono.m3u8
 #EXTINF:-1, VARCHAT 2
 http://46.174.189.51:80/match/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, TEN SPORT
+http://42.201.228.226:8678/TENSPORT_EBRAVO_TV/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, SPORT TV1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 
@@ -383,6 +386,9 @@ https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 
 #EXTINF:-1, LAX SPORTS
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+
+#EXTINF:-1, WILLOW HD
+http://oqab.life:8080/live/8181/8181/242.m3u8
 
 #EXTINF:-1, CICLISMO ESUKERA (EITB)
 https://live-dvr.eitb-fastly.cross-media.es/live-content/oka2hd-hls/bitrate_4.m3u8
