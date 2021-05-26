@@ -127,7 +127,7 @@ https://gma2.blab.email/fs2.m3u8
 http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=espn3mx&f=.m3u8
 
 #EXTINF:-1,ESPN VIVO
-https://google-br.cdn.booyah.live/hls/1000042/54589695.m3u8
+http://134.19.182.131:8080/edg4_2.m3u8
 
 #EXTINF:-1,ESPN VIVO
 https://abr-f.eu-central-1.edge.mycdn.live/eiplus/3e41bee9a15d01e9d1ed5a74416f402e/playlist.m3u8
@@ -274,4 +274,7 @@ https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
 #EXTINF:-1, VIASAT SPORT
-https://persik.tv/stream/3602/287583/10249.m3u8
+http://46.174.189.51/ViasatSport9/index.m3u8
+
+#EXTINF:-1, CICLISMO ESUKERA (EITB)
+https://live-dvr.eitb-fastly.cross-media.es/live-content/oka2hd-hls/bitrate_4.m3u8
