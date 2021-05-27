@@ -336,6 +336,12 @@ http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
 #EXTINF:-1, LIVE SPORT
 https://wrtc552612.bigmarker.com/user-rtmp/a258272aff0d-c79b114a2ec89614e48ef70ea920203a.m3u8
 
+#EXTINF:-1, Champions TV 1 
+https://livestreaming-google-etslive.vidio.com/live/6685/master.m3u8 
+
+#EXTINF:-1, Champions TV 2
+https://livestreaming-google-etslive.vidio.com/live/6686/master.m3u8 
+
 #EXTINF:-1, FUTBOL TV
 http://ott-cdn.ucom.am/s41/index.m3u8
 
