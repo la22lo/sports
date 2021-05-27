@@ -132,6 +132,9 @@ http://134.19.182.131:8080/edg4_2.m3u8
 #EXTINF:-1,ESPN 2
 http://134.19.182.131:8080/edg3_2.m3u8?SBN
 
+#EXTINF:-1,ESPN 3
+http://134.19.182.131:8080/edg4_2.m3u8
+
 #EXTINF:-1,ESPN MLB
 http://balancer1.ottmex.com:8081/tecno/Espn1.BKR/chunks.m3u8
 
