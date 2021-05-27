@@ -69,6 +69,9 @@ http://46.174.189.51/Eurosport1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,EUROSPORT 2
 http://77.83.117.60:8888/02_EUROHD2_720p/chunklist.m3u8
 
+#EXTINF:-1,EUROSPORT 2
+http://46.174.189.51/Eurosport2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,LA LIGA TV
 http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=laliga&f=.m3u8
 
@@ -408,6 +411,9 @@ http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1, OMAN SPORT
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 
+#EXTINF:-1,DUBAI SPORTS 3 FHD
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby
+
 #EXTINF:-1, FOX SPORT AUSTRALIA
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
@@ -443,6 +449,9 @@ https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 
 #EXTINF:-1, WILLOW HD
 http://oqab.life:8080/live/8181/8181/242.m3u8
+
+#EXTINF:-1,TVRI SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:-1, PLUTO TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d533-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=04baab3a-5f85-4e2b-9112-e0c2b16014ce&userId=&serverSideAds=true
