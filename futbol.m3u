@@ -351,6 +351,12 @@ https://livestreaming-google-etslive.vidio.com/live/6685/master.m3u8
 #EXTINF:-1, Champions TV 2
 https://livestreaming-google-etslive.vidio.com/live/6686/master.m3u8 
 
+#EXTINF:-1, Champions TV 2 HD
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6686_720p/index.m3u8
+
+#EXTINF:-1, Champions TV 3
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6786_720p/index.m3u8
+
 #EXTINF:-1, FUTBOL TV
 http://ott-cdn.ucom.am/s41/index.m3u8
 
