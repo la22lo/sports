@@ -100,7 +100,7 @@ http://209.205.221.74:130/R3$3202/3R1W3$32/1615_.m3u8
 http://212.224.98.204:2200/NL/mdeporteshd-esp/tracks-v1a1/mono.m3u8?token=RED_8EZnzwaUl4GQNL0rGODOHw==,1621585279.5409016371
 
 #EXTINF:-1, MOVISTAR DEPORTES II
-http://144.76.154.85:9900/live/mytvonline/pa3w0qg0do/32841.m3u8
+http://185.180.15.16:2200/NL/mdeporteshd-esp/tracks-v1a1/mono.m3u8?token=null
 
 #EXTINF:-1, MOVISTAR DEPORTES III
 https://www.streamaway.net/fra/frpx/frprx.php/Z2x5cGV8fGh0dHBzOi8vcHJveHkubG9naXN0ZWYuZnIvYnJvd3NlLnBocD91PQ==/31.220.41.90:8081/live/es-movistar-deportes.stream/chunks.m3u8
