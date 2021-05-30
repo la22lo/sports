@@ -120,6 +120,9 @@ http://212.224.98.207:2200/NL/dazn1hd-esp/mono.m3u8?token=🇪🇦
 #EXTINF:-1, DAZN 4
 http://212.224.98.209:2200/NL/dazn4hd-esp/tracks-v1a1/mono.m3u8?token=RED_peA0ETq0egLjnKQ4ls7mZg%3D%3D%2C1622228710.6940369350
 
+#EXTINF:-1, DAZN
+http://212.224.98.207:2200/NL/dazn1hd-esp/mono.m3u8?token=RED_vLBBLbt60zMRVtx4ywGAMQ==,1622194099.2069343128?thejoelc
+
 #EXTINF:-1, BEIN SPORTS Ñ
 http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=beines&f=.m3u8
 
