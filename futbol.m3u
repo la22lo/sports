@@ -246,6 +246,9 @@ http://l3d.us:8080/live/agustintrejo/HnGuHuND6c/11025.m3u8
 #EXTINF:-1, ELEVEN SPORT 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 
+#EXTINF:-1, ELEVEN SPORT 2
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, Футбол 1 UA
 https://46-166-139-84.livesports24.online/uafootballua1.m3u8
 
@@ -293,6 +296,21 @@ https://185-198-56-58.livesports24.online/football3ua.m3u8
 
 #EXTINF:-1,MATH RUSIA
 https://95-213-172-220.livesports24.online/ooomatch.m3u8
+
+#EXTINF:-1,EPT SPORTS
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
+
+#EXTINF:-1,EPT SPORTS 2
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2medium.m3u8
+
+#EXTINF:-1,EPT SPORTS 3
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3medium.m3u8
+
+#EXTINF:-1,EPT SPORTS 4
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4medium.m3u8
+
+#EXTINF:-1,EPT SPORTS 5
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_5/ert_sports_5medium.m3u8
 
 #EXTINF:-1,TSN4
 http://77.247.109.94/hls/T2.m3u8?SBN
@@ -360,6 +378,12 @@ http://yuahdaj.azureedge.net/edge/NBA4/chunks.m3u8
 #EXTINF:-1, SKY SPORTS HD
 http://yuahdaj.azureedge.net/edge/NBA1/chunks.m3u8
 
+#EXTINF:-1, CANAL PLUS HD
+http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, DEPORTES EURO
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
+
 #EXTINF:-1, TYC SPORTS
 https://bit.ly/tyc-lat?thejoelc
 
@@ -410,6 +434,9 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6786_720p/index.m3u8
 
 #EXTINF:-1, FUTBOL TV
 http://ott-cdn.ucom.am/s41/index.m3u8
+
+#EXTINF:-1, NOVA SPORTS LIVE
+https://cdn1.mobiletv.bg/T7/novasport/ns_794613_850k.m3u8
 
 #EXTINF:-1, BAHRAIN SPORTS
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
