@@ -48,6 +48,15 @@ https://95-213-224-186.livesports24.online/setantaplusru.m3u8
 #EXTINF:-1, SETANTA SPORT UCRANIA
 https://95-213-224-183.livesports24.online/setantaukraine.m3u8
 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",Setanta Sport Ukraine
+https://95-213-224-181.livesports24.online/setantaukraine.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",Setanta Sport 1
+https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",Setanta Sport 2
+https://95-213-224-181.livesports24.online/setantaplusru.m3u8
+
 #EXTINF:-1, BT SPORT 1
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 
@@ -183,6 +192,12 @@ http://176.222.164.71:80/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8
 #EXTINF:-1, QAZ SPORT 
 http://37.99.5.237:80/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8
 
+#EXTINF:-1,QAZSPORT 
+http://92.46.127.146:8080/qazsport/index.m3u8
+
+#EXTINF:-1 group-title="Спорт",QAZsport
+http://92.46.127.146:8080/qazsport/index.m3u8
+
 #EXTINF:-1,ESPN 1
 http://134.19.182.131:8080/edg4_2.m3u8
 
@@ -296,6 +311,24 @@ https://46-166-139-84.livesports24.online/uafootballua1.m3u8
 
 #EXTINF:-1, Футбол 2 UA
 https://95-213-224-176.livesports24.online/fooootball2.m3u8
+
+#EXTINF:-1,Футбол 1
+https://sportuslive.ru/ua1/index.m3u8
+
+#EXTINF:-1,Футбол 1
+https://95-213-224-187.livesports24.online/uafootballua1.m3u8?989839018244a
+
+#EXTINF:-1,Футбол 2
+https://95-213-224-187.livesports24.online/fooootball2.m3u8
+
+#EXTINF:-1,Футбол 2 HD
+https://46-21-250-207.livesports24.online/fooootball2.m3u8
+
+#EXTINF:-1,Футбол 3
+https://95-213-224-187.livesports24.online/football3ua.m3u8?989839018244a
+
+#EXTINF:-1,Футбол 3 HD
+https://46-21-250-207.livesports24.online/football3ua.m3u8
 
 #EXTINF:-1, КХЛ HD
 https://95-213-224-183.livesports24.online/khlhdru.m3u8
@@ -540,6 +573,12 @@ https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3
 #EXTINF:-1, TV MATIC
 http://cdn.tvmatic.net/sport.m3u8
 
+#EXTINF:-1, UFC ( Mynetqu.id )
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
+#EXTINF:-1 , UFC  ( Mynetqu.id )
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+
 #EXTINF:-1, SHARJJAH SPORT
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
@@ -548,6 +587,15 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 #EXTINF:-1, 5 SPORTS
 https://185-198-56-58.livesports24.online/belarusss5.m3u8
+
+#EXTINF:-1, BELARUS 5 SD
+https://95-213-224-180.livesports24.online/belarusss5.m3u8
+
+#EXTINF:-1 group-title="Спорт",BELARUS 5 SD
+http://persik.by/stream/6696/480248/932.m3u8
+
+#EXTINF:-1 group-title="Спорт",BELARUS 5 HD
+http://persik.by/stream/6696/480248/10408.m3u8
 
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
@@ -615,6 +663,9 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF:-1, VIASAT SPORT
 http://46.174.189.51/ViasatSport9/index.m3u8
 
+#EXTINF:-1 group-title="Спорт",FootballHub
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+
 #EXTINF:-1, Sport 1+1 HD
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
@@ -629,6 +680,12 @@ http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
 #EXTINF:-1, MMA TV 
 https://alchimie-mmatv-3-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 ,Sport 1 Ukraine
+https://95-213-224-183.livesports24.online/sport1ua.m3u8
+
+#EXTINF:-1 group-title="Спорт",КХЛ SD
+http://persik.by/stream/6696/480248/604.m3u8
 
 #EXTINF:-1, BEK SPORTS
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
