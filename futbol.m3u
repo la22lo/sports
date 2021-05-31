@@ -312,11 +312,17 @@ https://bit.ly/3oUmpjp?thejoelc.m3u8
 #EXTINF:-1,FOX SPORTS
 http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
 
+#EXTINF:-1,FOX SPORTS 1
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+
 #EXTINF:-1,FOX 2 SPORTS
 http://134.19.182.131:8080/edg2_2.m3u8
 
+#EXTINF:-1,FOX SPORTS 2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+
 #EXTINF:-1,FOX 3 SPORTS 
-http://balancer1.ottmex.com:8081/tecno/FoxSports3.BKR/chunks.m3u8
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist.m3u8
 
 #EXTINF:-1,FOX SOCCER PLUS
 http://134.19.182.131:8080/edg15_2.m3u8
