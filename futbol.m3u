@@ -210,6 +210,9 @@ https://abr-f.eu-central-1.edge.mycdn.live/eiplus/3e41bee9a15d01e9d1ed5a74416f40
 #EXTINF:-1,ESPN NCAF
 https://120sports-accdn-1.plex.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1,ESPN 6
+http://31.220.41.88:8081/live/nl-foxsports6.stream/chunks.m3u8
+
 #EXTINF:-1,SUPER SPORTS 3
 http://51.89.195.111:8880/ss3/playlist.m3u8
 
