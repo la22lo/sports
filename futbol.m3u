@@ -132,9 +132,6 @@ http://212.224.98.209:2200/NL/dazn4hd-esp/tracks-v1a1/mono.m3u8?token=RED_peA0ET
 #EXTINF:-1, DAZN
 http://212.224.98.207:2200/NL/dazn1hd-esp/mono.m3u8?token=RED_vLBBLbt60zMRVtx4ywGAMQ==,1622194099.2069343128?thejoelc
 
-#EXTINF:-1, BEIN SPORTS Ñ
-http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=beines&f=.m3u8
-
 #EXTINF:-1, BEIN SPORTS 1
 https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 
@@ -153,8 +150,26 @@ http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8?thejoelc
 #EXTINF:-1, BEIN SPORT ENGLISH
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 
-#EXTINF:-1,BEIN SPORTS 2 ENGLISH
-https://bit.ly/3wlIBpg
+#EXTINF:-1, BEIN PREMIUM 1
+http://31.220.41.88:8081/live/bein9.stream/playlist.m3u8
+
+#EXTINF:-1, BEIN PREMIUM 2
+http://31.220.41.88:8081/live/bein10.stream/playlist.m3u8
+
+#EXTINF:-1 ,BEIN AR 3
+http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
+
+#EXTINF:-1, BEIN AR 4
+http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
+
+#EXTINF:-1, BEIN AR 5
+http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
+
+#EXTINF:-1, BEIN AR 6
+http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
+
+#EXTINF:-1, BEIN AR 7
+http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
 
 #EXTINF:-1,BEIN SPORT EXTRA
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
@@ -222,6 +237,33 @@ http://31.220.41.88:8081/live/nl-foxsports6.stream/chunks.m3u8
 #EXTINF:-1,ESPN U
 https://gma2.blab.email/espnu.m3u8
 
+#EXTINF:-1, SPORT TV1
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:-1, SPORT TV1
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:-1, SPORT TV2
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1, SPORT TV2
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8?mvk
+
+#EXTINF:-1, SPORT TV2
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1, SPORT TV3
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+
+#EXTINF:-1, SPORT TV4
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+
+#EXTINF:-1, SPORT TV5
+https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+#EXTINF:-1, SPORT TV5
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+
 #EXTINF:-1,SUPER SPORTS 3
 http://51.89.195.111:8880/ss3/playlist.m3u8
 
@@ -260,33 +302,6 @@ https://95-213-224-183.livesports24.online/khlhdru.m3u8
 
 #EXTINF:-1, TEN SPORT
 http://42.201.228.226:8678/TENSPORT_EBRAVO_TV/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, SPORT TV1
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-
-#EXTINF:-1, SPORT TV1
-https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
-
-#EXTINF:-1, SPORT TV2
-http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
-
-#EXTINF:-1, SPORT TV2
-http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8?mvk
-
-#EXTINF:-1, SPORT TV2
-https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
-
-#EXTINF:-1, SPORT TV3
-http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
-
-#EXTINF:-1, SPORT TV4
-http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
-
-#EXTINF:-1, SPORT TV5
-https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
-
-#EXTINF:-1, SPORT TV5
-http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1,APEHA TV
 https://95-213-224-173.livesports24.online/rumatcharena.m3u8
@@ -393,6 +408,21 @@ http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a
 #EXTINF:-1, DEPORTES EURO
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
 
+#EXTINF:-1 ,Premier HD2
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1,Astro Supersport 1 
+http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
+
+#EXTINF:-1,Astro S-sport 2 
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+
+#EXTINF:-1,Astro Supersport 3 
+http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
+
+#EXTINF:-1,Astro Supersport 4 
+http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+
 #EXTINF:-1, TYC SPORTS
 https://bit.ly/tyc-lat?thejoelc
 
@@ -411,6 +441,15 @@ https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1, TNT SPORTS BRASIL 2
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
+#EXTINF:-1,TNT SPORTS 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+
+#EXTINF:-1,TNT SPORTS 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+
+#EXTINF:-1,TNT SPORTS 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
 #EXTINF:-1, ENGLISH PREMIER LEAGUE 
 https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 
@@ -420,8 +459,26 @@ http://g7.mazystreams.xyz/live/2/chunks.m3u8
 #EXTINF:-1, VAMOS
 http://212.224.98.211:2200/NL/vamoshd-esp/tracks-v1a1/mono.m3u8?token=
 
-#EXTINF:-1, VAMOSSKY NET SPORT 1
+#EXTINF:-1, SKY NET SPORT 1
 http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
+
+#EXTINF:-1, SKY NET SPORT HD 1
+http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
+
+#EXTINF:-1, SKY NET SPORT HD 2
+http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8
+
+#EXTINF:-1, SKY NET SPORT HD 3
+http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8
+
+#EXTINF:-1, SKY NET SPORT HD 4
+http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8
+
+#EXTINF:-1, SKY NET SPORT HD 5
+http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
+
+#EXTINF:-1, SKY NET SPORT HD 6
+http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
 
 #EXTINF:-1, LIVE SPORT
 https://wrtc552612.bigmarker.com/user-rtmp/a258272aff0d-c79b114a2ec89614e48ef70ea920203a.m3u8
