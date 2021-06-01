@@ -400,7 +400,7 @@ http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 
 #EXTINF:-1,FOX 2 SPORTS
-http://134.19.182.131:8080/edg2_2.m3u8
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
 
 #EXTINF:-1,FOX SPORTS 2
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
