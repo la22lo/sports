@@ -459,14 +459,17 @@ http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1,Astro Supersport 4 
 http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 
+#EXTINF:-1,THETHAO-HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
+
 #EXTINF:-1, TYC SPORTS
 https://bit.ly/tyc-lat?thejoelc
 
-#EXTINF:-1, TYC SPORTS VIVO
-https://bit.ly/tyc-lat?Jonyvaleng12
-
 #EXTINF:-1, TYC SPORTS PLAY
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
+
+#EXTINF:-1, TYC SPORTS VIVO
+https://d3awnlgqz0szay.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
 
 EXTINF:-1, TYC SPORTS PLAY 5
 https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8
@@ -644,6 +647,9 @@ http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
 
 #EXTINF:-1, TRUE SPORT 3
 http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1, TRUE PREMIER 2
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 
 #EXTINF:-1, OMAN SPORT
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
