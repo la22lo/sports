@@ -48,13 +48,13 @@ https://95-213-224-186.livesports24.online/setantaplusru.m3u8
 #EXTINF:-1, SETANTA SPORT UCRANIA
 https://95-213-224-183.livesports24.online/setantaukraine.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",Setanta Sport Ukraine
+#EXTINF:-1, Setanta Sport Ukraine
 https://95-213-224-181.livesports24.online/setantaukraine.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",Setanta Sport 1
+#EXTINF:-1, Setanta Sport 1
 https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",Setanta Sport 2
+#EXTINF:-1, Setanta Sport 2
 https://95-213-224-181.livesports24.online/setantaplusru.m3u8
 
 #EXTINF:-1, BT SPORT 1
@@ -195,7 +195,7 @@ http://37.99.5.237:80/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8
 #EXTINF:-1,QAZSPORT 
 http://92.46.127.146:8080/qazsport/index.m3u8
 
-#EXTINF:-1 group-title="Спорт",QAZsport
+#EXTINF:-1, QAZsport
 http://92.46.127.146:8080/qazsport/index.m3u8
 
 #EXTINF:-1,ESPN 1
@@ -591,10 +591,10 @@ https://185-198-56-58.livesports24.online/belarusss5.m3u8
 #EXTINF:-1, BELARUS 5 SD
 https://95-213-224-180.livesports24.online/belarusss5.m3u8
 
-#EXTINF:-1 group-title="Спорт",BELARUS 5 SD
+#EXTINF:-1, BELARUS 5 SD
 http://persik.by/stream/6696/480248/932.m3u8
 
-#EXTINF:-1 group-title="Спорт",BELARUS 5 HD
+#EXTINF:-1, BELARUS 5 HD
 http://persik.by/stream/6696/480248/10408.m3u8
 
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL
@@ -663,7 +663,7 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF:-1, VIASAT SPORT
 http://46.174.189.51/ViasatSport9/index.m3u8
 
-#EXTINF:-1 group-title="Спорт",FootballHub
+#EXTINF:-1, FootballHub
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
 #EXTINF:-1, Sport 1+1 HD
@@ -684,7 +684,7 @@ https://alchimie-mmatv-3-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,Sport 1 Ukraine
 https://95-213-224-183.livesports24.online/sport1ua.m3u8
 
-#EXTINF:-1 group-title="Спорт",КХЛ SD
+#EXTINF:-1, КХЛ SD
 http://persik.by/stream/6696/480248/604.m3u8
 
 #EXTINF:-1, BEK SPORTS
