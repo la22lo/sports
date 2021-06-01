@@ -357,6 +357,9 @@ https://95-213-224-179.livesports24.online/fooootball2.m3u8
 #EXTINF:-1,FOOTBALLUA 3
 https://95-213-172-220.livesports24.online/football3ua.m3u8
 
+#EXTINF:-1,	ФУТБОЛ 3
+https://sportuslive.ru/ua3/index.m3u8
+
 #EXTINF:-1,TRT 3 SPORT
 https://tv-trt3.live.trt.com.tr/master_720.m3u8
 
@@ -716,6 +719,9 @@ https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w192207
 
 #EXTINF:-1, WILLOW HD
 http://oqab.life:8080/live/8181/8181/242.m3u8
+
+#EXTINF:-1, SPORT EN FRANCE
+https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
