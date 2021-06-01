@@ -636,6 +636,12 @@ https://playoutengine.sinclairstoryline.com/playout/b287bd53-b70f-4b04-9096-10a5
 #EXTINF:-1, TENNIS COURT 9
 https://playoutengine.sinclairstoryline.com:443/playout/202886a0-38bf-4470-9043-6f7e3750a5cf/g.m3u8
 
+#EXTINF:-1, TENNIS COURT 10
+https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f.m3u8
+
+#EXTINF:-1, TENNIS COURT 12
+https://playoutengine.sinclairstoryline.com/playout/c46b6ddd-59f0-475d-9f28-08e382d570d0.m3u8
+
 #EXTINF:-1, TSN 3
 http://77.247.109.94/hls/n1.m3u8
 
