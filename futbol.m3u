@@ -63,14 +63,11 @@ http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1, BT SPORT 2 HD
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 
-#EXTINF:-1, BT SPORT 2
-http://77.247.109.111/hls/A2.m3u8?thejoelc
-
-#EXTINF:-1, BT SPORT 3
-http://31.220.41.88:8081/live/bt33.stream/playlist.m3u8
-
 #EXTINF:-1, RMC SPORT 1
 https://22live00.akamaized.net/RMC_Sports_1/index.m3u8
+
+#EXTINF:-1, RMC SPORT 2
+https://22live00.akamaized.net/RMC_Sports_2/index.m3u8
 
 #EXTINF:-1,EUROSPORT
 http://91.126.141.201:1935/live/eurosport1nntv/chunklist_w65928025.m3u8
@@ -81,38 +78,14 @@ http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
 #EXTINF:-1,EUROSPORT ESPAÑOL
 http://91.126.141.201:1935/live/eurosport1nntv/chunklist_w65928025.m3u8
 
-#EXTINF:-1,EUROSPORT
-http://46.174.189.51/Eurosport1/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1,EUROSPORT 2
 http://77.83.117.60:8888/02_EUROHD2_720p/chunklist.m3u8
-
-#EXTINF:-1,EUROSPORT 2
-http://46.174.189.51/Eurosport2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,LA LIGA TV
-http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=laliga&f=.m3u8
-
-#EXTINF:-1, MOVISTAR LALIGA
-http://209.205.221.74:130/R3$3202/3R1W3$32/1618_.m3u8
-
-#EXTINF:-1, MOVISTAR LALIGA
-http://31.220.41.87:8081/live/bein-laliga.stream/playlist.m3u8
-
-#EXTINF:-1, MOVISTAR LALIGA
-http://209.205.221.74:130/R3$3202/3R1W3$32/1618_.m3u8
-
-#EXTINF:-1, MOVISTAR LALIGA
-http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
 
 #EXTINF:-1, MOVISTAR LALIGA
 http://l3d.us:8080/live/agustintrejo/HnGuHuND6c/157373.m3u8
 
 #EXTINF:-1, MOVISTAR LALIGA
-http://209.126.119.148:25461/live/a17e187d2bd546ef98a43e2096430d06/86b7e3d3a463492890a21b408c87b172/172.m3u8
-
-#EXTINF:-1, M Liga Campeones
-http://209.205.221.74:130/R3$3202/3R1W3$32/1615_.m3u8
+https://www.streamaway.net/fra/frpx/frprx.php/Z2x5cGV8fGh0dHBzOi8vcHJveHkubG9naXN0ZWYuZnIvYnJvd3NlLnBocD91PQ==/31.220.41.87:8081/live/es-laligatvbar.stream/playlist.m3u8
 
 #EXTINF:-1, MOVISTAR DEPORTES
 http://212.224.98.204:2200/NL/mdeporteshd-esp/tracks-v1a1/mono.m3u8?token=RED_8EZnzwaUl4GQNL0rGODOHw==,1621585279.5409016371
@@ -123,15 +96,6 @@ http://185.180.15.16:2200/NL/mdeporteshd-esp/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:-1, MOVISTAR DEPORTES III
 https://www.streamaway.net/fra/frpx/frprx.php/Z2x5cGV8fGh0dHBzOi8vcHJveHkubG9naXN0ZWYuZnIvYnJvd3NlLnBocD91PQ==/31.220.41.90:8081/live/es-movistar-deportes.stream/chunks.m3u8
 
-#EXTINF:-1, MOVISTAR LALIGA
-https://www.streamaway.net/fra/frpx/frprx.php/Z2x5cGV8fGh0dHBzOi8vcHJveHkubG9naXN0ZWYuZnIvYnJvd3NlLnBocD91PQ==/31.220.41.87:8081/live/es-laligatvbar.stream/playlist.m3u8
-
-#EXTINF:-1, DAZN 1
-http://31.220.41.87:8081/live/es-moviestarf1.stream/playlist.m3u8
-
-#EXTINF:-1, DAZN 2
-http://31.220.41.87:8081/live/it-dazn1.stream/chunks.m3u8
-
 #EXTINF:-1, DAZN
 http://212.224.98.207:2200/NL/dazn1hd-esp/mono.m3u8?token=🇪🇦
 
@@ -140,6 +104,12 @@ http://212.224.98.209:2200/NL/dazn4hd-esp/tracks-v1a1/mono.m3u8?token=RED_peA0ET
 
 #EXTINF:-1, DAZN
 http://212.224.98.207:2200/NL/dazn1hd-esp/mono.m3u8?token=RED_vLBBLbt60zMRVtx4ywGAMQ==,1622194099.2069343128?thejoelc
+
+#EXTINF:-1, DAZN 1
+http://31.220.41.87:8081/live/es-moviestarf1.stream/playlist.m3u8
+
+#EXTINF:-1, DAZN 2
+http://31.220.41.87:8081/live/it-dazn1.stream/chunks.m3u8
 
 #EXTINF:-1, BEIN SPORTS 1
 https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
@@ -204,35 +174,14 @@ http://134.19.182.131:8080/edg4_2.m3u8
 #EXTINF:-1,ESPN 2
 http://134.19.182.131:8080/edg3_2.m3u8?SBN
 
-#EXTINF:-1,ESPN MLB
-http://balancer1.ottmex.com:8081/tecno/Espn1.BKR/chunks.m3u8
-
 #EXTINF:-1,ESPN
 http://134.19.182.131:8080/edg3_2.m3u8
 
-#EXTINF:-1,ESPN
+#EXTINF:-1,ESPN FUTBOL
 https://qlobbidev.s.llnwi.net/bpk-tv/ESPN/hls/index.m3u8
-
-#EXTINF:-1,ESPN
-http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=espn1mx&f=.m3u8
-
-#EXTINF:-1,ESPN NBA 1
-https://gma2.blab.email/fs2.m3u8
 
 #EXTINF:-1,ESPN NBA 2
 http://164.68.124.111/espn2.m3u8?token=null
-
-#EXTINF:-1,ESPN VIVO
-https://google-br.cdn.booyah.live/hls/1000048/61110961.m3u8
-
-#EXTINF:-1,ESPN BRASIL
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
-
-#EXTINF:-1,ESPN PGA
-http://acvlzxxmvr.chickenkiller.com/fs2.m3u8
-
-#EXTINF:-1,PGA ESPN
-https://gma2.blab.email/fs2.m3u8
 
 #EXTINF:-1,ESPN 2
 https://gma2.blab.email/espn2.m3u8
@@ -243,14 +192,8 @@ http://134.19.182.131:8080/edg2_2.m3u8
 #EXTINF:-1,ESPN 
 http://134.19.182.131:8080/edg7_2.m3u8
 
-#EXTINF:-1,ESPN VIVO
-https://abr-f.eu-central-1.edge.mycdn.live/eiplus/3e41bee9a15d01e9d1ed5a74416f402e/playlist.m3u8
-
 #EXTINF:-1,ESPN NCAF
 https://120sports-accdn-1.plex.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1,ESPN 6
-http://31.220.41.88:8081/live/nl-foxsports6.stream/chunks.m3u8
 
 #EXTINF:-1,ESPN U
 https://gma2.blab.email/espnu.m3u8
@@ -285,21 +228,6 @@ http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1,SUPER SPORTS 3
 http://51.89.195.111:8880/ss3/playlist.m3u8
 
-#EXTINF:-1, YALLA LIVE (ARABE)
-http://matiasstornini00.shortcm.li/shio1.m3u8?thejoel
-
-#EXTINF:-1, YALLA LIVE PREMIUM (ARABE)
-https://d1i89bk0uv5wap.cloudfront.net/out/v1/e70d2c04f4ab4f23aef5b565a45f0971/index.m3u8
-
-#EXTINF:-1, YALLA LIVE PREMIUM HD (ARABE)
-https://d1i89bk0uv5wap.cloudfront.net:443/out/v1/e70d2c04f4ab4f23aef5b565a45f0971/index_2.m3u8
-
-#EXTINF:-1, YALLA LIVE PREMIUM (ARABE)
-https://d32rnlt7udit.cloudfront.net:443/out/v1/1dc1b4c9726d41e8a482877f4a597d50/index_2.m3u8
-
-#EXTINF:-1, DIRECT SPORT
-http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=directv&f=.m3u8
-
 #EXTINF:-1, DIRECT SPORT
 http://l3d.us:8080/live/agustintrejo/HnGuHuND6c/11025.m3u8
 
@@ -308,30 +236,6 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 
 #EXTINF:-1, ELEVEN SPORT 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, Футбол 1 UA
-https://46-166-139-84.livesports24.online/uafootballua1.m3u8
-
-#EXTINF:-1, Футбол 2 UA
-https://95-213-224-176.livesports24.online/fooootball2.m3u8
-
-#EXTINF:-1,Футбол 1
-https://sportuslive.ru/ua1/index.m3u8
-
-#EXTINF:-1,Футбол 1
-https://95-213-224-187.livesports24.online/uafootballua1.m3u8?989839018244a
-
-#EXTINF:-1,Футбол 2
-https://95-213-224-187.livesports24.online/fooootball2.m3u8
-
-#EXTINF:-1,Футбол 2 HD
-https://46-21-250-207.livesports24.online/fooootball2.m3u8
-
-#EXTINF:-1,Футбол 3
-https://95-213-224-187.livesports24.online/football3ua.m3u8?989839018244a
-
-#EXTINF:-1,Футбол 3 HD
-https://46-21-250-207.livesports24.online/football3ua.m3u8
 
 #EXTINF:-1, КХЛ HD
 https://95-213-224-183.livesports24.online/khlhdru.m3u8
@@ -378,20 +282,11 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4medium.
 #EXTINF:-1,EPT SPORTS 5
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_5/ert_sports_5medium.m3u8
 
-#EXTINF:-1,TSN4
-http://77.247.109.94/hls/T2.m3u8?SBN
-
 #EXTINF:-1,FOX SPORTS USA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
 
 #EXTINF:-1,FOX SPORTS VIVO
 http://212.224.98.206:2200/BR/Fox_Sports_HD-br/tracks-v1a1/mono.m3u8?token=RED_1-jcnMySirZA5OeXJYd2AA%3D%3D%2C1622070983.4667790476
-
-#EXTINF:-1,FOX SPORTS LIVE
-https://akamai2-br.cdn.booyah.live/hls/1000009/60397402.m3u8
-
-#EXTINF:-1,FOX SPORTS VIVO
-https://bit.ly/3oUmpjp?thejoelc.m3u8
 
 #EXTINF:-1,FOX SPORTS
 http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
@@ -414,20 +309,8 @@ http://134.19.182.131:8080/edg15_2.m3u8
 #EXTINF:-1,FOX SPORTS ASIA 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
 
-#EXTINF:-1,FOX SPORTS PREMIUM
-http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=foxsportp&f=.m3u8
-
 #EXTINF:-1,GOL TELEVISION
 https://api.goltelevision.com/api/v1/stream/live/stream.m3u8
-
-#EXTINF:-1,GOL TELEVISION 2
-http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8
-
-#EXTINF:-1,GOL TV
-http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8?mvk
-
-#EXTINF:-1, SKY SPORTS
-http://g7.mazystreams.xyz/live/6/chunks.m3u8
 
 #EXTINF:-1, SKY NET SPORTS
 http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
@@ -437,9 +320,6 @@ https://www.streamaway.net/fra/frpx/frprx.php/Z2x5cGV8fGh0dHBzOi8vcHJveHkubG9naX
 
 #EXTINF:-1, SKY SPORTS 24
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
-
-#EXTINF:-1, SKY SPORTS 1 BUNDESLIGA
-http://31.220.41.88:8081/live/de-skybundes1.stream/playlist.m3u8?per
 
 #EXTINF:-1, CANAL PLUS HD
 http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
@@ -465,18 +345,6 @@ http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF:-1,THETHAO-HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 
-#EXTINF:-1, TYC SPORTS
-https://bit.ly/tyc-lat?thejoelc
-
-#EXTINF:-1, TYC SPORTS PLAY
-https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
-
-#EXTINF:-1, TYC SPORTS VIVO
-https://d3awnlgqz0szay.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
-
-EXTINF:-1, TYC SPORTS PLAY 5
-https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8
-
 #EXTINF:-1, TNT SPORTS BRASIL 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 
@@ -494,9 +362,6 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 #EXTINF:-1, ENGLISH PREMIER LEAGUE 
 https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-
-#EXTINF:-1, PREMIER SPORTS 2
-http://g7.mazystreams.xyz/live/2/chunks.m3u8
 
 #EXTINF:-1, VAMOS
 http://212.224.98.211:2200/NL/vamoshd-esp/tracks-v1a1/mono.m3u8?token=
@@ -521,9 +386,6 @@ http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
 
 #EXTINF:-1, SKY NET SPORT HD 6
 http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
-
-#EXTINF:-1, LIVE SPORT
-https://wrtc552612.bigmarker.com/user-rtmp/a258272aff0d-c79b114a2ec89614e48ef70ea920203a.m3u8
 
 #EXTINF:-1, K SPORT 1
 http://93.157.62.180/KSport1/index.m3u8
@@ -558,9 +420,6 @@ https://cdn1.mobiletv.bg/T7/novasport/ns_794613_850k.m3u8
 #EXTINF:-1, BAHRAIN SPORTS
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
 
-#EXTINF:-1, ARRIADIA (MARRUECOS)
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-
 #EXTINF:-1, ARMENIA TV
 http://ott-cdn.ucom.am/s4/04.m3u8
 
@@ -572,9 +431,6 @@ https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist
 
 #EXTINF:-1, CCTV5
 http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
-
-#EXTINF:-1, TVC DEPORTES
-http://ipeteve.com/php/SR_REGIO_0965/regio22.php?c=tvcdep&f=.m3u8
 
 #EXTINF:-1, SPORTS CHANNEL NETWORK
 https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8 
@@ -593,12 +449,6 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
 #EXTINF:-1, KBP SPORT
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-
-#EXTINF:-1, 5 SPORTS
-https://185-198-56-58.livesports24.online/belarusss5.m3u8
-
-#EXTINF:-1, BELARUS 5 SD
-https://95-213-224-180.livesports24.online/belarusss5.m3u8
 
 #EXTINF:-1, BELARUS 5 SD
 http://persik.by/stream/6696/480248/932.m3u8
@@ -642,14 +492,8 @@ https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e086
 #EXTINF:-1, TENNIS COURT 12
 https://playoutengine.sinclairstoryline.com/playout/c46b6ddd-59f0-475d-9f28-08e382d570d0.m3u8
 
-#EXTINF:-1, TSN 3
-http://77.247.109.94/hls/n1.m3u8
-
 #EXTINF:-1, ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-
-#EXTINF:-1, TVP SPORTS
-http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, TRUE SPORT
 http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
@@ -681,9 +525,6 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m
 #EXTINF:-1, FOX SPORT AUSTRALIA
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
-#EXTINF:-1, VIASAT SPORT
-http://46.174.189.51/ViasatSport9/index.m3u8
-
 #EXTINF:-1, FootballHub
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
@@ -701,9 +542,6 @@ http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
 #EXTINF:-1, MMA TV 
 https://alchimie-mmatv-3-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 ,Sport 1 Ukraine
-https://95-213-224-183.livesports24.online/sport1ua.m3u8
 
 #EXTINF:-1, КХЛ SD
 http://persik.by/stream/6696/480248/604.m3u8
@@ -723,14 +561,8 @@ https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 #EXTINF:-1, SWISS SPORT TV
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
 
-#EXTINF:-1, WILLOW HD
-http://oqab.life:8080/live/8181/8181/242.m3u8
-
 #EXTINF:-1, SPORT EN FRANCE
 https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1,TVRI SPORT
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:-1, PLUTO TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d533-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=04baab3a-5f85-4e2b-9112-e0c2b16014ce&userId=&serverSideAds=true
