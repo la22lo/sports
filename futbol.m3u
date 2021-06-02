@@ -417,6 +417,9 @@ http://149.255.152.66:8080/asporhd/index.m3u8
 #EXTINF:-1, NOVA SPORTS LIVE
 https://cdn1.mobiletv.bg/T7/novasport/ns_794613_850k.m3u8
 
+#EXTINF:-1, NOVA SPORTS 1
+https://nova-live.ssl.cdn.cra.cz/channels/nova-sport1/playlist/cze/live_hq.m3u8
+
 #EXTINF:-1, BAHRAIN SPORTS
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
 
