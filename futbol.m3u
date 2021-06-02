@@ -438,6 +438,9 @@ http://ott-cdn.ucom.am/s4/04.m3u8
 #EXTINF:-1, PREMIUM ARMENIA TV
 http://ott-cdn.ucom.am/s83/03.m3u8
 
+#EXTINF:-1, VIASAT 
+https://persik.tv/stream/3602/287583/10249.m3u8
+
 #EXTINF:-1, DUBAI SPORTS
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 
