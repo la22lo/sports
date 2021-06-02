@@ -219,6 +219,9 @@ http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1, SPORT TV4
 http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
 
+#EXTINF:-1, SPORT TV4
+https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+
 #EXTINF:-1, SPORT TV5
 https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 
@@ -236,6 +239,9 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 
 #EXTINF:-1, ELEVEN SPORT 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, DIRECT TV SPORT
+https://akamai2-br.cdn.booyah.live/hls/1000086/63358219.m3u8
 
 #EXTINF:-1, КХЛ HD
 https://95-213-224-183.livesports24.online/khlhdru.m3u8
@@ -263,6 +269,9 @@ https://95-213-172-220.livesports24.online/football3ua.m3u8
 
 #EXTINF:-1,	ФУТБОЛ 3
 https://sportuslive.ru/ua3/index.m3u8
+
+#EXTINF:-1,	ITV
+http://streaming-cdn-2.sp0n.io/live/k1/.m3u8
 
 #EXTINF:-1,TRT 3 SPORT
 https://tv-trt3.live.trt.com.tr/master_720.m3u8
@@ -312,6 +321,9 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
 #EXTINF:-1,GOL TELEVISION
 https://api.goltelevision.com/api/v1/stream/live/stream.m3u8
 
+#EXTINF:-1, SKY SPORTS PREMIERE LEAGUE LIVE
+http://uk5.mazystreams.xyz/live/5/playlist.m3u8
+
 #EXTINF:-1, SKY NET SPORTS
 http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
 
@@ -320,6 +332,9 @@ https://www.streamaway.net/fra/frpx/frprx.php/Z2x5cGV8fGh0dHBzOi8vcHJveHkubG9naX
 
 #EXTINF:-1, SKY SPORTS FUTBOL LINE
 http://streaming-cdn-2.sp0n.io/live/k1/chunklist.m3u8
+
+#EXTINF:-1, SKY SPORTS FUTBOL LINE
+http://streaming-cdn-2.sp0n.io/live/k1/.m3u8
 
 #EXTINF:-1, NEXT FOOTBALL
 http://134.19.182.131:8080/edg5_2.m3u8
@@ -374,6 +389,9 @@ https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 
 #EXTINF:-1, VAMOS
 http://212.224.98.211:2200/NL/vamoshd-esp/tracks-v1a1/mono.m3u8?token=
+
+#EXTINF:-1, VAMOS
+http://212.224.98.211:2200/NL/vamoshd-esp/tracks-v1a1/mono.m3u8?token=RED_og6o7Dzc7rw253S0lwnIwA%3D%3D%2C1622223884.0098650413
 
 #EXTINF:-1, SKY NET SPORT 1
 http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
