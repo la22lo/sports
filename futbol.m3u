@@ -318,6 +318,12 @@ http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
 #EXTINF:-1, SKY SPORTS
 https://www.streamaway.net/fra/frpx/frprx.php/Z2x5cGV8fGh0dHBzOi8vcHJveHkubG9naXN0ZWYuZnIvYnJvd3NlLnBocD91PQ==/31.220.41.87:8081/live/skysportsf1.stream/playlist.m3u8
 
+#EXTINF:-1, SKY SPORTS FUTBOL LINE
+http://streaming-cdn-2.sp0n.io/live/k1/chunklist.m3u8
+
+#EXTINF:-1, NEXT FOOTBALL
+http://134.19.182.131:8080/edg5_2.m3u8
+
 #EXTINF:-1, SKY SPORTS 24
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 
@@ -335,6 +341,9 @@ http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
 
 #EXTINF:-1,Astro S-sport 2 
 http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+
+#EXTINF:-1,Astro S-sport 2 
+http://streaming-cdn-2.sp0n.io/live/k2/chunklist.m3u8
 
 #EXTINF:-1,Astro Supersport 3 
 http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
