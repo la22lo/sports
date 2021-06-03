@@ -103,6 +103,12 @@ http://77.83.117.60:8888/02_EUROHD2_720p/chunklist.m3u8
 http://l3d.us:8080/live/agustintrejo/HnGuHuND6c/157373.m3u8
 
 #EXTINF:-1, MOVISTAR LALIGA
+http://209.205.221.74:130/R3$3202/3R1W3$32/1623_.m3u8
+
+#EXTINF:-1, MOVISTAR LALIGA
+http://l3d.us:8080/live/agustintrejo/HnGuHuND6c/157373.m3u8
+
+#EXTINF:-1, MOVISTAR LALIGA
 https://www.streamaway.net/fra/frpx/frprx.php/Z2x5cGV8fGh0dHBzOi8vcHJveHkubG9naXN0ZWYuZnIvYnJvd3NlLnBocD91PQ==/31.220.41.87:8081/live/es-laligatvbar.stream/playlist.m3u8
 
 #EXTINF:-1, MOVISTAR DEPORTES
