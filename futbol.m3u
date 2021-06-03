@@ -270,6 +270,9 @@ https://95-213-172-220.livesports24.online/football3ua.m3u8
 #EXTINF:-1,	ITV
 http://streaming-cdn-2.sp0n.io/live/k1/.m3u8
 
+#EXTINF:-1,	FS2 LIVE
+http://134.19.182.131:8080/edg15_2.m3u8
+
 #EXTINF:-1,TRT 3 SPORT
 https://tv-trt3.live.trt.com.tr/master_720.m3u8
 
