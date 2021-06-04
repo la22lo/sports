@@ -420,6 +420,9 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1, ENGLISH PREMIER LEAGUE 
 https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 
+#EXTINF:-1, TIGO SPORTS
+https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_6.m3u8 
+
 #EXTINF:-1, VAMOS
 http://212.224.98.211:2200/NL/vamoshd-esp/tracks-v1a1/mono.m3u8?token=
 
@@ -479,6 +482,9 @@ https://cdn1.mobiletv.bg/T7/novasport/ns_794613_850k.m3u8
 
 #EXTINF:-1, NOVA SPORTS 1
 https://nova-live.ssl.cdn.cra.cz/channels/nova-sport1/playlist/cze/live_hq.m3u8
+
+#EXTINF:-1, NOVA SPORTS 2
+https://nova-live.ssl.cdn.cra.cz/channels/nova-sport2/playlist/cze/live_hq.m3u8
 
 #EXTINF:-1, BAHRAIN SPORTS
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
