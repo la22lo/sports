@@ -381,6 +381,9 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1,FOX 3 SPORTS 
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist.m3u8
 
+#EXTINF:-1,FOX 3 SPORTS
+https://qlobbidev.s.llnwi.net/bpk-tv/FOXSPORT3/hls/index.m3u8
+
 #EXTINF:-1,FOX SOCCER PLUS
 http://134.19.182.131:8080/edg15_2.m3u8
 
