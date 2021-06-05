@@ -213,6 +213,9 @@ http://164.68.124.111/espn2.m3u8?token=null
 #EXTINF:-1,ESPN 2
 https://gma2.blab.email/espn2.m3u8
 
+#EXTINF:-1,ESPN 2
+https://qlobbidev.s.llnwi.net/bpk-tv/ESPN2/hls/index.m3u8
+
 #EXTINF:-1,ESPN VIVO
 http://134.19.182.131:8080/edg2_2.m3u8
 
@@ -224,6 +227,9 @@ https://120sports-accdn-1.plex.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,ESPN U
 https://gma2.blab.email/espnu.m3u8
+
+#EXTINF:-1,ESPN NBA
+http://acvlzxxmvr.chickenkiller.com/fs2.m3u8
 
 #EXTINF:-1, SPORT TV1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
