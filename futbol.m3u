@@ -264,6 +264,18 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1, ELEVEN SPORT 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, FUTBOL 1
+http://134.19.182.131:8080/edg2_2.m3u8
+
+#EXTINF:-1, FUTBOL 2
+http://134.19.182.131:8080/edg5_2.m3u8
+
+#EXTINF:-1, FUTBOL 3
+http://134.19.182.131:8080/edg3_2.m3u8
+
+#EXTINF:-1, FUTBOL 4
+http://134.19.182.131:8080/edg4_2.m3u8
+
 #EXTINF:-1, КХЛ HD
 https://95-213-224-183.livesports24.online/khlhdru.m3u8
 
