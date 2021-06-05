@@ -402,6 +402,9 @@ http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
 #EXTINF:-1, SKY SPORTS
 https://www.streamaway.net/fra/frpx/frprx.php/Z2x5cGV8fGh0dHBzOi8vcHJveHkubG9naXN0ZWYuZnIvYnJvd3NlLnBocD91PQ==/31.220.41.87:8081/live/skysportsf1.stream/playlist.m3u8
 
+#EXTINF:-1, SKY SPORTS
+http://31.220.41.86:8081/live/skysportsf1.stream/playlist.m3u8
+
 #EXTINF:-1, NEXT FOOTBALL
 http://134.19.182.131:8080/edg5_2.m3u8
 
