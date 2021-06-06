@@ -138,6 +138,9 @@ http://212.224.98.209:2200/NL/dazn4hd-esp/tracks-v1a1/mono.m3u8?token=RED_peA0ET
 #EXTINF:-1, DAZN
 http://212.224.98.207:2200/NL/dazn1hd-esp/mono.m3u8?token=RED_vLBBLbt60zMRVtx4ywGAMQ==,1622194099.2069343128?thejoelc
 
+#EXTINF:-1, DAZN
+http://209.205.221.74:130/R3$3202/3R1W3$32/1613_.m3u8
+
 #EXTINF:-1, DAZN 1
 http://31.220.41.87:8081/live/es-moviestarf1.stream/playlist.m3u8
 
@@ -606,6 +609,12 @@ https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e086
 #EXTINF:-1, TENNIS COURT 12
 https://playoutengine.sinclairstoryline.com/playout/c46b6ddd-59f0-475d-9f28-08e382d570d0.m3u8
 
+#EXTINF:-1, SPORT PORTAL 1
+https://sportportal1.akamaized.net/hls/live/702647/itvlive/ITV4PORTAL2/master.m3u8
+
+#EXTINF:-1, MOTOMUNDO BRASIL
+https://lon-haproxy.angelthump.com/hls/NjBiYzlmZGZkNjkyMzIyODJmZmMwMDE1/index.m3u8
+
 #EXTINF:-1, ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
@@ -698,6 +707,9 @@ http://91.126.141.13:1935/live/51/playlist.m3u8
 
 #EXTINF:-1, TV1
 https://rtvelivestream.akamaized.net/la1_main_dvr.m3u8
+
+#EXTINF:-1, TELEDEPORTE
+https://rtvelivestream.akamaized.net/tdp_main.m3u8
 
 #EXTINF:-1, CICLISMO ESUKERA (EITB)
 https://live-dvr.eitb-fastly.cross-media.es/live-content/oka2hd-hls/bitrate_4.m3u8
