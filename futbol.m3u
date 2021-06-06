@@ -78,6 +78,9 @@ https://95-213-172-220.livesports24.online/football3ua.m3u8
 #EXTINF:-1, BT SPORT 1
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 
+#EXTINF:-1, BT SPORT 1 HD LIVE
+http://watch.myislandtv.xyz:8080/live/Manny123/Manny123/2143.m3u8
+
 #EXTINF:-1, BT SPORT 2 HD
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 
@@ -453,6 +456,9 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1,TNT SPORTS 5
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
+#EXTINF:-1,TSN 2 HD
+http://watch.myislandtv.xyz:8080/live/Manny123/Manny123/2030.m3u8
+
 #EXTINF:-1, ENGLISH PREMIER LEAGUE 
 https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 
@@ -570,10 +576,10 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1, TENNIS CHANNEL
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 
-#EXTINF:-1, TENNIS CHANNEL PLUS
+#EXTINF:-1, TENNIS CHANNEL PLUS COURT 1
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 
-#EXTINF:-1, TENNIS CHANNEL PLUS
+#EXTINF:-1, TENNIS CHANNEL PLUS COURT 2
 https://playoutengine.sinclairstoryline.com:443/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
 
 #EXTINF:-1, TENNIS COURT 4
