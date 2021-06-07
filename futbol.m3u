@@ -210,6 +210,9 @@ http://134.19.182.131:8080/edg3_2.m3u8?SBN
 #EXTINF:-1,ESPN
 http://134.19.182.131:8080/edg3_2.m3u8
 
+#EXTINF:-1,ESPN
+https://abr-f.eu-central-1.edge.mycdn.live/eiplus/3e41bee9a15d01e9d1ed5a74416f402e/playlist.m3u8
+
 #EXTINF:-1,ESPN FUTBOL
 https://qlobbidev.s.llnwi.net/bpk-tv/ESPN/hls/index.m3u8
 
