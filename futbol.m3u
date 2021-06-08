@@ -276,6 +276,9 @@ http://134.19.182.131:8080/edg3_2.m3u8
 #EXTINF:-1, FUTBOL 4
 http://134.19.182.131:8080/edg4_2.m3u8
 
+#EXTINF:-1, FUTBOL 5
+http://134.19.182.131:8080/edg7_2.m3u8
+
 #EXTINF:-1, КХЛ HD
 https://95-213-224-183.livesports24.online/khlhdru.m3u8
 
