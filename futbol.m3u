@@ -36,6 +36,9 @@ http://92.43.140.200/s82/04.m3u8
 #EXTINF:-1, SETANTA SPORT 1 LIVE
 http://ott-cdn.ucom.am/s81/index.m3u8
 
+#EXTINF:-1, SETANTA SPORT 1 LIVE
+http://ott-cdn.ucom.am/s81/03.m3u8
+
 #EXTINF:-1, SETANTA SPORT 2 LIVE
 http://ott-cdn.ucom.am/s82/index.m3u8
 
