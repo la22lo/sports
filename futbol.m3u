@@ -105,6 +105,9 @@ https://www.streamaway.net/fra/frpx/frprx.php/Z2x5cGV8fGh0dHBzOi8vcHJveHkubG9naX
 #EXTINF:-1, MOVISTAR LIGA CAMPEONES
 http://212.224.98.213:2200/NL/mlcampeonhd-esp/tracks-v1a1/mono.m3u8?token=RED_rOEySpRwcHBUZzNjM3Ohfg%3D%3D%2C1622868670.2903705673
 
+#EXTINF:-1, MOVISTAR LIGA CAMPEONES
+http://xdo.akchatix.pro:8080/live/00:1A:79:16:FB:8E/ziajdjjfdifjd64646/38440.m3u8
+
 #EXTINF:-1, DAZN
 http://212.224.98.207:2200/NL/dazn1hd-esp/mono.m3u8?token=🇪🇦
 
