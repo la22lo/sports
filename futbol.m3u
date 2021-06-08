@@ -273,6 +273,9 @@ https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1, SPORT TV5
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 
+#EXTINF:-1, SPORT TV
+https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
+
 #EXTINF:-1,SUPER SPORTS 3
 http://51.89.195.111:8880/ss3/playlist.m3u8
 
@@ -503,6 +506,9 @@ http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
 
 #EXTINF:-1, SKY NET SPORT HD 6
 http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
+
+#EXTINF:-1, SKY SPORT
+http://london.mazystreams.xyz/live/2/chunks.m3u8
 
 #EXTINF:-1, K SPORT 1
 http://93.157.62.180/KSport1/index.m3u8
