@@ -18,8 +18,11 @@ https://185-106-121-101.livesports24.online/rumatchf3.m3u8
 #EXTINF:-1, CANAL RUSO 6 (Футбол 2)
 https://95-213-224-173.livesports24.online/mfootball2rus.m3u8
 
-#EXTINF:-1, CANAL RUSO7 (Матч! NPEMBEP)
+#EXTINF:-1, CANAL RUSO 7 (Матч! NPEMBEP)
 https://46-21-250-207.livesports24.online/mpremierrus.m3u8
+
+#EXTINF:-1, CANAL RUSO 8 (Матч!)
+https://95-213-224-173.livesports24.online/ooomatch.m3u8
 
 #EXTINF:-1, SETANTA SPORT 1
 https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
@@ -94,6 +97,9 @@ http://77.83.117.60:8888/02_EUROHD2_720p/chunklist.m3u8
 http://209.205.221.74:130/R3$3202/3R1W3$32/1623_.m3u8
 
 #EXTINF:-1, MOVISTAR LALIGA
+http://209.205.221.74:130/R3$3202/3R1W3$32/1620_.m3u8
+
+#EXTINF:-1, MOVISTAR LALIGA
 https://www.streamaway.net/fra/frpx/frprx.php/Z2x5cGV8fGh0dHBzOi8vcHJveHkubG9naXN0ZWYuZnIvYnJvd3NlLnBocD91PQ==/31.220.41.87:8081/live/es-laligatvbar.stream/playlist.m3u8
 
 #EXTINF:-1, MOVISTAR DEPORTES
@@ -143,6 +149,9 @@ http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8?thejoelc
 
 #EXTINF:-1, BEIN SPORT ENGLISH
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+
+#EXTINF:-1, BEIN SPORT ENGLISH
+https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 
 #EXTINF:-1, BEIN PREMIUM 1
 http://31.220.41.88:8081/live/bein9.stream/playlist.m3u8
@@ -281,6 +290,9 @@ http://134.19.182.131:8080/edg4_2.m3u8
 
 #EXTINF:-1, FUTBOL 5
 http://134.19.182.131:8080/edg7_2.m3u8
+
+#EXTINF:-1, FUTBOL 6
+http://51.89.195.111:8880/ss2/playlist.m3u8
 
 #EXTINF:-1, КХЛ HD
 https://95-213-224-183.livesports24.online/khlhdru.m3u8
