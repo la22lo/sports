@@ -210,6 +210,9 @@ https://abr-f.eu-central-1.edge.mycdn.live/eiplus/3e41bee9a15d01e9d1ed5a74416f40
 #EXTINF:-1,ESPN FUTBOL
 https://qlobbidev.s.llnwi.net/bpk-tv/ESPN/hls/index.m3u8
 
+#EXTINF:-1,ESPN 3
+https://qlobbidev.s.llnwi.net/bpk-tv/ESPN3/hls/index.m3u8
+
 #EXTINF:-1,ESPN NBA 2
 http://164.68.124.111/espn2.m3u8?token=null
 
