@@ -108,6 +108,9 @@ https://www.streamaway.net/fra/frpx/frprx.php/Z2x5cGV8fGh0dHBzOi8vcHJveHkubG9naX
 #EXTINF:-1, MOVISTAR DEPORTES
 http://212.224.98.204:2200/NL/mdeporteshd-esp/tracks-v1a1/mono.m3u8?token=RED_8EZnzwaUl4GQNL0rGODOHw==,1621585279.5409016371
 
+#EXTINF:-1, MOVISTAR DEPORTES VIVO
+http://31.220.41.90:8081/live/es-movistar-deportes.stream/chunks.m3u8
+
 #EXTINF:-1, MOVISTAR DEPORTES III
 https://www.streamaway.net/fra/frpx/frprx.php/Z2x5cGV8fGh0dHBzOi8vcHJveHkubG9naXN0ZWYuZnIvYnJvd3NlLnBocD91PQ==/31.220.41.90:8081/live/es-movistar-deportes.stream/chunks.m3u8
 
