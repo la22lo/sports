@@ -432,6 +432,9 @@ http://31.220.41.86:8081/live/skysportsf1.stream/playlist.m3u8
 #EXTINF:-1, SKY SPORTS LIVE
 http://212.224.98.209:2200/EX/Sky_Sports_Premiere_League_HD-uk/tracks-v1a1/mono.m3u8?token=
 
+#EXTINF:-1, SK 1 HD
+http://31.220.41.88:8081/live/klub1.stream/playlist.m3u8
+
 #EXTINF:-1, NEXT FOOTBALL
 http://134.19.182.131:8080/edg5_2.m3u8
 
