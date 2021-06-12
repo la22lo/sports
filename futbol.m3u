@@ -738,6 +738,9 @@ http://91.126.141.13:1935/live/51/playlist.m3u8
 #EXTINF:-1, TELE5
 http://91.126.141.13:1935/live/61/1800-def.m3u8
 
+#EXTINF:-1, TELE5
+http://91.126.141.13:1935/live/61/playlist.m3u8
+
 #EXTINF:-1, TV1
 https://rtvelivestream.akamaized.net/la1_main_dvr.m3u8
 
