@@ -321,6 +321,9 @@ http://51.89.195.111:8880/ss2/playlist.m3u8
 #EXTINF:-1, FUTBOL 7
 http://77.247.109.111/hls/A1.m3u8
 
+#EXTINF:-1, FUTBOL 8
+http://watch.myislandtv.xyz:8080/live/Manny123/Manny123/2027.m3u8
+
 #EXTINF:-1, КХЛ HD
 https://95-213-224-183.livesports24.online/khlhdru.m3u8
 
