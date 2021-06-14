@@ -165,6 +165,9 @@ http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1, BEIN SPORT ENGLISH
 https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 
+#EXTINF:-1, BEIN SPORT MAX
+http://213.7.193.54:4000/play/a002/index.m3u8
+
 #EXTINF:-1 ,BEIN AR 3
 http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
 
