@@ -120,6 +120,9 @@ http://31.220.41.90:8081/live/es-movistar-deportes.stream/chunks.m3u8
 #EXTINF:-1, MOVISTAR DEPORTES III
 https://www.streamaway.net/fra/frpx/frprx.php/Z2x5cGV8fGh0dHBzOi8vcHJveHkubG9naXN0ZWYuZnIvYnJvd3NlLnBocD91PQ==/31.220.41.90:8081/live/es-movistar-deportes.stream/chunks.m3u8
 
+#EXTINF:-1, MOVISTAR DEPORTES
+http://212.224.98.212:2200/NL/mdeporteshd-esp/tracks-v1a1/mono.m3u8?token=
+
 #EXTINF:-1, MOVISTAR LIGA CAMPEONES
 http://212.224.98.213:2200/NL/mlcampeonhd-esp/tracks-v1a1/mono.m3u8?token=RED_rOEySpRwcHBUZzNjM3Ohfg%3D%3D%2C1622868670.2903705673
 
