@@ -429,6 +429,9 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
 #EXTINF:-1,FOX NETWORK
 https://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,TV MAX
+https://wrtc569537.bigmarker.com/user-rtmp/aed0503d21f5-566769857669b75e53cf7b89be5b762f.m3u8
+
 #EXTINF:-1,GOL TELEVISION
 https://api.goltelevision.com/api/v1/stream/live/stream.m3u8
 
