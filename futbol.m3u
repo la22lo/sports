@@ -117,6 +117,9 @@ http://212.224.98.204:2200/NL/mdeporteshd-esp/tracks-v1a1/mono.m3u8?token=RED_8E
 #EXTINF:-1, MOVISTAR DEPORTES
 http://212.224.98.212:2200/NL/mdeporteshd-esp/tracks-v1a1/mono.m3u8?token=
 
+#EXTINF:-1, MOVISTAR DEPORTES
+http://212.224.98.206:2200/NL/mdeporteshd-esp/tracks-v1a1/mono.m3u8?token=RED_ubvBZ17neIwpw0wk4p4V7w==,1623125327.0007821321
+
 #EXTINF:-1, MOVISTAR LIGA CAMPEONES
 http://212.224.98.213:2200/NL/mlcampeonhd-esp/tracks-v1a1/mono.m3u8?token=RED_rOEySpRwcHBUZzNjM3Ohfg%3D%3D%2C1622868670.2903705673
 
