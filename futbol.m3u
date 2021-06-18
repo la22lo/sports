@@ -252,6 +252,9 @@ https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1,ESPN NBA
 http://acvlzxxmvr.chickenkiller.com/fs2.m3u8
 
+#EXTINF:-1,ESPN BRASIL
+http://185.180.15.14:2200/BR/ESPN_Brasil_HD-br/tracks-v1a1/mono.m3u8?token=RED_GgBiEcarbtZfHPgPp5F2GQ%3D%3D%2C1623897036.6826860364
+
 #EXTINF:-1, SPORT TV1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 
