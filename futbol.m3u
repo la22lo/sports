@@ -339,6 +339,9 @@ https://wowzaprod5-lh.akamaihd.net/i/e79da1d6_1@356642/index_2560000_av-p.m3u8
 #EXTINF:-1, IPTV1
 https://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
 
+#EXTINF:-1,FS1 LIVE
+http://134.19.182.131:8080/edg11_2.m3u8
+
 #EXTINF:-1, КХЛ HD
 https://95-213-224-183.livesports24.online/khlhdru.m3u8
 
