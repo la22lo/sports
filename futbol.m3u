@@ -423,6 +423,9 @@ http://212.224.98.206:2200/BR/Fox_Sports_HD-br/tracks-v1a1/mono.m3u8?token=RED_1
 #EXTINF:-1,FOX SPORTS
 http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
 
+#EXTINF:-1,FOX SPORTS HD
+https://content-zeuuks-up-1.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1623962523&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=49b560a83dfb10f417a72dd9daad4a47e6c079300e431996121d2fe131381117&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=f0aef63401759c7a230b4638aac7f2c7803be0484a8178c626daeec91814cf19&pbs=0c3fcb4b655f4b9aae42314146495dba
+
 #EXTINF:-1,FOX SPORTS 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 
