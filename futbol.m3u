@@ -756,6 +756,9 @@ https://rtvelivestream.akamaized.net/tdp_main.m3u8
 #EXTINF:-1, ESPORTES CATALUÑA
 https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/.m3u8
 
+#EXTINF:-1, MEGA
+https://www.streamaway.net/fra/frpx/frprx.php/Z2x5cGV8fGh0dHBzOi8vcHJveHkubG9naXN0ZWYuZnIvYnJvd3NlLnBocD91PQ==/31.220.41.88:8081/live/es-mega.stream/playlist.m3u8
+
 #EXTINF:-1, CICLISMO ESUKERA (EITB)
 https://live-dvr.eitb-fastly.cross-media.es/live-content/oka2hd-hls/bitrate_4.m3u8
 
