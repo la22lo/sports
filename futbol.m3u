@@ -756,6 +756,9 @@ https://tf1-hls-live.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index_1.m3u8
 #EXTINF:-1, TRT1
 http://stream.suboroiptv.tv/TRT1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, TRT1
+http://stream.suboroiptv.tv:80/TRT1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, TF6
 https://shls-m6-france-prod-dub.shahid.net:443/out/v1/edfe0095261648908a3a931b72489f3f/index_1.m3u8
 
