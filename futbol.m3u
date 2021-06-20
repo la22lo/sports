@@ -301,10 +301,7 @@ http://212.224.98.212:2200/BR/Sportv_HD-br/index.m3u8?token=
 http://51.89.195.111:8880/ss3/playlist.m3u8
 
 #EXTINF:-1, DIRECT SPORT
-https://akamai2-br.cdn.booyah.live/hls/1000074/60232271.m3u8
-
-#EXTINF:-1, DIRECT TV
-https://wrtc569059.bigmarker.com/user-rtmp/5ee50f3e64aa-e266457f198c6260af9323931610765a.m3u8
+http://compitv.info:8080/live/RRTTMMCHINA/RRTTMM0865G/116364.m3u8
 
 #EXTINF:-1, ELEVEN SPORT 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
