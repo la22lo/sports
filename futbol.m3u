@@ -133,7 +133,7 @@ http://xdo.akchatix.pro:8080/live/00:1A:79:16:FB:8E/ziajdjjfdifjd64646/38440.m3u
 http://212.224.98.207:2200/NL/mlcampeonhd-esp/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1, DAZN
-http://212.224.98.207:2200/NL/dazn1hd-esp/mono.m3u8?token=🇪🇦
+http://31.220.41.87:8081/live/es-moviestarf1.stream/chunks.m3u8
 
 #EXTINF:-1, DAZN
 http://212.224.98.207:2200/NL/mformula1hd-esp/index.m3u8?token=RED_4sVnCuTgp6dPV6UtIBA0_Q==,1622232007.8051329432
