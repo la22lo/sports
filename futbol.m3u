@@ -210,11 +210,11 @@ http://176.222.164.71:80/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8
 #EXTINF:-1, QAZ SPORT 
 http://37.99.5.237:80/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8
 
-#EXTINF:-1,QAZSPORT 
-http://92.46.127.146:8080/qazsport/index.m3u8
+#EXTINF:-1, QAZ SPORT 
+http://176.222.164.71:80/btv/SWM/Qazaqstan_HD/Qazaqstan_HD_1080p_5000kbps.m3u8
 
-#EXTINF:-1, QAZsport
-http://92.46.127.146:8080/qazsport/index.m3u8
+#EXTINF:-1, QAZ SPORT 
+http://176.222.164.71:80/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8
 
 #EXTINF:-1,ESPN 1
 http://134.19.182.131:8080/edg4_2.m3u8
@@ -303,8 +303,14 @@ http://212.224.98.212:2200/BR/Sportv_HD-br/index.m3u8?token=
 #EXTINF:-1,SUPER SPORTS 3
 http://51.89.195.111:8880/ss3/playlist.m3u8
 
-#EXTINF:-1, DIRECT SPORT
+#EXTINF:-1, DIRECT SPORT +
 https://aws-br.cdn.booyah.live/hls/1000072/71112076.m3u8
+
+#EXTINF:-1, DIRECT SPORT 1
+https://wrtc576118.bigmarker.com/user-rtmp/3a129af4a568-95de809bb1c7d1ad8f3deae497f3ef1f.m3u8
+
+#EXTINF:-1, DIRECT SPORT 2
+https://akamai2-br.cdn.booyah.live/hls/1000009/71486811.m3u8
 
 #EXTINF:-1, ELEVEN SPORT 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
