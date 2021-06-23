@@ -441,6 +441,9 @@ http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 #EXTINF:-1,THETHAO-HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 
+#EXTINF:-1, TNT SPORTS 
+https://akamai2-br.cdn.booyah.live/hls/1000069/71112076.m3u8
+
 #EXTINF:-1, TNT SPORTS BRASIL 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 
