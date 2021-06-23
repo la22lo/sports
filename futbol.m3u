@@ -435,6 +435,9 @@ https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1, NOVA SPORT 2
 https://nova-live.ssl.cdn.cra.cz/channels/nova-sport2/playlist/cze/live_hq.m3u8
 
+#EXTINF:-1, TUDN
+https://akamai2-br.cdn.booyah.live/hls/1000003/71562445.m3u8
+
 #EXTINF:-1,Astro S-sport 2 
 http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 
