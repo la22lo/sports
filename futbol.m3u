@@ -369,6 +369,9 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4medium.
 #EXTINF:-1,EPT SPORTS 5
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_5/ert_sports_5medium.m3u8
 
+#EXTINF:-1,SONY TEN 2
+http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,DIRECT SPORT
 http://matiasstornini00.shortcm.li:80/shio1.m3u8
 
