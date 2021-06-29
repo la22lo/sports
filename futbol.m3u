@@ -198,6 +198,9 @@ http://134.19.182.131:8080/edg7_2.m3u8
 #EXTINF:-1,ESPN
 http://134.19.182.131:8080/edg8_2.m3u8
 
+#EXTINF:-1,ESPN SPORT
+https://abr-f.eu-central-1.edge.mycdn.live/eiplus/be5636c6c01057bec95887daaa1fa93a/playlist.m3u8
+
 #EXTINF:-1,ESPN NCAF
 https://120sports-accdn-1.plex.wurl.com/manifest/playlist.m3u8
 
