@@ -181,6 +181,9 @@ http://134.19.182.131:8080/edg4_2.m3u8
 http://195.181.163.39/DEP_ESPN_2_ARG/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,ESPN 2
+https://qlobbidev.s.llnwi.net/bpk-tv/ESPN2/hls/ESPN2-audio_132128_spa=128000-video=1900000.m3u8
+
+#EXTINF:-1,ESPN 2
 http://134.19.182.131:8080/edg3_2.m3u8?SBN
 
 #EXTINF:-1,ESPN
