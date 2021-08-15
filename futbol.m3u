@@ -408,6 +408,9 @@ http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DIRECT SPORT
 http://matiasstornini00.shortcm.li:80/shio1.m3u8
 
+#EXTINF:-1,DIRECT SPORT
+https://centurylink.br.cdn.booyah.live/hls/1000043/79428597.m3u8
+
 #EXTINF:-1,FOX SPORTS VIVO
 https://content-aeuf1.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1624048623&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=23b9959ff9799d917480a04877ddcb443bdda4787b67942f42b81ee50be632c4&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=b5394277386949309762a8fdc6a20ca018acc45dd0b56672821aca58e88b247f&pbs=65963b75dfae4c60babc2b7bbf209b5c
 
