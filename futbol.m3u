@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, PARTIDO PUCELA
+http://195.181.163.39/ECU-DIRECTTV_SP1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, CANAL RUSO 1 (Футбол 1)
 https://185-106-121-101.livesports24.online/ntvmatchfoot1.m3u8
 
