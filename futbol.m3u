@@ -219,6 +219,9 @@ http://134.19.182.131:8080/edg3_2.m3u8
 #EXTINF:-1,ESPN 3
 https://qlobbidev.s.llnwi.net/bpk-tv/ESPN3/hls/index.m3u8
 
+#EXTINF:-1,ESPN 3
+http://195.181.163.39/DEP_ESPN_3_ARG/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,ESPN NBA 2
 http://164.68.124.111/espn2.m3u8?token=null
 
