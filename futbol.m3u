@@ -297,6 +297,9 @@ https://akamai2-br.cdn.booyah.live/hls/1000009/71486811.m3u8
 #EXTINF:-1, ELEVEN SPORT 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 
+#EXTINF:-1, ELEVEN SPORT 1
+https://centurylink-me.cdn.booyah.live/hls/113138/81437181.m3u8
+
 #EXTINF:-1, ELEVEN SPORT 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
 
