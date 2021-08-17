@@ -483,6 +483,9 @@ https://www.streamaway.net/fra/frpx/frprx.php/Z2x5cGV8fGh0dHBzOi8vcHJveHkubG9naX
 #EXTINF:-1, SKY SPORTS
 http://31.220.41.86:8081/live/skysportsf1.stream/playlist.m3u8
 
+#EXTINF:-1, SKY SPORTS ARENA
+http://goiptv.co:8080/live/ziouiahmed/ldfqcx8bvm/48425.m3u8
+
 #EXTINF:-1, SK 1 HD
 http://31.220.41.88:8081/live/klub1.stream/playlist.m3u8
 
