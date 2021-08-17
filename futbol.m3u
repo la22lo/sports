@@ -472,6 +472,9 @@ https://api.goltelevision.com/api/v1/stream/live/stream.m3u8
 http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
 
 #EXTINF:-1, SKY SPORTS
+https://wowzaprdxg2-lh.akamaihd.net/i/406158c8_1@388516/index_2867000_av-p.m3u8
+
+#EXTINF:-1, SKY SPORTS
 https://www.streamaway.net/fra/frpx/frprx.php/Z2x5cGV8fGh0dHBzOi8vcHJveHkubG9naXN0ZWYuZnIvYnJvd3NlLnBocD91PQ==/31.220.41.87:8081/live/skysportsf1.stream/playlist.m3u8
 
 #EXTINF:-1, SKY SPORTS
