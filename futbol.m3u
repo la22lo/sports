@@ -108,11 +108,8 @@ http://31.220.41.90:8081/live/es-laligatvbar.stream/playlist.m3u8
 #EXTINF:-1, MOVISTAR LALIGA
 http://31.220.41.90:8081/live/bein-laliga.stream/chunks.m3u8
 
-#EXTINF:-1, MOVISTAR LALIGA
-https://www.streamaway.net/fra/frpx/frprx.php/Z2x5cGV8fGh0dHBzOi8vcHJveHkubG9naXN0ZWYuZnIvYnJvd3NlLnBocD91PQ==/31.220.41.87:8081/live/es-laligatvbar.stream/playlist.m3u8
-
-#EXTINF:-1, LA LIGA TV
-https://d2y4us88kobv5m.cloudfront.net/out/v1/2a8d8563601840d28dff8e42a70ee247/index_5.m3u8
+#EXTINF:-1, LA LIGA TV VAR
+http://xxxxlocal.com:8080/live/xiptv0985/ptXv7hZ0xy/819.m3u8
 
 #EXTINF:-1, ARENA SPORT 1
 http://93.157.62.180/ArenaSport1/tracks-v1a1/mono.m3u8
@@ -126,6 +123,9 @@ http://93.157.62.180/ArenaSport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, ARENA SPORT 3
 http://93.157.62.180/ArenaSport3/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, ARENA SPORT 3
+http://93.157.62.180:80/ArenaSport3/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, DAZN
 http://31.220.41.87:8081/live/es-moviestarf1.stream/chunks.m3u8
 
@@ -134,6 +134,9 @@ http://31.220.41.87:8081/live/es-moviestarf1.stream/playlist.m3u8
 
 #EXTINF:-1, DAZN 2
 http://31.220.41.87:8081/live/it-dazn1.stream/chunks.m3u8
+
+#EXTINF:-1, BEIN SPORTS TRUE
+http://77.83.117.60:8888/02_PremierHD4_480p/chunklist.m3u8
 
 #EXTINF:-1, BEIN SPORTS 1
 https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
@@ -288,17 +291,8 @@ http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1, SPORT TV
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
 
-#EXTINF:-1,SUPER SPORTS 3
-http://51.89.195.111:8880/ss3/playlist.m3u8
-
-#EXTINF:-1, DIRECT SPORT +
-https://aws-br.cdn.booyah.live/hls/1000072/71112076.m3u8
-
 #EXTINF:-1, DIRECT SPORT 1
-https://wrtc576118.bigmarker.com/user-rtmp/3a129af4a568-95de809bb1c7d1ad8f3deae497f3ef1f.m3u8
-
-#EXTINF:-1, DIRECT SPORT 2
-https://akamai2-br.cdn.booyah.live/hls/1000009/71486811.m3u8
+http://23.237.132.90:8081/live/dt_sp_plus_ehwkth/chunks.m3u8
 
 #EXTINF:-1, ELEVEN SPORT 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
@@ -354,6 +348,9 @@ https://77-247-178-24.livesports24.online/rumatcharena.m3u8
 #EXTINF:-1,MATH RUSIA
 https://95-213-172-220.livesports24.online/ooomatch.m3u8
 
+#EXTINF:-1,#EXTINF:-1, Футбол
+https://fat.lbs.pw/fut1/index.m3u8
+
 #EXTINF:-1,MATH CTPHA
 https://46-166-139-70.livesports24.online/mnashsport.m3u8
 
@@ -395,6 +392,9 @@ http://93.157.62.180/ArenaSport2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, ARENA SPORT 3
 http://93.157.62.180/ArenaSport1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, ARENA SPORT 4
+http://93.157.62.180:80/ArenaSport5/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,CID 1
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8 
