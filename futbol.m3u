@@ -63,6 +63,9 @@ https://95-213-224-183.livesports24.online/setantaukraine.m3u8
 #EXTINF:-1, Setanta Sport Ukraine
 https://95-213-224-181.livesports24.online/setantaukraine.m3u8
 
+#EXTINF:-1,YAYA LIVE
+https://d3tww2xb5yf1xw.cloudfront.net/out/v1/ebdb42fdcbe0445fbc4e40b514aa9dbd/index.m3u8
+
 #EXTINF:-1,FOOTBALLUA 1
 https://95-213-224-179.livesports24.online/uafootballua1.m3u8
 
@@ -77,6 +80,9 @@ https://95-213-224-169.livesports24.online/fooootball2.m3u8
 
 #EXTINF:-1, BT SPORT 1
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+
+#EXTINF:-1, BT SPORT 1 HD
+https://icdn.xyz/playlist/s10/playlist.m3u8
 
 #EXTINF:-1, BT SPORT 2 HD
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
@@ -261,6 +267,9 @@ http://23.237.132.90:8081/live/dt_sp_plus_ehwkth/chunks.m3u8
 #EXTINF:-1, DIRECT SPORT 1
 http://195.181.163.39/ECU-DIRECTTV_SP2/index.m3u8
 
+#EXTINF:-1, DIRECT SPORT 1
+http://195.181.163.39/ECU-DIRECTTV_SP1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, ELEVEN SPORT 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 
@@ -311,6 +320,9 @@ https://185-198-56-56.livesports24.online/fooootball2.m3u8
 
 #EXTINF:-1, Футбол 1
 https://46-21-250-207.livesports24.online/ntvmatchfoot1.m3u8
+
+#EXTINF:-1, SK3
+http://93.157.62.180:80/SK3HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,CID 1
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8 
