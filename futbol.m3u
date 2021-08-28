@@ -60,6 +60,12 @@ https://95-213-224-186.livesports24.online/setantaplusru.m3u8
 #EXTINF:-1, SETANTA SPORT LIVE
 https://95-213-224-179.livesports24.online/setantaukraine.m3u8
 
+#EXTINF:-1, SETANTA SPORT LIVE
+https://d8d0186ycf441.cloudfront.net/out/v1/4c82cffd4cbe4c64a712286190d85659/index.m3u8
+
+#EXTINF:-1, SETANTA SPORT LIVE
+https://google-me.cdn.booyah.live/hls/113132/81824422.m3u8
+
 #EXTINF:-1, SETANTA SPORT UCRANIA
 https://95-213-224-183.livesports24.online/setantaukraine.m3u8
 
