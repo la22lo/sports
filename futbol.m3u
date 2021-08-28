@@ -234,6 +234,9 @@ http://195.181.163.39/DEP_ESPN_2_ARG/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ESPN 2
 https://qlobbidev.s.llnwi.net/bpk-tv/ESPN2/hls/ESPN2-audio_132128_spa=128000-video=1900000.m3u8
 
+#EXTINF:-1,ESPN 2
+https://rafaelawiltelms.edge-access2.net/hls/play/fc8an-glhik-j2poa-133i3.m3u8
+
 #EXTINF:-1,ESPN 3
 https://qlobbidev.s.llnwi.net/bpk-tv/ESPN3/hls/index.m3u8
 
