@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, BEIN SPORTS TRUE (PRIMERA DIVISION)
+https://sport.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+
 #EXTINF:-1, CANAL RUSO 1 (Футбол 2)
 https://95-213-224-173.livesports24.online/mfootball2rus.m3u8
 
