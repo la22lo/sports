@@ -9,6 +9,9 @@ https://95-213-224-173.livesports24.online/mfootball2rus.m3u8
 #EXTINF:-1, CANAL RUSO 2 (Матч!)
 https://95-213-224-173.livesports24.online/ooomatch.m3u8
 
+#EXTINF:-1, CANAL RUSO 3 (Футбол 1)
+https://95-213-224-176.livesports24.online/uafootballua1.m3u8
+
 #EXTINF:-1, SETANTA SPORT 2
 http://92.43.140.200/s82/04.m3u8
 
@@ -102,6 +105,9 @@ https://qlobbidev.s.llnwi.net/bpk-tv/ESPN2/hls/ESPN2-audio_132128_spa=128000-vid
 #EXTINF:-1,ESPN 2
 https://rafaelawiltelms.edge-access2.net/hls/play/fc8an-glhik-j2poa-133i3.m3u8
 
+#EXTINF:-1,ESPN 2 LIVE
+http://77.247.109.101/hls/A1.m3u8
+
 #EXTINF:-1,ESPN 3
 https://qlobbidev.s.llnwi.net/bpk-tv/ESPN3/hls/index.m3u8
 
@@ -126,8 +132,14 @@ https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1, SPORT TV4
 https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 
+#EXTINF:-1, SPORT TV4
+https://sport.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+
 #EXTINF:-1, SPORT TV5
 https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+#EXTINF:-1, SKY SPORTS LIVE
+http://185.53.89.183/hls/skypl.m3u8
 
 #EXTINF:-1, SPORT TV
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
@@ -140,6 +152,18 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.
 
 #EXTINF:-1, ELEVEN SPORT 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, O2 LIVE
+http://flu.hdtv112.com:8080/SPORT:_Super_sport_2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, ORF 1 LIVE HD
+http://31.220.41.86:8081/live/de-orfeins.stream/chunks.m3u8
+
+#EXTINF:-1, SOO LIVE
+http://77.247.109.101/hls/A2.m3u8
+
+#EXTINF:-1, NPO 3 LIVE 
+http://31.220.41.90:8081/live/nl-npo3.stream/chunks.m3u8
 
 #EXTINF:-1, BELARUS 5 HD
 https://95-213-224-180.livesports24.online/belarusss5.m3u8
@@ -173,6 +197,9 @@ https://185-106-121-77.livesports24.online/mfootball2rus.m3u8
 
 #EXTINF:-1,CID 1
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8 
+
+#EXTINF:-1,TRT 1 CANLI
+https://live-01.tvjetapp.com/ch-21/live.m3u8
 
 #EXTINF:-1,TRT 3 SPORT
 https://tv-trt3.live.trt.com.tr/master_720.m3u8
