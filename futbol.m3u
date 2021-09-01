@@ -12,6 +12,12 @@ https://95-213-224-173.livesports24.online/ooomatch.m3u8
 #EXTINF:-1, CANAL RUSO 3 (Футбол 1)
 https://95-213-224-176.livesports24.online/uafootballua1.m3u8
 
+#EXTINF:-1, CANAL RUSO 4 (Футбол 1)
+https://95-213-224-176.livesports24.online/uafootballua1.m3u8?mvk
+
+#EXTINF:-1, CANAL RUSO 1 (Футбол 2)
+https://185-117-74-6.livesports24.online/fooootball2.m3u8
+
 #EXTINF:-1, SETANTA SPORT 2
 http://92.43.140.200/s82/04.m3u8
 
@@ -108,6 +114,9 @@ https://rafaelawiltelms.edge-access2.net/hls/play/fc8an-glhik-j2poa-133i3.m3u8
 #EXTINF:-1,ESPN 2 LIVE
 http://77.247.109.101/hls/A1.m3u8
 
+#EXTINF:-1,ESPN 2 LIVE
+http://stream2.grandma.fit/espn2.m3u8
+
 #EXTINF:-1,ESPN 3
 https://qlobbidev.s.llnwi.net/bpk-tv/ESPN3/hls/index.m3u8
 
@@ -122,6 +131,9 @@ http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 
 #EXTINF:-1, SPORT TV1
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:-1, SPORT TV1
+https://sport.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 
 #EXTINF:-1, SPORT TV2
 https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
@@ -140,6 +152,9 @@ https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1, SKY SPORTS LIVE
 http://185.53.89.183/hls/skypl.m3u8
+
+#EXTINF:-1, SKY SPORTS LIVE
+http://134.122.95.6/live/ovo4/chunks.m3u8
 
 #EXTINF:-1, SPORT TV
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
@@ -161,6 +176,9 @@ http://31.220.41.86:8081/live/de-orfeins.stream/chunks.m3u8
 
 #EXTINF:-1, SOO LIVE
 http://77.247.109.101/hls/A2.m3u8
+
+#EXTINF:-1, SOO LIVE
+http://134.122.95.6/live/ovo3/chunks.m3u8
 
 #EXTINF:-1, NPO 3 LIVE 
 http://31.220.41.90:8081/live/nl-npo3.stream/chunks.m3u8
@@ -359,6 +377,9 @@ http://91.126.141.13:1935/live/61/1800-def.m3u8
 
 #EXTINF:-1, BEMAD
 http://91.126.138.140:1935/live/bemad/chunklist_w1673279471.m3u8
+
+#EXTINF:-1, BEMAD
+http://91.126.138.140:1935/live/bemad/playlist.m3u8
 
 #EXTINF:-1, TELE5
 http://91.126.141.13:1935/live/61/playlist.m3u8
