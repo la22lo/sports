@@ -102,6 +102,9 @@ http://12.yaciaptk.xyz/live/652177700/index.m3u8
 #EXTINF:-1, BEIN SPORTS 2
 http://18.yaciaptk.xyz/live/616194987/index.m3u8
 
+#EXTINF:-1, BEIN SPORTS 2
+http://55.1-bour.xyz/live/69854211/index.m3u8
+
 #EXTINF:-1, BEIN SPORTS 3
 https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
 
@@ -248,6 +251,9 @@ https://95-213-172-212.livesports24.online/migra.m3u8
 
 #EXTINF:-1, Футбол 2
 https://185-106-121-77.livesports24.online/mfootball2rus.m3u8
+
+#EXTINF:-1, SSC7
+https://d18z7qd4lgwjkx.cloudfront.net:443/out/v1/5c3c5578207f4deda32a801106c0a37c/index_2.m3u8
 
 #EXTINF:-1,CID 1
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8 
