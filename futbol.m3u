@@ -15,8 +15,11 @@ https://95-213-224-176.livesports24.online/uafootballua1.m3u8
 #EXTINF:-1, CANAL RUSO 4 (Футбол 1)
 https://95-213-224-176.livesports24.online/uafootballua1.m3u8?mvk
 
-#EXTINF:-1, CANAL RUSO 1 (Футбол 2)
+#EXTINF:-1, CANAL RUSO 5 (Футбол 2)
 https://185-117-74-6.livesports24.online/fooootball2.m3u8
+
+#EXTINF:-1, CANAL RUSO 6 (Футбол 1)
+https://95-213-224-180.livesports24.online/ntvmatchfoot1.m3u8
 
 #EXTINF:-1, SETANTA SPORT 2
 http://92.43.140.200/s82/04.m3u8
