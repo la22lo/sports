@@ -267,6 +267,9 @@ https://185-106-121-77.livesports24.online/mfootball2rus.m3u8
 #EXTINF:-1, SSC6
 https://d1aaemyvwq8v80.cloudfront.net/out/v1/b60e3e9c5e1b4c9b87d8ddb0ab6dcdd7/index_4.m3u8?t=1631036163065
 
+#EXTINF:-1, SSC6
+https://d1aaemyvwq8v80.cloudfront.net/out/v1/b60e3e9c5e1b4c9b87d8ddb0ab6dcdd7/index.m3u8
+
 #EXTINF:-1, SSC7
 https://d18z7qd4lgwjkx.cloudfront.net:443/out/v1/5c3c5578207f4deda32a801106c0a37c/index_2.m3u8
 
