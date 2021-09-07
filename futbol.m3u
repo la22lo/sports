@@ -78,8 +78,11 @@ http://sos.moukrasa.xyz/live/6161655/index.m3u8
 #EXTINF:-1, BEIN SPORTS 1
 http://19.yaciaptk.xyz/live/6161655/index.m3u8
 
-#EXTINF:-1, BEIN SPORTS 2
+#EXTINF:-1, BEIN SPORTS 2 REDIFUSSION
 http://12.yaciaptk.xyz/live/652177700/index.m3u8
+
+#EXTINF:-1, BEIN SPORTS 2
+http://18.yaciaptk.xyz/live/616194987/index.m3u8
 
 #EXTINF:-1, BEIN SPORTS 3
 https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
@@ -98,6 +101,15 @@ https://siloh-ns1.plutotv.net:443/lilo/production/bein/master_1.m3u8
 
 #EXTINF:-1,BEIN SPORTS EXTRA HD
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+
+#EXTINF:-1,YAYA LIVE
+https://d2yx87if4hlknw.cloudfront.net:443/out/v1/44a3411ee83c4e94b28a36e400cd20c5/index_1.m3u8
+
+#EXTINF:-1,YAYA LIVE
+https://google-me.cdn.booyah.live/hls/113137/85572513.m3u8
+
+#EXTINF:-1,YAYA LIVE
+https://google-me.cdn.booyah.live/hls/113137/85572513.m3u8
 
 #EXTINF:-1,TVP SPORT
 http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
@@ -139,7 +151,7 @@ https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 https://sport.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 
 #EXTINF:-1, SPORT TV2
-https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes22/esportes22_2000/index.m3u8
 
 #EXTINF:-1, SPORT TV3
 https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
@@ -154,10 +166,7 @@ https://sport.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1, SKY SPORTS LIVE
-http://185.53.89.183/hls/skypl.m3u8
-
-#EXTINF:-1, SKY SPORTS LIVE
-http://134.122.95.6/live/ovo4/chunks.m3u8
+http://89.187.185.100/SKY_SPORTS_FOOTBALL/index.m3u8
 
 #EXTINF:-1, SPORT TV
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
@@ -248,6 +257,9 @@ https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8
 
 #EXTINF:-1, 11 INTERNACIONAL
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
+
+#EXTINF:-1, TNT SPORTS
+https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
 
 #EXTINF:-1, TNT SPORTS BRASIL 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
