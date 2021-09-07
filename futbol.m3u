@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, VAMOS
+http://egaletv.cc:2082//live/7584212858556975/465hh60kb8/52214.m3u8
+
 #EXTINF:-1, BEIN SPORTS TRUE (PRIMERA DIVISION)
 https://sport.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
 
@@ -20,6 +23,9 @@ https://185-117-74-6.livesports24.online/fooootball2.m3u8
 
 #EXTINF:-1, CANAL RUSO 6 (Футбол 1)
 https://95-213-224-180.livesports24.online/ntvmatchfoot1.m3u8
+
+#EXTINF:-1, CANAL RUSO 7 (Футбол 1)
+https://95-213-224-181.livesports24.online/ntvmatchfoot1.m3u8
 
 #EXTINF:-1, SETANTA SPORT 2
 http://92.43.140.200/s82/04.m3u8
@@ -278,6 +284,9 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 
 #EXTINF:-1,ESPORTE INTERATIVO
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
+#EXTINF:-1,LIVE SPORT
+https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/1vdj1cxb/2728/chunklist.m3u8
 
 #EXTINF:-1,VARIETY 1 LIVE
 http://flu.hdtv112.com:8080/SPORT:_Super_sport_6/tracks-v1a1/mono.m3u8
