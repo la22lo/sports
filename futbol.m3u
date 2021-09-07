@@ -3,8 +3,17 @@
 #EXTINF:-1, VAMOS
 http://egaletv.cc:2082//live/7584212858556975/465hh60kb8/52214.m3u8
 
-#EXTINF:-1, BEIN SPORTS TRUE (PRIMERA DIVISION)
-https://sport.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1, MOVISTAR LA LIGA
+http://egaletv.cc:2082/live/7584212858556975/465hh60kb8/52247.m3u8
+
+#EXTINF:-1, BEIN LA LIGA
+http://31.220.41.87:8081/live/bein-laliga.stream/playlist.m3u8
+
+#EXTINF:-1, MOVISTAR LA LIGA
+http://31.220.41.90:8081/live/bein-laliga.stream/chunks.m3u8
+
+#EXTINF:-1, MOVISTAR LA LIGA
+http://egaletv.cc:2082/live/7584212858556975/465hh60kb8/246764.m3u8
 
 #EXTINF:-1, CANAL RUSO 1 (Футбол 2)
 https://95-213-224-173.livesports24.online/mfootball2rus.m3u8
@@ -83,6 +92,9 @@ http://sos.moukrasa.xyz/live/6161655/index.m3u8
 
 #EXTINF:-1, BEIN SPORTS 1
 http://19.yaciaptk.xyz/live/6161655/index.m3u8
+
+#EXTINF:-1, BEIN SPORTS PREMIUM
+http://20.yaciaptk.xyz/live/6161655/index.m3u8
 
 #EXTINF:-1, BEIN SPORTS 2 REDIFUSSION
 http://12.yaciaptk.xyz/live/652177700/index.m3u8
@@ -173,6 +185,9 @@ https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1, SKY SPORTS LIVE
 http://89.187.185.100/SKY_SPORTS_FOOTBALL/index.m3u8
+
+#EXTINF:-1, SKY SPORTS LIVE
+http://89.187.185.100:80/SKY_SPORTS_FOOTBALL/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, SPORT TV
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
