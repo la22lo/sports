@@ -81,15 +81,6 @@ http://31.220.41.87:8081/live/es-moviestarf1.stream/playlist.m3u8
 #EXTINF:-1, DAZN 2
 http://31.220.41.87:8081/live/it-dazn1.stream/chunks.m3u8
 
-#EXTINF:-1, BEIN SPORTS TRUE
-https://sport.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
-
-#EXTINF:-1 ,TRUE SPORT Premier HD2
-https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-
-#EXTINF:-1, BEIN SPORTS 1
-https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
-
 #EXTINF:-1, BEIN SPORTS 1
 http://sos.moukrasa.xyz/live/6161655/index.m3u8
 
@@ -111,17 +102,14 @@ http://18.yaciaptk.xyz/live/616194987/index.m3u8
 #EXTINF:-1, BEIN SPORTS 2
 http://55.1-bour.xyz/live/69854211/index.m3u8
 
+#EXTINF:-1, BEIN SPORTS 2
+http://55.1-bour.xyz/live/616194987/index.m3u8
+
 #EXTINF:-1, BEIN SPORTS 3
 http://13.yaciaptk.xyz/live/6151278887/index.m3u8
 
 #EXTINF:-1, BEIN SPORTS 3
 http://55.1-bour.xyz/live/645587700/index.m3u8
-
-#EXTINF:-1, BEIN SPORTS 3
-http://55.1-bour.xyz/live/616194987/index.m3u8
-
-#EXTINF:-1, BEIN SPORT ENGLISH
-https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 
 #EXTINF:-1, BEIN SPORT MAX
 http://213.7.193.54:4000/play/a002/index.m3u8
@@ -141,9 +129,6 @@ https://d2yx87if4hlknw.cloudfront.net:443/out/v1/44a3411ee83c4e94b28a36e400cd20c
 #EXTINF:-1,YAYA LIVE
 https://google-me.cdn.booyah.live/hls/113137/85572513.m3u8
 
-#EXTINF:-1,YAYA LIVE
-https://google-me.cdn.booyah.live/hls/113137/85572513.m3u8
-
 #EXTINF:-1,TVP SPORT
 http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
 
@@ -156,35 +141,14 @@ http://37.99.5.237:80/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8
 #EXTINF:-1, QAZ SPORT 
 http://46.34.209.242/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8?per
 
-#EXTINF:-1,ESPN 2
-https://qlobbidev.s.llnwi.net/bpk-tv/ESPN2/hls/ESPN2-audio_132128_spa=128000-video=1900000.m3u8
-
-#EXTINF:-1,ESPN 2
-https://rafaelawiltelms.edge-access2.net/hls/play/fc8an-glhik-j2poa-133i3.m3u8
-
 #EXTINF:-1,ESPN 2 LIVE
 http://77.247.109.101/hls/A1.m3u8
-
-#EXTINF:-1,ESPN 2 LIVE
-http://stream2.grandma.fit/espn2.m3u8
-
-#EXTINF:-1,ESPN 3
-https://qlobbidev.s.llnwi.net/bpk-tv/ESPN3/hls/index.m3u8
-
-#EXTINF:-1,ESPN 2
-https://qlobbidev.s.llnwi.net/bpk-tv/ESPN2/hls/index.m3u8
 
 #EXTINF:-1,ESPN NCAF
 https://120sports-accdn-1.plex.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1, SPORT TV1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-
-#EXTINF:-1, SPORT TV1
-https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
-
-#EXTINF:-1, SPORT TV1
-https://sport.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 
 #EXTINF:-1, SPORT TV2
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes22/esportes22_2000/index.m3u8
@@ -204,6 +168,9 @@ http://89.187.185.100/SKY_SPORTS_FOOTBALL/index.m3u8
 #EXTINF:-1, SKY SPORTS LIVE
 http://89.187.185.100:80/SKY_SPORTS_FOOTBALL/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, SKY SPORTS
+http://77.247.109.101/hls/A2.m3u8
+
 #EXTINF:-1, SPORT TV
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
 
@@ -216,17 +183,8 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.
 #EXTINF:-1, ELEVEN SPORT 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, O2 LIVE
-http://flu.hdtv112.com:8080/SPORT:_Super_sport_2/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1, ORF 1 LIVE HD
 http://31.220.41.86:8081/live/de-orfeins.stream/chunks.m3u8
-
-#EXTINF:-1, SOO LIVE
-http://77.247.109.101/hls/A2.m3u8
-
-#EXTINF:-1, SOO LIVE
-http://134.122.95.6/live/ovo3/chunks.m3u8
 
 #EXTINF:-1, NPO 3 LIVE 
 http://31.220.41.90:8081/live/nl-npo3.stream/chunks.m3u8
@@ -279,14 +237,8 @@ https://d18z7qd4lgwjkx.cloudfront.net:443/out/v1/5c3c5578207f4deda32a801106c0a37
 #EXTINF:-1,CID 1
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8 
 
-#EXTINF:-1,TRT 1 CANLI
-https://live-01.tvjetapp.com/ch-21/live.m3u8
-
 #EXTINF:-1,TRT 3 SPORT
 https://tv-trt3.live.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1,FOX SPORTS
-https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 
 #EXTINF:-1,FOX NETWORK
 https://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/tracks-v1a1/mono.m3u8
@@ -330,9 +282,6 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1,LIVE SPORT
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/1vdj1cxb/2728/chunklist.m3u8
 
-#EXTINF:-1,VARIETY 1 LIVE
-http://flu.hdtv112.com:8080/SPORT:_Super_sport_6/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1, FUTBOL TV
 http://ott-cdn.ucom.am/s41/index.m3u8
 
@@ -359,9 +308,6 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
 
 #EXTINF:-1, SPORTS CHANNEL NETWORK
 https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8 
-
-#EXTINF:-1, TV MATIC
-http://cdn.tvmatic.net/sport.m3u8
 
 #EXTINF:-1, UFC ( Mynetqu.id )
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
@@ -411,9 +357,6 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunk
 #EXTINF:-1, TELETRAK
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
-#EXTINF:-1, MMA TV 
-https://alchimie-mmatv-3-es.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1, BEK SPORTS
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 
@@ -444,14 +387,14 @@ http://91.126.141.13:1935/live/51/playlist.m3u8
 #EXTINF:-1, TELE5
 http://91.126.141.13:1935/live/61/1800-def.m3u8
 
+#EXTINF:-1, TELE5
+http://91.126.141.13:1935/live/61/playlist.m3u8
+
 #EXTINF:-1, BEMAD
 http://91.126.138.140:1935/live/bemad/chunklist_w1673279471.m3u8
 
 #EXTINF:-1, BEMAD
 http://91.126.138.140:1935/live/bemad/playlist.m3u8
-
-#EXTINF:-1, TELE5
-http://91.126.141.13:1935/live/61/playlist.m3u8
 
 #EXTINF:-1, ESPORTES CATALUÑA
 https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/.m3u8
