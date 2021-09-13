@@ -9,6 +9,9 @@ http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BEIN SPORTS 1 LIVE
 http://55.1-bour.xyz/live/918454578/index.m3u8
 
+#EXTINF:-1, LOOK SPORTS +
+https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
+
 #EXTINF:-1, YAYA LIVE HD
 https://d104h15ace3unr.cloudfront.net:443/out/v1/8797dfd95c1944bc88aebdd531105e2f/index_1.m3u8
 
@@ -57,11 +60,17 @@ http://persik.by/stream/6696/480248/10264.m3u8
 #EXTINF:-1, SETANTA SPORT 1 LIVE
 http://ott-cdn.ucom.am/s81/index.m3u8
 
+#EXTINF:-1, SETANTA SPORT 1+
+http://ott-cdn.ucom.am/s81/04.m3u8
+
 #EXTINF:-1, SETANTA SPORT 1 LIVE
 http://ott-cdn.ucom.am/s81/03.m3u8
 
 #EXTINF:-1, SETANTA SPORT 1
 https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
+
+#EXTINF:-1, SETANTA SPORT 1
+http://iptv.prosto.tv:7000/ch106/video.m3u8
 
 #EXTINF:-1, SETANTA SPORT 2
 https://95-213-224-181.livesports24.online/setantaplusru.m3u8
@@ -272,6 +281,9 @@ http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a
 
 #EXTINF:-1, LOOK SPORTS +
 https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8
+
+#EXTINF:-1, LOOK SPORTS +
+https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
 
 #EXTINF:-1, 11 INTERNACIONAL
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
