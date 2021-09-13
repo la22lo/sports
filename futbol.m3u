@@ -15,6 +15,9 @@ http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1, LOOK SPORTS +
 https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
 
+#EXTINF:-1, ELEVEN SPORTS 2
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, YAYA LIVE HD
 https://d104h15ace3unr.cloudfront.net:443/out/v1/8797dfd95c1944bc88aebdd531105e2f/index_1.m3u8
 
