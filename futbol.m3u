@@ -480,6 +480,9 @@ https://live-dvr.eitb-fastly.cross-media.es/live-content/oka2hd-hls/bitrate_4.m3
 #EXTINF:-1, CICLISMO ESUKERA (EITB)
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-b.m3u8
 
+#EXTINF:-1, GOL TV 
+http://91.126.138.141:1935/live/gol/chunklist_w2146311915.m3u8
+
 #EXTINF:-1, BARÇA TV
 http://91.126.138.141:1935/live/barza/chunklist_w1270912450.m3u8
 
