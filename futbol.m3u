@@ -267,6 +267,9 @@ https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/1vdj1cxb/27
 #EXTINF:-1, FUTBOL TV
 http://ott-cdn.ucom.am/s41/index.m3u8
 
+#EXTINF:-1, SPORTS 1 LIVE
+https://95-213-224-181.livesports24.online/sport1ua.m3u8
+
 #EXTINF:-1, SPORTS 2
 http://iptv.prosto.tv:7000/ch115/video.m3u8
 
