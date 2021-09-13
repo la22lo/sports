@@ -81,6 +81,9 @@ http://31.220.41.88:8081/live/es-eurosport1.stream/playlist.m3u8
 #EXTINF:-1,EUROSPORT 2
 http://31.220.41.88:8081/live/es-eurosport2.stream/playlist.m3u8
 
+#EXTINF:-1, DAZN 1
+http://x00.so/live/Marc1234/1234Marc/124421.m3u8
+
 #EXTINF:-1, DAZN
 http://31.220.41.87:8081/live/es-moviestarf1.stream/chunks.m3u8
 
