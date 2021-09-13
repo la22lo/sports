@@ -323,6 +323,9 @@ https://persik.tv/stream/3602/287583/10249.m3u8
 #EXTINF:-1, DUBAI SPORTS
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 
+#EXTINF:-1, MOROC SPORTS
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+
 #EXTINF:-1, CCTV5
 http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
 
