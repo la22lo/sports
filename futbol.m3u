@@ -15,6 +15,9 @@ http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1, LOOK SPORTS +
 https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
 
+#EXTINF:-1, ELEVEN SPORTS 1
+https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes1/esportes1_2000/index.m3u8
+
 #EXTINF:-1, ELEVEN SPORTS 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
 
@@ -192,6 +195,21 @@ https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=
 #EXTINF:-1, LOOK SPORTS 3
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 
+#EXTINF:-1, ELEVEN SPORT 1
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+
+#EXTINF:-1, ELEVEN SPORT 1
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, ELEVEN SPORT 1
+https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes1/esportes1_2000/index.m3u8
+
+#EXTINF:-1, ELEVEN SPORT 2
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, ELEVEN SPORT 2
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+
 #EXTINF:-1,ARENA SPORTS
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
@@ -245,18 +263,6 @@ http://89.187.185.100:80/SKY_SPORTS_FOOTBALL/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, SPORT TV
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
-
-#EXTINF:-1, ELEVEN SPORT 1
-http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
-
-#EXTINF:-1, ELEVEN SPORT 1
-http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, ELEVEN SPORT 2
-http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, ELEVEN SPORT 2
-http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 
 #EXTINF:-1, ORF 1 LIVE HD
 http://31.220.41.86:8081/live/de-orfeins.stream/chunks.m3u8
