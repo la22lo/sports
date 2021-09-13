@@ -3,9 +3,6 @@
 #EXTINF:-1, VAMOS
 http://egaletv.cc:2082//live/7584212858556975/465hh60kb8/52214.m3u8
 
-#EXTINF:-1, MOVISTAR LA LIGA
-http://egaletv.cc:2082/live/7584212858556975/465hh60kb8/52247.m3u8
-
 #EXTINF:-1, YAYA LIVE HD
 https://d104h15ace3unr.cloudfront.net:443/out/v1/8797dfd95c1944bc88aebdd531105e2f/index_1.m3u8
 
@@ -48,32 +45,17 @@ https://95-213-224-181.livesports24.online/ntvmatchfoot1.m3u8
 #EXTINF:-1, CANAL RUSO 7 (Матч!)
 http://persik.by/stream/6696/480248/10264.m3u8
 
-#EXTINF:-1, SETANTA SPORT 2
-http://92.43.140.200/s82/04.m3u8
-
 #EXTINF:-1, SETANTA SPORT 1 LIVE
 http://ott-cdn.ucom.am/s81/index.m3u8
 
 #EXTINF:-1, SETANTA SPORT 1 LIVE
 http://ott-cdn.ucom.am/s81/03.m3u8
 
-#EXTINF:-1, SETANTA SPORT 2 LIVE
-http://ott-cdn.ucom.am/s82/index.m3u8
-
-#EXTINF:-1, BT SPORT 1
-https://livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-
-#EXTINF:-1, BT SPORT 2
-https://livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-
 #EXTINF:-1,EUROSPORT 1
-http://91.126.141.201:1935/live/eurosport1nntv/chunklist_w65928025.m3u8
+http://31.220.41.88:8081/live/es-eurosport1.stream/playlist.m3u8
 
-#EXTINF:-1,EUROSPORT ESPAÑOL
-http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
-
-#EXTINF:-1,EUROSPORT ESPAÑOL
-http://91.126.141.201:1935/live/eurosport1nntv/chunklist_w65928025.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://31.220.41.88:8081/live/es-eurosport2.stream/playlist.m3u8
 
 #EXTINF:-1, DAZN
 http://31.220.41.87:8081/live/es-moviestarf1.stream/chunks.m3u8
@@ -98,9 +80,6 @@ http://23.88.39.74:80/live/918454578/index.m3u8
 
 #EXTINF:-1, BEIN SPORTS PREMIUM
 http://20.yaciaptk.xyz/live/6161655/index.m3u8
-
-#EXTINF:-1, BEIN SPORTS 2 REDIFUSSION
-http://12.yaciaptk.xyz/live/652177700/index.m3u8
 
 #EXTINF:-1, BEIN SPORTS 2
 http://18.yaciaptk.xyz/live/616194987/index.m3u8
@@ -144,35 +123,14 @@ http://37.99.5.237:80/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8
 #EXTINF:-1, QAZ SPORT 
 http://46.34.209.242/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8?per
 
-#EXTINF:-1,ESPN 2 LIVE
-http://77.247.109.101/hls/A1.m3u8
-
 #EXTINF:-1,ESPN NCAF
 https://120sports-accdn-1.plex.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1, SPORT TV1
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-
-#EXTINF:-1, SPORT TV2
-https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes22/esportes22_2000/index.m3u8
-
-#EXTINF:-1, SPORT TV3
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/esportes3_2000/index.m3u8
-
-#EXTINF:-1, SPORT TV4
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes4/esportes4_2000/index.m3u8
-
-#EXTINF:-1, SPORT TV5
-https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1, SKY SPORTS LIVE
 http://89.187.185.100/SKY_SPORTS_FOOTBALL/index.m3u8
 
 #EXTINF:-1, SKY SPORTS LIVE
 http://89.187.185.100:80/SKY_SPORTS_FOOTBALL/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, SKY SPORTS
-http://77.247.109.101/hls/A2.m3u8
 
 #EXTINF:-1, SPORT TV
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
@@ -182,9 +140,6 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 
 #EXTINF:-1, ELEVEN SPORT 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, ELEVEN SPORT 1
-https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes1/esportes1_2000/index.m3u8
 
 #EXTINF:-1, ELEVEN SPORT 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
@@ -230,15 +185,6 @@ https://95-213-172-212.livesports24.online/migra.m3u8
 
 #EXTINF:-1, Футбол 2
 https://185-106-121-77.livesports24.online/mfootball2rus.m3u8
-
-#EXTINF:-1, SSC6
-https://d1aaemyvwq8v80.cloudfront.net/out/v1/b60e3e9c5e1b4c9b87d8ddb0ab6dcdd7/index_4.m3u8?t=1631036163065
-
-#EXTINF:-1, SSC6
-https://d1aaemyvwq8v80.cloudfront.net/out/v1/b60e3e9c5e1b4c9b87d8ddb0ab6dcdd7/index.m3u8
-
-#EXTINF:-1, SSC7
-https://d18z7qd4lgwjkx.cloudfront.net:443/out/v1/5c3c5578207f4deda32a801106c0a37c/index_2.m3u8
 
 #EXTINF:-1,CID 1
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8 
