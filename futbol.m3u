@@ -21,6 +21,9 @@ http://55.1-bour.xyz:80/live/6161655/index.m3u8
 #EXTINF:-1, BEIN LA LIGA
 http://31.220.41.87:8081/live/bein-laliga.stream/playlist.m3u8
 
+#EXTINF:-1, BEIN LA LIGA
+http://31.220.41.90:8081/live/bein-laliga.stream/playlist.m3u8
+
 #EXTINF:-1, BEIN SPORT 1
 http://31.220.41.88:8081/live/bein1.stream/chunks.m3u8
 
@@ -158,6 +161,9 @@ http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
 
 #EXTINF: -1,BEIN SPORTS 4 HD FRANCIA
 http://stream.tvtap.live:8081/live/bein4.stream/chunks.m3u8
+
+#EXTINF: -1,BEIN SPORTS 4 HD FRANCIA
+https://c.kartlaryeniden.xyz/tr:-bein-sports-4-hd/playlist.m3u8
 
 #EXTINF: -1,BEIN SPORTS 5 HD FRANCIA
 http://stream.tvtap.live:8081/live/bein5.stream/chunks.m3u8
