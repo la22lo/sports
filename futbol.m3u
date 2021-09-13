@@ -126,25 +126,25 @@ https://siloh-ns1.plutotv.net:443/lilo/production/bein/master_1.m3u8
 #EXTINF:-1,BEIN SPORTS EXTRA HD
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports",BEIN SPORTS 1 HD
+#EXTINF: -1,BEIN SPORTS 1 HD
 http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports",BEIN SPORTS 2 HD
+#EXTINF: -1,BEIN SPORTS 2 HD
 http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports", BEIN SPORTS 3 HD
+#EXTINF: -1, BEIN SPORTS 3 HD
 http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports",BEIN SPORTS 4 HD
+#EXTINF: -1,BEIN SPORTS 4 HD
 http://stream.tvtap.live:8081/live/bein4.stream/chunks.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports",BEIN SPORTS 5 HD
+#EXTINF: -1,BEIN SPORTS 5 HD
 http://stream.tvtap.live:8081/live/bein5.stream/chunks.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports",BEIN SPORTS 6 HD
+#EXTINF: -1,BEIN SPORTS 6 HD
 http://stream.tvtap.live:8081/live/bein6.stream/chunks.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports",BEIN SPORTS 7 HD
+#EXTINF: -1,BEIN SPORTS 7 HD
 
 #EXTINF:-1,ARENA SPORTS
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
