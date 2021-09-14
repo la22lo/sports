@@ -9,8 +9,11 @@ https://akamai2-br.cdn.booyah.live/hls/1000079/79691263.m3u8
 #EXTINF:-1, YAYA LIVE BARCELONA - BAYERN
 https://google-me.cdn.booyah.live/hls/113132/85569341.m3u8
 
-#EXTINF:-1, TNT SPORTS
+#EXTINF:-1, TNT SPORTS BARCELONA - BAYERN
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
+
+#EXTINF:-1, TNT SPORTS VILLARREAL - ATALANTA
+https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes3/esportes3_2000/index.m3u8
 
 #EXTINF:-1, CANAL RUSO 7 (Футбол 1)
 https://95-213-224-181.livesports24.online/ntvmatchfoot1.m3u8
