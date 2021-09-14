@@ -9,6 +9,9 @@ https://akamai2-br.cdn.booyah.live/hls/1000079/79691263.m3u8
 #EXTINF:-1, TNT SPORTS
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
 
+#EXTINF:-1, CANAL RUSO 7 (Футбол 1)
+https://95-213-224-181.livesports24.online/ntvmatchfoot1.m3u8
+
 #EXTINF:-1, YAYA LIVE HD BEIN SPORTS 2
 http://18.alysineoura.xyz/live/616194987/index.m3u8
 
@@ -54,9 +57,6 @@ http://31.220.41.88:8081/live/arena3.stream/playlist.m3u8
 #EXTINF:-1, FOX SPORTS
 https://centurylink.br.cdn.booyah.live/hls/1000043/81258086.m3u8
 
-#EXTINF:-1, FOX SPORTS 1
-http://tv.cablelatino.xyz/hls/TOPO/FOXSPORT_LAT.m3u8
-
 #EXTINF:-1, FOX SPORTS 2
 https://rtmp.loola.tv:8081/hlspush/Z520OU-YJFjY.m3u8
 
@@ -95,9 +95,6 @@ https://185-117-74-6.livesports24.online/fooootball2.m3u8
 
 #EXTINF:-1, CANAL RUSO 6 (Футбол 1)
 https://95-213-224-180.livesports24.online/ntvmatchfoot1.m3u8
-
-#EXTINF:-1, CANAL RUSO 7 (Футбол 1)
-https://95-213-224-181.livesports24.online/ntvmatchfoot1.m3u8
 
 #EXTINF:-1, CANAL RUSO 7 (Матч!)
 http://persik.by/stream/6696/480248/10264.m3u8
