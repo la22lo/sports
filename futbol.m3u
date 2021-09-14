@@ -27,6 +27,9 @@ https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
 #EXTINF:-1, BT SPORTS 2 
 https://d35f43rtopwooz.cloudfront.net/out/v1/8e9d61d559f84c3f9c2546179a4cd8a0/index.m3u8
 
+#EXTINF:-1, VARCHAT 5
+https://bal.varcdn1.ru/lb/m2/index.m3u8
+
 #EXTINF:-1, Футбол 1
 https://bal.varcdn1.ru/lb/m1/index.m3u8
 
