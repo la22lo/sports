@@ -21,6 +21,12 @@ https://d35f43rtopwooz.cloudfront.net/out/v1/8e9d61d559f84c3f9c2546179a4cd8a0/in
 #EXTINF:-1, CANAL RUSO 1 (Футбол 2)
 https://95-213-224-173.livesports24.online/mfootball2rus.m3u8
 
+#EXTINF:-1,MATH RUSIA
+https://95-213-172-220.livesports24.online/ooomatch.m3u8
+
+#EXTINF:-1,Arena 3
+http://31.220.41.88:8081/live/arena3.stream/playlist.m3u8
+
 #EXTINF:-1, FOX SPORTS 1
 http://tv.cablelatino.xyz/hls/TOPO/FOXSPORT_LAT.m3u8
 
@@ -94,43 +100,10 @@ http://31.220.41.87:8081/live/it-dazn1.stream/chunks.m3u8
 http://sos.moukrasa.xyz/live/6161655/index.m3u8
 
 #EXTINF:-1, BEIN SPORTS 1
-http://19.yaciaptk.xyz/live/6161655/index.m3u8
-
-#EXTINF:-1, BEIN SPORTS 1
-http://55.1-bour.xyz/live/918454578/index.m3u8
-
-#EXTINF:-1, BEIN SPORTS 1
 http://23.88.39.74:80/live/918454578/index.m3u8
-
-#EXTINF:-1, BEIN SPORTS 1
-http://55.1-bour.xyz/live/6161655/index.m3u8
-
-#EXTINF:-1, BEIN SPORTS PREMIUM
-http://20.yaciaptk.xyz/live/6161655/index.m3u8
-
-#EXTINF:-1, BEIN SPORTS 2
-http://18.yaciaptk.xyz/live/616194987/index.m3u8
-
-#EXTINF:-1, BEIN SPORTS 2
-http://55.1-bour.xyz:80/live/69854211/index.m3u8
-
-#EXTINF:-1, BEIN SPORTS 2
-http://55.1-bour.xyz/live/69854211/index.m3u8
-
-#EXTINF:-1, BEIN SPORTS 2
-http://55.1-bour.xyz/live/616194987/index.m3u8
-
-#EXTINF:-1, BEIN SPORTS 3
-http://55.1-bour.xyz/live/6151278887/index.m3u8
-
-#EXTINF:-1, BEIN SPORTS 3
-http://55.1-bour.xyz:80/live/645587700/index.m3u8
 
 #EXTINF:-1, BEIN SPORTS 3
 http://13.yaciaptk.xyz/live/6151278887/index.m3u8
-
-#EXTINF:-1, BEIN SPORTS 3
-http://55.1-bour.xyz/live/645587700/index.m3u8
 
 #EXTINF:-1, BEIN SPORT MAX
 http://213.7.193.54:4000/play/a002/index.m3u8
@@ -144,29 +117,8 @@ https://siloh-ns1.plutotv.net:443/lilo/production/bein/master_1.m3u8
 #EXTINF:-1,BEIN SPORTS EXTRA HD
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 
-#EXTINF: -1,BEIN SPORTS 1 HD FRANCIA
-http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
-
-#EXTINF: -1,BEIN SPORTS 2 HD FRANCIA
-http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
-
-#EXTINF: -1, BEIN SPORTS 3 HD FRANCIA
-http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
-
-#EXTINF: -1,BEIN SPORTS 4 HD FRANCIA
-http://stream.tvtap.live:8081/live/bein4.stream/chunks.m3u8
-
 #EXTINF: -1,BEIN SPORTS 4 HD FRANCIA
 https://c.kartlaryeniden.xyz/tr:-bein-sports-4-hd/playlist.m3u8
-
-#EXTINF: -1,BEIN SPORTS 5 HD FRANCIA
-http://stream.tvtap.live:8081/live/bein5.stream/chunks.m3u8
-
-#EXTINF: -1,BEIN SPORTS 6 HD FRANCIA
-http://stream.tvtap.live:8081/live/bein6.stream/chunks.m3u8
-
-#EXTINF:-1, LOOK SPORTS +
-https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8
 
 #EXTINF:-1, LOOK SPORTS +
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
@@ -259,13 +211,7 @@ http://31.220.41.90:8081/live/nl-npo3.stream/chunks.m3u8
 https://95-213-224-180.livesports24.online/belarusss5.m3u8
 
 #EXTINF:-1,APEHA TV
-https://46-21-250-207.livesports24.online/rumatcharena.m3u8
-
-#EXTINF:-1,APEHA TV
 https://77-247-178-24.livesports24.online/rumatcharena.m3u8
-
-#EXTINF:-1,MATH RUSIA
-https://95-213-172-220.livesports24.online/ooomatch.m3u8
 
 #EXTINF:-1,MATH CTPHA
 https://46-166-139-70.livesports24.online/mnashsport.m3u8
