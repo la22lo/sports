@@ -3,6 +3,9 @@
 #EXTINF:-1, VAMOS
 http://egaletv.cc:2082//live/7584212858556975/465hh60kb8/52214.m3u8
 
+#EXTINF:-1, ESPN VIVO
+https://akamai2-br.cdn.booyah.live/hls/1000079/79691263.m3u8
+
 #EXTINF:-1, YAYA LIVE HD BEIN SPORTS 2
 http://18.alysineoura.xyz/live/616194987/index.m3u8
 
@@ -41,9 +44,6 @@ https://95-213-224-173.livesports24.online/mfootball2rus.m3u8
 
 #EXTINF:-1,MATH RUSIA
 https://95-213-172-220.livesports24.online/ooomatch.m3u8
-
-#EXTINF:-1, ESPN VIVO
-https://akamai2-br.cdn.booyah.live/hls/1000079/79691263.m3u8
 
 #EXTINF:-1, TNT SPORTS
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
