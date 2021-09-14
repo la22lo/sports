@@ -3,8 +3,8 @@
 #EXTINF:-1, VAMOS
 http://egaletv.cc:2082//live/7584212858556975/465hh60kb8/52214.m3u8
 
-#EXTINF:-1, BEIN SPORTS 1 LIVE
-http://55.1-bour.xyz/live/918454578/index.m3u8
+#EXTINF:-1, YAYA LIVE HD BEIN SPORTS 2
+http://18.alysineoura.xyz/live/616194987/index.m3u8
 
 #EXTINF:-1, MOVISTAR LALIGA
 http://62.210.177.217:25461/live/rIzxZN8xty/xjyA9LIR3U/50.m3u8
@@ -20,9 +20,6 @@ https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes1/esportes1_2000/i
 
 #EXTINF:-1, ELEVEN SPORTS 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, YAYA LIVE HD
-https://d104h15ace3unr.cloudfront.net:443/out/v1/8797dfd95c1944bc88aebdd531105e2f/index_1.m3u8
 
 #EXTINF:-1, BEIN ARABE
 http://55.1-bour.xyz:80/live/6161655/index.m3u8
