@@ -15,6 +15,9 @@ http://18.alysineoura.xyz/live/6161655/index.m3u8
 #EXTINF:-1, YAYA LIVE 2
 http://18.alysineoura.xyz/live/616194987/index.m3u8
 
+#EXTINF:-1, VARCHAT 5
+https://bal.varcdn1.ru/lb/m2/index.m3u8
+
 #EXTINF:-1, TNT SPORTS BARCELONA - BAYERN
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
 
@@ -56,9 +59,6 @@ https://google-me.cdn.booyah.live/hls/113132/85572513.m3u8
 
 #EXTINF:-1, LOOK SPORTS +
 https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
-
-#EXTINF:-1, VARCHAT 5
-https://bal.varcdn1.ru/lb/m2/index.m3u8
 
 #EXTINF:-1, VARCHAT
 https://bal.varcdn1.ru/lb/m1/index.m3u8
