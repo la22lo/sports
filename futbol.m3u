@@ -27,6 +27,9 @@ https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes1/esportes1_2000/i
 #EXTINF:-1, VARCHAT 5
 https://bal.varcdn1.ru/lb/m2/index.m3u8
 
+#EXTINF:-1, VARCHAT
+https://bal.varcdn1.ru/lb/m1/index.m3u8
+
 #EXTINF:-1, TNT SPORTS VILLARREAL - ATALANTA
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes3/esportes3_2000/index.m3u8
 
