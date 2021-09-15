@@ -24,6 +24,9 @@ http://18.alysineoura.xyz/live/6161655/index.m3u8
 #EXTINF:-1, bein sports 2
 http://19.alysineoura.xyz/live/616194987/index.m3u8
 
+#EXTINF:-1, YAYA LIVE PREMIUM
+https://d15a04d98fdp5k.cloudfront.net:443/out/v1/b3f246079dfc48b3babcb4288bb47ba8/index_2.m3u8
+
 #EXTINF:-1, TNT SPORTS
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
 
