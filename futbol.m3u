@@ -9,11 +9,14 @@ https://akamai2-br.cdn.booyah.live/hls/1000079/79691263.m3u8
 #EXTINF:-1, YAYA LIVE 1
 https://google-me.cdn.booyah.live/hls/113130/85565524.m3u8
 
-#EXTINF:-1, bein sports
-http://18.alysineoura.xyz/live/6161655/index.m3u8
-
 #EXTINF:-1, YAYA LIVE 2
 http://18.alysineoura.xyz/live/616194987/index.m3u8
+
+#EXTINF:-1, bein sports 1
+http://18.alysineoura.xyz/live/6161655/index.m3u8
+
+#EXTINF:-1, bein sports 2
+http://19.alysineoura.xyz/live/616194987/index.m3u8
 
 #EXTINF:-1, VARCHAT 5
 https://bal.varcdn1.ru/lb/m2/index.m3u8
