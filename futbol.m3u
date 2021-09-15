@@ -18,14 +18,14 @@ http://18.alysineoura.xyz/live/6161655/index.m3u8
 #EXTINF:-1, bein sports 2
 http://19.alysineoura.xyz/live/616194987/index.m3u8
 
+#EXTINF:-1, TNT SPORTS
+https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
+
 #EXTINF:-1, AO Vivo
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes1/esportes1_2000/index.m3u8
 
 #EXTINF:-1, VARCHAT 5
 https://bal.varcdn1.ru/lb/m2/index.m3u8
-
-#EXTINF:-1, TNT SPORTS BARCELONA - BAYERN
-https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
 
 #EXTINF:-1, TNT SPORTS VILLARREAL - ATALANTA
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes3/esportes3_2000/index.m3u8
