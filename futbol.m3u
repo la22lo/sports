@@ -3,6 +3,9 @@
 #EXTINF:-1, VAMOS
 http://116.203.143.191/video/vamos/index.m3u8
 
+#EXTINF:-1, Direct Sport
+https://google-br.cdn.booyah.live/hls/1000032/79691263.m3u8
+
 #EXTINF:-1, ESPN
 https://centurylink.br.cdn.booyah.live/hls/1000033/79691263.m3u8
 
