@@ -6,9 +6,6 @@ http://116.203.143.191/video/vamos/index.m3u8
 #EXTINF:-1, BAR TV DIRECTO
 http://x00.so/live/Marc1234/1234Marc/124446.m3u8
 
-#EXTINF:-1, LOOK SPORTS +
-https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
-
 #EXTINF:-1, YAYA LIVE
 https://d1wazjfrcic0dn.cloudfront.net:443/out/v1/2d6c8d168f7f47fba2a0761a504e010e/index_2.m3u8
 
@@ -20,6 +17,9 @@ https://5-61-37-25.livesports24.online/rusetantaeurasia.m3u8
 
 #EXTINF:-1, SETANTA SPORT 1+
 http://ott-cdn.ucom.am/s81/04.m3u8
+
+#EXTINF:-1, LOOK SPORTS +
+https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
 
 #EXTINF:-1, ESPN BRASIL
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
