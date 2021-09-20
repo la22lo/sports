@@ -51,6 +51,9 @@ https://bal.varcdn1.ru/lb/m1/index.m3u8
 #EXTINF:-1, BAR TV DIRECTO
 http://x00.so/live/Marc1234/1234Marc/124446.m3u8
 
+#EXTINF:-1, MOVISTAR LALIGA
+http://116.203.143.191:80/video/movistar_laliga/index.m3u8
+
 #EXTINF:-1, CANAL RUSO 7 (Футбол 1)
 https://95-213-224-181.livesports24.online/ntvmatchfoot1.m3u8
 
@@ -218,6 +221,12 @@ http://31.220.41.88:8081/live/fr-sfr2.stream/playlist.m3u8
 
 #EXTINF:-1,RMC SPORTS 3
 http://31.220.41.88:8081/live/fr-sfr3.stream/playlist.m3u8
+
+#EXTINF:-1,GOL TV LIVE
+https://cdn.raino.xyz:443/soccer/soccer1-version1/rainostream.m3u8
+
+#EXTINF:-1,ESPN VIVO
+http://105m3u8.epg-kc.com/v3/youshi/m1_ZLeLkHOSgiYq548T_480p.m3u8?session_id=FPremIyiJp7o&app_ver=10101&auth_id=42166598_com.global.brasiltvweb&client_ip=45.163.154.225&user_id=42166598&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://105m3u8.epg-kc.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=b9b0b7a3&expired=1632175402&token=45C0DBAAD71BD27671EF1E568ABE0445&media_code=m1_ZLeLkHOSgiYq548T_480p
 
 #EXTINF:-1,TVP SPORT
 http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
