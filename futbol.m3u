@@ -177,6 +177,9 @@ http://31.220.41.88:8081/live/arena3.stream/playlist.m3u8
 #EXTINF:-1,ASTRO ARENA 
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
+#EXTINF:-1,BT SPORT
+https://s1.cdnfbs.xyz/hls/35df583a06ef378df8540f6db2d36534/chunklist.m3u8
+
 #EXTINF:-1,RMC SPORTS
 http://56.abdakaroukhai.xyz/live/137000/index.m3u8
 
