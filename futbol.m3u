@@ -33,6 +33,9 @@ https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
 #EXTINF:-1, ELEVEN SPORT 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 
+#EXTINF:-1, BEIN SPORTS 1
+http://23.88.39.74:80/live/918454578/index.m3u8
+
 #EXTINF:-1, ESPN BRASIL
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
 
@@ -114,9 +117,6 @@ http://31.220.41.88:8081/live/es-eurosport1.stream/playlist.m3u8
 #EXTINF:-1,EUROSPORT 2
 http://31.220.41.88:8081/live/es-eurosport2.stream/playlist.m3u8
 
-#EXTINF:-1, DAZN 1
-http://x00.so/live/Marc1234/1234Marc/124421.m3u8
-
 #EXTINF:-1, DAZN
 http://31.220.41.87:8081/live/es-moviestarf1.stream/chunks.m3u8
 
@@ -128,9 +128,6 @@ http://31.220.41.87:8081/live/it-dazn1.stream/chunks.m3u8
 
 #EXTINF:-1, BEIN SPORTS 1
 http://sos.moukrasa.xyz/live/6161655/index.m3u8
-
-#EXTINF:-1, BEIN SPORTS 1
-http://23.88.39.74:80/live/918454578/index.m3u8
 
 #EXTINF:-1, BEIN SPORTS 3
 http://13.yaciaptk.xyz/live/6151278887/index.m3u8
