@@ -45,6 +45,9 @@ https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs3/vintequatr
 #EXTINF:-1, GEO SUPER
 http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, FOX SPORT BRASIL
+https://content-aeuf1.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1632245221&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&nielsen=1&iph=6a1948c033db51490e8e6b5a8d49dfcd5123c65df47aa68f0c6b2787f64cce2b&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=28bb1df5cb379fe88d935dd1843161410a81d77893f9f2c0eeaf1f83fd847265&pbs=983d2e1c29d54453a8331ec3d828d1ff
+
 #EXTINF:-1, TNT SPORTS
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
 
