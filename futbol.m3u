@@ -129,9 +129,6 @@ http://31.220.41.87:8081/live/it-dazn1.stream/chunks.m3u8
 #EXTINF:-1, BEIN SPORTS 1
 http://sos.moukrasa.xyz/live/6161655/index.m3u8
 
-#EXTINF:-1, BEIN SPORTS 3
-http://13.yaciaptk.xyz/live/6151278887/index.m3u8
-
 #EXTINF:-1, BEIN SPORT MAX
 http://213.7.193.54:4000/play/a002/index.m3u8
 
@@ -144,32 +141,23 @@ https://siloh-ns1.plutotv.net:443/lilo/production/bein/master_1.m3u8
 #EXTINF:-1,BEIN SPORTS EXTRA HD
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 
-#EXTINF: -1,BEIN SPORTS 4 HD FRANCIA
-https://c.kartlaryeniden.xyz/tr:-bein-sports-4-hd/playlist.m3u8
-
 #EXTINF:-1, LOOK SPORTS +
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 
 #EXTINF:-1, LOOK SPORTS +
 https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
 
-#EXTINF:-1, LOOK SPORTS 2
-https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-
-#EXTINF:-1, LOOK SPORTS 3
-https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-
 #EXTINF:-1, ELEVEN SPORT 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, ELEVEN SPORT 1
-https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes1/esportes1_2000/index.m3u8
 
 #EXTINF:-1, ELEVEN SPORT 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, ELEVEN SPORT 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+
+#EXTINF:-1, Z-SELECT
+http://31.220.41.90:8081/live/nl-ziggoselect.stream/chunks.m3u8
 
 #EXTINF:-1,ARENA SPORTS
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
@@ -186,8 +174,11 @@ http://31.220.41.88:8081/live/arena3.stream/playlist.m3u8
 #EXTINF:-1,ASTRO ARENA 
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
-#EXTINF:-1,BT SPORT
+#EXTINF:-1,BT SPORT 1 HD
 https://s1.cdnfbs.xyz/hls/35df583a06ef378df8540f6db2d36534/chunklist.m3u8
+
+#EXTINF:-1,BT SPORT 1 HD
+https://cdn.raino.xyz:443/soccer/soccer1-version1/rainostream.m3u8
 
 #EXTINF:-1,RMC SPORTS
 http://56.abdakaroukhai.xyz/live/137000/index.m3u8
@@ -204,12 +195,6 @@ http://31.220.41.88:8081/live/fr-sfr2.stream/playlist.m3u8
 #EXTINF:-1,RMC SPORTS 3
 http://31.220.41.88:8081/live/fr-sfr3.stream/playlist.m3u8
 
-#EXTINF:-1,GOL TV LIVE
-https://cdn.raino.xyz:443/soccer/soccer1-version1/rainostream.m3u8
-
-#EXTINF:-1,ESPN VIVO
-http://105m3u8.epg-kc.com/v3/youshi/m1_ZLeLkHOSgiYq548T_480p.m3u8?session_id=FPremIyiJp7o&app_ver=10101&auth_id=42166598_com.global.brasiltvweb&client_ip=45.163.154.225&user_id=42166598&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://105m3u8.epg-kc.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=b9b0b7a3&expired=1632175402&token=45C0DBAAD71BD27671EF1E568ABE0445&media_code=m1_ZLeLkHOSgiYq548T_480p
-
 #EXTINF:-1,TVP SPORT
 http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
 
@@ -225,20 +210,8 @@ http://46.34.209.242/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8?per
 #EXTINF:-1,ESPN NCAF
 https://120sports-accdn-1.plex.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1, SKY SPORTS LIVE
-http://89.187.185.100/SKY_SPORTS_FOOTBALL/index.m3u8
-
-#EXTINF:-1, SKY SPORTS LIVE
-http://89.187.185.100:80/SKY_SPORTS_FOOTBALL/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1, SPORT TV
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
-
-#EXTINF:-1, ORF 1 LIVE HD
-http://31.220.41.86:8081/live/de-orfeins.stream/chunks.m3u8
-
-#EXTINF:-1, NPO 3 LIVE 
-http://31.220.41.90:8081/live/nl-npo3.stream/chunks.m3u8
 
 #EXTINF:-1, BELARUS 5 HD
 https://95-213-224-180.livesports24.online/belarusss5.m3u8
@@ -288,15 +261,6 @@ http://93.157.62.180/RTSHSport/index.m3u8
 #EXTINF:-1,TRT 3 SPORT
 https://tv-trt3.live.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1,FOX SPORTS
-https://centurylink.br.cdn.booyah.live/hls/1000065/81258086.m3u8
-
-#EXTINF:-1,FOX NETWORK
-https://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,GOL TELEVISION
-https://api.goltelevision.com/api/v1/stream/live/stream.m3u8
-
 #EXTINF:-1, SKY SPORTS
 http://31.220.41.86:8081/live/skysportsf1.stream/playlist.m3u8
 
@@ -338,9 +302,6 @@ https://95-213-224-181.livesports24.online/sport1ua.m3u8
 
 #EXTINF:-1, SPORTS 2
 http://iptv.prosto.tv:7000/ch115/video.m3u8
-
-#EXTINF:-1, Z-SELECT
-http://31.220.41.90:8081/live/nl-ziggoselect.stream/chunks.m3u8
 
 #EXTINF:-1, BAHRAIN SPORTS
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
