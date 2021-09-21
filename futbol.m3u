@@ -21,6 +21,9 @@ http://ott-cdn.ucom.am/s81/04.m3u8
 #EXTINF:-1, YAYA LIVE PREMIUM
 https://d15a04d98fdp5k.cloudfront.net:443/out/v1/b3f246079dfc48b3babcb4288bb47ba8/index_2.m3u8
 
+#EXTINF:-1, ELEVEN SPORTS 2
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, SETANTA SPORT 2
 http://ott-cdn.ucom.am/s82/03.m3u8
 
@@ -63,12 +66,6 @@ https://95-213-224-181.livesports24.online/ntvmatchfoot1.m3u8
 #EXTINF:-1, ELEVEN SPORT 3
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes3/esportes3_2000/index.m3u8
 
-#EXTINF:-1, ELEVEN SPORTS 1
-https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes1/esportes1_2000/index.m3u8
-
-#EXTINF:-1, ELEVEN SPORTS 1
-https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes5/esportes5_2000/index.m3u8
-
 #EXTINF:-1, TNT SPORTS
 https://e10.cdnfoxtv.me/ingestbr/manu/master.m3u8
 
@@ -80,9 +77,6 @@ https://95-213-224-173.livesports24.online/mfootball2rus.m3u8
 
 #EXTINF:-1,MATH RUSIA
 https://95-213-172-220.livesports24.online/ooomatch.m3u8
-
-#EXTINF:-1, ELEVEN SPORTS 2
-http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, SETANTA SPORT 1 LIVE
 http://ott-cdn.ucom.am/s81/index.m3u8
