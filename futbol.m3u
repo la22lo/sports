@@ -9,6 +9,9 @@ http://x00.so/live/Marc1234/1234Marc/124446.m3u8
 #EXTINF:-1, MOVISTAR LALIGA
 http://cdn99.one/ivo123/ivo1234/124446.m3u8
 
+#EXTINF:-1, MOVISTAR LALIGA
+http://116.203.143.191/video/movistar_laliga/index.m3u8
+
 #EXTINF:-1, YAYA LIVE
 https://d1wazjfrcic0dn.cloudfront.net:443/out/v1/2d6c8d168f7f47fba2a0761a504e010e/index_2.m3u8
 
