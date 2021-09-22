@@ -21,8 +21,14 @@ http://19.amaniyouhra.xyz/live/918454578/index.m3u8
 #EXTINF:-1, BEIN SPORTS 1
 http://23.88.39.74:80/live/918454578/index.m3u8
 
+#EXTINF:-1, YAYA SPORT
+http://17.amaniyouhra.xyz/live/918454578/index.m3u8
+
 #EXTINF:-1, DIRECT TV SPORTS
 http://tv.cablelatino.xyz/hls/DUDA/DIRECTV_SPORT.m3u8
+
+#EXTINF:-1, CANAL + POLONIA
+http://207.110.52.61:8080/s/hls/5/295/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, SETANTA SPORT
 https://5-61-37-25.livesports24.online/rusetantaeurasia.m3u8
