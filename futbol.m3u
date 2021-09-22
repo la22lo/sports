@@ -75,8 +75,11 @@ https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes1/esportes1_2000/i
 #EXTINF:-1, MATH RUSIA
 https://95-213-224-180.livesports24.online/ooomatch.m3u8
 
-#EXTINF:-1, CANAL RUSO 6 (Футбол 1)
+#EXTINF:-1, Футбол 1
 https://95-213-224-180.livesports24.online/ntvmatchfoot1.m3u8
+
+#EXTINF:-1, Футбол 2
+https://95-213-224-180.livesports24.online/mfootball2rus.m3u8
 
 #EXTINF:-1, VARCHAT 5
 https://bal.varcdn1.ru/lb/m2/index.m3u8
