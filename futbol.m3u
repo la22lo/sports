@@ -27,6 +27,12 @@ http://tv.cablelatino.xyz/hls/DUDA/DIRECTV_SPORT.m3u8
 #EXTINF:-1, SETANTA SPORT 2
 https://95-213-224-186.livesports24.online/setantaplusru.m3u8
 
+#EXTINF:-1, S LALIGA LIVE
+http://azure2.mazystreams.xyz:80/live/7/chunks.m3u8
+
+#EXTINF:-1, C MORE SPORT
+https://186873244.global.cdnfastest.com/live/173573c3f5991ce42ec96f409477f0f6ddc/playlist.m3u8
+
 #EXTINF:-1, YAYA LIVE BEIN SPORT
 http://19.amaniyouhra.xyz/live/918454578/index.m3u8
 
