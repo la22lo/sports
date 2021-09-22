@@ -24,6 +24,9 @@ http://23.88.39.74:80/live/918454578/index.m3u8
 #EXTINF:-1, YAYA SPORT
 http://17.amaniyouhra.xyz/live/918454578/index.m3u8
 
+#EXTINF:-1, ELEVEN SPORT 2
+https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes22/esportes22_2000/index.m3u8
+
 #EXTINF:-1, DIRECT TV SPORTS
 http://tv.cablelatino.xyz/hls/DUDA/DIRECTV_SPORT.m3u8
 
