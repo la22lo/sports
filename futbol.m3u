@@ -39,14 +39,17 @@ https://sourcelive.xyz:2096/hls/ds1.m3u8?md5=oacVutdAfcAgYYHDfJ07ug&expires=1632
 #EXTINF:-1, YAYA LIVE BEIN SPORT
 http://19.amaniyouhra.xyz/live/918454578/index.m3u8
 
+#EXTINF:-1, ELEVEN SPORT 2
+https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes22/esportes22_2000/index.m3u8
+
+#EXTINF:-1, BEIN SPORTS 4
+http://55.abdakaroukhai.xyz/live/9787488847/index.m3u8
+
 #EXTINF:-1, BEIN SPORTS 1
 http://23.88.39.74:80/live/918454578/index.m3u8
 
 #EXTINF:-1, YAYA SPORT
 http://17.amaniyouhra.xyz/live/918454578/index.m3u8
-
-#EXTINF:-1, ELEVEN SPORT 2
-https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes22/esportes22_2000/index.m3u8
 
 #EXTINF:-1, CANAL + POLONIA
 http://207.110.52.61:8080/s/hls/5/295/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
