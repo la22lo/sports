@@ -33,6 +33,9 @@ http://azure2.mazystreams.xyz:80/live/7/chunks.m3u8
 #EXTINF:-1, C MORE SPORT
 https://186873244.global.cdnfastest.com/live/173573c3f5991ce42ec96f409477f0f6ddc/playlist.m3u8
 
+#EXTINF:-1, SPORT SMART HD
+https://sourcelive.xyz:2096/hls/ds1.m3u8?md5=oacVutdAfcAgYYHDfJ07ug&expires=1632342482
+
 #EXTINF:-1, YAYA LIVE BEIN SPORT
 http://19.amaniyouhra.xyz/live/918454578/index.m3u8
 
