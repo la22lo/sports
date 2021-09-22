@@ -15,6 +15,9 @@ http://116.203.143.191/video/movistar_laliga/index.m3u8
 #EXTINF:-1, MOVISTAR LALIGA
 http://player.ukwtv.com:8080/live/3173434353113478/2598854265/193275.m3u8
 
+#EXTINF:-1, YAYA LIVE BEIN SPORT
+http://19.amaniyouhra.xyz/live/918454578/index.m3u8
+
 #EXTINF:-1, SETANTA SPORT
 https://5-61-37-25.livesports24.online/rusetantaeurasia.m3u8
 
@@ -26,12 +29,6 @@ https://d15a04d98fdp5k.cloudfront.net:443/out/v1/b3f246079dfc48b3babcb4288bb47ba
 
 #EXTINF:-1, YAYA LIVE HD
 https://d15a04d98fdp5k.cloudfront.net:443/out/v1/b3f246079dfc48b3babcb4288bb47ba8/index_1.m3u8
-
-#EXTINF:-1, YAYA LIVE
-https://google-me.cdn.booyah.live/hls/113134/85565524.m3u8
-
-#EXTINF:-1, YAYA LIVE
-http://19.amaniyouhra.xyz/live/918454578/index.m3u8
 
 #EXTINF:-1, ELEVEN SPORTS 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
