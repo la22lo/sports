@@ -192,6 +192,9 @@ http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.
 #EXTINF:-1, ELEVEN SPORT 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 
+#EXTINF:-1, ELEVEN SPORT 4
+https://tv2.tructiep.space/live/f193ac5632438e82/playlist.m3u8
+
 #EXTINF:-1, Z-SELECT
 http://31.220.41.90:8081/live/nl-ziggoselect.stream/chunks.m3u8
 
