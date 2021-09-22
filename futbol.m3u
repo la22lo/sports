@@ -21,6 +21,9 @@ https://dny46juluzalr.cloudfront.net:443/out/v1/cfad154d97484db5bb41654794f7ddbb
 #EXTINF:-1, ELEVEN SPORT 1
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes62/esportes62_2000/index.m3u8
 
+#EXTINF:-1, DIRECT TV SPORTS
+http://tv.cablelatino.xyz/hls/DUDA/DIRECTV_SPORT.m3u8
+
 #EXTINF:-1, YAYA LIVE BEIN SPORT
 http://19.amaniyouhra.xyz/live/918454578/index.m3u8
 
@@ -32,9 +35,6 @@ http://17.amaniyouhra.xyz/live/918454578/index.m3u8
 
 #EXTINF:-1, ELEVEN SPORT 2
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes22/esportes22_2000/index.m3u8
-
-#EXTINF:-1, DIRECT TV SPORTS
-http://tv.cablelatino.xyz/hls/DUDA/DIRECTV_SPORT.m3u8
 
 #EXTINF:-1, CANAL + POLONIA
 http://207.110.52.61:8080/s/hls/5/295/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
