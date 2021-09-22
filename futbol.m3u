@@ -63,6 +63,9 @@ https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs5/vintequatr
 #EXTINF:-1, ESPN VIVO
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes8/esportes8_2000/index.m3u8
 
+#EXTINF:-1, ESPN VIVO
+https://centurylink.br.cdn.booyah.live/hls/1000003/84348185.m3u8
+
 #EXTINF:-1, FOX SPORT BRASIL
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
 
@@ -200,6 +203,12 @@ http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 
 #EXTINF:-1, ELEVEN SPORT 4
 https://tv2.tructiep.space/live/f193ac5632438e82/playlist.m3u8
+
+#EXTINF:-1, SPORT TV3
+https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes1/esportes1_2000/index.m3u8
+
+#EXTINF:-1, SPORT TV5
+https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes5/esportes5_2000/index.m3u8
 
 #EXTINF:-1, Z-SELECT
 http://31.220.41.90:8081/live/nl-ziggoselect.stream/chunks.m3u8
