@@ -21,6 +21,9 @@ http://207.110.52.61:8080/s/hls/5/295/canal_plus_sport_polska_250/1/1/tracks-v1a
 #EXTINF:-1, ESPN VIVO
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes8/esportes8_2000/index.m3u8
 
+#EXTINF:-1, LATINO
+https://centurylink.br.cdn.booyah.live/hls/1000003/88438379.m3u8
+
 #EXTINF:-1, YAYA SPORT
 https://dny46juluzalr.cloudfront.net:443/out/v1/cfad154d97484db5bb41654794f7ddbb/index_1.m3u8
 
