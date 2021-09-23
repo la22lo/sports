@@ -24,6 +24,9 @@ http://cdn.raino.xyz:80/soccer/soccer3-version1/rainostream.m3u8
 #EXTINF:-1, LALIGA TV ENGLISH
 https://tv2.tructiep.space/live/f9a6defeccbb9139/playlist.m3u8?wsSession=TVb2af03651cf9ae684ee1d410-163242720484026&wsIPSercert=dcd4221018ec79db7d9fe41c15bd47d3&wsMonitor=0
 
+#EXTINF:-1, LALIGA TV ENGLISH
+https://s1.cdnfbs.xyz/hls/6f6c046e7b9315c34b9363845959b8d7/chunklist.m3u8
+
 #EXTINF:-1, ELEVEN SPORT 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 
