@@ -96,20 +96,8 @@ https://95-213-224-173.livesports24.online/mfootball2rus.m3u8
 #EXTINF:-1,MATH RUSIA
 https://95-213-172-220.livesports24.online/ooomatch.m3u8
 
-#EXTINF:-1, SETANTA SPORT 1+
-http://ott-cdn.ucom.am/s81/04.m3u8
-
-#EXTINF:-1, SETANTA SPORT 1 LIVE
-http://ott-cdn.ucom.am/s81/index.m3u8
-
-#EXTINF:-1, SETANTA SPORT 1 LIVE
-http://ott-cdn.ucom.am/s81/03.m3u8
-
 #EXTINF:-1, SETANTA SPORT 1
 http://iptv.prosto.tv:7000/ch106/video.m3u8
-
-#EXTINF:-1, SETANTA SPORT 2
-http://ott-cdn.ucom.am/s82/03.m3u8
 
 #EXTINF:-1, CANAL RUSO 2 (Матч!)
 https://95-213-224-173.livesports24.online/ooomatch.m3u8
@@ -144,9 +132,6 @@ http://31.220.41.87:8081/live/it-dazn1.stream/chunks.m3u8
 #EXTINF:-1, BEIN SPORTS 1
 http://sos.moukrasa.xyz/live/6161655/index.m3u8
 
-#EXTINF:-1, BEIN SPORTS 2
-http://10.amaniyouhra.xyz/live/69854211/index.m3u8
-
 #EXTINF:-1, BEIN SPORTS 6
 http://55.abdakaroukhai.xyz/live/1515000000/index.m3u8
 
@@ -176,9 +161,6 @@ http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.
 
 #EXTINF:-1, ELEVEN SPORT 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
-
-#EXTINF:-1, ELEVEN SPORT 4
-https://tv2.tructiep.space/live/f193ac5632438e82/playlist.m3u8
 
 #EXTINF:-1, SPORT TV2
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes22/esportes22_2000/index.m3u8
