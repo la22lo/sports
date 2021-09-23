@@ -12,6 +12,12 @@ http://cdn99.one/ivo123/ivo1234/124446.m3u8
 #EXTINF:-1, MOVISTAR LALIGA
 http://hdhd.tk:80/live/27604/27604/22557.m3u8
 
+#EXTINF:-1, YAYA LIVE
+https://google-me.cdn.booyah.live/hls/113130/85565524.m3u8
+
+#EXTINF:-1, YAYA SPORT
+https://dny46juluzalr.cloudfront.net:443/out/v1/cfad154d97484db5bb41654794f7ddbb/index_1.m3u8
+
 #EXTINF:-1, BEIN SPORTS 1
 http://23.88.39.74:80/live/918454578/index.m3u8
 
@@ -23,9 +29,6 @@ https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes8/esportes8_2000/i
 
 #EXTINF:-1, LATINO
 https://centurylink.br.cdn.booyah.live/hls/1000003/88438379.m3u8
-
-#EXTINF:-1, YAYA SPORT
-https://dny46juluzalr.cloudfront.net:443/out/v1/cfad154d97484db5bb41654794f7ddbb/index_1.m3u8
 
 #EXTINF:-1, SPORT SMART HD
 https://sourcelive.xyz:2096/hls/ds1.m3u8?md5=oacVutdAfcAgYYHDfJ07ug&expires=1632342482
