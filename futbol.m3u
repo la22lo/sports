@@ -48,6 +48,9 @@ https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs5/vintequatr
 #EXTINF:-1, LATINO
 https://centurylink.br.cdn.booyah.live/hls/1000003/88438379.m3u8
 
+#EXTINF:-1, CCTV
+https://tv2.tructiep.space/live/574d355b46bc465a/playlist.m3u8?wsSession=db85e54925869cc347b93274-163242689555443&wsIPSercert=dcd4221018ec79db7d9fe41c15bd47d3&wsMonitor=0
+
 #EXTINF:-1, SPORT SMART HD
 https://sourcelive.xyz:2096/hls/ds1.m3u8?md5=oacVutdAfcAgYYHDfJ07ug&expires=1632342482
 
