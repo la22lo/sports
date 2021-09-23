@@ -27,6 +27,9 @@ https://dny46juluzalr.cloudfront.net:443/out/v1/cfad154d97484db5bb41654794f7ddbb
 #EXTINF:-1, SPORT SMART HD
 https://sourcelive.xyz:2096/hls/ds1.m3u8?md5=oacVutdAfcAgYYHDfJ07ug&expires=1632342482
 
+#EXTINF:-1, CBC SPORT CANLI
+https://tv2.tructiep.space/live/ceab87e07a758ad3/playlist.m3u8
+
 #EXTINF:-1, BEIN SPORTS 4
 http://55.abdakaroukhai.xyz/live/9787488847/index.m3u8
 
