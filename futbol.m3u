@@ -15,14 +15,14 @@ http://hdhd.tk:80/live/27604/27604/22557.m3u8
 #EXTINF:-1, MOVISTAR LALIGA
 http://player.ukwtv.com:8080/live/3173434353113478/2598854265/193275.m3u8
 
+#EXTINF:-1, BEIN SPORTS 1
+http://23.88.39.74:80/live/918454578/index.m3u8
+
+#EXTINF:-1, CANAL + POLONIA
+http://207.110.52.61:8080/s/hls/5/295/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, YAYA SPORT
 https://dny46juluzalr.cloudfront.net:443/out/v1/cfad154d97484db5bb41654794f7ddbb/index_1.m3u8
-
-#EXTINF:-1, ELEVEN SPORT 1
-https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes62/esportes62_2000/index.m3u8
-
-#EXTINF:-1, DIRECT TV SPORTS
-http://tv.cablelatino.xyz/hls/DUDA/DIRECTV_SPORT.m3u8
 
 #EXTINF:-1, SETANTA SPORT 2
 https://95-213-224-186.livesports24.online/setantaplusru.m3u8
@@ -45,14 +45,8 @@ https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes22/esportes22_2000
 #EXTINF:-1, BEIN SPORTS 4
 http://55.abdakaroukhai.xyz/live/9787488847/index.m3u8
 
-#EXTINF:-1, BEIN SPORTS 1
-http://23.88.39.74:80/live/918454578/index.m3u8
-
 #EXTINF:-1, YAYA SPORT
 http://17.amaniyouhra.xyz/live/918454578/index.m3u8
-
-#EXTINF:-1, CANAL + POLONIA
-http://207.110.52.61:8080/s/hls/5/295/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, SETANTA SPORT
 https://5-61-37-25.livesports24.online/rusetantaeurasia.m3u8
