@@ -240,9 +240,6 @@ https://cdn.raino.xyz:443/soccer/soccer1-version1/rainostream.m3u8
 #EXTINF:-1,BT SPORT 1
 https://s1.cdnfbs.xyz/hls/eff58775e5cf76bcf61f6c6b36767721/chunklist.m3u8
 
-#EXTINF:-1,RMC SPORTS
-http://56.abdakaroukhai.xyz/live/137000/index.m3u8
-
 #EXTINF:-1,RMC 1 SPORTS
 http://31.220.41.88:8081/live/fr-sfr1.stream/playlist.m3u8
 
