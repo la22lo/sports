@@ -66,6 +66,9 @@ https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs5/vintequatr
 #EXTINF:-1, ESPN 2 VIVO
 https://centurylink.br.cdn.booyah.live/hls/1000003/88438379.m3u8
 
+#EXTINF:-1, DIRECTV SPORTS
+http://tv.cablelatino.xyz/hls/VACA/DIRECTV_SPORT.m3u8
+
 #EXTINF:-1, SPORT SMART HD
 https://sourcelive.xyz:2096/hls/ds1.m3u8?md5=oacVutdAfcAgYYHDfJ07ug&expires=1632342482
 
@@ -131,6 +134,9 @@ https://95-213-224-173.livesports24.online/mfootball2rus.m3u8
 
 #EXTINF:-1,MATH RUSIA
 https://95-213-172-220.livesports24.online/ooomatch.m3u8
+
+#EXTINF:-1, SETANTA SPORT
+https://95-213-224-179.livesports24.online/setantaukraine.m3u8
 
 #EXTINF:-1, SETANTA SPORT 1
 http://iptv.prosto.tv:7000/ch106/video.m3u8
@@ -234,11 +240,11 @@ http://31.220.41.88:8081/live/arena3.stream/playlist.m3u8
 #EXTINF:-1,ASTRO ARENA 
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
-#EXTINF:-1,BT SPORT 1 HD
-https://s1.cdnfbs.xyz/hls/35df583a06ef378df8540f6db2d36534/chunklist.m3u8
-
-#EXTINF:-1,BT SPORT 1 HD
+#EXTINF:-1,BEIN SPORTS Ñ
 https://cdn.raino.xyz:443/soccer/soccer1-version1/rainostream.m3u8
+
+#EXTINF:-1,BT SPORT 1
+https://s1.cdnfbs.xyz/hls/eff58775e5cf76bcf61f6c6b36767721/chunklist.m3u8
 
 #EXTINF:-1,RMC SPORTS
 http://56.abdakaroukhai.xyz/live/137000/index.m3u8
