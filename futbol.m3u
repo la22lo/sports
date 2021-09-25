@@ -40,19 +40,16 @@ https://dny46juluzalr.cloudfront.net/out/v1/cfad154d97484db5bb41654794f7ddbb/ind
 http://cdn.raino.xyz:80/soccer/soccer3-version1/rainostream.m3u8
 
 #EXTINF:-1, LALIGA TV ENGLISH
-https://tv2.tructiep.space/live/f9a6defeccbb9139/playlist.m3u8?wsSession=TVb2af03651cf9ae684ee1d410-163242720484026&wsIPSercert=dcd4221018ec79db7d9fe41c15bd47d3&wsMonitor=0
-
-#EXTINF:-1, LALIGA TV ENGLISH
 https://s1.cdnfbs.xyz/hls/6f6c046e7b9315c34b9363845959b8d7/chunklist.m3u8
 
 #EXTINF:-1, ELEVEN SPORT 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 
-#EXTINF:-1, BEIN SPORTS 1
-http://23.88.39.74:80/live/918454578/index.m3u8
+#EXTINF:-1, ELEVEN SPORT 1
+https://google-me.cdn.booyah.live/hls/113138/86056279.m3u8
 
 #EXTINF:-1, BEIN SPORTS 1
-https://google-me.cdn.booyah.live/hls/113134/85351102.m3u8
+http://23.88.39.74:80/live/918454578/index.m3u8
 
 #EXTINF:-1, CANAL + POLONIA
 http://207.110.52.61:8080/s/hls/5/295/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
@@ -60,17 +57,11 @@ http://207.110.52.61:8080/s/hls/5/295/canal_plus_sport_polska_250/1/1/tracks-v1a
 #EXTINF:-1, ESPN BRASIL
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
 
-#EXTINF:-1, LATINO
+#EXTINF:-1, ESPN 2 VIVO
 https://centurylink.br.cdn.booyah.live/hls/1000003/88438379.m3u8
-
-#EXTINF:-1, CCTV
-https://tv2.tructiep.space/live/574d355b46bc465a/playlist.m3u8?wsSession=db85e54925869cc347b93274-163242689555443&wsIPSercert=dcd4221018ec79db7d9fe41c15bd47d3&wsMonitor=0
 
 #EXTINF:-1, SPORT SMART HD
 https://sourcelive.xyz:2096/hls/ds1.m3u8?md5=oacVutdAfcAgYYHDfJ07ug&expires=1632342482
-
-#EXTINF:-1, CBC SPORT CANLI
-https://tv2.tructiep.space/live/ceab87e07a758ad3/playlist.m3u8
 
 #EXTINF:-1, BEIN SPORTS 4
 http://55.abdakaroukhai.xyz/live/9787488847/index.m3u8
@@ -158,6 +149,9 @@ http://31.220.41.88:8081/live/es-eurosport1.stream/playlist.m3u8
 
 #EXTINF:-1,EUROSPORT 2
 http://31.220.41.88:8081/live/es-eurosport2.stream/playlist.m3u8
+
+#EXTINF:-1, DAZN
+https://186267359.global.cdnfastest.com/live/17373506067e0c249a3a0565a078c287da4/playlist.m3u8
 
 #EXTINF:-1, DAZN
 http://31.220.41.87:8081/live/es-moviestarf1.stream/chunks.m3u8
