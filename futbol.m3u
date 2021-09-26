@@ -225,14 +225,8 @@ http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1,BEIN SPORTS Ñ
 https://cdn.raino.xyz:443/soccer/soccer1-version1/rainostream.m3u8
 
-#EXTINF:-1,BT SPORT 1
-https://s1.cdnfbs.xyz/hls/eff58775e5cf76bcf61f6c6b36767721/chunklist.m3u8
-
 #EXTINF:-1,RMC 1 SPORTS
 http://31.220.41.88:8081/live/fr-sfr1.stream/playlist.m3u8
-
-#EXTINF:-1,RMC SPORTS 2
-http://56.abdakaroukhai.xyz/live/138/index.m3u8
 
 #EXTINF:-1,RMC SPORTS 2
 http://31.220.41.88:8081/live/fr-sfr2.stream/playlist.m3u8
@@ -251,9 +245,6 @@ http://37.99.5.237:80/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8
 
 #EXTINF:-1, QAZ SPORT 
 http://46.34.209.242/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8?per
-
-#EXTINF:-1,ESPN NCAF
-https://120sports-accdn-1.plex.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1, BELARUS 5 HD
 https://95-213-224-180.livesports24.online/belarusss5.m3u8
@@ -284,9 +275,6 @@ https://95-213-224-180.livesports24.online/mfootball2rus.m3u8
 
 #EXTINF:-1, Футбол 3
 https://95-213-224-179.livesports24.online/football3ua.m3u8?415414995869a
-
-#EXTINF:-1, Матч! Игра
-https://95-213-172-212.livesports24.online/migra.m3u8
 
 #EXTINF:-1, Футбол 2
 https://185-106-121-77.livesports24.online/mfootball2rus.m3u8
@@ -347,9 +335,6 @@ http://iptv.prosto.tv:7000/ch115/video.m3u8
 
 #EXTINF:-1, BAHRAIN SPORTS
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
-
-#EXTINF:-1, Supar Sports 3
-http://93.157.62.180/Supersport3/index.m3u8
 
 #EXTINF:-1, ARMENIA TV
 http://ott-cdn.ucom.am/s4/04.m3u8
