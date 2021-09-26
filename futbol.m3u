@@ -6,6 +6,9 @@ http://116.203.143.191/video/vamos/index.m3u8
 #EXTINF:-1, BAR TV DIRECTO
 http://x00.so/live/Marc1234/1234Marc/124446.m3u8
 
+#EXTINF:-1, LA LIGA TV BAR
+http://SOBRINO@cdn99.one:80/live/bruno123/bruno1234/124446.m3u8?SBN
+
 #EXTINF:-1, MOVISTAR LALIGA
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8
 
