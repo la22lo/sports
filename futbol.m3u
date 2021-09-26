@@ -13,9 +13,6 @@ https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index
 http://31.220.41.86:8081/live/es-laligatvbar.stream/playlist.m3u8
 
 #EXTINF:-1, ESPN VIVO
-https://akamai2-br.cdn.booyah.live/hls/1000048/84348185.m3u8
-
-#EXTINF:-1, ESPN VIVO
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8
 
 #EXTINF:-1, ESPN 2
@@ -23,6 +20,9 @@ https://google-br.cdn.booyah.live/hls/1000014/79691263.m3u8
 
 #EXTINF:-1, LALIGA TV ENGLISH
 http://cdn.raino.xyz:80/soccer/soccer3-version1/rainostream.m3u8
+
+#EXTINF:-1, BEIN SPORTS 1
+http://23.88.39.74:80/live/918454578/index.m3u8
 
 #EXTINF:-1, SETANTA SPORT
 https://bal.varcdn1.ru/lb/setanta1/index.m3u8
@@ -54,17 +54,11 @@ https://dny46juluzalr.cloudfront.net:443/out/v1/cfad154d97484db5bb41654794f7ddbb
 #EXTINF:-1, YAYA LIVE
 https://dny46juluzalr.cloudfront.net/out/v1/cfad154d97484db5bb41654794f7ddbb/index.m3u8
 
-#EXTINF:-1, LALIGA TV ENGLISH
-https://s1.cdnfbs.xyz/hls/6f6c046e7b9315c34b9363845959b8d7/chunklist.m3u8
-
 #EXTINF:-1, ELEVEN SPORT 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 
 #EXTINF:-1, ELEVEN SPORT 1
 https://google-me.cdn.booyah.live/hls/113138/86056279.m3u8
-
-#EXTINF:-1, BEIN SPORTS 1
-http://23.88.39.74:80/live/918454578/index.m3u8
 
 #EXTINF:-1, CANAL + POLONIA
 http://207.110.52.61:8080/s/hls/5/295/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
@@ -75,8 +69,8 @@ https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs5/vintequatr
 #EXTINF:-1, ESPN 2 VIVO
 https://centurylink.br.cdn.booyah.live/hls/1000003/88438379.m3u8
 
-#EXTINF:-1, DIRECTV SPORTS
-http://tv.cablelatino.xyz/hls/VACA/DIRECTV_SPORT.m3u8
+#EXTINF:-1, ESPN VIVO
+https://akamai2-br.cdn.booyah.live/hls/1000048/84348185.m3u8
 
 #EXTINF:-1, SPORT SMART HD
 https://sourcelive.xyz:2096/hls/ds1.m3u8?md5=oacVutdAfcAgYYHDfJ07ug&expires=1632342482
