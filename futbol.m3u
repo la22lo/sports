@@ -90,6 +90,9 @@ https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
 #EXTINF:-1, FOX SPORT BRASIL
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
 
+#EXTINF:-1, MOVISTAR PLUS LIGA CAMPEONES
+http://x00.so/live/Marc1234/1234Marc/124465.m3u8
+
 #EXTINF:-1, TNT SPORTS
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
 
