@@ -222,6 +222,9 @@ https://smart-tv.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1, SPORT TV2
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes22/esportes22_2000/index.m3u8
 
+#EXTINF:-1, SPORT TV2
+https://smart-tv.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+
 #EXTINF:-1, SPORT TV 3
 https://smart-tv.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
 
