@@ -18,6 +18,9 @@ https://akamai2-br.cdn.booyah.live/hls/1000048/84348185.m3u8
 #EXTINF:-1, ESPN VIVO
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8
 
+#EXTINF:-1, SETANTA SPORT
+https://bal.varcdn1.ru/lb/setanta1/index.m3u8
+
 #EXTINF:-1, YAYA SPORT
 https://ZAnA_IPTV@d3s0kqtvaxsiq2.cloudfront.net/out/v1/5694f9e59eea46cf8452cda3dbb14c9f/index.m3u8
 
