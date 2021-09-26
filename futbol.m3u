@@ -54,6 +54,9 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1, CANAL + POLONIA
 http://207.110.52.61:8080/s/hls/5/295/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, DIRECTV SPORT
+http://cdn.boxter.live:8081/ssl/dtv1654545/playlist.m3u8
+
 #EXTINF:-1, ESPN BRASIL
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
 
