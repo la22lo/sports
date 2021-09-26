@@ -21,6 +21,9 @@ https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index
 #EXTINF:-1, SETANTA SPORT
 https://bal.varcdn1.ru/lb/setanta1/index.m3u8
 
+#EXTINF:-1, GEO SUPER
+http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, YAYA SPORT
 https://ZAnA_IPTV@d3s0kqtvaxsiq2.cloudfront.net/out/v1/5694f9e59eea46cf8452cda3dbb14c9f/index.m3u8
 
@@ -95,9 +98,6 @@ https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
 
 #EXTINF:-1, FOX SPORT BRASIL
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
-
-#EXTINF:-1, GEO SUPER
-http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, TNT SPORTS
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
