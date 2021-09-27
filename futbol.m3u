@@ -408,6 +408,9 @@ https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/.m3u8
 #EXTINF:-1, ESPORTES CATALUÑA
 https://directes-tv-es.ccma.cat/es/ngrp:es3_mobil/playlist.m3u8
 
+#EXTINF:-1, ESPORTES CATALUÑA
+https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000.m3u8
+
 #EXTINF:-1, CICLISMO ESUKERA (EITB)
 https://live-dvr.eitb-fastly.cross-media.es/live-content/oka2hd-hls/bitrate_4.m3u8
 
