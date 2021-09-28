@@ -30,9 +30,6 @@ https://bal.varcdn1.ru/lb/setanta1/index.m3u8
 #EXTINF:-1, Футбол 1
 https://95-213-224-181.livesports24.online/ntvmatchfoot1.m3u8
 
-#EXTINF:-1, GEO SUPER
-http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1, SETANTA SPORT 1
 https://bal.varcdn1.ru/lb/setanta1/index.m3u8
 
@@ -119,6 +116,9 @@ https://185-117-74-6.livesports24.online/fooootball2.m3u8
 
 #EXTINF:-1, CANAL RUSO 7 (Матч!)
 http://persik.by/stream/6696/480248/10264.m3u8
+
+#EXTINF:-1, GEO SUPER
+http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,EUROSPORT 1
 http://31.220.41.88:8081/live/es-eurosport1.stream/playlist.m3u8
