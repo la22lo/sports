@@ -36,6 +36,9 @@ https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index
 #EXTINF:-1, BEIN SPORTS 1
 http://23.88.39.74:80/live/918454578/index.m3u8
 
+#EXTINF:-1,BEIN SPORTS 2
+https://google-me.cdn.booyah.live/hls/113134/83188269.m3u8
+
 #EXTINF:-1, BEIN SPORT MAX
 http://213.7.193.54:4000/play/a002/index.m3u8
 
@@ -162,9 +165,6 @@ https://siloh-ns1.plutotv.net:443/lilo/production/bein/master_1.m3u8
 #EXTINF:-1,BEIN SPORTS EXTRA HD
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 
-#EXTINF:-1,BEIN SPORTS 2
-https://google-me.cdn.booyah.live/hls/113134/83188269.m3u8
-
 #EXTINF:-1, LOOK SPORTS +
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 
@@ -215,6 +215,9 @@ http://31.220.41.88:8081/live/fr-sfr2.stream/playlist.m3u8
 
 #EXTINF:-1,RMC SPORTS 3
 http://31.220.41.88:8081/live/fr-sfr3.stream/playlist.m3u8
+
+#EXTINF:-1,BT SPORT 1
+http://93.152.174.144:4000/play/btsport1/index.m3u8
 
 #EXTINF:-1,TVP SPORT
 http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
