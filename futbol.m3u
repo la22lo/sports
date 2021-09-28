@@ -21,23 +21,14 @@ http://cdn99.one:80/vando123/vando1234/124467.m3u8
 #EXTINF:-1,BEIN SPORTS 2
 https://google-me.cdn.booyah.live/hls/113134/83188269.m3u8
 
+#EXTINF:-1, ESPN 2 HD
+https://akamai2-br.cdn.booyah.live/hls/1000026/84348185.m3u8?d=https://edge-live13-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
+
 #EXTINF:-1, YALLA LIVE 
 https://d1urti526tpkii.cloudfront.net:443/out/v1/8e343f42dc094785bc51cad39e8d133e/index_2.m3u8
 
-#EXTINF:-1, SPORT ESPN HD
-http://77.247.109.111/hls/T1.m3u8
-
-#EXTINF:-1, AO VIVO
-https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes1/esportes1_2000/index.m3u8
-
 #EXTINF:-1, YALLA LIVE 
 https://google-me.cdn.booyah.live/hls/113138/85565524.m3u8
-
-#EXTINF:-1, ESPN VIVO
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8
-
-#EXTINF:-1, ESPN 2 HD
-https://akamai2-br.cdn.booyah.live/hls/1000026/84348185.m3u8?d=https://edge-live13-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
 
 #EXTINF:-1, BEIN SPORTS 1
 http://23.88.39.74:80/live/918454578/index.m3u8
@@ -74,6 +65,12 @@ http://207.110.52.61:8080/s/hls/5/295/canal_plus_sport_polska_250/1/1/tracks-v1a
 
 #EXTINF:-1, ESPN BRASIL
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
+
+#EXTINF:-1, SPORT ESPN HD
+http://77.247.109.111/hls/T1.m3u8
+
+#EXTINF:-1, ESPN VIVO
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8
 
 #EXTINF:-1, SPORT SMART HD
 https://sourcelive.xyz:2096/hls/ds1.m3u8?md5=oacVutdAfcAgYYHDfJ07ug&expires=1632342482
