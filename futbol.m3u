@@ -24,8 +24,8 @@ http://23.88.39.74:80/live/918454578/index.m3u8
 #EXTINF:-1, BEIN SPORT MAX
 http://213.7.193.54:4000/play/a002/index.m3u8
 
-#EXTINF:-1, SETANTA SPORT
-https://bal.varcdn1.ru/lb/setanta1/index.m3u8
+#EXTINF:-1, LOOK SPORTS +
+https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
 
 #EXTINF:-1, Футбол 1
 https://95-213-224-181.livesports24.online/ntvmatchfoot1.m3u8
@@ -56,9 +56,6 @@ https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
 
 #EXTINF:-1, ELEVEN SPORTS 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, LOOK SPORTS +
-https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
 
 #EXTINF:-1, FOX SPORT BRASIL
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
