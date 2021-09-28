@@ -21,8 +21,14 @@ https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index
 #EXTINF:-1, BEIN SPORTS 1
 http://23.88.39.74:80/live/918454578/index.m3u8
 
+#EXTINF:-1, BEIN SPORT MAX
+http://213.7.193.54:4000/play/a002/index.m3u8
+
 #EXTINF:-1, SETANTA SPORT
 https://bal.varcdn1.ru/lb/setanta1/index.m3u8
+
+#EXTINF:-1, Футбол 1
+https://95-213-224-181.livesports24.online/ntvmatchfoot1.m3u8
 
 #EXTINF:-1, GEO SUPER
 http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
@@ -134,9 +140,6 @@ http://31.220.41.87:8081/live/it-dazn1.stream/chunks.m3u8
 
 #EXTINF:-1, BEIN SPORTS 1
 http://sos.moukrasa.xyz/live/6161655/index.m3u8
-
-#EXTINF:-1, BEIN SPORT MAX
-http://213.7.193.54:4000/play/a002/index.m3u8
 
 #EXTINF:-1,BEIN SPORT EXTRA
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
