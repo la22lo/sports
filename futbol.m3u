@@ -162,23 +162,11 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.
 #EXTINF:-1, ELEVEN SPORT 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, ELEVEN SPORT 2
-http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
-
 #EXTINF:-1, SPORT TV
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
 
-#EXTINF:-1, SPORT TV1
-https://smart-tv.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
-
 #EXTINF:-1, SPORT TV2
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes22/esportes22_2000/index.m3u8
-
-#EXTINF:-1, SPORT TV2
-https://smart-tv.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
-
-#EXTINF:-1, SPORT TV 3
-https://smart-tv.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
 
 #EXTINF:-1, SPORT TV3
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes1/esportes1_2000/index.m3u8
