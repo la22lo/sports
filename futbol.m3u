@@ -33,6 +33,12 @@ https://akamai2-br.cdn.booyah.live/hls/1500083/89820306.m3u8
 #EXTINF:-1, YAYA LIVE
 https://duq715j8eav4e.cloudfront.net/out/v1/b4b578ad77e0468c9ee47ac73b2b4fc0/index_1.m3u8
 
+#EXTINF:-1, YAYA LIVE
+https://google-me.cdn.booyah.live/hls/113132/85569341.m3u8
+
+#EXTINF:-1, S LIVE
+http://77.247.109.101/hls/A2.m3u8
+
 #EXTINF:-1, VARCHAT
 https://bal.varcdn1.ru/lb/m3/index.m3u8
 
