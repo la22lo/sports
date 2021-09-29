@@ -30,15 +30,6 @@ http://23.88.42.119:80/live/652177700/index.m3u8
 #EXTINF:-1, LOOK SPORTS +
 https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
 
-#EXTINF:-1, AO VIVO
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8
-
-#EXTINF:-1,BT SPORT ESPN HD LIVE
-http://77.247.109.101/hls/A1.m3u8
-
-#EXTINF:-1,BT SPORT 1 HD LIVE
-http://77.247.109.111/hls/T1.m3u8
-
 #EXTINF:-1,ESPN BRASIL
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/playlist.m3u8
 
