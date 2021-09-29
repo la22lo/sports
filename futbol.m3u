@@ -18,6 +18,9 @@ https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index
 #EXTINF:-1, MOVISTAR LIGA CAMPEONES 2
 http://cdn99.one:80/vando123/vando1234/124467.m3u8
 
+#EXTINF:-1,BEIN SPORTs 1
+http://213.7.193.54:4000/play/a002/index.m3u8
+
 #EXTINF:-1,BEIN SPORTS 2
 https://google-me.cdn.booyah.live/hls/113134/83188269.m3u8
 
@@ -59,9 +62,6 @@ https://dl9shgxyr5ah6.cloudfront.net:443/out/v1/ddf299570bda41fea428c3eb5a6e1640
 
 #EXTINF:-1, BEIN SPORTS 1
 http://23.88.39.74:80/live/918454578/index.m3u8
-
-#EXTINF:-1, BEIN SPORTS 1
-https://google-me.cdn.booyah.live/hls/113137/85354950.m3u8
 
 #EXTINF:-1, BEIN SPORTS 3
 https://google-me.cdn.booyah.live/hls/113132/85566389.m3u8
@@ -464,12 +464,6 @@ http://91.126.138.140:1935/live/bemad/playlist.m3u8
 
 #EXTINF:-1, ESPORTES CATALUÑA
 https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/.m3u8
-
-#EXTINF:-1, ESPORTES CATALUÑA
-https://directes-tv-es.ccma.cat/es/ngrp:es3_mobil/playlist.m3u8
-
-#EXTINF:-1, ESPORTES CATALUÑA
-https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000.m3u8
 
 #EXTINF:-1, CICLISMO ESUKERA (EITB)
 https://live-dvr.eitb-fastly.cross-media.es/live-content/oka2hd-hls/bitrate_4.m3u8
