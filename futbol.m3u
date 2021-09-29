@@ -24,6 +24,9 @@ https://google-me.cdn.booyah.live/hls/113134/86056279.m3u8
 #EXTINF:-1, YALLA LIVE 
 https://google-me.cdn.booyah.live/hls/113137/88434177.m3u8
 
+#EXTINF:-1, YALLA LIVE 
+https://google-me.cdn.booyah.live/hls/113138/85572513.m3u8
+
 #EXTINF:-1,BEIN SPORTs 1
 http://213.7.193.54:4000/play/a002/index.m3u8
 
@@ -59,6 +62,9 @@ https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs4/vintequatr
 
 #EXTINF:-1, TNT SPORTS
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes22/esportes22_2000/index.m3u8
+
+#EXTINF:-1, TNT SPORTS
+https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes4/esportes4_2000/index.m3u8
 
 #EXTINF:-1, GEO SUPER
 http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
