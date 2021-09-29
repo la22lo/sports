@@ -30,6 +30,12 @@ http://213.7.193.54:4000/play/a002/index.m3u8
 #EXTINF:-1,BEIN SPORTS 2
 http://23.88.42.119:80/live/652177700/index.m3u8
 
+#EXTINF:-1,BT SPORT ESPN HD LIVE
+http://77.247.109.101/hls/A1.m3u8
+
+#EXTINF:-1,BT SPORT 1 HD LIVE
+http://77.247.109.111/hls/T1.m3u8
+
 #EXTINF:-1,ESPN 3 VIVO
 https://akamai2-br.cdn.booyah.live/hls/1000026/84348185.m3u8
 
