@@ -21,6 +21,9 @@ https://google-me.cdn.booyah.live/hls/113138/85565524.m3u8
 #EXTINF:-1, YALLA LIVE 
 https://google-me.cdn.booyah.live/hls/113134/86056279.m3u8
 
+#EXTINF:-1, YALLA LIVE 
+https://google-me.cdn.booyah.live/hls/113137/88434177.m3u8
+
 #EXTINF:-1,BEIN SPORTs 1
 http://213.7.193.54:4000/play/a002/index.m3u8
 
@@ -33,11 +36,20 @@ http://23.88.42.119:80/live/652177700/index.m3u8
 #EXTINF:-1, LOOK SPORTS +
 https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
 
+#EXTINF:-1, S LIVE
+http://77.247.109.111/hls/T2.m3u8
+
+#EXTINF:-1, S LIVE
+http://cdn.raino.xyz:80/soccer/soccer5-version1/rainostream.m3u8
+
 #EXTINF:-1,ESPN BRASIL
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/playlist.m3u8
 
 #EXTINF:-1, TNT SPORTS
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
+
+#EXTINF:-1, TNT SPORTS
+https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes22/esportes22_2000/index.m3u8
 
 #EXTINF:-1, GEO SUPER
 http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
