@@ -36,11 +36,23 @@ http://23.88.42.119:80/live/652177700/index.m3u8
 #EXTINF:-1, LOOK SPORTS +
 https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
 
+#EXTINF:-1, AO VIVO
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8
+
 #EXTINF:-1,BT SPORT ESPN HD LIVE
 http://77.247.109.101/hls/A1.m3u8
 
 #EXTINF:-1,BT SPORT 1 HD LIVE
 http://77.247.109.111/hls/T1.m3u8
+
+#EXTINF:-1, TNT SPORTS
+https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
+
+#EXTINF:-1, GEO SUPER
+http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Z-SELECT
+http://31.220.41.90:8081/live/nl-ziggoselect.stream/chunks.m3u8
 
 #EXTINF:-1, VARCHAT
 https://bal.varcdn1.ru/lb/m3/index.m3u8
@@ -57,12 +69,6 @@ https://95-213-224-181.livesports24.online/ntvmatchfoot1.m3u8
 #EXTINF:-1, Футбол 2
 https://bal.varcdn1.ru/lb/m2/index.m3u8
 
-#EXTINF:-1, SETANTA SPORT 1
-https://bal.varcdn1.ru/lb/setanta1/index.m3u8
-
-#EXTINF:-1, SETANTA SPORT 1
-https://srv23.varcdn1.ru:443/setanta1/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1, ELEVEN SPORT 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 
@@ -71,12 +77,6 @@ http://207.110.52.61:8080/s/hls/5/295/canal_plus_sport_polska_250/1/1/tracks-v1a
 
 #EXTINF:-1, ESPN BRASIL
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
-
-#EXTINF:-1, SPORT ESPN HD
-http://77.247.109.111/hls/T1.m3u8
-
-#EXTINF:-1, ESPN VIVO
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8
 
 #EXTINF:-1, SPORT SMART HD
 https://sourcelive.xyz:2096/hls/ds1.m3u8?md5=oacVutdAfcAgYYHDfJ07ug&expires=1632342482
@@ -87,6 +87,12 @@ https://5-61-37-25.livesports24.online/rusetantaeurasia.m3u8
 #EXTINF:-1, SETANTA SPORT 1
 https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
 
+#EXTINF:-1, SETANTA SPORT 1
+https://bal.varcdn1.ru/lb/setanta1/index.m3u8
+
+#EXTINF:-1, SETANTA SPORT 1
+https://srv23.varcdn1.ru:443/setanta1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, ELEVEN SPORTS 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
 
@@ -96,17 +102,11 @@ https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs3/vintequatr
 #EXTINF:-1, MOVISTAR PLUS LIGA CAMPEONES
 http://x00.so/live/Marc1234/1234Marc/124465.m3u8
 
-#EXTINF:-1, TNT SPORTS
-https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
-
 #EXTINF:-1, MATH RUSIA
 https://95-213-224-180.livesports24.online/ooomatch.m3u8
 
 #EXTINF:-1, Футбол 1
 https://95-213-224-180.livesports24.online/ntvmatchfoot1.m3u8
-
-#EXTINF:-1, VARCHAT
-https://bal.varcdn1.ru/lb/m1/index.m3u8
 
 #EXTINF:-1, CANAL RUSO 7 (Футбол 1)
 https://95-213-224-181.livesports24.online/ntvmatchfoot1.m3u8
@@ -126,9 +126,6 @@ https://95-213-224-179.livesports24.online/setantaukraine.m3u8
 #EXTINF:-1, SETANTA SPORT 1
 http://iptv.prosto.tv:7000/ch106/video.m3u8
 
-#EXTINF:-1, S FUTBOL
-https://s1.cdnfbs.xyz/hls/b39e0454a95c993bd9388d2605e035a2/chunklist.m3u8
-
 #EXTINF:-1, CANAL RUSO 2 (Матч!)
 https://95-213-224-173.livesports24.online/ooomatch.m3u8
 
@@ -143,9 +140,6 @@ https://185-117-74-6.livesports24.online/fooootball2.m3u8
 
 #EXTINF:-1, CANAL RUSO 7 (Матч!)
 http://persik.by/stream/6696/480248/10264.m3u8
-
-#EXTINF:-1, GEO SUPER
-http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,EUROSPORT 1
 http://31.220.41.88:8081/live/es-eurosport1.stream/playlist.m3u8
@@ -200,9 +194,6 @@ https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes1/esportes1_2000/i
 
 #EXTINF:-1, SPORT TV5
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes5/esportes5_2000/index.m3u8
-
-#EXTINF:-1, Z-SELECT
-http://31.220.41.90:8081/live/nl-ziggoselect.stream/chunks.m3u8
 
 #EXTINF:-1,ARENA SPORTS
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
