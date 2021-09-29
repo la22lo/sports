@@ -87,6 +87,9 @@ https://ZAnA_IPTV@google-me.cdn.booyah.live/hls/113130/85566389.m3u8
 #EXTINF:-1, LOOK SPORTS +
 https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
 
+#EXTINF:-1, LOOLA TV
+https://rtmp.loola.tv:8081/hlspush/Z1uN8Gf-2j3oyH.m3u8
+
 #EXTINF:-1, S LIVE
 http://77.247.109.111/hls/T2.m3u8
 
