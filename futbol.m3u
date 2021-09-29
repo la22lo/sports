@@ -24,11 +24,17 @@ https://google-me.cdn.booyah.live/hls/113137/85569341.m3u8
 #EXTINF:-1, YAYA LIVE PREMIUM
 https://google-me.cdn.booyah.live/hls/113138/85565524.m3u8
 
+#EXTINF:-1, YALLA LIVE 
+https://google-me.cdn.booyah.live/hls/113138/85565524.m3u8
+
 #EXTINF:-1,BEIN SPORTs 1
 http://213.7.193.54:4000/play/a002/index.m3u8
 
 #EXTINF:-1,BEIN SPORTS 2
 http://23.88.42.119:80/live/652177700/index.m3u8
+
+#EXTINF:-1, LOOK SPORTS +
+https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
 
 #EXTINF:-1,BT SPORT ESPN HD LIVE
 http://77.247.109.101/hls/A1.m3u8
@@ -36,64 +42,19 @@ http://77.247.109.101/hls/A1.m3u8
 #EXTINF:-1,BT SPORT 1 HD LIVE
 http://77.247.109.111/hls/T1.m3u8
 
-#EXTINF:-1, ESPN 2
-https://akamai2-br.cdn.booyah.live/hls/1500083/89820306.m3u8
-
-#EXTINF:-1, YAYA LIVE
-https://duq715j8eav4e.cloudfront.net/out/v1/b4b578ad77e0468c9ee47ac73b2b4fc0/index_1.m3u8
-
-#EXTINF:-1, YAYA LIVE
-https://google-me.cdn.booyah.live/hls/113132/85569341.m3u8
-
-#EXTINF:-1, S LIVE
-http://77.247.109.101/hls/A2.m3u8
-
 #EXTINF:-1, VARCHAT
 https://bal.varcdn1.ru/lb/m3/index.m3u8
-
-#EXTINF:-1, ESPN 2 HD
-https://akamai2-br.cdn.booyah.live/hls/1000026/84348185.m3u8?d=https://edge-live13-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
-
-#EXTINF:-1, ESPN 2
-https://centurylink.br.cdn.booyah.live/hls/1000047/81258086.m3u8
-
-#EXTINF:-1, YALLA LIVE 
-https://d1urti526tpkii.cloudfront.net:443/out/v1/8e343f42dc094785bc51cad39e8d133e/index_2.m3u8
-
-#EXTINF:-1, YALLA LIVE 
-https://google-me.cdn.booyah.live/hls/113138/85565524.m3u8
-
-#EXTINF:-1, YALLA LIVE 
-https://dl9shgxyr5ah6.cloudfront.net:443/out/v1/ddf299570bda41fea428c3eb5a6e1640/index_1.m3u8
 
 #EXTINF:-1, BEIN SPORTS 1
 http://23.88.39.74:80/live/918454578/index.m3u8
 
-#EXTINF:-1, BEIN SPORTS 3
-https://google-me.cdn.booyah.live/hls/113132/85566389.m3u8
-
-#EXTINF:-1, BEIN SPORTS 3
-http://47.amanrouf.xyz/live/6151278887/index.m3u8
-
 #EXTINF:-1, BEIN SPORT MAX
 http://213.7.193.54:4000/play/a002/index.m3u8
-
-#EXTINF:-1,BEIN SPORTS 3
-http://ZAnA_IPTV@47.amanrouf.xyz/live/6151278887/index.m3u8
-
-#EXTINF:-1,BEIN SPORTS EXTRA 2
-https://google-me.cdn.booyah.live/hls/113130/85352637.m3u8
-
-#EXTINF:-1, LOOK SPORTS +
-https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
-
-#EXTINF:-1, BT SPORT 2 HD
-http://185.53.89.183/hls/bt1.m3u8
 
 #EXTINF:-1, Футбол 1
 https://95-213-224-181.livesports24.online/ntvmatchfoot1.m3u8
 
-#EXTINF:-1, VARCHAT 5
+#EXTINF:-1, Футбол 2
 https://bal.varcdn1.ru/lb/m2/index.m3u8
 
 #EXTINF:-1, SETANTA SPORT 1
