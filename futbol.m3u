@@ -33,6 +33,12 @@ http://213.7.193.54:4000/play/a002/index.m3u8
 #EXTINF:-1,BEIN SPORTs 1 PREMIUM
 http://40.aminouras.xyz/live/6161655/index.m3u8
 
+#EXTINF:-1,BEIN SPORTs 1
+https://ZAnA_IPTV@google-me.cdn.booyah.live/hls/113132/85352637.m3u8
+
+#EXTINF:-1,BEIN SPORTs 1
+https://ZAnA_IPTV@google-me.cdn.booyah.live/hls/113132/85352637.m3u8
+
 #EXTINF:-1,BEIN SPORTS 2
 http://23.88.42.119:80/live/652177700/index.m3u8
 
@@ -54,11 +60,23 @@ http://28.aminouras.xyz/live/6151278887/index.m3u8
 #EXTINF:-1,BEIN SPORTS 3
 https://google-me.cdn.booyah.live/hls/113134/85354950.m3u8
 
+#EXTINF:-1,BEIN SPORTS 3
+https://ZAnA_IPTV@google-me.cdn.booyah.live/hls/113134/85354950.m3u8
+
+#EXTINF:-1,BEIN SPORTS 3
+https://ZAnA_IPTV@google-me.cdn.booyah.live/hls/113134/85354950.m3u8
+
 #EXTINF:-1,BEIN SPORTS EXTRA
 https://google-me.cdn.booyah.live/hls/113137/85351102.m3u8
 
 #EXTINF:-1,BEIN SPORTS EXTRA 1
 https://google-me.cdn.booyah.live/hls/113130/85566389.m3u8
+
+#EXTINF:-1,BEIN SPORTS EXTRA 1
+https://ZAnA_IPTV@google-me.cdn.booyah.live/hls/113130/85566389.m3u8
+
+#EXTINF:-1,BEIN SPORTS EXTRA 1
+https://ZAnA_IPTV@google-me.cdn.booyah.live/hls/113130/85566389.m3u8
 
 #EXTINF:-1, LOOK SPORTS +
 https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
