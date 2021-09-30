@@ -91,9 +91,6 @@ https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs3/vintequatr
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/playlist.m3u8
 
 #EXTINF:-1, MOVISTAR PLUS LIGA CAMPEONES
-http://x00.so/live/Marc1234/1234Marc/124465.m3u8
-
-#EXTINF:-1, MOVISTAR PLUS LIGA CAMPEONES
 http://31.220.41.90:8081/live/bein-laliga.stream/playlist.m3u8
 
 #EXTINF:-1, MATH RUSIA 1
@@ -101,9 +98,6 @@ https://95-213-224-180.livesports24.online/ooomatch.m3u8
 
 #EXTINF:-1, MATH RUSIA 2
 https://95-213-172-220.livesports24.online/fooootball2.m3u8
-
-#EXTINF:-1, MATCH 3 FUTBOL RU
-https://95-213-224-180.livesports24.online/football3ua.m3u8
 
 #EXTINF:-1, Футбол 1
 https://95-213-224-180.livesports24.online/ntvmatchfoot1.m3u8
@@ -222,9 +216,6 @@ https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes1/esportes1_2000/i
 #EXTINF:-1, SPORT TV5
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes5/esportes5_2000/index.m3u8
 
-#EXTINF:-1,ARENA SPORTS
-http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-
 #EXTINF:-1,ARENA SPORTS 1
 http://31.220.41.88:8081/live/arena1.stream/playlist.m3u8
 
@@ -233,9 +224,6 @@ http://31.220.41.88:8081/live/arena2.stream/playlist.m3u8
 
 #EXTINF:-1,Arena 3
 http://31.220.41.88:8081/live/arena3.stream/playlist.m3u8
-
-#EXTINF:-1,ASTRO ARENA 
-http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
 #EXTINF:-1,RMC 1 SPORTS
 http://31.220.41.88:8081/live/fr-sfr1.stream/playlist.m3u8
@@ -284,9 +272,6 @@ https://95-213-224-179.livesports24.online/uafootballua1.m3u8?413079063374
 
 #EXTINF:-1, Футбол 2
 https://95-213-224-179.livesports24.online/fooootball2.m3u8
-
-#EXTINF:-1, Футбол 3
-https://95-213-224-179.livesports24.online/football3ua.m3u8?415414995869a
 
 #EXTINF:-1, Унiан
 https://95-213-224-181.livesports24.online/uniantv.m3u8
@@ -401,9 +386,6 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 
 #EXTINF:-1,AD SPORTS 3
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-
-#EXTINF:-1,CITY TV1
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 
 #EXTINF:-1, FOX SPORT AUSTRALIA
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
