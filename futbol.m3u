@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, MOVISTAR LIGA CAMPEONES
+http://62.210.177.217:25461/live/kxf9XRZrDX/ITFTT7hF4E/53.m3u8
+
 #EXTINF:-1, ESPN 2 VIVO
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8
 
@@ -18,6 +21,9 @@ http://23.88.42.119:80/live/652177700/index.m3u8
 #EXTINF:-1, BEIN SPORT 3
 http://cdn.raino.xyz:80/soccer/soccer5-version1/rainostream.m3u8
 
+#EXTINF:-1, BEIN SPORT 3
+http://37.anfalrou.xyz/live/6151278887/index.m3u8
+
 #EXTINF:-1, LOOK SPORTS +
 https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
 
@@ -26,6 +32,9 @@ http://77.247.109.111/hls/T2.m3u8
 
 #EXTINF:-1,ESPN BRASIL
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/playlist.m3u8
+
+#EXTINF:-1, ESPN BRASIL VIVO
+https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
 
 #EXTINF:-1, TNT SPORTS
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes5/esportes5_2000/index.m3u8
@@ -53,9 +62,6 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 
 #EXTINF:-1, CANAL + POLONIA
 http://207.110.52.61:8080/s/hls/5/295/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, ESPN BRASIL
-https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
 
 #EXTINF:-1, SPORT SMART HD
 https://sourcelive.xyz:2096/hls/ds1.m3u8?md5=oacVutdAfcAgYYHDfJ07ug&expires=1632342482
