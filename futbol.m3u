@@ -6,6 +6,12 @@ http://62.210.177.217:25461/live/kxf9XRZrDX/ITFTT7hF4E/53.m3u8
 #EXTINF:-1, ESPN 2 VIVO
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8
 
+#EXTINF:-1, ESPN VIVO
+https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes8/esportes8_2000/index.m3u8
+
+#EXTINF:-1, ESPN BRASIL VIVO
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/playlist.m3u8
+
 #EXTINF:-1,BEIN SPORTs 1
 http://213.7.193.54:4000/play/a002/index.m3u8
 
@@ -27,8 +33,20 @@ http://cdn.raino.xyz:80/soccer/soccer5-version1/rainostream.m3u8
 #EXTINF:-1, BEIN SPORT 3
 http://37.anfalrou.xyz/live/6151278887/index.m3u8
 
+#EXTINF:-1, BEIN SPORT 3
+http://77.247.109.111/hls/T3.m3u8
+
 #EXTINF:-1, LOOK SPORTS +
 https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
+
+#EXTINF:-1, BT SPORT 3
+http://77.247.109.101/hls/A3.m3u8
+
+#EXTINF:-1, S LIVE
+http://ttt3.uefa-tv.com:80/live/7/chunks.m3u8
+
+#EXTINF:-1, S LIVE 2
+http://ttt3.uefa-tv.com:80/live/6/chunks.m3u8
 
 #EXTINF:-1, S LIVE
 http://77.247.109.111/hls/T2.m3u8
