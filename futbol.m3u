@@ -3,6 +3,9 @@
 #EXTINF:-1, MOVISTAR LIGA CAMPEONES
 http://62.210.177.217:25461/live/kxf9XRZrDX/ITFTT7hF4E/53.m3u8
 
+#EXTINF:-1, ESPN
+https://rtmp.loola.tv:8081/hlspush/ZE6cCc-Z1XHq6o.m3u8
+
 #EXTINF:-1, ELEVEN 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8
 
