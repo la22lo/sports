@@ -258,6 +258,9 @@ https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes22/esportes22_2000
 #EXTINF:-1, SPORT TV3
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes1/esportes1_2000/index.m3u8
 
+#EXTINF:-1, SPORT TV4
+https://www.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
+
 #EXTINF:-1, SPORT TV5
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes5/esportes5_2000/index.m3u8
 
