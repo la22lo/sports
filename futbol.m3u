@@ -9,6 +9,9 @@ https://rtmp.loola.tv:8081/hlspush/ZE6cCc-Z1XHq6o.m3u8
 #EXTINF:-1, ESPN 2
 https://google-br.cdn.booyah.live/hls/1000045/84348185.m3u8
 
+#EXTINF:-1, YAYA LIVE
+https://d3fnculdhhba6a.cloudfront.net/out/v1/b397bbed1bc048b5a62a319bcf54407f/index.m3u8
+
 #EXTINF:-1, BEIN SPORTS
 https://google-me.cdn.booyah.live/hls/113134/85351102.m3u8
 
