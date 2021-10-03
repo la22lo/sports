@@ -3,6 +3,9 @@
 #EXTINF:-1, MOVISTAR LIGA CAMPEONES
 http://62.210.177.217:25461/live/kxf9XRZrDX/ITFTT7hF4E/53.m3u8
 
+#EXTINF:-1, ELEVEN 1
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, ESPN 2 VIVO
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8
 
