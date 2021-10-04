@@ -1,19 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1, MOVISTAR LIGA CAMPEONES
-http://62.210.177.217:25461/live/kxf9XRZrDX/ITFTT7hF4E/53.m3u8
-
-#EXTINF:-1, ESPN
-https://rtmp.loola.tv:8081/hlspush/ZE6cCc-Z1XHq6o.m3u8
-
-#EXTINF:-1, ESPN 2
-https://google-br.cdn.booyah.live/hls/1000045/84348185.m3u8
-
 #EXTINF:-1, YAYA LIVE
 https://d3fnculdhhba6a.cloudfront.net/out/v1/b397bbed1bc048b5a62a319bcf54407f/index.m3u8
-
-#EXTINF:-1, BEIN SPORTS
-https://google-me.cdn.booyah.live/hls/113134/85351102.m3u8
 
 #EXTINF:-1, ELEVEN SPORT 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
@@ -24,7 +12,7 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.
 #EXTINF:-1, SETANTA SPORT
 https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
 
-#EXTINF:-1, Vivo
+#EXTINF:-1, AO Vivo
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/playlist.m3u8
 
 #EXTINF:-1, BEIN SPORTS 1
@@ -45,17 +33,8 @@ https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes8/esportes8_2000/i
 #EXTINF:-1, ESPN BRASIL VIVO
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/playlist.m3u8
 
-#EXTINF:-1,BEIN SPORTs 1
-http://213.7.193.54:4000/play/a002/index.m3u8
-
 #EXTINF:-1, BEIN SPORTS 1
 http://23.88.39.74:80/live/918454578/index.m3u8
-
-#EXTINF:-1, BEIN SPORTS 1
-http://22.anfalrou.xyz/live/6161655/index.m3u8
-
-#EXTINF:-1, BEIN SPORT MAX
-http://213.7.193.54:4000/play/a002/index.m3u8
 
 #EXTINF:-1,BEIN SPORTS 2
 http://23.88.42.119:80/live/652177700/index.m3u8
@@ -63,26 +42,8 @@ http://23.88.42.119:80/live/652177700/index.m3u8
 #EXTINF:-1, BEIN SPORT 3
 http://cdn.raino.xyz:80/soccer/soccer5-version1/rainostream.m3u8
 
-#EXTINF:-1, BEIN SPORT 3
-http://37.anfalrou.xyz/live/6151278887/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 3
-http://77.247.109.111/hls/T3.m3u8
-
 #EXTINF:-1, LOOK SPORTS +
 https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
-
-#EXTINF:-1, BT SPORT 3
-http://77.247.109.101/hls/A3.m3u8
-
-#EXTINF:-1, S LIVE
-http://ttt3.uefa-tv.com:80/live/7/chunks.m3u8
-
-#EXTINF:-1, S LIVE 2
-http://ttt3.uefa-tv.com:80/live/6/chunks.m3u8
-
-#EXTINF:-1, S LIVE
-http://77.247.109.111/hls/T2.m3u8
 
 #EXTINF:-1,ESPN BRASIL
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/playlist.m3u8
@@ -162,9 +123,6 @@ https://bal.varcdn1.ru/lb/m1/index.m3u8
 #EXTINF:-1,MATH RUSIA
 https://95-213-172-220.livesports24.online/ooomatch.m3u8
 
-#EXTINF:-1, SETANTA SPORT
-https://95-213-224-179.livesports24.online/setantaukraine.m3u8
-
 #EXTINF:-1, SETANTA SPORT 1
 https://185-106-121-77.livesports24.online/rusetantaeurasia.m3u8
 
@@ -188,12 +146,6 @@ https://95-213-224-176.livesports24.online/uafootballua1.m3u8
 
 #EXTINF:-1, CANAL RUSO 4 (Футбол 1)
 https://95-213-224-176.livesports24.online/uafootballua1.m3u8?mvk
-
-#EXTINF:-1, CANAL RUSO 5 (Футбол 2)
-https://185-117-74-6.livesports24.online/fooootball2.m3u8
-
-#EXTINF:-1, CANAL RUSO 7 (Матч!)
-http://persik.by/stream/6696/480248/10264.m3u8
 
 #EXTINF:-1,EUROSPORT 1
 http://31.220.41.88:8081/live/es-eurosport1.stream/playlist.m3u8
