@@ -15,6 +15,9 @@ https://d3fnculdhhba6a.cloudfront.net/out/v1/b397bbed1bc048b5a62a319bcf54407f/in
 #EXTINF:-1, BEIN SPORTS
 https://google-me.cdn.booyah.live/hls/113134/85351102.m3u8
 
+#EXTINF:-1, ELEVEN SPORT 1
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+
 #EXTINF:-1, ELEVEN 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8
 
@@ -107,9 +110,6 @@ https://95-213-224-181.livesports24.online/ntvmatchfoot1.m3u8
 
 #EXTINF:-1, Футбол 2
 https://bal.varcdn1.ru/lb/m2/index.m3u8
-
-#EXTINF:-1, ELEVEN SPORT 1
-http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 
 #EXTINF:-1, CANAL + POLONIA
 http://207.110.52.61:8080/s/hls/5/295/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
