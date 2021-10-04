@@ -30,6 +30,9 @@ https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index
 #EXTINF:-1, ESPN VIVO
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes8/esportes8_2000/index.m3u8
 
+#EXTINF:-1, VARIATY 3
+https://github.com/la22lo/sports/blob/0c6bc670c28060c7200fa058a770d5f0106badd3/futbol.m3u
+
 #EXTINF:-1, ESPN BRASIL VIVO
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/playlist.m3u8
 
@@ -206,6 +209,9 @@ https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs2/vintequatr
 
 #EXTINF:-1, SPORT TV BRASIL
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/playlist.m3u8
+
+#EXTINF:-1, SPORT TV1
+https://smart-tv.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 
 #EXTINF:-1, SPORT TV2
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes22/esportes22_2000/index.m3u8
