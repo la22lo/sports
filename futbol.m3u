@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, MOVISTAR LALIGA
+http://stop.next-code.xyz:2052/live/Nador/66263/62323.m3u8
+
 #EXTINF:-1, YAYA LIVE
 https://d3fnculdhhba6a.cloudfront.net/out/v1/b397bbed1bc048b5a62a319bcf54407f/index.m3u8
 
@@ -146,6 +149,9 @@ https://95-213-224-176.livesports24.online/uafootballua1.m3u8?mvk
 
 #EXTINF:-1,EUROSPORT 1
 http://31.220.41.88:8081/live/es-eurosport1.stream/playlist.m3u8
+
+#EXTINF:-1,EUROSPORT 1
+http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
 
 #EXTINF:-1,EUROSPORT 2
 http://31.220.41.88:8081/live/es-eurosport2.stream/playlist.m3u8
