@@ -456,6 +456,9 @@ https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-b.m3u8
 #EXTINF:-1, GOL TV 
 http://91.126.138.141:1935/live/gol/chunklist_w2146311915.m3u8
 
+#EXTINF:-1, GOL TV 
+http://Monteinsua@91.126.138.141:1935/live/gol/chunklist_w2146311915.m3u8
+
 #EXTINF:-1, PTV CORDOBA DIRECTO
 https://streamer.zapitv.com:443/PTV_CORD/tracks-v1a1/mono.m3u8
 
