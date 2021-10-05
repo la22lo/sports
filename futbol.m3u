@@ -30,9 +30,6 @@ https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index
 #EXTINF:-1, ESPN VIVO
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes8/esportes8_2000/index.m3u8
 
-#EXTINF:-1, VARIATY 3
-https://github.com/la22lo/sports/blob/0c6bc670c28060c7200fa058a770d5f0106badd3/futbol.m3u
-
 #EXTINF:-1, ESPN BRASIL VIVO
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/playlist.m3u8
 
@@ -89,9 +86,6 @@ https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
 
 #EXTINF:-1, SETANTA SPORT 1
 https://bal.varcdn1.ru/lb/setanta1/index.m3u8
-
-#EXTINF:-1, SETANTA SPORT 1
-https://srv23.varcdn1.ru:443/setanta1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, ELEVEN SPORTS 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
@@ -275,9 +269,6 @@ https://95-213-224-181.livesports24.online/ooomatch.m3u8
 
 #EXTINF:-1, MATH RUSIA
 https://185-106-121-143.livesports24.online/ooomatch.m3u8
-
-#EXTINF:-1, MATH RUSIA
-http://persik.by/stream/6696/480248/10264.m3u8
 
 #EXTINF:-1, Футбол 1
 https://95-213-224-179.livesports24.online/uafootballua1.m3u8?413079063374 
