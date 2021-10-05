@@ -120,6 +120,9 @@ https://5-61-37-25.livesports24.online/rusetantaeurasia.m3u8
 #EXTINF:-1, SETANTA SPORT 1
 https://bal.varcdn1.ru/lb/setanta1/index.m3u8
 
+#EXTINF:-1, Беларусь 5
+https://185-82-203-145.livesports24.online/belarusss5.m3u8
+
 #EXTINF:-1, FOX SPORT BRASIL
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
 
@@ -173,6 +176,12 @@ https://95-213-224-176.livesports24.online/uafootballua1.m3u8
 
 #EXTINF:-1, CANAL RUSO 4 (Футбол 1)
 https://95-213-224-176.livesports24.online/uafootballua1.m3u8?mvk
+
+#EXTINF:-1, Беларусь 5
+https://95-213-224-186.livesports24.online/belarusss5.m3u8
+
+#EXTINF:-1, Беларусь 5
+https://46-166-139-70.livesports24.online/belarusss5.m3u8
 
 #EXTINF:-1,EUROSPORT 1
 http://31.220.41.88:8081/live/es-eurosport1.stream/playlist.m3u8
