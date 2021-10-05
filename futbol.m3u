@@ -3,6 +3,9 @@
 #EXTINF:-1, MOVISTAR LALIGA
 http://stop.next-code.xyz:2052/live/Nador/66263/62323.m3u8
 
+#EXTINF:-1, MOVISTAR LALIGA
+http://93.152.174.144:4000/play/beinlaliga/index.m3u8
+
 #EXTINF:-1, YAYA LIVE
 https://d3fnculdhhba6a.cloudfront.net/out/v1/b397bbed1bc048b5a62a319bcf54407f/index.m3u8
 
@@ -71,6 +74,9 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/playlist.m3u8
 
 #EXTINF:-1, ESPN BRASIL VIVO
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
+
+#EXTINF:-1, ESPN
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/esportes8_1000/index.m3u8
 
 #EXTINF:-1, TNT SPORTS
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes5/esportes5_2000/index.m3u8
@@ -183,14 +189,8 @@ http://31.220.41.87:8081/live/it-dazn1.stream/chunks.m3u8
 #EXTINF:-1, BEIN SPORTS 1
 http://sos.moukrasa.xyz/live/6161655/index.m3u8
 
-#EXTINF:-1,BEIN SPORT EXTRA
-https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
-
 #EXTINF:-1,BEIN SPORTS EXTRA HD
 https://siloh-ns1.plutotv.net:443/lilo/production/bein/master_1.m3u8
-
-#EXTINF:-1,BEIN SPORTS EXTRA HD
-https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 
 #EXTINF:-1, BEIN SPORTS 1 FRANCIA
 http://31.220.41.90:8081/live/fr-beinsport1.stream/playlist.m3u8
@@ -309,6 +309,9 @@ https://95-213-224-179.livesports24.online/mfootball2rus.m3u8
 #EXTINF:-1, MATCH 3
 https://95-213-224-179.livesports24.online/rumatchf3.m3u8
 
+#EXTINF:-1, Телеканал Футбол
+https://95-213-224-176.livesports24.online/footballrus.m3u8
+
 #EXTINF:-1, Унiан
 https://95-213-224-181.livesports24.online/uniantv.m3u8
 
@@ -365,6 +368,24 @@ https://95-213-224-181.livesports24.online/sport1ua.m3u8
 
 #EXTINF:-1, SPORTS 2
 http://iptv.prosto.tv:7000/ch115/video.m3u8
+
+#EXTINF:-1, TRING SPORT 1
+http://us.bestvideostreaming.is/8796/index.m3u8
+
+#EXTINF:-1, TRING SPORT 2
+http://us.bestvideostreaming.is/8797/index.m3u8
+
+#EXTINF:-1, K SPORT 1
+http://93.157.62.180:80/KSport1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, K SPORT 2
+http://93.157.62.180:80/KSport2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, K SPORT 3
+http://93.157.62.180:80/KSport3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, K SPORT 4
+http://93.157.62.180:80/KSport4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, BAHRAIN SPORTS
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
