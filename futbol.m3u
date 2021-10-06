@@ -375,6 +375,21 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 #EXTINF:-1,TNT SPORTS 4
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 
+#EXTINF:-1, HOL | ESPN 1
+http://31.220.41.88:8081/live/nl-foxsports1.stream/chunks.m3u8
+
+#EXTINF:-1, HOL | ESPN 2
+http://31.220.41.88:8081/live/nl-foxsports2.stream/chunks.m3u8
+
+#EXTINF:-1, HOL | ESPN 3
+http://31.220.41.88:8081/live/nl-foxsports3.stream/chunks.m3u8
+
+#EXTINF:-1, HOL | ESPN 4
+http://31.220.41.88:8081/live/nl-foxsports4.stream/chunks.m3u8
+
+#EXTINF:-1, HOL | ESPN 5
+http://31.220.41.88:8081/live/nl-foxsports5.stream/chunks.m3u8
+
 #EXTINF:-1,ESPORTE INTERATIVO
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
