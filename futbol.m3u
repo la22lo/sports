@@ -501,6 +501,9 @@ https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/
 #EXTINF:-1, LA 7 CYL
 http://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
 
+#EXTINF:-1, TV1
+https://rtvelivestreamv3.akamaized.net/la1/la1_main_dvr.m3u8
+
 #EXTINF:-1, CUATRO
 http://91.126.141.13:1935/live/51/playlist.m3u8
 
