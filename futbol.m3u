@@ -54,23 +54,8 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/playlist.m3u8
 #EXTINF:-1, BEIN SPORTS 1
 http://23.88.39.74:80/live/918454578/index.m3u8
 
-#EXTINF:-1, BEIN SPORTS 1
-http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
-
 #EXTINF:-1,BEIN SPORTS 2
 http://23.88.42.119:80/live/652177700/index.m3u8
-
-#EXTINF:-1,BEIN SPORTS 2
-http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
-
-#EXTINF:-1, BEIN SPORT 3
-http://cdn.raino.xyz:80/soccer/soccer5-version1/rainostream.m3u8
-
-#EXTINF:-1, BEIN SPORT 3
-http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
-
-#EXTINF:-1, BEIN SPORT 4
-http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
 
 #EXTINF:-1, BEIN SPORT EXTRA
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
@@ -129,9 +114,6 @@ https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs3/vintequatr
 #EXTINF:-1, FOX SPORT BRASIL
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/playlist.m3u8
 
-#EXTINF:-1, MOVISTAR PLUS LIGA CAMPEONES
-http://31.220.41.90:8081/live/bein-laliga.stream/playlist.m3u8
-
 #EXTINF:-1, MATH RUSIA 1
 https://95-213-224-180.livesports24.online/ooomatch.m3u8
 
@@ -184,40 +166,16 @@ https://95-213-224-186.livesports24.online/belarusss5.m3u8
 https://46-166-139-70.livesports24.online/belarusss5.m3u8
 
 #EXTINF:-1,EUROSPORT 1
-http://31.220.41.88:8081/live/es-eurosport1.stream/playlist.m3u8
-
-#EXTINF:-1,EUROSPORT 1
 http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
-
-#EXTINF:-1,EUROSPORT 2
-http://31.220.41.88:8081/live/es-eurosport2.stream/playlist.m3u8
 
 #EXTINF:-1, DAZN
 https://186267359.global.cdnfastest.com/live/17373506067e0c249a3a0565a078c287da4/playlist.m3u8
-
-#EXTINF:-1, DAZN
-http://31.220.41.87:8081/live/es-moviestarf1.stream/chunks.m3u8
-
-#EXTINF:-1, DAZN 1
-http://31.220.41.87:8081/live/es-moviestarf1.stream/playlist.m3u8
-
-#EXTINF:-1, DAZN 2
-http://31.220.41.87:8081/live/it-dazn1.stream/chunks.m3u8
 
 #EXTINF:-1, BEIN SPORTS 1
 http://sos.moukrasa.xyz/live/6161655/index.m3u8
 
 #EXTINF:-1,BEIN SPORTS EXTRA HD
 https://siloh-ns1.plutotv.net:443/lilo/production/bein/master_1.m3u8
-
-#EXTINF:-1, BEIN SPORTS 1 FRANCIA
-http://31.220.41.90:8081/live/fr-beinsport1.stream/playlist.m3u8
-
-#EXTINF:-1, Beinsport 2 France
-http://31.220.41.90:8081/live/fr-beinsport2.stream/playlist.m3u8
-
-#EXTINF:-1, Beinsport 3 France
-http://31.220.41.90:8081/live/fr-beinsport3.stream/playlist.m3u8
 
 #EXTINF:-1, bein sport 1 FRANCIA
 http://sos.moukrasa.xyz/live/6161655/index.m3u8
@@ -266,24 +224,6 @@ https://www.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
 
 #EXTINF:-1, SPORT TV5
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes5/esportes5_2000/index.m3u8
-
-#EXTINF:-1,ARENA SPORTS 1
-http://31.220.41.88:8081/live/arena1.stream/playlist.m3u8
-
-#EXTINF:-1,Arena 2
-http://31.220.41.88:8081/live/arena2.stream/playlist.m3u8
-
-#EXTINF:-1,Arena 3
-http://31.220.41.88:8081/live/arena3.stream/playlist.m3u8
-
-#EXTINF:-1,RMC 1 SPORTS
-http://31.220.41.88:8081/live/fr-sfr1.stream/playlist.m3u8
-
-#EXTINF:-1,RMC SPORTS 2
-http://31.220.41.88:8081/live/fr-sfr2.stream/playlist.m3u8
-
-#EXTINF:-1,RMC SPORTS 3
-http://31.220.41.88:8081/live/fr-sfr3.stream/playlist.m3u8
 
 #EXTINF:-1,BT SPORT 1
 http://93.152.174.144:4000/play/btsport1/index.m3u8
@@ -348,9 +288,6 @@ http://93.157.62.180/RTSHSport/index.m3u8
 #EXTINF:-1,TRT 3 SPORT
 https://tv-trt3.live.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1, SKY SPORTS
-http://31.220.41.86:8081/live/skysportsf1.stream/playlist.m3u8
-
 #EXTINF:-1, SKY SPORTS 24
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 
@@ -374,21 +311,6 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 
 #EXTINF:-1,TNT SPORTS 4
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-
-#EXTINF:-1, HOL | ESPN 1
-http://31.220.41.88:8081/live/nl-foxsports1.stream/chunks.m3u8
-
-#EXTINF:-1, HOL | ESPN 2
-http://31.220.41.88:8081/live/nl-foxsports2.stream/chunks.m3u8
-
-#EXTINF:-1, HOL | ESPN 3
-http://31.220.41.88:8081/live/nl-foxsports3.stream/chunks.m3u8
-
-#EXTINF:-1, HOL | ESPN 4
-http://31.220.41.88:8081/live/nl-foxsports4.stream/chunks.m3u8
-
-#EXTINF:-1, HOL | ESPN 5
-http://31.220.41.88:8081/live/nl-foxsports5.stream/chunks.m3u8
 
 #EXTINF:-1,ESPORTE INTERATIVO
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
@@ -443,9 +365,6 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadi
 
 #EXTINF:-1, CCTV5
 http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
-
-#EXTINF:-1, SPORTS CHANNEL NETWORK
-https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8 
 
 #EXTINF:-1, UFC ( Mynetqu.id )
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
