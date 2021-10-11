@@ -42,6 +42,9 @@ http://23.88.39.74/live/918454578/index.m3u8
 #EXTINF:-1, BEIN SPORTS 1
 http://7.yacinenews.com.global.prod.fastly.net/live/918454578/index.m3u8
 
+#EXTINF:-1, BEIN SPORTS 1
+https://google-me.cdn.booyah.live/hls/113137/85351102.m3u8
+
 #EXTINF:-1, ESPN 2 VIVO
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8
 
@@ -90,8 +93,14 @@ http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Футбол 1
 https://95-213-224-181.livesports24.online/ntvmatchfoot1.m3u8
 
+#EXTINF:-1, Футбол 1
+https://185-107-80-245.livesports24.online/ntvmatchfoot1.m3u8
+
 #EXTINF:-1, Футбол 2
 https://bal.varcdn1.ru/lb/m2/index.m3u8
+
+#EXTINF:-1, Футбол 2
+https://185-107-80-245.livesports24.online/mfootball2rus.m3u8
 
 #EXTINF:-1, CANAL + POLONIA
 http://207.110.52.61:8080/s/hls/5/295/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
@@ -222,6 +231,9 @@ https://smart-tv.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1, SPORT TV4
 https://www.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
 
+#EXTINF:-1, SPORT TV4
+https://smart-tv.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+
 #EXTINF:-1, SPORT TV5
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes5/esportes5_2000/index.m3u8
 
@@ -287,6 +299,9 @@ http://93.157.62.180/RTSHSport/index.m3u8
 
 #EXTINF:-1,TRT 3 SPORT
 https://tv-trt3.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1, SKY SPORTS
+https://s1.cdnfbs.xyz/hls/f32d17a18e87b47c0dea1db1ee53774a/chunklist.m3u8
 
 #EXTINF:-1, SKY SPORTS 24
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
@@ -467,6 +482,9 @@ http://91.126.138.141:1935/live/gol/chunklist_w2146311915.m3u8
 
 #EXTINF:-1, GOL TV 
 http://Monteinsua@91.126.138.141:1935/live/gol/chunklist_w2146311915.m3u8
+
+#EXTINF:-1, TELEDEPORTE
+https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8
 
 #EXTINF:-1, PTV CORDOBA DIRECTO
 https://streamer.zapitv.com:443/PTV_CORD/tracks-v1a1/mono.m3u8
