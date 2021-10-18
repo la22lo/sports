@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, S LALIGA
-http://stream.raino.xyz/hls/stream3-version1/rainostream.m3u8
-
-#EXTINF:-1, MOVISTAR LALIGA
-http://stop.next-code.xyz:2052/live/Nador/66263/62323.m3u8
-
 #EXTINF:-1, MOVISTAR LALIGA
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 
@@ -37,16 +31,7 @@ https://95-213-224-173.livesports24.online/rusetantaeurasia.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/playlist.m3u8
 
 #EXTINF:-1, BEIN SPORTS 1
-https://www.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
-
-#EXTINF:-1, BEIN SPORTS 1
 http://23.88.39.74/live/918454578/index.m3u8
-
-#EXTINF:-1, BEIN SPORTS 1
-http://7.yacinenews.com.global.prod.fastly.net/live/918454578/index.m3u8
-
-#EXTINF:-1, BEIN SPORTS 1
-https://google-me.cdn.booyah.live/hls/113137/85351102.m3u8
 
 #EXTINF:-1, ESPN 2 VIVO
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8
