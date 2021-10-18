@@ -168,9 +168,6 @@ https://186267359.global.cdnfastest.com/live/17373506067e0c249a3a0565a078c287da4
 #EXTINF:-1, BEIN SPORTS 1
 http://sos.moukrasa.xyz/live/6161655/index.m3u8
 
-#EXTINF:-1,BEIN SPORTS EXTRA HD
-https://siloh-ns1.plutotv.net:443/lilo/production/bein/master_1.m3u8
-
 #EXTINF:-1, bein sport 1 FRANCIA
 http://sos.moukrasa.xyz/live/6161655/index.m3u8
 
@@ -198,32 +195,14 @@ https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs2/vintequatr
 #EXTINF:-1, SPORT TV BRASIL
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/playlist.m3u8
 
-#EXTINF:-1, SPORT TV1
-https://smart-tv.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
-
 #EXTINF:-1, SPORT TV2
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes22/esportes22_2000/index.m3u8
-
-#EXTINF:-1, SPORT TV2
-https://smart-tv.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
 
 #EXTINF:-1, SPORT TV3
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes1/esportes1_2000/index.m3u8
 
-#EXTINF:-1, SPORT TV3
-https://smart-tv.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
-
-#EXTINF:-1, SPORT TV4
-https://www.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
-
-#EXTINF:-1, SPORT TV4
-https://smart-tv.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
-
 #EXTINF:-1, SPORT TV5
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes5/esportes5_2000/index.m3u8
-
-#EXTINF:-1,BT SPORT 1
-http://93.152.174.144:4000/play/btsport1/index.m3u8
 
 #EXTINF:-1,TVP SPORT
 http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
