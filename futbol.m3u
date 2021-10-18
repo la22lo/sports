@@ -6,6 +6,9 @@ http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 #EXTINF:-1, YAYA LIVE
 https://d3fnculdhhba6a.cloudfront.net/out/v1/b397bbed1bc048b5a62a319bcf54407f/index.m3u8
 
+#EXTINF:-1, ESPN BRASIL VIVO
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/playlist.m3u8
+
 #EXTINF:-1, ELEVEN SPORT 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 
