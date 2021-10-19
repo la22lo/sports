@@ -3,6 +3,9 @@
 #EXTINF:-1, MOVISTAR LALIGA
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 
+#EXTINF:-1, Футбол 2
+https://185-107-80-245.livesports24.online/mfootball2rus.m3u8
+
 #EXTINF:-1, BEIN SPORTS 2
 http://92.amaniyouhra.xyz/live/616194987/index.m3u8
 
@@ -101,9 +104,6 @@ https://185-107-80-245.livesports24.online/ntvmatchfoot1.m3u8
 
 #EXTINF:-1, Футбол 2
 https://bal.varcdn1.ru/lb/m2/index.m3u8
-
-#EXTINF:-1, Футбол 2
-https://185-107-80-245.livesports24.online/mfootball2rus.m3u8
 
 #EXTINF:-1, CANAL + POLONIA
 http://207.110.52.61:8080/s/hls/5/295/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
