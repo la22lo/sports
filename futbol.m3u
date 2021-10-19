@@ -6,6 +6,9 @@ http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 #EXTINF:-1, Футбол 2
 https://185-107-80-245.livesports24.online/mfootball2rus.m3u8
 
+#EXTINF:-1, ESPN
+https://google-br.cdn.booyah.live/hls/1000007/93315592.m3u8
+
 #EXTINF:-1, BEIN SPORTS 1
 http://96.amaniyouhra.xyz/live/6161655/index.m3u8
 
