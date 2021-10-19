@@ -45,6 +45,9 @@ https://google-me.cdn.booyah.live/hls/113132/85352637.m3u8?ZAnA_IPTV.m3u8
 #EXTINF:-1, BEIN SPORTS EXTRA 2
 https://google-me.cdn.booyah.live/hls/113132/85354950.m3u8?ZAnA_IPTV.m3u8
 
+#EXTINF:-1, ESPN EXTRA VIVO
+https://akamai2-br.cdn.booyah.live/hls/1000009/93317756.m3u8
+
 #EXTINF:-1, YAYA LIVE
 https://d1mzu0yyp8h783.cloudfront.net/out/v1/75622b35ff19472b98569a787c496265/index_3.m3u8
 
