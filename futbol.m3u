@@ -54,6 +54,9 @@ http://82.amaniyouhra.xyz/live/6161655/index.m3u8?ZAnA_IPTV.m3u8
 #EXTINF:-1, ESPN
 https://google-br.cdn.booyah.live/hls/1000009/93317756.m3u8
 
+#EXTINF:-1, ESPN 2 VIVO
+https://centurylink.br.cdn.booyah.live/hls/1500039/93330584.m3u8
+
 #EXTINF:-1, ESPN
 https://rtmp.loola.tv:8081/hlspush/18Di5X-Z1MMXoB.m3u8
 
