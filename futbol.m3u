@@ -3,6 +3,9 @@
 #EXTINF:-1, MOVISTAR LALIGA
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 
+#EXTINF:-1, MOVISTAR LALIGA
+http://50.7.66.234:8080/live/alexi/1234/1115758.m3u8
+
 #EXTINF:-1, Футбол 2
 https://185-107-80-245.livesports24.online/mfootball2rus.m3u8
 
