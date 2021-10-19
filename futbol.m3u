@@ -21,6 +21,9 @@ http://96.amaniyouhra.xyz/live/6161655/index.m3u8
 #EXTINF:-1, BEIN SPORTS 2
 http://92.amaniyouhra.xyz/live/616194987/index.m3u8
 
+#EXTINF:-1, YAYA LIVE
+https://d1mzu0yyp8h783.cloudfront.net/out/v1/75622b35ff19472b98569a787c496265/index_3.m3u8
+
 #EXTINF:-1, ESPN
 https://google-br.cdn.booyah.live/hls/1000009/93317756.m3u8
 
@@ -29,6 +32,9 @@ https://rtmp.loola.tv:8081/hlspush/18Di5X-Z1MMXoB.m3u8
 
 #EXTINF:-1, ESPN VIVO
 https://centurylink.br.cdn.booyah.live/hls/1500056/93314861.m3u8
+
+#EXTINF:-1, TNT SPORTS
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes4/playlist.m3u8
 
 #EXTINF:-1, ESPN BRASIL VIVO
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/playlist.m3u8
