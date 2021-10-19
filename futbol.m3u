@@ -9,9 +9,6 @@ http://92.amaniyouhra.xyz/live/616194987/index.m3u8
 #EXTINF:-1, ESPN
 https://rtmp.loola.tv:8081/hlspush/18Di5X-Z1MMXoB.m3u8
 
-#EXTINF:-1, YAYA LIVE
-https://d3fnculdhhba6a.cloudfront.net/out/v1/b397bbed1bc048b5a62a319bcf54407f/index.m3u8
-
 #EXTINF:-1, ESPN BRASIL VIVO
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/playlist.m3u8
 
