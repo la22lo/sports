@@ -6,6 +6,12 @@ http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 #EXTINF:-1, Футбол 2
 https://185-107-80-245.livesports24.online/mfootball2rus.m3u8
 
+#EXTINF:-1, Футбол 2
+https://srv05.varcdn1.ru:443/m2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Футбол 2
+http://srv12.varcdn1.ru:80/m2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, BEIN SPORTS 3
 https://google-me.cdn.booyah.live/hls/113134/85567930.m3u8
 
@@ -23,6 +29,9 @@ http://96.amaniyouhra.xyz/live/6161655/index.m3u8
 
 #EXTINF:-1, BEIN SPORTS 1
 https://google-me.cdn.booyah.live/hls/113137/83188269.m3u8?ZAnA_IPTV.m3u8
+
+#EXTINF:-1, VARMATCH TV
+https://srv23.varcdn1.ru:443/m1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, BEIN SPORTS 2
 http://92.amaniyouhra.xyz/live/616194987/index.m3u8
