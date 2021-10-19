@@ -33,6 +33,9 @@ https://95-213-172-220.livesports24.online/setantaukraine.m3u8
 #EXTINF:-1, SETANTA SPORT 1
 https://95-213-224-173.livesports24.online/rusetantaeurasia.m3u8
 
+#EXTINF:-1, BT2 LIVE
+https://s1.cdnfbs.xyz/hls/4c6c5a798d2e7f2e007de69322bb2359/chunklist.m3u8
+
 #EXTINF:-1, AO Vivo
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/playlist.m3u8
 
