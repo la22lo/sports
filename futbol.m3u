@@ -9,6 +9,9 @@ http://50.7.66.234:8080/live/alexi/1234/1115758.m3u8
 #EXTINF:-1, YAYA LIVE
 https://google-me.cdn.booyah.live/hls/113137/85351102.m3u8
 
+#EXTINF:-1, CHAMP LATINO
+https://akamai2-br.cdn.booyah.live/hls/1000003/93320207.m3u8
+
 #EXTINF:-1, Футбол 2
 https://185-107-80-245.livesports24.online/mfootball2rus.m3u8
 
