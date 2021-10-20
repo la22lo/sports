@@ -18,6 +18,9 @@ http://srv12.varcdn1.ru:80/m2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, VARMATCH TV
 https://srv23.varcdn1.ru:443/m1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, TNT SPORTS
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
 #EXTINF:-1, ESPN BRASIL VIVO
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/playlist.m3u8
 
