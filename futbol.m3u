@@ -15,6 +15,9 @@ https://srv05.varcdn1.ru:443/m2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Футбол 2
 http://srv12.varcdn1.ru:80/m2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, BEIN SPORTS 1 PREMIUM
+https://google-me.cdn.booyah.live/hls/113134/85566389.m3u8
+
 #EXTINF:-1, BEIN SPORTS 1
 http://23.88.39.74/live/918454578/index.m3u8
 
