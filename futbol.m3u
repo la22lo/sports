@@ -15,6 +15,15 @@ https://srv05.varcdn1.ru:443/m2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Футбол 2
 http://srv12.varcdn1.ru:80/m2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, BEIN SPORTS 1
+http://23.88.39.74/live/918454578/index.m3u8
+
+#EXTINF:-1, BEIN SPORTS 1
+http://23.88.39.74:80/live/918454578/index.m3u8
+
+#EXTINF:-1,BEIN SPORTS 2
+http://23.88.42.119:80/live/652177700/index.m3u8
+
 #EXTINF:-1, VARMATCH TV
 https://srv23.varcdn1.ru:443/m1/tracks-v1a1/mono.m3u8
 
@@ -69,9 +78,6 @@ https://s1.cdnfbs.xyz/hls/4368a62c43ef247389e4fbceb672da63/chunklist.m3u8
 #EXTINF:-1, AO Vivo
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/playlist.m3u8
 
-#EXTINF:-1, BEIN SPORTS 1
-http://23.88.39.74/live/918454578/index.m3u8
-
 #EXTINF:-1, ESPN 2 VIVO
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8
 
@@ -80,12 +86,6 @@ https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes8/esportes8_2000/i
 
 #EXTINF:-1, ESPN BRASIL VIVO
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/playlist.m3u8
-
-#EXTINF:-1, BEIN SPORTS 1
-http://23.88.39.74:80/live/918454578/index.m3u8
-
-#EXTINF:-1,BEIN SPORTS 2
-http://23.88.42.119:80/live/652177700/index.m3u8
 
 #EXTINF:-1, LOOK SPORTS +
 https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
