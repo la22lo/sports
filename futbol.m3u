@@ -6,6 +6,9 @@ http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 #EXTINF:-1, MOVISTAR LALIGA
 http://50.7.66.234:8080/live/alexi/1234/1115758.m3u8
 
+#EXTINF:-1, YAYA LIVE
+https://google-me.cdn.booyah.live/hls/113137/85351102.m3u8
+
 #EXTINF:-1, Футбол 2
 https://185-107-80-245.livesports24.online/mfootball2rus.m3u8
 
@@ -47,6 +50,12 @@ https://wowzaprodhd24-lh.akamaihd.net/i/54d856f4_1@779817/index_2560000_av-p.m3u
 
 #EXTINF:-1,S LIVE 
 https://dydj9966h263y.cloudfront.net:443/out/v1/33e0c00a7d6f4642a3db925ba5dcf27c/index_6.m3u8
+
+#EXTINF:-1,S LIVE 
+https://wowzaprodhd24-lh.akamaihd.net/i/54d856f4_1@779817/index_2560000_av-p.m3u8
+
+#EXTINF:-1,S LIVE 
+https://wowzaprodhd54-lh.akamaihd.net/i/e6c77dcf_1@802815/index_2560000_av-p.m3u8
 
 #EXTINF:-1,AO LIVE
 https://akamai3-br.cdn.booyah.live/hls/1500010/93039384.m3u8
