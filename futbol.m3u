@@ -43,7 +43,7 @@ https://drc8yccmgeq06.cloudfront.net:443/stream/MTM2NQ==/1080p.m3u8
 http://23.88.42.119:80/live/652177700/index.m3u8
 
 #EXTINF:-1,S LIVE 
-https://edge-3.volume.com/live-edge/amlst:zebialex-sd-3d409839e0d1e3db033af084fd6f22e20639a894099e45057564ee19af488e3e_trns_h264/chunklist_w876659756_b5128000_t64RlBTOjMwLjA=.m3u8
+https://wowzaprodhd24-lh.akamaihd.net/i/54d856f4_1@779817/index_2560000_av-p.m3u8
 
 #EXTINF:-1,S LIVE 
 https://dydj9966h263y.cloudfront.net:443/out/v1/33e0c00a7d6f4642a3db925ba5dcf27c/index_6.m3u8
