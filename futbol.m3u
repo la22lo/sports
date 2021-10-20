@@ -60,6 +60,9 @@ https://95-213-172-220.livesports24.online/fooootball2.m3u8
 #EXTINF:-1, BT2 LIVE
 https://s1.cdnfbs.xyz/hls/4c6c5a798d2e7f2e007de69322bb2359/chunklist.m3u8
 
+#EXTINF:-1, BT SPORT 2
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+
 #EXTINF:-1, BT ESPN
 https://s1.cdnfbs.xyz/hls/4368a62c43ef247389e4fbceb672da63/chunklist.m3u8
 
