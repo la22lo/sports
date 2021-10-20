@@ -39,6 +39,9 @@ https://edge-3.volume.com/live-edge/amlst:zebialex-sd-3d409839e0d1e3db033af084fd
 #EXTINF:-1,S LIVE 
 https://dydj9966h263y.cloudfront.net:443/out/v1/33e0c00a7d6f4642a3db925ba5dcf27c/index_6.m3u8
 
+#EXTINF:-1,AO LIVE
+https://akamai3-br.cdn.booyah.live/hls/1500010/93039384.m3u8
+
 #EXTINF:-1, VARMATCH TV
 https://srv23.varcdn1.ru:443/m1/tracks-v1a1/mono.m3u8
 
