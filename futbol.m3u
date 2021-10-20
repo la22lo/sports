@@ -69,6 +69,12 @@ http://rec2.distv.net/live/damaris/123456/143.m3u8
 #EXTINF:-1, TNT SPORTS
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
+#EXTINF:-1, TNT SPORTS
+https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes4/esportes4_2000/index.m3u8
+
+#EXTINF:-1, TNT SPORTS
+https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes5/esportes5_2000/index.m3u8
+
 #EXTINF:-1, ESPN BRASIL VIVO
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/playlist.m3u8
 
