@@ -6,9 +6,6 @@ http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 #EXTINF:-1, MOVISTAR LALIGA
 http://50.7.66.234:8080/live/alexi/1234/1115758.m3u8
 
-#EXTINF:-1, espn vivo
-https://rtmp.loola.tv:8081/hlspush/18Di5X-Z1MMXoB.m3u8
-
 #EXTINF:-1, ESPN VIVO
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/playlist.m3u8
 
@@ -26,9 +23,6 @@ http://71.aminouras.xyz/live/645587700/index.m3u8
 
 #EXTINF:-1, BEIN SPORT EXTRA
 https://google-me.cdn.booyah.live/hls/113130/85354950.m3u8?ZAnA_IPTV.m3u8
-
-#EXTINF:-1, CHAMP LATINO
-https://akamai2-br.cdn.booyah.live/hls/1000003/93320207.m3u8
 
 #EXTINF:-1, UEFA LATINO
 https://google-br.cdn.booyah.live/hls/1500065/93320904.m3u8
@@ -60,38 +54,14 @@ https://bal.varcdn1.ru/lb/m1/index.m3u8
 #EXTINF:-1, VARCHAT 5
 http://bal.varcdn1.ru/lb/b5/index.m3u8
 
-#EXTINF:-1,ESPN
-https://centurylink.br.cdn.booyah.live/hls/1500023/93314861.m3u8
-
-#EXTINF:-1,ESPN 2
-https://akamai2-br.cdn.booyah.live/hls/1000003/93320207.m3u8?per
-
 #EXTINF:-1,ESPN 2 VIVO
 http://198.255.22.210:8081/ssl/esp_2_sur_8455465/chunks.m3u8?per
-
-#EXTINF:-1, BT SPORT 2
-https://drc8yccmgeq06.cloudfront.net:443/stream/MTM2NQ==/1080p.m3u8
 
 #EXTINF:-1, BT SPORT ESPN 2
 http://93.152.174.144:4000/play/btsportespn/index.m3u8
 
 #EXTINF:-1,BEIN SPORTS 2
 http://23.88.42.119:80/live/652177700/index.m3u8
-
-#EXTINF:-1,S LIVE 
-https://wowzaprodhd24-lh.akamaihd.net/i/54d856f4_1@779817/index_2560000_av-p.m3u8
-
-#EXTINF:-1,S LIVE 
-https://dydj9966h263y.cloudfront.net:443/out/v1/33e0c00a7d6f4642a3db925ba5dcf27c/index_6.m3u8
-
-#EXTINF:-1,S LIVE 
-https://wowzaprodhd24-lh.akamaihd.net/i/54d856f4_1@779817/index_2560000_av-p.m3u8
-
-#EXTINF:-1,S LIVE 
-https://wowzaprodhd54-lh.akamaihd.net/i/e6c77dcf_1@802815/index_2560000_av-p.m3u8
-
-#EXTINF:-1,AO LIVE
-https://akamai3-br.cdn.booyah.live/hls/1500010/93039384.m3u8
 
 #EXTINF:-1, VARMATCH TV
 https://srv23.varcdn1.ru:443/m1/tracks-v1a1/mono.m3u8
