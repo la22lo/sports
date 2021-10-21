@@ -90,6 +90,9 @@ https://akamai3-br.cdn.booyah.live/hls/1500010/93039384.m3u8
 #EXTINF:-1, VARMATCH TV
 https://srv23.varcdn1.ru:443/m1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, MATH TV
+https://bal.varcdn1.ru/lb/match/index.m3u8
+
 #EXTINF:-1, ESPN EXTRA
 http://rec2.distv.net/live/damaris/123456/145.m3u8
 
@@ -110,6 +113,9 @@ https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes5/esportes5_2000/i
 
 #EXTINF:-1, ESPN BRASIL VIVO
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/playlist.m3u8
+
+#EXTINF:-1, FOX VIVO
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/playlist.m3u8
 
 #EXTINF:-1, ELEVEN SPORT 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
