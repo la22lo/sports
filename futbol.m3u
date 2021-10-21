@@ -54,6 +54,9 @@ http://srv12.varcdn1.ru:80/m2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Футбол 3
 https://bal.varcdn1.ru/lb/m3/index.m3u8
 
+#EXTINF:-1, S UEFA 
+http://master2a.uefa-tv.com:80/live/6/chunks.m3u8
+
 #EXTINF:-1, BEIN SPORTS 1
 http://23.88.39.74/live/918454578/index.m3u8
 
@@ -509,6 +512,9 @@ http://Monteinsua@91.126.138.141:1935/live/gol/chunklist_w2146311915.m3u8
 
 #EXTINF:-1, TELEDEPORTE
 https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8
+
+#EXTINF:-1, TELEDEPORTE
+http://Richi@91.126.141.13:1935/live/91/1800-def.m3u8
 
 #EXTINF:-1, PTV CORDOBA DIRECTO
 https://streamer.zapitv.com:443/PTV_CORD/tracks-v1a1/mono.m3u8
