@@ -27,6 +27,12 @@ https://google-me.cdn.booyah.live/hls/113130/85354950.m3u8?ZAnA_IPTV.m3u8
 #EXTINF:-1, UEFA LATINO
 https://google-br.cdn.booyah.live/hls/1500065/93320904.m3u8
 
+#EXTINF:-1, Футбол 1
+https://95-213-224-181.livesports24.online/ntvmatchfoot1.m3u8
+
+#EXTINF:-1, Футбол 1
+https://185-107-80-245.livesports24.online/ntvmatchfoot1.m3u8
+
 #EXTINF:-1, Футбол 2
 https://185-107-80-245.livesports24.online/mfootball2rus.m3u8
 
@@ -167,12 +173,6 @@ https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes4/esportes4_2000/i
 
 #EXTINF:-1, GEO SUPER
 http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, Футбол 1
-https://95-213-224-181.livesports24.online/ntvmatchfoot1.m3u8
-
-#EXTINF:-1, Футбол 1
-https://185-107-80-245.livesports24.online/ntvmatchfoot1.m3u8
 
 #EXTINF:-1, CANAL + POLONIA
 http://207.110.52.61:8080/s/hls/5/295/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
