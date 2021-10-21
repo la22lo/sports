@@ -396,8 +396,14 @@ http://iptv.prosto.tv:7000/ch115/video.m3u8
 #EXTINF:-1, TRING SPORT 1
 http://us.bestvideostreaming.is/8796/index.m3u8
 
+#EXTINF:-1, TRING SPORT 1
+http://93.157.62.180/TringSport1HD/index.m3u8
+
 #EXTINF:-1, TRING SPORT 2
 http://us.bestvideostreaming.is/8797/index.m3u8
+
+#EXTINF:-1, TRING SPORT 2
+http://93.157.62.180/TringSport2HD/index.m3u8
 
 #EXTINF:-1, K SPORT 1
 http://93.157.62.180:80/KSport1/tracks-v1a1/mono.m3u8
