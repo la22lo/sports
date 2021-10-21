@@ -516,6 +516,9 @@ https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8
 #EXTINF:-1, TELEDEPORTE
 http://Richi@91.126.141.13:1935/live/91/1800-def.m3u8
 
+#EXTINF:-1, TELEDEPORTE
+http://91.126.141.13:1935/live/91/1800-def.m3u8
+
 #EXTINF:-1, PTV CORDOBA DIRECTO
 https://streamer.zapitv.com:443/PTV_CORD/tracks-v1a1/mono.m3u8
 
