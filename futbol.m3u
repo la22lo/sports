@@ -15,6 +15,9 @@ http://75.aminouras.xyz/live/918454578/index.m3u8
 #EXTINF:-1, BEIN SPORT 1
 https://google-me.cdn.booyah.live/hls/113132/85351102.m3u8
 
+#EXTINF:-1, BEIN SPORT 1 TRUE VISIONS
+https://smart-tv.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8
+
 #EXTINF:-1, BEIN SPORT 2
 https://google-me.cdn.booyah.live/hls/113138/85352637.m3u8
 
@@ -26,6 +29,9 @@ https://google-me.cdn.booyah.live/hls/113130/85354950.m3u8
 
 #EXTINF:-1, BEIN SPORT EXTRA
 https://google-me.cdn.booyah.live/hls/113130/85354950.m3u8?ZAnA_IPTV.m3u8
+
+#EXTINF:-1, YAYA LIVE
+https://google-me.cdn.booyah.live/hls/113137/93337360.m3u8
 
 #EXTINF:-1, UEFA LATINO
 https://google-br.cdn.booyah.live/hls/1500065/93320904.m3u8
