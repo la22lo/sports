@@ -6,11 +6,26 @@ http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 #EXTINF:-1, MOVISTAR LALIGA
 http://50.7.66.234:8080/live/alexi/1234/1115758.m3u8
 
+#EXTINF:-1, espn vivo
+https://rtmp.loola.tv:8081/hlspush/18Di5X-Z1MMXoB.m3u8
+
+#EXTINF:-1, ESPN VIVO
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/playlist.m3u8
+
+#EXTINF:-1, BEIN SPORT 1
+http://75.aminouras.xyz/live/918454578/index.m3u8
+
+#EXTINF:-1, BEIN SPORT 3
+http://71.aminouras.xyz/live/645587700/index.m3u8
+
 #EXTINF:-1, YAYA LIVE
 https://google-me.cdn.booyah.live/hls/113137/85351102.m3u8
 
 #EXTINF:-1, CHAMP LATINO
 https://akamai2-br.cdn.booyah.live/hls/1000003/93320207.m3u8
+
+#EXTINF:-1, UEFA LATINO
+https://google-br.cdn.booyah.live/hls/1500065/93320904.m3u8
 
 #EXTINF:-1, Футбол 2
 https://185-107-80-245.livesports24.online/mfootball2rus.m3u8
@@ -21,6 +36,9 @@ https://srv05.varcdn1.ru:443/m2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Футбол 2
 http://srv12.varcdn1.ru:80/m2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, Футбол 3
+https://bal.varcdn1.ru/lb/m3/index.m3u8
+
 #EXTINF:-1, BEIN SPORTS 1
 http://23.88.39.74/live/918454578/index.m3u8
 
@@ -29,6 +47,9 @@ http://23.88.39.74:80/live/918454578/index.m3u8
 
 #EXTINF:-1, VARCHAT 6
 https://bal.varcdn1.ru/lb/m2/index.m3u8
+
+#EXTINF:-1, VARCHAT 6
+https://bal.varcdn1.ru/lb/m1/index.m3u8
 
 #EXTINF:-1, VARCHAT 5
 http://bal.varcdn1.ru/lb/b5/index.m3u8
@@ -44,6 +65,9 @@ http://198.255.22.210:8081/ssl/esp_2_sur_8455465/chunks.m3u8?per
 
 #EXTINF:-1, BT SPORT 2
 https://drc8yccmgeq06.cloudfront.net:443/stream/MTM2NQ==/1080p.m3u8
+
+#EXTINF:-1, BT SPORT ESPN 2
+http://93.152.174.144:4000/play/btsportespn/index.m3u8
 
 #EXTINF:-1,BEIN SPORTS 2
 http://23.88.42.119:80/live/652177700/index.m3u8
@@ -71,6 +95,9 @@ http://rec2.distv.net/live/damaris/123456/145.m3u8
 
 #EXTINF:-1, ESPN 2
 http://rec2.distv.net/live/damaris/123456/143.m3u8
+
+#EXTINF:-1, ARENA SPORT 3
+http://93.157.62.180/ArenaSport3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, TNT SPORTS
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
