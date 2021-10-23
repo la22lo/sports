@@ -198,9 +198,6 @@ http://207.110.52.61:8080/s/hls/5/295/canal_plus_sport_polska_250/1/1/tracks-v1a
 #EXTINF:-1, SPORT SMART HD
 https://sourcelive.xyz:2096/hls/ds1.m3u8?md5=oacVutdAfcAgYYHDfJ07ug&expires=1632342482
 
-#EXTINF:-1, SETANTA SPORT
-https://5-61-37-25.livesports24.online/rusetantaeurasia.m3u8
-
 #EXTINF:-1, SETANTA SPORT 1
 https://bal.varcdn1.ru/lb/setanta1/index.m3u8
 
@@ -256,9 +253,6 @@ https://bal.varcdn1.ru/lb/m1/index.m3u8
 https://95-213-172-220.livesports24.online/ooomatch.m3u8
 
 #EXTINF:-1, SETANTA SPORT 1
-https://185-106-121-77.livesports24.online/rusetantaeurasia.m3u8
-
-#EXTINF:-1, SETANTA SPORT 1
 http://iptv.prosto.tv:7000/ch106/video.m3u8
 
 #EXTINF:-1, SETANTA SPORT 2
@@ -266,9 +260,6 @@ https://95-213-224-186.livesports24.online/setantaplusru.m3u8
 
 #EXTINF:-1, SETANTA SPORT 2
 https://95-213-224-181.livesports24.online/setantaplusru.m3u8
-
-#EXTINF:-1, SETANTA + LIVE
-https://95-213-224-181.livesports24.online/setantaplusukr.m3u8
 
 #EXTINF:-1, CANAL RUSO 2 (Матч!)
 https://95-213-224-173.livesports24.online/ooomatch.m3u8
