@@ -6,6 +6,9 @@ http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 #EXTINF:-1, MOVISTAR LALIGA
 http://50.7.66.234:8080/live/alexi/1234/1115758.m3u8
 
+#EXTINF:-1, LA LIGA TV
+http://cdn2.cyclingstreams.xyz/hls/P2.m3u8
+
 #EXTINF:-1, BEIN SPORT 1 TRUE VISIONS
 https://smart-tv.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8
 
@@ -215,6 +218,9 @@ https://d8fsn9iygv0ur.cloudfront.net:443/stream/MTQwMQ==/1080p.m3u8
 
 #EXTINF:-1, S PREMIER LEAGUE
 https://s1.cdnfbs.xyz/hls/d39e083be3c4b3073a3e6b25ac210c2d/chunklist.m3u8
+
+#EXTINF:-1, 1. LIVE
+https://akamai2-br.cdn.booyah.live/hls/1500025/84130313.m3u8
 
 #EXTINF:-1, Беларусь 5
 https://185-82-203-145.livesports24.online/belarusss5.m3u8
