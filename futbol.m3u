@@ -225,6 +225,9 @@ https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1, TRUE PREMIER FUTBOL HD7
 https://sport.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
 
+#EXTINF:-1, ASTRO SUPERSPORT
+https://d1osslim6n274a.cloudfront.net:443/stream/MTM5OQ==/1080p.m3u8
+
 #EXTINF:-1, Беларусь 5
 https://185-82-203-145.livesports24.online/belarusss5.m3u8
 
