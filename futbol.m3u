@@ -225,8 +225,17 @@ https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1, TRUE PREMIER FUTBOL HD7
 https://sport.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
 
-#EXTINF:-1, ASTRO SUPERSPORT
+#EXTINF:-1, ASTRO SUPERSPORT 1
 https://d1osslim6n274a.cloudfront.net:443/stream/MTM5OQ==/1080p.m3u8
+
+#EXTINF:-1, ASTRO SUPERSPORT 2
+https://d2ieawqu8vc4ua.cloudfront.net:443/stream/MTQwMA==/1080p.m3u8
+
+#EXTINF:-1, LIVE NBCN
+https://d8fsn9iygv0ur.cloudfront.net:443/stream/MTQwMQ==/1080p.m3u8
+
+#EXTINF:-1, S PREMIER LEAGUE
+https://s1.cdnfbs.xyz/hls/d39e083be3c4b3073a3e6b25ac210c2d/chunklist.m3u8
 
 #EXTINF:-1, Беларусь 5
 https://185-82-203-145.livesports24.online/belarusss5.m3u8
