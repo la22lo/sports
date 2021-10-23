@@ -6,8 +6,8 @@ http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 #EXTINF:-1, MOVISTAR LALIGA
 http://50.7.66.234:8080/live/alexi/1234/1115758.m3u8
 
-#EXTINF:-1, ESPN VIVO
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/playlist.m3u8
+#EXTINF:-1, ESPN3
+https://google-br.cdn.booyah.live/hls/1500065/93320904.m3u8
 
 #EXTINF:-1, BEIN SPORT 1
 http://75.aminouras.xyz/live/918454578/index.m3u8
@@ -47,9 +47,6 @@ https://google-me.cdn.booyah.live/hls/113130/85354950.m3u8?ZAnA_IPTV.m3u8
 
 #EXTINF:-1, YAYA LIVE
 https://google-me.cdn.booyah.live/hls/113137/93337360.m3u8
-
-#EXTINF:-1, UEFA LATINO
-https://google-br.cdn.booyah.live/hls/1500065/93320904.m3u8
 
 #EXTINF:-1, Футбол 1
 https://95-213-224-181.livesports24.online/ntvmatchfoot1.m3u8
