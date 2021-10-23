@@ -6,32 +6,26 @@ http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 #EXTINF:-1, MOVISTAR LALIGA
 http://50.7.66.234:8080/live/alexi/1234/1115758.m3u8
 
+#EXTINF:-1, BEIN SPORT 1 TRUE VISIONS
+https://smart-tv.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8
+
+#EXTINF:-1, BEIN SPORTS 1
+http://23.88.39.74/live/918454578/index.m3u8
+
+#EXTINF:-1, BEIN SPORTS 1
+http://23.88.39.74:80/live/918454578/index.m3u8
+
 #EXTINF:-1, ESPN3
 https://google-br.cdn.booyah.live/hls/1500065/93320904.m3u8
 
 #EXTINF:-1, LOOK SPORTS +
 https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
 
-#EXTINF:-1, BEIN SPORT 1
-http://75.aminouras.xyz/live/918454578/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 1
-https://google-me.cdn.booyah.live/hls/113132/85351102.m3u8
-
 #EXTINF:-1, BEIN SPORT 1 LIVE
 http://45.94.31.45/beinm16501/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, BEIN SPORT 1 TRUE VISIONS
-https://smart-tv.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8
-
-#EXTINF:-1, BEIN SPORT 2
-https://google-me.cdn.booyah.live/hls/113138/85352637.m3u8
-
 #EXTINF:-1, BEIN SPORT 2 LIVE
 http://45.94.31.45/beinm16502/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, BEIN SPORT 3
-http://71.aminouras.xyz/live/645587700/index.m3u8
 
 #EXTINF:-1, BEIN SPORT 3 LIVE
 http://45.94.31.45/beinm16503/tracks-v1a1/mono.m3u8
@@ -41,15 +35,6 @@ https://sport.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
 
 #EXTINF:-1, BEIN SPORT 3 TRUE VISION
 https://www.wopep.com/02_PremierHD4_720p/chunklist.m3u8
-
-#EXTINF:-1, BEIN SPORT EXTRA 1
-https://google-me.cdn.booyah.live/hls/113130/85354950.m3u8
-
-#EXTINF:-1, BEIN SPORT EXTRA
-https://google-me.cdn.booyah.live/hls/113130/85354950.m3u8?ZAnA_IPTV.m3u8
-
-#EXTINF:-1, YAYA LIVE
-https://google-me.cdn.booyah.live/hls/113137/93337360.m3u8
 
 #EXTINF:-1, Футбол 1
 https://95-213-224-181.livesports24.online/ntvmatchfoot1.m3u8
@@ -69,14 +54,8 @@ http://srv12.varcdn1.ru:80/m2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Футбол 3
 https://bal.varcdn1.ru/lb/m3/index.m3u8
 
-#EXTINF:-1, S UEFA 
+#EXTINF:-1, NOW SPORT 4
 http://master2a.uefa-tv.com:80/live/6/chunks.m3u8
-
-#EXTINF:-1, BEIN SPORTS 1
-http://23.88.39.74/live/918454578/index.m3u8
-
-#EXTINF:-1, BEIN SPORTS 1
-http://23.88.39.74:80/live/918454578/index.m3u8
 
 #EXTINF:-1, VARCHAT 6
 https://bal.varcdn1.ru/lb/m2/index.m3u8
