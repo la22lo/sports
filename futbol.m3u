@@ -21,6 +21,9 @@ http://31.220.3.170:2095/live/hXZp0zPK/djDM7bPC%20/48768.m3u8
 #EXTINF:-1, LA LIGA
 https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/HfOPpDxVqX879TlvHRs79LGN4aI4_cw02Sl2VMmxZo1NzCRlP5msjvdXXPwhY7_rprUkJGFsL09NJfQcA1XWiw/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_highlatency.m3u8?type=live
 
+#EXTINF:-1, YAYA LIVE
+http://a9.amaniyouhra.xyz/live/918454578/index.m3u8
+
 #EXTINF:-1, BEIN SPORT 1 TRUE VISIONS
 https://smart-tv.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8
 
