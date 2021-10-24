@@ -24,6 +24,9 @@ https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/HfOPpDxVqX879TlvH
 #EXTINF:-1, YAYA LIVE
 http://a9.amaniyouhra.xyz/live/918454578/index.m3u8
 
+#EXTINF:-1, YAYA LIVE
+https://google-me.cdn.booyah.live/hls/113130/93339097.m3u8
+
 #EXTINF:-1, BEIN SPORT 1 TRUE VISIONS
 https://smart-tv.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8
 
