@@ -39,6 +39,9 @@ http://23.88.39.74:80/live/918454578/index.m3u8
 #EXTINF:-1, ARABE LIVE
 https://akamai2-mx.cdn.booyah.live/hls/251179/93338121.m3u8
 
+#EXTINF:-1, YAYA LIVE
+https://d1sf7uk98qu2jj.cloudfront.net/out/v1/0c01ab1cff594d1e870be7bc2f6b5dd1/index.m3u8
+
 #EXTINF:-1, ESPN3
 https://google-br.cdn.booyah.live/hls/1500065/93320904.m3u8
 
