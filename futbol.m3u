@@ -138,6 +138,9 @@ https://sourcelive.xyz:2096/hls/ds1.m3u8?md5=oacVutdAfcAgYYHDfJ07ug&expires=1632
 #EXTINF:-1, SETANTA SPORT 1
 https://bal.varcdn1.ru/lb/setanta1/index.m3u8
 
+#EXTINF:-1, ARENA SPORT 4
+http://93.157.62.180/ArenaSport4/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, TRUE PREMIER FUTBOL HD2
 https://www.wopep.com/02_PremierHD2_720p/chunklist.m3u8
 
@@ -182,6 +185,9 @@ https://46-166-139-70.livesports24.online/belarusss5.m3u8
 
 #EXTINF:-1,EUROSPORT 1
 http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
+
+#EXTINF:-1,BETTSON LIVE
+https://betsson-live.akamaized.net/hls/live/2005654/AFA_8236944/playlist.m3u8
 
 #EXTINF:-1, DAZN
 https://186267359.global.cdnfastest.com/live/17373506067e0c249a3a0565a078c287da4/playlist.m3u8
