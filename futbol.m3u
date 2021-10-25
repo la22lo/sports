@@ -210,6 +210,12 @@ https://46-166-139-70.livesports24.online/belarusss5.m3u8
 #EXTINF:-1,EUROSPORT 1
 http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
 
+#EXTINF:-1,EUROSPORT 1
+http://37.99.5.234/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8
+
+#EXTINF:-1,EUROSPORT 2
+http://37.99.5.234/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8
+
 #EXTINF:-1,BETTSON LIVE
 https://betsson-live.akamaized.net/hls/live/2005654/AFA_8236944/playlist.m3u8
 
