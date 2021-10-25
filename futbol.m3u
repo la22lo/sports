@@ -36,6 +36,9 @@ http://siloh-aka.plutotv.net/lilo/production/bein/1/master_1.m3u8
 #EXTINF:-1, LOOK SPORTS +
 https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
 
+#EXTINF:-1, LOOK SPORTS +
+https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8
+
 #EXTINF:-1, SETANTA SPORTS +
 https://77-247-178-24.livesports24.online/setantaukraine.m3u8
 
@@ -144,6 +147,9 @@ http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1, CANAL + POLONIA
 http://207.110.52.61:8080/s/hls/5/295/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, CANAL + POLONIA
+http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/index.m3u8
+
 #EXTINF:-1, SPORT SMART HD
 https://sourcelive.xyz:2096/hls/ds1.m3u8?md5=oacVutdAfcAgYYHDfJ07ug&expires=1632342482
 
@@ -161,6 +167,12 @@ https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
 
 #EXTINF:-1, S PREMIER LEAGUE
 https://s1.cdnfbs.xyz/hls/d39e083be3c4b3073a3e6b25ac210c2d/chunklist.m3u8
+
+#EXTINF:-1, SPORT HD 1
+http://93.157.62.180/TringSport1HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, SPORT HD 2
+http://93.157.62.180/TringSport2HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Беларусь 5
 https://185-82-203-145.livesports24.online/belarusss5.m3u8
