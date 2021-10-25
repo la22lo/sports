@@ -144,6 +144,9 @@ https://s1.cdnfbs.xyz/hls/4368a62c43ef247389e4fbceb672da63/chunklist.m3u8
 #EXTINF:-1, GEO SUPER
 http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, GEO SUPER
+http://221.120.204.4/geo-super-LOCKLE/index.m3u8
+
 #EXTINF:-1, CANAL + POLONIA
 http://207.110.52.61:8080/s/hls/5/295/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
 
