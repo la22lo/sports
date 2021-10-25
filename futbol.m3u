@@ -36,6 +36,9 @@ http://siloh-aka.plutotv.net/lilo/production/bein/1/master_1.m3u8
 #EXTINF:-1, LOOK SPORTS +
 https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
 
+#EXTINF:-1, SETANTA SPORTS +
+https://77-247-178-24.livesports24.online/setantaukraine.m3u8
+
 #EXTINF:-1, BEIN SPORT 1 LIVE
 http://45.94.31.45/beinm16501/tracks-v1a1/mono.m3u8
 
@@ -122,6 +125,9 @@ https://cp.sradiotv.com:1936/8126/8126/chunklist_w703271480.m3u8
 
 #EXTINF:-1, MATH RUSIA 2
 https://95-213-172-220.livesports24.online/fooootball2.m3u8
+
+#EXTINF:-1, SPORT TV2
+https://cloudserver.server-cdn-streaming.com/live-player/20/live.m3u8
 
 #EXTINF:-1, BT2 LIVE
 https://s1.cdnfbs.xyz/hls/4c6c5a798d2e7f2e007de69322bb2359/chunklist.m3u8
