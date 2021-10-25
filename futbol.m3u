@@ -18,17 +18,20 @@ https://akamai2-br.cdn.booyah.live/hls/1500006/94145112.m3u8
 #EXTINF:-1, BEIN SPORT 1 TRUE VISIONS
 https://smart-tv.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8
 
+#EXTINF:-1, BEIN SPORT 1 TRUE VISIONS
+https://cloudserver.server-cdn-streaming.com/live-player/5/live.m3u8
+
 #EXTINF:-1, BEIN SPORTS 1
 http://23.88.39.74/live/918454578/index.m3u8
 
 #EXTINF:-1, BEIN SPORTS 1
 http://23.88.39.74:80/live/918454578/index.m3u8
 
-#EXTINF:-1, YAYA LIVE
-https://d1sf7uk98qu2jj.cloudfront.net/out/v1/0c01ab1cff594d1e870be7bc2f6b5dd1/index.m3u8
+#EXTINF:-1, BEIN SPORT 2 TRUE VISIONS
+https://cloudserver.server-cdn-streaming.com/live-player/6/live.m3u8
 
-#EXTINF:-1, YAYA LIVE
-https://d1sf7uk98qu2jj.cloudfront.net/out/v1/0c01ab1cff594d1e870be7bc2f6b5dd1/index_1.m3u8
+#EXTINF:-1, BEIN SPORT EXTRA
+http://siloh-aka.plutotv.net/lilo/production/bein/1/master_1.m3u8
 
 #EXTINF:-1, LOOK SPORTS +
 https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
@@ -86,6 +89,9 @@ http://rec2.distv.net/live/damaris/123456/145.m3u8
 
 #EXTINF:-1, ESPN 2
 http://rec2.distv.net/live/damaris/123456/143.m3u8
+
+#EXTINF:-1, SPORTS NEWS
+http://93.157.62.180/Supersport1/index.m3u8
 
 #EXTINF:-1, ARENA SPORT 3
 http://93.157.62.180/ArenaSport3/tracks-v1a1/mono.m3u8
@@ -278,6 +284,9 @@ https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/1vdj1cxb/27
 
 #EXTINF:-1, FUTBOL TV
 http://ott-cdn.ucom.am/s41/index.m3u8
+
+#EXTINF:-1, SPOTV
+https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
 
 #EXTINF:-1, SPORTS 2
 http://iptv.prosto.tv:7000/ch115/video.m3u8
