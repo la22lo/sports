@@ -10,6 +10,9 @@ http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 http://50.7.66.234:8080/live/alexi/1234/1115758.m3u8
 
 #EXTINF:-1, MOVISTAR LALIGA
+http://31.220.3.170:2095/live/hXZp0zPK/djDM7bPC%20/48768.m3u8
+
+#EXTINF:-1, MOVISTAR LALIGA
 http://suplus.xyz:8080/live/Cuentafamilia/9KHZ5pUtt4/4654.m3u8
 
 #EXTINF:-1, CANAL + POLONIA
@@ -53,6 +56,9 @@ http://s1.urhdiptv.net:8080/live/mma2/45212156/80118.m3u8
 
 #EXTINF:-1, BEIN SPORT 2 PREMIUM
 http://2.nrouahwar.xyz:80/live/616194987/index.m3u8
+
+#EXTINF:-1, BEIN SPORT 2 4K
+https://live.brimecdn.com/edge/ggKrieSbEHe49Kxvw51S/playlist.m3u8
 
 #EXTINF:-1, BEIN SPORT 3 LIVE
 http://45.94.31.45/beinm16503/tracks-v1a1/mono.m3u8
@@ -137,6 +143,9 @@ https://46-166-142-27.livesports24.online/setantaplusru.m3u8
 
 #EXTINF:-1, MATH RUSIA 1
 https://95-213-224-180.livesports24.online/ooomatch.m3u8
+
+#EXTINF:-1, LIVE HD7
+https://live.brimecdn.com/edge/2Q4cCWyKsACdwULyZm23/playlist.m3u8
 
 #EXTINF:-1, CRTV LIVE
 https://cp.sradiotv.com:1936/8126/8126/chunklist_w703271480.m3u8
