@@ -144,9 +144,6 @@ http://207.110.52.61:8080/s/hls/5/295/canal_plus_sport_polska_250/1/1/tracks-v1a
 #EXTINF:-1, CANAL + POLONIA
 http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/index.m3u8
 
-#EXTINF:-1, SPORT SMART HD
-https://sourcelive.xyz:2096/hls/ds1.m3u8?md5=oacVutdAfcAgYYHDfJ07ug&expires=1632342482
-
 #EXTINF:-1, SETANTA SPORT 1
 https://bal.varcdn1.ru/lb/setanta1/index.m3u8
 
@@ -173,9 +170,6 @@ https://185-82-203-145.livesports24.online/belarusss5.m3u8
 
 #EXTINF:-1, Футбол 1
 https://95-213-224-180.livesports24.online/ntvmatchfoot1.m3u8
-
-#EXTINF:-1, CANAL RUSO 7 (Футбол 1)
-https://95-213-224-181.livesports24.online/ntvmatchfoot1.m3u8
 
 #EXTINF:-1, Футбол 1
 https://bal.varcdn1.ru/lb/m1/index.m3u8
@@ -209,9 +203,6 @@ http://37.99.5.234/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8
 
 #EXTINF:-1,EUROSPORT 2
 http://37.99.5.234/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8
-
-#EXTINF:-1,BETTSON LIVE
-https://betsson-live.akamaized.net/hls/live/2005654/AFA_8236944/playlist.m3u8
 
 #EXTINF:-1, DAZN
 https://186267359.global.cdnfastest.com/live/17373506067e0c249a3a0565a078c287da4/playlist.m3u8
@@ -255,9 +246,6 @@ https://77-247-178-24.livesports24.online/rumatcharena.m3u8
 #EXTINF:-1,MATH CTPHA
 https://46-166-139-70.livesports24.online/mnashsport.m3u8
 
-#EXTINF:-1,MATH RUSIA
-https://95-213-224-181.livesports24.online/ooomatch.m3u8
-
 #EXTINF:-1, MATH RUSIA
 https://185-106-121-143.livesports24.online/ooomatch.m3u8
 
@@ -276,9 +264,6 @@ https://95-213-224-179.livesports24.online/ntvmatchfoot1.m3u8
 #EXTINF:-1, Телеканал Футбол
 https://95-213-224-176.livesports24.online/footballrus.m3u8
 
-#EXTINF:-1, Унiан
-https://95-213-224-181.livesports24.online/uniantv.m3u8
-
 #EXTINF:-1, SPORT RU
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
 
@@ -287,9 +272,6 @@ http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_
 
 #EXTINF:-1,RTSH SPORT
 http://93.157.62.180/RTSHSport/index.m3u8
-
-#EXTINF:-1,RTSH SPORT
-https://tvlive.rtsh.dev/live/sport_ott_p3/playlist.m3u8
 
 #EXTINF:-1, SKY SPORTS 24
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
