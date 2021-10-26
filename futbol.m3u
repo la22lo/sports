@@ -54,6 +54,9 @@ http://45.94.31.45/beinm16503/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BEIN SPORT 3 TRUE VISION
 https://www.wopep.com/02_PremierHD4_720p/chunklist.m3u8
 
+#EXTINF:-1, BEIN SPORT 3
+http://93.152.174.144:4000/play/bein3fr/index.m3u8
+
 #EXTINF:-1, Футбол 1
 https://185-107-80-245.livesports24.online/ntvmatchfoot1.m3u8
 
@@ -261,6 +264,9 @@ https://95-213-224-180.livesports24.online/belarusss5.m3u8
 #EXTINF:-1, SPORT 1
 https://95-213-224-183.livesports24.online/sport1ua.m3u8
 
+#EXTINF:-1, SPORT 2
+http://iptv.prosto.tv:7000/ch115/video.m3u8
+
 #EXTINF:-1,APEHA TV
 https://77-247-178-24.livesports24.online/rumatcharena.m3u8
 
@@ -284,6 +290,9 @@ https://95-213-224-179.livesports24.online/ntvmatchfoot1.m3u8
 
 #EXTINF:-1, Телеканал Футбол
 https://95-213-224-176.livesports24.online/footballrus.m3u8
+
+#EXTINF:-1, Телеканал Футбол
+http://185.228.135.48:8080/tv_footbal_hd/index.m3u8
 
 #EXTINF:-1, SPORT RU
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
