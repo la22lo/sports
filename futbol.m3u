@@ -15,6 +15,9 @@ http://suplus.xyz:8080/live/Cuentafamilia/9KHZ5pUtt4/4654.m3u8
 #EXTINF:-1, CANAL + POLONIA
 http://207.110.52.61:8080/s/hls/5/295/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, YAYA LIVE
+http://a8.aminouras.xyz/live/918454578/index.m3u8
+
 #EXTINF:-1, BEIN SPORT 1 TRUE VISIONS
 https://smart-tv.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8
 
