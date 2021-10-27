@@ -27,6 +27,9 @@ https://centurylink.br.cdn.booyah.live/hls/1000007/94366981.m3u8
 #EXTINF:-1, DIRECTV SPORT
 https://google-br.cdn.booyah.live/hls/1500038/94250171.m3u8
 
+#EXTINF:-1, SETANTA SPORT 1
+https://srv08-1.varcdn1.ru/setanta1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, LALIGA
 https://google-br.cdn.booyah.live/hls/1000000/94250957.m3u8
 
