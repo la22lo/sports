@@ -30,6 +30,12 @@ https://google-me.cdn.booyah.live/hls/113138/93331708.m3u8
 #EXTINF:-1, YAYA LIVE
 https://divz00nshyen8.cloudfront.net:443/out/v1/fd17ca4898c14491a9575342a74bc59a/index_1.m3u8
 
+#EXTINF:-1, LALIGA TV
+http://77.247.109.101/hls/A2.m3u8
+
+#EXTINF:-1, LALIGA TV
+http://77.247.109.92/hls/W1.m3u8
+
 #EXTINF:-1, S LALIGA
 https://d2uihmhhd9lq2n.cloudfront.net:443/out/v1/5f2836fcb9324ebdac5dc4940c02bdb5/playlist_1.m3u8
 
