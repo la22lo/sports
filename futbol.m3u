@@ -15,6 +15,12 @@ http://31.220.3.170:2095/live/hXZp0zPK/djDM7bPC%20/48768.m3u8
 #EXTINF:-1, MOVISTAR LALIGA
 http://suplus.xyz:8080/live/Cuentafamilia/9KHZ5pUtt4/4654.m3u8
 
+#EXTINF:-1, DIRECTV SPORT
+https://centurylink.br.cdn.booyah.live/hls/1000007/94366981.m3u8
+
+#EXTINF:-1, DIRECTV SPORT
+https://google-br.cdn.booyah.live/hls/1500038/94250171.m3u8
+
 #EXTINF:-1, BEIN SPORT 1 TRUE VISIONS
 https://smart-tv.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8
 
