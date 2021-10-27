@@ -321,8 +321,11 @@ https://77-247-178-24.livesports24.online/rumatcharena.m3u8
 #EXTINF:-1,APEHA TV
 https://bal.varcdn1.ru/lb/marena/index.m3u8
 
-#EXTINF:-1,BALLBAR TV
+#EXTINF:-1,BALLBAR TV 1
 https://play.girlupx.cn/live/ballbar_21100.m3u8
+
+#EXTINF:-1,BALLBAR TV 2
+https://play.girlupx.cn/live/ballbar_21480.m3u8
 
 #EXTINF:-1,MATH CTPHA
 https://46-166-139-70.livesports24.online/mnashsport.m3u8
