@@ -24,6 +24,9 @@ https://centurylink.br.cdn.booyah.live/hls/1000007/94366981.m3u8
 #EXTINF:-1, DIRECTV SPORT
 https://google-br.cdn.booyah.live/hls/1500038/94250171.m3u8
 
+#EXTINF:-1, LALIGA
+https://google-br.cdn.booyah.live/hls/1000000/94250957.m3u8
+
 #EXTINF:-1, SUPERSPORT 2
 http://93.157.62.180:80/Supersport2/tracks-v1a1/mono.m3u8
 
