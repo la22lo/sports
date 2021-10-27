@@ -15,15 +15,6 @@ http://31.220.3.170:2095/live/hXZp0zPK/djDM7bPC%20/48768.m3u8
 #EXTINF:-1, MOVISTAR LALIGA
 http://suplus.xyz:8080/live/Cuentafamilia/9KHZ5pUtt4/4654.m3u8
 
-#EXTINF:-1, CANAL + POLONIA
-http://207.110.52.61:8080/s/hls/5/295/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, YAYA LIVE
-http://a8.aminouras.xyz/live/918454578/index.m3u8
-
-#EXTINF:-1, UEFA TV
-http://sir1a.uefa-tv.com:80/live/5/chunks.m3u8
-
 #EXTINF:-1, BEIN SPORT 1 TRUE VISIONS
 https://smart-tv.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8
 
@@ -353,6 +344,9 @@ https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 
 #EXTINF:-1, CANAL PLUS SPORT HD
 http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, CANAL + POLONIA
+http://207.110.52.61:8080/s/hls/5/295/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, 11 INTERNACIONAL
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
