@@ -48,6 +48,15 @@ https://google-br.cdn.booyah.live/hls/1000000/94250957.m3u8
 #EXTINF:-1, SUPERSPORT 2
 http://93.157.62.180:80/Supersport2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, S LA LIGA
+http://77.247.109.92/hls/W2.m3u8
+
+#EXTINF:-1, PREMIERE SPORT 2 LIVE
+http://sir1a.uefa-tv.com:80/live/8/chunks.m3u8
+
+#EXTINF:-1, DIRECT SPORT 2
+https://centurylink.br.cdn.booyah.live/hls/1500092/94372161.m3u8
+
 #EXTINF:-1, BEIN SPORT 1 TRUE VISIONS
 https://smart-tv.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8
 
