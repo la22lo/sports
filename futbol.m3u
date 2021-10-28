@@ -21,6 +21,9 @@ http://pyramidsiptv.com:8080/live/mohamed/mohamed123/81951.m3u8
 #EXTINF:-1, ESPN VIVO
 https://centurylink.br.cdn.booyah.live/hls/1000001/94249834.m3u8
 
+#EXTINF:-1, BEIN SPORT 2
+http://23.88.42.117:80/live/69854211/index.m3u8
+
 #EXTINF:-1, BEIN SPORT 1 PREMIUM
 http://23.88.39.74/live/6161655/index.m3u8?samitvhd
 
