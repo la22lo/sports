@@ -21,12 +21,6 @@ http://pyramidsiptv.com:8080/live/mohamed/mohamed123/81951.m3u8
 #EXTINF:-1, ESPN VIVO
 https://centurylink.br.cdn.booyah.live/hls/1000001/94249834.m3u8
 
-#EXTINF:-1, S LALIGA
-https://d2uihmhhd9lq2n.cloudfront.net:443/out/v1/5f2836fcb9324ebdac5dc4940c02bdb5/playlist_1.m3u8
-
-#EXTINF:-1, S LALIGA
-https://d2uihmhhd9lq2n.cloudfront.net:443/out/v1/5f2836fcb9324ebdac5dc4940c02bdb5/playlist_2.m3u8
-
 #EXTINF:-1, BEIN SPORT 1 PREMIUM
 http://23.88.39.74/live/6161655/index.m3u8?samitvhd
 
