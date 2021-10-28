@@ -15,6 +15,9 @@ http://31.220.3.170:2095/live/hXZp0zPK/djDM7bPC%20/48768.m3u8
 #EXTINF:-1, MOVISTAR LALIGA
 http://blackghost.live/play/futvall-126.php?id=mlaliga&k=b1ackkkghosst&f=.m3u8
 
+#EXTINF:-1, MOVISTAR LALIGA
+http://pyramidsiptv.com:8080/live/mohamed/mohamed123/81951.m3u8
+
 #EXTINF:-1, S LALIGA
 https://d2uihmhhd9lq2n.cloudfront.net:443/out/v1/5f2836fcb9324ebdac5dc4940c02bdb5/playlist_1.m3u8
 
@@ -407,6 +410,9 @@ http://93.157.62.180:80/KSport3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, K SPORT 4
 http://93.157.62.180:80/KSport4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, AD SPORTS
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 
 #EXTINF:-1, BAHRAIN SPORTS
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
