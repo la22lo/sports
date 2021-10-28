@@ -18,6 +18,15 @@ https://d2uihmhhd9lq2n.cloudfront.net:443/out/v1/5f2836fcb9324ebdac5dc4940c02bdb
 #EXTINF:-1, S LALIGA
 https://d2uihmhhd9lq2n.cloudfront.net:443/out/v1/5f2836fcb9324ebdac5dc4940c02bdb5/playlist_2.m3u8
 
+#EXTINF:-1, BEIN SPORT 1 PREMIUM
+http://23.88.39.74/live/6161655/index.m3u8?samitvhd
+
+#EXTINF:-1, BEIN SPORT 2 PREMIUM
+http://23.88.39.74/live/616194987/index.m3u8?samitvhd
+
+#EXTINF:-1, BEIN SPORT 3 PREMIUM
+http://23.88.39.74/live/6151278887/index.m3u8
+
 #EXTINF:-1, SETANTA SPORT 1
 https://srv08-1.varcdn1.ru/setanta1/tracks-v1a1/mono.m3u8
 
@@ -398,6 +407,9 @@ https://persik.tv/stream/3602/287583/10249.m3u8
 
 #EXTINF:-1, DUBAI SPORTS
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1, BDIX SPORT
+http://bcdn.bdixsports.live:1935/live/event.stream/index.m3u8
 
 #EXTINF:-1, MOROC SPORTS
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
