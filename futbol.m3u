@@ -18,17 +18,8 @@ http://blackghost.live/play/futvall-126.php?id=mlaliga&k=b1ackkkghosst&f=.m3u8
 #EXTINF:-1, MOVISTAR LALIGA
 http://pyramidsiptv.com:8080/live/mohamed/mohamed123/81951.m3u8
 
-#EXTINF:-1, YALLA LIVE
-https://google-me.cdn.booyah.live/hls/113138/93339097.m3u8
-
 #EXTINF:-1, BEIN SPORT 1
 http://23.88.32.233:80/live/33523510/index.m3u8
-
-#EXTINF:-1, BEIN SPORT
-http://23.88.42.157:80/live/6161655/index.m3u8?per
-
-#EXTINF:-1, BEIN SPORT 1 NET
-https://google-me.cdn.booyah.live/hls/113132/85567930.m3u8
 
 #EXTINF:-1, LIVE HD7
 https://live.brimecdn.com/edge/2Q4cCWyKsACdwULyZm23/playlist.m3u8
@@ -36,44 +27,14 @@ https://live.brimecdn.com/edge/2Q4cCWyKsACdwULyZm23/playlist.m3u8
 #EXTINF:-1, SETANTA SPORT 1
 https://srv05.varcdn1.ru/setanta1/index.m3u8
 
-#EXTINF:-1, DIRECTV SPORT
-https://centurylink.br.cdn.booyah.live/hls/1500102/94250171.m3u8
-
-#EXTINF:-1, ESPN VIVO
-https://centurylink.br.cdn.booyah.live/hls/1000001/94249834.m3u8
-
 #EXTINF:-1, BEIN SPORT 2
 http://23.88.42.117:80/live/69854211/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 1 PREMIUM
-http://23.88.39.74/live/6161655/index.m3u8?samitvhd
-
-#EXTINF:-1, BEIN SPORT 2 PREMIUM
-http://23.88.39.74/live/616194987/index.m3u8?samitvhd
-
-#EXTINF:-1, BEIN SPORT 3 PREMIUM
-http://23.88.39.74/live/6151278887/index.m3u8
-
-#EXTINF:-1, SETANTA SPORT 1
-https://srv08-1.varcdn1.ru/setanta1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, SUPERSPORT 2
 http://93.157.62.180:80/Supersport2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, BEIN SPORT 1 TRUE VISIONS
 https://smart-tv.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8
-
-#EXTINF:-1, BEIN SPORT 1 TRUE VISIONS
-https://cloudserver.server-cdn-streaming.com/live-player/5/live.m3u8
-
-#EXTINF:-1, BEIN SPORTS 1
-http://23.88.39.74/live/918454578/index.m3u8
-
-#EXTINF:-1, BEIN SPORTS 1
-http://23.88.39.74:80/live/918454578/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 2 TRUE VISIONS
-https://cloudserver.server-cdn-streaming.com/live-player/6/live.m3u8
 
 #EXTINF:-1, BEIN SPORT EXTRA
 http://siloh-aka.plutotv.net/lilo/production/bein/1/master_1.m3u8
@@ -96,17 +57,8 @@ https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
 #EXTINF:-1, ESPN SPORTS
 http://blackghost.live/play/futvall-126.php?id=espndep&k=b1ackkkghosst&file=.m3u8
 
-#EXTINF:-1, SETANTA SPORTS +
-https://77-247-178-24.livesports24.online/setantaukraine.m3u8
-
 #EXTINF:-1, BEIN SPORT 2 LIVE
 http://45.94.31.45/beinm16502/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, BEIN SPORT 2 PREMIUM
-http://2.nrouahwar.xyz:80/live/616194987/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 2 4K
-https://live.brimecdn.com/edge/ggKrieSbEHe49Kxvw51S/playlist.m3u8
 
 #EXTINF:-1, BEIN SPORT 3 LIVE
 http://45.94.31.45/beinm16503/tracks-v1a1/mono.m3u8
@@ -117,17 +69,8 @@ https://www.wopep.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1, BEIN SPORT 3
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
 
-#EXTINF:-1, Футбол 1
-https://185-107-80-245.livesports24.online/ntvmatchfoot1.m3u8
-
-#EXTINF:-1, Футбол 2
-https://185-107-80-245.livesports24.online/mfootball2rus.m3u8
-
 #EXTINF:-1, Футбол 2
 https://srv05.varcdn1.ru:443/m2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, Футбол 2
-http://srv12.varcdn1.ru:80/m2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Футбол 3
 https://bal.varcdn1.ru/lb/m3/index.m3u8
