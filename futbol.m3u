@@ -24,9 +24,6 @@ http://b12.anfalrou.xyz/live/91845457800/index.m3u8
 #EXTINF:-1, DIRECT TV SPORT
 https://38q.gcdn.co/DEP30/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, LALIGA TV 
-https://s1.cdnfbs.xyz/hls/bd0feb7098b8bf044d4f6eece41e349a/chunklist.m3u8
-
 #EXTINF:-1, BEIN SPORT 1
 http://23.88.32.233:80/live/33523510/index.m3u8
 
