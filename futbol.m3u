@@ -165,9 +165,6 @@ https://bal.varcdn1.ru/lb/m1/index.m3u8
 #EXTINF:-1, VARCHAT 5
 http://bal.varcdn1.ru/lb/b5/index.m3u8
 
-#EXTINF:-1, BT SPORT ESPN 2
-http://93.152.174.144:4000/play/btsportespn/index.m3u8
-
 #EXTINF:-1, MATH TV
 https://bal.varcdn1.ru/lb/match/index.m3u8
 
@@ -222,21 +219,6 @@ https://cp.sradiotv.com:1936/8126/8126/chunklist_w703271480.m3u8
 #EXTINF:-1, MATH RUSIA 2
 https://95-213-172-220.livesports24.online/fooootball2.m3u8
 
-#EXTINF:-1, SPORT TV2
-https://cloudserver.server-cdn-streaming.com/live-player/20/live.m3u8
-
-#EXTINF:-1, BT2 LIVE
-https://s1.cdnfbs.xyz/hls/4c6c5a798d2e7f2e007de69322bb2359/chunklist.m3u8
-
-#EXTINF:-1, BT SPORT 2
-http://93.152.174.144:4000/play/btsport2/index.m3u8
-
-#EXTINF:-1, BT SPORT 3
-http://93.152.174.144:4000/play/btsport3/index.m3u8
-
-#EXTINF:-1, BT ESPN
-https://s1.cdnfbs.xyz/hls/4368a62c43ef247389e4fbceb672da63/chunklist.m3u8
-
 #EXTINF:-1, GEO SUPER
 http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
 
@@ -260,9 +242,6 @@ https://www.wopep.com/02_PremierHD2_720p/chunklist.m3u8
 
 #EXTINF:-1, TRUE PREMIER FUTBOL HD7
 https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
-
-#EXTINF:-1, S PREMIER LEAGUE
-https://s1.cdnfbs.xyz/hls/d39e083be3c4b3073a3e6b25ac210c2d/chunklist.m3u8
 
 #EXTINF:-1, SPORT HD 1
 http://93.157.62.180/TringSport1HD/tracks-v1a1/mono.m3u8
@@ -297,9 +276,6 @@ https://cdn.onarmtv.com/str/8/output.m3u8
 #EXTINF:-1,MATH RUSIA
 https://95-213-224-180.livesports24.online/rumatchf3.m3u8
 
-#EXTINF:-1, SETANTA SPORT 1
-http://iptv.prosto.tv:7000/ch106/video.m3u8
-
 #EXTINF:-1, CANAL RUSO 2 (Матч!)
 https://95-213-224-173.livesports24.online/ooomatch.m3u8
 
@@ -324,9 +300,6 @@ http://37.99.5.234/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8
 #EXTINF:-1,EUROSPORT 2
 http://37.99.5.234/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8
 
-#EXTINF:-1, DAZN
-https://186267359.global.cdnfastest.com/live/17373506067e0c249a3a0565a078c287da4/playlist.m3u8
-
 #EXTINF:-1, LOOK SPORTS +
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 
@@ -350,9 +323,6 @@ http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,TVP SPORT
 http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8?SBN
-
-#EXTINF:-1, QAZ SPORT 
-http://37.99.5.237:80/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8
 
 #EXTINF:-1, QAZ SPORT 
 http://46.34.209.242/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8?per
