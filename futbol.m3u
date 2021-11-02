@@ -36,6 +36,12 @@ http://93.152.174.144:4000/play/btsportespn/index.m3u8
 #EXTINF:-1, BEIN SPORT 2
 http://b12.amaniyouhra.xyz/live/61619498700/index.m3u8
 
+#EXTINF:-1, ELEVEN SPORT 1
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+
+#EXTINF:-1, ARENA SPORT 3
+http://93.157.62.180/ArenaSport3/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, SETANTA SPORT 1
 https://srv05.varcdn1.ru/setanta1/index.m3u8
 
@@ -128,9 +134,6 @@ http://93.157.62.180:80/ArenaSport4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, TNT SPORTS
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-
-#EXTINF:-1, ELEVEN SPORT 1
-http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 
 #EXTINF:-1, ELEVEN 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8
