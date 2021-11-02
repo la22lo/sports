@@ -69,6 +69,9 @@ http://93.157.62.180/TringSport2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BT SPORT 2
 https://video-cdn.angelthump.com/hls/ch001/index.m3u8
 
+#EXTINF:-1, BT SPORT 3
+https://s1.cdnfbs.xyz/hls/64ff30d936f1e1bd373f36684ca4eda4/chunklist.m3u8
+
 #EXTINF:-1, BT SPORT ESPN HD
 http://93.152.174.144:4000/play/btsportespn/index.m3u8
 
