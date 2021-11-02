@@ -12,11 +12,23 @@ http://50.7.66.234:8080/live/alexi/1234/1115758.m3u8
 #EXTINF:-1, MOVISTAR LALIGA
 http://31.220.3.170:2095/live/hXZp0zPK/djDM7bPC%20/48768.m3u8
 
+#EXTINF:-1, YALLA LIVE
+https://google-me.cdn.booyah.live/hls/113130/93317448.m3u8
+
 #EXTINF:-1, BEIN SPORT 1
 http://23.88.32.233:80/live/33523510/index.m3u8
 
+#EXTINF:-1, BEIN SPORT 1
+http://b5.amaniyouhra.xyz/live/616165500/index.m3u8
+
+#EXTINF:-1, BEIN SPORT NET
+https://google-me.cdn.booyah.live/hls/113132/83188269.m3u8
+
 #EXTINF:-1, LATINO CHAMPIONS
 https://centurylink.br.cdn.booyah.live/hls/1500050/59193789.m3u8
+
+#EXTINF:-1, TRING SPORT 2
+http://93.157.62.180/TringSport2HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, SETANTA SPORT 1
 https://srv05.varcdn1.ru/setanta1/index.m3u8
