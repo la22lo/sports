@@ -543,5 +543,8 @@ http://91.126.141.13:1935/live/91/1800-def.m3u8
 #EXTINF:-1, PTV CORDOBA DIRECTO
 https://streamer.zapitv.com:443/PTV_CORD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, GOL TV
+http://154.62.74.29:1935/live/gol/playlist.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
