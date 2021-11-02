@@ -42,11 +42,17 @@ https://google-me.cdn.booyah.live/hls/113130/85351102.m3u8
 #EXTINF:-1, ESPN 2
 https://google-br.cdn.booyah.live/hls/1000006/94742807.m3u8
 
+#EXTINF:-1, ESPN EXTRA
+https://google-br.cdn.booyah.live/hls/1000006/94742807.m3u8
+
 #EXTINF:-1, LATINO CHAMPIONS
 https://centurylink.br.cdn.booyah.live/hls/1500050/59193789.m3u8
 
 #EXTINF:-1, LATINO CHAMPIONS
 https://centurylink.br.cdn.booyah.live/hls/1500068/95252582.m3u8
+
+#EXTINF:-1, S CHAMAPIONS
+https://s1.cdnfbs.xyz/hls/0055a5709f2388ee34e6a39c4719fccb/chunklist.m3u8
 
 #EXTINF:-1, TRING SPORT 2
 http://93.157.62.180/TringSport2HD/tracks-v1a1/mono.m3u8
