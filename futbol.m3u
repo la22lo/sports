@@ -27,8 +27,11 @@ http://b5.amaniyouhra.xyz/live/616165500/index.m3u8
 #EXTINF:-1, BEIN SPORT 1
 http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80034.m3u8
 
-#EXTINF:-1, BEIN SPORT NET
+#EXTINF:-1, BEIN SPORT NET 1
 https://google-me.cdn.booyah.live/hls/113132/83188269.m3u8
+
+#EXTINF:-1, BEIN SPORT NET 2
+https://google-me.cdn.booyah.live/hls/113130/85351102.m3u8
 
 #EXTINF:-1, LATINO CHAMPIONS
 https://centurylink.br.cdn.booyah.live/hls/1500050/59193789.m3u8
