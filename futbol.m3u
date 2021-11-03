@@ -42,9 +42,6 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1, ARENA SPORT 3
 http://93.157.62.180/ArenaSport3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, SETANTA SPORT 1
-https://srv05.varcdn1.ru/setanta1/index.m3u8
-
 #EXTINF:-1, BEIN SPORT 2
 http://23.88.42.117:80/live/69854211/index.m3u8
 
@@ -92,9 +89,6 @@ https://www.wopep.com/02_PremierHD4_720p/chunklist.m3u8
 
 #EXTINF:-1, BEIN SPORT 3
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
-
-#EXTINF:-1, Футбол 2
-https://srv05.varcdn1.ru:443/m2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Футбол 3
 https://bal.varcdn1.ru/lb/m3/index.m3u8
@@ -240,12 +234,6 @@ https://46-166-139-70.livesports24.online/belarusss5.m3u8
 #EXTINF:-1,EUROSPORT 1
 http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
 
-#EXTINF:-1,EUROSPORT 1
-http://37.99.5.234/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8
-
-#EXTINF:-1,EUROSPORT 2
-http://37.99.5.234/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8
-
 #EXTINF:-1, LOOK SPORTS +
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 
@@ -384,9 +372,6 @@ https://persik.tv/stream/3602/287583/10249.m3u8
 #EXTINF:-1, DUBAI SPORTS
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 
-#EXTINF:-1, BDIX SPORT
-http://bcdn.bdixsports.live:1935/live/event.stream/index.m3u8
-
 #EXTINF:-1, MOROC SPORTS
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 
@@ -428,9 +413,6 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 
 #EXTINF:-1,AD SPORTS 3
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-
-#EXTINF:-1, FOX SPORT AUSTRALIA
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
 #EXTINF:-1, FootballHub
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
@@ -485,12 +467,6 @@ https://live-dvr.eitb-fastly.cross-media.es/live-content/oka2hd-hls/bitrate_4.m3
 
 #EXTINF:-1, CICLISMO ESUKERA (EITB)
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-b.m3u8
-
-#EXTINF:-1, GOL TV 
-http://91.126.138.141:1935/live/gol/chunklist_w2146311915.m3u8
-
-#EXTINF:-1, GOL TV 
-http://Monteinsua@91.126.138.141:1935/live/gol/chunklist_w2146311915.m3u8
 
 #EXTINF:-1, TELEDEPORTE
 https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8
