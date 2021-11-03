@@ -15,65 +15,17 @@ http://50.7.66.234:8080/live/alexi/1234/1115758.m3u8
 #EXTINF:-1, MOVISTAR LALIGA
 http://31.220.3.170:2095/live/hXZp0zPK/djDM7bPC%20/48768.m3u8
 
-#EXTINF:-1, YALLA LIVE
-https://google-me.cdn.booyah.live/hls/113130/93317448.m3u8
-
-#EXTINF:-1, YALLA LIVE
-https://dfdqxh9lqta5h.cloudfront.net/out/v1/80db4e7fbffa4eb8ac1e33c568a683bc/index.m3u8
-
-#EXTINF:-1, YALLA LIVE
-https://google-me.cdn.booyah.live/hls/113137/93858955.m3u8
-
-#EXTINF:-1, BT SPORT
-https://s1.cdnfbs.xyz/hls/64ff30d936f1e1bd373f36684ca4eda4/chunklist.m3u8
-
 #EXTINF:-1, BEIN SPORT 1
 http://23.88.32.233:80/live/33523510/index.m3u8
 
 #EXTINF:-1, BEIN SPORT 1
-http://b5.amaniyouhra.xyz/live/616165500/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 1
 http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80034.m3u8
-
-#EXTINF:-1, BEIN SPORT NET 1
-https://google-me.cdn.booyah.live/hls/113132/83188269.m3u8
-
-#EXTINF:-1, BEIN SPORT NET 2
-https://google-me.cdn.booyah.live/hls/113130/85351102.m3u8
 
 #EXTINF:-1, BEIN SPORT 2
 http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80033.m3u8
 
-#EXTINF:-1, BEIN SPORT EXTRA 1
-https://google-me.cdn.booyah.live/hls/113137/85352637.m3u8
-
-#EXTINF:-1, BEIN SPORT EXTRA 2
-https://google-me.cdn.booyah.live/hls/113134/85354950.m3u8
-
-#EXTINF:-1, ESPN 2
-https://google-br.cdn.booyah.live/hls/1000006/94742807.m3u8
-
-#EXTINF:-1, ESPN 2
-https://google-br.cdn.booyah.live/hls/1000008/95268731.m3u8
-
 #EXTINF:-1, Футбол 2
 https://95-213-224-187.livesports24.online/mfootball2rus.m3u8
-
-#EXTINF:-1, ESPN EXTRA
-https://google-br.cdn.booyah.live/hls/1000006/94742807.m3u8
-
-#EXTINF:-1, ESPN VIVO
-https://google-br.cdn.booyah.live/hls/1000007/94622344.m3u8
-
-#EXTINF:-1, LATINO CHAMPIONS
-https://centurylink.br.cdn.booyah.live/hls/1500050/59193789.m3u8
-
-#EXTINF:-1, LATINO CHAMPIONS
-https://centurylink.br.cdn.booyah.live/hls/1500068/95252582.m3u8
-
-#EXTINF:-1, S CHAMAPIONS
-https://s1.cdnfbs.xyz/hls/0055a5709f2388ee34e6a39c4719fccb/chunklist.m3u8
 
 #EXTINF:-1, TRING SPORT 2
 http://93.157.62.180/TringSport2HD/tracks-v1a1/mono.m3u8
@@ -81,17 +33,8 @@ http://93.157.62.180/TringSport2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BT SPORT 2
 https://video-cdn.angelthump.com/hls/ch001/index.m3u8
 
-#EXTINF:-1, BT SPORT 3
-https://s1.cdnfbs.xyz/hls/64ff30d936f1e1bd373f36684ca4eda4/chunklist.m3u8
-
 #EXTINF:-1, BT SPORT ESPN HD
 http://93.152.174.144:4000/play/btsportespn/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 2
-http://b12.amaniyouhra.xyz/live/61619498700/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 3
-https://google-me.cdn.booyah.live/hls/113134/85567930.m3u8
 
 #EXTINF:-1, ELEVEN SPORT 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
