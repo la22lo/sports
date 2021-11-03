@@ -570,8 +570,8 @@ https://streamer.zapitv.com:443/PTV_CORD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, GOL TV
 http://154.62.74.29:1935/live/gol/playlist.m3u8
 
-#EXTINF:-1, REAL MADRID TV
-http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
-
 #EXTINF:-1, PALY UD SPORT ESP
 https://ccdn.fractalmedia.es:9443/live015/stream/live/cudtv/high/index.m3u8
+
+#EXTINF:-1, REAL MADRID TV
+http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
