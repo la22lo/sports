@@ -27,6 +27,12 @@ http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80031.m3u8
 #EXTINF:-1, BEIN SPORT 2
 http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80033.m3u8
 
+#EXTINF:-1, BEIN SPORT 2
+http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80030.m3u8
+
+#EXTINF:-1, BEIN SPORT 3
+http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80032.m3u8
+
 #EXTINF:-1, Футбол 2
 https://95-213-224-187.livesports24.online/mfootball2rus.m3u8
 
@@ -353,6 +359,9 @@ http://93.157.62.180:80/KSport3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, K SPORT 4
 http://93.157.62.180:80/KSport4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, BEIN SPORT NBA
+http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80035.m3u8
 
 #EXTINF:-1, AD SPORTS
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
