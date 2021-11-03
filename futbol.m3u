@@ -207,6 +207,9 @@ http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/index.m3u8
 #EXTINF:-1, SETANTA SPORT 1
 https://bal.varcdn1.ru/lb/setanta1/index.m3u8
 
+#EXTINF:-1, ARENA SPORT 1
+http://93.157.62.180/ArenaSport1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, ARENA SPORT 4
 http://93.157.62.180/ArenaSport4/tracks-v1a1/mono.m3u8
 
@@ -524,3 +527,6 @@ http://154.62.74.29:1935/live/gol/playlist.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
+
+#EXTINF:-1, PALY UD SPORT ESP
+https://ccdn.fractalmedia.es:9443/live015/stream/live/cudtv/high/index.m3u8
