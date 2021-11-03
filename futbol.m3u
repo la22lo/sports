@@ -24,14 +24,44 @@ http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80034.m3u8
 #EXTINF:-1, BEIN SPORT 1
 http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80031.m3u8
 
+#EXTINF:-1, BEIN SPORT PREMIUM
+http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80020.m3u8
+
+#EXTINF:-1, BEIN SPORT 1 FRENCH
+http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80037.m3u8
+
+#EXTINF:-1, BEIN SPORT 1 ENGLISH
+http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80040.m3u8
+
+#EXTINF:-1, BEIN SPORT 1 ENGLISH
+http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80024.m3u8
+
 #EXTINF:-1, BEIN SPORT 2
 http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80033.m3u8
 
 #EXTINF:-1, BEIN SPORT 2
 http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80030.m3u8
 
+#EXTINF:-1, BEIN SPORT 2 FRENCH
+http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80036.m3u8
+
+#EXTINF:-1, BEIN SPORT 2 ENGLISH
+http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80039.m3u8
+
 #EXTINF:-1, BEIN SPORT 3
 http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80032.m3u8
+
+#EXTINF:-1, BEIN SPORT 3
+http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80029.m3u8
+
+#EXTINF:-1, BEIN SPORT 3 ENGLISH
+http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80038.m3u8
+
+#EXTINF:-1, BEIN SPORT 4
+http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80028.m3u8
+
+#EXTINF:-1, BEIN SPORT 5
+http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80027.m3u8
 
 #EXTINF:-1, Футбол 2
 https://95-213-224-187.livesports24.online/mfootball2rus.m3u8
