@@ -18,6 +18,15 @@ http://31.220.3.170:2095/live/hXZp0zPK/djDM7bPC%20/48768.m3u8
 #EXTINF:-1, ESPN VIVO
 https://centurylink.br.cdn.booyah.live/hls/1000003/95266143.m3u8
 
+#EXTINF:-1, BEIN SPORT 1
+https://google-me.cdn.booyah.live/hls/113132/83188269.m3u8
+
+#EXTINF:-1, YALLA LIVE
+https://d1blpma4i28h0s.cloudfront.net:443/out/v1/60c4919d255042229082ff3105daeea8/index_2.m3u8
+
+#EXTINF:-1, YALLA LIVE
+https://google-me.cdn.booyah.live/hls/113130/93331708.m3u8
+
 #EXTINF:-1, BT SPORT HD ESPN 
 https://d81z7l13sqxel.cloudfront.net:443/stream/MTU2OQ==/1080p.m3u8
 
