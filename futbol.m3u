@@ -108,6 +108,15 @@ http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2500/index.m3u8
 #EXTINF:-1, beIN Sports 3 French
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2501/index.m3u8
 
+#EXTINF:-1,Bein Sports 1 HD FR
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
+
+#EXTINF:-1,Bein Sports 2 HD FR
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+
+#EXTINF:-1,Bein Sports 3 HD FR
+http://93.152.174.144:4000/play/bein3fr/index.m3u8
+
 #EXTINF:-1, Футбол 2
 https://95-213-224-187.livesports24.online/mfootball2rus.m3u8
 
