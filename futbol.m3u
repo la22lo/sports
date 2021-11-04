@@ -519,6 +519,9 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
+#EXTINF:-1, TENNIS CHANNEL
+https://playoutengine-v2.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/e.m3u8
+
 #EXTINF:-1, OMAN SPORT
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 
