@@ -69,6 +69,24 @@ http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80029.m3u8
 #EXTINF:-1, BEIN SPORT 3 ENGLISH
 http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80038.m3u8
 
+#EXTINF:-1, S SPORT 1
+http://77.247.109.111/hls/T1.m3u8
+
+#EXTINF:-1, S SPORT 2
+http://77.247.109.111/hls/T2.m3u8
+
+#EXTINF:-1, S SPORT 3
+http://77.247.109.111/hls/T3.m3u8
+
+#EXTINF:-1, S SPORT 4
+http://77.247.109.92/hls/W1.m3u8
+
+#EXTINF:-1, S SPORT 5
+http://77.247.109.92/hls/W2.m3u8
+
+#EXTINF:-1, S SPORT 6
+http://77.247.109.92/hls/W3.m3u8
+
 #EXTINF:-1, BEIN SPORT 4
 http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80028.m3u8
 
