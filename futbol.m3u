@@ -198,12 +198,6 @@ https://95-213-172-220.livesports24.online/setantaukraine.m3u8
 #EXTINF:-1, SETANTA SPORT
 https://95-213-224-173.livesports24.online/rusetantaeurasia.m3u8
 
-#EXTINF:-1, SETANTA SPORT 2
-https://77-247-178-24.livesports24.online/setantaplusru.m3u8
-
-#EXTINF:-1, SETANTA SPORT 2
-https://46-166-142-27.livesports24.online/setantaplusru.m3u8
-
 #EXTINF:-1, MATH RUSIA 1
 https://95-213-224-180.livesports24.online/ooomatch.m3u8
 
@@ -239,9 +233,6 @@ https://www.wopep.com/02_PremierHD2_720p/chunklist.m3u8
 
 #EXTINF:-1, TRUE PREMIER FUTBOL HD7
 https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
-
-#EXTINF:-1, SPORT HD 1
-http://93.157.62.180/TringSport1HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, SPORT HD 2
 http://93.157.62.180/TringSport2HD/tracks-v1a1/mono.m3u8
