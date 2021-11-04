@@ -99,6 +99,15 @@ http://45.94.31.45/beinm16505/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BEIN SPORT 6 LIVE
 http://45.94.31.45/beinm16506/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, beIN Sports 1 French
+http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2499/index.m3u8
+
+#EXTINF:-1, beIN Sports 2 French
+http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2500/index.m3u8
+
+#EXTINF:-1, beIN Sports 3 French
+http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2501/index.m3u8
+
 #EXTINF:-1, Футбол 2
 https://95-213-224-187.livesports24.online/mfootball2rus.m3u8
 
