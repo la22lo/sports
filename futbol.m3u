@@ -24,47 +24,8 @@ https://akamai2-br.cdn.booyah.live/hls/1000003/95266143.m3u8
 #EXTINF:-1, CHAMPIONS TV
 https://d2w3ormydg01ok.cloudfront.net:443/stream/MTU3MA==/1080p.m3u8
 
-#EXTINF:-1, ESPN VIVO
-https://centurylink.br.cdn.booyah.live/hls/1500095/95415919.m3u8
-
-#EXTINF:-1, ESPN VIVO
-https://centurylink.br.cdn.booyah.live/hls/1500019/94768193.m3u8
-
-#EXTINF:-1, TNT SPORTS
-https://akamai2-br.cdn.booyah.live/hls/1500011/95222288.m3u8
-
-#EXTINF:-1, YALLA LIVE
-https://google-me.cdn.booyah.live/hls/113134/93317448.m3u8
-
-#EXTINF:-1, YALLA LIVE
-https://google-me.cdn.booyah.live/hls/113134/93339097.m3u8
-
-#EXTINF:-1, BEIN SPORT 1
-https://google-me.cdn.booyah.live/hls/113132/83188269.m3u8
-
-#EXTINF:-1, BEIN SPORT 1
-http://c8.amanrouf.xyz/live/616165500/index.m3u8
-
 #EXTINF:-1, YALLA LIVE
 https://d1blpma4i28h0s.cloudfront.net:443/out/v1/60c4919d255042229082ff3105daeea8/index_2.m3u8
-
-#EXTINF:-1, YALLA LIVE
-https://google-me.cdn.booyah.live/hls/113130/93331708.m3u8
-
-#EXTINF:-1, YALLA LIVE
-https://google-me.cdn.booyah.live/hls/113132/93869925.m3u8
-
-#EXTINF:-1, YALLA LIVE
-https://google-me.cdn.booyah.live/hls/113138/93858955.m3u8
-
-#EXTINF:-1, ESPN 2 VIVO
-https://akamai2-br.cdn.booyah.live/hls/1000006/95268731.m3u8
-
-#EXTINF:-1, BT SPORT HD ESPN 
-https://d81z7l13sqxel.cloudfront.net:443/stream/MTU2OQ==/1080p.m3u8
-
-#EXTINF:-1, BEIN SPORT 2
-http://c7.amanrouf.xyz/live/7948124500/index.m3u8
 
 #EXTINF:-1, BEIN SPORT 1
 http://23.88.32.233:80/live/33523510/index.m3u8
