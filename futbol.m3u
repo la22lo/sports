@@ -138,6 +138,9 @@ http://93.152.174.144:4000/play/btsportespn/index.m3u8
 #EXTINF:-1, ELEVEN SPORT 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 
+#EXTINF:-1, ARENA SPORT 1
+http://93.157.62.180/ArenaSport1/index.m3u8
+
 #EXTINF:-1, ARENA SPORT 3
 http://93.157.62.180/ArenaSport3/tracks-v1a1/mono.m3u8
 
@@ -215,6 +218,21 @@ http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2553/index.m3u8
 
 #EXTINF:-1, ESPN 4 DUTCH
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2554/index.m3u8
+
+#EXTINF:-1,PPV Fut1 ENG
+http://cdn2.cyclingnews.live/hls/P1.m3u8
+
+#EXTINF:-1,PPV Fut2 ENG
+http://cdn2.cyclingnews.live/hls/P2.m3u8
+
+#EXTINF:-1,PPV Fut3 ENG
+http://cdn2.cyclingnews.live/hls/P3.m3u8
+
+#EXTINF:-1,PPV Fut4 ENG
+http://cdn3.cyclingnews.live/hls/W1.m3u8
+
+#EXTINF:-1,PPV Fut5 ENG
+http://cdn3.cyclingnews.live/hls/W2.m3u8
 
 #EXTINF:-1, MATH TV
 https://bal.varcdn1.ru/lb/match/index.m3u8
