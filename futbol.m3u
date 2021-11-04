@@ -123,6 +123,12 @@ http://pyramidsiptv.com:8080/live/mohamed/mohamed123/97372.m3u8
 #EXTINF:-1, BEIN SPORT EXTRA Ñ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
+#EXTINF:-1, BEIN SPORT 1 PREMIUM
+http://45.94.31.45/beinm16508/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, BEIN SPORT 2 PREMIUM
+http://45.94.31.45/beinm16509/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, LOOK SPORTS +
 https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
 
