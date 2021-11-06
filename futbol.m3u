@@ -18,6 +18,9 @@ http://31.220.3.170:2095/live/hXZp0zPK/djDM7bPC%20/48768.m3u8
 #EXTINF:-1, DIRECTTV SPORT
 https://centurylink.br.cdn.booyah.live/hls/1000007/94372161.m3u8
 
+#EXTINF:-1, SETANTA SPORT 1
+https://bal.varcdn1.ru/lb/setanta1/index.m3u8
+
 #EXTINF:-1, BEIN SPORT 1
 http://23.88.32.233:80/live/33523510/index.m3u8
 
