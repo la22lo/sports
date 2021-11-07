@@ -3,6 +3,9 @@
 #EXTINF:-1, BEIN SPORT 1 LIVE
 http://45.94.31.45/beinm16501/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,PPV Fut4 ENG
+http://cdn3.cyclingnews.live/hls/W1.m3u8
+
 #EXTINF:-1,LALIGA TV
 http://cdn3.cyclingnews.live/hls/W1.m3u8
 
@@ -245,9 +248,6 @@ http://cdn2.cyclingnews.live/hls/P2.m3u8
 
 #EXTINF:-1,PPV Fut3 ENG
 http://cdn2.cyclingnews.live/hls/P3.m3u8
-
-#EXTINF:-1,PPV Fut4 ENG
-http://cdn3.cyclingnews.live/hls/W1.m3u8
 
 #EXTINF:-1,PPV Fut5 ENG
 http://cdn3.cyclingnews.live/hls/W2.m3u8
