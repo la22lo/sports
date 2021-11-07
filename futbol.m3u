@@ -6,6 +6,9 @@ http://45.94.31.45/beinm16501/tracks-v1a1/mono.m3u8
 #EXTINF:-1,PPV Fut1 ENG
 http://cdn2.cyclingnews.live/hls/P1.m3u8
 
+#EXTINF:-1,TV
+http://cdn3.cyclingnews.live/hls/W1.m3u8
+
 #EXTINF:-1, VAMOS TV
 http://31.220.3.170:2095/live/hXZp0zPK/djDM7bPC%20/48822.m3u8
 
