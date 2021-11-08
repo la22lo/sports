@@ -36,11 +36,17 @@ http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80031.m3u8
 #EXTINF:-1, BEIN SPORT 1
 http://45.94.31.45/beinm16501/tracks-v1a2/mono.m3u8
 
+#EXTINF:-1, BEIN SPORT HD
+http://93.152.174.144:4000/play/BEINSPORTAR/index.m3u8
+
 #EXTINF:-1, BEIN SPORT PREMIUM
 http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80020.m3u8
 
 #EXTINF:-1, BEIN SPORT 1 FRENCH
 http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80037.m3u8
+
+#EXTINF:-1, BEIN SPORT 1 FRANCIA
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
 
 #EXTINF:-1, BEIN SPORT 1 ENGLISH
 http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80040.m3u8
@@ -146,6 +152,9 @@ http://93.152.174.144:4000/play/btsportespn/index.m3u8
 
 #EXTINF:-1, ELEVEN SPORT 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+
+#EXTINF:-1,BT SPORT 1
+http://93.152.174.144:4000/play/btsport1/index.m3u8
 
 #EXTINF:-1, ARENA SPORT 1
 http://93.157.62.180/ArenaSport1/index.m3u8
@@ -485,6 +494,21 @@ http://93.157.62.180:80/KSport4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, BEIN SPORT NBA
 http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80035.m3u8
+
+#EXTINF:-1,CH. 12  - IL
+http://93.152.174.144:4000/play/ch12/index.m3u8
+
+#EXTINF:-1,HOT SPORT 3 IL
+http://93.152.174.144:4000/play/hotsport3/index.m3u8
+
+#EXTINF:-1,HOT SPORT 4 IL
+http://93.152.174.144:4000/play/hotsport4/index.m3u8
+
+#EXTINF:-1,HOT SPORT 5 IL
+http://93.152.174.144:4000/play/hotsport5/index.m3u8
+
+#EXTINF:-1,IL Sport 5 PLUS
+http://93.152.174.144:4000/play/s5plus/index.m3u8
 
 #EXTINF:-1, AD SPORTS
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
