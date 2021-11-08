@@ -627,5 +627,105 @@ http://154.62.74.29:1935/live/gol/playlist.m3u8
 #EXTINF:-1, PALY UD SPORT ESP
 https://ccdn.fractalmedia.es:9443/live015/stream/live/cudtv/high/index.m3u8
 
+#EXTINF:-1,PPV Event M1
+http://cdn1.cyclingnews.live/hls/M1.m3u8
+
+#EXTINF:-1,PPV Event M2
+http://cdn1.cyclingnews.live/hls/M2.m3u8
+
+#EXTINF:-1,PPV Event P1
+http://cdn2.cyclingnews.live/hls/P1.m3u8
+
+#EXTINF:-1,PPV Event  P1 (op2)
+http://cdn2.cyclingstreams.xyz/hls/P1.m3u8
+
+#EXTINF:-1,PPV Event P2
+http://cdn2.cyclingnews.live/hls/P2.m3u8
+
+#EXTINF:-1,PPV Event P2 (op2)
+http://cdn2.cyclingstreams.xyz/hls/P2.m3u8
+
+#EXTINF:-1,PPV Event P3
+http://cdn2.cyclingnews.live/hls/P3.m3u8
+
+#EXTINF:-1,PPV Event P3 (op2)
+http://cdn2.cyclingstreams.xyz/hls/P3.m3u8
+
+#EXTINF:-1,PPV Event P4
+http://cdn2.cyclingnews.live/hls/P4.m3u8
+
+#EXTINF:-1,PPV Event P4 (op2)
+http://cdn2.cyclingstreams.xyz/hls/P4.m3u8
+
+#EXTINF:-1,PPV Event Q1
+http://cdn4.cyclingnews.live/hls/Q1.m3u8
+
+#EXTINF:-1,PPV Event Q2
+http://cdn4.cyclingnews.live/hls/Q2.m3u8
+
+#EXTINF:-1,PPV Event Q3
+http://cdn4.cyclingnews.live/hls/Q3.m3u8
+
+#EXTINF:-1,PPV Event Q4
+http://cdn4.cyclingnews.live/hls/Q4.m3u8
+
+#EXTINF:-1,PPV Event Q5
+http://cdn4.cyclingnews.live/hls/Q5.m3u8
+
+#EXTINF:-1,PPV Event W1
+http://cdn3.cyclingnews.live/hls/W1.m3u8
+
+#EXTINF:-1,PPV Event W1 (op2)
+http://cdn3.cyclingstreams.xyz/hls/W1.m3u8
+
+#EXTINF:-1,PPV Event W2
+#EXTGRP:Deportes
+http://cdn3.cyclingnews.live/hls/W2.m3u8
+
+#EXTINF:-1,PPV Event W2 (op2)
+http://cdn3.cyclingstreams.xyz/hls/W2.m3u8
+
+#EXTINF:-1,PPV Event W3
+http://cdn3.cyclingnews.live/hls/W3.m3u8
+
+#EXTINF:-1,PPV Event W3 (op2)
+http://cdn3.cyclingstreams.xyz/hls/W3.m3u8
+
+#EXTINF:-1,PPV Event a1
+http://sir1a.uefa-tv.com:80/live/1/chunks.m3u8
+
+#EXTINF:-1,PPV Event b1 (op2)
+http://sir1b.uefa-tv.com:80/live/1/chunks.m3u8
+
+#EXTINF:-1,PPV Event c1 (op3)
+http://sir1c.uefa-tv.com:80/live/1/chunks.m3u8
+
+#EXTINF:-1,PPV Event a2
+http://sir1b.uefa-tv.com:80/live/2/chunks.m3u8
+
+#EXTINF:-1,PPV Event b2 (op2)
+http://sir1b.uefa-tv.com:80/live/2/chunks.m3u8
+
+#EXTINF:-1,PPV Event c2 (op3)
+http://sir1c.uefa-tv.com:80/live/2/chunks.m3u8
+
+#EXTINF:-1,PPV Event a3
+http://sir1b.uefa-tv.com:80/live/3/chunks.m3u8
+
+#EXTINF:-1,PPV Event b3 (op2)
+http://sir1b.uefa-tv.com:80/live/3/chunks.m3u8
+
+#EXTINF:-1,PPV Event c3 (op3)
+http://sir1c.uefa-tv.com:80/live/3/chunks.m3u8
+
+#EXTINF:-1,PPV Event a4
+http://sir1b.uefa-tv.com:80/live/4/chunks.m3u8
+
+#EXTINF:-1,PPV Event b4 (op2)
+http://sir1b.uefa-tv.com:80/live/4/chunks.m3u8
+
+#EXTINF:-1,PPV Event c4 (op3)
+http://sir1c.uefa-tv.com:80/live/4/chunks.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
