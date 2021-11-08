@@ -510,6 +510,15 @@ http://93.152.174.144:4000/play/hotsport5/index.m3u8
 #EXTINF:-1,IL Sport 5 PLUS
 http://93.152.174.144:4000/play/s5plus/index.m3u8
 
+#EXTINF:-1, SUPER SPORT 2 HD
+http://93.157.62.180:80/Supersport2/playlist.m3u8
+
+#EXTINF:-1, SUPER SPORT 3 HD
+http://93.157.62.180:80/Supersport3/playlist.m3u8
+
+#EXTINF:-1, SUPER SPORT 4 HD
+http://93.157.62.180:80/Supersport4/playlist.m3u8
+
 #EXTINF:-1, AD SPORTS
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 
