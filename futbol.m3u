@@ -3,12 +3,6 @@
 #EXTINF:-1, BEIN SPORT 1 LIVE
 http://45.94.31.45/beinm16501/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,PPV Fut4 ENG
-http://cdn3.cyclingnews.live/hls/W1.m3u8
-
-#EXTINF:-1,LALIGA TV
-http://cdn3.cyclingnews.live/hls/W1.m3u8
-
 #EXTINF:-1, VAMOS TV
 http://31.220.3.170:2095/live/hXZp0zPK/djDM7bPC%20/48822.m3u8
 
@@ -23,9 +17,6 @@ http://31.220.3.170:2095/live/hXZp0zPK/djDM7bPC%20/48768.m3u8
 
 #EXTINF:-1, SETANTA SPORT 1
 https://bal.varcdn1.ru/lb/setanta1/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 1
-http://23.88.32.233:80/live/33523510/index.m3u8
 
 #EXTINF:-1, BEIN SPORT 1
 http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80034.m3u8
@@ -156,12 +147,6 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1,BT SPORT 1
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 
-#EXTINF:-1, ARENA SPORT 1
-http://93.157.62.180/ArenaSport1/index.m3u8
-
-#EXTINF:-1, ARENA SPORT 3
-http://93.157.62.180/ArenaSport3/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1, BEIN SPORT 2
 http://23.88.42.117:80/live/69854211/index.m3u8
 
@@ -240,6 +225,9 @@ http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2553/index.m3u8
 #EXTINF:-1, ESPN 4 DUTCH
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2554/index.m3u8
 
+#EXTINF:-1,LALIGA TV
+http://cdn3.cyclingnews.live/hls/W1.m3u8
+
 #EXTINF:-1,PPV Fut1 ENG
 http://cdn2.cyclingnews.live/hls/P1.m3u8
 
@@ -248,6 +236,9 @@ http://cdn2.cyclingnews.live/hls/P2.m3u8
 
 #EXTINF:-1,PPV Fut3 ENG
 http://cdn2.cyclingnews.live/hls/P3.m3u8
+
+#EXTINF:-1,PPV Fut4 ENG
+http://cdn3.cyclingnews.live/hls/W1.m3u8
 
 #EXTINF:-1,PPV Fut5 ENG
 http://cdn3.cyclingnews.live/hls/W2.m3u8
@@ -263,15 +254,6 @@ http://rec2.distv.net/live/damaris/123456/143.m3u8
 
 #EXTINF:-1, SPORTS NEWS
 http://93.157.62.180/Supersport1/index.m3u8
-
-#EXTINF:-1, ARENA SPORT 1
-http://93.157.62.180:80/ArenaSport1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, ARENA SPORT 3
-http://93.157.62.180/ArenaSport3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, ARENA SPORT 4
-http://93.157.62.180:80/ArenaSport4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, TNT SPORTS
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
@@ -315,12 +297,6 @@ http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/index.m3u8
 #EXTINF:-1, SETANTA SPORT 1
 https://bal.varcdn1.ru/lb/setanta1/index.m3u8
 
-#EXTINF:-1, ARENA SPORT 1
-http://93.157.62.180/ArenaSport1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, ARENA SPORT 4
-http://93.157.62.180/ArenaSport4/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1, ASTRO ARENA
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
@@ -332,9 +308,6 @@ https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
 
 #EXTINF:-1, SPORT HD 2
 http://93.157.62.180/TringSport2HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, Беларусь 5
-https://185-82-203-145.livesports24.online/belarusss5.m3u8
 
 #EXTINF:-1, Футбол 1
 https://95-213-224-180.livesports24.online/ntvmatchfoot1.m3u8
@@ -369,12 +342,6 @@ https://95-213-224-176.livesports24.online/uafootballua1.m3u8
 #EXTINF:-1, CANAL RUSO 4 (Футбол 1)
 https://95-213-224-176.livesports24.online/uafootballua1.m3u8?mvk
 
-#EXTINF:-1, Беларусь 5
-https://95-213-224-186.livesports24.online/belarusss5.m3u8
-
-#EXTINF:-1, Беларусь 5
-https://46-166-139-70.livesports24.online/belarusss5.m3u8
-
 #EXTINF:-1,EUROSPORT 1
 http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
 
@@ -408,9 +375,6 @@ http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8?SB
 #EXTINF:-1, QAZ SPORT 
 http://46.34.209.242/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8?per
 
-#EXTINF:-1, BELARUS 5 HD
-https://95-213-224-180.livesports24.online/belarusss5.m3u8
-
 #EXTINF:-1, SPORT 1
 https://95-213-224-183.livesports24.online/sport1ua.m3u8
 
@@ -437,9 +401,6 @@ https://95-213-224-179.livesports24.online/ntvmatchfoot1.m3u8
 
 #EXTINF:-1, Телеканал Футбол
 https://95-213-224-176.livesports24.online/footballrus.m3u8
-
-#EXTINF:-1, Телеканал Футбол
-http://185.228.135.48:8080/tv_footbal_hd/index.m3u8
 
 #EXTINF:-1, SPORT RU
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
@@ -470,9 +431,6 @@ https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/1vdj1cxb/27
 
 #EXTINF:-1, FUTBOL TV
 http://ott-cdn.ucom.am/s41/index.m3u8
-
-#EXTINF:-1, SPOTV
-https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
 
 #EXTINF:-1, SPORTS 2
 http://iptv.prosto.tv:7000/ch115/video.m3u8
