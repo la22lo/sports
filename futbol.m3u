@@ -72,6 +72,9 @@ http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80029.m3u8
 #EXTINF:-1, BEIN SPORT 3 ENGLISH
 http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80038.m3u8
 
+#EXTINF:-1, BEIN HD SPORT
+http://185.234.111.76/bar7642/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, S SPORT 1
 http://77.247.109.111/hls/T1.m3u8
 
@@ -131,6 +134,9 @@ http://93.157.62.180/TringSport2HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, SETANTA LIVE
 https://bal.varcdn1.ru/lb/setantasport/index.m3u8
+
+#EXTINF:-1, SETANTA + LIVE
+https://95-213-224-183.livesports24.online/setantaplusukr.m3u8
 
 #EXTINF:-1, SETANTA LIVE 1
 https://bal.varcdn1.ru/lb/setanta1/index.m3u8
@@ -324,6 +330,9 @@ https://77-247-178-24.livesports24.online/mfootball2rus.m3u8
 #EXTINF:-1, Футбол 3
 https://77-247-178-24.livesports24.online/rumatchf3.m3u8
 
+#EXTINF:-1, Футбол 3
+https://95-213-172-220.livesports24.online/uafootballua1.m3u8
+
 #EXTINF:-1,MATH RUSIA
 https://95-213-172-220.livesports24.online/ooomatch.m3u8
 
@@ -503,6 +512,21 @@ https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist
 
 #EXTINF:-1, MOROC SPORTS
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+
+#EXTINF:-1, BIABAN SPORT KURD
+http://185.234.111.76/bar7662/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, RING SPORT KURD
+http://185.234.111.76/bar7667/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, ASO SPORT KURD
+http://185.234.111.76/bar7671/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, NRT SPORT KURD
+http://185.234.111.76/bar7638/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, GK SPORT KURD
+http://185.234.111.76/bar7653/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, CCTV5
 http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
