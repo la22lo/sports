@@ -733,7 +733,6 @@ http://cdn3.cyclingnews.live/hls/W1.m3u8
 http://cdn3.cyclingstreams.xyz/hls/W1.m3u8
 
 #EXTINF:-1,PPV Event W2
-#EXTGRP:Deportes
 http://cdn3.cyclingnews.live/hls/W2.m3u8
 
 #EXTINF:-1,PPV Event W2 (op2)
