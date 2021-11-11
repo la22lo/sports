@@ -3,6 +3,15 @@
 #EXTINF:-1, BEIN SPORT 1 LIVE
 http://45.94.31.45/beinm16501/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, BEIN PREM 1
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+
+#EXTINF:-1, BEIN PREM 2
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+
+#EXTINF:-1, BEIN PREM 3
+http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+
 #EXTINF:-1, VAMOS TV
 http://31.220.3.170:2095/live/hXZp0zPK/djDM7bPC%20/48822.m3u8
 
@@ -197,6 +206,9 @@ http://93.152.174.144:4000/play/bein3fr/index.m3u8
 
 #EXTINF:-1, Футбол 1
 https://95-213-224-186.livesports24.online/ntvmatchfoot1.m3u8
+
+#EXTINF:-1, POCCNR 1
+https://ab1.varcdn1.ru:443/mp/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Футбол 3
 https://bal.varcdn1.ru/lb/m3/index.m3u8
