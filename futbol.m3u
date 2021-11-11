@@ -156,6 +156,9 @@ http://pyramidsiptv.com:8080/live/mohamed/mohamed123/97372.m3u8
 #EXTINF:-1, BEIN SPORT EXTRA Ñ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
+#EXTINF:-1, BEIN SPORT EXTRA Ñ
+https://tunelive.net:3822/stream/play.m3u8
+
 #EXTINF:-1, BEIN SPORT 1 PREMIUM
 http://45.94.31.45/beinm16508/tracks-v1a1/mono.m3u8
 
@@ -395,6 +398,9 @@ http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_
 
 #EXTINF:-1,RTSH SPORT
 http://93.157.62.180/RTSHSport/index.m3u8
+
+#EXTINF:-1,TIGO SPORTS
+https://gt.tunelive.net:3958/stream/play.m3u8
 
 #EXTINF:-1,CABLE SPORTS
 https://tv.siete.us/bestcablesports/bestcablesports/index.m3u8
