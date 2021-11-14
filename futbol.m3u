@@ -147,6 +147,9 @@ http://23.88.42.117:80/live/69854211/index.m3u8
 #EXTINF:-1, SUPERSPORT 2
 http://93.157.62.180:80/Supersport2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, SPORTTV 3
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8
+
 #EXTINF:-1, SPORTTV 5
 https://smart-tv.livedoomovie.com:4431/02_SPORTTV_5_720p/chunklist.m3u8
 
