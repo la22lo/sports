@@ -219,11 +219,20 @@ http://93.152.174.144:4000/play/bein3fr/index.m3u8
 #EXTINF:-1, Футбол 1
 https://95-213-224-186.livesports24.online/ntvmatchfoot1.m3u8
 
-#EXTINF:-1, POCCNR 1
-https://ab1.varcdn1.ru:443/mp/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Футбол 1
+https://chostv.mobie.in/choos/sports/matchqy1.m3u8
+
+#EXTINF:-1, МАТЧ! ФУТБОЛ 2
+https://chostv.mobie.in/choos/sports/matchqy2.m3u8
+
+#EXTINF:-1, МАТЧ! ФУТБОЛ 3
+https://chostv.mobie.in/choos/sports/matchqy3.m3u8
 
 #EXTINF:-1, Футбол 3
 https://bal.varcdn1.ru/lb/m3/index.m3u8
+
+#EXTINF:-1, POCCNR 1
+https://ab1.varcdn1.ru:443/mp/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, BELARUS 5
 https://185-106-121-77.livesports24.online/belarusss5.m3u8
