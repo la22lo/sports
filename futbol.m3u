@@ -591,6 +591,9 @@ https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlinei1/AlkassOnline129_
 #EXTINF:-1, Astrakhan Sport (RU)
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 
+#EXTINF:-1, SSC1 HD (Saudi)
+https://ssc-5-ak.akamaized.net/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index.m3u8
+
 #EXTINF:-1,AD SPORTS 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 
