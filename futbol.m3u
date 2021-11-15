@@ -624,6 +624,9 @@ https://last.gcdn.co/IND424/tracks-v1a1/mono.m3u8
 #EXTINF:-1, ALL SPORTS TV
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
+#EXTINF:-1, IN SPORTS
+https://sc.id-tv.kz/INSPORTHD_36_37.m3u8
+
 #EXTINF:-1, ASTRAK RUS HD
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v5a1/index.m3u8 
 
