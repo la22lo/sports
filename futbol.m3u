@@ -150,9 +150,6 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1,BT SPORT 1
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 
-#EXTINF:-1, BEIN SPORT 2
-http://23.88.42.117:80/live/69854211/index.m3u8
-
 #EXTINF:-1, SUPERSPORT 2
 http://93.157.62.180:80/Supersport2/tracks-v1a1/mono.m3u8
 
