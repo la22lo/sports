@@ -168,6 +168,9 @@ https://smart-tv.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8
 #EXTINF:-1, BEIN SPORT EXTRA
 http://siloh-aka.plutotv.net/lilo/production/bein/1/master_1.m3u8
 
+#EXTINF:-1, BEIN SPORT EXTRA
+https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
+
 #EXTINF:-1, BEIN SPORT EXTRA 2
 http://pyramidsiptv.com:8080/live/mohamed/mohamed123/97372.m3u8
 
