@@ -114,8 +114,14 @@ http://93.152.174.144:4000/play/bein3fr/index.m3u8
 #EXTINF:-1, Футбол 2
 https://95-213-224-187.livesports24.online/mfootball2rus.m3u8
 
+#EXTINF:-1, TRING SPORT 1
+http://us.bestvideostreaming.is/8796/index.m3u8
+
 #EXTINF:-1, TRING SPORT 2
 http://93.157.62.180/TringSport2HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, TRING SPORT 2
+http://us.bestvideostreaming.is/8797/index.m3u8
 
 #EXTINF:-1, SETANTA LIVE
 https://bal.varcdn1.ru/lb/setantasport/index.m3u8
@@ -572,6 +578,9 @@ https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
 
 #EXTINF:-1,DUBAI SPORTS 3 FHD
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby
+
+#EXTINF:-1, Alkass 5 HD
+https://alkasmsl4.akamaized.net/hls/live/2003123/Alkass5vcnz/master480.m3u8
 
 #EXTINF:-1,AD SPORTS 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
