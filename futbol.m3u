@@ -258,6 +258,12 @@ http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2554/index.m3u8
 #EXTINF:-1, MATH TV
 https://bal.varcdn1.ru/lb/match/index.m3u8
 
+#EXTINF:-1, ESTADIO TNT SPORTS
+https://nedmedia.akamaized.net:443/hls/live/2034243/feed1/master_720.m3u8
+
+#EXTINF:-1, ESTADIO TNT SPORTS
+https://nedmedia.akamaized.net/hls/live/2034243/feed1/master.m3u8
+
 #EXTINF:-1, ESPN LIVE
 http://vstreams.tv:2082/live/rb0zYNF5GQ/FGWoCyPvwt/1160326.m3u8
 
