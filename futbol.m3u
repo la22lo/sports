@@ -792,6 +792,9 @@ http://cdn3.cyclingnews.live/hls/W3.m3u8
 #EXTINF:-1,PPV Event W3 (op2)
 http://cdn3.cyclingstreams.xyz/hls/W3.m3u8
 
+#EXTINF:-1,PPV Event M5
+http://cdn1.cyclingnews.live/hls/M5.m3u8
+
 #EXTINF:-1,PPV Event a1
 http://sir1a.uefa-tv.com:80/live/1/chunks.m3u8
 
