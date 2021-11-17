@@ -213,6 +213,9 @@ https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
 #EXTINF:-1, SK1 HD
 http://193.111.199.185/live/Hdservers/Valendsuk/1874.m3u8
 
+#EXTINF:-1, SK3 HD
+http://193.111.199.185/live/Hdservers/Valendsuk/1876.m3u8
+
 #EXTINF:-1, SPORTS
 http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80030.m3u8
 
