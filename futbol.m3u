@@ -507,6 +507,12 @@ https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/1vdj1cxb/27
 #EXTINF:-1, FUTBOL TV
 http://ott-cdn.ucom.am/s41/index.m3u8
 
+#EXTINF:-1, BRASILERAO 1
+http://198.144.159.40/jMJ5qqN7yDeGVWTyj8UF1w/1637214778/3231362e3135312e3138332e3234/ff83/playlist.m3u8
+
+#EXTINF:-1, BRASILERAO 2
+http://198.144.159.40/3BYjNA-zn2S4gYAzzsZoog/1637215568/33312e342e3139322e313531/ff85/playlist.m3u8
+
 #EXTINF:-1, SPORTS 2
 http://iptv.prosto.tv:7000/ch115/video.m3u8
 
