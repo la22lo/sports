@@ -30,43 +30,37 @@ https://d1wnyr7y2olzmt.cloudfront.net/out/v1/3d06f12dd92149f59660d0e78c37849c/in
 #EXTINF:-1, CANAL CHINO (BARCELONA)
 https://pull.jiusuitv.com/live/289839ab46820b524afda05122893c2fe8e_hd.m3u8?auth_key=1672416000-88-0-a758f20521516b1e9f15445822c4344d
 
+#EXTINF:-1, TNT SPORTS (PARTIDO barcelona)
+https://akamai2-br.cdn.booyah.live/hls/1500016/98076861.m3u8
+
+#EXTINF:-1, TUDN (PARTIDO BARCELONA)
+https://google-br.cdn.booyah.live/hls/1500007/98558178.m3u8
+
+#EXTINF:-1, MATH 2 (PARTIDO BARCELONA)
+https://bal.varcdn1.ru/lb/m2/index.m3u8
+
+#EXTINF:-1, MATH 2 (PARTIDO BARCELONA)
+https://srv22.varcdn1.ru/m2/index.m3u8
+
 #EXTINF:-1, PARTIDO SEVILLA
 https://akamai2-br.cdn.booyah.live/hls/1500097/93183850.m3u8
 
 #EXTINF:-1, PARTIDO SEVILLA YAYA LIVE
 https://d3e6q9qp7xv9ew.cloudfront.net/out/v1/1ca02c169029424896eed6e45acb1836/index_1.m3u8
 
-#EXTINF:-1, YALLA LIVE (PARTIDO VILLARREAL)
-http://23.88.42.116:80/live/6161655001/index.m3u8
-
 #EXTINF:-1, ATALANTA - YOUNG BOYS
 https://aws-br-reg.cdn.booyah.live/hls/1500097/98574806.m3u8
 
-#EXTINF:-1, TNT SPORTS (PARTIDO VILLARREAL)
-https://akamai2-br.cdn.booyah.live/hls/1500016/98076861.m3u8
-
-#EXTINF:-1, ESPN VIVO (PARTIDO VILLARREAL)
-https://google-br.cdn.booyah.live/hls/1500007/98558178.m3u8
-
-#EXTINF:-1, MATH (PARTIDO VILLARREAL)
+#EXTINF:-1, MATH (PARTIDO CHELSEA)
 https://bal.varcdn1.ru/lb/m1/index.m3u8
 
-#EXTINF:-1, MATH 1 (PARTIDO VILLARREAL)
+#EXTINF:-1, MATH 1 (PARTIDO CHELSEA)
 https://srv16.varcdn1.ru/m1/index.m3u8
 
 #EXTINF:-1, BEIN SPORT 2 (PARTIDO BAYERN)
 http://23.88.42.157:80/live/652177700/index.m3u8
 
-#EXTINF:-1, MATH 2 (PARTIDO BAYERN)
-https://bal.varcdn1.ru/lb/m2/index.m3u8
-
-#EXTINF:-1, MATH 2 (PARTIDO BAYERN)
-https://srv22.varcdn1.ru/m2/index.m3u8
-
-#EXTINF:-1, MATH 2 (PARTIDO BAYERN)
-https://bf.thcydzsw.com/live/xiaozhu.m3u8
-
-#EXTINF:-1, ESPN 2 (PARTIDO BAYERN)
+#EXTINF:-1, ESPN 2 (PARTIDO CHELSEA)
 https://google-br.cdn.booyah.live/hls/1500007/98557624.m3u8
 
 #EXTINF:-1, Partido MALMOE
