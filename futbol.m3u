@@ -27,6 +27,9 @@ https://centurylink-br-reg.cdn.booyah.live/hls/1500097/59193789.m3u8
 #EXTINF:-1, YAYA LIVE (BARCELONA)
 https://d1wnyr7y2olzmt.cloudfront.net/out/v1/3d06f12dd92149f59660d0e78c37849c/index_1.m3u8
 
+#EXTINF:-1, SBT (PARTIDO BARCELONA)
+https://origin-02.nxplay.com.br/SBT_HD_NX/video.m3u8
+
 #EXTINF:-1, CANAL CHINO (BARCELONA)
 https://pull.jiusuitv.com/live/289839ab46820b524afda05122893c2fe8e_hd.m3u8?auth_key=1672416000-88-0-a758f20521516b1e9f15445822c4344d
 
@@ -56,6 +59,9 @@ https://bal.varcdn1.ru/lb/m1/index.m3u8
 
 #EXTINF:-1, MATH 1 (PARTIDO CHELSEA)
 https://srv16.varcdn1.ru/m1/index.m3u8
+
+#EXTINF:-1, 4KORA (PARTIDO CHELSEA)
+https://live-ak.vimeocdn.com/exp=1637699593~acl=%2Fd191c39f-318c-43f4-9d34-f50fe18ce7b9%2F*~hmac=48695c74f2c1175666c134d92dcd378793a72c75720c93416beef0bd54c8c850/d191c39f-318c-43f4-9d34-f50fe18ce7b9/chunklist_b3256000.m3u8
 
 #EXTINF:-1, BEIN SPORT 2 (PARTIDO BAYERN)
 http://23.88.42.157:80/live/652177700/index.m3u8
