@@ -30,6 +30,9 @@ https://d3e6q9qp7xv9ew.cloudfront.net/out/v1/1ca02c169029424896eed6e45acb1836/in
 #EXTINF:-1, YALLA LIVE (PARTIDO VILLARREAL)
 http://23.88.42.116:80/live/6161655001/index.m3u8
 
+#EXTINF:-1, ATALANTA - YOUNG BOYS
+https://aws-br-reg.cdn.booyah.live/hls/1500097/98574806.m3u8
+
 #EXTINF:-1, YALLA LIVE 2 (PARTIDO VILLARREAL)
 http://23.88.39.168:80/live/33523510/index.m3u8
 
