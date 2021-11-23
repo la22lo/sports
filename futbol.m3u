@@ -16,58 +16,19 @@ http://31.220.3.170:2095/live/hXZp0zPK/djDM7bPC%20/48768.m3u8
 http://195.154.181.240:8090/live/123/123/38109.m3u8
 
 #EXTINF:-1, BEIN SPORT 1
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80034.m3u8
-
-#EXTINF:-1, BEIN SPORT 1
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80031.m3u8
-
-#EXTINF:-1, BEIN SPORT 1
 http://45.94.31.45/beinm16501/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1, BEIN SPORT HD
 http://93.152.174.144:4000/play/BEINSPORTAR/index.m3u8
 
-#EXTINF:-1, BEIN SPORT PREMIUM
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80020.m3u8
-
-#EXTINF:-1, BEIN SPORT 1 FRENCH
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80037.m3u8
-
 #EXTINF:-1, BEIN SPORT 1 FRANCIA
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 1 ENGLISH
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80040.m3u8
-
-#EXTINF:-1, BEIN SPORT 1 ENGLISH
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80024.m3u8
-
-#EXTINF:-1, BEIN SPORT 2
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80033.m3u8
 
 #EXTINF:-1, BEIN SPORT 2 LIVE
 http://45.94.31.45/beinm16502/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, BEIN SPORT 2
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80030.m3u8
-
-#EXTINF:-1, BEIN SPORT 2 FRENCH
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80036.m3u8
-
-#EXTINF:-1, BEIN SPORT 2 ENGLISH
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80039.m3u8
-
-#EXTINF:-1, BEIN SPORT 3
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80032.m3u8
-
 #EXTINF:-1, BEIN SPORT 3 LIVE
 http://45.94.31.45/beinm16503/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, BEIN SPORT 3
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80029.m3u8
-
-#EXTINF:-1, BEIN SPORT 3 ENGLISH
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80038.m3u8
 
 #EXTINF:-1, BEIN SPORT 3 LIVE
 http://tdgu3cz8.rostelekom.xyz/iptv/KKV5969DQS5ZNV/6124/index.m3u8
@@ -75,23 +36,14 @@ http://tdgu3cz8.rostelekom.xyz/iptv/KKV5969DQS5ZNV/6124/index.m3u8
 #EXTINF:-1, BEIN HD SPORT
 http://185.234.111.76/bar7642/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, BEIN SPORT 4
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80028.m3u8
-
 #EXTINF:-1, BEIN SPORT 4 LIVE
 http://45.94.31.45/beinm16504/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, BEIN SPORT 5
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80027.m3u8
 
 #EXTINF:-1, BEIN SPORT 5 LIVE
 http://45.94.31.45/beinm16505/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, BEIN SPORT 6 LIVE
 http://45.94.31.45/beinm16506/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, BEIN PREMIUM 1
-http://88.barouhn.xyz.global.prod.fastly.net:80/live/616165500/index.m3u8
 
 #EXTINF:-1, BEIN PREMIUM 2
 http://1.yacinelivetv.com.global.prod.fastly.net:80/live/61619498700/index.m3u8
@@ -116,15 +68,6 @@ http://93.152.174.144:4000/play/bein2fr/index.m3u8
 
 #EXTINF:-1,Bein Sports 3 HD FR
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
-
-#EXTINF:-1, TRING SPORT 1
-http://us.bestvideostreaming.is/8796/index.m3u8
-
-#EXTINF:-1, TRING SPORT 2
-http://93.157.62.180/TringSport2HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, TRING SPORT 2
-http://us.bestvideostreaming.is/8797/index.m3u8
 
 #EXTINF:-1, SETANTA LIVE
 https://bal.varcdn1.ru/lb/setantasport/index.m3u8
@@ -153,14 +96,8 @@ https://d2uu8npu7tnt27.cloudfront.net/out/v1/00534526345940a48705b863419c41af/in
 #EXTINF:-1, ELEVEN SPORT 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 
-#EXTINF:-1, ELEVEN
-http://198.144.159.40/8Od7HJNL3mmtNM9TJmidhQ/1637208959/38352e38352e32392e3132/ff41/playlist.m3u8
-
 #EXTINF:-1,BT SPORT 1
 http://93.152.174.144:4000/play/btsport1/index.m3u8
-
-#EXTINF:-1, SUPERSPORT 2
-http://93.157.62.180:80/Supersport2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, SPORTTV 1
 https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
@@ -186,14 +123,8 @@ http://siloh-aka.plutotv.net/lilo/production/bein/1/master_1.m3u8
 #EXTINF:-1, BEIN SPORT EXTRA
 https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
 
-#EXTINF:-1, BEIN SPORT EXTRA 2
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/97372.m3u8
-
 #EXTINF:-1, BEIN SPORT EXTRA Ñ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
-
-#EXTINF:-1, BEIN SPORT EXTRA Ñ
-https://tunelive.net:3822/stream/play.m3u8
 
 #EXTINF:-1, BEIN SPORT 1 PREMIUM
 http://45.94.31.45/beinm16508/tracks-v1a1/mono.m3u8
@@ -227,9 +158,6 @@ http://193.111.199.185/live/Hdservers/Valendsuk/1876.m3u8
 
 #EXTINF:-1, SK4 HD
 http://193.111.199.185/live/Hdservers/Valendsuk/1877.m3u8
-
-#EXTINF:-1, SPORTS
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80030.m3u8
 
 #EXTINF:-1, BEIN SPORT 2 LIVE
 http://45.94.31.45/beinm16502/tracks-v1a1/mono.m3u8
@@ -315,9 +243,6 @@ http://rec2.distv.net/live/damaris/123456/143.m3u8
 #EXTINF:-1, Live Sports (pk)
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 
-#EXTINF:-1, SPORTS NEWS
-http://93.157.62.180/Supersport1/index.m3u8
-
 #EXTINF:-1, TNT SPORTS
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
@@ -335,12 +260,6 @@ http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 
 #EXTINF:-1, ELEVEN SPORTS 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, SETANTA SPORT
-https://5-61-37-22.livesports24.online/setantaukraine.m3u8
-
-#EXTINF:-1, SETANTA SPORT
-https://95-213-172-220.livesports24.online/setantaukraine.m3u8
 
 #EXTINF:-1, SETANTA SPORT 1
 https://95-213-224-173.livesports24.online/rusetantaeurasia.m3u8
@@ -372,17 +291,11 @@ http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/index.m3u8
 #EXTINF:-1, SETANTA SPORT 1
 https://bal.varcdn1.ru/lb/setanta1/index.m3u8
 
-#EXTINF:-1, ASTRO ARENA
-http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-
 #EXTINF:-1, TRUE PREMIER FUTBOL HD2
 https://www.wopep.com/02_PremierHD2_720p/chunklist.m3u8
 
 #EXTINF:-1, TRUE PREMIER FUTBOL HD7
 https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
-
-#EXTINF:-1, SPORT HD 2
-http://93.157.62.180/TringSport2HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Футбол 1
 https://95-213-224-180.livesports24.online/ntvmatchfoot1.m3u8
@@ -513,20 +426,8 @@ https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/1vdj1cxb/27
 #EXTINF:-1, FUTBOL TV
 http://ott-cdn.ucom.am/s41/index.m3u8
 
-#EXTINF:-1, BRASILERAO 1
-http://198.144.159.40/jMJ5qqN7yDeGVWTyj8UF1w/1637214778/3231362e3135312e3138332e3234/ff83/playlist.m3u8
-
-#EXTINF:-1, BRASILERAO 2
-http://198.144.159.40/3BYjNA-zn2S4gYAzzsZoog/1637215568/33312e342e3139322e313531/ff85/playlist.m3u8
-
 #EXTINF:-1, SPORTS 2
 http://iptv.prosto.tv:7000/ch115/video.m3u8
-
-#EXTINF:-1, TRING SPORT 2
-http://us.bestvideostreaming.is/8797/index.m3u8
-
-#EXTINF:-1, TRING SPORT 2
-http://93.157.62.180/TringSport2HD/index.m3u8
 
 #EXTINF:-1, K SPORT 2
 http://93.157.62.180:80/KSport2/tracks-v1a1/mono.m3u8
@@ -536,18 +437,6 @@ http://93.157.62.180:80/KSport3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, K SPORT 4
 http://93.157.62.180:80/KSport4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, BEIN SPORT NBA
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80035.m3u8
-
-#EXTINF:-1, SUPER SPORT 2 HD
-http://93.157.62.180:80/Supersport2/playlist.m3u8
-
-#EXTINF:-1, SUPER SPORT 3 HD
-http://93.157.62.180:80/Supersport3/playlist.m3u8
-
-#EXTINF:-1, SUPER SPORT 4 HD
-http://93.157.62.180:80/Supersport4/playlist.m3u8
 
 #EXTINF:-1, AD SPORTS
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
@@ -620,12 +509,6 @@ https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
 
 #EXTINF:-1,DUBAI SPORTS 3 FHD
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby
-
-#EXTINF:-1, Alkass 5 HD
-https://alkasmsl4.akamaized.net/hls/live/2003123/Alkass5vcnz/master480.m3u8
-
-#EXTINF:-1, Alkass online
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlinei1/AlkassOnline129_720p/chunklist.m3u8
 
 #EXTINF:-1, Astrakhan Sport (RU)
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
