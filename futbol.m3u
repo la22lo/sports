@@ -27,6 +27,9 @@ http://23.88.39.168:80/live/33523510/index.m3u8
 #EXTINF:-1, ESPN 1 (INTER)
 https://google-br.cdn.booyah.live/hls/1500114/98742680.m3u8
 
+#EXTINF:-1, ESPN 1 (INTER)
+https://centurylink-br-reg.cdn.booyah.live/hls/1500016/98731957.m3u8
+
 #EXTINF:-1, ESPN 2 (AJAX)
 https://google-br.cdn.booyah.live/hls/1500114/98741738.m3u8
 
