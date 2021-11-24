@@ -450,14 +450,32 @@ https://95-213-224-176.livesports24.online/footballrus.m3u8
 #EXTINF:-1, SPORT RU
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
 
+#EXTINF:-1,RTSH SPORT
+http://93.157.62.180/RTSHSport/index.m3u8
+
 #EXTINF:-1,CID 1
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8 
+
+#EXTINF:-1,BEIN SPORT HABER TUR
+http://antalya.tvizlehd.com/live/beinsporthaber.m3u8
 
 #EXTINF:-1,TRT 1
 https://mn-nl.mncdn.com/blutv_trt1_dvr/live.m3u8
 
-#EXTINF:-1,RTSH SPORT
-http://93.157.62.180/RTSHSport/index.m3u8
+#EXTINF:-1,TRT 2
+https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
+
+#EXTINF:-1, A SPOR FHD
+https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
+
+#EXTINF:-1, TIVIVU SPOR
+http://dl1.webtv.ttnet.com.tr/konf/mob/web16009.isml/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1, SPORTV TUR
+https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
+
+#EXTINF:-1, SPORTV REF TUR
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #EXTINF:-1,TIGO SPORTS
 https://gt.tunelive.net:3958/stream/play.m3u8
