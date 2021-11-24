@@ -18,6 +18,9 @@ http://195.154.181.240:8090/live/123/123/38109.m3u8
 #EXTINF:-1, MULTICHAMPIONS BEIN
 http://23.88.39.50/live/652177700/index.m3u8
 
+#EXTINF:-1, AO SPORTS (ATLÉTCO)
+https://akamai2-br.cdn.booyah.live/hls/1500077/98734716.m3u8
+
 #EXTINF:-1, YAYA LIVE (INTER)
 https://d2c2xbdarw38sz.cloudfront.net/out/v1/eefffbee066046a5b2257778819d3d01/index.m3u8
 
@@ -62,9 +65,6 @@ https://bal.varcdn1.ru/lb/m1/index.m3u8
 
 #EXTINF:-1, MATH 1 (AJAX)
 https://srv16.varcdn1.ru/m1/index.m3u8
-
-#EXTINF:-1, AO SPORTS (INTER)
-https://akamai2-br.cdn.booyah.live/hls/1500077/98734716.m3u8
 
 #EXTINF:-1, TNT SPORTS (AJAX)
 https://akamai2-br.cdn.booyah.live/hls/1500077/98077038.m3u8
