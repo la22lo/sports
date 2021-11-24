@@ -54,11 +54,17 @@ https://akamai2-br.cdn.booyah.live/hls/1500077/98077038.m3u8
 #EXTINF:-1, BEIN (LIVERPOOL)
 http://f6.aminouras.xyz/live/6161949870/index.m3u8
 
+#EXTINF:-1, MATH 2 (LIVERPOOL)
+https://bal.varcdn1.ru/lb/m2/index.m3u8?per
+
 #EXTINF:-1, BEIN (LIVERPOOL)
 http://f20.aminouras.xyz/live/6161949870/index.m3u8 
 
 #EXTINF:-1, BEIN EXTRA 2 (BORUSSIA)
 http://f15.aminouras.xyz/live/8800255521/index.m3u8
+
+#EXTINF:-1, ARENA SPORT (BORUSSIA)
+http://84.22.33.214/ArenaSport2/mono.m3u8?per
 
 #EXTINF:-1, BIABAN SPORT KURD
 http://185.234.111.76/bar7662/tracks-v1a1/mono.m3u8
