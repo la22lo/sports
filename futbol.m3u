@@ -477,6 +477,9 @@ https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 #EXTINF:-1, SPORTV REF TUR
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
+#EXTINF:-1, FB TV HD
+https://59c7ea6bec1c6.streamlock.net/filbox/fbtv.stream/playlist.m3u8
+
 #EXTINF:-1,TIGO SPORTS
 https://gt.tunelive.net:3958/stream/play.m3u8
 
