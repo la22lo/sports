@@ -21,11 +21,17 @@ http://23.88.39.50/live/652177700/index.m3u8
 #EXTINF:-1,MULTICHAMPIONS
 http://23.88.42.157:80/live/652177700/index.m3u8
 
+#EXTINF:-1, YALLA LIVE (MADRID)
+https://live-ak.vimeocdn.com:443/exp=1637786123~acl=%2F4cd9278b-d998-4319-83be-59a2cf8d5e45%2F%2A~hmac=aed90b09b31b0781a0f1bf6e915da9cd1e8f5a8154eb003e7060ed908fc2ccb1/4cd9278b-d998-4319-83be-59a2cf8d5e45/chunklist_b3256000.m3u8
+
 #EXTINF:-1, ESPN 2 (MADRID)
 https://google-br.cdn.booyah.live/hls/1500114/98741738.m3u8
 
 #EXTINF:-1, BEIN (MADRID)
 http://f5.aminouras.xyz/live/61512788870/index.m3u8
+
+#EXTINF:-1, MATH 3 (MADRID)
+https://bal.varcdn1.ru/lb/m3/index.m3u8?per
 
 #EXTINF:-1, AO SPORTS (ATLÉTCO)
 https://akamai2-br.cdn.booyah.live/hls/1500077/98734716.m3u8
@@ -62,9 +68,6 @@ https://bal.varcdn1.ru/lb/m1/index.m3u8
 
 #EXTINF:-1, MATH 1 (AJAX)
 https://srv16.varcdn1.ru/m1/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 1P
-http://f14.aminouras.xyz/live/6161655001/index.m3u8
 
 #EXTINF:-1, BIABAN SPORT KURD
 http://185.234.111.76/bar7662/tracks-v1a1/mono.m3u8
