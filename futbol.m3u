@@ -21,6 +21,9 @@ http://23.88.39.50/live/652177700/index.m3u8
 #EXTINF:-1, YAYA LIVE (INTER)
 https://d2c2xbdarw38sz.cloudfront.net/out/v1/eefffbee066046a5b2257778819d3d01/index.m3u8
 
+#EXTINF:-1, YALLA LIVE 2 (INTER)
+http://23.88.39.168:80/live/33523510/index.m3u8
+
 #EXTINF:-1, ESPN 1 (INTER)
 https://google-br.cdn.booyah.live/hls/1500114/98742680.m3u8
 
@@ -33,11 +36,23 @@ http://f6.aminouras.xyz/live/6161949870/index.m3u8
 #EXTINF:-1, BEIN (AJAX)
 http://f5.aminouras.xyz/live/61512788870/index.m3u8
 
+#EXTINF:-1, BEIN SPORT 2 (AJAX)
+http://23.88.42.157:80/live/652177700/index.m3u8
+
 #EXTINF:-1, MATH 2 (INTER)
 https://bal.varcdn1.ru/lb/m2/index.m3u8
 
+#EXTINF:-1, MATH 2 (INTER)
+https://srv22.varcdn1.ru/m2/index.m3u8
+
+#EXTINF:-1, MATH (INTER) 
+https://bal.varcdn1.ru/lb/match/index.m3u8
+
 #EXTINF:-1, MATH (AJAX)
 https://bal.varcdn1.ru/lb/m1/index.m3u8
+
+#EXTINF:-1, MATH 1 (AJAX)
+https://srv16.varcdn1.ru/m1/index.m3u8
 
 #EXTINF:-1, AO SPORTS (INTER)
 https://akamai2-br.cdn.booyah.live/hls/1500077/98734716.m3u8
@@ -45,29 +60,11 @@ https://akamai2-br.cdn.booyah.live/hls/1500077/98734716.m3u8
 #EXTINF:-1, TNT SPORTS (AJAX)
 https://akamai2-br.cdn.booyah.live/hls/1500077/98077038.m3u8
 
-#EXTINF:-1, YALLA LIVE 2 (PARTIDO )
-http://23.88.39.168:80/live/33523510/index.m3u8
-
-#EXTINF:-1, MATH 2 (PARTIDO )
-https://srv22.varcdn1.ru/m2/index.m3u8
-
-#EXTINF:-1, MATH 1 (PARTIDO )
-https://srv16.varcdn1.ru/m1/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 2 (PARTIDO )
-http://23.88.42.157:80/live/652177700/index.m3u8
-
-#EXTINF:-1, Partido 
-https://bal.varcdn1.ru/lb/match/index.m3u8
-
-#EXTINF:-1, BEIN EXTRA 2 (PARTIDO )
+#EXTINF:-1, BEIN EXTRA 2
 http://f15.aminouras.xyz/live/8800255521/index.m3u8
 
-#EXTINF:-1, BEIN SPORT 1P (PARTIDO NAPOLES)
+#EXTINF:-1, BEIN SPORT 1P
 http://f14.aminouras.xyz/live/6161655001/index.m3u8
-
-#EXTINF:-1, ESPN 2 (PARTIDO NAPOLES)
-https://google-br.cdn.booyah.live/hls/1500114/98727671.m3u8
 
 #EXTINF:-1, BIABAN SPORT KURD
 http://185.234.111.76/bar7662/tracks-v1a1/mono.m3u8
