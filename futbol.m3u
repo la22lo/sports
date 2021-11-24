@@ -18,23 +18,32 @@ http://195.154.181.240:8090/live/123/123/38109.m3u8
 #EXTINF:-1, MULTICHAMPIONS BEIN
 http://23.88.39.50/live/652177700/index.m3u8
 
+#EXTINF:-1, YAYA LIVE (INTER)
+https://d2c2xbdarw38sz.cloudfront.net/out/v1/eefffbee066046a5b2257778819d3d01/index.m3u8
+
 #EXTINF:-1, ESPN 1 (INTER)
 https://google-br.cdn.booyah.live/hls/1500114/98742680.m3u8
 
 #EXTINF:-1, ESPN 2 (AJAX)
 https://google-br.cdn.booyah.live/hls/1500114/98741738.m3u8
 
+#EXTINF:-1, BEIN (INTER)
+http://f6.aminouras.xyz/live/6161949870/index.m3u8
+
+#EXTINF:-1, BEIN (AJAX)
+http://f5.aminouras.xyz/live/61512788870/index.m3u8
+
+#EXTINF:-1, MATH 2 (INTER)
+https://bal.varcdn1.ru/lb/m2/index.m3u8
+
+#EXTINF:-1, MATH (AJAX)
+https://bal.varcdn1.ru/lb/m1/index.m3u8
+
 #EXTINF:-1, YALLA LIVE 2 (PARTIDO )
 http://23.88.39.168:80/live/33523510/index.m3u8
 
 #EXTINF:-1, MATH 2 (PARTIDO )
-https://bal.varcdn1.ru/lb/m2/index.m3u8
-
-#EXTINF:-1, MATH 2 (PARTIDO )
 https://srv22.varcdn1.ru/m2/index.m3u8
-
-#EXTINF:-1, MATH (PARTIDO )
-https://bal.varcdn1.ru/lb/m1/index.m3u8
 
 #EXTINF:-1, MATH 1 (PARTIDO )
 https://srv16.varcdn1.ru/m1/index.m3u8
