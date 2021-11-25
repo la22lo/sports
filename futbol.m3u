@@ -18,7 +18,7 @@ http://195.154.181.240:8090/live/123/123/38109.m3u8
 #EXTINF:-1, BIABAN SPORT KURD
 http://185.234.111.76/bar7662/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, RING SPORT KURD
+#EXTINF:-1, RENG SPORT KURD
 http://185.234.111.76/bar7667/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, ASO SPORT KURD
@@ -67,13 +67,6 @@ http://45.94.31.45/beinm16504/tracks-v1a1/mono.m3u8
 http://45.94.31.45/beinm16505/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, BEIN SPORT 6 LIVE
-http://45.94.31.45/beinm16506/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, BEIN PREMIUM 2
-http://1.yacinelivetv.com.global.prod.fastly.net:80/live/61619498700/index.m3u8
-
-#EXTINF:-1, BEIN PREMIUM 3
-http://88.barouhn.xyz.global.prod.fastly.net:80/live/615127888700/index.m3u8
 
 #EXTINF:-1, beIN Sports 1 French
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2499/index.m3u8
@@ -251,12 +244,6 @@ https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d
 
 #EXTINF:-1, TyC SPORT
 https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8
-
-#EXTINF:-1, ESTADIO TNT SPORTS
-https://nedmedia.akamaized.net:443/hls/live/2034243/feed1/master_720.m3u8
-
-#EXTINF:-1, ESTADIO TNT SPORTS
-https://nedmedia.akamaized.net/hls/live/2034243/feed1/master.m3u8
 
 #EXTINF:-1, ESPN LIVE
 http://vstreams.tv:2082/live/rb0zYNF5GQ/FGWoCyPvwt/1160326.m3u8
