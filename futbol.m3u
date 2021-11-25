@@ -129,8 +129,8 @@ https://185-107-80-245.livesports24.online/setantaplusru.m3u8
 #EXTINF:-1, BT SPORT ESPN HD
 http://93.152.174.144:4000/play/btsportespn/index.m3u8
 
-#EXTINF:-1, SS7
-https://d2uu8npu7tnt27.cloudfront.net/out/v1/00534526345940a48705b863419c41af/index.m3u8
+#EXTINF:-1, ARENA SPORT 2 
+http://84.22.33.214/ArenaSport2/mono.m3u8?per
 
 #EXTINF:-1, ELEVEN SPORT 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
