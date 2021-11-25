@@ -15,15 +15,6 @@ http://31.220.3.170:2095/live/hXZp0zPK/djDM7bPC%20/48768.m3u8
 #EXTINF:-1, MOVISTAR LALIGA*
 http://195.154.181.240:8090/live/123/123/38109.m3u8
 
-#EXTINF:-1, MATH 3 (MADRID)
-https://bal.varcdn1.ru/lb/m3/index.m3u8?per
-
-#EXTINF:-1, MATH (PSG) 
-https://bal.varcdn1.ru/lb/match/index.m3u8
-
-#EXTINF:-1, MATH 2 (LIVERPOOL)
-https://bal.varcdn1.ru/lb/m2/index.m3u8?per
-
 #EXTINF:-1, BIABAN SPORT KURD
 http://185.234.111.76/bar7662/tracks-v1a1/mono.m3u8
 
@@ -186,18 +177,6 @@ https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8
 #EXTINF:-1, LOOK SPORTS 3
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
 
-#EXTINF:-1, SK1 HD
-http://193.111.199.185/live/Hdservers/Valendsuk/1874.m3u8
-
-#EXTINF:-1, SK2 HD
-http://193.111.199.185/live/Hdservers/Valendsuk/1875.m3u8
-
-#EXTINF:-1, SK3 HD
-http://193.111.199.185/live/Hdservers/Valendsuk/1876.m3u8
-
-#EXTINF:-1, SK4 HD
-http://193.111.199.185/live/Hdservers/Valendsuk/1877.m3u8
-
 #EXTINF:-1, BEIN SPORT 2 LIVE
 http://45.94.31.45/beinm16502/tracks-v1a1/mono.m3u8
 
@@ -228,6 +207,9 @@ https://chostv.mobie.in/choos/sports/matchqy3.m3u8
 #EXTINF:-1, Футбол 3
 https://bal.varcdn1.ru/lb/m3/index.m3u8
 
+#EXTINF:-1, MATH 3 
+https://bal.varcdn1.ru/lb/m3/index.m3u8?per
+
 #EXTINF:-1, BELARUS 5
 https://185-106-121-77.livesports24.online/belarusss5.m3u8
 
@@ -236,6 +218,9 @@ https://77-247-178-24.livesports24.online/ntvmatchfoot1.m3u8
 
 #EXTINF:-1, МАТЧ!
 https://sel.varcdn1.ru:443/match/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, MATH
+https://bal.varcdn1.ru/lb/match/index.m3u8
 
 #EXTINF:-1, VARCHAT 6
 https://bal.varcdn1.ru/lb/m2/index.m3u8
@@ -320,6 +305,9 @@ https://cp.sradiotv.com:1936/8126/8126/chunklist_w703271480.m3u8
 
 #EXTINF:-1, MATH RUSIA 2
 https://95-213-172-220.livesports24.online/fooootball2.m3u8
+
+#EXTINF:-1, MATH 2
+https://bal.varcdn1.ru/lb/m2/index.m3u8?per
 
 #EXTINF:-1, GEO SUPER
 http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
@@ -455,6 +443,18 @@ https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 
 #EXTINF:-1, TIVIVU SPOR
 http://dl1.webtv.ttnet.com.tr/konf/mob/web16009.isml/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1, SK1 HD
+http://193.111.199.185/live/Hdservers/Valendsuk/1874.m3u8
+
+#EXTINF:-1, SK2 HD
+http://193.111.199.185/live/Hdservers/Valendsuk/1875.m3u8
+
+#EXTINF:-1, SK3 HD
+http://193.111.199.185/live/Hdservers/Valendsuk/1876.m3u8
+
+#EXTINF:-1, SK4 HD
+http://193.111.199.185/live/Hdservers/Valendsuk/1877.m3u8
 
 #EXTINF:-1, SPORTV TUR
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
