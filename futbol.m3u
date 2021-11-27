@@ -489,6 +489,9 @@ http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_
 #EXTINF:-1,BEIN SPORT HABER TUR
 http://antalya.tvizlehd.com/live/beinsporthaber.m3u8
 
+#EXTINF:-1,BEIN SPORT
+http://88.barouhn.xyz.global.prod.fastly.net:80/live/69854211/index.m3u8
+
 #EXTINF:-1,TRT 1
 https://mn-nl.mncdn.com/blutv_trt1_dvr/live.m3u8
 
