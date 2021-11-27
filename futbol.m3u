@@ -93,6 +93,9 @@ http://tdgu3cz8.rostelekom.xyz/iptv/KKV5969DQS5ZNV/6124/index.m3u8
 #EXTINF:-1, BEIN HD SPORT
 http://185.234.111.76/bar7642/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, BEIN SPORT 1
+http://23.88.42.123:80/live/6161655001/index.m3u8
+
 #EXTINF:-1, BEIN SPORT 4 LIVE
 http://45.94.31.45/beinm16504/tracks-v1a1/mono.m3u8
 
