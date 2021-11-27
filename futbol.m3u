@@ -18,6 +18,9 @@ http://195.154.181.240:8090/live/123/123/38109.m3u8
 #EXTINF:-1, MOVISTAR DEPORTES
 http://62.210.177.217:25461/live/2lLCYzt5Sg/KXW0EHpqMB/11.chunklist_12536783.m3u8
 
+#EXTINF:-1, LALIGA TV
+http://77.247.109.101/hls/A1.m3u8
+
 #EXTINF:-1,LALIGA TV
 http://cdn3.cyclingnews.live/hls/W1.m3u8
 
@@ -26,9 +29,6 @@ http://185.53.89.183/hls/ssla.m3u8
 
 #EXTINF:-1, S LALIGA
 http://init.cheches.info/hls/103.m3u8
-
-#EXTINF:-1, LALIGA
-http://77.247.109.101/hls/A1.m3u8
 
 #EXTINF:-1, BIABAN SPORT KURD
 http://185.234.111.76/bar7662/tracks-v1a1/mono.m3u8
