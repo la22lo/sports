@@ -321,6 +321,9 @@ http://rec2.distv.net/live/damaris/123456/145.m3u8
 #EXTINF:-1, ESPN 2
 http://rec2.distv.net/live/damaris/123456/143.m3u8
 
+#EXTINF:-1, VEBO TV
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may8/playlist.m3u8
+
 #EXTINF:-1, Live Sports (pk)
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 
