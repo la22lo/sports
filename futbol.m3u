@@ -297,6 +297,18 @@ https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d
 #EXTINF:-1, TyC SPORT
 https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8
 
+#EXTINF:-1, Premier Football HD 1 (TH)
+https://smart-tv.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1, Premier Football HD 2 (TH)
+https://smart-tv.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1, Premier Football HD 3 (TH)
+https://smart-tv.livedoomovie.com:4431/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1, Premier Football HD 4 (TH)
+https://smart-tv.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8
+
 #EXTINF:-1, ESPN LIVE
 http://vstreams.tv:2082/live/rb0zYNF5GQ/FGWoCyPvwt/1160326.m3u8
 
