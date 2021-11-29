@@ -15,6 +15,9 @@ http://31.220.3.170:2095/live/hXZp0zPK/djDM7bPC%20/48768.m3u8
 #EXTINF:-1, MOVISTAR LALIGA*
 http://195.154.181.240:8090/live/123/123/38109.m3u8
 
+#EXTINF:-1, MMN HD SPORT KURD
+http://185.234.111.76/bar7642/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, LALIGA TV
 http://77.247.109.101/hls/A1.m3u8
 
@@ -50,9 +53,6 @@ http://185.234.111.76/bar7620/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, BEIN SPORT 1 PREMIUM KURD
 http://185.234.111.76/bar7613/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, MMN HD SPORT KURD
-http://185.234.111.76/bar7642/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, BEIN SPORT 1
 http://45.94.31.45/beinm16501/tracks-v1a2/mono.m3u8
