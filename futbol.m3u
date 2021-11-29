@@ -378,9 +378,6 @@ http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 #EXTINF:-1, CANAL + POLONIA
 http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/index.m3u8
 
-#EXTINF:-1, SETANTA SPORT 1
-https://bal.varcdn1.ru/lb/setanta1/index.m3u8
-
 #EXTINF:-1, TRUE PREMIER FUTBOL HD2
 https://www.wopep.com/02_PremierHD2_720p/chunklist.m3u8
 
