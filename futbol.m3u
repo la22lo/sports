@@ -165,6 +165,12 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1,BT SPORT 1
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 
+#EXTINF:-1,BT SPORT 1
+https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_1_720p/chunklist.m3u8
+
+#EXTINF:-1,BT SPORT 2
+https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
+
 #EXTINF:-1, SPORTTV 1
 https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
 
