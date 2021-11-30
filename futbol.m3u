@@ -3,6 +3,9 @@
 #EXTINF:-1, BEIN SPORT 1 LIVE
 http://45.94.31.45/beinm16501/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, Copa
+http://195.133.192.63/file/0d27762222e3c38b79e1de6c8cf8aa63276481222a3bda087190bf1bf8ec8fa6963eefef8f2823f5dff11428fe97c851/playlist.m3u8
+
 #EXTINF:-1, VAMOS TV
 http://31.220.3.170:2095/live/hXZp0zPK/djDM7bPC%20/48822.m3u8
 
