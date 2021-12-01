@@ -18,6 +18,9 @@ https://d2kqb0epeee20k.cloudfront.net:443/out/v1/d057754e88a3416f9ee23e750aefe25
 #EXTINF:-1, S LALIGA
 http://185.53.89.183/hls/ssla.m3u8
 
+#EXTINF:-1, FOX SPORTS
+https://live.brimecdn.com/edge/BmRoJCQ3qRxCwuKh0aIw/chunks.m3u8
+
 #EXTINF:-1, VAMOS TV
 http://31.220.3.170:2095/live/hXZp0zPK/djDM7bPC%20/48822.m3u8
 
