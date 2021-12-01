@@ -78,6 +78,12 @@ http://45.94.31.45/beinm16507/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BEIN SPORT 3 LIVE
 http://tdgu3cz8.rostelekom.xyz/iptv/KKV5969DQS5ZNV/6124/index.m3u8
 
+#EXTINF:-1, BEIN SPORT 3 LIVE
+http://93.152.174.144:4000/play/bein3ar/index.m3u8
+
+#EXTINF:-1, BEIN SPORT 7
+http://93.152.174.144:4000/play/bein7/index.m3u8
+
 #EXTINF:-1, BEIN HD SPORT
 http://185.234.111.76/bar7642/tracks-v1a1/mono.m3u8
 
@@ -203,6 +209,9 @@ https://www.wopep.com/02_PremierHD4_720p/chunklist.m3u8
 
 #EXTINF:-1, BEIN SPORT 3
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
+
+#EXTINF:-1, FORMULA 1 HD
+https://lon-haproxy.angelthump.com/hls/spf1general/index.m3u8
 
 #EXTINF:-1, Футбол 1
 https://95-213-224-186.livesports24.online/ntvmatchfoot1.m3u8
@@ -351,6 +360,12 @@ https://cdn.onarmtv.com/str/8/output.m3u8
 #EXTINF:-1,MATH RUSIA
 https://95-213-224-180.livesports24.online/rumatchf3.m3u8
 
+#EXTINF:-1,MATH CTPAHA
+https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+
+#EXTINF:-1,MATH RUSIA
+https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
+
 #EXTINF:-1, CANAL RUSO 3 (Футбол 1)
 https://95-213-224-176.livesports24.online/uafootballua1.m3u8
 
@@ -396,6 +411,21 @@ https://95-213-224-183.livesports24.online/sport1ua.m3u8
 #EXTINF:-1, SPORT 2
 http://iptv.prosto.tv:7000/ch115/video.m3u8
 
+#EXTINF:-1, TV 2 SPORT 
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
+
+#EXTINF:-1, FOOTBALL TV
+https://m-c09-j2apps.s.llnwi.net/hls/8017.FootballTV.in_360p/index.m3u8
+
+#EXTINF:-1, M.OYTGON 1HD
+http://193.33.88.172/football1_hd/index.m3u8
+
+#EXTINF:-1, M.OYTGON 2HD
+http://193.33.88.172/football2_hd/index.m3u8 
+
+#EXTINF:-1, M.OYTGON 3HD
+http://193.33.88.172/football3_hd/index.m3u8 
+
 #EXTINF:-1,APEHA TV
 https://bal.varcdn1.ru/lb/marena/index.m3u8
 
@@ -413,6 +443,9 @@ https://95-213-224-176.livesports24.online/footballrus.m3u8
 
 #EXTINF:-1, SPORT RU
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+
+#EXTINF:-1, X SPORT 
+http://iptv.prosto.tv:7000/ch109/video.m3u8
 
 #EXTINF:-1,RTSH SPORT
 http://93.157.62.180/RTSHSport/index.m3u8
@@ -503,6 +536,9 @@ http://ott-cdn.ucom.am/s83/03.m3u8
 
 #EXTINF:-1, VIASAT 
 https://persik.tv/stream/3602/287583/10249.m3u8
+
+#EXTINF:-1, VIASAT SPORT HD
+http://iptv.prosto.tv:7000/ch108/video.m3u8
 
 #EXTINF:-1, DUBAI SPORTS
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
