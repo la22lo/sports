@@ -6,8 +6,14 @@ http://45.94.31.45/beinm16501/tracks-v1a1/mono.m3u8
 #EXTINF:-1, LALIGATV
 http://cdn3.cyclingnews.live/hls/W1.m3u8?SBN
 
+#EXTINF:-1, ESPN 2
+https://centurylink.br.cdn.booyah.live/hls/1000009/99981712.m3u8
+
 #EXTINF:-1, YAYA LIVE
 https://d2kqb0epeee20k.cloudfront.net:443/out/v1/d057754e88a3416f9ee23e750aefe250/index_1.m3u8?SBN
+
+#EXTINF:-1, S LALIGA
+http://185.53.89.183/hls/ssla.m3u8
 
 #EXTINF:-1, VAMOS TV
 http://31.220.3.170:2095/live/hXZp0zPK/djDM7bPC%20/48822.m3u8
