@@ -3,6 +3,9 @@
 #EXTINF:-1, BEIN SPORT 1 LIVE
 http://45.94.31.45/beinm16501/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, LALIGATV
+http://cdn3.cyclingnews.live/hls/W1.m3u8?SBN
+
 #EXTINF:-1, MOVISTAR LALIGA
 http://dmtn-tv.com:8080/live/nEc83xV9P/qCuGXKk8MM/30172.m3u8
 
