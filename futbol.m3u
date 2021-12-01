@@ -120,6 +120,9 @@ http://23.88.42.157:80/live/652177700/index.m3u8
 #EXTINF:-1, SETANTA LIVE
 https://bal.varcdn1.ru/lb/setantasport/index.m3u8
 
+#EXTINF:-1, SETANTA SPORT 1
+https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
+
 #EXTINF:-1, SETANTA + LIVE
 https://95-213-224-183.livesports24.online/setantaplusukr.m3u8
 
@@ -530,6 +533,12 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1, SPOTV 1
+https://smart-tv.livedoomovie.com:4431/02_foxsport_720p/chunklist.m3u8
+
+#EXTINF:-1, SPOTV 2
+https://smart-tv.livedoomovie.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8
 
 #EXTINF:-1, OMAN SPORT
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
