@@ -414,8 +414,14 @@ http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TVP SPORT
 http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8?SBN
 
+#EXTINF:-1, Q SPORT LEAGUE
+http://46.34.209.243:80/btv/SWM/Q/Q_720p_3500kbps.m3u8
+
 #EXTINF:-1, QAZ SPORT 
 http://46.34.209.242/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8?per
+
+#EXTINF:-1, QAZ SPORT 
+http://46.34.209.243:80/btv/SWM/Qazsport_HD/Qazsport_HD_720p_3500kbps.m3u8
 
 #EXTINF:-1, SPORT 1
 https://95-213-224-183.livesports24.online/sport1ua.m3u8
