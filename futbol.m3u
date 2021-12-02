@@ -132,6 +132,12 @@ http://23.88.39.50/live/652177700/index.m3u8
 #EXTINF:-1, BEIN SPORT 2 REDIFFUSION MC
 http://23.88.42.157:80/live/652177700/index.m3u8
 
+#EXTINF:-1, Satanta sports1 rusia
+https://185-106-121-77.livesports24.online/rusetantaeurasia.m3u8
+
+#EXTINF:-1, Setanta Sports 2 rusia
+https://95-213-224-186.livesports24.online/setantaplusru.m3u8
+
 #EXTINF:-1, SETANTA LIVE
 https://bal.varcdn1.ru/lb/setantasport/index.m3u8
 
