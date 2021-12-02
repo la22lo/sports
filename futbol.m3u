@@ -144,6 +144,27 @@ https://95-213-224-186.livesports24.online/setantaplusru.m3u8
 #EXTINF:-1, Setanta Sports 2 rusia
 https://95-213-224-180.livesports24.online/setantaplusru.m3u8
 
+#EXTINF:-1, M.OYTGON 1HD
+http://193.33.88.172/football1_hd/index.m3u8
+
+#EXTINF:-1, M.OYTGON 2HD
+http://193.33.88.172/football2_hd/index.m3u8 
+
+#EXTINF:-1, M.OYTGON 3HD
+http://193.33.88.172/football3_hd/index.m3u8 
+
+#EXTINF:-1, BIELORUSIA 5HD
+https://95-213-224-180.livesports24.online/belarusss5.m3u8
+
+#EXTINF:-1, ФУТБОЛ1
+https://95-213-224-180.livesports24.online/uafootballua1.m3u8
+
+#EXTINF:-1, ФУТБОЛ2
+https://95-213-224-180.livesports24.online/fooootball2.m3u8
+
+#EXTINF:-1, Футбол3
+https://95-213-224-180.livesports24.online/football3ua.m3u8
+
 #EXTINF:-1, SETANTA LIVE
 https://bal.varcdn1.ru/lb/setantasport/index.m3u8
 
@@ -342,6 +363,9 @@ https://95-213-172-220.livesports24.online/fooootball2.m3u8
 #EXTINF:-1, MATH 2
 https://bal.varcdn1.ru/lb/m2/index.m3u8?per
 
+#EXTINF:-1, MATH PREMIER
+https://95-213-224-180.livesports24.online/mpremierrus.m3u8
+
 #EXTINF:-1, CANAL + POLONIA
 http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/index.m3u8
 
@@ -440,15 +464,6 @@ https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 
 #EXTINF:-1, FOOTBALL TV
 https://m-c09-j2apps.s.llnwi.net/hls/8017.FootballTV.in_360p/index.m3u8
-
-#EXTINF:-1, M.OYTGON 1HD
-http://193.33.88.172/football1_hd/index.m3u8
-
-#EXTINF:-1, M.OYTGON 2HD
-http://193.33.88.172/football2_hd/index.m3u8 
-
-#EXTINF:-1, M.OYTGON 3HD
-http://193.33.88.172/football3_hd/index.m3u8 
 
 #EXTINF:-1,APEHA TV
 https://bal.varcdn1.ru/lb/marena/index.m3u8
