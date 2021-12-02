@@ -6,15 +6,6 @@ http://45.94.31.45/beinm16501/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BEIN SPORT 3 LIVE
 http://45.94.31.45/beinm16503/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, LALIGATV
-http://cdn3.cyclingnews.live/hls/W1.m3u8?SBN
-
-#EXTINF:-1, S LALIGA
-http://185.53.89.183/hls/ssla.m3u8
-
-#EXTINF:-1, FOX SPORTS
-https://live.brimecdn.com/edge/BmRoJCQ3qRxCwuKh0aIw/chunks.m3u8
-
 #EXTINF:-1, VAMOS TV
 http://31.220.3.170:2095/live/hXZp0zPK/djDM7bPC%20/48822.m3u8
 
@@ -825,14 +816,17 @@ http://sir1b.uefa-tv.com:80/live/4/chunks.m3u8
 #EXTINF:-1,PPV Event c4 (op3)
 http://sir1c.uefa-tv.com:80/live/4/chunks.m3u8
 
-#EXTINF:-1, YALLA LIVE 2 
-http://23.88.39.168:80/live/33523510/index.m3u8
-
 #EXTINF:-1, LALIGA TV
 http://77.247.109.101/hls/A1.m3u8
 
 #EXTINF:-1,LALIGA TV
 http://cdn3.cyclingnews.live/hls/W1.m3u8
+
+#EXTINF:-1, LALIGATV
+http://cdn3.cyclingnews.live/hls/W1.m3u8?SBN
+
+#EXTINF:-1, S LALIGA
+http://185.53.89.183/hls/ssla.m3u8
 
 #EXTINF:-1,DAZN 1
 http://dmtn-tv.com:8080/live/nEc83xV9P/qCuGXKk8MM/30200.m3u8
