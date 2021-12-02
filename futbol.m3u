@@ -498,6 +498,9 @@ https://tv.siete.us/bestcablesports/bestcablesports/index.m3u8
 #EXTINF:-1, SKY SPORTS 24
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 
+#EXTINF:-1, SKY SPORTS F1
+http://93.152.174.144:4000/play/ssportsf1/index.m3u8
+
 #EXTINF:-1, CANAL PLUS SPORT HD
 http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
 
