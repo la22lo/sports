@@ -6,12 +6,6 @@ http://45.94.31.45/beinm16501/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BEIN SPORT 3 LIVE
 http://45.94.31.45/beinm16503/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, SEGUNDA
-https://play.girlupx.cn/live/ballbar_27810.m3u8
-
-#EXTINF:-1, SEGUNDA
-http://per@play.fbmio.com/live/stream28674.m3u8?txSecret=8d6f84514db1a07662927b31046f571e&txTime=61AE3AD5
-
 #EXTINF:-1, VAMOS TV
 http://31.220.3.170:2095/live/hXZp0zPK/djDM7bPC%20/48822.m3u8
 
@@ -896,6 +890,12 @@ http://dmtn-tv.com:8080/live/nEc83xV9P/qCuGXKk8MM/199815.m3u8
 
 #EXTINF:-1,DAZN 4
 http://dmtn-tv.com:8080/live/nEc83xV9P/qCuGXKk8MM/77434.m3u8
+
+#EXTINF:-1, SEGUNDA
+https://play.girlupx.cn/live/ballbar_27810.m3u8
+
+#EXTINF:-1, SEGUNDA
+http://per@play.fbmio.com/live/stream28674.m3u8?txSecret=8d6f84514db1a07662927b31046f571e&txTime=61AE3AD5
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
