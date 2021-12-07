@@ -63,6 +63,9 @@ http://f18.anfalrou.xyz/live/61512788870/index.m3u8
 #EXTINF:-1, BEIN SPORT 1
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 
+#EXTINF:-1, POLSAT SPORT 
+https://dndnbubca7ebt.cloudfront.net/out/v1/9b11be1ecbf242229c8f1f73355c6201/index.m3u8?from=other&vsid=90b1953cc6f9afffbd200383ae6f40b13022e07ca337xWEBx0005x1638905915&adsid=395b6c916060e44470e876b9bd9be89c4cb70fc043ecxWEBx0005x1638905915&t=1638905917611&abd=1
+
 #EXTINF:-1, VAMOS TV
 http://185.191.126.169:80/live/LfPdKKYE9k/yqCMLZS6h5/30617.m3u8
 
