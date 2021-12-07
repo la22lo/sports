@@ -21,6 +21,12 @@ http://e12.aminouras.xyz/live/6161655001/index.m3u8?ZAnA_IPTV.m3u8
 #EXTINF:-1, YAYA LIVE PARIS
 https://dyfyspc4moz7b.cloudfront.net/out/v1/b6dacb8a2361439d80f387e7754027b8/index.m3u8
 
+#EXTINF:-1, SUPERSPORT CHAMPIONS
+http://cdn3.cyclingnews.live/hls/W1.m3u8
+
+#EXTINF:-1, SUPERSPORT CHAMPIONS
+http://cdn3.cyclingnews.live/hls/W1.m3u8?SBN
+
 #EXTINF:-1, YAYA LIVE CITY
 https://d1pscwqbp9ftpi.cloudfront.net/out/v1/2551946fe1344ab990c5e8b1e3b0dfb5/index.m3u8
 
@@ -980,12 +986,6 @@ http://sir1c.uefa-tv.com:80/live/4/chunks.m3u8
 
 #EXTINF:-1, LALIGA TV
 http://77.247.109.101/hls/A1.m3u8
-
-#EXTINF:-1,LALIGA TV
-http://cdn3.cyclingnews.live/hls/W1.m3u8
-
-#EXTINF:-1, LALIGATV
-http://cdn3.cyclingnews.live/hls/W1.m3u8?SBN
 
 #EXTINF:-1, S LALIGA
 http://185.53.89.183/hls/ssla.m3u8
