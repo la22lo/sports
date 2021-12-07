@@ -15,6 +15,9 @@ https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1, VAMOS TV
 http://185.191.126.169:80/live/LfPdKKYE9k/yqCMLZS6h5/30617.m3u8
 
+#EXTINF:-1, MOVISTAR LIGA DE CAMPEONES
+http://mat4k.com:8080/live/4632230074517863/4632230074517863/193264.m3u8
+
 #EXTINF:-1, MOVISTAR LALIGA
 http://user.tvcluboficial.com/stream/nov/nov/761.m3u8
 
