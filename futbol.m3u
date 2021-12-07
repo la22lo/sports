@@ -6,6 +6,9 @@ http://45.94.31.45/beinm16501/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BEIN SPORT 3 LIVE
 http://45.94.31.45/beinm16503/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, REAL MADRID YAYA LIVE
+https://d1pscwqbp9ftpi.cloudfront.net/out/v1/2551946fe1344ab990c5e8b1e3b0dfb5/index.m3u8?from=other&vsid=9221cfe780f834141bf4a0b374506b6afb522a94dda6xWEBx0005x1638905997&adsid=3e387d51d6865ea9720a42a09114e547f621baa0f4bdxWEBx0005x1638905997&t=1638905997835&abd=1
+
 #EXTINF:-1, BEIN PARIS
 http://f15.anfalrou.xyz/live/6161655001/index.m3u8
 
