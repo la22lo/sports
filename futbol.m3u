@@ -10,6 +10,9 @@ http://45.94.31.45/beinm16503/tracks-v1a1/mono.m3u8
 http://31.220.3.170:2095/live/hXZp0zPK/djDM7bPC%20/48822.m3u8
 
 #EXTINF:-1, MOVISTAR LALIGA
+http://user.tvcluboficial.com/stream/nov/nov/761.m3u8
+
+#EXTINF:-1, MOVISTAR LALIGA
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 
 #EXTINF:-1, MOVISTAR LALIGA
@@ -26,6 +29,12 @@ http://31.220.3.170:2095/live/hXZp0zPK/djDM7bPC%20/48768.m3u8
 
 #EXTINF:-1, MOVISTAR LALIGA*
 http://195.154.181.240:8090/live/123/123/38109.m3u8
+
+#EXTINF:-1, DIRECTV SPORT 1
+http://user.tvcluboficial.com/stream/nov/nov/259.m3u8
+
+#EXTINF:-1, DIRECTV SPORT 2
+http://user.tvcluboficial.com/stream/nov/nov/667.m3u8
 
 #EXTINF:-1, MMN HD SPORT KURD
 http://185.234.111.76/bar7642/tracks-v1a1/mono.m3u8
@@ -44,6 +53,9 @@ http://185.234.111.76/bar7638/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, GK SPORT KURD
 http://185.234.111.76/bar7653/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, FOX SPORT
+http://user.tvcluboficial.com/stream/nov/nov/493.m3u8
 
 #EXTINF:-1, BEIN SPORT 1 KURD
 http://185.234.111.76/bar7620/tracks-v1a1/mono.m3u8
@@ -303,21 +315,6 @@ http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2554/index.m3u8
 #EXTINF:-1, MATH TV
 https://bal.varcdn1.ru/lb/match/index.m3u8
 
-#EXTINF:-1, TyC SPORT
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
-
-#EXTINF:-1, TyC SPORT
-https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_15.m3u8
-
-#EXTINF:-1, TyC SPORT
-https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
-
-#EXTINF:-1, TyC SPORT
-https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8
-
-#EXTINF:-1, TyC SPORT
-http://panel.tured.live:8080/live/Donpepe43/BB96b9dXLwSv/101295.m3u8
-
 #EXTINF:-1, Premier Football HD 1 (TH)
 https://smart-tv.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
 
@@ -521,6 +518,24 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #EXTINF:-1, FB TV HD
 https://59c7ea6bec1c6.streamlock.net/filbox/fbtv.stream/playlist.m3u8
+
+#EXTINF:-1, CLARO SPORTS
+http://user.tvcluboficial.com/stream/nov/nov/328.m3u8
+
+#EXTINF:-1, TyC SPORT
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+
+#EXTINF:-1, TyC SPORT
+https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_15.m3u8
+
+#EXTINF:-1, TyC SPORT
+https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+
+#EXTINF:-1, TyC SPORT
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8
+
+#EXTINF:-1, TyC SPORT
+http://panel.tured.live:8080/live/Donpepe43/BB96b9dXLwSv/101295.m3u8
 
 #EXTINF:-1,CABLE SPORTS
 https://tv.siete.us/bestcablesports/bestcablesports/index.m3u8
