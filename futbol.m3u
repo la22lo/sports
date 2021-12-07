@@ -882,8 +882,5 @@ http://dmtn-tv.com:8080/live/nEc83xV9P/qCuGXKk8MM/77434.m3u8
 #EXTINF:-1, SEGUNDA
 https://play.girlupx.cn/live/ballbar_27810.m3u8
 
-#EXTINF:-1, SEGUNDA
-http://per@play.fbmio.com/live/stream28674.m3u8?txSecret=8d6f84514db1a07662927b31046f571e&txTime=61AE3AD5
-
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
