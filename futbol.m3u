@@ -168,6 +168,12 @@ https://95-213-224-186.livesports24.online/setantaplusru.m3u8
 #EXTINF:-1, Setanta Sports 2 rusia
 https://95-213-224-180.livesports24.online/setantaplusru.m3u8
 
+#EXTINF:-1, SETANTA SPORT UKRAINE
+https://95-213-172-220.livesports24.online/setantaukraine.m3u8
+
+#EXTINF:-1, SETANTA + SPORT UKRAINE
+https://95-213-224-183.livesports24.online/setantaplusukr.m3u8
+
 #EXTINF:-1, M.OYTGON 1HD
 http://193.33.88.172/football1_hd/index.m3u8
 
