@@ -28,9 +28,6 @@ https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 http://185.191.126.169:80/live/LfPdKKYE9k/yqCMLZS6h5/30617.m3u8
 
 #EXTINF:-1, MOVISTAR LALIGA
-http://user.tvcluboficial.com/stream/nov/nov/761.m3u8
-
-#EXTINF:-1, MOVISTAR LALIGA
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 
 #EXTINF:-1, MOVISTAR LALIGA
@@ -278,6 +275,9 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
 #EXTINF:-1, BEIN SPORT EXTRA Ñ
 http://user.tvcluboficial.com/stream/nov/nov/753.m3u8
+
+#EXTINF:-1, BEINS SPORT Ñ
+http://user.tvcluboficial.com/stream/nov/nov/761.m3u8
 
 #EXTINF:-1, LOOK SPORTS +
 https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
