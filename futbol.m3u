@@ -9,11 +9,11 @@ http://45.94.31.45/beinm16503/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BEIN PARIS
 http://f15.anfalrou.xyz/live/6161655001/index.m3u8
 
-#EXTINF:-1, MOVISTAR PARIS
-http://per@212.224.98.196:2200/NL/mlcampeon2hd-esp/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==
+#EXTINF:-1, YAYA LIVE PARIS
+https://dyfyspc4moz7b.cloudfront.net/out/v1/b6dacb8a2361439d80f387e7754027b8/index.m3u8
 
-#EXTINF:-1, MOVISTAR CITY
-http://per@212.224.98.196:2200/NL/mlcampeon1hd-esp/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==
+#EXTINF:-1, YAYA LIVE CITY
+https://d1pscwqbp9ftpi.cloudfront.net/out/v1/2551946fe1344ab990c5e8b1e3b0dfb5/index.m3u8
 
 #EXTINF:-1, BEIN CITY
 http://f3.anfalrou.xyz/live/6161949870/index.m3u8
