@@ -9,6 +9,9 @@ http://45.94.31.45/beinm16503/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BEIN PARIS
 http://f15.anfalrou.xyz/live/6161655001/index.m3u8
 
+#EXTINF:-1, BEIN SPORT 1
+http://46.249.32.163:81/fastocloud/hls/2/61aea8be03642dceea273c12/0/master.m3u8
+
 #EXTINF:-1, YAYA LIVE PARIS
 https://dyfyspc4moz7b.cloudfront.net/out/v1/b6dacb8a2361439d80f387e7754027b8/index.m3u8
 
