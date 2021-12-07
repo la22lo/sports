@@ -255,9 +255,6 @@ https://www.wopep.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1, BEIN SPORT 3
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
 
-#EXTINF:-1, FORMULA 1 HD
-https://lon-haproxy.angelthump.com/hls/spf1general/index.m3u8
-
 #EXTINF:-1, Футбол 1
 https://95-213-224-186.livesports24.online/ntvmatchfoot1.m3u8
 
