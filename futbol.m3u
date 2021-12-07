@@ -6,6 +6,15 @@ http://45.94.31.45/beinm16501/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BEIN SPORT 3 LIVE
 http://45.94.31.45/beinm16503/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, MOVISTAR LIGA CAMPEONES
+http://user.tvcluboficial.com/stream/nov/nov/890.m3u8
+
+#EXTINF:-1, MOVISTAR LIGA CAMPEONES 2
+http://user.tvcluboficial.com/stream/nov/nov/893.m3u8
+
+#EXTINF:-1, MOVISTAR LIGA CAMPEONES 
+http://user.tvcluboficial.com/stream/nov/nov/367.m3u8
+
 #EXTINF:-1, BEIN SPORT 3 PREMIUM
 http://f18.anfalrou.xyz/live/61512788870/index.m3u8
 
@@ -546,11 +555,35 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1, FB TV HD
 https://59c7ea6bec1c6.streamlock.net/filbox/fbtv.stream/playlist.m3u8
 
+#EXTINF:-1, ESPN 2 HD
+http://user.tvcluboficial.com/stream/nov/nov/484.m3u8
+
+#EXTINF:-1, ESPN 2 MX
+http://user.tvcluboficial.com/stream/nov/nov/531.m3u8
+
+#EXTINF:-1, ESPN 3 VIVO
+http://user.tvcluboficial.com/stream/nov/nov/485.m3u8
+
+#EXTINF:-1, ESPN HD MX
+http://user.tvcluboficial.com/stream/nov/nov/486.m3u8
+
+#EXTINF:-1, ESPN 2 MX
+http://user.tvcluboficial.com/stream/nov/nov/530.m3u8
+
+#EXTINF:-1, ESPN EXTRA
+http://user.tvcluboficial.com/stream/nov/nov/37.m3u8
+
+#EXTINF:-1, ESPN EXTRA 2
+http://user.tvcluboficial.com/stream/nov/nov/487.m3u8
+
 #EXTINF:-1, FOX SPORTS PREMIUM
 http://user.tvcluboficial.com/stream/nov/nov/658.m3u8
 
 #EXTINF:-1, TNT SPORTS 
 http://user.tvcluboficial.com/stream/nov/nov/509.m3u8
+
+#EXTINF:-1, TNT SPORTS HD
+http://user.tvcluboficial.com/stream/nov/nov/725.m3u8
 
 #EXTINF:-1, CLARO SPORTS
 http://user.tvcluboficial.com/stream/nov/nov/328.m3u8
@@ -569,6 +602,15 @@ https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/in
 
 #EXTINF:-1, TyC SPORT
 http://panel.tured.live:8080/live/Donpepe43/BB96b9dXLwSv/101295.m3u8
+
+#EXTINF:-1, GOL SUD TV
+http://user.tvcluboficial.com/stream/nov/nov/892.m3u8
+
+#EXTINF:-1, GOL SUD TV
+http://user.tvcluboficial.com/stream/nov/nov/514.m3u8
+
+#EXTINF:-1, ESTADIO TV
+http://user.tvcluboficial.com/stream/nov/nov/318.m3u8
 
 #EXTINF:-1,CABLE SPORTS
 https://tv.siete.us/bestcablesports/bestcablesports/index.m3u8
@@ -929,6 +971,9 @@ http://dmtn-tv.com:8080/live/nEc83xV9P/qCuGXKk8MM/77434.m3u8
 
 #EXTINF:-1, SEGUNDA
 https://play.girlupx.cn/live/ballbar_27810.m3u8
+
+#EXTINF:-1, FORMULA 1 TV
+http://user.tvcluboficial.com/stream/nov/nov/192.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
