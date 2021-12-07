@@ -6,6 +6,15 @@ http://45.94.31.45/beinm16501/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BEIN SPORT 3 LIVE
 http://45.94.31.45/beinm16503/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, BEIN PARIS
+http://f15.anfalrou.xyz/live/6161655001/index.m3u8
+
+#EXTINF:-1, BEIN CITY
+http://f3.anfalrou.xyz/live/6161949870/index.m3u8
+
+#EXTINF:-1, MANCHESTER CITY
+https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
+
 #EXTINF:-1, MOVISTAR LIGA CAMPEONES
 http://user.tvcluboficial.com/stream/nov/nov/890.m3u8
 
