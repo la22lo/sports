@@ -102,9 +102,6 @@ http://185.234.111.76/bar7638/tracks-v1a1/mono.m3u8
 #EXTINF:-1, GK SPORT KURD
 http://185.234.111.76/bar7653/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, FOX SPORT
-http://user.tvcluboficial.com/stream/nov/nov/493.m3u8
-
 #EXTINF:-1, BEIN SPORT 1 KURD
 http://185.234.111.76/bar7620/tracks-v1a1/mono.m3u8
 
@@ -608,6 +605,9 @@ http://user.tvcluboficial.com/stream/nov/nov/37.m3u8
 
 #EXTINF:-1, ESPN EXTRA 2
 http://user.tvcluboficial.com/stream/nov/nov/487.m3u8
+
+#EXTINF:-1, FOX SPORT
+http://user.tvcluboficial.com/stream/nov/nov/493.m3u8
 
 #EXTINF:-1, FOX SPORTS PREMIUM
 http://user.tvcluboficial.com/stream/nov/nov/658.m3u8
