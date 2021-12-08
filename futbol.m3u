@@ -15,6 +15,9 @@ http://f3.anfalrou.xyz/live/6161949870/index.m3u8
 #EXTINF:-1, BEIN SPORT 2
 http://46.249.32.163:81/fastocloud/hls/2/61aea93603642dceea273c13/0/master.m3u8
 
+#EXTINF:-1,PPV Event BAYERN - BARÇA
+http://cdn4.cyclingnews.live/hls/Q1.m3u8
+
 #EXTINF:-1, YAYA BARCELONA
 https://d8mk9ontgt3ju.cloudfront.net/out/v1/315f3ee0daa043338bfa5bfcce8f2f33/index.m3u8?from=other&vsid=4a8eaec45c8d1e176a948db365e652019c8af391f76axWEBx0005x1638992683&adsid=3513bfedab711c3e430253ba6bafe747841a493641f4xWEBx0005x1638992683&t=1638992683534&abd=1
 
