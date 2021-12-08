@@ -24,6 +24,9 @@ http://93.152.174.144:4000/play/bein1fr/index.m3u8
 #EXTINF:-1, ESPN BARÇA
 https://edge-11.volume.com/live-hls/amlst:nsin0849-sd-c1fa7fbad069da6db6ea67d99e469b7f1015a2c7b28e9d4ea08b02bd1699e990_trns_h264/chunklist_w544991740_b1848000_t64RlBTOjMwLjA=.m3u8
 
+#EXTINF:-1, BENFICA
+http://cdn3.cyclingnews.live/hls/W3.m3u8
+
 #EXTINF:-1, YAYA SEVILLA
 https://dvnu5sm8xg7ui.cloudfront.net/out/v1/17ce95d067574e25a4659cccd3d8f651/index.m3u8?from=other&vsid=196ab04452d58c0e5af7d6e18d52866658a13f0aa1d6xWEBx0005x1638992598&adsid=530d243a4f37046fd70074815a1100c12e06993b4cfbxWEBx0005x1638992598&t=1638992598887&abd=1
 
