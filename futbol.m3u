@@ -279,6 +279,9 @@ http://user.tvcluboficial.com/stream/nov/nov/753.m3u8
 #EXTINF:-1, BEINS SPORT Ñ
 http://user.tvcluboficial.com/stream/nov/nov/761.m3u8
 
+#EXTINF:-1, LOOK SPORTS HD
+https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&checkedby:iptvcat.com
+
 #EXTINF:-1, LOOK SPORTS +
 https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
 
@@ -286,7 +289,13 @@ https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
 https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8
 
 #EXTINF:-1, LOOK SPORTS 2
+https://stream1.1616.ro:1945/looksport2/livestream/chunklist_w1538106197.m3u8
+
+#EXTINF:-1, LOOK SPORTS 2
 https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8
+
+#EXTINF:-1, LOOK SPORTS 3
+https://stream1.1616.ro:1945/looksport3/livestream/chunklist_w64015557.m3u8
 
 #EXTINF:-1, LOOK SPORTS 3
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
