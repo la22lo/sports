@@ -15,29 +15,20 @@ http://185.191.126.169:80/live/LfPdKKYE9k/yqCMLZS6h5/30617.m3u8
 #EXTINF:-1, MOVISTAR LALIGA
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 
-#EXTINF:-1, MOVISTAR LALIGA
+#EXTINF:-1, BAR TV
 http://185.191.126.169/live/LfPdKKYE9k/yqCMLZS6h5/30612.m3u8
 
 #EXTINF:-1, MOVISTAR LALIGA
 http://185.191.126.169/live/LfPdKKYE9k/yqCMLZS6h5/30640.m3u8?SBN
 
-#EXTINF:-1, MOVISTAR LALIGA
-http://46.249.32.163:81/fastocloud/hls/2/61a16215388e4f7d986073f4/478/master.m3u8
-
-#EXTINF:-1, MOVISTAR LALIGA
-http://31.220.3.170:2095/live/hXZp0zPK/djDM7bPC%20/48768.m3u8
-
-#EXTINF:-1, MOVISTAR LALIGA*
-http://195.154.181.240:8090/live/123/123/38109.m3u8
-
 #EXTINF:-1, MOVISTAR LIGA CAMPEONES
 http://user.tvcluboficial.com/stream/nov/nov/890.m3u8
 
-#EXTINF:-1, MOVISTAR LIGA CAMPEONES 2
-http://user.tvcluboficial.com/stream/nov/nov/893.m3u8
-
 #EXTINF:-1, MOVISTAR LIGA CAMPEONES 
 http://user.tvcluboficial.com/stream/nov/nov/367.m3u8
+
+#EXTINF:-1, MOVISTAR LIGA DE CAMPEONES
+http://46.249.32.163:81/fastocloud/hls/2/61a16215388e4f7d986073f4/478/master.m3u8
 
 #EXTINF:-1, DIRECTV SPORT 1
 http://user.tvcluboficial.com/stream/nov/nov/259.m3u8
