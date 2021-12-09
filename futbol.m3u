@@ -1059,5 +1059,11 @@ http://45.94.31.45/beinm16501/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BEIN SPORT 3 LIVE
 http://45.94.31.45/beinm16503/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 ,BEINSPORT 1Low
+http://arabapps.live:8000/live/mobachir1133/rewrewe/627.ts
+
+#EXTINF:-1,AR:BEINSPORTS-1
+http://arabapps.live:8000/live/mobachir1133/rewrewe/1.ts
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
