@@ -159,6 +159,9 @@ http://23.88.39.50/live/652177700/index.m3u8
 #EXTINF:-1, BEIN SPORT 2 REDIFFUSION MC
 http://23.88.42.157:80/live/652177700/index.m3u8
 
+#EXTINF:-1, BEIN SPORT EXTRA
+http://1.banglokora.xyz/live/996256440/index.m3u8
+
 #EXTINF:-1, Bein1
 https://etus.link/bein1?shareext.m3u8
 
