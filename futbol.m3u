@@ -474,6 +474,15 @@ http://46.34.209.242/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8?per
 #EXTINF:-1, QAZ SPORT 
 http://46.34.209.243:80/btv/SWM/Qazsport_HD/Qazsport_HD_720p_3500kbps.m3u8
 
+#EXTINF:-1, champ1
+https://etus.link/champ1roll?shareext.m3u8
+
+#EXTINF:-1, champ2
+https://etus.link/champ2roll?shareext.m3u8
+
+#EXTINF:-1, champ3
+https://etus.link/champ3roll?shareext.m3u8
+
 #EXTINF:-1, SPORT 1
 https://95-213-224-183.livesports24.online/sport1ua.m3u8
 
