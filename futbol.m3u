@@ -402,6 +402,9 @@ http://rec2.distv.net/live/damaris/123456/143.m3u8
 #EXTINF:-1, Live Sports (pk)
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 
+#EXTINF:-1, CBS SPORTS
+http://198.144.159.43/VndSH5bI_NXX4LleOB-n0w/1639109032/3231322e3134322e3234352e313536/ff38/playlist.m3u8
+
 #EXTINF:-1, TNT SPORTS
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
