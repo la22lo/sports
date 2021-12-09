@@ -6,6 +6,9 @@ http://45.94.31.45/beinm16501/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BEIN SPORT 3 LIVE
 http://45.94.31.45/beinm16503/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, BEIN SPORT 3 LIVE
+http://93.152.174.144:4000/play/bein3ar/index.m3u8
+
 #EXTINF:-1, BEIN SPORT 1
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 
@@ -101,9 +104,6 @@ http://45.94.31.45/beinm16507/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, BEIN SPORT 3 LIVE
 http://tdgu3cz8.rostelekom.xyz/iptv/KKV5969DQS5ZNV/6124/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 3 LIVE
-http://93.152.174.144:4000/play/bein3ar/index.m3u8
 
 #EXTINF:-1, BEIN SPORT 7
 http://93.152.174.144:4000/play/bein7/index.m3u8
