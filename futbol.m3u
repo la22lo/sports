@@ -6,15 +6,6 @@ http://45.94.31.45/beinm16501/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BEIN SPORT 3 LIVE
 http://45.94.31.45/beinm16503/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,PPV Event 
-http://cdn1.cyclingnews.live/hls/M1.m3u8
-
-#EXTINF:-1,PPV Event BAYERN - BARÇA
-http://cdn4.cyclingnews.live/hls/Q1.m3u8
-
-#EXTINF:-1, BENFICA
-http://cdn3.cyclingnews.live/hls/W3.m3u8
-
 #EXTINF:-1, VILLARREAL
 http://cdn3.cyclingnews.live/hls/W2.m3u8
 
