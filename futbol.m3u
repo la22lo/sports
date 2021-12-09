@@ -18,6 +18,9 @@ http://cdn3.cyclingnews.live/hls/W2.m3u8
 #EXTINF:-1,YAYA VILLARREAL
 https://d8mk9ontgt3ju.cloudfront.net/out/v1/315f3ee0daa043338bfa5bfcce8f2f33/index.m3u8
 
+#EXTINF:-1,REAL SOCIEDAD LC
+http://185.191.126.169:80/live/LfPdKKYE9k/yqCMLZS6h5/297567.m3u8
+
 #EXTINF:-1, BEIN SPORT 1
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 
