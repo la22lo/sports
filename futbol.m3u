@@ -12,20 +12,11 @@ http://cdn1.cyclingnews.live/hls/M1.m3u8
 #EXTINF:-1,PPV Event BAYERN - BARÇA
 http://cdn4.cyclingnews.live/hls/Q1.m3u8
 
-#EXTINF:-1, BEIN 
-http://93.152.174.144:4000/play/bein1fr/index.m3u8
-
 #EXTINF:-1, BENFICA
 http://cdn3.cyclingnews.live/hls/W3.m3u8
 
-#EXTINF:-1, YAYA SEVILLA
-https://dvnu5sm8xg7ui.cloudfront.net/out/v1/17ce95d067574e25a4659cccd3d8f651/index.m3u8?from=other&vsid=196ab04452d58c0e5af7d6e18d52866658a13f0aa1d6xWEBx0005x1638992598&adsid=530d243a4f37046fd70074815a1100c12e06993b4cfbxWEBx0005x1638992598&t=1638992598887&abd=1
-
 #EXTINF:-1, VILLARREAL
 http://cdn3.cyclingnews.live/hls/W2.m3u8
-
-#EXTINF:-1, YAYA MANCHESTER
-https://d78skfge4ctwu.cloudfront.net/out/v1/54d3d5d696754ebfbd0faab1a1130f5b/index.m3u8?from=other&vsid=e2fd9a13e3b4374375d6f610f6b98c2cdbbb940f142exWEBx0005x1638992510&adsid=179bfca4cc89025a0224167fe868ddfa0d88d91bba33xWEBx0005x1638992510&t=1638992510806&abd=1
 
 #EXTINF:-1, Футбол 1
 https://bal.varcdn1.ru/lb/m1/index.m3u8
@@ -35,9 +26,6 @@ https://bal.varcdn1.ru/lb/match/index.m3u8?per
 
 #EXTINF:-1, BEIN SPORT 1
 http://46.249.32.163:81/fastocloud/hls/2/61aea8be03642dceea273c12/0/master.m3u8
-
-#EXTINF:-1, ESPN
-https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/V7iDPIgYYnHYVhqS6Q3Rx2dJ0awNCJiP3G-wIGRLwDgJyyc1X1SWw0vvisHknLlWKHISZwzL9tbUj-DbivxChA/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1, MOVISTAR LIGA CAMPEONES
 http://user.tvcluboficial.com/stream/nov/nov/890.m3u8
