@@ -7,28 +7,7 @@ http://45.94.31.45/beinm16501/tracks-v1a1/mono.m3u8
 http://45.94.31.45/beinm16503/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, BEIN SPORT 1
-http://46.249.32.163:81/fastocloud/hls/2/61aea8be03642dceea273c12/0/master.m3u8
-
-#EXTINF:-1, MOVISTAR LIGA CAMPEONES
-http://user.tvcluboficial.com/stream/nov/nov/890.m3u8
-
-#EXTINF:-1, MOVISTAR LIGA CAMPEONES 2
-http://user.tvcluboficial.com/stream/nov/nov/893.m3u8
-
-#EXTINF:-1, MOVISTAR LIGA CAMPEONES 
-http://user.tvcluboficial.com/stream/nov/nov/367.m3u8
-
-#EXTINF:-1, BEIN SPORT 1
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
-
-#EXTINF:-1, MATH 
-https://bal.varcdn1.ru/lb/m3/index.m3u8
-
-#EXTINF:-1, BT SPORTS
-https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
-
-#EXTINF:-1, MATH
-https://wowzaprodhd33-lh.akamaihd.net/i/4df3b8bc_1@90337/master.m3u8?per
 
 #EXTINF:-1, VAMOS TV
 http://185.191.126.169:80/live/LfPdKKYE9k/yqCMLZS6h5/30617.m3u8
@@ -50,6 +29,15 @@ http://31.220.3.170:2095/live/hXZp0zPK/djDM7bPC%20/48768.m3u8
 
 #EXTINF:-1, MOVISTAR LALIGA*
 http://195.154.181.240:8090/live/123/123/38109.m3u8
+
+#EXTINF:-1, MOVISTAR LIGA CAMPEONES
+http://user.tvcluboficial.com/stream/nov/nov/890.m3u8
+
+#EXTINF:-1, MOVISTAR LIGA CAMPEONES 2
+http://user.tvcluboficial.com/stream/nov/nov/893.m3u8
+
+#EXTINF:-1, MOVISTAR LIGA CAMPEONES 
+http://user.tvcluboficial.com/stream/nov/nov/367.m3u8
 
 #EXTINF:-1, DIRECTV SPORT 1
 http://user.tvcluboficial.com/stream/nov/nov/259.m3u8
@@ -233,6 +221,9 @@ https://185-107-80-245.livesports24.online/rusetantaeurasia.m3u8
 
 #EXTINF:-1, BT SPORT ESPN HD
 http://93.152.174.144:4000/play/btsportespn/index.m3u8
+
+#EXTINF:-1, BT SPORTS
+https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 #EXTINF:-1, ARENA SPORT 2 
 http://84.22.33.214/ArenaSport2/mono.m3u8?per
