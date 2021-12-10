@@ -45,30 +45,6 @@ http://user.tvcluboficial.com/stream/nov/nov/259.m3u8
 #EXTINF:-1, DIRECTV SPORT 2
 http://user.tvcluboficial.com/stream/nov/nov/667.m3u8
 
-#EXTINF:-1, MMN HD SPORT KURD
-http://185.234.111.76/bar7642/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,LALIGA TV VAR
-http://go.iptvhn.net:25461/live/iptvm3u/iptvm3u/6683.m3u8
-
-#EXTINF:-1, RENG SPORT KURD
-http://185.234.111.76/bar7667/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, ASO SPORT KURD
-http://185.234.111.76/bar7671/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, NRT SPORT KURD
-http://185.234.111.76/bar7638/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, GK SPORT KURD
-http://185.234.111.76/bar7653/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, BEIN SPORT 1 KURD
-http://185.234.111.76/bar7620/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, BEIN SPORT 1 PREMIUM KURD
-http://185.234.111.76/bar7613/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1, BEIN SPORT 1
 http://45.94.31.45/beinm16501/tracks-v1a2/mono.m3u8
 
@@ -1082,6 +1058,27 @@ http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/13372.ts?checkedby:iptvcat.c
 
 #EXTINF:-1, BEINSPORTAR
 http://93.152.174.144:4000/play/BEINSPORTAR/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1, MMN HD SPORT KURD
+http://185.234.111.76/bar7642/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, RENG SPORT KURD
+http://185.234.111.76/bar7667/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, ASO SPORT KURD
+http://185.234.111.76/bar7671/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, NRT SPORT KURD
+http://185.234.111.76/bar7638/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, GK SPORT KURD
+http://185.234.111.76/bar7653/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, BEIN SPORT 1 KURD
+http://185.234.111.76/bar7620/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, BEIN SPORT 1 PREMIUM KURD
+http://185.234.111.76/bar7613/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, BEIN SPORT 1 LIVE
 http://45.94.31.45/beinm16501/tracks-v1a1/mono.m3u8
