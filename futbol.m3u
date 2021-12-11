@@ -3,14 +3,8 @@
 #EXTINF:-1, BEIN SPORT 1 LIVE AR
 http://93.152.174.144:4000/play/bein3fr/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1, LALIGA
-http://china.iptvlogin.com/live/LfPdKKYE9k/yqCMLZS6h5/30640.m3u8
-
 #EXTINF:-1,S LA LIGA
 http://init.cheches.info/hls/103.m3u8
-
-#EXTINF:-1, LALIGA
-http://china.iptvlogin.com/live/LfPdKKYE9k/yqCMLZS6h5/30641.m3u8
 
 #EXTINF:-1, LALIGA TV
 http://77.247.109.101/hls/A1.m3u8
@@ -26,6 +20,12 @@ https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1, VAMOS TV
 http://185.191.126.169:80/live/LfPdKKYE9k/yqCMLZS6h5/30617.m3u8
+
+#EXTINF:-1, LALIGA
+http://china.iptvlogin.com/live/LfPdKKYE9k/yqCMLZS6h5/30641.m3u8
+
+#EXTINF:-1, LALIGA
+http://china.iptvlogin.com/live/LfPdKKYE9k/yqCMLZS6h5/30640.m3u8
 
 #EXTINF:-1, MOVISTAR LALIGA
 http://129626121870262413.meluckys.xyz:80/F08063/4389854/262413
