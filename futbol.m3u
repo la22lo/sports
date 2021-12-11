@@ -36,6 +36,9 @@ http://45.94.31.45/bar16502/tracks-v1a1/mono.m3u8
 #EXTINF:-1, VAMOS TV
 http://185.191.126.169:80/live/LfPdKKYE9k/yqCMLZS6h5/30617.m3u8
 
+#EXTINF:-1, VAMOS TV
+http://185.191.126.169:80/live/LfPdKKYE9k/yqCMLZS6h5/30618.m3u8
+
 #EXTINF:-1, LALIGA
 http://china.iptvlogin.com/live/LfPdKKYE9k/yqCMLZS6h5/30641.m3u8
 
