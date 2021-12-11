@@ -51,6 +51,9 @@ http://46.249.32.163:81/fastocloud/hls/2/61a16215388e4f7d986073f4/478/master.m3u
 #EXTINF:-1, DIRECTV SPORT 1
 http://user.tvcluboficial.com/stream/nov/nov/259.m3u8
 
+#EXTINF:-1, DIRECTV SPORT 1
+http://146.0.43.38:8000/play/a005/index.m3u8
+
 #EXTINF:-1, DIRECTV SPORT 2
 http://user.tvcluboficial.com/stream/nov/nov/667.m3u8
 
