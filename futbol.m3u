@@ -75,6 +75,9 @@ http://146.0.43.38:8000/play/a005/index.m3u8
 #EXTINF:-1, DIRECTV SPORT 2
 http://user.tvcluboficial.com/stream/nov/nov/667.m3u8
 
+#EXTINF:-1, DIRECTV SPORT
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2690.m3u8
+
 #EXTINF:-1, BEIN SPORT AR 2
 http://45.94.31.45/bar16502/tracks-v1a1/mono.m3u8
 
