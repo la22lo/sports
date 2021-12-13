@@ -174,6 +174,12 @@ https://185-107-80-245.livesports24.online/rusetantaeurasia.m3u8
 #EXTINF:-1, ARENA SPORT 2 
 http://84.22.33.214/ArenaSport2/mono.m3u8?per
 
+#EXTINF:-1,BT SPORT HD 1
+http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2505/index.m3u8
+
+#EXTINF:-1,BT SPORT HD 2
+http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2506/index.m3u8
+
 #EXTINF:-1,BT SPORT 1
 https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_1_720p/chunklist.m3u8
 
@@ -260,6 +266,9 @@ https://77-247-178-24.livesports24.online/ntvmatchfoot1.m3u8
 
 #EXTINF:-1, VARCHAT 5
 http://bal.varcdn1.ru/lb/b5/index.m3u8
+
+#EXTINF:-1, + SPORT DIRECT
+http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2502/index.m3u8
 
 #EXTINF:-1 ,ESPN 2 DUTCH
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2553/index.m3u8
@@ -486,6 +495,12 @@ http://user.tvcluboficial.com/stream/nov/nov/318.m3u8
 #EXTINF:-1,CABLE SPORTS
 https://tv.siete.us/bestcablesports/bestcablesports/index.m3u8
 
+#EXTINF:-1,STARS SPORT 1
+http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2508/index.m3u8
+
+#EXTINF:-1,STARS SPORT 2
+http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2507/index.m3u8
+
 #EXTINF:-1, SKY SPORTS 24
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 
@@ -599,6 +614,15 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
 #EXTINF:-1, IN SPORTS
 https://sc.id-tv.kz/INSPORTHD_36_37.m3u8
+
+#EXTINF:-1, ON TIME SPORTS
+http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2512/index.m3u8
+
+#EXTINF:-1, NOVA SPORT
+http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2514/index.m3u8
+
+#EXTINF:-1, V SPORT EXTRA
+http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2515/index.m3u8
 
 #EXTINF:-1, ASTRAK RUS HD
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v5a1/index.m3u8 
