@@ -24,6 +24,9 @@ http://45.94.31.45/bar16502/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BEIN SPORT 1 TRUE VISIONS
 https://smart-tv.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8
 
+#EXTINF:-1, BEIN SPORT 3
+https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/As2BoI-_2BqGsMqnK3Cq07mKNDOjqOTIvs4ZKiQbhhOx5r8kl6gqz2rvmIvCHhbfygnMZX1co6U7EQ04VLNT_w/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_highlatency.m3u8
+
 #EXTINF:-1, VAMOS TV
 http://185.236.229.101:8005/play/a03b
 
@@ -41,6 +44,9 @@ http://185.191.126.169:80/live/LfPdKKYE9k/yqCMLZS6h5/30618.m3u8
 
 #EXTINF:-1, MOVISTAR LALIGA
 http://129626121870262413.meluckys.xyz:80/F08063/4389854/262413
+
+#EXTINF:-1, MOVISTAR LALIGA
+http://185.191.126.169:80/live/LfPdKKYE9k/yqCMLZS6h5/30640.m3u8
 
 #EXTINF:-1, LALIGA TV BAR
 http://185.191.126.169:80/live/LfPdKKYE9k/yqCMLZS6h5/30612.m3u8
