@@ -12,6 +12,9 @@ http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6124/index.m3u
 #EXTINF:-1,S BEIN SPORT 3 LIVE
 http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
 
+#EXTINF:-1, S LALIGA TV
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6575
+
 #EXTINF:-1, LA LIGA TV
 http://cdn2.cyclingnews.live/hls/P1.m3u8
 
@@ -234,6 +237,9 @@ https://smart-tv.livedoomovie.com:4431/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1, BEIN SPORT EXTRA
 https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
 
+#EXTINF:-1, BEIN SPORT EXTRA 1
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7195
+
 #EXTINF:-1, BEIN SPORT EXTRA Ñ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
@@ -242,6 +248,9 @@ http://user.tvcluboficial.com/stream/nov/nov/753.m3u8
 
 #EXTINF:-1, BEINS SPORT Ñ
 http://user.tvcluboficial.com/stream/nov/nov/761.m3u8
+
+#EXTINF:-1, BEIN SPORT MAX
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6748
 
 #EXTINF:-1, LOOK SPORTS HD
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&checkedby:iptvcat.com
@@ -344,6 +353,9 @@ https://95-213-172-220.livesports24.online/fooootball2.m3u8
 
 #EXTINF:-1, MATH PREMIER
 https://95-213-224-180.livesports24.online/mpremierrus.m3u8
+
+#EXTINF:-1, S PREMIER LEAGUE
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6574
 
 #EXTINF:-1, TRUE PREMIER FUTBOL HD2
 https://www.wopep.com/02_PremierHD2_720p/chunklist.m3u8
@@ -461,6 +473,18 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #EXTINF:-1, FB TV HD
 https://59c7ea6bec1c6.streamlock.net/filbox/fbtv.stream/playlist.m3u8
+
+#EXTINF:-1, TSN 1
+http://iptv.tvmalaysia.cc:80/penang174/penang174/8923
+
+#EXTINF:-1, TSN 2
+http://iptv.tvmalaysia.cc:80/penang174/penang174/8924
+
+#EXTINF:-1, TSN 3
+http://iptv.tvmalaysia.cc:80/penang174/penang174/8925
+
+#EXTINF:-1, TSN 4
+http://iptv.tvmalaysia.cc:80/penang174/penang174/8926
 
 #EXTINF:-1, ESPN 2 HD
 http://user.tvcluboficial.com/stream/nov/nov/484.m3u8
@@ -587,6 +611,24 @@ https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist
 
 #EXTINF:-1, MOROC SPORTS
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+
+#EXTINF:-1, ASTRO ARENA MALASIA
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6707
+
+#EXTINF:-1, ASTRO ARENA 2
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6792
+
+#EXTINF:-1, ASTRO SUPERSPORT 1
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6708
+
+#EXTINF:-1, ASTRO SUPERSPORT 2
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6710
+
+#EXTINF:-1, ASTRO SUPERSPORT 3
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6711
+
+#EXTINF:-1, ASTRO SUPERSPORT 3
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6712
 
 #EXTINF:-1, T SPORTS
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
