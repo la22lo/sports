@@ -1,13 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1, BEIN SPORT 1 LIVE
-http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6123/index.m3u
-
 #EXTINF:-1,S BEIN SPORT 3 LIVE
 http://45.94.31.45/bar16503/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,S BEIN SPORT 3 LIVE
-http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6124/index.m3u
 
 #EXTINF:-1,S BEIN SPORT 3 LIVE
 http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
@@ -96,9 +90,6 @@ http://user.tvcluboficial.com/stream/nov/nov/259.m3u8
 #EXTINF:-1, DIRECTV SPORT 2
 http://user.tvcluboficial.com/stream/nov/nov/667.m3u8
 
-#EXTINF:-1, BEIN SPORT AR 1
-http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6123/index.m3u
-
 #EXTINF:-1, BEIN SPORT AR 2
 http://45.94.31.45/bar16502/tracks-v1a1/mono.m3u8
 
@@ -108,23 +99,11 @@ http://45.94.31.45/bar16503/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BEIN SPORT AR 4
 http://45.94.31.45/bar16504/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, BEIN SPORT AR 4
-http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6125/index.m3u
-
 #EXTINF:-1, BEIN SPORT AR 5
 http://45.94.31.45/bar16505/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, BEIN SPORT AR 5
-http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6126/index.m3u
-
 #EXTINF:-1, BEIN SPORT AR 6
 http://45.94.31.45/bar16506/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, BEIN SPORT AR 6
-http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6127/index.m3u
-
-#EXTINF:-1, BEIN SPORT AR 7
-http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6128/index.m3u
 
 #EXTINF:-1, beIN Sports 1 French
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2499/index.m3u8
@@ -134,9 +113,6 @@ http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2500/index.m3u8
 
 #EXTINF:-1, beIN Sports 3 French
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2501/index.m3u8
-
-#EXTINF:-1, BEIN SPORT HD ENG
-http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6132/index.m3u
 
 #EXTINF:-1, BEIN SPORT 1 PREMIUM
 http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
@@ -1031,6 +1007,27 @@ http://93.152.174.144:4000/play/bein3ar/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1, LALIGA TV
 http://77.247.109.101/hls/A1.m3u8
+
+#EXTINF:-1, BEIN SPORT 1 LIVE
+http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6123/index.m3u
+
+#EXTINF:-1,S BEIN SPORT 3 LIVE
+http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6124/index.m3u
+
+#EXTINF:-1, BEIN SPORT AR 4
+http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6125/index.m3u
+
+#EXTINF:-1, BEIN SPORT AR 5
+http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6126/index.m3u
+
+#EXTINF:-1, BEIN SPORT AR 6
+http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6127/index.m3u
+
+#EXTINF:-1, BEIN SPORT AR 7
+http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6128/index.m3u
+
+#EXTINF:-1, BEIN SPORT HD ENG
+http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6132/index.m3u
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
