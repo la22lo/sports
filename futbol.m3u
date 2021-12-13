@@ -570,8 +570,11 @@ http://ott-cdn.ucom.am/s4/04.m3u8
 #EXTINF:-1, PREMIUM ARMENIA TV
 http://ott-cdn.ucom.am/s83/03.m3u8
 
-#EXTINF:-1, ISRAEL SPORTS
+#EXTINF:-1, ISRAEL SPORTS 1
 https://zg9ub-3rjb3b-5cg44aa-pktraom.googglecdns.com/edu/ch10/playlist.m3u8
+
+#EXTINF:-1, ISRAEL SPORTS 2
+https://zg9ub-3rjb3b-5cg44aa-pktraom.googglecdns.com/edu/ch12/playlist.m3u8
 
 #EXTINF:-1, VIASAT 
 https://persik.tv/stream/3602/287583/10249.m3u8
