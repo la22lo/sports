@@ -36,6 +36,9 @@ https://smart-tv.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8
 #EXTINF:-1, BEIN SPORT 3
 https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/As2BoI-_2BqGsMqnK3Cq07mKNDOjqOTIvs4ZKiQbhhOx5r8kl6gqz2rvmIvCHhbfygnMZX1co6U7EQ04VLNT_w/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_highlatency.m3u8
 
+#EXTINF:-1, BEIN SPORT 4
+http://str.smartip-tv.net:8888/BEIN_SPORT_4_HD/index.m3u8?token=test
+
 #EXTINF:-1, VAMOS TV
 http://185.236.229.101:8005/play/a03b
 
