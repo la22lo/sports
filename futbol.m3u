@@ -1,31 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1, BEIN SPORT 1 LIVE AR
-http://93.152.174.144:4000/play/bein3fr/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1, BEIN SPORT 1
+https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 
 #EXTINF:-1,S BEIN SPORT 3 LIVE
 http://45.94.31.45/bar16503/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, BEIN SPORT 3 LIVE AR
-http://93.152.174.144:4000/play/bein3ar/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 3 LIVE AR
-http://93.152.174.144:4000/play/bein3ar/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1, S LALIGA
+http://185.53.89.183/hls/ssla.m3u8
 
 #EXTINF:-1, LALIGA TV
 http://77.247.109.101/hls/A1.m3u8
 
-#EXTINF:-1,S LA LIGA
-http://init.cheches.info/hls/103.m3u8
-
-#EXTINF:-1, S LALIGA
-http://185.53.89.183/hls/ssla.m3u8
-
 #EXTINF:-1, BEIN SPORT 1
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
-
-#EXTINF:-1, S LALIGA live
-http://194.67.196.19:80/hls/103.m3u8?mvk
 
 #EXTINF:-1, BEIN SPORT 2
 https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
@@ -87,9 +75,6 @@ http://46.249.32.163:81/fastocloud/hls/2/61a16215388e4f7d986073f4/478/master.m3u
 #EXTINF:-1, DIRECTV SPORT 1
 http://user.tvcluboficial.com/stream/nov/nov/259.m3u8
 
-#EXTINF:-1, DIRECTV SPORT 1
-http://146.0.43.38:8000/play/a005/index.m3u8
-
 #EXTINF:-1, DIRECTV SPORT 2
 http://user.tvcluboficial.com/stream/nov/nov/667.m3u8
 
@@ -111,68 +96,17 @@ http://45.94.31.45/bar16505/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BEIN SPORT AR 6
 http://45.94.31.45/bar16506/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, BEIN SPORT HD
-http://93.152.174.144:4000/play/BEINSPORTAR/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 1 FRANCIA
-http://93.152.174.144:4000/play/bein1fr/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 2 FRANCIA
-http://93.152.174.144:4000/play/bein2fr/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 3 FRANCIA
-http://93.152.174.144:4000/play/bein3fr/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 7
-http://93.152.174.144:4000/play/bein7/index.m3u8
-
-#EXTINF:-1, BEIN HD SPORT
-http://185.234.111.76/bar7642/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, beIN Sports 1 English
-https://236s.short.gy/DreamTV/Bein_1.m3u8
-
-#EXTINF:-1, beIN Sports 3 English
-https://236s.short.gy/DreamTV/Bein3.m3u8
-
-#EXTINF:-1, BEIN SPORT 4 LIVE
-http://45.94.31.45/beinm16504/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, BEIN SPORT 5 LIVE
-http://45.94.31.45/beinm16505/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1, beIN Sports 1 French
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2499/index.m3u8
 
 #EXTINF:-1, beIN Sports 2 French
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2500/index.m3u8
 
-#EXTINF:-1, beIN Sports 2 French
-http://93.152.174.144:4000/play/bein2fr/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1, beIN Sports 2 French
-http://23.88.39.50:80/live/652177700/index.m3u8
-
 #EXTINF:-1, beIN Sports 3 French
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2501/index.m3u8
 
 #EXTINF:-1,Bein Sports 1 HD FR
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
-
-#EXTINF:-1,Bein Sports 2 HD FR
-http://93.152.174.144:4000/play/bein2fr/index.m3u8
-
-#EXTINF:-1,Bein Sports 3 HD FR
-http://93.152.174.144:4000/play/bein3fr/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 2 REDIFFUSION MC
-http://23.88.39.50/live/652177700/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 2 REDIFFUSION MC
-http://23.88.42.157:80/live/652177700/index.m3u8
-
-#EXTINF:-1, BEIN SPORT EXTRA
-http://1.banglokora.xyz/live/996256440/index.m3u8
 
 #EXTINF:-1, Satanta sports1 rusia
 https://185-106-121-77.livesports24.online/rusetantaeurasia.m3u8
@@ -213,9 +147,6 @@ https://185-106-121-77.livesports24.online/belarusss5.m3u8
 #EXTINF:-1, BIELORUSIA 5HD
 https://95-213-224-181.livesports24.online/belarusss5.m3u8
 
-#EXTINF:-1, ФУТБОЛ1
-https://95-213-224-180.livesports24.online/uafootballua1.m3u8
-
 #EXTINF:-1, ФУТБОЛ2
 https://95-213-224-180.livesports24.online/fooootball2.m3u8
 
@@ -224,9 +155,6 @@ https://95-213-224-180.livesports24.online/football3ua.m3u8
 
 #EXTINF:-1, SETANTA LIVE
 https://bal.varcdn1.ru/lb/setantasport/index.m3u8
-
-#EXTINF:-1, SETANTA LIVE
-https://srv05.varcdn1.ru/setanta2/index.m3u8
 
 #EXTINF:-1, SETANTA SPORT 1
 https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
@@ -242,9 +170,6 @@ https://bal.varcdn1.ru/lb/setanta2/index.m3u8
 
 #EXTINF:-1, SETANTA SPORT 1
 https://185-107-80-245.livesports24.online/rusetantaeurasia.m3u8
-
-#EXTINF:-1, BT SPORT ESPN HD
-http://93.152.174.144:4000/play/btsportespn/index.m3u8
 
 #EXTINF:-1, BT SPORTS
 https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
@@ -1119,8 +1044,17 @@ http://45.94.31.45/beinm16501/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BEIN SPORT 3 LIVE
 http://45.94.31.45/beinm16503/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, BEIN SPORT 1 LIVE AR
+http://93.152.174.144:4000/play/bein3fr/index.m3u8?checkedby:iptvcat.com
+
 #EXTINF:-1, BEIN SPORT 4 LIVE AR
 http://93.152.174.144:4000/play/bein7/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1, BEIN SPORT 3 LIVE AR
+http://93.152.174.144:4000/play/bein3ar/index.m3u8
+
+#EXTINF:-1, BEIN SPORT 3 LIVE AR
+http://93.152.174.144:4000/play/bein3ar/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
