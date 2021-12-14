@@ -198,6 +198,12 @@ http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2505/index.m3u8
 #EXTINF:-1,BT SPORT HD 1
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 
+#EXTINF:-1,BT SPORT 1
+http://pro-unibox.com:25461/EG/Italy1/210
+
+#EXTINF:-1,BT SPORT 2
+http://pro-unibox.com:25461/EG/Italy1/212
+
 #EXTINF:-1,BT SPORT HD 2
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2506/index.m3u8
 
@@ -209,6 +215,9 @@ https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_1_720p/chunklist.m3u8
 
 #EXTINF:-1,BT SPORT 2
 https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
+
+#EXTINF:-1,BT SPORT 3
+http://pro-unibox.com:25461/EG/Italy1/213
 
 #EXTINF:-1, SPORTTV 1
 https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
@@ -515,6 +524,9 @@ http://pro-unibox.com:25461/EG/Italy1/166
 
 #EXTINF:-1, ART SPORT 1
 http://pro-unibox.com:25461/EG/Italy1/173
+
+#EXTINF:-1, ART SPORT 2
+http://pro-unibox.com:25461/EG/Italy1/174
 
 #EXTINF:-1, TSN 1
 http://iptv.tvmalaysia.cc:80/penang174/penang174/8923
