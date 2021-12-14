@@ -9,15 +9,6 @@ http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
 #EXTINF:-1,COPA CELTA
 https://play.girlupx.cn/live/ballbar_22240.m3u8?per
 
-#EXTINF:-1,COPA huesca
-http://198.144.159.40/6CMIOuHcPphBv9sN8f3_NA/1639536990/37392e3135342e37382e323037/ff111/playlist.m3u8
-
-#EXTINF:-1,COPA ZARAGOZA
-http://198.144.159.40/Dlb2RXE1Uymo9CZmxWfezA/1639536884/37392e3135342e37382e323037/ff112/playlist.m3u8
-
-#EXTINF:-1,COPA MALAGA
-http://198.144.159.40/6_WSeiwde-ns8tmKr05Ejw/1639537109/37392e3135342e37382e323037/ff113/playlist.m3u8
-
 #EXTINF:-1, S LALIGA TV
 http://iptv.tvmalaysia.cc:80/penang174/penang174/6575
 
