@@ -6,9 +6,6 @@ http://45.94.31.45/bar16503/tracks-v1a1/mono.m3u8
 #EXTINF:-1,S BEIN SPORT 3 LIVE
 http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
 
-#EXTINF:-1,COPA LEVANTE DZN 3
-http://129626121870228394.meluckys.xyz:80/F08063/4389854/228394
-
 #EXTINF:-1, S LALIGA TV
 http://iptv.tvmalaysia.cc:80/penang174/penang174/6575
 
