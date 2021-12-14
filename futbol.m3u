@@ -540,6 +540,18 @@ http://iptv.tvmalaysia.cc:80/penang174/penang174/8925
 #EXTINF:-1, TSN 4
 http://iptv.tvmalaysia.cc:80/penang174/penang174/8926
 
+#EXTINF:-1, SK1
+http://pro-unibox.com:25461/EG/Italy1/182
+
+#EXTINF:-1, SK2
+http://pro-unibox.com:25461/EG/Italy1/183
+
+#EXTINF:-1, SK3
+http://pro-unibox.com:25461/EG/Italy1/184
+
+#EXTINF:-1, SK4
+http://pro-unibox.com:25461/EG/Italy1/186
+
 #EXTINF:-1, ESPN 2 HD
 http://user.tvcluboficial.com/stream/nov/nov/484.m3u8
 
