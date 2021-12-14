@@ -9,6 +9,9 @@ http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
 #EXTINF:-1,COPA CELTA
 https://play.girlupx.cn/live/ballbar_22240.m3u8?per
 
+#EXTINF:-1,COPA ALAVES
+http://185.134.22.131:8080/live/Carlos123/Carlos123/38638.m3u8
+
 #EXTINF:-1, S LALIGA TV
 http://iptv.tvmalaysia.cc:80/penang174/penang174/6575
 
