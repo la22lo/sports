@@ -6,11 +6,8 @@ http://45.94.31.45/bar16503/tracks-v1a1/mono.m3u8
 #EXTINF:-1,S BEIN SPORT 3 LIVE
 http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
 
-#EXTINF:-1,COPA CELTA
-https://play.girlupx.cn/live/ballbar_22240.m3u8?per
-
-#EXTINF:-1,COPA ALAVES
-http://185.134.22.131:8080/live/Carlos123/Carlos123/38638.m3u8
+#EXTINF:-1,COPA LEVANTE DZN 3
+http://129626121870228394.meluckys.xyz:80/F08063/4389854/228394
 
 #EXTINF:-1, S LALIGA TV
 http://iptv.tvmalaysia.cc:80/penang174/penang174/6575
