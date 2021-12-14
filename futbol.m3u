@@ -255,6 +255,9 @@ https://stream1.1616.ro:1945/looksport3/livestream/chunklist_w64015557.m3u8
 #EXTINF:-1, LOOK SPORTS 3
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
 
+#EXTINF:-1, GEO SUPER
+http://208.86.19.21/725.stream/index.m3u8
+
 #EXTINF:-1, BEIN SPORT 3 TRUE VISION
 https://www.wopep.com/02_PremierHD4_720p/chunklist.m3u8
 
@@ -417,8 +420,11 @@ https://etus.link/champ2roll?shareext.m3u8
 #EXTINF:-1, champ3
 https://etus.link/champ3roll?shareext.m3u8
 
-#EXTINF:-1, PTV SPORTS
+#EXTINF:-1, PTV SPORTS 1
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
+
+#EXTINF:-1, PTV SPORTS 2
+http://208.86.19.21/610.stream/index.m3u8
 
 #EXTINF:-1, SPORT 1
 https://95-213-224-183.livesports24.online/sport1ua.m3u8
