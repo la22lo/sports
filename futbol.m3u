@@ -495,6 +495,15 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1, FB TV HD
 https://59c7ea6bec1c6.streamlock.net/filbox/fbtv.stream/playlist.m3u8
 
+#EXTINF:-1, O2 LIVE
+http://pro-unibox.com:25461/EG/Italy1/155
+
+#EXTINF:-1, O3 LIVE
+http://pro-unibox.com:25461/EG/Italy1/157
+
+#EXTINF:-1, O4 LIVE
+http://pro-unibox.com:25461/EG/Italy1/159
+
 #EXTINF:-1, TSN 1
 http://iptv.tvmalaysia.cc:80/penang174/penang174/8923
 
