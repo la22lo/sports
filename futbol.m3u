@@ -186,8 +186,14 @@ http://84.22.33.214/ArenaSport2/mono.m3u8?per
 #EXTINF:-1,BT SPORT HD 1
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2505/index.m3u8
 
+#EXTINF:-1,BT SPORT HD 1
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+
 #EXTINF:-1,BT SPORT HD 2
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2506/index.m3u8
+
+#EXTINF:-1,BT SPORT HD 2
+http://93.152.174.144:4000/play/btsport2/index.m3u8
 
 #EXTINF:-1,BT SPORT 1
 https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_1_720p/chunklist.m3u8
