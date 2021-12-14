@@ -417,6 +417,9 @@ https://etus.link/champ2roll?shareext.m3u8
 #EXTINF:-1, champ3
 https://etus.link/champ3roll?shareext.m3u8
 
+#EXTINF:-1, PTV SPORTS
+http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
+
 #EXTINF:-1, SPORT 1
 https://95-213-224-183.livesports24.online/sport1ua.m3u8
 
