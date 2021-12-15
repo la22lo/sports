@@ -19,9 +19,6 @@ http://init.cheches.info/hls/103.m3u8
 http://45.141.56.43/file/0d27762222e3c38b79e1de6c8cf8aa63fcbfe29e4e3cd5ceebd60c4930a9532eb500cae1cc14ee6b920d46f444efa5f9/playlist.m3u8
 
 #EXTINF:-1, COPA REAL SOC
-http://mydmtn.tv:8080/live/nEc83xV9P/qCuGXKk8MM/30200.m3u8
-
-#EXTINF:-1, COPA REAL SOC
 http://45.141.56.43/file/ed0b740f4ef1cc4ebc1331b39427281c96ace1f6d03dd123ea81d5559fbe8b1757042522e06c297f991ef1c81cc0aea89c158a1400b89fa913d955db87679fd9/playlist.m3u8
 
 #EXTINF:-1, COPA LEGANES
