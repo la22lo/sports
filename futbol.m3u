@@ -1023,18 +1023,6 @@ http://cdn3.cyclingnews.live/hls/W1.m3u8
 #EXTINF:-1, SUPERSPORT CHAMPIONS
 http://cdn3.cyclingnews.live/hls/W1.m3u8?SBN
 
-#EXTINF:-1,DAZN 1
-http://dmtn-tv.com:8080/live/nEc83xV9P/qCuGXKk8MM/30200.m3u8
-
-#EXTINF:-1,DAZN 2
-http://dmtn-tv.com:8080/live/nEc83xV9P/qCuGXKk8MM/5023.m3u8
-
-#EXTINF:-1, DAZN 3
-http://dmtn-tv.com:8080/live/nEc83xV9P/qCuGXKk8MM/199815.m3u8
-
-#EXTINF:-1,DAZN 4
-http://dmtn-tv.com:8080/live/nEc83xV9P/qCuGXKk8MM/77434.m3u8
-
 #EXTINF:-1, FORMULA 1 TV
 http://user.tvcluboficial.com/stream/nov/nov/192.m3u8
 
