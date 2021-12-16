@@ -243,6 +243,9 @@ http://93.152.174.144:4000/play/btsport1/index.m3u8
 #EXTINF:-1,BT SPORT 1
 http://pro-unibox.com:25461/EG/Italy1/210
 
+#EXTINF:-1,BT SPORT 1
+https://play.zkshuye.cn/live/hd-en-1-3559716.m3u8
+
 #EXTINF:-1,BT SPORT 2
 http://pro-unibox.com:25461/EG/Italy1/212
 
@@ -396,6 +399,9 @@ https://smart-tv.livedoomovie.com:4431/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1, Premier Football HD 4 (TH)
 https://smart-tv.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8
 
+#EXTINF:-1, AU SPORTS LIVE HD
+http://163.172.50.58:8090/Calcio/3/index.m3u8
+
 #EXTINF:-1, ESPN EXTRA
 http://rec2.distv.net/live/damaris/123456/145.m3u8
 
@@ -488,6 +494,9 @@ https://etus.link/champ3roll?shareext.m3u8
 
 #EXTINF:-1, PTV SPORTS 1
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
+
+#EXTINF:-1, PTV SPORTS 1
+http://163.172.50.58:8090/Calcio/1/index.m3u8
 
 #EXTINF:-1, PTV SPORTS 2
 http://208.86.19.21/610.stream/index.m3u8
