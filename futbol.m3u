@@ -99,6 +99,9 @@ http://user.tvcluboficial.com/stream/nov/nov/367.m3u8
 #EXTINF:-1, MOVISTAR LIGA DE CAMPEONES
 http://46.249.32.163:81/fastocloud/hls/2/61a16215388e4f7d986073f4/478/master.m3u8
 
+#EXTINF:-1, BEIN SPORT AR 1
+http://init.cheches.info:80/hls/103.m3u8
+
 #EXTINF:-1, BEIN SPORT AR 2
 http://45.94.31.45/bar16502/tracks-v1a1/mono.m3u8
 
@@ -113,6 +116,9 @@ http://45.94.31.45/bar16505/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, BEIN SPORT AR 6
 http://45.94.31.45/bar16506/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, BEIN SPORT 2 PREMIUM
+http://init.cheches.info:80/hls/102.m3u8
 
 #EXTINF:-1, beIN Sports 1 French
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2499/index.m3u8
@@ -657,6 +663,9 @@ http://pro-unibox.com:25461/EG/Italy1/184
 #EXTINF:-1, SK4
 http://pro-unibox.com:25461/EG/Italy1/186
 
+#EXTINF:-1, ESPN LIVE
+http://init.cheches.info:80/hls/112.m3u8
+
 #EXTINF:-1, ESPN 2 HD
 http://user.tvcluboficial.com/stream/nov/nov/484.m3u8
 
@@ -1196,6 +1205,21 @@ http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6128/index.m3u
 
 #EXTINF:-1, BEIN SPORT HD ENG
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6132/index.m3u
+
+#EXTINF:-1, EVENT 1
+http://init.cheches.info:80/hls/110.m3u8
+
+#EXTINF:-1, EVENT 2
+http://init.cheches.info:80/hls/109.m3u8
+
+#EXTINF:-1, EVENT 3
+http://init.cheches.info:80/hls/108.m3u8
+
+#EXTINF:-1, EVENT 3
+http://init.cheches.info:80/hls/107.m3u8
+
+#EXTINF:-1, EVENT 4
+http://init.cheches.info:80/hls/105.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
