@@ -525,11 +525,23 @@ http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_
 #EXTINF:-1,BEIN SPORT 1 TUR
 http://pro-unibox.com:25461/EG/Italy1/539
 
+#EXTINF:-1,BEIN SPORT 1 TUR
+https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann7/chunklist.m3u8
+
+#EXTINF:-1,BEIN SPORT 1 TUR
+https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann2/chunklist.m3u8
+
 #EXTINF:-1,BEIN SPORT 2 TUR
 http://pro-unibox.com:25461/EG/Italy1/540
 
+#EXTINF:-1,BEIN SPORT 2 TUR
+https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann3/chunklist.m3u8
+
 #EXTINF:-1,BEIN SPORT 3 TUR
 http://pro-unibox.com:25461/EG/Italy1/541
+
+#EXTINF:-1,BEIN SPORT 4 TUR
+https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann5/chunklist.m3u8
 
 #EXTINF:-1,BEIN SPORT HABER
 https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann8/chunklist.m3u8
