@@ -528,6 +528,9 @@ http://pro-unibox.com:25461/EG/Italy1/540
 #EXTINF:-1,BEIN SPORT 3 TUR
 http://pro-unibox.com:25461/EG/Italy1/541
 
+#EXTINF:-1,BEIN SPORT HABER
+https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann8/chunklist.m3u8
+
 #EXTINF:-1,BEIN SPORT 4 TUR
 http://pro-unibox.com:25461/EG/Italy1/542
 
@@ -546,8 +549,32 @@ http://ip.spybox.xyz:8000/live/S11Sxdvb2909x/s11SxDVB2909x/8.m3u8
 #EXTINF:-1, S SPORT 2 CANLI
 http://ip.spybox.xyz:8000/live/S11Sxdvb2909x/s11SxDVB2909x/9.m3u8
 
+#EXTINF:-1,TIVIBU SPORT 1
+https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann9/chunklist.m3u8
+
+#EXTINF:-1,TIVIBU SPORT 2
+https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann10/chunklist.m3u8
+
+#EXTINF:-1,TIVIBU SPORT 3
+https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann11/chunklist.m3u8
+
+#EXTINF:-1,SPORT SMART HD 1
+https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann12/chunklist.m3u8
+
+#EXTINF:-1,SPORT SMART HD 2
+https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann13/chunklist.m3u8
+
 #EXTINF:-1, A SPORT CANLI
 https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
+
+#EXTINF:-1, SPORT CANLI
+https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann14/chunklist.m3u8
+
+#EXTINF:-1, SPORT CANLI 2
+https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann15/chunklist.m3u8
+
+#EXTINF:-1, TRT SPORT CANLI 
+https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann20/chunklist.m3u8
 
 #EXTINF:-1, SPORTV TUR
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
