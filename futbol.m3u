@@ -123,6 +123,9 @@ http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2500/index.m3u8
 #EXTINF:-1, beIN Sports 3 French
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2501/index.m3u8
 
+#EXTINF:-1, beIN Sports 2 ENGLISH
+https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann27/chunklist.m3u8
+
 #EXTINF:-1, BEIN SPORT 1 PREMIUM
 http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
 
