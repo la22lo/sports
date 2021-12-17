@@ -21,6 +21,9 @@ http://cdn2.cyclingnews.live/hls/P1.m3u8
 #EXTINF:-1, S LALIGA
 http://init.cheches.info/hls/103.m3u8
 
+#EXTINF:-1, Bein Sports 3 AR
+http://93.152.174.144:4000/play/bein3ar/index.m3u8?checkedby:iptvcat.com
+
 #EXTINF:-1, SUPERSPORT
 http://194.67.196.19:80/hls/103.m3u8
 
@@ -1106,9 +1109,6 @@ http://93.152.174.144:4000/play/bein4ar/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1, Bein Sports 2 FR
 http://93.152.174.144:4000/play/bein2fr/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1, Bein Sports 3 AR
-http://93.152.174.144:4000/play/bein3ar/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1, Bein Sports 3 FR
 http://93.152.174.144:4000/play/bein3fr/index.m3u8?checkedby:iptvcat.com
