@@ -54,29 +54,14 @@ http://45.94.31.45/bar16502/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BEIN SPORT 1 TRUE VISIONS
 https://smart-tv.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8
 
-#EXTINF:-1, ONE HD LIVE
-https://streamalkasscustom.azureedge.net:443/livehttporigin/smil:alkass1.smil/chunklist_b2065536_sleng.m3u8?per
-
 #EXTINF:-1, BEIN SPORT 4
 http://str.smartip-tv.net:8888/BEIN_SPORT_4_HD/index.m3u8?token=test
-
-#EXTINF:-1, VAMOS TV
-http://185.236.229.101:8005/play/a03b
-
-#EXTINF:-1, LALIGA 2
-http://185.236.229.101:8005/play/a01p
-
-#EXTINF:-1, VAMOS TV
-http://185.236.229.101:8005/play/a03c
 
 #EXTINF:-1, VAMOS TV
 http://185.191.126.169:80/live/LfPdKKYE9k/yqCMLZS6h5/30617.m3u8
 
 #EXTINF:-1, VAMOS TV
 http://185.191.126.169:80/live/LfPdKKYE9k/yqCMLZS6h5/30618.m3u8
-
-#EXTINF:-1, MOVISTAR LALIGA
-http://129626121870262413.meluckys.xyz:80/F08063/4389854/262413
 
 #EXTINF:-1, MOVISTAR LALIGA
 http://185.191.126.169:80/live/LfPdKKYE9k/yqCMLZS6h5/30640.m3u8
@@ -104,9 +89,6 @@ http://user.tvcluboficial.com/stream/nov/nov/890.m3u8
 
 #EXTINF:-1, MOVISTAR LIGA CAMPEONES 
 http://user.tvcluboficial.com/stream/nov/nov/367.m3u8
-
-#EXTINF:-1, MOVISTAR LIGA DE CAMPEONES
-http://46.249.32.163:81/fastocloud/hls/2/61a16215388e4f7d986073f4/478/master.m3u8
 
 #EXTINF:-1, BEIN SPORT AR 1
 http://init.cheches.info:80/hls/103.m3u8
@@ -148,9 +130,6 @@ http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
 http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
 
 #EXTINF:-1, Satanta sports1 rusia
-https://185-106-121-77.livesports24.online/rusetantaeurasia.m3u8
-
-#EXTINF:-1, Satanta sports1 rusia
 https://95-213-224-180.livesports24.online/rusetantaeurasia.m3u8
 
 #EXTINF:-1, Setanta Sports 2 rusia
@@ -159,17 +138,11 @@ https://95-213-224-186.livesports24.online/setantaplusru.m3u8
 #EXTINF:-1, Setanta Sports 2 rusia
 https://185-107-80-245.livesports24.online/setantaplusru.m3u8
 
-#EXTINF:-1, Setanta Sports 2 rusia
-https://95-213-224-180.livesports24.online/setantaplusru.m3u8
-
 #EXTINF:-1, SETANTA +
 https://srv07.varcdn1.ru/setanta1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, SETANTA SPORT UKRAINE
 https://95-213-172-220.livesports24.online/setantaukraine.m3u8
-
-#EXTINF:-1, SETANTA + SPORT UKRAINE
-https://95-213-224-183.livesports24.online/setantaplusukr.m3u8
 
 #EXTINF:-1, M.OYTGON 1HD
 http://193.33.88.172/football1_hd/index.m3u8
@@ -184,13 +157,7 @@ http://193.33.88.172/football3_hd/index.m3u8
 https://95-213-224-180.livesports24.online/belarusss5.m3u8
 
 #EXTINF:-1, BIELORUSIA 5HD
-https://185-106-121-77.livesports24.online/belarusss5.m3u8
-
-#EXTINF:-1, BIELORUSIA 5HD
 https://95-213-224-181.livesports24.online/belarusss5.m3u8
-
-#EXTINF:-1, ФУТБОЛ2
-https://95-213-224-180.livesports24.online/fooootball2.m3u8
 
 #EXTINF:-1, Футбол3
 https://95-213-224-180.livesports24.online/football3ua.m3u8
@@ -200,9 +167,6 @@ https://da-d50d173c.online.meo.pt/wp/cdn-er-vspp-pcs1.online.meo.pt/shls/LIVE$El
 
 #EXTINF:-1, SETANTA SPORT 1
 https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
-
-#EXTINF:-1, SETANTA + LIVE
-https://95-213-224-183.livesports24.online/setantaplusukr.m3u8
 
 #EXTINF:-1, SETANTA SPORT 1
 https://185-107-80-245.livesports24.online/rusetantaeurasia.m3u8
