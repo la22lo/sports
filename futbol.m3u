@@ -222,9 +222,6 @@ http://93.152.174.144:4000/play/btsport1/index.m3u8
 #EXTINF:-1,BT SPORT 1
 http://pro-unibox.com:25461/EG/Italy1/210
 
-#EXTINF:-1,BT SPORT 1
-https://play.zkshuye.cn/live/hd-en-1-3559716.m3u8
-
 #EXTINF:-1,BT SPORT 2
 http://pro-unibox.com:25461/EG/Italy1/212
 
@@ -261,9 +258,6 @@ https://smart-tv.livedoomovie.com:4431/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1, BEIN SPORT EXTRA
 https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
 
-#EXTINF:-1, BEIN SPORT EXTRA 1
-http://iptv.tvmalaysia.cc:80/penang175/penang175/7195
-
 #EXTINF:-1, BEIN SPORT EXTRA Ñ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
@@ -272,9 +266,6 @@ http://user.tvcluboficial.com/stream/nov/nov/753.m3u8
 
 #EXTINF:-1, BEINS SPORT Ñ
 http://user.tvcluboficial.com/stream/nov/nov/761.m3u8
-
-#EXTINF:-1, BEIN SPORT MAX
-http://iptv.tvmalaysia.cc:80/penang175/penang175/6748
 
 #EXTINF:-1, LOOK SPORTS HD
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&checkedby:iptvcat.com
@@ -330,9 +321,6 @@ https://95-213-224-181.livesports24.online/ntvmatchfoot1.m3u8
 #EXTINF:-1, Футбол 3
 https://95-213-224-181.livesports24.online/rumatchf3.m3u8
 
-#EXTINF:-1, BELARUS 5
-https://185-106-121-77.livesports24.online/belarusss5.m3u8
-
 #EXTINF:-1, МАТЧ!
 https://77-247-178-24.livesports24.online/ntvmatchfoot1.m3u8
 
@@ -357,14 +345,8 @@ http://iptv.tvmalaysia.cc:80/penang174/penang174/6580
 #EXTINF:-1, S SUPERSPORT
 http://iptv.tvmalaysia.cc:80/penang174/penang174/7142
 
-#EXTINF:-1, + SPORT DIRECT
+#EXTINF:-1, CANAL + SPORT DIRECT
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2502/index.m3u8
-
-#EXTINF:-1 ,ESPN 2 DUTCH
-http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2553/index.m3u8
-
-#EXTINF:-1, ESPN 4 DUTCH
-http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2554/index.m3u8
 
 #EXTINF:-1, Premier Football HD 1 (TH)
 https://smart-tv.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
@@ -377,15 +359,6 @@ https://smart-tv.livedoomovie.com:4431/02_PremierHD3_720p/chunklist.m3u8
 
 #EXTINF:-1, Premier Football HD 4 (TH)
 https://smart-tv.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8
-
-#EXTINF:-1, AU SPORTS LIVE HD
-http://163.172.50.58:8090/Calcio/3/index.m3u8
-
-#EXTINF:-1, ESPN EXTRA
-http://rec2.distv.net/live/damaris/123456/145.m3u8
-
-#EXTINF:-1, ESPN 2
-http://rec2.distv.net/live/damaris/123456/143.m3u8
 
 #EXTINF:-1, Live Sports (pk)
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
@@ -462,20 +435,8 @@ http://46.34.209.242/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8?per
 #EXTINF:-1, QAZ SPORT 
 http://46.34.209.243:80/btv/SWM/Qazsport_HD/Qazsport_HD_720p_3500kbps.m3u8
 
-#EXTINF:-1, champ1
-https://etus.link/champ1roll?shareext.m3u8
-
-#EXTINF:-1, champ2
-https://etus.link/champ2roll?shareext.m3u8
-
-#EXTINF:-1, champ3
-https://etus.link/champ3roll?shareext.m3u8
-
 #EXTINF:-1, PTV SPORTS 1
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
-
-#EXTINF:-1, PTV SPORTS 1
-http://163.172.50.58:8090/Calcio/1/index.m3u8
 
 #EXTINF:-1, PTV SPORTS 2
 http://208.86.19.21/610.stream/index.m3u8
@@ -533,9 +494,6 @@ https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann5/chunklist.m3u8
 
 #EXTINF:-1,BEIN SPORT HABER
 https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann8/chunklist.m3u8
-
-#EXTINF:-1,BEIN SPORT 4 TUR
-http://pro-unibox.com:25461/EG/Italy1/542
 
 #EXTINF:-1,TRT 1
 https://mn-nl.mncdn.com/blutv_trt1_dvr/live.m3u8
@@ -851,9 +809,6 @@ http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2512/index.m3u8
 
 #EXTINF:-1, NOVA SPORT
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2514/index.m3u8
-
-#EXTINF:-1, V SPORT EXTRA
-http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2515/index.m3u8
 
 #EXTINF:-1, CANAL PLUS 2 POL
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2516/index.m3u8
