@@ -91,6 +91,9 @@ https://smart-tv.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8
 http://str.smartip-tv.net:8888/BEIN_SPORT_4_HD/index.m3u8?token=test
 
 #EXTINF:-1, VAMOS TV
+http://51.222.43.170:36995/live/Luisapk/Si0yNffK39/1218.chunklist_w3579000654322466544637294435677543466767.m3u8?mvk
+
+#EXTINF:-1, VAMOS TV
 http://185.191.126.169:80/live/LfPdKKYE9k/yqCMLZS6h5/30617.m3u8
 
 #EXTINF:-1, VAMOS TV
