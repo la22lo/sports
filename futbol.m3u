@@ -18,6 +18,9 @@ http://93.152.174.144:4000/play/bein3ar/index.m3u8
 #EXTINF:-1, BEIN SPORT 3 LIVE AR
 http://93.152.174.144:4000/play/bein3ar/index.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1, ESPN BRASIL 1
+https://play.brasiltvweb.com/v3/youshi/m3_ScQBL06LuJftF_264.m3u8?session_id=yFXlPM7RmmGs&app_ver=10101&auth_id=42166598_com.global.brasiltvweb&client_ip=2804:5484:a:b6e0:dcd8:105e:373c:2ea5&user_id=42166598&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=https://play.brasiltvweb.com/v3/youshi/&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=deaa8b7f&expired=1639869425&token=1E1875EFD0157C33514EA6462E682DBE&media_code=m3_ScQBL06LuJftF_264
+
 #EXTINF:-1, S LALIGA
 http://194.67.196.19/hls/103.m3u8?mvk
 
