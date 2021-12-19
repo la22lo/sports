@@ -6,9 +6,6 @@ http://45.94.31.45/bar16503/tracks-v1a1/mono.m3u8
 #EXTINF:-1, S LALIGA
 http://185.53.89.183/hls/ssla.m3u8
 
-#EXTINF:-1, LA LIGA TV
-https://dy3j9qentq0g5.cloudfront.net/stream/MjE5Mg==/1080p.m3u8
-
 #EXTINF:-1, S LALIGA TV
 http://iptv.tvmalaysia.cc:80/penang174/penang174/6575
 
