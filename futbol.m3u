@@ -1194,20 +1194,5 @@ http://45.94.31.45/bar16503/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BEIN SPORT 3 LIVE
 http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
 
-#EXTINF:-1, DIEMA SPORT 1 HD [100]
-http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118776?checkedby:iptvcat.com
-
-#EXTINF:-1, DIEMA SPORT 2 HD [100]
-http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/115419?checkedby:iptvcat.com
-
-#EXTINF:-1, MAX SPORT 4 HD [100]
-http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118781?checkedby:iptvcat.com
-
-#EXTINF:-1, NOVA SPORT HD [100]
-http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118782?checkedby:iptvcat.com
-
-#EXTINF:-1, NOVA SPORT HD [100]
-http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/115498?checkedby:iptvcat.com
-
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
