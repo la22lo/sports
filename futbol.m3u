@@ -6,17 +6,17 @@ http://45.94.31.45/bar16503/tracks-v1a1/mono.m3u8
 #EXTINF:-1, S LALIGA
 http://185.53.89.183/hls/ssla.m3u8
 
-#EXTINF:-1, S LALIGA TV
-http://iptv.tvmalaysia.cc:80/penang174/penang174/6575
-
-#EXTINF:-1, LALIGATV
-http://45.148.26.176/hls/M2.m3u8
-
 #EXTINF:-1, LigaTv
 http://77.247.109.101/hls/A2.m3u8
 
 #EXTINF:-1,PPV Fut2 ENG
 http://cdn2.cyclingnews.live/hls/P2.m3u8
+
+#EXTINF:-1, S LALIGA TV
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6575
+
+#EXTINF:-1, LALIGATV
+http://45.148.26.176/hls/M2.m3u8
 
 #EXTINF:-1, CHINA IPTV
 http://china.iptvlogin.com/live/LfPdKKYE9k/yqCMLZS6h5/30640.m3u8
