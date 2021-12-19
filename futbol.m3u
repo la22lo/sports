@@ -15,6 +15,9 @@ http://45.148.26.176/hls/M2.m3u8
 #EXTINF:-1, 1
 http://77.247.109.101/hls/A2.m3u8
 
+#EXTINF:-1,PPV Fut2 ENG
+http://cdn2.cyclingnews.live/hls/P2.m3u8
+
 #EXTINF:-1, ELEVEN 1
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
