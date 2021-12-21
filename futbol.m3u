@@ -42,6 +42,12 @@ http://china.iptvlogin.com/live/LfPdKKYE9k/yqCMLZS6h5/30640.m3u8
 #EXTINF:-1, ELEVEN 1
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
+#EXTINF:-1, ELEVEN 2
+https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+
+#EXTINF:-1, ELEVEN 3
+https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_3_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+
 #EXTINF:-1, BEIN SPORT 3 LIVE AR
 http://93.152.174.144:4000/play/bein3ar/index.m3u8
 
