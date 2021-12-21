@@ -1329,11 +1329,5 @@ http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/2535
 #EXTINF:-1, Bein Sports 5
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/2534
 
-#EXTINF:-1, M LA LIGA 1
-http://212.224.98.213:2200/NL/mlaliga1hd-esp/index.m3u8?token=
-
-#EXTINF:-1, M LA LIGA 2
-http://212.224.98.213:2200/NL/mlaliga2hd-esp/index.m3u8?token=
-
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
