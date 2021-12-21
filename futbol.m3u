@@ -426,6 +426,18 @@ http://208.86.19.21/725.stream/index.m3u8
 #EXTINF:-1, GEO SUPER
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 
+#EXTINF:-1, CANAL CHINO 1 咪咕視頻·PP體育1
+http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8 
+
+#EXTINF:-1, CANAL CHINO 2 精品體育
+http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8 
+
+#EXTINF:-1, CANAL CHINO 3 博斯運動2
+http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
+
+#EXTINF:-1, CANAL CHINO 4 魅力足球
+http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+
 #EXTINF:-1, ELEVEN SPORT 1
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
