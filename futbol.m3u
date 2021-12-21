@@ -342,6 +342,9 @@ http://93.152.174.144:4000/play/btsport1/index.m3u8
 #EXTINF:-1,BT SPORT 1
 http://pro-unibox.com:25461/EG/Italy1/210
 
+#EXTINF:-1,BT SPORT 1
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/286
+
 #EXTINF:-1,BT SPORT 2
 http://pro-unibox.com:25461/EG/Italy1/212
 
@@ -351,6 +354,9 @@ http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2506/index.m3u8
 #EXTINF:-1,BT SPORT HD 2
 http://93.152.174.144:4000/play/btsport2/index.m3u8
 
+#EXTINF:-1,BT SPORT 2
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/285
+
 #EXTINF:-1,BT SPORT 1
 https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_1_720p/chunklist.m3u8
 
@@ -359,6 +365,9 @@ https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 #EXTINF:-1,BT SPORT 3
 http://pro-unibox.com:25461/EG/Italy1/213
+
+#EXTINF:-1,BT SPORT 3
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/283
 
 #EXTINF:-1, SPORTTV 1
 https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
