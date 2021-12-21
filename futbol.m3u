@@ -108,6 +108,9 @@ http://45.94.31.45/bar16502/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BEIN SPORT AR 3
 http://45.94.31.45/bar16503/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, BEIN SPORT
+https://link.zozotv.xyz:443/707070/707070/164
+
 #EXTINF:-1, MOVISTAR LALIGA 1
 http://iptv.ndasat.com:88/932882172668015/932882172668015/1590
 
@@ -128,6 +131,21 @@ http://iptv.ndasat.com:88/932882172668015/932882172668015/21955
 
 #EXTINF:-1, DAZN
 http://iptv.ndasat.com:88/932882172668015/932882172668015/19235
+
+#EXTINF:-1, BEIN SPORT 1 PREMIUM
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+
+#EXTINF:-1, BEIN SPORT 2 PREMIUM
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+
+#EXTINF:-1, BEIN SPORT 3 PREMIUM
+http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+
+#EXTINF:-1, BEIN SPORT 1 
+https://link.zozotv.xyz:443/707070/707070/162
+
+#EXTINF:-1, BEIN SPORT 2
+https://link.zozotv.xyz:443/707070/707070/163
 
 #EXTINF:-1, MOVISTAR LIGA CAMPEONES 
 http://iptv.ndasat.com:88/932882172668015/932882172668015/578
