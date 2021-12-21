@@ -21,6 +21,9 @@ http://cro.hockeynews.club:80/live/1/chunks.m3u8
 #EXTINF:-1, S LALIGA
 http://185.53.89.183/hls/ssla.m3u8
 
+#EXTINF:-1, S LALIGA
+http://194.67.196.19/hls/103.m3u8?mvk
+
 #EXTINF:-1, LigaTv
 http://77.247.109.101/hls/A2.m3u8
 
