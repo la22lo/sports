@@ -426,6 +426,12 @@ http://208.86.19.21/725.stream/index.m3u8
 #EXTINF:-1, GEO SUPER
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 
+#EXTINF:-1, ELEVEN SPORT 1
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1, ELEVEN SPORT 2
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+
 #EXTINF:-1, FOX SPORTS 1
 http://user.tvcluboficial.com/stream/nov/nov/493.m3u8
 
@@ -780,6 +786,9 @@ http://user.tvcluboficial.com/stream/nov/nov/509.m3u8
 #EXTINF:-1, TNT SPORTS HD
 http://user.tvcluboficial.com/stream/nov/nov/725.m3u8
 
+#EXTINF:-1, TNT SPORTS
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+
 #EXTINF:-1, CLARO SPORTS
 http://user.tvcluboficial.com/stream/nov/nov/328.m3u8
 
@@ -798,6 +807,9 @@ https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/in
 #EXTINF:-1, TyC SPORT
 http://panel.tured.live:8080/live/Donpepe43/BB96b9dXLwSv/101295.m3u8
 
+#EXTINF:-1, FACEBOOK WATCH
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+
 #EXTINF:-1, GOL SUD TV
 http://user.tvcluboficial.com/stream/nov/nov/892.m3u8
 
@@ -809,6 +821,9 @@ http://user.tvcluboficial.com/stream/nov/nov/318.m3u8
 
 #EXTINF:-1,CABLE SPORTS
 https://tv.siete.us/bestcablesports/bestcablesports/index.m3u8
+
+#EXTINF:-1, ESPORTE INTERACTIVO
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 #EXTINF:-1,STARS SPORT 1
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2508/index.m3u8
