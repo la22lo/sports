@@ -60,9 +60,6 @@ http://user.tvcluboficial.com/stream/nov/nov/667.m3u8
 #EXTINF:-1, ELEVEN 1
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
-#EXTINF:-1, M LALIGA
-http://185.191.126.169:80/play/6Z9kH7XHKrHOAIipci2gbLjIAO8VkM0lrfP-ywzf3z-z52hkZlzTg_Ifb6fPHoyO/.m3u8
-
 #EXTINF:-1, ELEVEN SPORT 1
 https://da-d50d173c.online.meo.pt/wp/cdn-er-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
@@ -182,6 +179,9 @@ http://185.191.126.169:80/live/LfPdKKYE9k/yqCMLZS6h5/30617.m3u8
 
 #EXTINF:-1, MOVISTAR LALIGA
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
+
+#EXTINF:-1, M LALIGA
+http://185.191.126.169:80/play/6Z9kH7XHKrHOAIipci2gbLjIAO8VkM0lrfP-ywzf3z-z52hkZlzTg_Ifb6fPHoyO/.m3u8
 
 #EXTINF:-1, MOVISTAR LALIGA
 http://185.191.126.169:80/live/LfPdKKYE9k/yqCMLZS6h5/30640.m3u8
