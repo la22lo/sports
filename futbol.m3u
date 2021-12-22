@@ -33,12 +33,6 @@ http://77.247.109.111/hls/T1.m3u8
 #EXTINF:-1,PPV Event W1 CyclingStreams
 http://77.247.109.249/hls/W1.m3u8
 
-#EXTINF:-1,YAYA LIVE
-https://live-ak.vimeocdn.com/exp=1640199104~acl=%2Ffb66bd15-e1f6-4b8b-820a-6539fd6d6d12%2F%2A~hmac=d2e6c0bc75c937a2013524c84a336aad2c7f4ebf9ba6a6be554560ef88bd0c29/fb66bd15-e1f6-4b8b-820a-6539fd6d6d12/hls.m3u8?per
-
-#EXTINF:-1,ESPN 2 LIVE
-https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/VWE8gTYtVIidtJwlYwF864OSWy8jFPIqc6-mWFver2qdQCQD5MVB825zmcgVCVnWJugsQ5RYk8acqjwl7SSY5w/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
-
 #EXTINF:-1, BEIN SPORT 1 LIVE AR
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
