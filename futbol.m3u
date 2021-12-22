@@ -15,6 +15,9 @@ http://b.banourahga.xyz/live/918454578001/index.m3u8
 #EXTINF:-1, BEIN SPORT 1 TRUE VISIONS
 https://smart-tv.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8
 
+#EXTINF:-1, SSC1
+https://ssc-5-ak.akamaized.net:443/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index_3.m3u8
+
 #EXTINF:-1, BEIN SPORT AR 2
 http://45.94.31.45/bar16502/tracks-v1a1/mono.m3u8
 
