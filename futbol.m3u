@@ -1185,17 +1185,5 @@ http://init.cheches.info:80/hls/103.m3u8
 #EXTINF:-1, BEIN SPORT 2 PREMIUM
 http://init.cheches.info:80/hls/102.m3u8
 
-#EXTINF:-1, LaLiga FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1141
-
-#EXTINF:-1, LaLiga 4
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/269466
-
-#EXTINF:-1, LaLiga 3 HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/281772
-
-#EXTINF:-1, LaLiga 2 FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/5311
-
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
