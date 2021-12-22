@@ -3,6 +3,9 @@
 #EXTINF:-1, BEIN SPORT AR 1
 http://93.152.174.144:4000/play/bein1ar/index.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1, BEIN SPORT AR 2
+http://45.94.31.45/bar16502/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, BEIN SPORT AR 1 PREMIUM
 http://45.94.31.45/bar165001/tracks-v1a1/mono.m3u8?SBN
 
@@ -95,9 +98,6 @@ https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1, BEIN SPORT AR
 http://45.94.31.45/bar16506/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, BEIN SPORT AR 2
-http://45.94.31.45/bar16502/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, BEIN SPORT AR 3
 http://45.94.31.45/bar16503/tracks-v1a1/mono.m3u8
