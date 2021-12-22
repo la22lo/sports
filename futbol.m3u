@@ -378,6 +378,12 @@ https://stream1.1616.ro:1945/looksport3/livestream/chunklist_w64015557.m3u8
 #EXTINF:-1, LOOK SPORTS 3
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
 
+#EXTINF:-1 ,Diema Sport HD
+http://94.236.145.205:8000/play/a00s
+
+#EXTINF:-1 ,Diema Sport 2 HD
+http://94.236.145.205:8000/play/a01b
+
 #EXTINF:-1, CANAL CHINO 1 咪咕視頻·PP體育1
 http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8 
 
@@ -1199,33 +1205,6 @@ http://init.cheches.info:80/hls/103.m3u8
 
 #EXTINF:-1, BEIN SPORT 2 PREMIUM
 http://init.cheches.info:80/hls/102.m3u8
-
-#EXTINF:-1, Sports Max 1 HD VIP TR
-http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/682953
-
-#EXTINF:-1 ,Sports Premium 3 HD VIP AR
-http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/691817
-
-#EXTINF:-1 ,Sports Premium 3 FHD VIP AR
-http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/5473
-
-#EXTINF:-1 ,Sports Premium 2 FHD VIP AR
-http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/688157
-
-#EXTINF:-1 ,Sports Premium 1 HD VIP AR
-http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/688156
-
-#EXTINF:-1 ,SuperSport La Liga HD VIP AF
-http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/683001
-
-#EXTINF:-1 ,SuperSport Premier League HD VIP AF
-http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/678029
-
-#EXTINF:-1 ,Diema Sport HD
-http://94.236.145.205:8000/play/a00s
-
-#EXTINF:-1 ,Diema Sport 2 HD
-http://94.236.145.205:8000/play/a01b
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
