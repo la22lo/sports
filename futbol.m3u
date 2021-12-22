@@ -6,6 +6,9 @@ http://93.152.174.144:4000/play/bein1ar/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1, BEIN SPORT AR 1 PREMIUM
 http://45.94.31.45/bar165001/tracks-v1a1/mono.m3u8?SBN
 
+#EXTINF:-1, BEIN SPORT 1 LIVE AR
+http://93.152.174.144:4000/play/bein1ar/index.m3u8
+
 #EXTINF:-1, BEIN 1
 http://2.56.215.148:25461/live/test/test/3.m3u8?SBN
 
@@ -14,9 +17,6 @@ http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 
 #EXTINF:-1, BEIN 1
 http://b.banourahga.xyz/live/918454578001/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 1 LIVE AR
-http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
 #EXTINF:-1, DIRECTV SPORT 1
 http://user.tvcluboficial.com/stream/nov/nov/259.m3u8
