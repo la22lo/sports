@@ -9,6 +9,9 @@ http://45.94.31.45/bar165001/tracks-v1a1/mono.m3u8?SBN
 #EXTINF:-1, S SPORT 1
 http://77.247.109.111/hls/T1.m3u8
 
+#EXTINF:-1,PPV Fut4 ENG
+http://cdn3.cyclingnews.live/hls/W1.m3u8
+
 #EXTINF:-1, BEIN SPORT 1 LIVE AR
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
