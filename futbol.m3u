@@ -114,6 +114,9 @@ http://93.152.174.144:4000/play/bein3ar/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1, Bein Sports 3 AR
 http://93.152.174.144:4000/play/bein3ar/index.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1, Bein Sports HD 3 
+https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann4/chunklist.m3u8?per
+
 #EXTINF:-1, BEIN SPORT 1 live TRUE VISIONS
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 
