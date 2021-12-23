@@ -24,6 +24,9 @@ http://matiasstornini00.shortcm.li:80/ch1.m3u8
 #EXTINF:-1, ESPN 2 VIVO
 https://5g9s179kfgx9wn8tqwj9-cul47i-gcr.p5cdn.com/dlive/transcode-65-213/zarping/1639926790/src/live.m3u8
 
+#EXTINF:-1, ESPN BRASIL
+https://transcoder-itatiba-01.nxplay.com.br/ESPN_BR/index.m3u8
+
 #EXTINF:-1, S LA LIGA
 http://185.53.89.183/hls/ssla.m3u8
 
