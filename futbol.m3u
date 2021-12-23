@@ -624,6 +624,15 @@ https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 #EXTINF:-1, SPORTV REF TUR
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
+#EXTINF:-1, TIVUVU SPORT 1
+https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann9/chunklist.m3u8?per
+
+#EXTINF:-1, TIVUVU SPORT 2
+https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann10/chunklist.m3u8?per
+
+#EXTINF:-1, TIVUVU SPORT 3
+https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann11/chunklist.m3u8?per
+
 #EXTINF:-1, ESPN 2 HD
 http://user.tvcluboficial.com/stream/nov/nov/484.m3u8
 
