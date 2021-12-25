@@ -786,6 +786,12 @@ http://qqtv.nl:8080/live/norma/12345/20262.m3u8
 #EXTINF:-1, FOX SPORTS COLOMBIA
 http://qqtv.nl:8080/live/norma/12345/20219.m3u8
 
+#EXTINF:-1, FOX SPORTS CHILE 1
+http://qqtv.nl:8080/live/norma/12345/20084.m3u8
+
+#EXTINF:-1, FOX SPORTS CHILE 2
+http://qqtv.nl:8080/live/norma/12345/58292.m3u8
+
 #EXTINF:-1, MOVISTAR DEPORTES 1
 http://qqtv.nl:8080/live/norma/12345/275183.m3u8
 
