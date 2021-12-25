@@ -105,6 +105,9 @@ http://qqtv.nl:8080/live/norma/12345/20311.m3u8
 #EXTINF:-1, DIRECTV SPORT +
 http://qqtv.nl:8080/live/norma/12345/20261.m3u8
 
+#EXTINF:-1, DIRECTV SPORT
+http://ytv.plus:25461/live/mercedes/1234/2926.m3u8
+
 #EXTINF:-1, ELEVEN 1
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
