@@ -6,6 +6,9 @@ http://93.152.174.144:4000/play/bein1ar/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1, MOVISTAR LALIGA
 http://qqtv.nl:8080/live/norma/12345/87460.m3u8
 
+#EXTINF:-1, MOVISTAR LALIGA
+http://qqtv.nl:8080/live/norma/12345/31019.m3u8
+
 #EXTINF:-1, LALIGA televisión BAR
 http://qqtv.nl:8080/live/norma/12345/88295.m3u8
 
