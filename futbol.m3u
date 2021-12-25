@@ -702,6 +702,15 @@ https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann10/chunklist.m3u8?per
 #EXTINF:-1, TIVUVU SPORT 3
 https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann11/chunklist.m3u8?per
 
+#EXTINF:-1, ESPN 1 ARG
+http://qqtv.nl:8080/live/norma/12345/20101.m3u8
+
+#EXTINF:-1, ESPN 2 ARG
+http://qqtv.nl:8080/live/norma/12345/275190.m3u8
+
+#EXTINF:-1, ESPN 3 ARG
+http://qqtv.nl:8080/live/norma/12345/20056.m3u8
+
 #EXTINF:-1, ESPN 2 HD
 http://user.tvcluboficial.com/stream/nov/nov/484.m3u8
 
@@ -714,6 +723,15 @@ http://user.tvcluboficial.com/stream/nov/nov/531.m3u8
 #EXTINF:-1, ESPN 3 VIVO
 http://user.tvcluboficial.com/stream/nov/nov/485.m3u8
 
+#EXTINF:-1, ESPN VIVO 1
+http://qqtv.nl:8080/live/norma/12345/275187.m3u8
+
+#EXTINF:-1, ESPN VIVO 2
+http://qqtv.nl:8080/live/norma/12345/20102.m3u8
+
+#EXTINF:-1, ESPN VIVO 3
+http://qqtv.nl:8080/live/norma/12345/20103.m3u8
+
 #EXTINF:-1, ESPN HD MX
 http://user.tvcluboficial.com/stream/nov/nov/486.m3u8
 
@@ -725,6 +743,9 @@ http://user.tvcluboficial.com/stream/nov/nov/530.m3u8
 
 #EXTINF:-1, ESPN EXTRA
 http://user.tvcluboficial.com/stream/nov/nov/37.m3u8
+
+#EXTINF:-1, ESPN EXTRA
+http://qqtv.nl:8080/live/norma/12345/7915.m3u8
 
 #EXTINF:-1, ESPN EXTRA 2
 http://user.tvcluboficial.com/stream/nov/nov/487.m3u8
@@ -744,8 +765,17 @@ http://user.tvcluboficial.com/stream/nov/nov/725.m3u8
 #EXTINF:-1, TNT SPORTS
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 
+#EXTINF:-1, TNT SPORTS 3
+http://qqtv.nl:8080/live/norma/12345/389559.m3u8
+
 #EXTINF:-1, CLARO SPORTS
 http://user.tvcluboficial.com/stream/nov/nov/328.m3u8
+
+#EXTINF:-1, CLARO SPORTS
+http://qqtv.nl:8080/live/norma/12345/20130.m3u8
+
+#EXTINF:-1, CLARO SPORTS
+http://qqtv.nl:8080/live/norma/12345/20162.m3u8
 
 #EXTINF:-1, TyC SPORT
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
@@ -759,11 +789,17 @@ https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d
 #EXTINF:-1, TyC SPORT
 https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8
 
+#EXTINF:-1, TyC SPORT
+http://qqtv.nl:8080/live/norma/12345/20198.m3u8
+
 #EXTINF:-1, FACEBOOK WATCH
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 
 #EXTINF:-1, GOL SUD TV
 http://user.tvcluboficial.com/stream/nov/nov/514.m3u8
+
+#EXTINF:-1, GOL televisión USA
+http://qqtv.nl:8080/live/norma/12345/20286.m3u8
 
 #EXTINF:-1, ESTADIO TV
 http://user.tvcluboficial.com/stream/nov/nov/318.m3u8
@@ -773,6 +809,12 @@ https://tv.siete.us/bestcablesports/bestcablesports/index.m3u8
 
 #EXTINF:-1, ESPORTE INTERACTIVO
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
+#EXTINF:-1, WIN SPORTS 1
+http://qqtv.nl:8080/live/norma/12345/20234.m3u8
+
+#EXTINF:-1, WIN SPORTS +
+http://qqtv.nl:8080/live/norma/12345/20321.m3u8
 
 #EXTINF:-1, ASTRO ARENA
 https://lnk.ec/AstroArena?shareext.m3u8
