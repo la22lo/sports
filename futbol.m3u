@@ -264,6 +264,24 @@ http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
 #EXTINF:-1, BEIN SPORT 3 PREMIUM
 http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
 
+#EXTINF:-1, BEINSPORT 1 HD
+http://nl01.spr24.net/6447/mpegts?token=h48TyVziwqYmFE
+
+#EXTINF:-1, BEINSPORT 3 HD
+http://nl01.spr24.net/6451/mpegts?token=h48TyVziwqYmFE
+
+#EXTINF:-1, BEINSPORT 3
+http://nl01.spr24.net/6446/mpegts?token=h48TyVziwqYmFE
+
+#EXTINF:-1, BEINSPORT 4 HD
+http://nl01.spr24.net/5872/mpegts?token=h48TyVziwqYmFE
+
+#EXTINF:-1, BEINSPORT 5 HD
+http://nl01.spr24.net/6652/mpegts?token=h48TyVziwqYmFE
+
+#EXTINF:-1, BEINSPORT 6 HD
+http://nl01.spr24.net/6651/mpegts?token=h48TyVziwqYmFE
+
 #EXTINF:-1, SETANTA SPORT 1
 http://nl01.spr24.net/933/mpegts?token=h48TyVziwqYmFE
 
