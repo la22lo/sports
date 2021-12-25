@@ -363,6 +363,12 @@ http://193.33.88.172/football2_hd/index.m3u8
 #EXTINF:-1, M.OYTGON 3HD
 http://193.33.88.172/football3_hd/index.m3u8 
 
+#EXTINF:-1,@YTSON1HD
+https://95-213-224-179.livesports24.online/uafootballua1.m3u8
+
+#EXTINF:-1,@YTSON2HD
+https://95-213-224-179.livesports24.online/fooootball2.m3u8
+
 #EXTINF:-1, BIELORUSIA 5HD
 https://95-213-224-180.livesports24.online/belarusss5.m3u8
 
