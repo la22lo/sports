@@ -1464,5 +1464,8 @@ http://cdn2.cyclingnews.live/hls/P1.m3u8
 #EXTINF:-1, BEIN SPORT 2 PREMIUM
 http://init.cheches.info:80/hls/102.m3u8
 
+#EXTINF:-1, FREE
+http://freeiptvgen.com:25461/get.php?username=909298&password=freeiptvgen&type=m3u	
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
