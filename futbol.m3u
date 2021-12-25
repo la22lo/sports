@@ -759,6 +759,15 @@ http://user.tvcluboficial.com/stream/nov/nov/487.m3u8
 #EXTINF:-1, DIRECTV CHILE
 http://qqtv.nl:8080/live/norma/12345/20406.m3u8
 
+#EXTINF:-1, DIRECTV 1 ECUADOR
+http://qqtv.nl:8080/live/norma/12345/20227.m3u8
+
+#EXTINF:-1, DIRECTV 2 ECUADOR
+http://qqtv.nl:8080/live/norma/12345/20319.m3u8
+
+#EXTINF:-1, DIRECTV + ECUADOR
+http://qqtv.nl:8080/live/norma/12345/20059.m3u8
+
 #EXTINF:-1, FOX SPORT
 http://user.tvcluboficial.com/stream/nov/nov/493.m3u8
 
@@ -851,6 +860,9 @@ https://tv.siete.us/bestcablesports/bestcablesports/index.m3u8
 
 #EXTINF:-1, ESPORTE INTERACTIVO
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
+#EXTINF:-1, ECDF
+http://qqtv.nl:8080/live/norma/12345/416280.m3u8
 
 #EXTINF:-1, WIN SPORTS 1
 http://qqtv.nl:8080/live/norma/12345/20234.m3u8
