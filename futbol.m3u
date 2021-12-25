@@ -54,9 +54,6 @@ https://transcoder-itatiba-01.nxplay.com.br/ESPN_BR/index.m3u8
 #EXTINF:-1, S LA LIGA
 http://185.53.89.183/hls/ssla.m3u8
 
-#EXTINF:-1, SETANTA SPORT
-https://bal.varcdn1.ru/lb/setanta1/index.m3u8
-
 #EXTINF:-1, BEIN SPORT AR 2
 http://45.94.31.45/bar16502/tracks-v1a1/mono.m3u8
 
@@ -339,6 +336,9 @@ http://qqtv.nl:8080/live/norma/12345/88420.m3u8
 #EXTINF:-1, BEINSPORT LALIGA USA
 http://qqtv.nl:8080/live/norma/12345/87458.m3u8
 
+#EXTINF:-1, SETANTA SPORT
+https://bal.varcdn1.ru/lb/setanta1/index.m3u8
+
 #EXTINF:-1, SETANTA SPORT 1
 http://nl01.spr24.net/933/mpegts?token=h48TyVziwqYmFE
 
@@ -356,6 +356,9 @@ https://95-213-224-180.livesports24.online/rusetantaeurasia.m3u8
 
 #EXTINF:-1, SETANTA SPORT HD
 https://chostv.mobie.in/choos/sports/stantahd.m3u8
+
+#EXTINF:-1, SETANTA SPORT +
+https://185-107-80-245.livesports24.online/setantaukraine.m3u8
 
 #EXTINF:-1, SETANTA SPORT UKR
 https://95-213-172-220.livesports24.online/setantaukraine.m3u8
