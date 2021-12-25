@@ -285,11 +285,26 @@ http://nl01.spr24.net/6651/mpegts?token=h48TyVziwqYmFE
 #EXTINF:-1, SETANTA SPORT 1
 http://nl01.spr24.net/933/mpegts?token=h48TyVziwqYmFE
 
+#EXTINF:-1, SETANTA SPORT 1 HD
+https://77-247-178-24.livesports24.online/rusetantaeurasia.m3u8
+
 #EXTINF:-1, SETANTA SPORT 2
 http://nl01.spr24.net/934/mpegts?token=h48TyVziwqYmFE
 
 #EXTINF:-1, SETANTA KAZAJTAN
 http://nl01.spr24.net/1001/mpegts?token=h48TyVziwqYmFE
+
+#EXTINF:-1, SETANTA SPORT 1 RUS
+https://95-213-224-180.livesports24.online/rusetantaeurasia.m3u8
+
+#EXTINF:-1, SETANTA SPORT HD
+https://chostv.mobie.in/choos/sports/stantahd.m3u8
+
+#EXTINF:-1, SETANTA SPORT UKR
+https://95-213-172-220.livesports24.online/setantaukraine.m3u8
+
+#EXTINF:-1, QAZ SPORT
+http://92.46.127.146:8080/qazsport/index.m3u8
 
 #EXTINF:-1, M.OYTGON 1HD
 http://193.33.88.172/football1_hd/index.m3u8
