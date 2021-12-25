@@ -3,6 +3,9 @@
 #EXTINF:-1, BEIN SPORT AR 1
 http://93.152.174.144:4000/play/bein1ar/index.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1, MOVISTAR LALIGA
+http://qqtv.nl:8080/live/norma/12345/87460.m3u8
+
 #EXTINF:-1, SKY SPORTS
 https://tunelive.net:3412/stream/play.m3u8
 
@@ -710,6 +713,9 @@ http://user.tvcluboficial.com/stream/nov/nov/485.m3u8
 
 #EXTINF:-1, ESPN HD MX
 http://user.tvcluboficial.com/stream/nov/nov/486.m3u8
+
+#EXTINF:-1, ESPN HD
+http://qqtv.nl:8080/live/norma/12345/7913.m3u8
 
 #EXTINF:-1, ESPN 2 MX
 http://user.tvcluboficial.com/stream/nov/nov/530.m3u8
