@@ -792,6 +792,21 @@ https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/in
 #EXTINF:-1, TyC SPORT
 http://qqtv.nl:8080/live/norma/12345/20198.m3u8
 
+#EXTINF:-1, FOX SPORTS SUR
+http://qqtv.nl:8080/live/norma/12345/20128.m3u8
+
+#EXTINF:-1, FOX SPORTS 1 MX
+http://qqtv.nl:8080/live/norma/12345/20095.m3u8
+
+#EXTINF:-1, FOX SPORTS 2 MX
+http://qqtv.nl:8080/live/norma/12345/20097.m3u8
+
+#EXTINF:-1, FOX SPORTS 3 MX
+http://qqtv.nl:8080/live/norma/12345/20096.m3u8
+
+#EXTINF:-1, TUDN
+http://qqtv.nl:8080/live/norma/12345/20116.m3u8
+
 #EXTINF:-1, FACEBOOK WATCH
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 
@@ -815,6 +830,12 @@ http://qqtv.nl:8080/live/norma/12345/20234.m3u8
 
 #EXTINF:-1, WIN SPORTS +
 http://qqtv.nl:8080/live/norma/12345/20321.m3u8
+
+#EXTINF:-1, INTERTV
+http://qqtv.nl:8080/live/norma/12345/397212.m3u8
+
+#EXTINF:-1, DEPORTV ARG
+http://qqtv.nl:8080/live/norma/12345/397211.m3u8
 
 #EXTINF:-1, ASTRO ARENA
 https://lnk.ec/AstroArena?shareext.m3u8
@@ -938,6 +959,9 @@ http://ipflix.click:8080/cdvycotklr/7a2ts4br3/661090
 
 #EXTINF:-1, DAZN 2
 http://ipflix.click:8080/cdvycotklr/7a2ts4br3/50775
+
+#EXTINF:-1, DAZN 1
+http://qqtv.nl:8080/live/norma/12345/391225.m3u8
 
 #EXTINF:-1,AD SPORTS 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
