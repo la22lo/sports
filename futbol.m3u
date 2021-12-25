@@ -264,6 +264,15 @@ http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
 #EXTINF:-1, BEIN SPORT 3 PREMIUM
 http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
 
+#EXTINF:-1, SETANTA SPORT 1
+http://nl01.spr24.net/933/mpegts?token=h48TyVziwqYmFE
+
+#EXTINF:-1, SETANTA SPORT 2
+http://nl01.spr24.net/934/mpegts?token=h48TyVziwqYmFE
+
+#EXTINF:-1, SETANTA KAZAJTAN
+http://nl01.spr24.net/1001/mpegts?token=h48TyVziwqYmFE
+
 #EXTINF:-1, M.OYTGON 1HD
 http://193.33.88.172/football1_hd/index.m3u8
 
