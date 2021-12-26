@@ -609,8 +609,11 @@ http://94.236.145.205:8000/play/a00s
 #EXTINF:-1 ,Diema Sport 2 HD
 http://94.236.145.205:8000/play/a01b
 
-#EXTINF:-1 ,VOO SPORTS
+#EXTINF:-1 ,VOO SPORTS 1
 http://tv1.live:25461/star7arab/WtnJQObFQO/5982
+
+#EXTINF:-1 ,VOO SPORTS 2
+http://tv1.live:25461/star7arab/WtnJQObFQO/5983
 
 #EXTINF:-1, CANAL CHINO 1 咪咕視頻·PP體育1
 http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8 
@@ -630,8 +633,17 @@ http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1, ELEVEN SPORT 1
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
+#EXTINF:-1, ELEVEN SPORT 1
+http://tv1.live:25461/star7arab/WtnJQObFQO/5985
+
 #EXTINF:-1, ELEVEN SPORT 2
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+
+#EXTINF:-1, ELEVEN SPORT 2
+http://tv1.live:25461/star7arab/WtnJQObFQO/5986
+
+#EXTINF:-1, ELEVEN SPORT 3
+http://tv1.live:25461/star7arab/WtnJQObFQO/5987
 
 #EXTINF:-1, FOX SPORTS 1
 http://user.tvcluboficial.com/stream/nov/nov/493.m3u8
