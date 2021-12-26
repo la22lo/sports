@@ -954,6 +954,9 @@ http://qqtv.nl:8080/live/norma/12345/20102.m3u8
 #EXTINF:-1, ESPN VIVO 3
 http://qqtv.nl:8080/live/norma/12345/20103.m3u8
 
+#EXTINF:-1, ESPN VIVO
+http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
+
 #EXTINF:-1, ESPN HD MX
 http://user.tvcluboficial.com/stream/nov/nov/486.m3u8
 
