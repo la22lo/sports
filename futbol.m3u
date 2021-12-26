@@ -378,6 +378,9 @@ http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2500/index.m3u8
 #EXTINF:-1, beIN Sports 3 French
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2501/index.m3u8
 
+#EXTINF:-1, beIN Sports 1 ENGLISH
+http://tv1.live:25461/star7arab/WtnJQObFQO/3158
+
 #EXTINF:-1, beIN Sports 2 ENGLISH
 https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann27/chunklist.m3u8
 
