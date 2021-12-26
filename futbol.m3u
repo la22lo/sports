@@ -519,6 +519,18 @@ https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1,BT SPORT 2
 https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
 
+#EXTINF:-1,RMC SPORT 1
+http://tv1.live:25461/star7arab/WtnJQObFQO/3997
+
+#EXTINF:-1,RMC SPORT 2
+http://tv1.live:25461/star7arab/WtnJQObFQO/3999
+
+#EXTINF:-1,RMC SPORT 3
+http://tv1.live:25461/star7arab/WtnJQObFQO/4001
+
+#EXTINF:-1,RMC SPORT 4
+http://tv1.live:25461/star7arab/WtnJQObFQO/4004
+
 #EXTINF:-1, SPORTTV 1
 https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
 
