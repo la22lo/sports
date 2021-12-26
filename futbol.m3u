@@ -72,6 +72,9 @@ https://transcoder-itatiba-01.nxplay.com.br/ESPN_BR/index.m3u8
 #EXTINF:-1, S LA LIGA
 http://185.53.89.183/hls/ssla.m3u8
 
+#EXTINF:-1, BEIN SPORT AR 1
+http://tv1.live:25461/star7arab/WtnJQObFQO/3126
+
 #EXTINF:-1, BEIN SPORT AR 2
 http://45.94.31.45/bar16502/tracks-v1a1/mono.m3u8
 
@@ -107,6 +110,12 @@ http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
 #EXTINF:-1, BEIN SPORT 1 PREMIUM
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+
+#EXTINF:-1, BEIN SPORT 2 PREMIUM
+http://tv1.live:25461/star7arab/WtnJQObFQO/3127
+
+#EXTINF:-1, BEIN SPORT 3 PREMIUM
+http://tv1.live:25461/star7arab/WtnJQObFQO/3128
 
 #EXTINF:-1, DIRECTV SPORT 1
 http://user.tvcluboficial.com/stream/nov/nov/259.m3u8
@@ -206,6 +215,33 @@ http://45.94.31.45/bar16505/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, BEIN SPORT
 https://link.zozotv.xyz:443/707070/707070/164
+
+#EXTINF:-1, BEIN SPORT 1 AR SD
+http://tv1.live:25461/star7arab/WtnJQObFQO/3129
+
+#EXTINF:-1, BEIN SPORT 2 AR SD
+http://tv1.live:25461/star7arab/WtnJQObFQO/3130
+
+#EXTINF:-1, BEIN SPORT 3 AR SD
+http://tv1.live:25461/star7arab/WtnJQObFQO/3131
+
+#EXTINF:-1, BEIN SPORT 4 AR SD
+http://tv1.live:25461/star7arab/WtnJQObFQO/3132
+
+#EXTINF:-1, BEIN SPORT 5 AR SD
+http://tv1.live:25461/star7arab/WtnJQObFQO/3133
+
+#EXTINF:-1, BEIN SPORT 6 AR SD
+http://tv1.live:25461/star7arab/WtnJQObFQO/3134
+
+#EXTINF:-1, BEIN SPORT 7 AR SD
+http://tv1.live:25461/star7arab/WtnJQObFQO/3135
+
+#EXTINF:-1, BEIN SPORT EXTRA 1
+http://tv1.live:25461/star7arab/WtnJQObFQO/3156
+
+#EXTINF:-1, BEIN SPORT EXTRA 2
+http://tv1.live:25461/star7arab/WtnJQObFQO/3157
 
 #EXTINF:-1, MOVISTAR LALIGA 1
 http://iptv.ndasat.com:88/932882172668015/932882172668015/1590
