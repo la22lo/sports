@@ -15,8 +15,17 @@ http://tv1.live:25461/star7arab/WtnJQObFQO/6473
 #EXTINF:-1, MOVISTAR LALIGA
 http://qqtv.nl:8080/live/norma/12345/31019.m3u8
 
+#EXTINF:-1, MOVISTAR LALIGA
+http://tv1.live:25461/star7arab/WtnJQObFQO/6539
+
+#EXTINF:-1, M. LIGA 2
+http://tv1.live:25461/star7arab/WtnJQObFQO/6537
+
 #EXTINF:-1, M. LIGA 123
 http://tv1.live:25461/star7arab/WtnJQObFQO/6529
+
+#EXTINF:-1, MOVISTAR LALIGA
+http://tv1.live:25461/star7arab/WtnJQObFQO/6530
 
 #EXTINF:-1, LALIGA televisión BAR
 http://qqtv.nl:8080/live/norma/12345/88295.m3u8
