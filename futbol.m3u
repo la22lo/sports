@@ -651,6 +651,9 @@ http://bal.varcdn1.ru/lb/b5/index.m3u8
 #EXTINF:-1, CANAL + SPORT 
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2502/index.m3u8
 
+#EXTINF:-1, INFOSPORT +
+http://tv1.live:25461/star7arab/WtnJQObFQO/3992
+
 #EXTINF:-1, Premier Football HD 1 (TH)
 https://smart-tv.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
 
