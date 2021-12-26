@@ -556,6 +556,9 @@ https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
 https://smart-tv.livedoomovie.com:4431/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1 ,SPORT TV 5
+http://tv1.live:25461/star7arab/WtnJQObFQO/7093
+
+#EXTINF:-1 ,SPORT TV 5
 https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1 ,SPORT TV 4
@@ -642,11 +645,23 @@ http://tv1.live:25461/star7arab/WtnJQObFQO/6019
 #EXTINF:-1, ELEVEN SPORT 2
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 
+#EXTINF:-1, ELEVEN SPORT 1
+http://tv1.live:25461/star7arab/WtnJQObFQO/7089
+
 #EXTINF:-1, ELEVEN SPORT 2
 http://tv1.live:25461/star7arab/WtnJQObFQO/5986
 
+#EXTINF:-1, ELEVEN SPORT 2
+http://tv1.live:25461/star7arab/WtnJQObFQO/7090
+
 #EXTINF:-1, ELEVEN SPORT 3
 http://tv1.live:25461/star7arab/WtnJQObFQO/5987
+
+#EXTINF:-1, ELEVEN SPORT 3
+http://tv1.live:25461/star7arab/WtnJQObFQO/7091
+
+#EXTINF:-1, ELEVEN SPORT 4
+http://tv1.live:25461/star7arab/WtnJQObFQO/7092
 
 #EXTINF:-1, FOX SPORTS 1
 http://user.tvcluboficial.com/stream/nov/nov/493.m3u8
@@ -1049,6 +1064,9 @@ http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2507/index.m3u8
 
 #EXTINF:-1, SKY SPORTS 24
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
+
+#EXTINF:-1, SKY BET
+http://tv1.live:25461/star7arab/WtnJQObFQO/7094
 
 #EXTINF:-1, 11 INTERNACIONAL
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
