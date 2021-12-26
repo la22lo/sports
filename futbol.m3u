@@ -762,6 +762,12 @@ http://tv1.live:25461/star7arab/WtnJQObFQO/6244
 #EXTINF:-1, SKY SPORT 2 LIVE
 http://tv1.live:25461/star7arab/WtnJQObFQO/6251
 
+#EXTINF:-1, SKY CALCIO
+http://tv1.live:25461/star7arab/WtnJQObFQO/6275
+
+#EXTINF:-1, RAI CALCIO
+http://tv1.live:25461/star7arab/WtnJQObFQO/6287
+
 #EXTINF:-1, PTV SPORTS 2
 http://208.86.19.21/610.stream/index.m3u8
 
