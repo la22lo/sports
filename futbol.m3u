@@ -756,8 +756,8 @@ https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4q
 #EXTINF:-1, PTV SPORTS 1
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 
-#EXTINF:-1, MAGENTA SPORT
-http://198.144.159.43/4F_n_t66vrIxlqyd3tF-fw/1640312237/38332e33382e37352e31/ff97/playlist.m3u8
+#EXTINF:-1, SKY SPORT 1
+http://tv1.live:25461/star7arab/WtnJQObFQO/6244
 
 #EXTINF:-1, PTV SPORTS 2
 http://208.86.19.21/610.stream/index.m3u8
