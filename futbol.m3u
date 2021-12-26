@@ -645,6 +645,9 @@ https://stream1.1616.ro:1945/looksport3/livestream/chunklist_w64015557.m3u8
 #EXTINF:-1, LOOK SPORTS 3
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
 
+#EXTINF:-1, MAX SPORTS 3
+http://dontuse.fluxz.cc:80/90144908506629/160417160718/76051
+
 #EXTINF:-1 ,Diema Sport HD
 http://94.236.145.205:8000/play/a00s
 
