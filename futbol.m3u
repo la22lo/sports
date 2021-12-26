@@ -969,6 +969,9 @@ http://qqtv.nl:8080/live/norma/12345/7913.m3u8
 #EXTINF:-1, ESPN 2 MX
 http://user.tvcluboficial.com/stream/nov/nov/530.m3u8
 
+#EXTINF:-1, ESPN BRASIL
+https://transcoder-itatiba-01.nxplay.com.br/ESPN_BR/index.m3u8
+
 #EXTINF:-1, ESPN EXTRA
 http://user.tvcluboficial.com/stream/nov/nov/37.m3u8
 
