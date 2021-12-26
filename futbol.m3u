@@ -75,8 +75,14 @@ http://185.53.89.183/hls/ssla.m3u8
 #EXTINF:-1, BEIN SPORT AR 1
 http://tv1.live:25461/star7arab/WtnJQObFQO/3126
 
+#EXTINF:-1, BEIN SPORT AR 1 4k
+http://tv1.live:25461/star7arab/WtnJQObFQO/3176
+
 #EXTINF:-1, BEIN SPORT AR 2
 http://45.94.31.45/bar16502/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, BEIN SPORT AR 3 4k
+http://tv1.live:25461/star7arab/WtnJQObFQO/3178
 
 #EXTINF:-1, BEIN SPORT 2
 http://j2.aminouras.xyz/live/69854211/index.m3u8
