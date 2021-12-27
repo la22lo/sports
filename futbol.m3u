@@ -36,6 +36,9 @@ http://tv1.live:25461/star7arab/WtnJQObFQO/6530
 #EXTINF:-1, LALIGA televisión BAR
 http://qqtv.nl:8080/live/norma/12345/88295.m3u8
 
+#EXTINF:-1, MOVISTAR LIGA CAMPEONES
+http://tv1.live:25461/star7arab/WtnJQObFQO/6532
+
 #EXTINF:-1, SKY SPORTS
 https://tunelive.net:3412/stream/play.m3u8
 
