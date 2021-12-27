@@ -1527,11 +1527,14 @@ http://init.cheches.info:80/hls/109.m3u8
 #EXTINF:-1, EVENT 3
 http://init.cheches.info:80/hls/108.m3u8
 
-#EXTINF:-1, EVENT 3
+#EXTINF:-1, EVENT 4
 http://init.cheches.info:80/hls/107.m3u8
 
 #EXTINF:-1, EVENT 4
 http://init.cheches.info:80/hls/105.m3u8
+
+#EXTINF:-1, EVENT 5
+http://45.148.26.176/hls/M1.m3u8
 
 #EXTINF:-1, BEIN SPORT 3 LIVE
 http://45.94.31.45/bar16503/tracks-v1a1/mono.m3u8
