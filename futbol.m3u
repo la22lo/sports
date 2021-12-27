@@ -45,14 +45,8 @@ http://2.56.215.148:25461/live/test/test/3.m3u8?SBN
 #EXTINF:-1, BEIN 1
 http://b.banourahga.xyz/live/918454578001/index.m3u8
 
-#EXTINF:-1, BEIN 1
-http://11121314.org:2086/12345/12345/393338
-
 #EXTINF:-1, YAYA LIVE
 http://55.banrhfour.xyz.global.prod.fastly.net/live/918454578001/index.m3u8
-
-#EXTINF:-1, YAYA LIVE
-http://i12.amaniyouhra.xyz/live/61616550012/index.m3u8
 
 #EXTINF:-1, BEIN SPORT 1 TRUE VISIONS
 https://smart-tv.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8
@@ -78,9 +72,6 @@ http://qqtv.nl:8080/live/norma/12345/20267.m3u8
 #EXTINF:-1, ESPN +
 http://qqtv.nl:8080/live/norma/12345/20062.m3u8
 
-#EXTINF:-1, ESPN BRASIL
-https://transcoder-itatiba-01.nxplay.com.br/ESPN_BR/index.m3u8
-
 #EXTINF:-1, S LA LIGA
 http://185.53.89.183/hls/ssla.m3u8
 
@@ -99,9 +90,6 @@ http://tv1.live:25461/star7arab/WtnJQObFQO/3177
 #EXTINF:-1, BEIN SPORT AR 3 4k
 http://tv1.live:25461/star7arab/WtnJQObFQO/3178
 
-#EXTINF:-1, BEIN SPORT 2
-http://j2.aminouras.xyz/live/69854211/index.m3u8
-
 #EXTINF:-1, BEIN SPORT AR 1 PREMIUM
 http://45.94.31.45/bar165001/tracks-v1a1/mono.m3u8?SBN
 
@@ -110,9 +98,6 @@ http://208.86.19.21/725.stream/index.m3u8
 
 #EXTINF:-1, GEO SUPER
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
-
-#EXTINF:-1, LA LIGA TV
-https://d2n97s4tqtd7fm.cloudfront.net/stream/MjI0MQ==/1080p.m3u8?per
 
 #EXTINF:-1, S SPORT 1
 http://77.247.109.111/hls/T1.m3u8
@@ -231,9 +216,6 @@ https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann6/chunklist.m3u8?per
 #EXTINF:-1, BEIN SPORT 1 live TRUE VISIONS
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 
-#EXTINF:-1, BEIN SPORT 2 live TRUE VISIONS
-https://zg9ub-3rjb3b-5cg44aa-pktraom.googglecdns.com/edu/ch06/playlist.m3u8
-
 #EXTINF:-1, BEIN SPORT 1 live TRUE VISIONS
 https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
 
@@ -282,41 +264,11 @@ http://tv1.live:25461/star7arab/WtnJQObFQO/3156
 #EXTINF:-1, BEIN SPORT EXTRA 2
 http://tv1.live:25461/star7arab/WtnJQObFQO/3157
 
-#EXTINF:-1, MOVISTAR LALIGA 1
-http://iptv.ndasat.com:88/932882172668015/932882172668015/1590
-
-#EXTINF:-1, MOVISTAR LALIGA 2
-http://iptv.ndasat.com:88/932882172668015/932882172668015/2756
-
-#EXTINF:-1, VAMOS
-http://iptv.ndasat.com:88/932882172668015/932882172668015/1591
-
-#EXTINF:-1, VAMOS
-http://links.iptvlogin.com/live/LfPdKKYE9k/yqCMLZS6h5/30617.m3u8
-
-#EXTINF:-1, LALIGA TV BAR
-http://iptv.ndasat.com:88/932882172668015/932882172668015/32
-
-#EXTINF:-1, MOVISTAR LALIGA 3
-http://iptv.ndasat.com:88/932882172668015/932882172668015/21955
-
-#EXTINF:-1, DAZN
-http://iptv.ndasat.com:88/932882172668015/932882172668015/19235
-
-#EXTINF:-1, BEIN SPORT 1 PREMIUM
-http://j21.aminouras.xyz/live/14066007/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 1 PREMIUM
-http://tv1.live:25461/star7arab/WtnJQObFQO/3167
-
 #EXTINF:-1, BEIN SPORT 2 PREMIUM
 http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 
 #EXTINF:-1, BEIN SPORT 3 PREMIUM
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
-
-#EXTINF:-1, BEIN SPORT 3 PREMIUM
-http://j3.aminouras.xyz/live/61512788878/index.m3u8
 
 #EXTINF:-1, BEIN SPORT 1 
 https://link.zozotv.xyz:443/707070/707070/162
@@ -341,15 +293,6 @@ http://11121314.org:2086/12345/12345/329318
 
 #EXTINF:-1, BEIN SPORT 7
 http://11121314.org:2086/12345/12345/410268
-
-#EXTINF:-1, MOVISTAR LIGA CAMPEONES 
-http://iptv.ndasat.com:88/932882172668015/932882172668015/578
-
-#EXTINF:-1, MOVISTAR LIGA CAMPEONES 1
-http://iptv.ndasat.com:88/932882172668015/932882172668015/2738
-
-#EXTINF:-1, MOVISTAR LIGA CAMPEONES 2
-http://iptv.ndasat.com:88/932882172668015/932882172668015/2696
 
 #EXTINF:-1, BEIN SPORT 4
 http://str.smartip-tv.net:8888/BEIN_SPORT_4_HD/index.m3u8?token=test
@@ -428,24 +371,6 @@ http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
 
 #EXTINF:-1, BEIN SPORT 3 PREMIUM
 http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
-
-#EXTINF:-1, BEINSPORT 1 HD
-http://nl01.spr24.net/6447/mpegts?token=h48TyVziwqYmFE
-
-#EXTINF:-1, BEINSPORT 3 HD
-http://nl01.spr24.net/6451/mpegts?token=h48TyVziwqYmFE
-
-#EXTINF:-1, BEINSPORT 3
-http://nl01.spr24.net/6446/mpegts?token=h48TyVziwqYmFE
-
-#EXTINF:-1, BEINSPORT 4 HD
-http://nl01.spr24.net/5872/mpegts?token=h48TyVziwqYmFE
-
-#EXTINF:-1, BEINSPORT 5 HD
-http://nl01.spr24.net/6652/mpegts?token=h48TyVziwqYmFE
-
-#EXTINF:-1, BEINSPORT 6 HD
-http://nl01.spr24.net/6651/mpegts?token=h48TyVziwqYmFE
 
 #EXTINF:-1, BEINSPORT Ñ
 http://qqtv.nl:8080/live/norma/12345/88420.m3u8
@@ -669,11 +594,11 @@ http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
 #EXTINF:-1, CANAL CHINO 3 博斯運動2
 http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 
-#EXTINF:-1, SSC1
-https://ssc-5-ak.akamaized.net:443/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index_3.m3u8
-
 #EXTINF:-1, CANAL CHINO 4 魅力足球
 http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+
+#EXTINF:-1, SSC1
+https://ssc-5-ak.akamaized.net:443/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index_3.m3u8
 
 #EXTINF:-1, ELEVEN SPORT 1
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
@@ -687,11 +612,11 @@ http://tv1.live:25461/star7arab/WtnJQObFQO/6019
 #EXTINF:-1, ELEVEN SPORT 1
 http://46.249.32.53:8080/hls/ch11.m3u8
 
-#EXTINF:-1, ELEVEN SPORT 2
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-
 #EXTINF:-1, ELEVEN SPORT 1
 http://tv1.live:25461/star7arab/WtnJQObFQO/7089
+
+#EXTINF:-1, ELEVEN SPORT 2
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 
 #EXTINF:-1, ELEVEN SPORT 2
 http://tv1.live:25461/star7arab/WtnJQObFQO/5986
@@ -816,6 +741,9 @@ https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4q
 #EXTINF:-1, PTV SPORTS 1
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 
+#EXTINF:-1, PTV SPORTS 2
+http://208.86.19.21/610.stream/index.m3u8
+
 #EXTINF:-1, SKY SPORT 1
 http://tv1.live:25461/star7arab/WtnJQObFQO/6244
 
@@ -827,9 +755,6 @@ http://tv1.live:25461/star7arab/WtnJQObFQO/6275
 
 #EXTINF:-1, RAI CALCIO
 http://tv1.live:25461/star7arab/WtnJQObFQO/6287
-
-#EXTINF:-1, PTV SPORTS 2
-http://208.86.19.21/610.stream/index.m3u8
 
 #EXTINF:-1, SPORT 1
 https://95-213-224-183.livesports24.online/sport1ua.m3u8
@@ -863,9 +788,6 @@ http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_
 
 #EXTINF:-1,BEIN SPORT 1 TUR
 https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann7/chunklist.m3u8
-
-#EXTINF:-1,BEIN SPORT 1 TUR
-https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann2/chunklist.m3u8
 
 #EXTINF:-1,BEIN SPORT 2 TUR
 https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann3/chunklist.m3u8
@@ -968,9 +890,6 @@ http://qqtv.nl:8080/live/norma/12345/7913.m3u8
 
 #EXTINF:-1, ESPN 2 MX
 http://user.tvcluboficial.com/stream/nov/nov/530.m3u8
-
-#EXTINF:-1, ESPN BRASIL
-https://transcoder-itatiba-01.nxplay.com.br/ESPN_BR/index.m3u8
 
 #EXTINF:-1, ESPN EXTRA
 http://user.tvcluboficial.com/stream/nov/nov/37.m3u8
@@ -1104,9 +1023,6 @@ http://qqtv.nl:8080/live/norma/12345/397212.m3u8
 #EXTINF:-1, DEPORTV ARG
 http://qqtv.nl:8080/live/norma/12345/397211.m3u8
 
-#EXTINF:-1, ASTRO ARENA
-https://lnk.ec/AstroArena?shareext.m3u8
-
 #EXTINF:-1,STARS SPORT 1
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2508/index.m3u8
 
@@ -1139,9 +1055,6 @@ http://93.157.62.180:80/KSport3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, K SPORT 4
 http://93.157.62.180:80/KSport4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, ABC
-https://d1iahah7i76psj.cloudfront.net/hls/abc/chunks.m3u8
 
 #EXTINF:-1, AD SPORTS
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
