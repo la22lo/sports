@@ -7,6 +7,9 @@ http://93.152.174.144:4000/play/bein1ar/index.m3u8?checkedby:iptvcat.com
 http://tv1.live:25461/star7arab/WtnJQObFQO/3176
 
 #EXTINF:-1, MOVISTAR LALIGA
+http://qqtv.nl:8080/live/norma/12345/31019.m3u8
+
+#EXTINF:-1, MOVISTAR LALIGA
 http://qqtv.nl:8080/live/norma/12345/87460.m3u8
 
 #EXTINF:-1, MOVISTAR LALIGA
@@ -17,9 +20,6 @@ http://tv1.live:25461/star7arab/WtnJQObFQO/6463
 
 #EXTINF:-1, MOVISTAR LALIGA
 http://tv1.live:25461/star7arab/WtnJQObFQO/6473
-
-#EXTINF:-1, MOVISTAR LALIGA
-http://qqtv.nl:8080/live/norma/12345/31019.m3u8
 
 #EXTINF:-1, MOVISTAR LALIGA
 http://tv1.live:25461/star7arab/WtnJQObFQO/6539
