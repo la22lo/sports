@@ -1599,5 +1599,17 @@ http://cdn2.cyclingnews.live/hls/P1.m3u8
 #EXTINF:-1, BEIN SPORT 2 PREMIUM
 http://init.cheches.info:80/hls/102.m3u8	
 
+#EXTINF:0, DIEMA SPORT 1 HD [100]
+http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118776?checkedby:iptvcat.com
+
+#EXTINF:0, Diema Sport 2 HD [100]
+http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/115419?checkedby:iptvcat.com
+
+#EXTINF:0, MAX SPORT 4 HD [100]
+http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118781?checkedby:iptvcat.com
+
+#EXTINF:0, NOVA SPORT HD [100]
+http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118782?checkedby:iptvcat.com
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
