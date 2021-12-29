@@ -1101,6 +1101,9 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1, SHARJJAH SPORT
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
+#EXTINF:-1, ONE HD
+https://streamalkasscustom.azureedge.net/livehttporigin/smil:alkass1a.smil/chunklist_b2065536_sleng.m3u8
+
 #EXTINF:-1, KBP SPORT
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
