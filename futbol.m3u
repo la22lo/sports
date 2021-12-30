@@ -714,6 +714,9 @@ https://www.wopep.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1, TRUE PREMIER FUTBOL HD7
 https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
 
+#EXTINF:-1, Live Direct
+https://nl.castamp.com/live/mar02/chunklist.m3u8?h=vaF40n3Bd3DqLUkZQV7qvw&e=1640924070&u=c7c5073331adb83ce31dc86e724b7e3d&d=82_130_243_112
+
 #EXTINF:-1, Футбол 2
 https://95-213-224-181.livesports24.online/fooootball2.m3u8
 
