@@ -51,6 +51,9 @@ http://tv1.live:25461/star7arab/WtnJQObFQO/6532
 #EXTINF:-1, SKY SPORTS
 https://tunelive.net:3412/stream/play.m3u8
 
+#EXTINF:-1, SKY SPORTS
+http://185.191.126.169:80/play/6Z9kH7XHKrHOAIipci2gbFZVUYS9xzw0b2IlTmCeS9Qt7_MeZxooTzFECIq5_CxK/.m3u8?mvk
+
 #EXTINF:-1, BEIN 1
 http://2.56.215.148:25461/live/test/test/3.m3u8?SBN
 
