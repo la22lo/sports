@@ -183,6 +183,9 @@ http://user.tvcluboficial.com/stream/nov/nov/667.m3u8
 #EXTINF:-1, DIRECTV SPORT 2
 http://qqtv.nl:8080/live/norma/12345/20311.m3u8
 
+#EXTINF:-1, DIRECTV SPORT
+https://videodelivery.net/f2edc1a2e12c36f737788802bad60374/manifest/video.m3u8
+
 #EXTINF:-1, DIRECTV SPORT +
 http://qqtv.nl:8080/live/norma/12345/20261.m3u8
 
