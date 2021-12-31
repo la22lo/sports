@@ -6,6 +6,9 @@ http://93.152.174.144:4000/play/bein1ar/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1, BEIN SPORT AR 1 4K
 http://tv1.live:25461/star7arab/WtnJQObFQO/3176
 
+#EXTINF:-1, ELEVEN 1
+https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+
 #EXTINF:-1, MOVISTAR LALIGA
 http://qqtv.nl:8080/live/norma/12345/31019.m3u8
 
@@ -173,9 +176,6 @@ http://ytv.plus:25461/live/mercedes/1234/2304.m3u8
 
 #EXTINF:-1, DIRECTV SPORT
 http://ytv.plus:25461/live/mercedes/1234/2926.m3u8
-
-#EXTINF:-1, ELEVEN 1
-https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
 #EXTINF:-1, ELEVEN SPORT 1
 https://da-d50d173c.online.meo.pt/wp/cdn-er-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
