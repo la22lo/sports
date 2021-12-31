@@ -45,6 +45,9 @@ http://tv1.live:25461/star7arab/WtnJQObFQO/6530
 #EXTINF:-1, LALIGA televisión BAR
 http://qqtv.nl:8080/live/norma/12345/88295.m3u8
 
+#EXTINF:-1, LALIGA BAR
+http://185.191.126.169:80/play/6Z9kH7XHKrHOAIipci2gbJS23ybKcYtN31xiCwuWmJPRmXyB9O92Y5A6Ls9wtvYw/.m3u8
+
 #EXTINF:-1, MOVISTAR LIGA CAMPEONES
 http://tv1.live:25461/star7arab/WtnJQObFQO/6532
 
