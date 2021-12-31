@@ -480,6 +480,9 @@ https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
 #EXTINF:-1, SETANTA SPORT 1
 https://185-107-80-245.livesports24.online/rusetantaeurasia.m3u8
 
+#EXTINF:-1, SETANTA SPORT
+https://bal.varcdn1.ru/lb/setanta1/index.m3u8?mvk
+
 #EXTINF:-1, MATH SPORT
 https://bal.varcdn1.ru/lb/match/index.m3u8?per
 
