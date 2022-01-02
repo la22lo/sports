@@ -24,6 +24,9 @@ https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleve
 #EXTINF:-1, VAMOS TV
 http://spainott.site/live/CWOVAPGGYI/QD1ZOTOBRV/1898.ts
 
+#EXTINF:-1, LALIGATV
+http://45.148.26.176/hls/M2.m3u8
+
 #EXTINF:-1, MOVISTAR LALIGA
 http://54.39.48.63:8081/ESP%7CMOVISTARLALIGA/ESP%7CMOVISTARLALIGA/playlist.m3u8
 
@@ -1619,9 +1622,6 @@ http://77.247.109.101/hls/A2.m3u8
 
 #EXTINF:-1, S LALIGA TV
 http://iptv.tvmalaysia.cc:80/penang174/penang174/6575
-
-#EXTINF:-1, LALIGATV
-http://45.148.26.176/hls/M2.m3u8
 
 #EXTINF:-1, SKY SPORTS
 https://tunelive.net:3245/stream/play.m3u8
