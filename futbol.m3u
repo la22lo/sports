@@ -16,9 +16,6 @@ https://tunelive.net:3412/stream/play.m3u8
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
 #EXTINF:-1, PUCELA
-https://play.girlupx.cn/live/ballbar_11840.m3u8
-
-#EXTINF:-1, PUCELA
 http://spainott.site/live/CWOVAPGGYI/QD1ZOTOBRV/1898.ts
 
 #EXTINF:-1, DAZN
@@ -1637,9 +1634,6 @@ http://cdn2.cyclingnews.live/hls/P1.m3u8
 
 #EXTINF:-1, BEIN SPORT 2 PREMIUM
 http://init.cheches.info:80/hls/102.m3u8	
-
-#EXTINF:-1, PUCELA
-http://127.0.0.1:6878/ace/m/8096dd672714bed9fc4e138f6d2a1d992f8e2d07/1c183982e9b9227f9fbb701f416c7ba6.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
