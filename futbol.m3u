@@ -15,11 +15,8 @@ https://tunelive.net:3412/stream/play.m3u8
 #EXTINF:-1, ELEVEN 1
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
-#EXTINF:-1, PUCELA
+#EXTINF:-1, VAMOS TV
 http://spainott.site/live/CWOVAPGGYI/QD1ZOTOBRV/1898.ts
-
-#EXTINF:-1, DAZN
-https://kgqnmpull.aiguitar.cn/live/sd-1-3570732.m3u8
 
 #EXTINF:-1, MOVISTAR LALIGA
 http://54.39.48.63:8081/ESP%7CMOVISTARLALIGA/ESP%7CMOVISTARLALIGA/playlist.m3u8
