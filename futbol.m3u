@@ -57,6 +57,9 @@ http://185.191.126.169:80/play/6Z9kH7XHKrHOAIipci2gbJS23ybKcYtN31xiCwuWmJPRmXyB9
 #EXTINF:-1, LALIGA televisión BAR
 http://qqtv.nl:8080/live/norma/12345/88295.m3u8
 
+#EXTINF:-1, VAMOS TV
+http://51.222.43.170:36995/live/Luisapk/Si0yNffK39/1218.chunklist_w3579000654322466544637294435677543466767.m3u8?mvk
+
 #EXTINF:-1, MOVISTAR LIGA CAMPEONES
 http://tv1.live:25461/star7arab/WtnJQObFQO/6532
 
@@ -323,9 +326,6 @@ http://str.smartip-tv.net:8888/BEIN_SPORT_4_HD/index.m3u8?token=test
 
 #EXTINF:-1, MOVISTAR F1
 http://tv1.live:25461/star7arab/WtnJQObFQO/6543
-
-#EXTINF:-1, VAMOS TV
-http://51.222.43.170:36995/live/Luisapk/Si0yNffK39/1218.chunklist_w3579000654322466544637294435677543466767.m3u8?mvk
 
 #EXTINF:-1, VAMOS TV
 http://185.191.126.169:80/live/LfPdKKYE9k/yqCMLZS6h5/30617.m3u8
