@@ -1,16 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1, SKY SPORTS
+https://tunelive.net:3412/stream/play.m3u8
+
+#EXTINF:-1, ELEVEN 1
+https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+
 #EXTINF:-1, BEIN SPORT AR 1
 http://93.152.174.144:4000/play/bein1ar/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1, BEIN SPORT AR 1 4K
 http://tv1.live:25461/star7arab/WtnJQObFQO/3176
-
-#EXTINF:-1, LALIGA televisión BAR
-http://qqtv.nl:8080/live/norma/12345/88295.m3u8
-
-#EXTINF:-1, ELEVEN 1
-https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
 #EXTINF:-1, MOVISTAR LALIGA
 http://qqtv.nl:8080/live/norma/12345/31019.m3u8
@@ -48,11 +48,11 @@ http://tv1.live:25461/star7arab/WtnJQObFQO/6530
 #EXTINF:-1, LALIGA BAR
 http://185.191.126.169:80/play/6Z9kH7XHKrHOAIipci2gbJS23ybKcYtN31xiCwuWmJPRmXyB9O92Y5A6Ls9wtvYw/.m3u8
 
+#EXTINF:-1, LALIGA televisión BAR
+http://qqtv.nl:8080/live/norma/12345/88295.m3u8
+
 #EXTINF:-1, MOVISTAR LIGA CAMPEONES
 http://tv1.live:25461/star7arab/WtnJQObFQO/6532
-
-#EXTINF:-1, SKY SPORTS
-https://tunelive.net:3412/stream/play.m3u8
 
 #EXTINF:-1, SKY SPORTS
 http://185.191.126.169:80/play/6Z9kH7XHKrHOAIipci2gbFZVUYS9xzw0b2IlTmCeS9Qt7_MeZxooTzFECIq5_CxK/.m3u8?mvk
