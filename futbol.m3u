@@ -12,6 +12,9 @@ https://tunelive.net:3412/stream/play.m3u8
 #EXTINF:-1, ELEVEN 1
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
+#EXTINF:-1, PUCELA
+https://play.girlupx.cn/live/ballbar_11840.m3u8
+
 #EXTINF:-1, VAMOS
 http://info.skuiptv.com:90/estefania678/estefania287/43175
 
