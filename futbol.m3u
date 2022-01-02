@@ -1629,5 +1629,8 @@ http://init.cheches.info:80/hls/102.m3u8
 #EXTINF:-1, PUCELA
 http://127.0.0.1:6878/ace/m/8096dd672714bed9fc4e138f6d2a1d992f8e2d07/1c183982e9b9227f9fbb701f416c7ba6.m3u8
 
+#EXTINF:-1, PUCELA
+http://spainott.site/live/CWOVAPGGYI/QD1ZOTOBRV/1898.ts
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
