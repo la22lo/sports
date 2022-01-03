@@ -753,6 +753,15 @@ http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2508/index.m3u8
 #EXTINF:-1,STARS SPORT 2
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2507/index.m3u8
 
+#EXTINF: -1,JioFootball1HD(auto)
+http://jo123.biz/jweb/m3u8.php?c=Jio_Football_1&q=800&e=junk.m3u8
+
+#EXTINF: -1,JioFootball2HD(auto)
+http://jo123.biz/jweb/m3u8.php?c=Jio_Football_2&q=800&e=junk.m3u8
+
+#EXTINF: -1,JioFootball3HD(auto)
+http://jo123.biz/jweb/m3u8.php?c=Jio_Football_3&q=800&e=junk.m3u8
+
 #EXTINF:-1, SKY SPORTS 24
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 
