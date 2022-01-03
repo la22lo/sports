@@ -210,8 +210,11 @@ http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2500/index.m3u8
 #EXTINF:-1, beIN Sports 3 French
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2501/index.m3u8
 
-#EXTINF:-1, beIN Sports 2 ENGLISH
-https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann27/chunklist.m3u8
+#EXTINF:-1, beIN 1 English
+https://iptv.nullpress.xyz:8443/Zkl76/6688/25
+
+#EXTINF:-1, beIN 2 English
+https://iptv.nullpress.xyz:8443/Zkl76/6688/26
 
 #EXTINF:-1, BEINSPORT Ñ
 http://qqtv.nl:8080/live/norma/12345/88420.m3u8
