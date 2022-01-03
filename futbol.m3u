@@ -774,9 +774,6 @@ http://jo123.biz/jweb/m3u8.php?c=Jio_Football_2&q=800&e=junk.m3u8
 #EXTINF: -1,JioFootball3HD(auto)
 http://jo123.biz/jweb/m3u8.php?c=Jio_Football_3&q=800&e=junk.m3u8
 
-#EXTINF:-1,XtreamSports hd
-http://58.65.171.202:8000/play/10506/index.m3u8
-
 #EXTINF:-1,RikSports HD
 https://nn.geo.joj.sk/live/hls/rik-540.m3u8
 
