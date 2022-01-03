@@ -1251,5 +1251,41 @@ http://45.94.31.45/bar16504/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BEIN SPORT 5 HD
 http://45.94.31.45/bar16505/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,AR: Bein Sport 1HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6872
+
+#EXTINF:-1,AR: Bein Sport 2HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6871
+
+#EXTINF:-1,AR: Bein Sport 3HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6870
+
+#EXTINF:-1,AR: Bein Sport 4HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6869
+
+#EXTINF:-1,AR: Bein Sport 5HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6868
+
+#EXTINF:-1,AR: Bein Sport 6HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6867
+
+#EXTINF:-1,AR: Bein Sport 7HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6866
+
+#EXTINF:-1,AR: Bein Sport 8HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6865
+
+#EXTINF:-1,AR: Bein Sport 9HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6864
+
+#EXTINF:-1,AR: Bein Sport 10HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6863
+
+#EXTINF:-1,AR: Bein Sport 11HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2745
+
+#EXTINF:-1,AR: Bein Sport 12HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2746
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
