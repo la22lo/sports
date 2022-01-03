@@ -219,6 +219,18 @@ http://qqtv.nl:8080/live/norma/12345/88420.m3u8
 #EXTINF:-1, BEINSPORT LALIGA USA
 http://qqtv.nl:8080/live/norma/12345/87458.m3u8
 
+#EXTINF:-1,Look Sport 1
+https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+
+#EXTINF:-1,Look Sport 2
+https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+
+#EXTINF:-1,Look Sport 3
+https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+
+#EXTINF:-1,Look Sport+
+https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+
 #EXTINF:-1, SETANTA SPORT
 https://bal.varcdn1.ru/lb/setanta1/index.m3u8
 
