@@ -189,23 +189,53 @@ https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1, BEIN SPORT
 https://link.zozotv.xyz:443/707070/707070/164
 
+#EXTINF:-1, BEIN SPORT 1 PREMIUM
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/108161
+
 #EXTINF:-1, BEIN SPORT 2 PREMIUM
 http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+
+#EXTINF:-1, BEIN SPORT 2 PREMIUM
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/2
 
 #EXTINF:-1, BEIN SPORT 3 PREMIUM
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
 
+#EXTINF:-1, BEIN SPORT 3 PREMIUM
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/109
+
 #EXTINF:-1, BEIN SPORT 1 
 https://link.zozotv.xyz:443/707070/707070/162
+
+#EXTINF:-1, BEIN SPORT 1 4k
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/114050
 
 #EXTINF:-1, BEIN SPORT 2
 https://link.zozotv.xyz:443/707070/707070/163
 
+#EXTINF:-1, BEIN SPORT 2 4K
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/114049
+
 #EXTINF:-1, BEIN SPORT 3
 http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
 
+#EXTINF:-1, BEIN SPORT 3 4K
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/114048
+
 #EXTINF:-1, BEIN SPORT 4
 http://str.smartip-tv.net:8888/BEIN_SPORT_4_HD/index.m3u8?token=test
+
+#EXTINF:-1, BEIN SPORT 4 4K
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/114047
+
+#EXTINF:-1, BEIN SPORT 5 4K
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/114046
+
+#EXTINF:-1, BEIN SPORT 6 4K
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/114045
+
+#EXTINF:-1, BEIN SPORT 7 4K
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/114044
 
 #EXTINF:-1,beIN SPORTS 1 PREMIER
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
@@ -215,6 +245,12 @@ http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 
 #EXTINF:-1,beIN SPORTS 3 PREMIER
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+
+#EXTINF:-1,beIN EXTRA 1
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/117125
+
+#EXTINF:-1,beIN EXTRA 2
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/117130
 
 #EXTINF:-1, MOVISTAR LALIGA
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
