@@ -1440,14 +1440,5 @@ https://hll.hnzzdf.com.cn/live/H31721.m3u8?txSecret=3730f2f1e6042b5adb0f4a068cea
 #EXTINF:-1, LALIGATV
 http://45.148.26.176/hls/M2.m3u8
 
-#EXTINF:-1, Eleven Sports 1 HD
-http://94.155.204.102:4000/play/a061
-
-#EXTINF:-1, Eleven Sports 2 HD
-http://94.155.204.102:4000/play/a04d
-
-#EXTINF:-1, Eleven Sports 2 HD
-http://94.155.204.102:4000/play/a0cw
-
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
