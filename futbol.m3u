@@ -726,6 +726,9 @@ http://user.tvcluboficial.com/stream/nov/nov/725.m3u8
 #EXTINF:-1, TNT SPORTS
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 
+#EXTINF:-1, TNT SPORTS 2
+http://user.tvcluboficial.com/stream/nov/nov/725.m3u8
+
 #EXTINF:-1, TNT SPORTS 3
 http://qqtv.nl:8080/live/norma/12345/389559.m3u8
 
@@ -782,6 +785,9 @@ http://qqtv.nl:8080/live/norma/12345/20321.m3u8
 
 #EXTINF:-1, DEPORTV ARG
 http://qqtv.nl:8080/live/norma/12345/397211.m3u8
+
+#EXTINF:-1, VIP PLUS
+http://user.tvcluboficial.com/stream/nov/nov/708.m3u8
 
 #EXTINF:-1,STARS SPORT 1
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2508/index.m3u8
