@@ -843,6 +843,36 @@ https://nn.geo.joj.sk/live/hls/rik-540.m3u8
 #EXTINF:-1, SKY SPORTS 24
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 
+#EXTINF:-1, SKY SPORTS 24
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2159
+
+#EXTINF:-1, SKY SPORT CALCIO
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2108
+
+#EXTINF:-1, SKY SPORT FOOTBALL
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/11
+
+#EXTINF:-1, SKY SPORT ARENA
+http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/2106
+
+#EXTINF:-1, SKY SPORT TENIS
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2175
+
+#EXTINF:-1, SKY SPORT F1
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2109
+
+#EXTINF:-1, SKY SPORT GP
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2161
+
+#EXTINF:-1, SKY SPORT NBA
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2160
+
+#EXTINF:-1, RAI SPORTS HD
+http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/1899
+
+#EXTINF:-1, SPORT ITALIA
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/3052
+
 #EXTINF:-1, 11 INTERNACIONAL
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
 
