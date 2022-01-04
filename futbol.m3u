@@ -105,6 +105,15 @@ http://55.banrhfour.xyz.global.prod.fastly.net/live/610303030/index.m3u8
 #EXTINF:-1, Beinsport 6 AR
 http://55.banrhfour.xyz.global.prod.fastly.net/live/1515000000/index.m3u8
 
+#EXTINF:-1, Beinsport NEWS AR
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/28939
+
+#EXTINF:-1, Beinsport GLOBAL AR
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/28938
+
+#EXTINF:-1, Bein 4k
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/190369
+
 #EXTINF:-1, ESPN 2 VIVO
 http://matiasstornini00.shortcm.li:80/ch1.m3u8
 
