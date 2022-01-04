@@ -120,6 +120,9 @@ http://qqtv.nl:8080/live/norma/12345/20267.m3u8
 #EXTINF:-1, ESPN +
 http://qqtv.nl:8080/live/norma/12345/20062.m3u8
 
+#EXTINF:-1, ESPN BRASIL
+https://transcoder-itatiba-01.nxplay.com.br/ESPN_BR/index.m3u8
+
 #EXTINF:-1, S LA LIGA
 http://185.53.89.183/hls/ssla.m3u8
 
