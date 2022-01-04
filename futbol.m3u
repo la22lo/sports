@@ -996,6 +996,21 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1, ONE HD
 https://streamalkasscustom.azureedge.net/livehttporigin/smil:alkass1a.smil/chunklist_b2065536_sleng.m3u8
 
+#EXTINF:-1, TWO HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22838
+
+#EXTINF:-1, THREE HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22839
+
+#EXTINF:-1, FOUR HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22840
+
+#EXTINF:-1, FIVE HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22841
+
+#EXTINF:-1, SIX HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22842
+
 #EXTINF:-1, KBP SPORT
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
