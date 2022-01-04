@@ -258,6 +258,9 @@ http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/117130
 #EXTINF:-1, MOVISTAR LALIGA
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 
+#EXTINF:-1, TV BAR
+http://185.134.22.131:8080/live/Carlos123/Carlos123/36467.m3u8
+
 #EXTINF:-1, MULTIDEPORTE
 http://qqtv.nl:8080/live/norma/12345/31020.m3u8
 
