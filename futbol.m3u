@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1, SPORTTV 1
+https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+
+#EXTINF:-1, SPORTTV 2
+https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+
+#EXTINF:-1, SPORTTV 3
+https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV3_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+
 #EXTINF:-1, BEIN 1
 http://b.banourahga.xyz/live/918454578001/index.m3u8
 
