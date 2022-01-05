@@ -30,6 +30,21 @@ http://qqtv.nl:8080/live/norma/12345/20106.m3u8
 #EXTINF:-1, ESPN BRASIL
 https://transcoder-itatiba-01.nxplay.com.br/ESPN_BR/index.m3u8
 
+#EXTINF:-1, DIRECTV SPORT 2
+http://user.tvcluboficial.com/stream/nov/nov/667.m3u8
+
+#EXTINF:-1, DIRECTV SPORT 2
+http://qqtv.nl:8080/live/norma/12345/20311.m3u8
+
+#EXTINF:-1, DIRECTV SPORT +
+http://qqtv.nl:8080/live/norma/12345/20261.m3u8
+
+#EXTINF:-1, DIRECTV SPORT +
+http://ytv.plus:25461/live/mercedes/1234/2304.m3u8
+
+#EXTINF:-1, DIRECTV SPORT
+http://ytv.plus:25461/live/mercedes/1234/2926.m3u8
+
 #EXTINF:-1,Look Sport 1
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 
