@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1, BEIN SPORT 1 LIVE AR
-http://55.banrhfour.xyz.global.prod.fastly.net/live/918454578001/index.m3u8
+#EXTINF:-1, BEIN 1
+http://b.banourahga.xyz/live/918454578001/index.m3u8
 
 #EXTINF:-1, BEIN SPORT AR 1
 http://93.152.174.144:4000/play/bein1ar/index.m3u8?checkedby:iptvcat.com
@@ -18,9 +18,6 @@ https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8?per
 #EXTINF:-1, BEIN SPORT 2 TRUE VISIONS
 https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8?per
 
-#EXTINF:-1, BEIN 1
-http://b.banourahga.xyz/live/918454578001/index.m3u8
-
 #EXTINF:-1, BEIN YAYA LIVE
 http://55.banrhfour.xyz.global.prod.fastly.net/live/918454578001/index.m3u8?mvk
 
@@ -35,9 +32,6 @@ http://user.tvcluboficial.com/stream/nov/nov/761.m3u8
 
 #EXTINF:-1, ESPN 2 VIVO
 https://5g9s179kfgx9wn8tqwj9-cul47i-cfl.p5cdn.com/dlive/transcode-81-37/fad233s/1640698505/src/live.m3u8
-
-#EXTINF:-1, BEIN SPORT 3 LIVE AR
-http://55.banrhfour.xyz.global.prod.fastly.net/live/645587700/index.m3u8
 
 #EXTINF:-1, BEIN SPORT 3 LIVE AR
 http://93.152.174.144:4000/play/bein3ar/index.m3u8
@@ -95,21 +89,6 @@ https://smart-tv.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8
 
 #EXTINF:-1, BEIN SPORT 1 TRUE VISIONS
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
-
-#EXTINF:-1, BEINSPORT 1 AR
-http://55.banrhfour.xyz.global.prod.fastly.net/live/918454578001/index.m3u8
-
-#EXTINF:-1, Beinsport 3 AR
-http://55.banrhfour.xyz.global.prod.fastly.net/live/645587700/index.m3u8
-
-#EXTINF:-1, Beinsport 4 AR
-http://55.banrhfour.xyz.global.prod.fastly.net/live/9787488847/index.m3u8
-
-#EXTINF:-1, Beinsport 5 AR
-http://55.banrhfour.xyz.global.prod.fastly.net/live/610303030/index.m3u8
-
-#EXTINF:-1, Beinsport 6 AR
-http://55.banrhfour.xyz.global.prod.fastly.net/live/1515000000/index.m3u8
 
 #EXTINF:-1, Beinsport NEWS AR
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/28939
