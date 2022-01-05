@@ -21,6 +21,12 @@ http://qqtv.nl:8080/live/norma/12345/20319.m3u8
 #EXTINF:-1, DIRECTV + ECUADOR
 http://qqtv.nl:8080/live/norma/12345/20059.m3u8
 
+#EXTINF:-1, DIRECTV SPORT 1
+http://user.tvcluboficial.com/stream/nov/nov/259.m3u8
+
+#EXTINF:-1, DIRECTV SPORT 1
+http://qqtv.nl:8080/live/norma/12345/20106.m3u8
+
 #EXTINF:-1, ESPN BRASIL
 https://transcoder-itatiba-01.nxplay.com.br/ESPN_BR/index.m3u8
 
