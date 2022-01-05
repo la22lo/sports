@@ -48,6 +48,9 @@ http://ytv.plus:25461/live/mercedes/1234/2304.m3u8
 #EXTINF:-1, DIRECTV SPORT
 http://ytv.plus:25461/live/mercedes/1234/2926.m3u8
 
+#EXTINF:-1, DIRECTV SPORT
+https://akamai2-br.cdn.booyah.live/hls/1500066/104464344.m3u8
+
 #EXTINF:-1,Look Sport 1
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 
