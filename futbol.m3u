@@ -30,6 +30,9 @@ http://qqtv.nl:8080/live/norma/12345/20106.m3u8
 #EXTINF:-1, DAZN 1
 http://qqtv.nl:8080/live/norma/12345/391225.m3u8
 
+#EXTINF:-1, DAZN 2
+http://46.249.32.53:81/fastocloud/hls/2/61d38d4b04bf53199bfc9e4e/74/master.m3u8
+
 #EXTINF:-1, ESPN BRASIL
 https://transcoder-itatiba-01.nxplay.com.br/ESPN_BR/index.m3u8
 
