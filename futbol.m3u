@@ -54,6 +54,9 @@ https://tunelive.net:3412/stream/play.m3u8
 #EXTINF:-1, DAZN
 http://spainott.site/live/CWOVAPGGYI/QD1ZOTOBRV/41323.ts
 
+#EXTINF:-1, PREMIER SPORT 1
+http://46.249.32.53:81/fastocloud/hls/2/61d38d4b04bf53199bfc9e4b/68/master.m3u8
+
 #EXTINF:-1, VAMOS TV
 http://spainott.site/live/CWOVAPGGYI/QD1ZOTOBRV/1898.ts
 
