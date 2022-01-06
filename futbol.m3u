@@ -1,44 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, DIRECTV SPORT 2
-http://user.tvcluboficial.com/stream/nov/nov/667.m3u8
-
-#EXTINF:-1, DIRECTV SPORT 2
-http://qqtv.nl:8080/live/norma/12345/20311.m3u8
-
-#EXTINF:-1, DIRECTV SPORT +
-http://qqtv.nl:8080/live/norma/12345/20261.m3u8
-
-#EXTINF:-1, DIRECTV SPORT +
-http://ytv.plus:25461/live/mercedes/1234/2304.m3u8
-
-#EXTINF:-1, DIRECTV SPORT
-http://ytv.plus:25461/live/mercedes/1234/2926.m3u8
-
-#EXTINF:-1, DIRECTV SPORT
-https://akamai2-br.cdn.booyah.live/hls/1500066/104464344.m3u8
-
-#EXTINF:-1, DIRECTV SPORT
-https://live.flote.app/acacad4c-4c78-4388-a697-91ecb287aa2e/index.m3u8
-
-#EXTINF:-1, DIRECTV SPORT
-https://5g9s179kfgx9wn8tqwj9-cul47i-cfl.p5cdn.com/dlive/transcode-65-228/mvewce/1641395046/src/live.m3u8
-
-#EXTINF:-1,Look Sport 1
-https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-
-#EXTINF:-1,Look Sport 2
-https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-
-#EXTINF:-1,Look Sport 3
-https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-
-#EXTINF:-1,Look Sport+
-https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-
-#EXTINF:-1,ISRAEL 3
-https://iptv.x-cloud.info:1443/Sport3HD/video.m3u8?token=QVI9YA3q12
-
 #EXTINF:-1, PREMIER SPORT 1
 http://46.249.32.53:81/fastocloud/hls/2/61d38d4b04bf53199bfc9e4b/68/master.m3u8
 
@@ -227,6 +188,15 @@ http://ytv.plus:25461/live/mercedes/1234/2926.m3u8
 
 #EXTINF:-1, DIRECTV SPORT 1
 https://mn-nl-glb.mncdn.com/dlive/transcode-93-29/nefb3/1641394747/src/live.m3u8
+
+#EXTINF:-1, DIRECTV SPORT
+https://akamai2-br.cdn.booyah.live/hls/1500066/104464344.m3u8
+
+#EXTINF:-1, DIRECTV SPORT
+https://live.flote.app/acacad4c-4c78-4388-a697-91ecb287aa2e/index.m3u8
+
+#EXTINF:-1, DIRECTV SPORT
+https://5g9s179kfgx9wn8tqwj9-cul47i-cfl.p5cdn.com/dlive/transcode-65-228/mvewce/1641395046/src/live.m3u8
 
 #EXTINF:-1, ELEVEN SPORT 1
 https://da-d50d173c.online.meo.pt/wp/cdn-er-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
@@ -722,6 +692,9 @@ https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8
 
 #EXTINF:-1, LOOK SPORTS HD
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+
+#EXTINF:-1,ISRAEL 3
+https://iptv.x-cloud.info:1443/Sport3HD/video.m3u8?token=QVI9YA3q12
 
 #EXTINF:-1, PTV SPORTS 1
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
