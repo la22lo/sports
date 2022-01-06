@@ -105,15 +105,6 @@ https://smart-tv.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8
 #EXTINF:-1, BEIN SPORT 1 TRUE VISIONS
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 
-#EXTINF:-1, Beinsport NEWS AR
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/28939
-
-#EXTINF:-1, Beinsport GLOBAL AR
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/28938
-
-#EXTINF:-1, Bein 4k
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/190369
-
 #EXTINF:-1, ESPN 2 VIVO
 https://videodelivery.net/d076a59f894c85552b7f19599f81e4d3/manifest/stream_t1_r2.m3u8
 
@@ -249,29 +240,11 @@ http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/114050
 #EXTINF:-1, BEIN SPORT 2
 https://link.zozotv.xyz:443/707070/707070/163
 
-#EXTINF:-1, BEIN SPORT 2 4K
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/114049
-
 #EXTINF:-1, BEIN SPORT 3
 http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
 
-#EXTINF:-1, BEIN SPORT 3 4K
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/114048
-
 #EXTINF:-1, BEIN SPORT 4
 http://str.smartip-tv.net:8888/BEIN_SPORT_4_HD/index.m3u8?token=test
-
-#EXTINF:-1, BEIN SPORT 4 4K
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/114047
-
-#EXTINF:-1, BEIN SPORT 5 4K
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/114046
-
-#EXTINF:-1, BEIN SPORT 6 4K
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/114045
-
-#EXTINF:-1, BEIN SPORT 7 4K
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/114044
 
 #EXTINF:-1,beIN SPORTS 1 PREMIER
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
@@ -281,12 +254,6 @@ http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 
 #EXTINF:-1,beIN SPORTS 3 PREMIER
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
-
-#EXTINF:-1,beIN EXTRA 1
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/117125
-
-#EXTINF:-1,beIN EXTRA 2
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/117130
 
 #EXTINF:-1, MOVISTAR LALIGA
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
@@ -309,38 +276,20 @@ http://user.tvcluboficial.com/stream/nov/nov/367.m3u8
 #EXTINF:-1, beIN Sports 1 French
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2499/index.m3u8
 
-#EXTINF:-1, beIN Sports 1 French 4K
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/149600
-
 #EXTINF:-1, beIN Sports 2 French
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2500/index.m3u8
-
-#EXTINF:-1, beIN Sports 2 French 4K
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/149601
 
 #EXTINF:-1, beIN Sports 3 French
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2501/index.m3u8
 
-#EXTINF:-1, beIN Sports 3 French 4K
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/149608
-
 #EXTINF:-1, beIN SPORTS English 1
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
-
-#EXTINF:-1, beIN SPORTS English 1 4K
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22195
 
 #EXTINF:-1, beIN SPORTS English 2
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
 
-#EXTINF:-1, beIN SPORTS English 2 4k
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22196
-
 #EXTINF:-1, beIN SPORTS English 3
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
-
-#EXTINF:-1, beIN SPORTS English 3 4k
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22197
 
 #EXTINF:-1, S PREMIER
 http://cro.hockeynews.club/live/2/chunks.m3u8
