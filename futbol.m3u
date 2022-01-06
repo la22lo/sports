@@ -60,6 +60,9 @@ https://akamai2-br.cdn.booyah.live/hls/1500066/104464344.m3u8
 #EXTINF:-1, DIRECTV SPORT
 https://live.flote.app/acacad4c-4c78-4388-a697-91ecb287aa2e/index.m3u8
 
+#EXTINF:-1, DIRECTV SPORT
+https://5g9s179kfgx9wn8tqwj9-cul47i-cfl.p5cdn.com/dlive/transcode-65-228/mvewce/1641395046/src/live.m3u8
+
 #EXTINF:-1,Look Sport 1
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 
