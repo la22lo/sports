@@ -1,50 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, SPORTTV 1
-https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
-
-#EXTINF:-1, SPORTTV 2
-https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
-
-#EXTINF:-1, SPORTTV 3
-https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV3_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
-
-#EXTINF:-1, SPORTTV 4
-https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTVLive_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
-
-#EXTINF:-1, DIRECTV CHILE
-http://qqtv.nl:8080/live/norma/12345/20406.m3u8
-
-#EXTINF:-1, DIRECTV 1 ECUADOR
-http://qqtv.nl:8080/live/norma/12345/20227.m3u8
-
-#EXTINF:-1, DIRECTV 2 ECUADOR
-http://qqtv.nl:8080/live/norma/12345/20319.m3u8
-
-#EXTINF:-1, DIRECTV + ECUADOR
-http://qqtv.nl:8080/live/norma/12345/20059.m3u8
-
-#EXTINF:-1, DIRECTV SPORT 1
-http://user.tvcluboficial.com/stream/nov/nov/259.m3u8
-
-#EXTINF:-1, DIRECTV SPORT 1
-http://qqtv.nl:8080/live/norma/12345/20106.m3u8
-
-#EXTINF:-1, DIRECTV SPORT 1
-https://mn-nl-glb.mncdn.com/dlive/transcode-93-29/nefb3/1641394747/src/live.m3u8
-
-#EXTINF:-1, DAZN 1
-http://qqtv.nl:8080/live/norma/12345/391225.m3u8
-
-#EXTINF:-1, DAZN 2
-http://46.249.32.53:81/fastocloud/hls/2/61d38d4b04bf53199bfc9e4e/74/master.m3u8
-
-#EXTINF:-1, ESPN BRASIL HD
-http://fonteangelusiptv.com:8080/elane2021/2021elane/925565
-
-#EXTINF:-1, ESPN BRASIL
-https://transcoder-itatiba-01.nxplay.com.br/ESPN_BR/index.m3u8
-
 #EXTINF:-1, DIRECTV SPORT 2
 http://user.tvcluboficial.com/stream/nov/nov/667.m3u8
 
@@ -153,6 +108,12 @@ http://spainott.site/live/CWOVAPGGYI/QD1ZOTOBRV/41323.ts
 #EXTINF:-1, DAZN 2
 http://46.249.32.53:81/fastocloud/hls/2/61d38d4b04bf53199bfc9e4e/74/master.m3u8
 
+#EXTINF:-1, DAZN 1
+http://qqtv.nl:8080/live/norma/12345/391225.m3u8
+
+#EXTINF:-1, DAZN 2
+http://46.249.32.53:81/fastocloud/hls/2/61d38d4b04bf53199bfc9e4e/74/master.m3u8
+
 #EXTINF:-1, PREMIER SPORT 1
 http://46.249.32.53:81/fastocloud/hls/2/61d38d4b04bf53199bfc9e4b/68/master.m3u8
 
@@ -213,6 +174,12 @@ http://matiasstornini00.shortcm.li:80/ch1.m3u8
 #EXTINF:-1, ESPN 2
 http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 
+#EXTINF:-1, ESPN BRASIL HD
+http://fonteangelusiptv.com:8080/elane2021/2021elane/925565
+
+#EXTINF:-1, ESPN BRASIL
+https://transcoder-itatiba-01.nxplay.com.br/ESPN_BR/index.m3u8
+
 #EXTINF:-1, ESPN 1
 http://qqtv.nl:8080/live/norma/12345/20269.m3u8
 
@@ -257,6 +224,9 @@ http://ytv.plus:25461/live/mercedes/1234/2304.m3u8
 
 #EXTINF:-1, DIRECTV SPORT
 http://ytv.plus:25461/live/mercedes/1234/2926.m3u8
+
+#EXTINF:-1, DIRECTV SPORT 1
+https://mn-nl-glb.mncdn.com/dlive/transcode-93-29/nefb3/1641394747/src/live.m3u8
 
 #EXTINF:-1, ELEVEN SPORT 1
 https://da-d50d173c.online.meo.pt/wp/cdn-er-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
