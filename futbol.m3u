@@ -27,6 +27,9 @@ http://user.tvcluboficial.com/stream/nov/nov/259.m3u8
 #EXTINF:-1, DIRECTV SPORT 1
 http://qqtv.nl:8080/live/norma/12345/20106.m3u8
 
+#EXTINF:-1, DIRECTV SPORT 1
+https://mn-nl-glb.mncdn.com/dlive/transcode-93-29/nefb3/1641394747/src/live.m3u8
+
 #EXTINF:-1, DAZN 1
 http://qqtv.nl:8080/live/norma/12345/391225.m3u8
 
