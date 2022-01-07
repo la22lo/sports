@@ -225,9 +225,6 @@ http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
 #EXTINF:-1, BEIN SPORT 1 
 https://link.zozotv.xyz:443/707070/707070/162
 
-#EXTINF:-1, BEIN SPORT 1 4k
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/114050
-
 #EXTINF:-1, BEIN SPORT 2
 https://link.zozotv.xyz:443/707070/707070/163
 
@@ -279,8 +276,14 @@ http://user.tvcluboficial.com/stream/nov/nov/367.m3u8
 #EXTINF:-1, beIN Sports 1 French
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2499/index.m3u8
 
+#EXTINF:-1, beIN Sports 1 French
+http://k21.aminouras.xyz/live/14066007/index.m3u8?
+
 #EXTINF:-1, beIN Sports 2 French
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2500/index.m3u8
+
+#EXTINF:-1, beIN Sports 2 French
+http://k21.aminouras.xyz/live/652177700/index.m3u8?
 
 #EXTINF:-1, beIN Sports 3 French
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2501/index.m3u8
@@ -548,6 +551,9 @@ https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
 #EXTINF:-1, ELEVEN SPORT 2
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+
+#EXTINF:-1, RMC SPORT 2
+http://56.bangiroua.xyz.global.prod.fastly.net/live/138/index.m3u8
 
 #EXTINF:-1, FOX SPORTS 1
 http://user.tvcluboficial.com/stream/nov/nov/493.m3u8
