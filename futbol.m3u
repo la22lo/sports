@@ -684,7 +684,10 @@ http://93.157.62.180/RTSHSport/index.m3u8
 #EXTINF:-1,CID 1
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8 
 
-#EXTINF:-1, ARAB CHANNEL
+#EXTINF:-1, ARAB CHANNEL 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1, ARAB CHANNEL 2
 http://103.159.4.38:5868/SPORTS-6/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,BEIN SPORT 1 TUR
