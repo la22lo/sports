@@ -1470,5 +1470,50 @@ http://45.148.26.176/hls/M2.m3u8
 #EXTINF:-1, BEIN YAYA LIVE
 http://55.banrhfour.xyz.global.prod.fastly.net/live/918454578001/index.m3u8?mvk
 
+#EXTINF:-1,DIGI Sport 1
+http://103.194.169.171:8282/RO_DIGI_SPORT1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
+#EXTINF:-1,DIGI Sport 2
+http://103.194.169.171:8282/RO_DIGI_SPORT2_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
+#EXTINF:-1,DIGI Sport 3
+http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/39805.ts
+
+#EXTINF:-1,DIGI Sport 4
+http://smart4k.live:8080/live/HDJ@78hdkl@537ujsd@5638sjk@DSJIS@ES/VAN@3Ghdkl@537WjGd@5638Njk@DSJIS@2D/39806.ts
+
+#EXTINF:-1,Eleven Sport 1
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51606
+
+#EXTINF:-1,Eleven Sport 1
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89152
+
+#EXTINF:-1,Eleven Sport 1
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89153
+
+#EXTINF:-1,Eleven Sport 1
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36825
+
+#EXTINF:-1,Eleven Sport 1
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36826
+
+#EXTINF:-1,Eleven Sport 1
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36827
+
+#EXTINF:-1,Eleven Sport 2
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51607
+
+#EXTINF:-1,Eleven Sport 2
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89154
+
+#EXTINF:-1,Eleven Sport 2
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89155
+
+#EXTINF:-1,Eleven Sport 2
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36828
+
+#EXTINF:-1,Eleven Sport 2
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/36829
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
