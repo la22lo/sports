@@ -507,6 +507,12 @@ http://94.236.145.205:8000/play/a00s
 #EXTINF:-1 ,Diema Sport 2 HD
 http://94.236.145.205:8000/play/a01b
 
+#EXTINF:-1,DIGI Sport 1
+http://103.194.169.171:8282/RO_DIGI_SPORT1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
+#EXTINF:-1,DIGI Sport 2
+http://103.194.169.171:8282/RO_DIGI_SPORT2_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
 #EXTINF:-1 ,EPT SPORTS 1
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
 
@@ -1487,12 +1493,6 @@ http://45.148.26.176/hls/M2.m3u8
 
 #EXTINF:-1, BEIN YAYA LIVE
 http://55.banrhfour.xyz.global.prod.fastly.net/live/918454578001/index.m3u8?mvk
-
-#EXTINF:-1,DIGI Sport 1
-http://103.194.169.171:8282/RO_DIGI_SPORT1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-
-#EXTINF:-1,DIGI Sport 2
-http://103.194.169.171:8282/RO_DIGI_SPORT2_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
