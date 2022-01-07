@@ -645,6 +645,9 @@ https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8
 #EXTINF:-1, LOOK SPORTS HD
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 
+#EXTINF:-1,ISRAEL 1
+https://iptv.x-cloud.info:1443/Sport1/video.m3u8?token=QVI9YA3q12
+
 #EXTINF:-1,ISRAEL 2
 https://iptv.x-cloud.info:1443/Sport2HD/video.m3u8?token=QVI9YA3q12
 
