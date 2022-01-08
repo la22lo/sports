@@ -1095,6 +1095,9 @@ http://93.157.62.180:80/KSport4/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SWISS SPORT TV
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
 
+#EXTINF:-1,USEE SPORT 1
+http://gumisasak-vision.online/Dyos-BodreX/useesport.m3u8
+
 #EXTINF:-1, AD SPORTS
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 
