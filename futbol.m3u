@@ -91,6 +91,9 @@ https://videodelivery.net/d076a59f894c85552b7f19599f81e4d3/manifest/stream_t1_r2
 http://matiasstornini00.shortcm.li:80/ch1.m3u8
 
 #EXTINF:-1, ESPN 2
+http://user.tvcluboficial.com/stream/nov/nov/35.m3u8
+
+#EXTINF:-1, ESPN 2
 http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 
 #EXTINF:-1, ESPN 2 VIVO
