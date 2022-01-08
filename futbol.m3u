@@ -351,6 +351,9 @@ https://77-247-178-24.livesports24.online/rusetantaeurasia.m3u8
 #EXTINF:-1, SETANTA SPORT 1 RUS
 https://95-213-224-180.livesports24.online/rusetantaeurasia.m3u8
 
+#EXTINF:-1, SETANTA SPORT
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/87
+
 #EXTINF:-1, SETANTA SPORT HD
 https://chostv.mobie.in/choos/sports/stantahd.m3u8
 
@@ -366,8 +369,14 @@ http://92.46.127.146:8080/qazsport/index.m3u8
 #EXTINF:-1, M.OYTGON 1HD
 http://193.33.88.172/football1_hd/index.m3u8
 
+#EXTINF:-1, M.OYTGON 1HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/422
+
 #EXTINF:-1, M.OYTGON 2HD
 http://193.33.88.172/football2_hd/index.m3u8 
+
+#EXTINF:-1, M.OYTGON 2HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/289
 
 #EXTINF:-1, M.OYTGON 3HD
 http://193.33.88.172/football3_hd/index.m3u8 
