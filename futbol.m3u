@@ -49,6 +49,9 @@ http://93.152.174.144:4000/play/bein3ar/index.m3u8?checkedby:iptvcat.com
 http://cro.hockeynews.club/live/2/chunks.m3u8
 
 #EXTINF:-1, DIRECTV SPORT 1
+https://akamai2-br.cdn.booyah.live/hls/1500007/104960542.m3u8
+
+#EXTINF:-1, DIRECTV SPORT 1
 http://user.tvcluboficial.com/stream/nov/nov/259.m3u8
 
 #EXTINF:-1, DIRECTV SPORT 1
