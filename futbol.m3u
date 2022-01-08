@@ -66,6 +66,9 @@ https://tunelive.net:3412/stream/play.m3u8
 #EXTINF:-1, VAMOS TV
 http://spainott.site/live/CWOVAPGGYI/QD1ZOTOBRV/1898.ts
 
+#EXTINF:-1, LALIGA TV MOVISTAR
+http://amigosrevo.ddns.net:8080/hls/stream.m3u8
+
 #EXTINF:-1, M LIGA 1
 http://spainott.site/live/CWOVAPGGYI/QD1ZOTOBRV/1644.ts
 
