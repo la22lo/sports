@@ -204,11 +204,17 @@ http://46.249.32.53:81/fastocloud/hls/2/61d38d4b04bf53199bfc9e4b/68/master.m3u8
 #EXTINF:-1, PREMIER SPORT 1
 http://cro.hockeynews.club/live/2/chunks.m3u8
 
+#EXTINF:-1, PREMIER SPORT 1
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/732
+
 #EXTINF:-1, PREMIER SPORT 2
 http://46.249.32.53:81/fastocloud/hls/2/61d38d4b04bf53199bfc9e4c/70/master.m3u8
 
 #EXTINF:-1, PREMIER SPORT 2
 http://cro.hockeynews.club/live/3/chunks.m3u8
+
+#EXTINF:-1, PREMIER SPORT 2
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/730
 
 #EXTINF:-1, BEIN SPORT 1 PREMIUM
 http://b.banourahga.xyz/live/888242570016/index.m3u8
