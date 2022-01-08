@@ -360,6 +360,9 @@ https://bal.varcdn1.ru/lb/setanta1/index.m3u8
 #EXTINF:-1, SETANTA SPORT 1 HD
 https://77-247-178-24.livesports24.online/rusetantaeurasia.m3u8
 
+#EXTINF:-1, SETANTA SPORT 1 HD
+http://65cca1b7.edmonst.net/iptv/9QDUT2FLVA7ZKG/271/index.m3u8
+
 #EXTINF:-1, SETANTA SPORT 1 RUS
 https://95-213-224-180.livesports24.online/rusetantaeurasia.m3u8
 
@@ -374,6 +377,15 @@ https://185-107-80-245.livesports24.online/setantaukraine.m3u8
 
 #EXTINF:-1, SETANTA SPORT UKR
 https://95-213-172-220.livesports24.online/setantaukraine.m3u8
+
+#EXTINF:-1, SETANTA SPORT UKR
+http://65cca1b7.edmonst.net/iptv/9QDUT2FLVA7ZKG/272/index.m3u8
+
+#EXTINF:-1, SETANTA SPORT 2
+http://65cca1b7.edmonst.net/iptv/9QDUT2FLVA7ZKG/270/index.m3u8
+
+#EXTINF:-1, SETANTA Qazaqstan HD
+http://65cca1b7.edmonst.net/iptv/9QDUT2FLVA7ZKG/2399/index.m3u8
 
 #EXTINF:-1, QAZ SPORT
 http://92.46.127.146:8080/qazsport/index.m3u8
