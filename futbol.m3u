@@ -450,6 +450,18 @@ https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1,BT SPORT 2
 https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
 
+#EXTINF:-1,BT SPORT 1 LIVE
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/91
+
+#EXTINF:-1,BT SPORT 2 LIVE
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/90
+
+#EXTINF:-1,BT SPORT 3 LIVE
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/89
+
+#EXTINF:-1,BT SPORT ESPN
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/92
+
 #EXTINF:-1, SPORTTV 1
 https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
 
@@ -491,6 +503,21 @@ https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
 
 #EXTINF:-1 ,SPORT TV 1
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:-1 , Sky Sport Main Event HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/62
+
+#EXTINF:-1 , Sky Sport Premier League
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/295
+
+#EXTINF:-1 , Sky Sport Football
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/304
+
+#EXTINF:-1 , Sky Sport F1
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/64
+
+#EXTINF:-1 , Sky Sport Arena
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/81
 
 #EXTINF:-1, BEIN SPORT EXTRA
 https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
