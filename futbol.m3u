@@ -981,6 +981,9 @@ http://qqtv.nl:8080/live/norma/12345/20198.m3u8
 #EXTINF:-1, TUDN
 http://qqtv.nl:8080/live/norma/12345/20116.m3u8
 
+#EXTINF:-1, TIGO SPORTS BOLIVIA
+http://user.tvcluboficial.com/stream/nov/nov/764.m3u8
+
 #EXTINF:-1, FACEBOOK WATCH
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 
