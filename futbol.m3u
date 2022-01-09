@@ -34,6 +34,9 @@ http://cdn1.cyclingnews.live/hls/M2.m3u8
 http://103.194.169.171:8282/RO_DIGI_SPORT1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 
 #EXTINF:-1, BEIN SPORT 1 YAYA
+http://l22.aminouras.xyz/live/918454578001/index.m3u8?mvk
+
+#EXTINF:-1, BEIN SPORT 1 YAYA
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
 #EXTINF:-1, BEIN SPORT 1 YAYA
