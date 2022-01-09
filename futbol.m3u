@@ -666,6 +666,9 @@ http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 #EXTINF:-1, CANAL CHINO 4 魅力足球
 http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 
+#EXTINF:-1, PPTV ASIA
+https://smart-tv.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
+
 #EXTINF:-1, SSC1
 https://ssc-5-ak.akamaized.net:443/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index_3.m3u8
 
