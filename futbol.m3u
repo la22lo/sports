@@ -45,12 +45,6 @@ http://93.152.174.144:4000/play/bein3ar/index.m3u8
 #EXTINF:-1, BEIN SPORT 3 LIVE AR
 http://93.152.174.144:4000/play/bein3ar/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1, S LALIGA
-http://cro.hockeynews.club/live/2/chunks.m3u8
-
-#EXTINF:-1, DIRECTV SPORT 1
-https://akamai2-br.cdn.booyah.live/hls/1500007/104960542.m3u8
-
 #EXTINF:-1, DIRECTV SPORT 1
 http://user.tvcluboficial.com/stream/nov/nov/259.m3u8
 
@@ -59,9 +53,6 @@ http://qqtv.nl:8080/live/norma/12345/20106.m3u8
 
 #EXTINF:-1, DIRECTV SPORT 1
 http://185.134.22.131:8080/live/Carlos123/Carlos123/38638.m3u8
-
-#EXTINF:-1, DIRECTV SPORT 1
-https://nyc1.angelthump.com/hls/MjAyMi0wMS0wOFQxNTowMzoxNi44MzBacGVkcm1lbmRv_pedrmendo/index.m3u8
 
 #EXTINF:-1, SKY SPORTS
 https://tunelive.net:3412/stream/play.m3u8
@@ -152,27 +143,6 @@ http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 
 #EXTINF:-1, GEO SUPER
 http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8?token=rk%F0%9F%8F%8F
-
-#EXTINF:-1, TV3 LT
-http://rr3.vipshara-iptv.com/~20574a7c01a79f01ce840b42b8901315ed3/71645/hls/pl.m3u8
-
-#EXTINF:-1, TV3 LT
-http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/234
-
-#EXTINF:-1, SPORT 1 LT
-http://rr3.vipshara-iptv.com/~20574a7c01a79f01ce840b42b8901315ed3/76911/hls/pl.m3u8
-
-#EXTINF:-1, TV3 SPORT2 LT
-http://rr3.vipshara-iptv.com/~20574a7c01a79f01ce840b42b8901315ed3/73759/hls/pl.m3u8
-
-#EXTINF:-1, TV3 SPORT2 LT
-http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14122
-
-#EXTINF:-1, TV3 LT HD
-http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/759
-
-#EXTINF:-1, TV3 SPORT LT HD OPEN
-http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/309
 
 #EXTINF:-1, BEIN SPORT 1 PREMIUM
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
@@ -593,6 +563,27 @@ https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
 
 #EXTINF:-1 ,SPORT TV 1
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:-1, TV3 LT
+http://rr3.vipshara-iptv.com/~20574a7c01a79f01ce840b42b8901315ed3/71645/hls/pl.m3u8
+
+#EXTINF:-1, TV3 LT
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/234
+
+#EXTINF:-1, SPORT 1 LT
+http://rr3.vipshara-iptv.com/~20574a7c01a79f01ce840b42b8901315ed3/76911/hls/pl.m3u8
+
+#EXTINF:-1, TV3 SPORT2 LT
+http://rr3.vipshara-iptv.com/~20574a7c01a79f01ce840b42b8901315ed3/73759/hls/pl.m3u8
+
+#EXTINF:-1, TV3 SPORT2 LT
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14122
+
+#EXTINF:-1, TV3 LT HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/759
+
+#EXTINF:-1, TV3 SPORT LT HD OPEN
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/309
 
 #EXTINF:-1 , Sky Sport Main Event HD
 http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/62
