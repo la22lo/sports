@@ -28,13 +28,7 @@ http://77.247.109.111/hls/T1.m3u8?SBN
 http://185.53.89.183/hls/ssla.m3u8?SBN
 
 #EXTINF:-1, LALIGATV
-http://45.148.26.176/hls/M2.m3u8?mvk
-
-#EXTINF:-1, LALIGATV
 http://77.247.109.111/hls/T1.m3u8
-
-#EXTINF:-1, PPV LALIGATV
-http://cdn1.cyclingnews.live/hls/M2.m3u8
 
 #EXTINF:-1,DIGI Sport 1
 http://103.194.169.171:8282/RO_DIGI_SPORT1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
@@ -44,9 +38,6 @@ http://l22.aminouras.xyz/live/918454578001/index.m3u8?mvk
 
 #EXTINF:-1, BEIN SPORT 1 YAYA
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 1 YAYA
-http://m22.anfalrou.xyz/live/918454578001/index.m3u8
 
 #EXTINF:-1, BEIN SPORT 3 LIVE AR
 http://93.152.174.144:4000/play/bein3ar/index.m3u8
@@ -1658,6 +1649,12 @@ http://45.94.31.45/bar16505/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, DAZN
 https://hll.hnzzdf.com.cn/live/H31721.m3u8?txSecret=3730f2f1e6042b5adb0f4a068cead839&txTime=61D41090&_s=stream
+
+#EXTINF:-1, LALIGATV
+http://45.148.26.176/hls/M2.m3u8?mvk
+
+#EXTINF:-1, PPV LALIGATV
+http://cdn1.cyclingnews.live/hls/M2.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
