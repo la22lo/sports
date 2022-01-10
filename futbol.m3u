@@ -897,11 +897,23 @@ http://qqtv.nl:8080/live/norma/12345/20406.m3u8
 #EXTINF:-1, DIRECTV 1 ECUADOR
 http://qqtv.nl:8080/live/norma/12345/20227.m3u8
 
+#EXTINF:-1, DIRECTV 1 ECUADOR
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2690.m3u8
+
 #EXTINF:-1, DIRECTV 2 ECUADOR
 http://qqtv.nl:8080/live/norma/12345/20319.m3u8
 
+#EXTINF:-1, DIRECTV 2 ECUADOR
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2289.m3u8
+
+#EXTINF:-1, DIRECTV + ECUADOR
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2285.m3u8
+
 #EXTINF:-1, DIRECTV + ECUADOR
 http://qqtv.nl:8080/live/norma/12345/20059.m3u8
+
+#EXTINF:-1, DIRECTV + ECUADOR
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2287.m3u8
 
 #EXTINF:-1, FOX SPORT
 http://user.tvcluboficial.com/stream/nov/nov/493.m3u8
@@ -1721,6 +1733,9 @@ http://k15.amaniyouhra.xyz:80/live/788550011/index.m3u8
 
 #EXTINF:-1,YACIN SPORTS 7SD
 http://k15.amaniyouhra.xyz:80/live/100666696/index.m3u8
+
+#EXTINF:-1,SPORT 1 CZ
+http://trabzontv.xyz:8080/ersin57/57ersin/102812?checkedby:iptvcat.com
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
