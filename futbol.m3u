@@ -162,11 +162,38 @@ http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/730
 #EXTINF:-1,beIN SPORTS 1 PREMIUM
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 
+#EXTINF:-1,BEIN SPORTS 1 PREMIUM 
+http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/m3u8/hls_m3u8_Bein-Prem-1-HEVC.m3u8
+
+#EXTINF:-1,BEIN SPORTS 1 PREMIUM 
+http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
+
+#EXTINF:-1 ,BEIN SPORTS PREMIUM 1HD
+http://7b30f9aa.tvclub.xyz:80/iptv/SGME6W4L2A6MNZ/6131/index.m3u8
+
+#EXTINF:-1 ,BEIN SPORTS 1 PREMIUM 
+http://belfast.dyndns.tv:5808/BEINHD8/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, BEIN SPORT 2 PREMIUM
 http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 
+#EXTINF:-1 ,BEIN SPORTS 2 PREMIUM 
+http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8
+
+#EXTINF:-1 ,BEIN SPORTS 2 PREMIUM 
+http://belfast.dyndns.tv:5808/BEINHD9/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,BEIN SPORTS 2 PREMIUM 
+http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/m3u8/hls_m3u8_Bein-Prem-2-HEVC.m3u8
+
 #EXTINF:-1, BEIN SPORT 3 PREMIUM
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+
+#EXTINF:-1 ,BEIN SPORTS 3 PREMIUM 
+http://130.193.166.18:80/cache/Bein-Prem-3-HEVC/master.m3u8
+
+#EXTINF:-1 ,BEIN SPORTS 3 PREMIUM 
+http://belfast.dyndns.tv:5808/BEINHD10/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, BEIN SPORT 3
 http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
@@ -198,11 +225,20 @@ http://qqtv.nl:8080/live/norma/12345/275184.m3u8
 #EXTINF:-1, beIN Sports 1 French
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2499/index.m3u8
 
+#EXTINF:-1 ,BEIN SPORTS 1 FR
+http://belfast.dyndns.tv:5808/BEINHD1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, beIN Sports 2 French
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2500/index.m3u8
 
+#EXTINF:-1 ,BEIN SPORTS 2 FR
+http://belfast.dyndns.tv:5808/BEINHD2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, beIN Sports 3 French
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2501/index.m3u8
+
+#EXTINF:-1 ,BEIN SPORTS 3 FR
+http://belfast.dyndns.tv:5808/BEINHD3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, beIN SPORTS English 1
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
