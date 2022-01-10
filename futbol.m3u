@@ -1587,8 +1587,5 @@ http://77.247.109.111/hls/T1.m3u8
 #EXTINF:-1, S PREMIER
 http://cro.hockeynews.club/live/2/chunks.m3u8
 
-#EXTINF:-1, COPA AFRICA
-https://live-ak.vimeocdn.com/exp=1641747695~acl=%2F0536e8fa-39cc-43ad-afcc-8d543729b038%2F%2A~hmac=0d7c69fa05c9dda6ab362414bdfdb886afe93d0139f2f19644543f22b4904edd/0536e8fa-39cc-43ad-afcc-8d543729b038/chunklist_b3256000.m3u8?max_segments=10
-
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
