@@ -1734,8 +1734,11 @@ http://k15.amaniyouhra.xyz:80/live/788550011/index.m3u8
 #EXTINF:-1,YACIN SPORTS 7SD
 http://k15.amaniyouhra.xyz:80/live/100666696/index.m3u8
 
-#EXTINF:-1,SPORT 1 CZ
-http://trabzontv.xyz:8080/ersin57/57ersin/102812?checkedby:iptvcat.com
+#EXTINF:0, Digi Sport 2 HD [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/70944?checkedby:iptvcat.com
+
+#EXTINF:0, Telekom Sport 1 HD [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/71050?checkedby:iptvcat.com
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
