@@ -18,23 +18,8 @@ https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8?per
 #EXTINF:-1, BEIN SPORT 2 TRUE VISIONS
 https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8?per
 
-#EXTINF:-1, LALIGA CDN
-http://cdn3.cyclingnews.live/hls/W3.m3u8
-
-#EXTINF:-1, LALIGA BSN
-http://77.247.109.111/hls/T1.m3u8?SBN
-
-#EXTINF:-1, S LA LIGA
-http://185.53.89.183/hls/ssla.m3u8?SBN
-
-#EXTINF:-1, LALIGATV
-http://77.247.109.111/hls/T1.m3u8
-
 #EXTINF:-1,DIGI Sport 1
 http://103.194.169.171:8282/RO_DIGI_SPORT1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-
-#EXTINF:-1, BEIN SPORT 1 YAYA
-http://l22.aminouras.xyz/live/918454578001/index.m3u8?mvk
 
 #EXTINF:-1, BEIN SPORT 1 YAYA
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
@@ -46,9 +31,6 @@ http://93.152.174.144:4000/play/bein3ar/index.m3u8
 http://93.152.174.144:4000/play/bein3ar/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1, DIRECTV SPORT 1
-http://user.tvcluboficial.com/stream/nov/nov/259.m3u8
-
-#EXTINF:-1, DIRECTV SPORT 1
 http://qqtv.nl:8080/live/norma/12345/20106.m3u8
 
 #EXTINF:-1, DIRECTV SPORT 1
@@ -56,12 +38,6 @@ http://185.134.22.131:8080/live/Carlos123/Carlos123/38638.m3u8
 
 #EXTINF:-1, SKY SPORTS
 https://tunelive.net:3412/stream/play.m3u8
-
-#EXTINF:-1, VAMOS TV
-http://spainott.site/live/CWOVAPGGYI/QD1ZOTOBRV/1898.ts
-
-#EXTINF:-1, LALIGA TV MOVISTAR
-http://amigosrevo.ddns.net:8080/hls/stream.m3u8
 
 #EXTINF:-1, M LIGA 1
 http://spainott.site/live/CWOVAPGGYI/QD1ZOTOBRV/1644.ts
@@ -76,9 +52,6 @@ http://spainott.site/live/CWOVAPGGYI/QD1ZOTOBRV/31272.ts
 http://spainott.site/live/CWOVAPGGYI/QD1ZOTOBRV/31273.ts
 
 #EXTINF:-1, MOVISTAR LALIGA
-http://54.39.48.63:8081/ESP%7CMOVISTARLALIGA/ESP%7CMOVISTARLALIGA/playlist.m3u8
-
-#EXTINF:-1, MOVISTAR LALIGA
 http://qqtv.nl:8080/live/norma/12345/31019.m3u8
 
 #EXTINF:-1, MOVISTAR LALIGA
@@ -87,15 +60,6 @@ http://qqtv.nl:8080/live/norma/12345/87460.m3u8
 #EXTINF:-1, LALIGA televisión BAR
 http://qqtv.nl:8080/live/norma/12345/88295.m3u8
 
-#EXTINF:-1, MOVISTAR LALIGA
-http://user.tvcluboficial.com/stream/nov/nov/763.m3u8
-
-#EXTINF:-1, BEINS SPORT Ñ
-http://user.tvcluboficial.com/stream/nov/nov/761.m3u8
-
-#EXTINF:-1, VAMOS TV
-http://51.222.43.170:36995/live/Luisapk/Si0yNffK39/1218.chunklist_w3579000654322466544637294435677543466767.m3u8?mvk
-
 #EXTINF:-1, BEIN SPORT 1 TRUE VISIONS
 https://smart-tv.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8
 
@@ -103,25 +67,13 @@ https://smart-tv.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 
 #EXTINF:-1, ESPN 2 VIVO
-https://videodelivery.net/d076a59f894c85552b7f19599f81e4d3/manifest/stream_t1_r2.m3u8
-
-#EXTINF:-1, ESPN 2 VIVO
 http://matiasstornini00.shortcm.li:80/ch1.m3u8
-
-#EXTINF:-1, ESPN 2
-http://user.tvcluboficial.com/stream/nov/nov/35.m3u8
 
 #EXTINF:-1, ESPN 2
 http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 
-#EXTINF:-1, ESPN 2 VIVO
-https://5g9s179kfgx9wn8tqwj9-cul47i-cfl.p5cdn.com/dlive/transcode-81-37/fad233s/1640698505/src/live.m3u8
-
 #EXTINF:-1, ESPN BRASIL HD
 http://fonteangelusiptv.com:8080/elane2021/2021elane/925565
-
-#EXTINF:-1, ESPN BRASIL
-https://transcoder-itatiba-01.nxplay.com.br/ESPN_BR/index.m3u8
 
 #EXTINF:-1, ESPN 1
 http://qqtv.nl:8080/live/norma/12345/20269.m3u8
@@ -146,9 +98,6 @@ http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8?token=rk%F0%9F%8F%8F
 
 #EXTINF:-1, BEIN SPORT 1 PREMIUM
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
-
-#EXTINF:-1, DIRECTV SPORT 2
-http://user.tvcluboficial.com/stream/nov/nov/667.m3u8
 
 #EXTINF:-1, DIRECTV SPORT 2
 http://qqtv.nl:8080/live/norma/12345/20311.m3u8
@@ -1697,6 +1646,18 @@ http://45.148.26.176/hls/M2.m3u8?mvk
 
 #EXTINF:-1, PPV LALIGATV
 http://cdn1.cyclingnews.live/hls/M2.m3u8
+
+#EXTINF:-1, LALIGA CDN
+http://cdn3.cyclingnews.live/hls/W3.m3u8
+
+#EXTINF:-1, LALIGA BSN
+http://77.247.109.111/hls/T1.m3u8?SBN
+
+#EXTINF:-1, S LA LIGA
+http://185.53.89.183/hls/ssla.m3u8?SBN
+
+#EXTINF:-1, LALIGATV
+http://77.247.109.111/hls/T1.m3u8
 
 #EXTINF:-1, COPA AFRICA
 https://live-ak.vimeocdn.com/exp=1641747695~acl=%2F0536e8fa-39cc-43ad-afcc-8d543729b038%2F%2A~hmac=0d7c69fa05c9dda6ab362414bdfdb886afe93d0139f2f19644543f22b4904edd/0536e8fa-39cc-43ad-afcc-8d543729b038/chunklist_b3256000.m3u8?max_segments=10
