@@ -6,6 +6,9 @@ http://b.banourahga.xyz/live/918454578001/index.m3u8
 #EXTINF:-1, BEIN SPORT AR 1
 http://93.152.174.144:4000/play/bein1ar/index.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1,beIN Sports 1 AR HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/16
+
 #EXTINF:-1, ELEVEN 1
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
@@ -41,6 +44,9 @@ http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
 #EXTINF:-1, BEIN SPORT 3 LIVE AR
 http://93.152.174.144:4000/play/bein3ar/index.m3u8
+
+#EXTINF:-1,beIN Sports 3 AR HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/18
 
 #EXTINF:-1, BEIN SPORT 3 LIVE AR
 http://93.152.174.144:4000/play/bein3ar/index.m3u8?checkedby:iptvcat.com
@@ -200,6 +206,24 @@ http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
 
 #EXTINF:-1, BEIN SPORT 4
 http://str.smartip-tv.net:8888/BEIN_SPORT_4_HD/index.m3u8?token=test
+
+#EXTINF:-1 ,BEIN SPORTS 1 
+http://93.152.174.144:4000/play/bein1ar/index.m3u8
+
+#EXTINF:-1 ,BEIN SPORTS 2 
+http://93.152.174.144:4000/play/bein2ar/index.m3u8
+
+#EXTINF:-1 ,BEIN SPORTS 3 
+http://93.152.174.144:4000/play/bein3ar/index.m3u8
+
+#EXTINF:-1 ,BEIN SPORTS 4 
+http://93.152.174.144:4000/play/bein4ar/index.m3u8
+
+#EXTINF:-1 ,BEIN SPORTS 5 
+http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
+
+#EXTINF:-1 ,BEIN SPORTS 7 
+http://93.152.174.144:4000/play/bein7/index.m3u8
 
 #EXTINF:-1,beIN SPORTS Ñ
 http://54.39.49.162:8081/USA%7CBEINSPORTS/USA%7CBEINSPORTS/playlist.m3u8
