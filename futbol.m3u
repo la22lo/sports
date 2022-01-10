@@ -180,6 +180,9 @@ http://7b30f9aa.tvclub.xyz:80/iptv/SGME6W4L2A6MNZ/6131/index.m3u8
 #EXTINF:-1 ,BEIN SPORTS 1 PREMIUM 
 http://belfast.dyndns.tv:5808/BEINHD8/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 ,BEIN SPORTS 1 PREMIUM
+http://k3.amaniyouhra.xyz/live/616165500160/index.m3u8
+
 #EXTINF:-1, BEIN SPORT 2 PREMIUM
 http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 
