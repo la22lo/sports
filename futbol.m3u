@@ -228,6 +228,9 @@ http://93.152.174.144:4000/play/bein7/index.m3u8
 #EXTINF:-1,beIN SPORTS Ñ
 http://54.39.49.162:8081/USA%7CBEINSPORTS/USA%7CBEINSPORTS/playlist.m3u8
 
+#EXTINF:-1,beIN SPORTS EXTRA Ñ
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+
 #EXTINF:-1, MOVISTAR LALIGA
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 
