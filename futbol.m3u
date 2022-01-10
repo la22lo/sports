@@ -129,27 +129,6 @@ https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleve
 #EXTINF:-1, ELEVEN 6
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_6_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
-#EXTINF:-1,Eleven Sport 1
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51606
-
-#EXTINF:-1,Eleven Sport 1
-http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89152
-
-#EXTINF:-1,Eleven Sport 1
-http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89153
-
-#EXTINF:-1,Eleven Sport 1
-http://matiasstornini00.shortcm.li/ch1.m3u8?mvk
-
-#EXTINF:-1,Eleven Sport 2
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51607
-
-#EXTINF:-1,Eleven Sport 2
-http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89154
-
-#EXTINF:-1,Eleven Sport 2
-http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89155
-
 #EXTINF:-1, BEIN SPORT 1 live TRUE VISIONS
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 
@@ -160,52 +139,25 @@ https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1, PREMIER SPORT 1
-http://46.249.32.53:81/fastocloud/hls/2/61d38d4b04bf53199bfc9e4b/68/master.m3u8
-
-#EXTINF:-1, PREMIER SPORT 1
-http://cro.hockeynews.club/live/2/chunks.m3u8
-
-#EXTINF:-1, PREMIER SPORT 1
 http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/732
-
-#EXTINF:-1, PREMIER SPORT 2
-http://46.249.32.53:81/fastocloud/hls/2/61d38d4b04bf53199bfc9e4c/70/master.m3u8
-
-#EXTINF:-1, PREMIER SPORT 2
-http://cro.hockeynews.club/live/3/chunks.m3u8
 
 #EXTINF:-1, PREMIER SPORT 2
 http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/730
 
-#EXTINF:-1, BEIN SPORT 1 PREMIUM
-http://b.banourahga.xyz/live/888242570016/index.m3u8
+#EXTINF:-1,beIN SPORTS 1 PREMIUM
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 
 #EXTINF:-1, BEIN SPORT 2 PREMIUM
 http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 
-#EXTINF:-1, BEIN SPORT 2 PREMIUM
-http://a1.bouhrnabdou.xyz/live/6161949878/index.m3u8
-
 #EXTINF:-1, BEIN SPORT 3 PREMIUM
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
-
-#EXTINF:-1, BEIN SPORT 2
-http://b.banourahga.xyz/live/652177700/index.m3u8
 
 #EXTINF:-1, BEIN SPORT 3
 http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
 
 #EXTINF:-1, BEIN SPORT 4
 http://str.smartip-tv.net:8888/BEIN_SPORT_4_HD/index.m3u8?token=test
-
-#EXTINF:-1,beIN SPORTS 1 PREMIER
-http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
-
-#EXTINF:-1,beIN SPORTS 2 PREMIER
-http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
-
-#EXTINF:-1,beIN SPORTS 3 PREMIER
-http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
 
 #EXTINF:-1,beIN SPORTS Ñ
 http://54.39.49.162:8081/USA%7CBEINSPORTS/USA%7CBEINSPORTS/playlist.m3u8
@@ -216,17 +168,8 @@ http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 #EXTINF:-1, MOVISTAR LALIGA
 http://5gfksa.ltd:2052/live/55667788/88776655/83311.m3u8
 
-#EXTINF:-1, MOVISTAR LALIGA
-http://51.222.43.170:36995/live/A653M/gRP3bKQr5CQ5/1211.m3u8
-
 #EXTINF:-1,LALIGA TV BAR
 http://5gfksa.ltd:2052/live/55667788/88776655/83315.m3u8
-
-#EXTINF:-1, DAZN 1
-http://spainott.site/live/CWOVAPGGYI/QD1ZOTOBRV/41323.ts
-
-#EXTINF:-1, DAZN 1
-http://qqtv.nl:8080/live/norma/12345/391225.m3u8
 
 #EXTINF:-1, TV BAR
 http://185.134.22.131:8080/live/Carlos123/Carlos123/36467.m3u8
@@ -237,23 +180,11 @@ http://qqtv.nl:8080/live/norma/12345/31020.m3u8
 #EXTINF:-1, MOVISTAR LIGA CAMPEONES
 http://qqtv.nl:8080/live/norma/12345/275184.m3u8
 
-#EXTINF:-1, MOVISTAR LIGA CAMPEONES
-http://user.tvcluboficial.com/stream/nov/nov/890.m3u8
-
-#EXTINF:-1, MOVISTAR LIGA CAMPEONES 
-http://user.tvcluboficial.com/stream/nov/nov/367.m3u8
-
 #EXTINF:-1, beIN Sports 1 French
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2499/index.m3u8
 
-#EXTINF:-1, beIN Sports 1 French
-http://k21.aminouras.xyz/live/14066007/index.m3u8?
-
 #EXTINF:-1, beIN Sports 2 French
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2500/index.m3u8
-
-#EXTINF:-1, beIN Sports 2 French
-http://k21.aminouras.xyz/live/652177700/index.m3u8?
 
 #EXTINF:-1, beIN Sports 3 French
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2501/index.m3u8
@@ -267,14 +198,8 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
 #EXTINF:-1, beIN SPORTS English 3
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
 
-#EXTINF:-1, S PREMIER
-http://cro.hockeynews.club/live/2/chunks.m3u8
-
 #EXTINF:-1, BEINSPORT Ñ
 http://qqtv.nl:8080/live/norma/12345/88420.m3u8
-
-#EXTINF:-1, BEINSPORT EXTRA
-https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
 
 #EXTINF:-1, BEINSPORT LALIGA USA
 http://qqtv.nl:8080/live/norma/12345/87458.m3u8
@@ -1658,6 +1583,9 @@ http://185.53.89.183/hls/ssla.m3u8?SBN
 
 #EXTINF:-1, LALIGATV
 http://77.247.109.111/hls/T1.m3u8
+
+#EXTINF:-1, S PREMIER
+http://cro.hockeynews.club/live/2/chunks.m3u8
 
 #EXTINF:-1, COPA AFRICA
 https://live-ak.vimeocdn.com/exp=1641747695~acl=%2F0536e8fa-39cc-43ad-afcc-8d543729b038%2F%2A~hmac=0d7c69fa05c9dda6ab362414bdfdb886afe93d0139f2f19644543f22b4904edd/0536e8fa-39cc-43ad-afcc-8d543729b038/chunklist_b3256000.m3u8?max_segments=10
