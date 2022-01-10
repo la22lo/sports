@@ -18,6 +18,9 @@ https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8?per
 #EXTINF:-1, BEIN SPORT 2 TRUE VISIONS
 https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8?per
 
+#EXTINF:-1, AFRICA
+https://live-ak.vimeocdn.com:443/exp=1641833233~acl=%2Fea597402-1011-4335-8d85-2afcc0fdff0d%2F%2A~hmac=efbfb66042730aea2bc4ba6489ea39c9dd3dcc32335ea489524160272a60122e/ea597402-1011-4335-8d85-2afcc0fdff0d/chunklist_b3256000.m3u8
+
 #EXTINF:-1,DIGI Sport 1
 http://103.194.169.171:8282/RO_DIGI_SPORT1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 
