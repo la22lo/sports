@@ -18,23 +18,29 @@ https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8?per
 #EXTINF:-1, BEIN SPORT 2 TRUE VISIONS
 https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8?per
 
-#EXTINF:-1, AFRICA BEIN 1
-http://k18.amaniyouhra.xyz/live/14066007/index.m3u8
-
-#EXTINF:-1, AFRICA BEIN 1
-http://b.banourahga.xyz/live/14066007/index.m3u8
-
-#EXTINF:-1, AFRICA BEIN 1
-http://k14.amaniyouhra.xyz/live/14066007/index.m3u8?SBN
-
 #EXTINF:-1, AFRICA BEIN SPORT MAX 1
 http://k16.amaniyouhra.xyz/live/9962564400/index.m3u8
 
 #EXTINF:-1, AFRICA BEIN SPORT MAX 1
 http://k9.amaniyouhra.xyz/live/9962564400/index.m3u8
 
+#EXTINF:-1, AFRICA BEIN SPORT MAX 1
+http://b.banourahga.xyz/live/9962564400/index.m3u8
+
 #EXTINF:-1, AFRICA BEIN SPORT 1 DIRECT
 http://k6.amaniyouhra.xyz/live/14066007/index.m3u8
+
+#EXTINF:-1, AFRICA BEIN SPORT 1 DIRECT
+http://b.banourahga.xyz/live/14066007/index.m3u8
+
+#EXTINF:-1, AFRICA BEIN SPORT 1 DIRECT
+http://k18.amaniyouhra.xyz/live/14066007/index.m3u8
+
+#EXTINF:-1, AFRICA BEIN SPORT 1 DIRECT
+http://b.banourahga.xyz/live/14066007/index.m3u8
+
+#EXTINF:-1, AFRICA BEIN 1
+http://k14.amaniyouhra.xyz/live/14066007/index.m3u8?SBN
 
 #EXTINF:-1, AFRICA BEIN 3
 http://k9.amaniyouhra.xyz/live/62464521/index.m3u8?per
