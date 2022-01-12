@@ -346,6 +346,9 @@ http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/71857
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2499/index.m3u8
 
 #EXTINF:-1 ,BEIN SPORTS 1 FR
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/5525
+
+#EXTINF:-1 ,BEIN SPORTS 1 FR
 http://belfast.dyndns.tv:5808/BEINHD1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,BEIN SPORTS 1 DIRECT FR
@@ -362,6 +365,9 @@ http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2501/index.m3u8
 
 #EXTINF:-1 ,BEIN SPORTS 3 FR
 http://belfast.dyndns.tv:5808/BEINHD3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,BEIN SPORTS 3 FR
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/82683
 
 #EXTINF:-1, beIN SPORTS English 1
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
