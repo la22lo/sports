@@ -327,20 +327,53 @@ http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/32073?
 #EXTINF:-1, ELEVEN SPORTS 1HD POL
 http://91.226.51.126:8000/udp/239.100.10.102:2234
 
+#EXTINF:-1, ELEVEN SPORTS 1FHD POL
+http://95.211.250.54:80/ELEVEN/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, ELEVEN SPORTS 2HD POL
 http://91.226.51.126:8000/udp/239.100.10.103:2234
+
+#EXTINF:-1, ELEVEN SPORTS 2FHD POL
+http://95.211.250.54:80/ELEVEN_SPORTS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, ELEVEN SPORTS 3HD POL
 http://91.226.51.126:8000/udp/239.100.10.104:2234
 
+#EXTINF:-1, ELEVEN SPORTS 3FHD POL
+http://95.211.250.54:80/ELEVEN_EXTRA/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, ELEVEN SPORTS 4HD POL
 http://91.226.51.126:8000/udp/239.100.10.105:2234
+
+#EXTINF:-1, ELEVEN SPORTS 4FHD POL
+http://95.211.250.54:80/ELEVEN4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, CANAL +1 POLONIA
 http://91.226.51.126:8000/udp/239.100.10.183:2234
 
+#EXTINF:-1, CANAL +1 POLONIA FHD
+http://95.211.250.54:80/CANAL+_SPORT/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, CANAL +2 POLONIA
 http://91.226.51.126:8000/udp/239.100.10.184:2234
+
+#EXTINF:-1, CANAL +2 POLONIA FHD
+http://95.211.250.54:80/CANAL+_SPORT_2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, CANAL +3 POLONIA FHD
+http://95.211.250.54:80/CANAL+_SPORT_3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, CANAL +4 POLONIA FHD
+http://95.211.250.54:80/CANAL+_SPORT_4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, ZIGGO VOETBAL HD
+http://84.84.196.164:9999/play/a016
+
+#EXTINF:-1, ZIGGO SELECT
+http://84.84.196.164:9999/play/a01q
+
+#EXTINF:-1, ZIGGO SPORT HD
+http://84.84.196.164:9999/play/a04g
 
 #EXTINF:-1, SuperSport Laliga
 http://iptv.tvmalaysia.cc:80/penang174/penang174/6575
@@ -894,6 +927,18 @@ http://qqtv.nl:8080/live/norma/12345/7915.m3u8
 #EXTINF:-1, ESPN DEPORTES
 http://ytv.plus:25461/live/mercedes/1234/2007.m3u8
 
+#EXTINF:-1, ESPN 1 HOLANDA
+http://84.84.196.164:9999/play/a06l
+
+#EXTINF:-1, ESPN 2 HOLANDA
+http://84.84.196.164:9999/play/a018
+
+#EXTINF:-1, ESPN 3 HOLANDA
+http://84.84.196.164:9999/play/a04d
+
+#EXTINF:-1, ESPN 4 HOLANDA
+http://84.84.196.164:9999/play/a019
+
 #EXTINF:-1, DIRECTV CHILE
 http://qqtv.nl:8080/live/norma/12345/20406.m3u8
 
@@ -1089,6 +1134,9 @@ http://93.157.62.180:80/KSport4/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SWISS SPORT TV
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
 
+#EXTINF:-1, TVP POLONIA
+http://91.226.51.126:8000/udp/239.100.10.100:2234
+
 #EXTINF:-1, AD SPORTS
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 
@@ -1176,11 +1224,23 @@ https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 #EXTINF:-1, ALL SPORTS TV
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
+#EXTINF:-1, IN SPORTS
+http://91.226.51.126:8000/udp/239.100.10.96:2234
+
 #EXTINF:-1, ON TIME SPORTS
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2512/index.m3u8
 
 #EXTINF:-1, CANAL PLUS 2 POL
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2516/index.m3u8
+
+#EXTINF:-1, POLSAT SPORT HD
+http://91.226.51.126:8000/udp/239.100.10.97:2234
+
+#EXTINF:-1, POLSAT NEWS HD
+http://91.226.51.126:8000/udp/239.100.10.99:2234
+
+#EXTINF:-1, SPORT 1 HOLANDA
+https://www.filmon.com/vr-streams/4121/high/playlist.m3u8
 
 #EXTINF:-1, C MORE
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2514/index.m3u8
