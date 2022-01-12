@@ -324,6 +324,24 @@ https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=Nq
 #EXTINF:-1, MAX SPORTS 4
 http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/32073?
 
+#EXTINF:-1, ELEVEN SPORTS 1HD POL
+http://91.226.51.126:8000/udp/239.100.10.102:2234
+
+#EXTINF:-1, ELEVEN SPORTS 2HD POL
+http://91.226.51.126:8000/udp/239.100.10.103:2234
+
+#EXTINF:-1, ELEVEN SPORTS 3HD POL
+http://91.226.51.126:8000/udp/239.100.10.104:2234
+
+#EXTINF:-1, ELEVEN SPORTS 4HD POL
+http://91.226.51.126:8000/udp/239.100.10.105:2234
+
+#EXTINF:-1, CANAL +1 POLONIA
+http://91.226.51.126:8000/udp/239.100.10.183:2234
+
+#EXTINF:-1, CANAL +2 POLONIA
+http://91.226.51.126:8000/udp/239.100.10.184:2234
+
 #EXTINF:-1, SuperSport Laliga
 http://iptv.tvmalaysia.cc:80/penang174/penang174/6575
 
