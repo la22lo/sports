@@ -21,6 +21,18 @@ https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4q
 #EXTINF:-1, ELEVEN SPORTS 1HD POL
 http://91.226.51.126:8000/udp/239.100.10.102:2234
 
+#EXTINF:-1, ZIGGO SELECT
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95486
+
+#EXTINF:-1,BT SPORT 1
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/87296
+
+#EXTINF:-1,BT SPORT 1 HD
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/87295
+
+#EXTINF:-1,BT SPORT 1 LIVE
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/91
+
 #EXTINF:-1,DIGI Sport 1
 http://103.194.169.171:8282/RO_DIGI_SPORT1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 
@@ -429,20 +441,8 @@ http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/82244
 #EXTINF:-1, CANAL +1 POLONIA
 http://91.226.51.126:8000/udp/239.100.10.183:2234
 
-#EXTINF:-1, CANAL +1 POLONIA FHD
-http://95.211.250.54:80/CANAL+_SPORT/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1, CANAL +2 POLONIA
 http://91.226.51.126:8000/udp/239.100.10.184:2234
-
-#EXTINF:-1, CANAL +2 POLONIA FHD
-http://95.211.250.54:80/CANAL+_SPORT_2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, CANAL +3 POLONIA FHD
-http://95.211.250.54:80/CANAL+_SPORT_3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, CANAL +4 POLONIA FHD
-http://95.211.250.54:80/CANAL+_SPORT_4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, ZIGGO VOETBAL HD
 http://84.84.196.164:9999/play/a016
@@ -482,9 +482,6 @@ http://iptv.tvmalaysia.cc:80/penang174/penang174/6576
 
 #EXTINF:-1, SuperSport moto
 http://iptv.tvmalaysia.cc:80/penang174/penang174/7142
-
-#EXTINF:-1, SETANTA SPORT
-https://bal.varcdn1.ru/lb/setanta1/index.m3u8
 
 #EXTINF:-1, SETANTA SPORT 1 HD
 https://77-247-178-24.livesports24.online/rusetantaeurasia.m3u8
@@ -561,12 +558,6 @@ http://95.107.132.106/out/u/683_3.m3u8
 #EXTINF:-1, OVERSPORT HD2
 http://95.107.132.106/out/u/691_3.m3u8
 
-#EXTINF:-1, OVERSPORT HD3
-http://95.107.132.106/out/u/699_2.m3u8
-
-#EXTINF:-1, OVERSPORT HD4
-http://95.107.132.106/out/u/708_3.m3u8
-
 #EXTINF:-1, ARENA SPORT 1 HD PREMIUM SERBIA
 http://srv1.exyu.cc:8080/G0toeWMhOL/qvrPlbCkap/6739
 
@@ -596,9 +587,6 @@ http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/181.m3u8
  
 #EXTINF:-1, ARENA SPORT 2 
 http://84.22.33.214/ArenaSport2/mono.m3u8?per
-
-#EXTINF:-1, ARENA SPORT 3
-http://103.194.169.171:8282/Arena_Sport_3_HR_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 
 #EXTINF:-1, SuperSport 6
 http://93.157.62.180/Supersport6/index.m3u8
@@ -642,17 +630,23 @@ https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1,True Sport HD4
 https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
 
+#EXTINF:-1,BT SPORT 1
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/87296
+
+#EXTINF:-1,BT SPORT 1 HD
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/87295
+
 #EXTINF:-1,BT SPORT HD 1
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2505/index.m3u8
 
-#EXTINF:-1,BT SPORT HD 1
-http://93.152.174.144:4000/play/btsport1/index.m3u8
+#EXTINF:-1,BT SPORT 2
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/87294
+
+#EXTINF:-1,BT SPORT HD 2
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/87293
 
 #EXTINF:-1,BT SPORT HD 2
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2506/index.m3u8
-
-#EXTINF:-1,BT SPORT HD 2
-http://93.152.174.144:4000/play/btsport2/index.m3u8
 
 #EXTINF:-1,BT SPORT 1
 https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_1_720p/chunklist.m3u8
@@ -668,6 +662,9 @@ http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/90
 
 #EXTINF:-1,BT SPORT 3 LIVE
 http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/89
+
+#EXTINF:-1,BT SPORT 3 HD
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/87292
 
 #EXTINF:-1,BT SPORT ESPN
 http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/92
@@ -750,12 +747,6 @@ http://54.39.48.63:8081/AR%7CBEINSPORTS4/AR%7CBEINSPORTS4/playlist.m3u8
 #EXTINF:-1, BEIN MEDIA 4 HD
 http://54.39.48.63:8081/AR%7CBEINSPORTS2/AR%7CBEINSPORTS2/playlist.m3u8
 
-#EXTINF:-1, BEIN MEDIA 5 HD
-http://54.39.48.63:8081/AR%7CBEINSPORTS3/AR%7CBEINSPORTS3/playlist.m3u8
-
-#EXTINF:-1, BEIN MEDIA 6 HD
-http://54.39.48.63:8081/AR%7CBEINSPORTS5/AR%7CBEINSPORTS5/playlist.m3u8
-
 #EXTINF:-1, BEIN SPORT HD USA
 http://54.39.49.162:8081/USA%7CBEINSPORTS/USA%7CBEINSPORTS/playlist.m3u8
 
@@ -785,12 +776,6 @@ https://stream1.1616.ro:1945/looksport3/livestream/chunklist_w64015557.m3u8
 
 #EXTINF:-1, LOOK SPORTS 3
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
-
-#EXTINF:-1 ,Diema Sport HD
-http://94.236.145.205:8000/play/a00s
-
-#EXTINF:-1 ,Diema Sport 2 HD
-http://94.236.145.205:8000/play/a01b
 
 #EXTINF:-1,DIGI Sport 1
 http://103.194.169.171:8282/RO_DIGI_SPORT1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
