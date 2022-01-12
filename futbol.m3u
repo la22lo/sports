@@ -6,6 +6,24 @@ http://54.39.48.63:8081/ESP%7CVAMOS/ESP%7CVAMOS/playlist.m3u8
 #EXTINF:-1, VAMOS TV
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/71851
 
+#EXTINF:-1, ELEVEN 1
+https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+
+#EXTINF:-1, ELEVEN 1
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/94061
+
+#EXTINF:-1, ELEVEN 1
+https://liv11octptsp.stblauncher.com/live/6643_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+
+#EXTINF:-1,Look Sport 1
+https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+
+#EXTINF:-1, ELEVEN SPORTS 1HD POL
+http://91.226.51.126:8000/udp/239.100.10.102:2234
+
+#EXTINF:-1,DIGI Sport 1
+http://103.194.169.171:8282/RO_DIGI_SPORT1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
 #EXTINF:-1, BEIN 1
 http://b.banourahga.xyz/live/918454578001/index.m3u8
 
@@ -71,9 +89,6 @@ http://qqtv.nl:8080/live/norma/12345/31019.m3u8
 
 #EXTINF:-1, MOVISTAR LALIGA
 http://qqtv.nl:8080/live/norma/12345/87460.m3u8
-
-#EXTINF:-1, LALIGA televisión BAR
-http://qqtv.nl:8080/live/norma/12345/88295.m3u8
 
 #EXTINF:-1, M LALIGA BAR
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/72947
@@ -216,9 +231,6 @@ http://7b30f9aa.tvclub.xyz:80/iptv/SGME6W4L2A6MNZ/6131/index.m3u8
 #EXTINF:-1 ,BEIN SPORTS 1 PREMIUM 
 http://belfast.dyndns.tv:5808/BEINHD8/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ,BEIN SPORTS 1 PREMIUM
-http://k3.amaniyouhra.xyz/live/616165500160/index.m3u8
-
 #EXTINF:-1, BEIN SPORT 2 PREMIUM
 http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 
@@ -342,9 +354,6 @@ http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2499/index.m3u8
 #EXTINF:-1 ,BEIN SPORTS 1 FR
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/5525
 
-#EXTINF:-1 ,BEIN SPORTS 1 FR
-http://belfast.dyndns.tv:5808/BEINHD1/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 ,BEIN SPORTS 1 DIRECT FR
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/84413
 
@@ -390,44 +399,17 @@ https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=
 #EXTINF:-1,Look Sport+
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 
-#EXTINF:-1, MAX SPORTS 4
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/32073?
-
 #EXTINF:-1, ELEVEN SPORTS 1HD POL
 http://91.226.51.126:8000/udp/239.100.10.102:2234
-
-#EXTINF:-1, ELEVEN SPORTS 1FHD POL
-http://95.211.250.54:80/ELEVEN/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, ELEVEN SPORTS 2HD POL
 http://91.226.51.126:8000/udp/239.100.10.103:2234
 
-#EXTINF:-1, ELEVEN SPORTS 2FHD POL
-http://95.211.250.54:80/ELEVEN_SPORTS/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1, ELEVEN SPORTS 3HD POL
 http://91.226.51.126:8000/udp/239.100.10.104:2234
 
-#EXTINF:-1, ELEVEN SPORTS 3FHD POL
-http://95.211.250.54:80/ELEVEN_EXTRA/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1, ELEVEN SPORTS 4HD POL
 http://91.226.51.126:8000/udp/239.100.10.105:2234
-
-#EXTINF:-1, ELEVEN SPORTS 4FHD POL
-http://95.211.250.54:80/ELEVEN4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, ELEVEN SPORTS 1HD POL
-http://95.211.250.54:80/ELEVEN/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, ELEVEN SPORTS 2HD POL
-http://95.211.250.54:80/ELEVEN_SPORTS/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, ELEVEN SPORTS 3HD POL
-http://95.211.250.54:80/ELEVEN_EXTRA/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, ELEVEN SPORTS 4HD POL
-http://95.211.250.54:80/ELEVEN4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, ELEVEN SPORTS 1 BELGICA
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/82243
