@@ -1266,6 +1266,9 @@ http://www.filmon.com/vr-streams/4121.high/playlist.m3u8
 #EXTINF:-1, AD SPORTS
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 
+#EXTINF:-1, TURKMEN SPORTS
+http://alpha.tv.online.tm/hls/ch004_720/index.m3u8
+
 #EXTINF:-1, BAHRAIN SPORTS
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
 
