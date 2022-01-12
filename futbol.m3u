@@ -372,6 +372,15 @@ http://95.107.132.106/out/u/699_2.m3u8
 #EXTINF:-1, OVERSPORT HD4
 http://95.107.132.106/out/u/708_3.m3u8
 
+#EXTINF:-1, ARENA SPORT 1 HD PREMIUM SERBIA
+http://srv1.exyu.cc:8080/G0toeWMhOL/qvrPlbCkap/6739
+
+#EXTINF:-1, ARENA SPORT 2 HD PREMIUM SERBIA
+http://srv1.exyu.cc:8080/G0toeWMhOL/qvrPlbCkap/6740
+
+#EXTINF:-1, ARENA SPORT 3 HD PREMIUM SERBIA
+http://srv1.exyu.cc:8080/G0toeWMhOL/qvrPlbCkap/7614
+ 
 #EXTINF:-1, ARENA SPORT 2 
 http://84.22.33.214/ArenaSport2/mono.m3u8?per
 
@@ -392,6 +401,9 @@ http://104.215.150.112:19440/play/ASSP3/index.m3u8
 
 #EXTINF:-1,Astro Super Sport 4
 http://104.215.150.112:19440/play/ASSP4/index.m3u8
+
+#EXTINF:-1, IN SPORT HD SERBIA
+http://srv1.exyu.cc:8080/G0toeWMhOL/qvrPlbCkap/161 
 
 #EXTINF:-1,True Sport HD
 https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
@@ -503,6 +515,9 @@ http://54.39.48.63:8081/AR%7CBEINSPORTS3/AR%7CBEINSPORTS3/playlist.m3u8
 
 #EXTINF:-1, BEIN MEDIA 6 HD
 http://54.39.48.63:8081/AR%7CBEINSPORTS5/AR%7CBEINSPORTS5/playlist.m3u8
+
+#EXTINF:-1, BEIN SPORT HD USA
+http://54.39.49.162:8081/USA%7CBEINSPORTS/USA%7CBEINSPORTS/playlist.m3u8
 
 #EXTINF:-1, BEIN SPORT EXTRA
 https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
@@ -780,6 +795,12 @@ http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 #EXTINF:-1, ESPN HD
 http://qqtv.nl:8080/live/norma/12345/7913.m3u8
 
+#EXTINF:-1, ESPN HD
+http://54.39.49.162:8081/USA%7CESPN/SPORTS/playlist.m3u8
+
+#EXTINF:-1, ESPN 2 HD
+http://54.39.49.162:8081/USA%7CESPN2/SPORTS/playlist.m3u8
+
 #EXTINF:-1, ESPN EXTRA
 http://qqtv.nl:8080/live/norma/12345/7915.m3u8
 
@@ -920,6 +941,27 @@ http://103.194.169.171:8282/Sport_Klub_4_SR/mono.m3u8?token=93a611c10082e5eec57f
 
 #EXTINF:-1, SK 5
 http://103.194.169.171:8282/Sport_Klub_5_SR/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
+#EXTINF:-1, SK HD SERBIA
+http://srv1.exyu.cc:8080/G0toeWMhOL/qvrPlbCkap/168
+
+#EXTINF:-1, SK 1 HD SERBIA
+http://srv1.exyu.cc:8080/G0toeWMhOL/qvrPlbCkap/162
+
+#EXTINF:-1, SK 2 HD SERBIA
+http://srv1.exyu.cc:8080/G0toeWMhOL/qvrPlbCkap/163
+
+#EXTINF:-1, SK 3 HD SERBIA
+http://srv1.exyu.cc:8080/G0toeWMhOL/qvrPlbCkap/164
+
+#EXTINF:-1, SK 4 HD SERBIA
+http://srv1.exyu.cc:8080/G0toeWMhOL/qvrPlbCkap/165
+
+#EXTINF:-1, SK 5 HD SERBIA
+http://srv1.exyu.cc:8080/G0toeWMhOL/qvrPlbCkap/166
+
+#EXTINF:-1, SK 6 HD SERBIA
+http://srv1.exyu.cc:8080/G0toeWMhOL/qvrPlbCkap/167
 
 #EXTINF:-1, MAGENTA SPORTS
 http://198.144.159.43/jrC33Ep2P6jzOle0iR1nhg/1641953089/38332e33382e37352e313438/ff36/playlist.m3u8
