@@ -99,6 +99,9 @@ http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 #EXTINF:-1, ESPN BRASIL HD
 http://fonteangelusiptv.com:8080/elane2021/2021elane/925565
 
+#EXTINF:-1, ESPN BRASIL HD
+https://liv11octhd.stblauncher.com/live/5907_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+
 #EXTINF:-1, ESPN 1
 http://qqtv.nl:8080/live/norma/12345/20269.m3u8
 
@@ -963,6 +966,15 @@ http://54.39.49.162:8081/USA%7CESPN2/SPORTS/playlist.m3u8
 #EXTINF:-1, ESPN EXTRA
 http://qqtv.nl:8080/live/norma/12345/7915.m3u8
 
+#EXTINF:-1, ESPN EXTRA BRASIL
+https://liv11octhd.stblauncher.com/live/34_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+
+#EXTINF:-1, ESPN HD BRASIL
+https://liv11octhd.stblauncher.com/live/5912_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+
+#EXTINF:-1, ESPN HD 2 BRASIL
+https://liv11octhd.stblauncher.com/live/5910_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+
 #EXTINF:-1, ESPN DEPORTES
 http://ytv.plus:25461/live/mercedes/1234/2007.m3u8
 
@@ -1028,6 +1040,12 @@ http://qqtv.nl:8080/live/norma/12345/20084.m3u8
 
 #EXTINF:-1, FOX SPORTS CHILE 2
 http://qqtv.nl:8080/live/norma/12345/58292.m3u8
+
+#EXTINF:-1, FOX SPORTS HD 1 BRASIL
+https://liv11octhd.stblauncher.com/live/5927_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+
+#EXTINF:-1, FOX SPORTS HD 2 BRASIL
+https://liv11octhd.stblauncher.com/live/5924_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 
 #EXTINF:-1, MOVISTAR DEPORTES 1
 http://qqtv.nl:8080/live/norma/12345/275183.m3u8
