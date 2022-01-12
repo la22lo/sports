@@ -42,6 +42,12 @@ http://qqtv.nl:8080/live/norma/12345/20406.m3u8
 #EXTINF:-1, CLASICO
 http://cdn2.cyclingnews.live/hls/P1.m3u8
 
+#EXTINF:-1, CLASICO
+https://play.girlupx.cn/live/ballbar_15960.m3u8
+
+#EXTINF:-1,BT SPORT
+https://d3qyv086byche6.cloudfront.net:443/stream/MjQ4OQ==/1080p.m3u8
+
 #EXTINF:-1,BT SPORT 1
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/87296
 
