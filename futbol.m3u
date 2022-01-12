@@ -482,6 +482,24 @@ http://srv1.exyu.cc:8080/G0toeWMhOL/qvrPlbCkap/6740
 
 #EXTINF:-1, ARENA SPORT 3 HD PREMIUM SERBIA
 http://srv1.exyu.cc:8080/G0toeWMhOL/qvrPlbCkap/7614
+
+#EXTINF:-1, ARENA SPORT 1 CROACIA
+http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/176.m3u8
+
+#EXTINF:-1, ARENA SPORT 2 CROACIA
+http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/177.m3u8
+
+#EXTINF:-1, ARENA SPORT 3 CROACIA
+http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/178.m3u8
+
+#EXTINF:-1, ARENA SPORT 4 CROACIA
+http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/179.m3u8
+
+#EXTINF:-1, ARENA SPORT 5 CROACIA
+http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/180.m3u8
+
+#EXTINF:-1, ARENA SPORT 6 CROACIA
+http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/181.m3u8
  
 #EXTINF:-1, ARENA SPORT 2 
 http://84.22.33.214/ArenaSport2/mono.m3u8?per
@@ -1097,6 +1115,24 @@ http://srv1.exyu.cc:8080/G0toeWMhOL/qvrPlbCkap/166
 
 #EXTINF:-1, SK 6 HD SERBIA
 http://srv1.exyu.cc:8080/G0toeWMhOL/qvrPlbCkap/167
+
+#EXTINF:-1, SK 1 CROACIA
+http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/173.m3u8
+
+#EXTINF:-1, SK 2 CROACIA
+http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/174.m3u8
+
+#EXTINF:-1, SK 3 CROACIA
+http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/175.m3u8
+
+#EXTINF:-1, SPORT 1 CROACIA
+http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/190.m3u8
+
+#EXTINF:-1, SPORT 2 CROACIA
+http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/191.m3u8
+
+#EXTINF:-1, SPORT 3 CROACIA
+http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/192.m3u8
 
 #EXTINF:-1, MAGENTA SPORTS
 http://198.144.159.43/jrC33Ep2P6jzOle0iR1nhg/1641953089/38332e33382e37352e313438/ff36/playlist.m3u8
