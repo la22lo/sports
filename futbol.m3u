@@ -351,6 +351,18 @@ http://91.226.51.126:8000/udp/239.100.10.105:2234
 #EXTINF:-1, ELEVEN SPORTS 4FHD POL
 http://95.211.250.54:80/ELEVEN4/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, ELEVEN SPORTS 1HD POL
+http://95.211.250.54:80/ELEVEN/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, ELEVEN SPORTS 2HD POL
+http://95.211.250.54:80/ELEVEN_SPORTS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, ELEVEN SPORTS 3HD POL
+http://95.211.250.54:80/ELEVEN_EXTRA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, ELEVEN SPORTS 4HD POL
+http://95.211.250.54:80/ELEVEN4/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, CANAL +1 POLONIA
 http://91.226.51.126:8000/udp/239.100.10.183:2234
 
@@ -509,6 +521,12 @@ http://84.22.33.214/ArenaSport2/mono.m3u8?per
 
 #EXTINF:-1, ARENA SPORT 3
 http://103.194.169.171:8282/Arena_Sport_3_HR_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
+#EXTINF:-1, SuperSport 6
+http://93.157.62.180/Supersport6/index.m3u8
+
+#EXTINF:-1, SuperSport 7
+http://93.157.62.180/Supersport7/index.m3u8
 
 #EXTINF:-1, Astro Arena 1
 http://104.215.150.112:19440/play/ARENAHD/index.m3u8
@@ -1241,6 +1259,9 @@ http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/183
 
 #EXTINF:-1, SKY SPORT 2 ALEMANIA
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/181
+
+#EXTINF:-1, SPORT 1 ALEMANIA
+http://www.filmon.com/vr-streams/4121.high/playlist.m3u8
 
 #EXTINF:-1, AD SPORTS
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
