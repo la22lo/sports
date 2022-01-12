@@ -582,6 +582,9 @@ http://93.157.62.180/Supersport6/index.m3u8
 #EXTINF:-1, SuperSport 7
 http://93.157.62.180/Supersport7/index.m3u8
 
+#EXTINF:-1, EIRE SPORT 1
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/87285
+
 #EXTINF:-1, Astro Arena 1
 http://104.215.150.112:19440/play/ARENAHD/index.m3u8
 
