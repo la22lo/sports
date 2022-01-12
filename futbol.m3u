@@ -39,6 +39,9 @@ https://bal.varcdn1.ru/lb/setanta2/index.m3u8
 #EXTINF:-1, DIRECTV CHILE
 http://qqtv.nl:8080/live/norma/12345/20406.m3u8
 
+#EXTINF:-1, CLASICO
+http://cdn2.cyclingnews.live/hls/P1.m3u8
+
 #EXTINF:-1,BT SPORT 1
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/87296
 
