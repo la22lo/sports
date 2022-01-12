@@ -72,6 +72,9 @@ https://tunelive.net:3412/stream/play.m3u8
 #EXTINF:-1, MOVISTAR LALIGA HD
 http://54.39.48.63:8081/ESP%7CMOVISTARLALIGA/ESP%7CMOVISTARLALIGA/playlist.m3u8
 
+#EXTINF:-1, MOVISTAR LALIGA
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/72946
+
 #EXTINF:-1, VAMOS HD
 http://54.39.48.63:8081/ESP%7CVAMOS/ESP%7CVAMOS/playlist.m3u8
 
@@ -83,6 +86,9 @@ http://qqtv.nl:8080/live/norma/12345/87460.m3u8
 
 #EXTINF:-1, LALIGA televisión BAR
 http://qqtv.nl:8080/live/norma/12345/88295.m3u8
+
+#EXTINF:-1, M LALIGA BAR
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/72947
 
 #EXTINF:-1, BEIN SPORT 1 TRUE VISIONS
 https://smart-tv.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8
@@ -278,6 +284,12 @@ http://54.39.49.162:8081/USA%7CBEINSPORTS/USA%7CBEINSPORTS/playlist.m3u8
 
 #EXTINF:-1,beIN SPORTS EXTRA Ñ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+
+#EXTINF:-1, M LIGA 1
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/71858
+
+#EXTINF:-1, M LIGA 2
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/71859
 
 #EXTINF:-1, MOVISTAR LALIGA
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/309
