@@ -1500,5 +1500,14 @@ http://k15.amaniyouhra.xyz:80/live/788550011/index.m3u8
 #EXTINF:-1,YACIN SPORTS 7SD
 http://k15.amaniyouhra.xyz:80/live/100666696/index.m3u8
 
+#EXTINF:-1, Ziggo Sport 1 Select
+http://red.ipfox.org:8080/Karim2_534341/40036069/2492
+
+#EXTINF:-1 , Ziggo Sport Docu
+http://red.ipfox.org:8080/Karim2_534341/40036069/2490
+
+#EXTINF:-1, Ziggo Sport 1 Voetbal
+http://red.ipfox.org:8080/Karim2_534341/40036069/2491
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
