@@ -33,11 +33,17 @@ http://46.29.169.15:4001/play/a001/index.m3u8
 #EXTINF:-1, SK 1
 http://103.194.169.171:8282/Sport_Klub_1_SRB/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 
-#EXTINF:-1, SETANTA SPORT 2
-https://bal.varcdn1.ru/lb/setanta2/index.m3u8
+#EXTINF:-1, ESPN USA
+http://d15xyumcalkui.cloudfront.net:80/flash1/_definst_/k1/chunklist.m3u8?SBN
 
 #EXTINF:-1, DIRECTV CHILE
 http://qqtv.nl:8080/live/norma/12345/20406.m3u8
+
+#EXTINF:-1, CLASICO
+http://185.53.89.183/hls/bt1.m3u8?SBN
+
+#EXTINF:-1, CLASICO
+http://45.148.26.176/hls/M2.m3u8?SBN
 
 #EXTINF:-1, CLASICO
 http://cdn2.cyclingnews.live/hls/P1.m3u8
@@ -56,6 +62,12 @@ http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/87295
 
 #EXTINF:-1,BT SPORT 1 LIVE
 http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/91
+
+#EXTINF:-1, L EQUIPE DIRECT
+http://b.banourahga.xyz/live/9787488847/index.m3u8?SBN
+
+#EXTINF:-1,L EQUIPE DIRECT 
+http://n1.anfalrou.xyz/live/9787488847/index.m3u8?SBN
 
 #EXTINF:-1,DIGI Sport 1
 http://103.194.169.171:8282/RO_DIGI_SPORT1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
