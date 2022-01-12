@@ -9,6 +9,9 @@ http://93.152.174.144:4000/play/bein1ar/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1, ELEVEN 1
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
+#EXTINF:-1, ELEVEN 1
+https://liv11octptsp.stblauncher.com/live/6643_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+
 #EXTINF:-1, ELEVEN 2
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
@@ -144,8 +147,14 @@ https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleve
 #EXTINF:-1, ELEVEN 4
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_4_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
+#EXTINF:-1, ELEVEN 4
+https://liv11octptsp.stblauncher.com/live/6646_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+
 #EXTINF:-1, ELEVEN 5
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_5_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+
+#EXTINF:-1, ELEVEN 5
+https://liv11octptsp.stblauncher.com/live/6647_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 
 #EXTINF:-1, ELEVEN 6
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_6_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
@@ -474,17 +483,32 @@ http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/92
 #EXTINF:-1, SPORTTV 1
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
+#EXTINF:-1, SPORTTV 1
+https://liv11octptsp.stblauncher.com/live/4271_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+
 #EXTINF:-1, SPORTTV 2
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
+#EXTINF:-1, SPORTTV 2
+https://liv11octptsp.stblauncher.com/live/4272_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+
 #EXTINF:-1, SPORTTV 3
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV3_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+
+#EXTINF:-1, SPORTTV 3
+https://liv11octptsp.stblauncher.com/live/4273_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 
 #EXTINF:-1, SPORTTV 4
 https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
 
 #EXTINF:-1, SPORTTV 4
+https://liv11octptsp.stblauncher.com/live/4246_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+
+#EXTINF:-1, SPORTTV 4
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTVLive_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+
+#EXTINF:-1, SPORTTV 5
+https://liv11octptsp.stblauncher.com/live/4213_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 
 #EXTINF:-1, TV3 LT
 http://rr3.vipshara-iptv.com/~20574a7c01a79f01ce840b42b8901315ed3/71645/hls/pl.m3u8
