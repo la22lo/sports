@@ -1497,6 +1497,9 @@ http://91.226.51.126:8000/udp/239.100.10.99:2234
 #EXTINF:-1, SPORT 1 HOLANDA
 https://www.filmon.com/vr-streams/4121/high/playlist.m3u8
 
+#EXTINF:-1, INFOSPORT FRANCIA
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/32717
+
 #EXTINF:-1, C MORE
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2514/index.m3u8
 
