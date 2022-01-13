@@ -51,8 +51,8 @@ http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/91
 #EXTINF:-1, DIRECTV CHILE
 http://qqtv.nl:8080/live/norma/12345/20406.m3u8
 
-#EXTINF:-1,Look Sport 1
-https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+#EXTINF:-1,Look Sport +
+https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?mvk
 
 #EXTINF:-1,DIGI Sport 2
 http://103.194.169.171:8282/RO_DIGI_SPORT2_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
