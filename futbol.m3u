@@ -207,27 +207,37 @@ http://server.sibfungold.info:8080/gaicu84/NeDlHL0bF1NeDlHL0bF1/54378
 #EXTINF:-1,beIN Sports 1 🇲🇨
 https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",beIN Sports 2 🇲🇨
+#EXTINF:-1,beIN Sports 2 🇲🇨
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",beIN Sports Premium 1 ᴴᴰ🇶🇦
+
+#EXTINF:-1,beIN Sports Premium 1 ᴴᴰ🇶🇦
 http://server.sibfungold.info:8080/gaicu84/NeDlHL0bF1NeDlHL0bF1/9
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",beIN Sports Premium 2 ᴴᴰ🇶🇦
+
+#EXTINF:-1,beIN Sports Premium 2 ᴴᴰ🇶🇦
 http://server.sibfungold.info:8080/gaicu84/NeDlHL0bF1NeDlHL0bF1/8
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",beIN Sports Premium 3 ᴴᴰ🇶🇦
+
+#EXTINF:-1,beIN Sports Premium 3 ᴴᴰ🇶🇦
 http://server.sibfungold.info:8080/gaicu84/NeDlHL0bF1NeDlHL0bF1/11
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",beIN Sports 1 ᴴᴰ🇶🇦
+
+#EXTINF:-1,beIN Sports 1 ᴴᴰ🇶🇦
 http://server.sibfungold.info:8080/gaicu84/NeDlHL0bF1NeDlHL0bF1/1
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",beIN Sports 2 ᴴᴰ🇶🇦
+
+#EXTINF:-1",beIN Sports 2 ᴴᴰ🇶🇦
 http://server.sibfungold.info:8080/gaicu84/NeDlHL0bF1NeDlHL0bF1/2
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",beIN Sports 3 ᴴᴰ🇶🇦
+
+#EXTINF:-1,beIN Sports 3 ᴴᴰ🇶🇦
 http://server.sibfungold.info:8080/gaicu84/NeDlHL0bF1NeDlHL0bF1/3
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",beIN Sports 4 ᴴᴰ🇶🇦
+
+#EXTINF:-1,beIN Sports 4 ᴴᴰ🇶🇦
 http://server.sibfungold.info:8080/gaicu84/NeDlHL0bF1NeDlHL0bF1/4
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",beIN Sports 5 ᴴᴰ🇶🇦
+
+#EXTINF:-1,beIN Sports 5 ᴴᴰ🇶🇦
 http://server.sibfungold.info:8080/gaicu84/NeDlHL0bF1NeDlHL0bF1/5
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",beIN Sports 6 ᴴᴰ🇶🇦
+
+#EXTINF:-1,beIN Sports 6 ᴴᴰ🇶🇦
 http://server.sibfungold.info:8080/gaicu84/NeDlHL0bF1NeDlHL0bF1/6
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",beIN Sports 7 ᴴᴰ🇶🇦
+
+#EXTINF:-1,beIN Sports 7 ᴴᴰ🇶🇦
 http://server.sibfungold.info:8080/gaicu84/NeDlHL0bF1NeDlHL0bF1/7
 
 #EXTINF:-1, DIRECTV SPORT 2
