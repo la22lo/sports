@@ -1665,6 +1665,9 @@ http://93.157.62.180:80/KSport3/tracks-v1a1/mono.m3u8
 #EXTINF:-1, K Sport 4
 http://93.157.62.180:80/KSport4/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, HNTV
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/112565
+
 #EXTINF:-1,Tring Sport 2 HD
 http://185.226.88.3:1036/live/backup/backup/62.m3u8
 
