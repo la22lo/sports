@@ -117,7 +117,10 @@ http://qqtv.nl:8080/live/norma/12345/20106.m3u8
 #EXTINF:-1, DIRECTV SPORT 1
 http://185.134.22.131:8080/live/Carlos123/Carlos123/38638.m3u8
 
-#EXTINF:-1, SKY SPORTS
+#EXTINF:-1, SKY SPORTS MX 🇲🇽
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234531
+
+#EXTINF:-1, SKY SPORTS 🇲🇽
 https://tunelive.net:3412/stream/play.m3u8
 
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
