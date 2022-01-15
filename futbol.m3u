@@ -1029,20 +1029,29 @@ https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1, ELEVEN SPORT 2
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 
-#EXTINF:-1, RMC SPORT 1
+#EXTINF:-1, RMC SPORT 1 🇫🇷
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/28191
 
-#EXTINF:-1, RMC SPORT 2
+#EXTINF:-1, RMC SPORT 1 🇫🇷
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/61118
+
+#EXTINF:-1, RMC SPORT 2 🇫🇷
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/61121
+
+#EXTINF:-1, RMC SPORT 2 🇫🇷
 http://56.bangiroua.xyz.global.prod.fastly.net/live/138/index.m3u8
 
-#EXTINF:-1, RMC SPORT 2
+#EXTINF:-1, RMC SPORT 2 🇫🇷
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/28190
 
-#EXTINF:-1, RMC SPORT 3
+#EXTINF:-1, RMC SPORT 3 🇫🇷
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/28189
 
-#EXTINF:-1, RMC SPORT 3
+#EXTINF:-1, RMC SPORT 3 🇫🇷
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/28188
+
+#EXTINF:-1, CANAL + DIRECT 🇫🇷
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/61133
 
 #EXTINF:-1, Футбол 1
 https://95-213-224-186.livesports24.online/ntvmatchfoot1.m3u8
