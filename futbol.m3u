@@ -72,10 +72,10 @@ http://103.194.169.171:8282/RO_DIGI_SPORT2_HD/mono.m3u8?token=93a611c10082e5eec5
 #EXTINF:-1,DIGI Sport 1
 http://103.194.169.171:8282/RO_DIGI_SPORT1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 
-#EXTINF:-1, BEIN 1
+#EXTINF:-1, BEIN 1 AR ᴴᴰ🇶🇦
 http://b.banourahga.xyz/live/918454578001/index.m3u8
 
-#EXTINF:-1, BEIN SPORT AR 1
+#EXTINF:-1, BEIN SPORT AR ᴴᴰ🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1, ELEVEN 1
@@ -105,10 +105,10 @@ http://103.194.169.171:8282/RO_DIGI_SPORT1_HD/mono.m3u8?token=93a611c10082e5eec5
 #EXTINF:-1, BEIN SPORT 1 YAYA
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
-#EXTINF:-1, BEIN SPORT 3 LIVE AR
+#EXTINF:-1, BEIN SPORT 3 AR ᴴᴰ🇶🇦
 http://93.152.174.144:4000/play/bein3ar/index.m3u8
 
-#EXTINF:-1, BEIN SPORT 3 LIVE AR
+#EXTINF:-1, BEIN SPORT 3 AR ᴴᴰ🇶🇦
 http://93.152.174.144:4000/play/bein3ar/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1, DIRECTV SPORT 1
