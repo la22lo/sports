@@ -9,23 +9,8 @@ http://p7.anfalrou.xyz/live/9787488847/index.m3u8
 #EXTINF:-1, SUPERCOPA
 http://45.148.26.176/hls/M3.m3u8
 
-#EXTINF:-1, SK 1 HD SERBIA 🇷🇸
-http://srv1.exyu.cc:8080/G0toeWMhOL/qvrPlbCkap/162
-
 #EXTINF:-1, ESPN BRASIL 🇧🇷
 https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/gjo25y3PHekfqZgYydMvxsE4Wi9RuAEt-XimeaJG4I82zxQH2tJpFGGxhtPHSOheA3n8WEFr6NvlA3HODW9LDw/non_transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1, ZIGGO SELECT 🇳🇱
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95486
-
-#EXTINF:-1, SK 1 🇭🇷
-http://46.29.169.15:4001/play/a001/index.m3u8
-
-#EXTINF:-1, SK 1  🇭🇷
-http://103.194.169.171:8282/Sport_Klub_1_SRB/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-
-#EXTINF:-1, SK 1 CROACIA  🇭🇷
-http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/173.m3u8
 
 #EXTINF:-1, TV3 SPORT2 LT 🇱🇹
 http://rr3.vipshara-iptv.com/~20574a7c01a79f01ce840b42b8901315ed3/73759/hls/pl.m3u8
