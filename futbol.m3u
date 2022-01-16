@@ -24,6 +24,9 @@ https://liv11octptsp.stblauncher.com/live/6643_.m3u8?token=bcc65a1fb3974adeaa616
 #EXTINF:-1, ELEVEN SPORTS 1HD POL 🇵🇱
 http://91.226.51.126:8000/udp/239.100.10.102:2234
 
+#EXTINF:-1, SSC5 🇦🇪
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/94045
+
 #EXTINF:-1, ZIGGO SELECT 🇳🇱
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95486
 
@@ -432,9 +435,6 @@ http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://5gfksa.ltd:2052/live/55667788/88776655/83311.m3u8
 
-#EXTINF:-1,LALIGA TV BAR 🇪🇸
-http://5gfksa.ltd:2052/live/55667788/88776655/83315.m3u8
-
 #EXTINF:-1, TV BAR 🇪🇸
 http://185.134.22.131:8080/live/Carlos123/Carlos123/36467.m3u8
 
@@ -473,9 +473,6 @@ http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/199
 
 #EXTINF:-1, DAZN F1 🇪🇸
 http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/chunks.m3u8
-
-#EXTINF:-1, DAZN F1 🇪🇸
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/289
 
 #EXTINF:-1, MULTIDEPORTE 🇪🇸
 http://qqtv.nl:8080/live/norma/12345/31020.m3u8
@@ -542,15 +539,6 @@ http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/4886
 
 #EXTINF:-1,Bein Sport 3 HD 🇫🇷
 http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/4887
-
-EXTINF:-1,FR beIN SPORTS 1 HD 🇫🇷
-https://free.one24tv.com:443/73281642280926/73281642280926/3174
-
-#EXTINF:-1,FR beIN SPORTS 2 HD 🇫🇷
-https://free.one24tv.com:443/73281642280926/73281642280926/3175
-
-#EXTINF:-1 l,FR beIN SPORTS 3 HD 🇫🇷
-https://free.one24tv.com:443/73281642280926/73281642280926/3176
 
 #EXTINF:-1, beIN SPORTS English 1 🇬🇧
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
@@ -650,9 +638,6 @@ http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95482
 
 #EXTINF:-1, ZIGGO SPORT EXTRA 2 🇳🇱
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95481
-
-#EXTINF:-1, SuperSport MAXIMO
-https://free.one24tv.com/73281642280926/73281642280926/15215
 
 #EXTINF:-1, SuperSport Laliga
 http://iptv.tvmalaysia.cc:80/penang174/penang174/6575
@@ -1050,30 +1035,6 @@ http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1, PPTV ASIA 🇨🇳
 https://smart-tv.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
 
-EXTINF:-1,SSC Sports 1 HD 🇦🇪
-https://free.one24tv.com:443/73281642280926/73281642280926/7287
-
-#EXTINF:-1 l,SSC Sports 1 🇦🇪
-https://free.one24tv.com:443/73281642280926/73281642280926/7307
-
-#EXTINF:-1,SSC Sports 2 🇦🇪
-https://free.one24tv.com:443/73281642280926/73281642280926/7308
-
-#EXTINF:-1,SSC Sports 3 🇦🇪
-https://free.one24tv.com:443/73281642280926/73281642280926/7309
-
-#EXTINF:-1,SSC Sports 4 🇦🇪
-https://free.one24tv.com:443/73281642280926/73281642280926/7310
-
-#EXTINF:-1,SSC Sports 5 🇦🇪
-https://free.one24tv.com:443/73281642280926/73281642280926/7311
-
-#EXTINF:-1,SSC Sports 6 🇦🇪
-https://free.one24tv.com:443/73281642280926/73281642280926/7312
-
-P#EXTINF:-1,SSC Sports 7 🇦🇪
-https://free.one24tv.com:443/73281642280926/73281642280926/7313
-
 #EXTINF:-1, SSC1 🇦🇪
 https://ssc-5-ak.akamaized.net:443/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index_3.m3u8
 
@@ -1188,14 +1149,8 @@ https://smart-tv.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1, DAZN 1 ALEMANIA 🇩🇪
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/190
 
-#EXTINF:-1, DAZN 1 ALEMANIA 🇩🇪
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/17663
-
 #EXTINF:-1, DAZN 2 ALEMANIA 🇩🇪
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/189
-
-#EXTINF:-1, DAZN 2 ALEMANIA 🇩🇪
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/17576
 
 #EXTINF:-1, DAZN 1 BAR ALEMANIA 🇩🇪
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/93192
