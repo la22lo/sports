@@ -3,12 +3,6 @@
 #EXTINF:-1, VAMOS TV 🇪🇸
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/71851
 
-#EXTINF:-1, SUPERCOPA
-http://p7.anfalrou.xyz/live/9787488847/index.m3u8
-
-#EXTINF:-1, SUPERCOPA
-http://45.148.26.176/hls/M3.m3u8
-
 #EXTINF:-1, BEIN 1 AR ᴴᴰ🇶🇦
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/11138
 
@@ -1040,6 +1034,9 @@ http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/94046
 
 #EXTINF:-1, SSC5 🇦🇪
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/94045
+
+#EXTINF:-1, SSC5 🇦🇪
+http://p7.anfalrou.xyz/live/9787488847/index.m3u8
 
 #EXTINF:-1, SSC6 🇦🇪
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/94044
