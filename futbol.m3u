@@ -21,6 +21,9 @@ https://liv11octptsp.stblauncher.com/live/6643_.m3u8?token=bcc65a1fb3974adeaa616
 #EXTINF:-1, ELEVEN SPORTS 1HD POL 🇵🇱
 http://91.226.51.126:8000/udp/239.100.10.102:2234
 
+#EXTINF:-1, ESPN BRASIL 🇧🇷
+https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/gjo25y3PHekfqZgYydMvxsE4Wi9RuAEt-XimeaJG4I82zxQH2tJpFGGxhtPHSOheA3n8WEFr6NvlA3HODW9LDw/non_transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/dynamic_highlatency.m3u8?type=live
+
 #EXTINF:-1, ZIGGO SELECT 🇳🇱
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95486
 
