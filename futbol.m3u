@@ -12,9 +12,6 @@ http://45.148.26.176/hls/M3.m3u8
 #EXTINF:-1, SK 1 HD SERBIA 🇷🇸
 http://srv1.exyu.cc:8080/G0toeWMhOL/qvrPlbCkap/162
 
-#EXTINF:-1, ELEVEN SPORTS 1HD POL 🇵🇱
-http://91.226.51.126:8000/udp/239.100.10.102:2234
-
 #EXTINF:-1, ESPN BRASIL 🇧🇷
 https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/gjo25y3PHekfqZgYydMvxsE4Wi9RuAEt-XimeaJG4I82zxQH2tJpFGGxhtPHSOheA3n8WEFr6NvlA3HODW9LDw/non_transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/dynamic_highlatency.m3u8?type=live
 
@@ -71,6 +68,9 @@ http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/94061
 
 #EXTINF:-1, ELEVEN 1 🇵🇹
 https://liv11octptsp.stblauncher.com/live/6643_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+
+#EXTINF:-1, ELEVEN SPORTS 1HD POL 🇵🇱
+http://91.226.51.126:8000/udp/239.100.10.102:2234
 
 #EXTINF:-1, ELEVEN 2 🇵🇹
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
