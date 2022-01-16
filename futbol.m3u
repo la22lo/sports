@@ -75,8 +75,11 @@ http://103.194.169.171:8282/RO_DIGI_SPORT1_HD/mono.m3u8?token=93a611c10082e5eec5
 #EXTINF:-1, BEIN 1 AR ᴴᴰ🇶🇦
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/11138
 
-#EXTINF:-1, BEIN SPORT AR ᴴᴰ🇶🇦
+#EXTINF:-1, BEIN SPORT 1 AR ᴴᴰ🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1, BEIN SPORT 1 AR 🇶🇦
+http://p10.anfalrou.xyz/live/918454578001/index.m3u8?mvk
 
 #EXTINF:-1, ELEVEN 1 🇵🇹
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
