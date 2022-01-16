@@ -66,6 +66,9 @@ http://qqtv.nl:8080/live/norma/12345/20406.m3u8
 #EXTINF:-1, ESPN2 🇦🇷
 http://mvk@212.102.60.80/ESPN2/index.m3u8?mvk
 
+#EXTINF:-1,nova sports 2 HD 🇬🇷
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/67018
+
 #EXTINF:-1,Look Sport + 🇷🇴
 https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?mvk
 
