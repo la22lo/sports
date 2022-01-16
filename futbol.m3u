@@ -12,6 +12,12 @@ https://play.girlupx.cn/live/ballbar_19510.m3u8
 #EXTINF:-1, SUPERCOPA
 https://kgqnmpull.aiguitar.cn/live/sd-1-3675007.m3u8
 
+#EXTINF:-1, SUPERCOPA
+http://45.148.26.176/hls/M3.m3u8
+
+#EXTINF:-1, BT SPORT 3
+https://d55gh12iqapwi.cloudfront.net/stream/MjUzNw==/1080p.m3u8
+
 #EXTINF:-1, SK 1 HD SERBIA 🇷🇸
 http://srv1.exyu.cc:8080/G0toeWMhOL/qvrPlbCkap/162
 
@@ -71,6 +77,9 @@ https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?mvk
 
 #EXTINF:-1,DIGI Sport 1 🇷🇴
 http://103.194.169.171:8282/RO_DIGI_SPORT1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
+#EXTINF:-1,DMSAT
+http://dmsat2021.ddns.net:8080/live/SP_ARABIC/dgKUEDcq/837.m3u8
 
 #EXTINF:-1, BEIN 1 AR ᴴᴰ🇶🇦
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/11138
