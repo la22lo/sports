@@ -798,6 +798,15 @@ http://catchup.iptv.iinet.rs/playlist.m3u8?id=147&token=y_sel
 #EXTINF:-1, ARENA SPORT 2 
 http://84.22.33.214/ArenaSport2/mono.m3u8?per
 
+EXTINF:-1, S1 SPORT HD (SL)
+http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/190.m3u8
+
+EXTINF:-1, S2 SPORT HD (SL)
+http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/191.m3u8
+
+EXTINF:-1, S3 SPORT HD (SL)
+http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/192.m3u8
+
 #EXTINF:-1, SuperSport 6
 http://93.157.62.180/Supersport6/index.m3u8
 
