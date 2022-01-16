@@ -24,6 +24,9 @@ https://liv11octptsp.stblauncher.com/live/6643_.m3u8?token=bcc65a1fb3974adeaa616
 #EXTINF:-1, ELEVEN SPORTS 1HD POL 🇵🇱
 http://91.226.51.126:8000/udp/239.100.10.102:2234
 
+#EXTINF:-1, ELEVEN SPORTS 1HD POL 🇵🇱
+http://ukrainskiy.russtv.net/iptv/KHVL6K33VD6L5G/6083/index.m3u8
+
 #EXTINF:-1, SSC5 🇦🇪
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/94045
 
@@ -573,8 +576,14 @@ https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=Nq
 #EXTINF:-1, ELEVEN SPORTS 1HD POL 🇵🇱
 http://91.226.51.126:8000/udp/239.100.10.102:2234
 
+#EXTINF:-1, ELEVEN SPORTS 1HD POL 🇵🇱
+http://ukrainskiy.russtv.net/iptv/KHVL6K33VD6L5G/6083/index.m3u8
+
 #EXTINF:-1, ELEVEN SPORTS 2HD POL 🇵🇱
 http://91.226.51.126:8000/udp/239.100.10.103:2234
+
+#EXTINF:-1, ELEVEN SPORTS 2HD POL 🇵🇱
+http://ukrainskiy.russtv.net/iptv/KHVL6K33VD6L5G/6082/index.m3u8
 
 #EXTINF:-1, ELEVEN SPORTS 3HD POL 🇵🇱
 http://91.226.51.126:8000/udp/239.100.10.104:2234
