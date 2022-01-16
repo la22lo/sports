@@ -1827,6 +1827,15 @@ http://91.226.51.126:8000/udp/239.100.10.97:2234
 #EXTINF:-1, POLSAT NEWS HD 🇵🇱
 http://91.226.51.126:8000/udp/239.100.10.99:2234
 
+#EXTINF:-1, POLSAT SPORT PREMIUM 1 PL 🇵🇱
+http://ukrainskiy.russtv.net/iptv/KHVL6K33VD6L5G/7304/index.m3u8
+
+#EXTINF:-1, POLSAT SPORT PREMIUM 2 PL 🇵🇱
+http://ukrainskiy.russtv.net/iptv/KHVL6K33VD6L5G/7305/index.m3u8
+
+#EXTINF:-1, POLSAT SPORT EXTRA 🇵🇱
+http://ukrainskiy.russtv.net/iptv/KHVL6K33VD6L5G/7310/index.m3u8
+
 #EXTINF:-1, SPORT 1 HOLANDA 🇳🇱
 https://www.filmon.com/vr-streams/4121/high/playlist.m3u8
 
