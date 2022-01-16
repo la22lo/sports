@@ -9,9 +9,6 @@ http://p7.anfalrou.xyz/live/9787488847/index.m3u8
 #EXTINF:-1, SUPERCOPA
 http://45.148.26.176/hls/M3.m3u8
 
-#EXTINF:-1, ESPN BRASIL 🇧🇷
-https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/gjo25y3PHekfqZgYydMvxsE4Wi9RuAEt-XimeaJG4I82zxQH2tJpFGGxhtPHSOheA3n8WEFr6NvlA3HODW9LDw/non_transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/dynamic_highlatency.m3u8?type=live
-
 #EXTINF:-1, BEIN 1 AR ᴴᴰ🇶🇦
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/11138
 
@@ -158,6 +155,9 @@ https://liv11octhd.stblauncher.com/live/5907_.m3u8?token=bcc65a1fb3974adeaa616e5
 
 #EXTINF:-1, ESPN BRASIL UHD 🇧🇷
 http://api.magiaiptv.com/live/800196/128093/m3_ScQBL06LuJftF_1080p
+
+#EXTINF:-1, ESPN BRASIL 🇧🇷
+https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/gjo25y3PHekfqZgYydMvxsE4Wi9RuAEt-XimeaJG4I82zxQH2tJpFGGxhtPHSOheA3n8WEFr6NvlA3HODW9LDw/non_transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1, ESPN 1 🇦🇷
 http://qqtv.nl:8080/live/norma/12345/20269.m3u8
