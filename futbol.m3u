@@ -3,15 +3,6 @@
 #EXTINF:-1, VAMOS TV 🇪🇸
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/71851
 
-#EXTINF:-1, VAMOS TV 🇪🇸
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/71784
-
-#EXTINF:-1, VAMOS TV 🇪🇸
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/91
-
-#EXTINF:-1, VAMOS TV 🇪🇸
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/90
-
 #EXTINF:-1, ELEVEN 1 🇵🇹
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
@@ -173,6 +164,15 @@ http://qqtv.nl:8080/live/norma/12345/87460.m3u8
 
 #EXTINF:-1, M LALIGA BAR 🇪🇸
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/72947
+
+#EXTINF:-1, VAMOS TV 🇪🇸
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/71784
+
+#EXTINF:-1, VAMOS TV 🇪🇸
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/91
+
+#EXTINF:-1, VAMOS TV 🇪🇸
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/90
 
 #EXTINF:-1, BEIN SPORT 1 TRUE VISIONS 🇬🇧
 https://smart-tv.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8
@@ -377,9 +377,6 @@ http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/11138
 
 #EXTINF:-1 ,BEIN SPORTS 1 AR 🇶🇦
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/27669
-
-#EXTINF:-1 ,BEIN SPORTS 1 AR 🇶🇦
-http://fortv.cc:8080/christina/christina/55337
 
 #EXTINF:-1 ,BEIN SPORTS 2 AR 🇶🇦
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/11140
@@ -798,15 +795,6 @@ http://catchup.iptv.iinet.rs/playlist.m3u8?id=147&token=y_sel
 #EXTINF:-1, ARENA SPORT 2 
 http://84.22.33.214/ArenaSport2/mono.m3u8?per
 
-EXTINF:-1, S1 SPORT HD (SL)
-http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/190.m3u8
-
-EXTINF:-1, S2 SPORT HD (SL)
-http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/191.m3u8
-
-EXTINF:-1, S3 SPORT HD (SL)
-http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/192.m3u8
-
 #EXTINF:-1, SuperSport 6
 http://93.157.62.180/Supersport6/index.m3u8
 
@@ -960,9 +948,6 @@ http://rr3.vipshara-iptv.com/~20574a7c01a79f01ce840b42b8901315ed3/71645/hls/pl.m
 #EXTINF:-1, TV3 LT 🇱🇹
 http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/234
 
-#EXTINF:-1, TV3 LT 🇱🇹
-http://rr3.vipshara-iptv.com/~20574a7c01a79f01ce840b42b8901315ed3/71645/hls/pl.m3u8
-
 #EXTINF:-1, SPORT 1 LT 🇱🇹
 http://rr3.vipshara-iptv.com/~20574a7c01a79f01ce840b42b8901315ed3/76911/hls/pl.m3u8
 
@@ -1038,7 +1023,7 @@ https://stream1.1616.ro:1945/looksport3/livestream/chunklist_w64015557.m3u8
 #EXTINF:-1, LOOK SPORTS 3 🇷🇴
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
 
-#EXTINF:-1,DIGI 🇷🇴
+#EXTINF:-1,DIGI Sport 1 🇷🇴
 http://103.194.169.171:8282/RO_DIGI_SPORT1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 
 #EXTINF:-1,DIGI Sport 2 🇷🇴
@@ -1280,6 +1265,9 @@ http://iptv.prosto.tv:7000/ch109/video.m3u8
 
 #EXTINF:-1,RTSH SPORT
 http://93.157.62.180/RTSHSport/index.m3u8
+
+#EXTINF:-1,RTSH SPORT
+http://185.204.32.4:9981/stream/channelid/1261192802|User-Agent=stream
 
 #EXTINF:-1, ANTENA SPORT HD
 https://stream1.antenaplay.ro/dfs/farasecrete5/playlist.m3u8
@@ -1787,12 +1775,6 @@ https://smart-tv.livedoomovie.com:4431/02_foxsport_720p/chunklist.m3u8
 
 #EXTINF:-1, SPOTV 2
 https://smart-tv.livedoomovie.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8
-
-#EXTINF:-1, SPORT 1
-http://rr3.vipshara-iptv.com/~20574a7c01a79f01ce840b42b8901315ed3/73759/hls/pl.m3u8
-
-#EXTINF:-1, SPORT 2
-http://rr3.vipshara-iptv.com/~20574a7c01a79f01ce840b42b8901315ed3/81695/hls/pl.m3u8
 
 #EXTINF:-1, OMAN SPORT 🇴🇲
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
