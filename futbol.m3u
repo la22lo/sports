@@ -1755,7 +1755,10 @@ http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2507/index.m3u8
 #EXTINF:-1,RikSports HD
 https://nn.geo.joj.sk/live/hls/rik-540.m3u8
 
-#EXTINF:-1, SKY SPORTS 24
+#EXTINF:-1, DAZN ITALIA 🇮🇹
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93710
+
+#EXTINF:-1, SKY SPORTS 24 🇮🇹
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 
 #EXTINF:-1, SERIE A 🇮🇹
