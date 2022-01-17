@@ -58,6 +58,9 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/31812
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
 #EXTINF:-1, ELEVEN 1 🇵🇹
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232308
+
+#EXTINF:-1, ELEVEN 1 🇵🇹
 https://liv11octptsp.stblauncher.com/live/6643_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 
 #EXTINF:-1, ELEVEN SPORTS 1HD POL 🇵🇱
@@ -339,11 +342,14 @@ https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleve
 #EXTINF:-1, ELEVEN 2 🇵🇹
 http://fortv.cc:8080/christina/christina/78455
 
+#EXTINF:-1, ELEVEN 2 🇵🇹
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232309
+
 #EXTINF:-1, ELEVEN 3 🇵🇹
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_3_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
 #EXTINF:-1, ELEVEN 3 🇵🇹
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/94056
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232310
 
 #EXTINF:-1, ELEVEN 3 🇵🇹
 http://fortv.cc:8080/christina/christina/78456
@@ -352,7 +358,7 @@ http://fortv.cc:8080/christina/christina/78456
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_4_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
 #EXTINF:-1, ELEVEN 4 🇵🇹
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/94054
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232311
 
 #EXTINF:-1, ELEVEN 4 🇵🇹
 https://liv11octptsp.stblauncher.com/live/6646_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
@@ -362,9 +368,6 @@ http://fortv.cc:8080/christina/christina/78457
 
 #EXTINF:-1, ELEVEN 5 🇵🇹
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_5_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
-
-#EXTINF:-1, ELEVEN 5 🇵🇹
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/94052
 
 #EXTINF:-1, ELEVEN 5 🇵🇹
 https://liv11octptsp.stblauncher.com/live/6647_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
