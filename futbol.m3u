@@ -201,6 +201,57 @@ http://ytv.plus:25461/live/mercedes/1234/2304.m3u8
 #EXTINF:-1, DIRECTV SPORT
 http://ytv.plus:25461/live/mercedes/1234/2926.m3u8
 
+#EXTINF:-1 ,BEIN SPORTS 1 AR 🇶🇦
+http://93.152.174.144:4000/play/bein1ar/index.m3u8
+
+#EXTINF:-1 ,BEIN SPORTS 1 AR 🇶🇦
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/642
+
+#EXTINF:-1 ,BEIN SPORTS 1 AR 🇶🇦
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/11138
+
+#EXTINF:-1 ,BEIN SPORTS 1 AR 🇶🇦
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/27669
+
+#EXTINF:-1 ,BEIN SPORTS 2 AR 🇶🇦
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/11140
+
+#EXTINF:-1 ,BEIN SPORTS 2 AR 🇶🇦
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/643
+
+#EXTINF:-1 ,BEIN SPORTS 3 AR 🇶🇦
+http://93.152.174.144:4000/play/bein3ar/index.m3u8
+
+#EXTINF:-1 ,BEIN SPORTS 3 AR 🇶🇦
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/644
+
+#EXTINF:-1 ,BEIN SPORTS 3 AR 🇶🇦
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/11141
+
+#EXTINF:-1 ,BEIN SPORTS 4 AR 🇶🇦
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/11142
+
+#EXTINF:-1 ,BEIN SPORTS 4 AR 🇶🇦
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/645
+
+#EXTINF:-1 ,BEIN SPORTS 5 AR 🇶🇦
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/12994
+
+#EXTINF:-1 ,BEIN SPORTS 5 AR 🇶🇦
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/646
+
+#EXTINF:-1 ,BEIN SPORTS 6 AR 🇶🇦
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/13138
+
+#EXTINF:-1 ,BEIN SPORTS 6 AR 🇶🇦
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/647
+
+#EXTINF:-1 ,BEIN SPORTS 7 AR 🇶🇦
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/13141
+
+#EXTINF:-1 ,BEIN SPORTS 7 AR 🇶🇦
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/648
+
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇹
 https://da-d50d173c.online.meo.pt/wp/cdn-er-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
@@ -324,56 +375,20 @@ http://130.193.166.18:80/cache/Bein-Prem-3-HEVC/master.m3u8
 #EXTINF:-1 ,BEIN SPORTS 3 PREMIUM 
 http://belfast.dyndns.tv:5808/BEINHD10/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ,BEIN SPORTS 1 AR 🇶🇦
-http://93.152.174.144:4000/play/bein1ar/index.m3u8
+#EXTINF:-1,YACIN SPORT PREMIUM 1HD 🇶🇦
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/13
 
-#EXTINF:-1 ,BEIN SPORTS 1 AR 🇶🇦
-http://mtda.bluefish1.xyz:43666/albdream1/albdream2/642
+#EXTINF:-1,YACIN SPORT PREMIUM 1HD 🇶🇦
+http://m11.amaniyouhra.xyz:80/live/61616/index.m3u8
 
-#EXTINF:-1 ,BEIN SPORTS 1 AR 🇶🇦
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/11138
+#EXTINF:-1,YACIN SPORT PREMIUM 2HD 🇶🇦
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/14
 
-#EXTINF:-1 ,BEIN SPORTS 1 AR 🇶🇦
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/27669
+#EXTINF:-1,YACIN SPORT PREMIUM 2HD 🇶🇦
+http://m11.amaniyouhra.xyz:80/live/6161949878/index.m3u8
 
-#EXTINF:-1 ,BEIN SPORTS 2 AR 🇶🇦
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/11140
-
-#EXTINF:-1 ,BEIN SPORTS 2 AR 🇶🇦
-http://mtda.bluefish1.xyz:43666/albdream1/albdream2/643
-
-#EXTINF:-1 ,BEIN SPORTS 3 AR 🇶🇦
-http://93.152.174.144:4000/play/bein3ar/index.m3u8
-
-#EXTINF:-1 ,BEIN SPORTS 3 AR 🇶🇦
-http://mtda.bluefish1.xyz:43666/albdream1/albdream2/644
-
-#EXTINF:-1 ,BEIN SPORTS 3 AR 🇶🇦
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/11141
-
-#EXTINF:-1 ,BEIN SPORTS 4 AR 🇶🇦
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/11142
-
-#EXTINF:-1 ,BEIN SPORTS 4 AR 🇶🇦
-http://mtda.bluefish1.xyz:43666/albdream1/albdream2/645
-
-#EXTINF:-1 ,BEIN SPORTS 5 AR 🇶🇦
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/12994
-
-#EXTINF:-1 ,BEIN SPORTS 5 AR 🇶🇦
-http://mtda.bluefish1.xyz:43666/albdream1/albdream2/646
-
-#EXTINF:-1 ,BEIN SPORTS 6 AR 🇶🇦
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/13138
-
-#EXTINF:-1 ,BEIN SPORTS 6 AR 🇶🇦
-http://mtda.bluefish1.xyz:43666/albdream1/albdream2/647
-
-#EXTINF:-1 ,BEIN SPORTS 7 AR 🇶🇦
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/13141
-
-#EXTINF:-1 ,BEIN SPORTS 7 AR 🇶🇦
-http://mtda.bluefish1.xyz:43666/albdream1/albdream2/648
+#EXTINF:-1,YACIN SPORT PREMIUM 3HD 🇶🇦
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/15
 
 #EXTINF:-1 ,BEIN SPORTS MAX 1
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/91886
