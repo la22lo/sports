@@ -1326,6 +1326,9 @@ https://iptv.x-cloud.info:1443/Sport4HD/video.m3u8?token=QVI9YA3q12
 #EXTINF:-1, ISRAEL 5 🇮🇱
 https://iptv.x-cloud.info:1443/5Sport/video.m3u8?token=QVI9YA3q12
 
+#EXTINF:-1, SPORTS 1
+http://185.191.126.246:8080/live/G0toeWMhOL/qvrPlbCkap/190.chunklist_w2541678324.m3u8?mvk
+
 #EXTINF:-1, SPORT 1
 https://95-213-224-183.livesports24.online/sport1ua.m3u8
 
