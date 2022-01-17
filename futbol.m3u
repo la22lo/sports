@@ -10,7 +10,7 @@ http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/71853
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/71851
 
 #EXTINF:-1, BEIN 1 AR ᴴᴰ🇶🇦
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/11138
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/642
 
 #EXTINF:-1, BEIN SPORT 1 AR ᴴᴰ🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8?checkedby:iptvcat.com
@@ -56,6 +56,9 @@ http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
 #EXTINF:-1, BEIN SPORT 3 AR ᴴᴰ🇶🇦
 http://93.152.174.144:4000/play/bein3ar/index.m3u8
+
+#EXTINF:-1 ,BEIN SPORTS 3 AR 🇶🇦
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/644
 
 #EXTINF:-1, BEIN SPORT 3 AR ᴴᴰ🇶🇦
 http://93.152.174.144:4000/play/bein3ar/index.m3u8?checkedby:iptvcat.com
@@ -331,6 +334,9 @@ http://belfast.dyndns.tv:5808/BEINHD10/tracks-v1a1/mono.m3u8
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
 #EXTINF:-1 ,BEIN SPORTS 1 AR 🇶🇦
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/642
+
+#EXTINF:-1 ,BEIN SPORTS 1 AR 🇶🇦
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/11138
 
 #EXTINF:-1 ,BEIN SPORTS 1 AR 🇶🇦
@@ -339,8 +345,14 @@ http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/27669
 #EXTINF:-1 ,BEIN SPORTS 2 AR 🇶🇦
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/11140
 
+#EXTINF:-1 ,BEIN SPORTS 2 AR 🇶🇦
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/643
+
 #EXTINF:-1 ,BEIN SPORTS 3 AR 🇶🇦
 http://93.152.174.144:4000/play/bein3ar/index.m3u8
+
+#EXTINF:-1 ,BEIN SPORTS 3 AR 🇶🇦
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/644
 
 #EXTINF:-1 ,BEIN SPORTS 3 AR 🇶🇦
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/11141
@@ -348,14 +360,26 @@ http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/11141
 #EXTINF:-1 ,BEIN SPORTS 4 AR 🇶🇦
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/11142
 
+#EXTINF:-1 ,BEIN SPORTS 4 AR 🇶🇦
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/645
+
 #EXTINF:-1 ,BEIN SPORTS 5 AR 🇶🇦
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/12994
+
+#EXTINF:-1 ,BEIN SPORTS 5 AR 🇶🇦
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/646
 
 #EXTINF:-1 ,BEIN SPORTS 6 AR 🇶🇦
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/13138
 
+#EXTINF:-1 ,BEIN SPORTS 6 AR 🇶🇦
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/647
+
 #EXTINF:-1 ,BEIN SPORTS 7 AR 🇶🇦
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/13141
+
+#EXTINF:-1 ,BEIN SPORTS 7 AR 🇶🇦
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/648
 
 #EXTINF:-1 ,BEIN SPORTS MAX 1
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/91886
