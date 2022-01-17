@@ -705,6 +705,9 @@ http://iptv.tvmalaysia.cc:80/penang174/penang174/6576
 #EXTINF:-1, SuperSport moto 🇬🇧
 http://iptv.tvmalaysia.cc:80/penang174/penang174/7142
 
+#EXTINF:-1, СПОРТ-1 UA 🇷🇺
+https://77-247-178-24.livesports24.online/sport1ua.m3u8
+
 #EXTINF:-1, SETANTA SPORT 1
 http://37.187.28.95:2022/setanta_eurasia_hd/mpegts
 
