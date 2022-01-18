@@ -2160,5 +2160,26 @@ http://77.247.109.111/hls/T1.m3u8
 #EXTINF:-1, S PREMIER
 http://cro.hockeynews.club/live/2/chunks.m3u8
 
+#EXTINF:-1, beIN Sports 1
+http://mo3ad.xyz:8080/mo3ad76sF6cL/mo3ad76sF6cL/23
+
+#EXTINF:-1, beIN Sports 2
+http://mo3ad.xyz:8080/mo3ad76sF6cL/mo3ad76sF6cL/24
+
+#EXTINF:-1, beIN Sports 3
+http://mo3ad.xyz:8080/mo3ad76sF6cL/mo3ad76sF6cL/25
+
+#EXTINF:-1, beIN Sports 4
+http://mo3ad.xyz:8080/mo3ad76sF6cL/mo3ad76sF6cL/8
+
+#EXTINF:-1, beIN Sports 5
+http://mo3ad.xyz:8080/mo3ad76sF6cL/mo3ad76sF6cL/10
+
+#EXTINF:-1, beIN Sports 6
+http://mo3ad.xyz:8080/mo3ad76sF6cL/mo3ad76sF6cL/12
+
+#EXTINF:-1, beIN Sports 7
+http://mo3ad.xyz:8080/mo3ad76sF6cL/mo3ad76sF6cL/14
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
