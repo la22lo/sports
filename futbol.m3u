@@ -60,6 +60,9 @@ http://iptv.tvmalaysia.cc:80/penang174/penang174/6575
 #EXTINF:-1, LALIGA TV 🇬🇧
 http://45.148.26.176/hls/M3.m3u8?mvk
 
+#EXTINF:-1, LALIGA TV 🇬🇧
+http://cdn2.cyclingnews.live/hls/P1.m3u8
+
 #EXTINF:-1, ELEVEN 1 🇵🇹
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
