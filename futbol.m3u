@@ -2040,9 +2040,6 @@ http://sir1b.uefa-tv.com:80/live/4/chunks.m3u8
 #EXTINF:-1,PPV Event c4 (op3)
 http://sir1c.uefa-tv.com:80/live/4/chunks.m3u8
 
-#EXTINF:-1,PPV K1?
-http://45.86.190.101:8080/hls/k1.m3u8
-
 #EXTINF:-1, SUPERSPORT CHAMPIONS
 http://cdn3.cyclingnews.live/hls/W1.m3u8
 
@@ -2051,36 +2048,6 @@ http://cdn3.cyclingnews.live/hls/W1.m3u8?SBN
 
 #EXTINF:-1, FORMULA 1 TV
 http://user.tvcluboficial.com/stream/nov/nov/192.m3u8
-
-#EXTINF:-1, Bein Sport 1 FR
-http://93.152.174.144:4000/play/bein1fr/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1, Bein Sport 4 ar
-http://93.152.174.144:4000/play/bein4ar/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1, Bein Sports 2 FR
-http://93.152.174.144:4000/play/bein2fr/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1, Bein Sports 3 FR
-http://93.152.174.144:4000/play/bein3fr/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1, beIN SPORTS 4
-http://93.152.174.144:4000/play/bein7/index.m3u8
-
-#EXTINF:-1, Bein Sports 5 AR
-http://93.152.174.144:4000/play/Bein5Ar/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1, Bein Sports 4 AR
-http://93.152.174.144:4000/play/bein7/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1, BEINSPORTAR
-http://93.152.174.144:4000/play/BEINSPORTAR/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1, BEIN SPORT 1 LIVE AR
-http://93.152.174.144:4000/play/bein3fr/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1, BEIN SPORT 4 LIVE AR
-http://93.152.174.144:4000/play/bein7/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1, BEIN SPORT 1 LIVE
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6123/index.m3u
@@ -2120,24 +2087,6 @@ http://init.cheches.info:80/hls/105.m3u8
 
 #EXTINF:-1, EVENT 5
 http://45.148.26.176/hls/M1.m3u8
-
-#EXTINF:-1, BEIN SPORT 3 LIVE
-http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
-
-#EXTINF:-1, Bein Sports 1 Premium
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/2541
-
-#EXTINF:-1, Bein Sports 2 Premium
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/2540
-
-#EXTINF:-1, Bein Sports 3 Premium
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/2539
-
-#EXTINF:-1, Bein Sports 4
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/2535
-
-#EXTINF:-1, Bein Sports 5
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/2534
 
 #EXTINF:-1, S LALIGA
 http://cro.hockeynews.club:80/live/1/chunks.m3u8
