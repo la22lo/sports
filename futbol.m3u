@@ -81,6 +81,12 @@ http://cdn2.cyclingnews.live/hls/P1.m3u8
 #EXTINF:-1, LALIGA TV 🇬🇧
 http://77.247.109.101/hls/A1.m3u8
 
+#EXTINF:-1, LALIGA TV 🇬🇧
+http://77.247.109.101/hls/A1.m3u8
+
+#EXTINF:-1, LA LIGA TV 🇬🇧
+http://cdn2.cyclingnews.live/hls/P1.m3u8
+
 #EXTINF:-1, BEIN SPORT MAX 6 🇫🇷
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/61108
 
@@ -92,6 +98,9 @@ http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/123
 
 #EXTINF:-1, SuperSport Laliga 🇬🇧
 http://iptv.tvmalaysia.cc:80/penang174/penang174/6575
+
+#EXTINF:-1, S LA LIGA 🇬🇧
+http://185.53.89.183/hls/ssla.m3u8?SBN
 
 #EXTINF:-1, ELEVEN 1 🇵🇹
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232308
@@ -2153,24 +2162,6 @@ http://77.247.109.101/hls/A1.m3u8
 
 #EXTINF:-1, LA LIGA TV
 http://cdn2.cyclingnews.live/hls/P1.m3u8
-
-#EXTINF:-1, BEIN SPORT 2 PREMIUM
-http://init.cheches.info:80/hls/102.m3u8	
-
-#EXTINF:-1, BEIN SPORT AR
-http://45.94.31.45/bar16506/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, BEIN SPORT AR 3
-http://45.94.31.45/bar16503/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, BEIN SPORT AR 3 HD
-http://45.94.31.45/bar16504/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, BEIN SPORT 5 HD
-http://45.94.31.45/bar16505/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, DAZN
-https://hll.hnzzdf.com.cn/live/H31721.m3u8?txSecret=3730f2f1e6042b5adb0f4a068cead839&txTime=61D41090&_s=stream
 
 #EXTINF:-1, LALIGATV
 http://45.148.26.176/hls/M2.m3u8?mvk
