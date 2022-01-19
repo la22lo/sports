@@ -45,6 +45,9 @@ https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8?per
 #EXTINF:-1, BEIN 1 AR ᴴᴰ🇶🇦
 http://mtda.bluefish1.xyz:43666/albdream1/albdream2/642
 
+#EXTINF:-1, BEIN 1 AR ᴴᴰ🇶🇦
+http://145.239.142.113/BEIN-1-SD/playlist.m3u8?per
+
 #EXTINF:-1, ELEVEN 1 🇵🇹
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
@@ -104,6 +107,9 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/132133
 
 #EXTINF:-1, SKY SPORTS 🇺🇸
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/31812
+
+#EXTINF:-1, SETANTA SPORTS 🇷🇺
+https://sel19.varcdn1.ru/setanta1/index.m3u8?per
 
 #EXTINF:-1, SETANTA SPORTS 🇷🇺
 https://sel18.varcdn1.ru/setanta1/index.m3u8?mvk
