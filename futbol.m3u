@@ -1134,6 +1134,9 @@ http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1, PPTV ASIA 🇨🇳
 https://smart-tv.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
 
+#EXTINF:-1, PTV SPORT LIVE
+https://236s.short.gy/DreamTV/PTV.m3u8
+
 #EXTINF:-1, SSC5 🇦🇪
 http://dmsat2021.ddns.net:8080/live/SP_ARABIC/dgKUEDcq/837.m3u8
 
