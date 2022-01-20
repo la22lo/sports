@@ -24,6 +24,12 @@ http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/189
 #EXTINF:-1, SPORTTV 1 🇵🇹
 https://liv11octptsp.stblauncher.com/live/4271_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 
+#EXTINF:-1, DIRECTV SPORT
+https://live.vimeocdn.com:443/1642704021-0x9fb007a53e95c8e8e68060f4ee45c81cb5d5cff5/0c7b8f9a-11cc-434d-85ea-1ebe616e4dad/chunklist_b3256000.m3u8?mvk
+
+#EXTINF:-1, COPA 
+http://198.144.159.43/Ih55gJE3nu8CZbTgnsLAQA/1642730393/3139322e3230302e3135382e3932/ff42/playlist.m3u8?mvk
+
 #EXTINF:-1, TVP POLONIA 🇵🇱
 http://91.226.51.126:8000/udp/239.100.10.100:2234
 
