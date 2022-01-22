@@ -349,6 +349,9 @@ http://mtda.bluefish1.xyz:43666/albdream1/albdream2/643
 http://93.152.174.144:4000/play/bein3ar/index.m3u8
 
 #EXTINF:-1 ,BEIN SPORTS 3 AR 🇶🇦
+http://iptv.journalsat.com:25461/442592063/journalsat/9
+
+#EXTINF:-1 ,BEIN SPORTS 3 AR 🇶🇦
 http://mtda.bluefish1.xyz:43666/albdream1/albdream2/644
 
 #EXTINF:-1 ,BEIN SPORTS 3 AR 🇶🇦
@@ -363,11 +366,17 @@ http://mtda.bluefish1.xyz:43666/albdream1/albdream2/645
 #EXTINF:-1 ,BEIN SPORTS 4 AR 🇶🇦
 http://145.239.142.113/BEIN-4-SD/playlist.m3u8?per
 
+#EXTINF:-1 ,BEIN SPORTS 4 AR 🇶🇦
+http://iptv.journalsat.com:25461/442592063/journalsat/11
+
 #EXTINF:-1 ,BEIN SPORTS 5 AR 🇶🇦
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/12994
 
 #EXTINF:-1 ,BEIN SPORTS 5 AR 🇶🇦
 http://mtda.bluefish1.xyz:43666/albdream1/albdream2/646
+
+#EXTINF:-1 ,BEIN SPORTS 5 AR 🇶🇦
+http://iptv.journalsat.com:25461/442592063/journalsat/12
 
 #EXTINF:-1 ,BEIN SPORTS 5 AR 🇶🇦
 http://145.239.142.113/BEIN-5-SD/playlist.m3u8?per
@@ -380,6 +389,9 @@ http://mtda.bluefish1.xyz:43666/albdream1/albdream2/647
 
 #EXTINF:-1 ,BEIN SPORTS 6 AR 🇶🇦
 http://145.239.142.113/BEIN-6-SD/playlist.m3u8?per
+
+#EXTINF:-1 ,BEIN SPORTS 6 AR 🇶🇦
+http://iptv.journalsat.com:25461/442592063/journalsat/10
 
 #EXTINF:-1 ,BEIN SPORTS 7 AR 🇶🇦
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/13141
