@@ -12,12 +12,6 @@ https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8?per
 #EXTINF:-1, BEIN SPORT 2 TRUE VISIONS 🇬🇧
 https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8?per
 
-EXTINF:-1, BEIN 1 AR ᴴᴰ🇶🇦
-http://145.239.142.113/BEIN-1-SD/tracks-v1a1/mono.m3u8
-
-EXTINF:-1, BEIN 1 AR ᴴᴰ🇶🇦
-http://iptv.journalsat.com:25461/442592063/journalsat/8
-
 #EXTINF:-1, ELEVEN 1 🇵🇹
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232308
 
@@ -2231,6 +2225,12 @@ http://cro.hockeynews.club/live/2/chunks.m3u8
 
 #EXTINF:-1, LIGA Q1
 http://cdn4.cyclingnews.live/hls/Q1.m3u8
+
+EXTINF:-1, BEIN 1 AR ᴴᴰ🇶🇦
+http://145.239.142.113/BEIN-1-SD/tracks-v1a1/mono.m3u8
+
+EXTINF:-1, BEIN 1 AR ᴴᴰ🇶🇦
+http://iptv.journalsat.com:25461/442592063/journalsat/8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
