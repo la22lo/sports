@@ -16,6 +16,9 @@ https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8?per
 https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8?per
 
 EXTINF:-1, BEIN 1 AR ᴴᴰ🇶🇦
+http://145.239.142.113/BEIN-1-SD/tracks-v1a1/mono.m3u8
+
+EXTINF:-1, BEIN 1 AR ᴴᴰ🇶🇦
 http://iptv.journalsat.com:25461/442592063/journalsat/8
 
 #EXTINF:-1, ELEVEN 1 🇵🇹
