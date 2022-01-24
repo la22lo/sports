@@ -9,10 +9,10 @@ http://145.239.142.113/BEIN-1-SD/playlist.m3u8?per
 #EXTINF:-1, BEIN 1 AR ᴴᴰ🇶🇦
 http://145.239.142.113/BEIN-1-SD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, BEIN SPORT 1 TRUE VISIONS 🇬🇧
+#EXTINF:-1, BEIN SPORT 1 TRUE VISIONS 🇹🇭
 https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8?per
 
-#EXTINF:-1, BEIN SPORT 2 TRUE VISIONS 🇬🇧
+#EXTINF:-1, BEIN SPORT 2 TRUE VISIONS 🇹🇭
 https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8?per
 
 #EXTINF:-1, ELEVEN 1 🇵🇹
@@ -135,7 +135,7 @@ http://23.237.192.3:7283/1oi4oz8ax1qdylmq6rp08lkijp5bw505yb4g2jwmycvwls3hv577170
 #EXTINF:-1, DIRECTV PGY 🇵🇾
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/132133
 
-#EXTINF:-1, DIRECTV PERU
+#EXTINF:-1, DIRECTV PERU 🇵🇪
 http://23.237.192.3:7283/13s6q5oxwmwvkil7tbpbov604kdv2obzgn9nhd5iqv1tov9kxhnfsb1yd5mq0ze6aju/index.m3u8?un=Magis23ene2&tm=1643036001&sn=EC1kOXoFMn7aomYoLhbBrM6evsz
 
 #EXTINF:-1, SKY SPORTS 🇺🇸
@@ -243,10 +243,10 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/91
 #EXTINF:-1, VAMOS TV 🇪🇸
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/90
 
-#EXTINF:-1, BEIN SPORT 1 TRUE VISIONS 🇬🇧
+#EXTINF:-1, BEIN SPORT 1 TRUE VISIONS 🇹🇭
 https://smart-tv.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8
 
-#EXTINF:-1, BEIN SPORT 1 TRUE VISIONS 🇬🇧
+#EXTINF:-1, BEIN SPORT 1 TRUE VISIONS 🇹🇭
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 
 #EXTINF:-1, ESPN 2 🇦🇷
@@ -600,7 +600,7 @@ http://yazansportpro.xyz:25461/livesport_ios/livesport_android/94
 #EXTINF:-1,YACIN SPORTS MAX HD2 🇶🇦
 http://m11.amaniyouhra.xyz:80/live/88002/index.m3u8
 
-#EXTINF:-1,beIN Sports USA
+#EXTINF:-1,beIN Sports USA 🇺🇸
 http://23.237.192.3:7283/7yz5dybf6hg2ovyscaz6clwq8dmwr4hedh4fbredx3fgvg4zco97oc4nn44apb594zr4p7/index.m3u8?un=Magis23ene2&tm=1643036001&sn=EvXK0K4P0RQICigV3JDh5wWtKU3
 
 #EXTINF:-1,beIN SPORTS Ñ 🇪🇸
