@@ -1446,14 +1446,26 @@ http://qqtv.nl:8080/live/norma/12345/20101.m3u8
 #EXTINF:-1, ESPN 2 ARG 🇦🇷
 http://qqtv.nl:8080/live/norma/12345/275190.m3u8
 
+#EXTINF:-1, ESPN 2 + ARG 🇦🇷
+http://23.237.192.3:7283/84uomq8e6z4iew3f1egawfz53k2bp1b216zstv1pohxs39e3bfb6t/index.m3u8?un=Magis23ene2&tm=1643036001&sn=C5kZGqONwWscIHIzvz1NXvXj2lc
+
+#EXTINF:-1, ESPN 2 CENTRAL ARG 🇦🇷
+http://23.237.192.3:7283/737x9ky6vbfqn68qx3cqzmd5p6nnjul7cj5rn9h07pqhuertlwhyt/index.m3u8?un=Magis23ene2&tm=1643036001&sn=IsaV2Ikc70hqDaCNmz7yBVjZXZX
+
 #EXTINF:-1, ESPN 3 ARG 🇦🇷
 http://qqtv.nl:8080/live/norma/12345/20056.m3u8
 
 #EXTINF:-1, ESPN 3 + ARG 🇦🇷
 http://23.237.192.3:7283/hpqgmbbhg17q5qlk0o1y5wi96wzt9e9bvpgxudq7suqvpqefhbbz/index.m3u8?un=Magis23ene2&tm=1643036001&sn=O7uTwlsgQl7PwH4R8Thds3AiZ58
 
+#EXTINF:-1, ESPN 4  🇦🇷
+http://23.237.192.3:7283/0605umietq285zd9t6djqoil7bclwrfqgsqflyft4bdyws5nwdv4/index.m3u8?un=Magis23ene2&tm=1643036001&sn=9Iami1KPZzShu8bH9tlwHBS0gXB
+
 #EXTINF:-1, ESPN HD 🇦🇷
 http://23.237.192.3:7283/5qkcyhy8naggkdpwr3dssvlnepvlb0u2ejt3p115ucb65ni4k3nj0/index.m3u8?un=Magis23ene2&tm=1643036001&sn=2bOgpzaCGtDOJ5SWoVTYwEnFGgm
+
+#EXTINF:-1, ESPN EXTRA 🇦🇷
+http://23.237.192.3:7283/1dpmg48xqi8vyttughwv789pa7c4h03yz6sq599uxvf4ygphhmttk/index.m3u8?un=Magis23ene2&tm=1643036001&sn=VxbsKle3m1hbJK8ilchPdzj7cnu
 
 #EXTINF:-1, ESPN VIVO 1
 http://qqtv.nl:8080/live/norma/12345/275187.m3u8
@@ -1511,6 +1523,18 @@ http://84.84.196.164:9999/play/a04d
 
 #EXTINF:-1, ESPN 4 HOLANDA 🇳🇱
 http://84.84.196.164:9999/play/a019
+
+#EXTINF:-1, DIRECTV SPORTS
+http://23.237.192.3:7283/3poop4end5sa960761nm459tbdyzzx1jgxg159mf4ch3xgajae9ld/index.m3u8?un=Magis23ene2&tm=1643036001&sn=kaWru9bmVAfGESGgqAyrR1lnsM
+
+#EXTINF:-1, DIRECTV 2 SPORTS
+http://23.237.192.3:7283/698kwxdame9kc4mtufta7yu8imqwxj2cw80u193eb9c0q3hf9sj49/index.m3u8?un=Magis23ene2&tm=1643036001&sn=G62RSWr3ldlM6auoJevPU0qPV7V
+
+#EXTINF:-1, DIRECTV 2 SPORTS HD
+http://23.237.192.3:7283/56423utpfub0i5mx85ij1oahagds8okhl9y8fegcruyy8tz3npg25/index.m3u8?un=Magis23ene2&tm=1643036001&sn=GdC39FjVW6dehZFXZP6HTWfaEV
+
+#EXTINF:-1, DIRECTV SPORTS + HD
+http://23.237.192.3:7283/6e1x0mixmqqzjpwfesg3sonjpxnpbvcccs76mday74a66u8jpthbt/index.m3u8?un=Magis23ene2&tm=1643036001&sn=9ALJ3iuGnKQC8vIOVNz6gf0p0v2
 
 #EXTINF:-1, DIRECTV CHILE 🇨🇱
 http://qqtv.nl:8080/live/norma/12345/20406.m3u8
