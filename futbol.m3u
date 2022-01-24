@@ -102,6 +102,9 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/137259
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://terminal2022.ddns.net:8080/hls/stream.m3u8
 
+#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
+http://23.237.192.3:7283/1he0mzqpwxxo2v443c1807ak1ix1w981f98g0gpgk1eb99ch2eucebpnwcuet95bh4yn2b8tse7/index.m3u8?un=Magis23ene2&tm=1643036001&sn=YCt0c9YJigeDKzHuYryscIobaPN
+
 #EXTINF:-1, PREMIERE SPORT 🇬🇧
 http://cdn3.cyclingnews.live/hls/W1.m3u8
 
@@ -774,6 +777,9 @@ http://vadaaaa.com:2086/YkL75OoKcg/juouO2DERG/31579
 #EXTINF:-1, beIN SPORTS English 1 🇬🇧
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
 
+#EXTINF:-1, beIN SPORTS English 1 🇬🇧
+http://23.237.192.3:7283/6956o9g8lmo4g7b5ikqilhst135vgc15154gyz5ew3v3mpxcx3y1r/index.m3u8?un=Magis23ene2&tm=1643036001&sn=4Zt8oDx3vkhOW9uXKe21w3qZVnh
+
 #EXTINF:-1, beIN SPORTS English 2 🇬🇧
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
 
@@ -1442,6 +1448,12 @@ http://qqtv.nl:8080/live/norma/12345/275190.m3u8
 
 #EXTINF:-1, ESPN 3 ARG 🇦🇷
 http://qqtv.nl:8080/live/norma/12345/20056.m3u8
+
+#EXTINF:-1, ESPN 3 + ARG 🇦🇷
+http://23.237.192.3:7283/hpqgmbbhg17q5qlk0o1y5wi96wzt9e9bvpgxudq7suqvpqefhbbz/index.m3u8?un=Magis23ene2&tm=1643036001&sn=O7uTwlsgQl7PwH4R8Thds3AiZ58
+
+#EXTINF:-1, ESPN HD 🇦🇷
+http://23.237.192.3:7283/5qkcyhy8naggkdpwr3dssvlnepvlb0u2ejt3p115ucb65ni4k3nj0/index.m3u8?un=Magis23ene2&tm=1643036001&sn=2bOgpzaCGtDOJ5SWoVTYwEnFGgm
 
 #EXTINF:-1, ESPN VIVO 1
 http://qqtv.nl:8080/live/norma/12345/275187.m3u8
