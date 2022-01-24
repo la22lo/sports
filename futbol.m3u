@@ -642,6 +642,9 @@ http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/chunks.m3u8
 #EXTINF:-1, DAZN F1 🇪🇸
 https://github.com/davidamalla/logos/raw/main/m3u8
 
+#EXTINF:-1, DAZN F1 🇪🇸
+http://23.237.192.3:7283/iopud8vc7xl4yuav8aupptimauqakvhylyhk80yljxv89arsd6dje5kqnjzp8tcun14e6hectewc/index.m3u8?un=Magis23ene2&tm=1643036001&sn=WlKth7aNAVcQyHOzUqwpKWsrfNC
+
 #EXTINF:-1, MULTIDEPORTE 🇪🇸
 http://qqtv.nl:8080/live/norma/12345/31020.m3u8
 
@@ -1431,6 +1434,9 @@ http://qqtv.nl:8080/live/norma/12345/7915.m3u8
 #EXTINF:-1, ESPN EXTRA BRASIL 🇧🇷
 https://liv11octhd.stblauncher.com/live/34_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 
+#EXTINF:-1, ESPN EXTRA BRASIL 🇧🇷
+http://23.237.192.3:7283/n34ty8fk2a87bthp4js9ero7dbx0cxzq5ulx2zcy5wlrag1qgjol58gu0r7m8xex6x2xugoq/index.m3u8?un=Magis23ene2&tm=1643036001&sn=JlI4OEGaKUxxvoQ5PAgcQpBhxKD
+
 #EXTINF:-1, ESPN HD 2 BRASIL 🇧🇷
 https://liv11octhd.stblauncher.com/live/5912_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 
@@ -1439,6 +1445,9 @@ https://liv11octhd.stblauncher.com/live/5910_.m3u8?token=bcc65a1fb3974adeaa616e5
 
 #EXTINF:-1, ESPN BRASIL 🇧🇷
 https://transcoder-itatiba-01.nxplay.com.br/ESPN_BR/tracks-v1a1/mono.m3u8?mvk
+
+#EXTINF:-1, ESPN 2 CHILE 🇨🇱
+http://23.237.192.3:7283/kgq0sxkdijpfah7w6tuo15lafdyobq4272k9x44n4ig4pdvchceztxc1dt3clr40m/index.m3u8?un=Magis23ene2&tm=1643036001&sn=NmyAbrqm6uHeKgGr510Mg2dtIsG
 
 #EXTINF:-1, ESPN DEPORTES
 http://ytv.plus:25461/live/mercedes/1234/2007.m3u8
