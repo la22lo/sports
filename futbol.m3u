@@ -756,6 +756,9 @@ http://37.187.28.95:2022/setanta_eurasia_hd/mpegts
 #EXTINF:-1, SETANTA SPORT 2 🇷🇺
 http://37.17.12.119:8910/play/a005
 
+#EXTINF:-1, SETANTA SPORT 2 🇷🇺
+https://95-213-224-180.livesports24.online/setantaplusru.m3u8
+
 #EXTINF:-1, SETANTA SPORT HD LIVE 🇷🇺
 http://95.67.12.179:9001
 
@@ -779,6 +782,9 @@ https://185-107-80-245.livesports24.online/setantaukraine.m3u8
 
 #EXTINF:-1, SETANTA SPORT UKR 🇺🇦
 https://95-213-172-220.livesports24.online/setantaukraine.m3u8
+
+#EXTINF:-1, SETANTA SPORT UKR 🇺🇦
+https://95-213-224-180.livesports24.online/setantaplusukr.m3u8
 
 #EXTINF:-1, M.OYTGON 1HD 🇷🇺
 http://193.33.88.172/football1_hd/index.m3u8
