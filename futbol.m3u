@@ -747,6 +747,12 @@ http://iptv.tvmalaysia.cc:80/penang174/penang174/7142
 #EXTINF:-1,DSTV: SUPERSPORT VARIETY 1 🇬🇧
 http://yoursublink.com:2082/alis/5554aa/158424
 
+#EXTINF:-1, Eir SPORTS 1
+http://yoursublink.com:2082/alis/5554aa/16239
+
+#EXTINF:-1, Eir SPORTS 2
+http://yoursublink.com:2082/alis/5554aa/16240
+
 #EXTINF:-1, SETANTA SPORT 1
 http://37.187.28.95:2022/setanta_eurasia_hd/mpegts
 
