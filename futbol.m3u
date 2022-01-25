@@ -15,6 +15,9 @@ https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8?per
 #EXTINF:-1, BEIN SPORT 2 TRUE VISIONS 🇹🇭
 https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8?per
 
+#EXTINF:-1,beIN SPORTS 1 🇶🇦
+http://yoursublink.com:2082/alis/5554aa/150819
+
 #EXTINF:-1, ELEVEN 1 🇵🇹
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232308
 
@@ -23,6 +26,12 @@ https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleve
 
 #EXTINF:-1, beIN SPORTS English 2 🇬🇧
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
+
+#EXTINF:-1,beIN SPORTS 2 EN 🇬🇧
+http://yoursublink.com:2082/alis/5554aa/150827
+
+#EXTINF:-1,beIN SPORTS 2 EN HD 🇬🇧
+http://yoursublink.com:2082/alis/5554aa/150842
 
 #EXTINF:-1, Sky Sports Liga Española HD
 http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/72946.m3u8
@@ -134,6 +143,9 @@ http://145.239.142.113/BEIN-3-SD/playlist.m3u8?per
 
 #EXTINF:-1 ,BEIN SPORTS 3 AR 🇶🇦
 http://145.239.142.113/BEIN-3/index.m3u8
+
+#EXTINF:-1,beIN SPORTS 3 🇶🇦
+http://yoursublink.com:2082/alis/5554aa/150821
 
 #EXTINF:-1, DIRECTV SPORT plus 🇦🇷
 http://23.237.192.3:7283/g72byvnct4mni3edkh368gsktt0bdoymigiylcqzw3exwp0up6mdmlm849mn2nbmez9tda4z1lat/index.m3u8?un=Magis23ene2&tm=1643036001&sn=qxozCRn0MChVmsZJZgnxvTRTmG
@@ -270,6 +282,27 @@ http://145.239.142.113/BEIN-6-SD/playlist.m3u8?per
 #EXTINF:-1 ,BEIN SPORTS 7 AR 🇶🇦
 http://145.239.142.113/BEIN-7-SD/playlist.m3u8?per
 
+#EXTINF:-1,beIN SPORTS 1 HD 🇶🇦
+http://yoursublink.com:2082/alis/5554aa/150834
+
+#EXTINF:-1,beIN SPORTS 2 HD 🇶🇦
+http://yoursublink.com:2082/alis/5554aa/150835
+
+#EXTINF:-1,beIN SPORTS 3 HD 🇶🇦
+http://yoursublink.com:2082/alis/5554aa/150836
+
+#EXTINF:-1,beIN SPORTS 4 HD 🇶🇦
+http://yoursublink.com:2082/alis/5554aa/150837
+
+#EXTINF:-1,beIN SPORTS 5 HD 🇶🇦
+http://yoursublink.com:2082/alis/5554aa/150838
+
+#EXTINF:-1,beIN SPORTS 6 HD 🇶🇦
+http://yoursublink.com:2082/alis/5554aa/150839
+
+#EXTINF:-1,beIN SPORTS 7 HD 🇶🇦
+http://yoursublink.com:2082/alis/5554aa/150840
+
 #EXTINF:-1,Eleven Sports 1 (PT) 🇵🇹
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232308
 
@@ -380,6 +413,15 @@ http://130.193.166.18:80/cache/Bein-Prem-3-HEVC/master.m3u8
 
 #EXTINF:-1 ,BEIN SPORTS 3 PREMIUM 🇶🇦
 http://belfast.dyndns.tv:5808/BEINHD10/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SPORTS 1 Premium 🇶🇦
+http://yoursublink.com:2082/alis/5554aa/150816
+
+#EXTINF:-1,beIN SPORTS 2 Premium 🇶🇦
+http://yoursublink.com:2082/alis/5554aa/150817
+
+#EXTINF:-1,beIN SPORTS 3 Premium 🇶🇦
+http://yoursublink.com:2082/alis/5554aa/150818
 
 #EXTINF:-1,beIN Sports USA 🇺🇸
 http://23.237.192.3:7283/7yz5dybf6hg2ovyscaz6clwq8dmwr4hedh4fbredx3fgvg4zco97oc4nn44apb594zr4p7/index.m3u8?un=Magis23ene2&tm=1643036001&sn=EvXK0K4P0RQICigV3JDh5wWtKU3
@@ -540,11 +582,29 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
 #EXTINF:-1, beIN SPORTS English 1 🇬🇧
 http://23.237.192.3:7283/6956o9g8lmo4g7b5ikqilhst135vgc15154gyz5ew3v3mpxcx3y1r/index.m3u8?un=Magis23ene2&tm=1643036001&sn=4Zt8oDx3vkhOW9uXKe21w3qZVnh
 
+#EXTINF:-1, beIN SPORTS 1 EN 🇬🇧
+http://yoursublink.com:2082/alis/5554aa/150826
+
+#EXTINF:-1, beIN SPORTS 1 EN HD 🇬🇧
+http://yoursublink.com:2082/alis/5554aa/150841
+
 #EXTINF:-1, beIN SPORTS English 2 🇬🇧
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
 
+#EXTINF:-1,beIN SPORTS 2 EN 🇬🇧
+http://yoursublink.com:2082/alis/5554aa/150827
+
+#EXTINF:-1,beIN SPORTS 2 EN HD 🇬🇧
+http://yoursublink.com:2082/alis/5554aa/150842
+
 #EXTINF:-1, beIN SPORTS English 3 🇬🇧
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
+
+#EXTINF:-1,beIN SPORTS 3 EN 🇬🇧
+http://yoursublink.com:2082/alis/5554aa/150828
+
+#EXTINF:-1,beIN SPORTS 3 EN HD 🇬🇧
+http://yoursublink.com:2082/alis/5554aa/150843
 
 #EXTINF:-1,Look Sport 1 🇷🇴
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
