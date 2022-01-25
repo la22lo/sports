@@ -381,6 +381,9 @@ http://54.39.49.162:8081/USA%7CBEINSPORTS/USA%7CBEINSPORTS/playlist.m3u8
 EXTINF:-1, BEIN SPORT HD USA 🇺🇸
 http://46.249.32.53/a671f42c7bc/index.m3u8
 
+EXTINF:-1, TSN 1 🇺🇸
+http://38.91.57.12:2082/tsn1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,beIN SPORTS Ñ 🇪🇸
 http://54.39.49.162:8081/USA%7CBEINSPORTS/USA%7CBEINSPORTS/playlist.m3u8
 
