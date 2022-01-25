@@ -786,6 +786,18 @@ https://95-213-172-220.livesports24.online/setantaukraine.m3u8
 #EXTINF:-1, SETANTA SPORT UKR 🇺🇦
 https://95-213-224-180.livesports24.online/setantaplusukr.m3u8
 
+#EXTINF:-1, ФУТБОЛ (Futbol) 🇷🇺
+https://95-213-224-180.livesports24.online/footballrus.m3u8
+
+#EXTINF:-1, ФУТБОЛ1 (Futbol 1) 🇷🇺
+https://95-213-224-180.livesports24.online/uafootballua1.m3u8
+
+#EXTINF:-1, ФУТБОЛ2 (Futbol 2) 🇷🇺
+https://95-213-224-180.livesports24.online/fooootball2.m3u8
+
+#EXTINF:-1, Футбол3 (Futbol 3) 🇷🇺
+https://95-213-224-180.livesports24.online/football3ua.m3u8
+
 #EXTINF:-1, M.OYTGON 1HD 🇷🇺
 http://193.33.88.172/football1_hd/index.m3u8
 
@@ -801,11 +813,23 @@ http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/289
 #EXTINF:-1, M.OYTGON 3HD 🇷🇺
 http://193.33.88.172/football3_hd/index.m3u8 
 
+#EXTINF:-1, Футбол3HD (Futbol 3HD) 🇷🇺
+https://95-213-224-180.livesports24.online/football3ua.m3u8?415415000861a
+
 #EXTINF:-1,@YTSON2HD 🇷🇺
 https://95-213-224-179.livesports24.online/fooootball2.m3u8
 
 #EXTINF:-1, math 🇷🇺
 https://95-213-224-180.livesports24.online/rumatcharena.m3u8
+
+#EXTINF:-1, МАТЧ!ФУТБОЛ1 (Match Futbol 1) 🇷🇺
+https://95-213-224-180.livesports24.online/ntvmatchfoot1.m3u8
+
+#EXTINF:-1, МАТЧ!ФУТБОЛ2 (Match Futbol 2) 🇷🇺
+https://95-213-224-180.livesports24.online/mfootball2rus.m3u8
+
+#EXTINF:-1, МАТЧ!ФУТБОЛ3 (Match Futbol 3) 🇷🇺
+https://95-213-224-180.livesports24.online/rumatchf3.m3u8
 
 #EXTINF:-1, BIELORUSIA 5HD 🇧🇾
 https://95-213-224-180.livesports24.online/belarusss5.m3u8
