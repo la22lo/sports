@@ -894,6 +894,9 @@ http://95.107.132.106/out/u/683_3.m3u8
 #EXTINF:-1, OVERSPORT HD2
 http://95.107.132.106/out/u/691_3.m3u8
 
+#EXTINF:-1,Arena 1 Premium 🇷🇸
+http://185.191.126.246:8080/live/G0toeWMhOL/qvrPlbCkap/156.chunklist_w2541678324.m3u8
+
 #EXTINF:-1, ARENA SPORT 1 PREMIUM 🇷🇸
 http://46.29.169.15:4001/play/a00g/index.m3u8
 
