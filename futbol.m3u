@@ -168,6 +168,9 @@ http://145.239.142.113/BEIN-3/index.m3u8
 #EXTINF:-1,beIN SPORTS 3 🇶🇦
 http://yoursublink.com:2082/alis/5554aa/150821
 
+#EXTINF:-1,DUHOK HD 🇮🇶
+http://88.198.32.36:1935/live/Duhok--Sports--HD/chunklist.m3u8
+
 #EXTINF:-1, DIRECTV SPORT plus 🇦🇷
 http://23.237.192.3:7283/g72byvnct4mni3edkh368gsktt0bdoymigiylcqzw3exwp0up6mdmlm849mn2nbmez9tda4z1lat/index.m3u8?un=Magis23ene2&tm=1643036001&sn=qxozCRn0MChVmsZJZgnxvTRTmG
 
