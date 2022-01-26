@@ -1731,8 +1731,17 @@ http://yoursublink.com:2082/alis/5554aa/153029
 #EXTINF:-1, Super Sport Kosova 2 🇽🇰
 http://yoursublink.com:2082/alis/5554aa/153030
 
+#EXTINF:-1,Tring Sport 1 HD 🇦🇱
+http://185.226.88.3:1036/live/backup/backup/63.m3u8
+
 #EXTINF:-1,Tring Sport 2 HD 🇦🇱
 http://185.226.88.3:1036/live/backup/backup/62.m3u8
+
+#EXTINF:-1,Tring Sport 3 HD 🇦🇱
+http://185.226.88.3:1036/live/backup/backup/61.m3u8
+
+#EXTINF:-1,Tring Sport 4 HD 🇦🇱
+http://185.226.88.3:1036/live/backup/backup/60.m3u8
 
 #EXTINF:-1,SWISS SPORT TV 🇨🇭
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
