@@ -612,14 +612,8 @@ http://84.84.196.164:9999/play/a016
 #EXTINF:-1, ZIGGO VOETBAL HD 🇳🇱
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/65832
 
-#EXTINF:-1, ZIGGO VOETBAL HD 🇳🇱
-http://yoursublink.com:2082/alis/5554aa/76351
-
 #EXTINF:-1, ZIGGO SELECT 🇳🇱
 http://84.84.196.164:9999/play/a01q
-
-#EXTINF:-1, ZIGGO SELECT 🇳🇱
-http://yoursublink.com:2082/alis/5554aa/76350
 
 #EXTINF:-1, ZIGGO SELECT 🇳🇱
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234509
@@ -631,16 +625,10 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/37414
 http://84.84.196.164:9999/play/a04g
 
 #EXTINF:-1, ZIGGO SPORT HD 🇳🇱
-http://yoursublink.com:2082/alis/5554aa/66852
-
-#EXTINF:-1, ZIGGO SPORT HD 🇳🇱
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234510
 
 #EXTINF:-1, ZIGGO SPORT HD 🇳🇱
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/65831
-
-#EXTINF:-1, SuperSport Laliga 🇬🇧
-http://yoursublink.com:2082/alis/5554aa/158417
 
 #EXTINF:-1, SuperSport Laliga 🇬🇧
 http://iptv.tvmalaysia.cc:80/penang174/penang174/6575
@@ -651,23 +639,11 @@ http://iptv.tvmalaysia.cc:80/penang174/penang174/6572
 #EXTINF:-1, SuperSport Premier 🇬🇧
 http://iptv.tvmalaysia.cc:80/penang174/penang174/6574
 
-#EXTINF:-1, SuperSport Premier 🇬🇧
-http://yoursublink.com:2082/alis/5554aa/158420
-
 #EXTINF:-1, SuperSport Football 🇬🇧
 http://iptv.tvmalaysia.cc:80/penang174/penang174/6576
 
 #EXTINF:-1, SuperSport moto 🇬🇧
 http://iptv.tvmalaysia.cc:80/penang174/penang174/7142
-
-#EXTINF:-1,DSTV: SUPERSPORT VARIETY 1 🇬🇧
-http://yoursublink.com:2082/alis/5554aa/158424
-
-#EXTINF:-1, Eir SPORTS 1 🇮🇪
-http://yoursublink.com:2082/alis/5554aa/16239
-
-#EXTINF:-1, Eir SPORTS 2 🇮🇪
-http://yoursublink.com:2082/alis/5554aa/16240
 
 #EXTINF:-1, SETANTA SPORT 1 🇷🇺
 http://37.187.28.95:2022/setanta_eurasia_hd/mpegts
@@ -893,39 +869,6 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232305
 
 #EXTINF:-1, nSport+ 🇬🇧
 http://95.141.128.163:8004/play/a0a7
-
-#EXTINF:-1, SPORTTV 1 🇵🇹
-http://yoursublink.com:2082/alis/5554aa/130952
-
-#EXTINF:-1, SPORT TV 1 HD 🇵🇹
-http://yoursublink.com:2082/alis/5554aa/159981
-
-#EXTINF:-1, SPORT TV 2 🇵🇹
-http://yoursublink.com:2082/alis/5554aa/130953
-
-#EXTINF:-1, SPORT TV 2 HD 🇵🇹
-http://yoursublink.com:2082/alis/5554aa/159983
-
-#EXTINF:-1, SPORT TV 3 🇵🇹
-http://yoursublink.com:2082/alis/5554aa/130954
-
-#EXTINF:-1, SPORT TV 3 HD 🇵🇹
-http://yoursublink.com:2082/alis/5554aa/159985
-
-#EXTINF:-1, SPORT TV 4 🇵🇹
-http://yoursublink.com:2082/alis/5554aa/130955
-
-#EXTINF:-1, SPORT TV 4 HD 🇵🇹
-http://yoursublink.com:2082/alis/5554aa/159987
-
-#EXTINF:-1, SPORT TV 5 🇵🇹
-http://yoursublink.com:2082/alis/5554aa/130956
- 
-#EXTINF:-1, SPORT TV 5 HD 🇵🇹
-http://yoursublink.com:2082/alis/5554aa/159989
-
-#EXTINF:-1, SPORT TV 6 🇵🇹
-http://yoursublink.com:2082/alis/5554aa/159990
 
 #EXTINF:-1, SPORTTV 1 🇵🇹
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
