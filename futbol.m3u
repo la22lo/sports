@@ -1284,6 +1284,12 @@ https://tv.siete.us/bestcablesports/bestcablesports/index.m3u8
 #EXTINF:-1, ESPORTE INTERACTIVO 🇧🇷
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
+#EXTINF:-1, BAND Sports HD 🇧🇷
+http://api.magiaiptv.com/live/800328/755275/m1_JCr0n6KJkWbSR5_720p
+
+#EXTINF:-1, BAND Sports HD+ 🇧🇷
+http://api.magiaiptv.com/live/800328/755275/m1_JCr0n6KJkWbSR5_720p_2M
+
 #EXTINF:-1, ECDF 🇪🇨
 http://qqtv.nl:8080/live/norma/12345/416280.m3u8
 
