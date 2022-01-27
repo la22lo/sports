@@ -492,14 +492,26 @@ http://qqtv.nl:8080/live/norma/12345/275184.m3u8
 #EXTINF:-1, ST☆R+ 1 HD BRA 🇧🇷
 http://api.magiaiptv.com/live/800196/128093/m1_1cd2ba26a97dec106269_720p
 
+#EXTINF:-1, ST☆R+ 1 HD BRA 🇧🇷
+http://api.magiaiptv.com/live/800328/755275/m1_1cd2ba26a97dec106269_720p
+
 #EXTINF:-1, ST☆R+ 2 HD BRA 🇧🇷
 http://api.magiaiptv.com/live/800196/128093/m1_e8e0475e7548d3b1_720p
+
+#EXTINF:-1, ST☆R+ 2 HD BRA 🇧🇷
+http://api.magiaiptv.com/live/800328/755275/m1_e8e0475e7548d3b1_720p
 
 #EXTINF:-1, ST☆R+ 3 HD BRA 🇧🇷
 http://api.magiaiptv.com/live/800196/128093/m1_9b0bf85a96462778_720p
 
+#EXTINF:-1, ST☆R+ 3 HD BRA 🇧🇷
+http://api.magiaiptv.com/live/800328/755275/m1_9b0bf85a96462778_720p
+
 #EXTINF:-1, ST☆R+ 4 HD BRA 🇧🇷
 http://api.magiaiptv.com/live/800196/128093/m2_ee92c0f83475cfae7c8_720p
+
+#EXTINF:-1, ST☆R+ 4 HD BRA 🇧🇷
+http://api.magiaiptv.com/live/800328/755275/m2_ee92c0f83475cfae7c8_720p
 
 #EXTINF:-1, beIN Sports 1 French 🇫🇷
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2499/index.m3u8
