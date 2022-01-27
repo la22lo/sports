@@ -15,12 +15,6 @@ https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8?per
 #EXTINF:-1, BEIN SPORT 2 TRUE VISIONS 🇹🇭
 https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8?per
 
-#EXTINF:-1,beIN SPORTS 1 🇶🇦
-http://yoursublink.com:2082/alis/5554aa/150819
-
-#EXTINF:-1, SuperSport Laliga 🇬🇧
-http://yoursublink.com:2082/alis/5554aa/158417
-
 #EXTINF:-1, ELEVEN 1 🇵🇹
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232308
 
@@ -29,12 +23,6 @@ https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleve
 
 #EXTINF:-1, beIN SPORTS English 2 🇬🇧
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
-
-#EXTINF:-1,beIN SPORTS 2 EN 🇬🇧
-http://yoursublink.com:2082/alis/5554aa/150827
-
-#EXTINF:-1,beIN SPORTS 2 EN HD 🇬🇧
-http://yoursublink.com:2082/alis/5554aa/150842
 
 #EXTINF:-1, BLUE SPORT 1 🇨🇭
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/124
@@ -62,18 +50,6 @@ http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/190
 
 #EXTINF:-1, DAZN 2 ALEMANIA 🇩🇪
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/189
-
-#EXTINF:-1, DAZN BAR 1 HD 🇩🇪
-http://yoursublink.com:2082/alis/5554aa/14001
-
-#EXTINF:-1, DAZN BAR 1 FHD 🇩🇪
-http://yoursublink.com:2082/alis/5554aa/160109
-
-#EXTINF:-1, DAZN BAR 2 HD 🇩🇪
-http://yoursublink.com:2082/alis/5554aa/14002
-
-#EXTINF:-1, DAZN BAR 2 FHD 🇩🇪
-http://yoursublink.com:2082/alis/5554aa/160108
 
 #EXTINF:-1, ELEVEN SPORTS 2HD POL 🇵🇱
 http://91.226.51.126:8000/udp/239.100.10.103:2234
