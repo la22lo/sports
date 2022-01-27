@@ -408,9 +408,6 @@ http://54.39.49.162:8081/USA%7CBEINSPORTS/USA%7CBEINSPORTS/playlist.m3u8
 EXTINF:-1, BEIN SPORT HD USA 🇺🇸
 http://46.249.32.53/a671f42c7bc/index.m3u8
 
-EXTINF:-1, BEIN SPORT HD CANADA 🇨🇦
-http://yoursublink.com:2082/alis/5554aa/149265
-
 EXTINF:-1, TSN 1 🇺🇸
 http://38.91.57.12:2082/tsn1/tracks-v1a1/mono.m3u8
 
@@ -422,9 +419,6 @@ http://23.237.192.3:7283/18tdxa9vtaj5ztgeing0gre63gxyv4fxwqmsvdo6jjsz8qy5503nkcq
 
 #EXTINF:-1,beIN SPORTS EXTRA Ñ 🇪🇸
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
-
-#EXTINF:-1,beIN SPORTS EXTRA Ñ 🇪🇸
-http://yoursublink.com:2082/alis/5554aa/67435
 
 #EXTINF:-1, BEIN SPORT EXTRA 🇪🇸
 https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
@@ -476,18 +470,6 @@ http://38971899473228388.niceyes.xyz:80/CDLYWZAK84/3262457057/228388
 
 #EXTINF:-1, MOVISTAR DAZN 3 HD 🇪🇸
 http://38971899473228394.niceyes.xyz:80/CDLYWZAK84/3262457057/228394
-
-#EXTINF:-1, MOVISTAR DAZN 1 🇪🇸
-http://yoursublink.com:2082/alis/5554aa/135989
-
-#EXTINF:-1, MOVISTAR DAZN 2 🇪🇸
-http://yoursublink.com:2082/alis/5554aa/135990
-
-#EXTINF:-1, DAZN 1 🇪🇸
-http://yoursublink.com:2082/alis/5554aa/135995
-
-#EXTINF:-1, DAZN 2 🇪🇸
-http://yoursublink.com:2082/alis/5554aa/135996
 
 #EXTINF:-1, DAZN F1 🇪🇸
 http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/109189
@@ -579,32 +561,11 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
 #EXTINF:-1, beIN SPORTS English 1 🇬🇧
 http://23.237.192.3:7283/6956o9g8lmo4g7b5ikqilhst135vgc15154gyz5ew3v3mpxcx3y1r/index.m3u8?un=Magis23ene2&tm=1643036001&sn=4Zt8oDx3vkhOW9uXKe21w3qZVnh
 
-#EXTINF:-1, beIN SPORTS 1 EN 🇬🇧
-http://yoursublink.com:2082/alis/5554aa/150826
-
-#EXTINF:-1, beIN SPORTS 1 EN HD 🇬🇧
-http://yoursublink.com:2082/alis/5554aa/150841
-
 #EXTINF:-1, beIN SPORTS English 2 🇬🇧
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
 
-#EXTINF:-1,beIN SPORTS 2 EN 🇬🇧
-http://yoursublink.com:2082/alis/5554aa/150827
-
-#EXTINF:-1,beIN SPORTS 2 EN HD 🇬🇧
-http://yoursublink.com:2082/alis/5554aa/150842
-
 #EXTINF:-1, beIN SPORTS English 3 🇬🇧
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
-
-#EXTINF:-1,beIN SPORTS 3 EN 🇬🇧
-http://yoursublink.com:2082/alis/5554aa/150828
-
-#EXTINF:-1,beIN SPORTS 3 EN HD 🇬🇧
-http://yoursublink.com:2082/alis/5554aa/150843
-
-#EXTINF:-1,beIN SPORTS 3 EN HD 🇬🇧
-http://yoursublink.com:2082/alis/5554aa/40702
 
 #EXTINF:-1,Look Sport 1 🇷🇴
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
