@@ -501,6 +501,21 @@ https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?mvk
 #EXTINF:-1,LOOK SPORT + 🇷🇴
 https://stream1.1616.ro:1945/look/livestream/chunklist.m3u8?mvk
 
+#EXTINF:-1, Digi Sport 1 HD 🇷🇴
+http://webkingtv.xyz:8080/freddy/yyyu6678/68637
+
+#EXTINF:-1, Digi Sport 2 HD 🇷🇴
+http://webkingtv.xyz:8080/freddy/yyyu6678/68638
+
+#EXTINF:-1, Digi Sport 2 🇷🇴
+http://webkingtv.xyz:8080/freddy/yyyu6678/68639
+
+#EXTINF:-1, Digi Sport 3 🇷🇴
+http://webkingtv.xyz:8080/freddy/yyyu6678/68641
+
+#EXTINF:-1, Digi Sport 4 🇷🇴
+http://webkingtv.xyz:8080/freddy/yyyu6678/68643
+
 #EXTINF:-1, ZIGGO VOETBAL HD 🇳🇱
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/65832
 
@@ -758,6 +773,18 @@ https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
 
 #EXTINF:-1 ,TV3 LITUANIA 🇱🇹
 http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/745
+
+#EXTINF:-1, Cosmote Sport 1 HD
+http://webkingtv.xyz:8080/freddy/yyyu6678/68521
+
+#EXTINF:-1, Cosmote Sport 2 HD
+http://webkingtv.xyz:8080/freddy/yyyu6678/68522
+
+#EXTINF:-1, Cosmote Sport 5 HD
+http://webkingtv.xyz:8080/freddy/yyyu6678/68524
+
+#EXTINF:-1, Cosmote Sport 7 HD
+http://webkingtv.xyz:8080/freddy/yyyu6678/68526
 
 #EXTINF:-1 ,TV3 LETONIA 🇱🇻
 http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/343
@@ -1718,63 +1745,6 @@ http://77.247.109.111/hls/T1.m3u8
 
 #EXTINF:-1, S PREMIER
 http://cro.hockeynews.club/live/2/chunks.m3u8
-
-#EXTINF:-1, Cosmote Sport 1 HD
-http://webkingtv.xyz:8080/freddy/yyyu6678/68521
-
-#EXTINF:-1, Cosmote Sport 2 HD
-http://webkingtv.xyz:8080/freddy/yyyu6678/68522
-
-#EXTINF:-1, Cosmote Sport 5 HD
-http://webkingtv.xyz:8080/freddy/yyyu6678/68524
-
-#EXTINF:-1, Cosmote Sport 7 HD
-http://webkingtv.xyz:8080/freddy/yyyu6678/68526
-
-#EXTINF:-1, Nova Sports 3 HD
-http://webkingtv.xyz:8080/freddy/yyyu6678/68513
-
-#EXTINF:-1, Nova Sport 3 FHD
-http://webkingtv.xyz:8080/freddy/yyyu6678/68515
-
-#EXTINF:-1, Digi Sport 1 HD
-http://webkingtv.xyz:8080/freddy/yyyu6678/68637
-
-#EXTINF:-1, Digi Sport 2 HD
-http://webkingtv.xyz:8080/freddy/yyyu6678/68638
-
-#EXTINF:-1, Digi Sport 2
-http://webkingtv.xyz:8080/freddy/yyyu6678/68639
-
-#EXTINF:-1, Digi Sport 3
-http://webkingtv.xyz:8080/freddy/yyyu6678/68640
-
-#EXTINF:-1, Digi Sport 3
-http://webkingtv.xyz:8080/freddy/yyyu6678/68641
-
-#EXTINF:-1, Digi Sport 4
-http://webkingtv.xyz:8080/freddy/yyyu6678/68642
-
-#EXTINF:-1, Digi Sport 4
-http://webkingtv.xyz:8080/freddy/yyyu6678/68643
-
-#EXTINF:-1, Eleven Sport EPL 1
-http://webkingtv.xyz:8080/freddy/yyyu6678/56588
-
-#EXTINF:-1, Eleven Sport EPL 2
-http://webkingtv.xyz:8080/freddy/yyyu6678/56589
-
-#EXTINF:-1, Eleven Sport EPL 3
-http://webkingtv.xyz:8080/freddy/yyyu6678/56590
-
-#EXTINF:-1, Eleven Sport EPL 4
-http://webkingtv.xyz:8080/freddy/yyyu6678/56591
-
-#EXTINF:-1, Eleven Sport EPL 5
-http://webkingtv.xyz:8080/freddy/yyyu6678/56592
-
-#EXTINF:-1, Eleven Sport EPL 6
-http://webkingtv.xyz:8080/freddy/yyyu6678/56593
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
