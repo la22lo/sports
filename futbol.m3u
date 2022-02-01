@@ -1746,5 +1746,29 @@ http://77.247.109.111/hls/T1.m3u8
 #EXTINF:-1, S PREMIER
 http://cro.hockeynews.club/live/2/chunks.m3u8
 
+#EXTINF:-1, Optus Sport 1
+http://webkingtv.xyz:8080/freddy/yyyu6678/56594
+
+#EXTINF:-1, Optus Sport 2
+http://webkingtv.xyz:8080/freddy/yyyu6678/56595
+
+#EXTINF:-1, Optus Sport 3
+http://webkingtv.xyz:8080/freddy/yyyu6678/56596
+
+#EXTINF:-1, Optus Sport 4
+http://webkingtv.xyz:8080/freddy/yyyu6678/56597
+
+#EXTINF:-1, Optus Sport 5
+http://webkingtv.xyz:8080/freddy/yyyu6678/56598
+
+#EXTINF:-1, Optus Sport 6
+http://webkingtv.xyz:8080/freddy/yyyu6678/56599
+
+#EXTINF:-1, Optus Sport 7
+http://webkingtv.xyz:8080/freddy/yyyu6678/56600
+
+#EXTINF:-1, Optus Sport 8
+http://webkingtv.xyz:8080/freddy/yyyu6678/56601
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
