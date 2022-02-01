@@ -855,6 +855,9 @@ https://nl.castamp.com/live/mar02/chunklist.m3u8?h=vaF40n3Bd3DqLUkZQV7qvw&e=1640
 #EXTINF:-1,EUROSPORT 1 🇪🇸
 http://185.41.244.69/eurosport1/tracks-v2a1a2/mono.m3u8
 
+#EXTINF:-1,EUROSPORT 2 🇪🇸
+http://158.69.117.205:9039/eurosport2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, LOOK SPORTS + 🇷🇴
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 
