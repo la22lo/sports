@@ -1260,6 +1260,15 @@ http://srv1.exyu.cc:8080/G0toeWMhOL/qvrPlbCkap/166
 #EXTINF:-1, SK 6 HD SERBIA 🇷🇸
 http://srv1.exyu.cc:8080/G0toeWMhOL/qvrPlbCkap/167
 
+#EXTINF:-1, Sport Klub 1 🇭🇷
+http://194.15.225.98:8000/play/a2qu/index.m3u8
+
+#EXTINF:-1, Sport Klub 2 🇭🇷
+http://194.15.225.98:8000/play/a2qz/index.m3u8
+
+#EXTINF:-1, Sport Klub 3 🇭🇷
+http://194.15.225.98:8000/play/a2qt/index.m3u8
+
 #EXTINF:-1, SK 1 CROACIA 🇭🇷
 http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/173.m3u8
 
@@ -1302,13 +1311,13 @@ http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/62152
 #EXTINF:-1,Arena Sport 2 SR 🇷🇸
 http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/62153
 
-#EXTINF:-1,nova sports 1 HD 🇬🇷
+#EXTINF:-1, nova sports 1 HD 🇬🇷
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/67017
 
-#EXTINF:-1,nova sports 2 HD 🇬🇷
+#EXTINF:-1, nova sports 2 HD 🇬🇷
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/67018
 
-#EXTINF:-1,nova sports 3 HD 🇬🇷
+#EXTINF:-1, nova sports 3 HD 🇬🇷
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/67019
 
 #EXTINF:-1, TSN 1 CANADA 🇨🇦
