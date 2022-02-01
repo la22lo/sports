@@ -945,6 +945,9 @@ http://qqtv.nl:8080/live/norma/12345/7913.m3u8
 #EXTINF:-1, ESPN HD
 http://54.39.49.162:8081/USA%7CESPN/SPORTS/playlist.m3u8
 
+#EXTINF:-1, ESPN
+http://134.19.182.131:8080/pdge516e1b254bf969d_2.m3u8
+
 #EXTINF:-1, ESPN 2 HD
 http://54.39.49.162:8081/USA%7CESPN2/SPORTS/playlist.m3u8
 
