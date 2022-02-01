@@ -1785,5 +1785,62 @@ http://77.247.109.111/hls/T1.m3u8
 #EXTINF:-1, S PREMIER
 http://cro.hockeynews.club/live/2/chunks.m3u8
 
+#EXTINF:-1, beIN Sports 1
+http://webkingtv.xyz:8080/freddy/yyyu6678/64172
+
+#EXTINF:-1, beIN Sports 2
+http://webkingtv.xyz:8080/freddy/yyyu6678/64176
+
+#EXTINF:-1, BEIN SPORTS 3
+http://webkingtv.xyz:8080/freddy/yyyu6678/64177
+
+#EXTINF:-1, BeIN Sports 4
+http://webkingtv.xyz:8080/freddy/yyyu6678/64178
+
+#EXTINF:-1, beIN Sports 5
+http://webkingtv.xyz:8080/freddy/yyyu6678/64179
+
+#EXTINF:-1, beIN Sports 6
+http://webkingtv.xyz:8080/freddy/yyyu6678/64180
+
+#EXTINF:-1, beIN Sports 7
+http://webkingtv.xyz:8080/freddy/yyyu6678/64181
+
+#EXTINF:-1, beIN Sports 8
+http://webkingtv.xyz:8080/freddy/yyyu6678/64182
+
+#EXTINF:-1, beIN Sports 9
+http://webkingtv.xyz:8080/freddy/yyyu6678/64183
+
+#EXTINF:-1, beIN Sports 10
+http://webkingtv.xyz:8080/freddy/yyyu6678/64173
+
+#EXTINF:-1, Super Sport 1
+http://webkingtv.xyz:8080/freddy/yyyu6678/81989
+
+#EXTINF:-1, Super Sport 2 HD
+http://webkingtv.xyz:8080/freddy/yyyu6678/81990
+
+#EXTINF:-1, Super Sport 4 HD
+http://webkingtv.xyz:8080/freddy/yyyu6678/81992
+
+#EXTINF:-1, Super Sport 5 HD
+http://webkingtv.xyz:8080/freddy/yyyu6678/81993
+
+#EXTINF:-1, Super Sport 6 FHD
+http://webkingtv.xyz:8080/freddy/yyyu6678/81994
+
+#EXTINF:-1, Super Sport 7 HD
+http://webkingtv.xyz:8080/freddy/yyyu6678/81995
+
+#EXTINF:-1, Super Sport Kosova 1 HD
+http://webkingtv.xyz:8080/freddy/yyyu6678/82013
+
+#EXTINF:-1, Super Sport Kosova 2 HD
+http://webkingtv.xyz:8080/freddy/yyyu6678/82014
+
+#EXTINF:-1, NOVA SPORT 1 HD
+http://webkingtv.xyz:8080/freddy/yyyu6678/68512
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
