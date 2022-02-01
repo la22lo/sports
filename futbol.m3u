@@ -1746,29 +1746,62 @@ http://77.247.109.111/hls/T1.m3u8
 #EXTINF:-1, S PREMIER
 http://cro.hockeynews.club/live/2/chunks.m3u8
 
-#EXTINF:-1, Optus Sport 1
-http://webkingtv.xyz:8080/freddy/yyyu6678/56594
+#EXTINF:-1, VIRGIN SPORTS  IRELAND
+http://webkingtv.xyz:8080/freddy/yyyu6678/56612
 
-#EXTINF:-1, Optus Sport 2
-http://webkingtv.xyz:8080/freddy/yyyu6678/56595
+#EXTINF:-1, BEIN SPORTS 1 HD AR
+http://webkingtv.xyz:8080/freddy/yyyu6678/56613
 
-#EXTINF:-1, Optus Sport 3
-http://webkingtv.xyz:8080/freddy/yyyu6678/56596
+#EXTINF:-1, Football TV
+http://webkingtv.xyz:8080/freddy/yyyu6678/56621
 
-#EXTINF:-1, Optus Sport 4
-http://webkingtv.xyz:8080/freddy/yyyu6678/56597
+#EXTINF:-1, Eir Sports 1
+http://webkingtv.xyz:8080/freddy/yyyu6678/36903
 
-#EXTINF:-1, Optus Sport 5
-http://webkingtv.xyz:8080/freddy/yyyu6678/56598
+#EXTINF:-1, Eir Sports 2
+http://webkingtv.xyz:8080/freddy/yyyu6678/36904
 
-#EXTINF:-1, Optus Sport 6
-http://webkingtv.xyz:8080/freddy/yyyu6678/56599
+#EXTINF:-1, Premier Sports 1 FHD
+http://webkingtv.xyz:8080/freddy/yyyu6678/36900
 
-#EXTINF:-1, Optus Sport 7
-http://webkingtv.xyz:8080/freddy/yyyu6678/56600
+#EXTINF:-1, Premier Sports 2 FHD
+http://webkingtv.xyz:8080/freddy/yyyu6678/36901
 
-#EXTINF:-1, Optus Sport 8
-http://webkingtv.xyz:8080/freddy/yyyu6678/56601
+#EXTINF:-1, BEIN SPORTS ENG1
+http://webkingtv.xyz:8080/freddy/yyyu6678/64174
+
+#EXTINF:-1, BEIN SPORTS ENG2
+http://webkingtv.xyz:8080/freddy/yyyu6678/64175
+
+EXTINF:-1, beIN Sports La Liga | HD
+http://webkingtv.xyz:8080/freddy/yyyu6678/64185
+
+#EXTINF:-1, beIN Sports USA
+http://webkingtv.xyz:8080/freddy/yyyu6678/64166
+
+#EXTINF:-1, Dazn 1 HD BAR
+http://webkingtv.xyz:8080/freddy/yyyu6678/40370
+
+#EXTINF:-1, Dazn 2 HD BAR
+http://webkingtv.xyz:8080/freddy/yyyu6678/40371
+
+#EXTINF:-1, DAZN Bar 1 HD
+http://webkingtv.xyz:8080/freddy/yyyu6678/67753
+
+#EXTINF:-1, DAZN Bar 2 HD
+http://webkingtv.xyz:8080/freddy/yyyu6678/67754
+
+#EXTINF:-1, DAZN 1 HD
+http://webkingtv.xyz:8080/freddy/yyyu6678/66948
+
+#EXTINF:-1, DAZN 2 HD
+http://webkingtv.xyz:8080/freddy/yyyu6678/66949
+
+#EXTINF:-1, DAZN 3 HD
+http://webkingtv.xyz:8080/freddy/yyyu6678/66950
+
+#EXTINF:-1, DAZN 4 HD
+http://webkingtv.xyz:8080/freddy/yyyu6678/66951
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
