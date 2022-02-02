@@ -480,8 +480,14 @@ http://api.magiaiptv.com/live/800328/755275/p3_dazn3hd
 #EXTINF:-1, beIN Sports 1 French 🇫🇷
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2499/index.m3u8
 
+#EXTINF:-1, beIN Sports 1 French 🇫🇷
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
+
 #EXTINF:-1, beIN Sports 2 French 🇫🇷
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2500/index.m3u8
+
+#EXTINF:-1, beIN Sports 2 French 🇫🇷
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
 
 #EXTINF:-1 ,BEIN SPORTS 2 FR 🇫🇷
 http://belfast.dyndns.tv:5808/BEINHD2/tracks-v1a1/mono.m3u8
@@ -491,6 +497,9 @@ http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2501/index.m3u8
 
 #EXTINF:-1 ,BEIN SPORTS 3 FR 🇫🇷
 http://belfast.dyndns.tv:5808/BEINHD3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,BEIN SPORTS 3 FR 🇫🇷
+http://93.152.174.144:4000/play/bein3fr/index.m3u8
 
 #EXTINF:-1, BEIN SPORT MAX 6 🇫🇷
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/61108
