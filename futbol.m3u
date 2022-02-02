@@ -660,11 +660,23 @@ http://46.29.169.15:4001/play/a00h/index.m3u8
 #EXTINF:-1, ARENA SPORT 3 PREMIUM 🇷🇸
 http://46.29.169.15:4001/play/a00i/index.m3u8
 
-#EXTINF:-1, ARENA SPORT 1
+#EXTINF:-1, ARENA SPORT 1 serbia
 http://catchup.iptv.iinet.rs/playlist.m3u8?id=147&token=y_sel
+
+#EXTINF:-1, ARENA SPORT 1 serbia
+http://catchup.iptv.iinet.rs/playlist.m3u8?id=147&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0
+
+#EXTINF:-1, ARENA SPORT 2 serbia
+http://catchup.iptv.iinet.rs/playlist.m3u8?id=184&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0
 
 #EXTINF:-1, ARENA SPORT 2 
 http://84.22.33.214/ArenaSport2/mono.m3u8?per
+
+#EXTINF:-1, ARENA SPORT 3 serbia
+http://catchup.iptv.iinet.rs/playlist.m3u8?id=185&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0
+
+#EXTINF:-1, ARENA SPORT 5 serbia
+http://catchup.iptv.iinet.rs/playlist.m3u8?id=187&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0
 
 #EXTINF:-1, SuperSport 6 🇬🇧
 http://93.157.62.180/Supersport6/index.m3u8
