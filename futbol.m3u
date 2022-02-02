@@ -474,13 +474,13 @@ http://api.magiaiptv.com/live/800196/128093/m2_ee92c0f83475cfae7c8_720p
 #EXTINF:-1, ST☆R+ 4 HD BRA 🇧🇷
 http://api.magiaiptv.com/live/800328/755275/m2_ee92c0f83475cfae7c8_720p
 
-#EXTINF:-1, DAZN 1 BRA
+#EXTINF:-1, DAZN 1 BRA 🇧🇷
 http://api.magiaiptv.com/live/800328/755275/p2_dazn_264
 
-#EXTINF:-1, DAZN 2 BRA
+#EXTINF:-1, DAZN 2 BRA 🇧🇷
 http://api.magiaiptv.com/live/800328/755275/p2_dazn2hd
 
-#EXTINF:-1, DAZN 3 BRA
+#EXTINF:-1, DAZN 3 BRA 🇧🇷
 http://api.magiaiptv.com/live/800328/755275/p3_dazn3hd
 
 #EXTINF:-1, beIN Sports 1 French 🇫🇷
@@ -879,7 +879,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/67018
 #EXTINF:-1, nova sports 3 HD 🇬🇷
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/67019
 
-#EXTINF:-1, nova sports 3 POLONIA
+#EXTINF:-1, nova sports 3 POLONIA 🇵🇱
 http://84.42.140.147:8890/hdmi
 
 #EXTINF:-1 ,TV3 LETONIA 🇱🇻
@@ -912,7 +912,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 #EXTINF:-1, PPTV ASIA 🇨🇳
 https://smart-tv.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
 
-#EXTINF:-1, VIASAT FOOTBALL SUECIA
+#EXTINF:-1, VIASAT FOOTBALL SUECIA 🇸🇪
 http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/25032
 
 #EXTINF:-1,Astro SuperSport HD 🇲🇾
@@ -1044,7 +1044,7 @@ https://95-213-224-179.livesports24.online/ntvmatchfoot1.m3u8
 #EXTINF:-1, SPORT RU 🇷🇺
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
 
-#EXTINF:-1, X SPORT 
+#EXTINF:-1, X SPORT 🇷🇺
 http://iptv.prosto.tv:7000/ch109/video.m3u8
 
 #EXTINF:-1,RTSH SPORT 🇦🇱
@@ -1197,7 +1197,7 @@ http://api.magiaiptv.com/live/800196/128093/m2_AkF7moyJqBpWr5L3ctZXu8D6_720p
 #EXTINF:-1, MOVISTAR DEPORTES 1 🇪🇸
 http://qqtv.nl:8080/live/norma/12345/275183.m3u8
 
-#EXTINF:-1, GOL PERÚ
+#EXTINF:-1, GOL PERÚ 🇵🇪
 http://soberon.us:25461/new/soberonbull/463
 
 #EXTINF:-1, TNT SPORTS
@@ -1395,7 +1395,7 @@ https://streamalkasscustom.azureedge.net/livehttporigin/smil:alkass1a.smil/chunk
 #EXTINF:-1, Мир Баскетбола 🇷🇺
 http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/170
 
-#EXTINF:-1, KBP SPORT
+#EXTINF:-1, KBP SPORT 🇷🇺
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 #EXTINF:-1, TVRI SPORT HD
