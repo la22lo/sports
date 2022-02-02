@@ -12,6 +12,9 @@ http://soberon.us:25461/new/soberonbull/3322
 #EXTINF:-1, MOVISTAR DAZN 1 HD 🇪🇸
 http://38971899473228385.niceyes.xyz:80/CDLYWZAK84/3262457057/228385
 
+#EXTINF:-1, MOVISTAR DAZN 1 HD 🇪🇸
+http://juguemosalawii.ddns.net:8080/hls/channel1.m3u8?78
+
 #EXTINF:-1, DAZN 1 HD 🇪🇸
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1990
 
@@ -1406,6 +1409,9 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1, TENNIS TV
+http://198.144.159.43/_7HamqiwPrpHk6wjP3nr1A/1643855750/39322e3137362e3136322e30/ff92/playlist.m3u8?78
 
 #EXTINF:-1, SPOTV 1
 https://smart-tv.livedoomovie.com:4431/02_foxsport_720p/chunklist.m3u8
