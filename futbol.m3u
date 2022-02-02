@@ -1707,5 +1707,20 @@ http://77.247.109.111/hls/T1.m3u8
 #EXTINF:-1, S PREMIER
 http://cro.hockeynews.club/live/2/chunks.m3u8
 
+#EXTINF:-1, EL CANAL DEL FUTBOL OP1 HQ
+http://compitv.info:8080/supertv427/BTCk6kvas9/27893
+
+#EXTINF:-1, EL CANAL DEL FUTBOL OP2 HD
+http://compitv.info:8080/supertv427/BTCk6kvas9/90821
+
+#EXTINF:-1, DIRECTV HQ
+http://castlempire.site:8080/JuanEcuador/pJDSWRh04Y/172531
+
+#EXTINF:-1, DIRECTV 2 HD
+http://compitv.info:8080/supertv427/BTCk6kvas9/183008
+
+#EXTINF:-1, DIRECTV + HD
+http://compitv.info:8080/supertv427/BTCk6kvas9/183009
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
