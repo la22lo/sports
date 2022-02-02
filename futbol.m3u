@@ -468,6 +468,15 @@ http://api.magiaiptv.com/live/800196/128093/m2_ee92c0f83475cfae7c8_720p
 #EXTINF:-1, ST☆R+ 4 HD BRA 🇧🇷
 http://api.magiaiptv.com/live/800328/755275/m2_ee92c0f83475cfae7c8_720p
 
+#EXTINF:-1, DAZN 1 BRA
+http://api.magiaiptv.com/live/800328/755275/p2_dazn_264
+
+#EXTINF:-1, DAZN 2 BRA
+http://api.magiaiptv.com/live/800328/755275/p2_dazn2hd
+
+#EXTINF:-1, DAZN 3 BRA
+http://api.magiaiptv.com/live/800328/755275/p3_dazn3hd
+
 #EXTINF:-1, beIN Sports 1 French 🇫🇷
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2499/index.m3u8
 
