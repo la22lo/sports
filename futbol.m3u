@@ -18,14 +18,8 @@ http://juguemosalawii.ddns.net:8080/hls/channel1.m3u8?78
 #EXTINF:-1, DAZN 1 HD 🇪🇸
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1990
 
-#EXTINF:-1, BEIN 1 AR ᴴᴰ🇶🇦
-http://145.239.142.113/BEIN-1/index.m3u8
-
-#EXTINF:-1, BEIN 1 AR ᴴᴰ🇶🇦
-http://145.239.142.113/BEIN-1-SD/playlist.m3u8?per
-
-#EXTINF:-1, BEIN 1 AR ᴴᴰ🇶🇦
-http://145.239.142.113/BEIN-1-SD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 beIN Sports 1 SD 🇶🇦
+https://free.one24tv.com:443/live/93621643906847/93621643906847/1136.ts
 
 #EXTINF:-1, BEIN SPORT 1 TRUE VISIONS 🇹🇭
 https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8?per
@@ -128,6 +122,9 @@ http://145.239.142.113/BEIN-3-SD/playlist.m3u8?per
 
 #EXTINF:-1 ,BEIN SPORTS 3 AR 🇶🇦
 http://145.239.142.113/BEIN-3/index.m3u8
+
+#EXTINF:-1beIN Sports 3 SD 🇶🇦
+https://free.one24tv.com:443/live/93621643906847/93621643906847/1138.ts
 
 #EXTINF:-1,DUHOK HD 🇮🇶
 http://88.198.32.36:1935/live/Duhok--Sports--HD/chunklist.m3u8
@@ -1838,6 +1835,15 @@ http://77.247.109.111/hls/T1.m3u8
 
 #EXTINF:-1, S PREMIER
 http://cro.hockeynews.club/live/2/chunks.m3u8
+
+#EXTINF:-1, BEIN 1 AR ᴴᴰ🇶🇦
+http://145.239.142.113/BEIN-1/index.m3u8
+
+#EXTINF:-1, BEIN 1 AR ᴴᴰ🇶🇦
+http://145.239.142.113/BEIN-1-SD/playlist.m3u8?per
+
+#EXTINF:-1, BEIN 1 AR ᴴᴰ🇶🇦
+http://145.239.142.113/BEIN-1-SD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
