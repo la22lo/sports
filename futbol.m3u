@@ -219,27 +219,6 @@ http://qqtv.nl:8080/live/norma/12345/20311.m3u8
 #EXTINF:-1, DIRECTV SPORT + 🇦🇷
 http://qqtv.nl:8080/live/norma/12345/20261.m3u8
 
-#EXTINF:-1 ,BEIN SPORTS 1 AR 🇶🇦
-http://93.152.174.144:4000/play/bein1ar/index.m3u8
-
-#EXTINF:-1 ,BEIN SPORTS 2 AR 🇶🇦
-http://145.239.142.113/BEIN-2-SD/playlist.m3u8?per
-
-#EXTINF:-1 ,BEIN SPORTS 3 AR 🇶🇦
-http://93.152.174.144:4000/play/bein3ar/index.m3u8
-
-#EXTINF:-1 ,BEIN SPORTS 4 AR 🇶🇦
-http://145.239.142.113/BEIN-4-SD/playlist.m3u8?per
-
-#EXTINF:-1 ,BEIN SPORTS 5 AR 🇶🇦
-http://145.239.142.113/BEIN-5-SD/playlist.m3u8?per
-
-#EXTINF:-1 ,BEIN SPORTS 6 AR 🇶🇦
-http://145.239.142.113/BEIN-6-SD/playlist.m3u8?per
-
-#EXTINF:-1 ,BEIN SPORTS 7 AR 🇶🇦
-http://145.239.142.113/BEIN-7-SD/playlist.m3u8?per
-
 #EXTINF:-1, Bein Sports 1 HD 🇶🇦
 http://api.magiaiptv.com/live/800328/755275/m1_b3LqtPcVf80FH9zmjuIKYaSdNW4_720p
 
