@@ -16,16 +16,13 @@ https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8?per
 https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8?per
 
 #EXTINF:-1, PPV LALIGATV 🇬🇧
-http://cdn4.cyclingnews.live/hls/Q1.m3u8
+http://45.148.26.176/hls/M2.m3u8
 
 #EXTINF:-1, LALIGA TV 🇬🇧
 https://d31xfszmyhyn2v.cloudfront.net/stream/Mjc1MQ==/1080p.m3u8
 
 #EXTINF:-1, LALIGA TV 🇬🇧
 http://77.247.109.101/hls/A1.m3u8
-
-#EXTINF:-1, LALIGA TV 🇬🇧
-http://45.148.26.176/hls/M2.m3u8
 
 #EXTINF:-1, LALIGA TV 🇬🇧
 http://45.148.26.176/hls/M2.m3u8?mvk
