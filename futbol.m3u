@@ -22,7 +22,7 @@ http://45.148.26.176/hls/M2.m3u8
 https://d20gwbs7df9lz6.cloudfront.net/stream/Mjc3OQ==/1080p.m3u8
 
 #EXTINF:-1, LALIGA TV 🇬🇧
-http://77.247.109.101/hls/A1.m3u8
+http://45.148.26.176/hls/M2.m3u8?SBN
 
 #EXTINF:-1, LALIGA TV 🇬🇧
 http://45.148.26.176/hls/M2.m3u8?mvk
