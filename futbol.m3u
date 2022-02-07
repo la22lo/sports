@@ -729,7 +729,7 @@ https://smart-tv.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1, Live Sports (pk) 🇵🇱
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 
-#EXTINF:-1, TNT SPORTS
+#EXTINF:-1, TNT SPORTS arg
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 #EXTINF:-1,EUROSPORT 1 🇪🇸
