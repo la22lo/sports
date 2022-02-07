@@ -576,21 +576,6 @@ https://liv11octptsp.stblauncher.com/live/4246_.m3u8?token=bcc65a1fb3974adeaa616
 #EXTINF:-1, SPORTTV 5 🇵🇹
 https://liv11octptsp.stblauncher.com/live/4213_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 
-#EXTINF:-1, Sport TV 1 🇵🇹
-http://api.magiaiptv.com/live/800196/128093/m3_DFwhzUuzfistv1_1080p
-
-#EXTINF:-1, Sport TV 2 🇵🇹
-http://api.magiaiptv.com/live/800196/128093/m3_FZukotDQWYstv2_1080p
-
-#EXTINF:-1, Sport TV 3 🇵🇹
-http://api.magiaiptv.com/live/800196/128093/m3_eAb6FoNigKstv3_720p_2M
-
-#EXTINF:-1, Sport TV 4 🇵🇹
-http://api.magiaiptv.com/live/800196/128093/m3_eargH0Pv9qstv4_720p_2M
-
-#EXTINF:-1, Sport TV 5 🇵🇹
-http://api.magiaiptv.com/live/800196/128093/m3_L4QIjJorwjstv5_1080p
-
 #EXTINF:-1, Sport TV + 🇵🇹
 http://api.magiaiptv.com/live/800328/755275/m3_UCWbpolpkgstvp_1080p
 
@@ -605,36 +590,6 @@ http://api.magiaiptv.com/live/800328/755275/m3_eAb6FoNigKstv3_720p_2M
 
 #EXTINF:-1, Sport TV 5 🇵🇹
 http://api.magiaiptv.com/live/800328/755275/m3_L4QIjJorwjstv5_1080p
-
-#EXTINF:-1, TV3 LT 🇱🇹
-http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/234
-
-#EXTINF:-1, TV3 SPORT2 LT 🇱🇹
-http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14122
-
-#EXTINF:-1, TV3 LT HD 🇱🇹
-http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/759
-
-#EXTINF:-1, TV3 SPORT LT HD OPEN 🇱🇹
-http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/309
-
-#EXTINF:-1 , Sky Sport Main Event HD 🇬🇧
-http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/62
-
-#EXTINF:-1 , Sky Sport Premier League 🇬🇧
-http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/295
-
-#EXTINF:-1 , Sky Sport Football 🇬🇧
-http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/304
-
-#EXTINF:-1 , Sky Sport F1 🇬🇧
-http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/64
-
-#EXTINF:-1 , Sky Sport F1 🇬🇧
-http://api.magiaiptv.com/live/800196/128093/m1_skysportsf1_720p
-
-#EXTINF:-1 , Sky Sport Arena 🇬🇧
-http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/81
 
 #EXTINF:-1, LOOK SPORTS HD 🇷🇴
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&checkedby:iptvcat.com
@@ -657,9 +612,6 @@ https://stream1.1616.ro:1945/looksport3/livestream/chunklist_w64015557.m3u8
 #EXTINF:-1, LOOK SPORTS 3 🇷🇴
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
 
-#EXTINF:-1 ,TV3 LITUANIA 🇱🇹
-http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/745
-
 #EXTINF:-1, nova sports 1 HD 🇬🇷
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/67017
 
@@ -671,27 +623,6 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/67019
 
 #EXTINF:-1, nova sports 3 POLONIA 🇵🇱
 http://84.42.140.147:8890/hdmi
-
-#EXTINF:-1, Magenta Sport (3.Liga) 1 HD 🇩🇪
-http://globalbeasts.xyz:80/JadonF/xrYJZqNXWJNj/3400740
-
-#EXTINF:-1, Magenta Sport (3.Liga) 2 HD 🇩🇪
-http://globalbeasts.xyz:80/JadonF/xrYJZqNXWJNj/3400741
-
-#EXTINF:-1, Magenta Sport (3.Liga) 3 HD 🇩🇪
-http://globalbeasts.xyz:80/JadonF/xrYJZqNXWJNj/3400742
-
-#EXTINF:-1, Magenta Sport (3.Liga) 4 HD 🇩🇪
-http://globalbeasts.xyz:80/JadonF/xrYJZqNXWJNj/3400743
-
-#EXTINF:-1, Magenta Sport (3.Liga) 5 HD 🇩🇪
-http://globalbeasts.xyz:80/JadonF/xrYJZqNXWJNj/3400744
-
-#EXTINF:-1, Magenta Sport (3.Liga) 6 HD 🇩🇪
-http://globalbeasts.xyz:80/JadonF/xrYJZqNXWJNj/3400745
-
-#EXTINF:-1 ,TV3 LETONIA 🇱🇻
-http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/343
 
 #EXTINF:-1 ,2 SPORT HUNGRIA 🇭🇺
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
@@ -719,9 +650,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 
 #EXTINF:-1, PPTV ASIA 🇨🇳
 https://smart-tv.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
-
-#EXTINF:-1, VIASAT FOOTBALL SUECIA 🇸🇪
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/25032
 
 #EXTINF:-1,Astro SuperSport HD 🇲🇾
 http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170834
@@ -753,9 +681,6 @@ https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1, ELEVEN SPORT 2
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 
-#EXTINF:-1, RMC SPORT 1 🇫🇷
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/61118
-
 #EXTINF:-1, RMC SPORT 2 🇫🇷
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/61121
 
@@ -780,17 +705,11 @@ https://185-107-80-245.livesports24.online/ntvmatchfoot1.m3u8
 #EXTINF:-1, Футбол 1 🇷🇺
 https://95-213-224-181.livesports24.online/ntvmatchfoot1.m3u8
 
-#EXTINF:-1, Футбол 1 🇷🇺
-https://95-213-224-180.livesports24.online/ntvmatchfoot1.m3u8
-
 #EXTINF:-1, Футбол 3 🇷🇺
 https://95-213-224-181.livesports24.online/rumatchf3.m3u8
 
 #EXTINF:-1, Футбол 3 🇷🇺
 https://77-247-178-24.livesports24.online/rumatchf3.m3u8
-
-#EXTINF:-1,MATH RUSIA 🇷🇺
-https://95-213-224-180.livesports24.online/rumatchf3.m3u8
 
 #EXTINF:-1,MATH CTPAHA 🇷🇺
 https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
@@ -801,29 +720,17 @@ https://77-247-178-24.livesports24.online/ntvmatchfoot1.m3u8
 #EXTINF:-1, VARCHAT 5 🇧🇾
 http://bal.varcdn1.ru/lb/b5/index.m3u8
 
-#EXTINF:-1, KHL PRIME 🇷🇺
-https://95-213-224-179.livesports24.online/khlhdru.m3u8
-
 #EXTINF:-1, Premier Football HD 1 (TH) 🇹🇭
 https://smart-tv.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
 
 #EXTINF:-1, Premier Football HD 2 (TH) 🇹🇭
 https://smart-tv.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8
 
-#EXTINF:-1, Premier Football HD 3 (TH) 🇹🇭
-https://smart-tv.livedoomovie.com:4431/02_PremierHD3_720p/chunklist.m3u8
-
-#EXTINF:-1, Premier Football HD 4 (TH) 🇹🇭
-https://smart-tv.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8
-
 #EXTINF:-1, Live Sports (pk) 🇵🇱
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 
 #EXTINF:-1, TNT SPORTS
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-
-#EXTINF:-1, Live Direct
-https://nl.castamp.com/live/mar02/chunklist.m3u8?h=vaF40n3Bd3DqLUkZQV7qvw&e=1640924070&u=c7c5073331adb83ce31dc86e724b7e3d&d=82_130_243_112
 
 #EXTINF:-1,EUROSPORT 1 🇪🇸
 http://185.41.244.69/eurosport1/tracks-v2a1a2/mono.m3u8
