@@ -3,6 +3,9 @@
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://k1.yacinelivetv.com/live/918454578001/index.m3u8?mvk
 
+#EXTINF:-1, beIN Sports 1 🇶🇦
+http://k1.yacinelivetv.com:80/live/918454578001/index.m3u8
+
 #EXTINF:-1, beIN Sports 1 SD 🇶🇦
 http://api.magiaiptv.com/live/800328/755275/m1_b3LqtPcVf80FH9zmjuIKYaSdNW4_720p
 
