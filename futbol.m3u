@@ -6,17 +6,17 @@ http://k1.yacinelivetv.com/live/918454578001/index.m3u8?mvk
 #EXTINF:-1, beIN Sports 1 SD 🇶🇦
 http://api.magiaiptv.com/live/800328/755275/m1_b3LqtPcVf80FH9zmjuIKYaSdNW4_720p
 
-#EXTINF:-1, SUPERSPORT LALIGA
-http://urtv.cc:80/454781209544/431009674535/6575
-
-#EXTINF:-1, SUPERSPORT LALIGA 🇬🇧
-https://free.one24tv.com:443/live/94791643436715/94791643436715/15200.ts
-
 #EXTINF:-1, BEIN SPORT 1 TRUE VISIONS 🇹🇭
 https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8?per
 
 #EXTINF:-1, BEIN SPORT 2 TRUE VISIONS 🇹🇭
 https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8?per
+
+#EXTINF:-1, SUPERSPORT LALIGA
+http://urtv.cc:80/454781209544/431009674535/6575
+
+#EXTINF:-1, SUPERSPORT LALIGA 🇬🇧
+https://free.one24tv.com:443/live/94791643436715/94791643436715/15200.ts
 
 #EXTINF:-1, SuperSport LaLiga 🇬🇧
 http://tv.allkaicerteam.com:8080/kaicer_VIP6szfey/tn52xj/3064
