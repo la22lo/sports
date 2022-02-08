@@ -942,6 +942,9 @@ http://185.226.88.3:1036/live/backup/backup/61.m3u8
 #EXTINF:-1,Tring Sport 4 HD 🇦🇱
 http://185.226.88.3:1036/live/backup/backup/60.m3u8
 
+#EXTINF:-1, MAGENTA SPORT
+http://198.144.159.43/JtCJr2fyNnF-_Z6uTqFBzA/1644372420/3138352e3132382e36302e31/ff69/playlist.m3u8
+
 #EXTINF:-1,SWISS SPORT TV 🇨🇭
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
 
