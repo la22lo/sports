@@ -117,6 +117,9 @@ https://bal.varcdn1.ru/lb/setanta1/index.m3u8?per
 #EXTINF:-1, Bein Sports 3 HD 🇶🇦
 http://api.magiaiptv.com/live/800328/755275/m3_84EEnC2nxXxTmQcJUE1LLnLCqj9_720p
 
+#EXTINF:-1, Bein Sports 3 HD 🇶🇦
+http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
+
 #EXTINF:-1,DUHOK HD 🇮🇶
 http://88.198.32.36:1935/live/Duhok--Sports--HD/chunklist.m3u8
 
