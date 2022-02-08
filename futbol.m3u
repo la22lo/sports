@@ -1365,5 +1365,23 @@ http://145.239.142.113/BEIN-1-SD/playlist.m3u8?per
 #EXTINF:-1, BEIN 1 AR ᴴᴰ🇶🇦
 http://145.239.142.113/BEIN-1-SD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 ,BEIN LA LIGA
+http://wagmaott.com:8080/mag00:1A:79:99:80:A3/1vpfdyAtZu/115569
+
+#EXTINF:-1 ,BEIN LA LIGA 1 HD
+http://wagmaott.com:8080/mag00:1A:79:99:80:A3/1vpfdyAtZu/115571
+
+#EXTINF:-1 ,BEIN LA LIGA 2 HD
+http://wagmaott.com:8080/mag00:1A:79:99:80:A3/1vpfdyAtZu/115572
+
+#EXTINF:-1 ,BEIN LA LIGA 3 HD
+http://wagmaott.com:8080/mag00:1A:79:99:80:A3/1vpfdyAtZu/115573
+
+#EXTINF:-1 ,BEIN LA LIGA 4K
+http://wagmaott.com:8080/mag00:1A:79:99:80:A3/1vpfdyAtZu/115568
+
+#EXTINF:-1 ,BEIN LA LIGA FHD
+http://wagmaott.com:8080/mag00:1A:79:99:80:A3/1vpfdyAtZu/115570
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
