@@ -438,6 +438,12 @@ https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?mvk
 #EXTINF:-1,LOOK SPORT + 🇷🇴
 https://stream1.1616.ro:1945/look/livestream/chunklist.m3u8?mvk
 
+#EXTINF:-1, Adjarasport 1
+https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
+
+#EXTINF:-1, Adjarasport 2
+https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8
+
 #EXTINF:-1, ZIGGO VOETBAL HD 🇳🇱
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/65832
 
