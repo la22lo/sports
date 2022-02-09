@@ -444,6 +444,12 @@ https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
 #EXTINF:-1, Adjarasport 2 🇬🇪
 https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8
 
+#EXTINF:-1, RTK1 KOSOVO
+http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8?
+
+#EXTINF:-1, RTK1 ALBANIA
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+
 #EXTINF:-1, ZIGGO VOETBAL HD 🇳🇱
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/65832
 
@@ -992,6 +998,21 @@ http://185.226.88.3:1036/live/backup/backup/61.m3u8
 
 #EXTINF:-1,Tring Sport 4 HD 🇦🇱
 http://185.226.88.3:1036/live/backup/backup/60.m3u8
+
+#EXTINF:-1, Super Sports 1 🇦🇱
+http://93.157.62.180/Supersport1/index.m3u8
+
+#EXTINF:-1, Super Sports 2 🇦🇱
+http://93.157.62.180/Supersport2/index.m3u8
+
+#EXTINF:-1, Super Sports 3 🇦🇱
+http://93.157.62.180/Supersport3/index.m3u8
+
+#EXTINF:-1, Super Sports 4 🇦🇱
+http://93.157.62.180/Supersport4/index.m3u8
+
+#EXTINF:-1, Super Sports 5 🇦🇱
+http://93.157.62.180/Supersport5/index.m3u8
 
 #EXTINF:-1, MAGENTA SPORT
 http://198.144.159.43/JtCJr2fyNnF-_Z6uTqFBzA/1644372420/3138352e3132382e36302e31/ff69/playlist.m3u8
