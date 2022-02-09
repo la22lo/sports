@@ -18,6 +18,9 @@ https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
 #EXTINF:-1, SUPERSPORT LALIGA 🇬🇧
 https://free.one24tv.com:443/live/94791643436715/94791643436715/15200.ts
 
+#EXTINF:-1, SUPERSPORT LALIGA 🇬🇧
+http://15.235.142.228:8080/live/hometv/premium/3.ts
+
 #EXTINF:-1, PPV LALIGATV 🇬🇧
 http://45.148.26.176/hls/M2.m3u8
 
@@ -582,6 +585,27 @@ https://free.one24tv.com:443/live/94791643436715/94791643436715/15209.ts
 #EXTINF:-1, SuperSport Grandstand 🇬🇧
 https://free.one24tv.com:443/live/94791643436715/94791643436715/15208.ts
 
+#EXTINF:-1, Supersport Jadwal 🇬🇧
+http://15.235.142.228:8080/live/hometv/premium/1.ts
+
+#EXTINF:-1, Supersport Premier League 🇬🇧
+http://15.235.142.228:8080/live/hometv/premium/2.ts
+
+#EXTINF:-1, Supersport LALIGA 🇬🇧
+http://15.235.142.228:8080/live/hometv/premium/3.ts
+
+#EXTINF:-1, Supersport FOOTBALL 🇬🇧
+http://15.235.142.228:8080/live/hometv/premium/4.ts
+
+#EXTINF:-1, Supersport PSL 🇬🇧
+http://15.235.142.228:8080/live/hometv/premium/5.ts
+
+#EXTINF:-1, Supersport Variety 3 🇬🇧
+http://15.235.142.228:8080/live/hometv/premium/6.ts
+
+#EXTINF:-1, Supersport Variety 2 🇬🇧
+http://15.235.142.228:8080/live/hometv/premium/7.ts
+
 #EXTINF:-1, SPORTTV 1 🇵🇹
 https://liv11octptsp.stblauncher.com/live/4271_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 
@@ -1010,6 +1034,9 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1, SPOTV 1
 https://smart-tv.livedoomovie.com:4431/02_foxsport_720p/chunklist.m3u8
+
+#EXTINF:-1, SPOTV 1
+http://15.235.142.228:8080/live/hometv/premium/72.ts
 
 #EXTINF:-1, SPOTV 2
 https://smart-tv.livedoomovie.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8
