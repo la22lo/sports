@@ -15,9 +15,6 @@ https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleve
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇹
 https://liv11octptsp.stblauncher.com/live/6643_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 
-#EXTINF:-1, M LALIGA
-http://37.14.202.156:8001/1:0:1:7797:424:1:C00000:0:0:0:
-
 #EXTINF:-1, SUPERSPORT LALIGA 🇬🇧
 https://free.one24tv.com:443/live/94791643436715/94791643436715/15200.ts
 
@@ -65,6 +62,9 @@ http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/17422?checkedby:iptvcat.com
 
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/309
+
+#EXTINF:-1, M LALIGA
+http://37.14.202.156:8001/1:0:1:7797:424:1:C00000:0:0:0:
 
 #EXTINF:-1, MOVISTAR LALIGA 2 🇪🇸
 http://89.249.49.78:8000/play/a0i4
@@ -210,11 +210,41 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 
+#EXTINF:-1, Liga Campeonesᴴᴰ
+http://37.14.202.156:8001/1:0:19:78b4:3ec:1:c00000:0:0:0:
+
+#EXTINF:-1, Liga Campeones 1ᴴᴰ
+http://37.14.202.156:8001/1:0:1:77C3:40A:1:C00000:0:0:0:
+
+#EXTINF:-1, Liga Campeones 1ᴴᴰ
+http://89.249.49.78:8000/play/a0i7
+
+#EXTINF:-1, Liga Campeones 2ᴴᴰ
+http://89.249.49.78:8000/play/a0ia
+
 #EXTINF:-1, DAZN 1 HD 🇪🇸
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1990
 
 #EXTINF:-1, DAZN 2 HD 🇪🇸
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1991
+
+#EXTINF:-1, DAZN 1
+http://37.14.202.156:8001/1:0:19:7855:41A:1:C00000:0:0:0
+
+#EXTINF:-1, DAZN 2
+http://37.14.202.156:8001/1:0:19:785F:41A:1:C00000:0:0:0
+
+#EXTINF:-1, DAZN 3
+http://37.14.202.156:8001/1:0:19:74D8:3F8:1:C00000:0:0:0
+
+#EXTINF:-1, DAZN 3
+http://89.249.49.78:8000/play/a0i9
+
+#EXTINF:-1, DAZN 4
+http://89.249.49.78:8000/play/a0i8
+
+#EXTINF:-1, DAZN 4
+http://37.14.202.156:8001/1:0:19:74D6:3F8:1:C00000:0:0:0
 
 #EXTINF:-1, DAZN F1 🇪🇸
 http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/chunks.m3u8
