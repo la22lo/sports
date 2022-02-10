@@ -1182,6 +1182,9 @@ http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2515/index.m3u8
 #EXTINF:-1, ASTRAK RUS HD 🇷🇺
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v5a1/index.m3u8 
 
+#EXTINF:-1, MN SPORT MACEDONIA
+https://ares.mnet.mk/hls/mnet-sport.m3u8
+
 #EXTINF:-1, ATG1
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 
