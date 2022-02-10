@@ -1488,5 +1488,17 @@ http://k1.yacinelivetv.com/live/918454578001/index.m3u8?mvk
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://k1.yacinelivetv.com:80/live/918454578001/index.m3u8
 
+#EXTINF:-1, DIGI Sport 1
+http://188.27.32.193:8000/play/a08x/index.m3u8
+
+#EXTINF:-1, DIGI Sport 1 HD
+http://188.27.32.193:8000/play/a061/index.m3u8
+
+#EXTINF:-1, DIGI Sport 2 HD
+http://188.27.32.193:8000/play/a06x/index.m3u8
+
+#EXTINF:-1, DIGI Sport 3 HD
+http://188.27.32.193:8000/play/a06i/index.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
