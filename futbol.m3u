@@ -15,8 +15,8 @@ https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleve
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇹
 https://liv11octptsp.stblauncher.com/live/6643_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 
-#EXTINF:-1, ZIGGO
-http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/3716
+#EXTINF:-1, M LALIGA
+http://37.14.202.156:8001/1:0:1:7797:424:1:C00000:0:0:0:
 
 #EXTINF:-1, SUPERSPORT LALIGA 🇬🇧
 https://free.one24tv.com:443/live/94791643436715/94791643436715/15200.ts
@@ -287,6 +287,12 @@ https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
 
 #EXTINF:-1, Adjarasport 2 🇬🇪
 https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8
+
+#EXTINF:-1, ZIGGO VOETBAL
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/3716
+
+#EXTINF:-1, ZIGGO SELECT
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/3715
 
 #EXTINF:-1, RTK1 KOSOVO
 http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8?
