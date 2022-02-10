@@ -177,6 +177,9 @@ http://qqtv.nl:8080/live/norma/12345/20269.m3u8
 #EXTINF:-1, ESPN 2 🇦🇷
 http://qqtv.nl:8080/live/norma/12345/20268.m3u8
 
+#EXTINF:-1, ESPN 3 🇦🇷
+https://edge-live11-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
+
 #EXTINF:-1, ESPN + 🇳🇮
 http://qqtv.nl:8080/live/norma/12345/20062.m3u8
 
