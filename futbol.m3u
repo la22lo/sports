@@ -933,6 +933,9 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1, BAND Sports HD+ 🇧🇷
 http://api.magiaiptv.com/live/800328/755275/m1_JCr0n6KJkWbSR5_720p_2M
 
+#EXTINF:-1, BAND Sports 🇧🇷
+http://cdn.connectbr.com.br/BandSports/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, TIGO SPORTS 1 🇧🇴
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234814
 
