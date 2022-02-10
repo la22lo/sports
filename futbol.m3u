@@ -1113,6 +1113,18 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m
 #EXTINF:-1, YAS 🇸🇦
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 
+#EXTINF:-1, KSA SPORTS 1 HD 🇸🇦
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243761
+
+#EXTINF:-1, KSA SPORTS 2 HD 🇸🇦
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243760
+
+#EXTINF:-1, KSA SPORTS 3 HD 🇸🇦
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243759
+
+#EXTINF:-1, KSA SPORTS 4 HD 🇸🇦
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243758
+
 #EXTINF:-1, FootballHub
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
