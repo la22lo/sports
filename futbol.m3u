@@ -699,18 +699,6 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1, BAND Sports 🇧🇷
 http://cdn.connectbr.com.br/BandSports/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, TIGO SPORTS 1 🇧🇴
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234814
-
-#EXTINF:-1, TIGO SPORTS 1 🇧🇴
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/414
-
-#EXTINF:-1, TIGO SPORTS 2 🇧🇴
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/412
-
-#EXTINF:-1, TIGO SPORTS 🇨🇷
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/31195
-
 #EXTINF:-1, SKY SPORTS 24 🇮🇹
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 
@@ -876,15 +864,6 @@ https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 #EXTINF:-1, ALL SPORTS TV
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
-#EXTINF:-1, CANAL PLUS 2 POL 🇵🇱
-http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2516/index.m3u8
-
-#EXTINF:-1, C MORE 🇸🇪
-http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2514/index.m3u8
-
-#EXTINF:-1, N SPORT LIVE
-http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2515/index.m3u8
-
 #EXTINF:-1, ASTRAK RUS HD 🇷🇺
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v5a1/index.m3u8 
 
@@ -929,9 +908,6 @@ https://directes-tv-es.ccma.cat/es/ngrp:es3_mobil/playlist.m3u8
 
 #EXTINF:-1, CICLISMO ESUKERA (EITB) 🇪🇸
 https://live-dvr.eitb-fastly.cross-media.es/live-content/oka2hd-hls/bitrate_4.m3u8
-
-#EXTINF:-1, CICLISMO ESUKERA (EITB) 🇪🇸
-https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-b.m3u8
 
 #EXTINF:-1, TELEDEPORTE 🇪🇸
 https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8
