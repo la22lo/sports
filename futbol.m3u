@@ -81,6 +81,9 @@ https://bal.varcdn1.ru/lb/setanta1/index.m3u8?per
 #EXTINF:-1, Bein Sports 3 HD 🇶🇦
 http://api.magiaiptv.com/live/800328/755275/m3_84EEnC2nxXxTmQcJUE1LLnLCqj9_720p
 
+#EXTINF:-1, Bein Sports 3 HD 🇶🇦
+https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/5AEo_MeSm3cKNiny0EIZwUPPMOoJzIjTzKHZMrMNncgrxZbn8TvZqWyFfUa5VA13S6WhpaFLl2hoH-dOycwvdA/non_transcode/us-west-2/periscope-replay-direct-prod-us-east-1-public/dynamic_highlatency.m3u8?type=live
+
 #EXTINF:-1,DUHOK HD 🇮🇶
 http://88.198.32.36:1935/live/Duhok--Sports--HD/chunklist.m3u8
 
