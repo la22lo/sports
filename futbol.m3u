@@ -259,19 +259,10 @@ http://api.magiaiptv.com/live/800328/755275/m1_9b0bf85a96462778_720p
 http://api.magiaiptv.com/live/800328/755275/m2_ee92c0f83475cfae7c8_720p
 
 #EXTINF:-1, beIN Sports 1 French 🇫🇷
-http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2499/index.m3u8
-
-#EXTINF:-1, beIN Sports 1 French 🇫🇷
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
 
 #EXTINF:-1, beIN Sports 2 French 🇫🇷
-http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2500/index.m3u8
-
-#EXTINF:-1, beIN Sports 2 French 🇫🇷
 http://93.152.174.144:4000/play/bein2fr/index.m3u8
-
-#EXTINF:-1, beIN Sports 3 French 🇫🇷
-http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2501/index.m3u8
 
 #EXTINF:-1 ,BEIN SPORTS 3 FR 🇫🇷
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
