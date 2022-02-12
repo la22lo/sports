@@ -1,13 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1,Eleven Sports 4 (PT) 🇵🇹
-https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleven_Sports_4_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
-
-#EXTINF:-1, ELEVEN 4 🇵🇹
-https://liv11octptsp.stblauncher.com/live/6646_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
-
 #EXTINF:-1, SUPERSPORT LALIGA 🇬🇧
 https://free.one24tv.com:443/live/94791643436715/94791643436715/15200.ts
+
+#EXTINF:-1,PPV Event A1 Hockeynews 🇬🇧
+http://77.247.109.101/hls/A1.m3u8
 
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://api.magiaiptv.com/live/800328/755275/m1_b3LqtPcVf80FH9zmjuIKYaSdNW4_720p
