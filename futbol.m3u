@@ -57,6 +57,9 @@ https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=
 #EXTINF:-1,LOOK SPORT + 🇷🇴
 https://stream1.1616.ro:1945/look/livestream/chunklist.m3u8?mvk
 
+#EXTINF:-1,SETANTA 1 🇷🇺
+https://sl07.varcdn1.ru/setanta2/index.m3u8?mvk
+
 #EXTINF:-1, DAZN 1 ALEMANIA 🇩🇪
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/190
 
