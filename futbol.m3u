@@ -1227,5 +1227,26 @@ http://77.247.109.111/hls/T1.m3u8
 #EXTINF:-1, S PREMIER
 http://cro.hockeynews.club/live/2/chunks.m3u8
 
+#EXTINF:-1,beIN SPORTS 1HD
+http://match2day.net:8080/aiirrv70230095541228755963325-letssgooo/23210VgAE0p11/499
+
+#EXTINF:-1,beIN SPORTS 2HD
+http://match2day.net:8080/aiirrv70230095541228755963325-letssgooo/23210VgAE0p11/500
+
+#EXTINF:-1,beIN SPORTS 3HD
+http://match2day.net:8080/aiirrv70230095541228755963325-letssgooo/23210VgAE0p11/501
+
+#EXTINF:-1,beIN SPORTS 4HD
+http://match2day.net:8080/aiirrv70230095541228755963325-letssgooo/23210VgAE0p11/502
+
+#EXTINF:-1,beIN SPORTS 5HD
+http://match2day.net:8080/aiirrv70230095541228755963325-letssgooo/23210VgAE0p11/503
+
+#EXTINF:-1,beIN SPORTS 6HD
+http://match2day.net:8080/aiirrv70230095541228755963325-letssgooo/23210VgAE0p11/504
+
+#EXTINF:-1,beIN SPORTS 7HD
+http://match2day.net:8080/aiirrv70230095541228755963325-letssgooo/23210VgAE0p11/505
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
