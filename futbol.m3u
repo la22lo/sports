@@ -1,17 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, SUPERSPORT LALIGA 🇬🇧
-https://free.one24tv.com:443/live/94791643436715/94791643436715/15200.ts
-
-#EXTINF:-1, LALIGA TV 🇬🇧
-http://185.53.89.183/hls/la.m3u8
-
-#EXTINF:-1,PPV Event Q1 🇬🇧
-http://cdn4.cyclingnews.live/hls/Q1.m3u8
-
-#EXTINF:-1, LALIGA TV 🇬🇧
-http://77.247.109.249/hls/T1.m3u8
-
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://api.magiaiptv.com/live/800328/755275/m1_b3LqtPcVf80FH9zmjuIKYaSdNW4_720p
 
@@ -57,12 +45,6 @@ http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/17422?checkedby:iptvcat.com
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/309
 
-#EXTINF:-1, M LALIGA
-http://37.14.202.156:8001/1:0:1:7797:424:1:C00000:0:0:0:
-
-#EXTINF:-1, M LALIGA
-https://vsd78.mycdn.me/hls/2247788137076.m3u8/sig/uecAUtnyijQ/expires/1644693096344/srcIp/85.48.187.222/clientType/1/srcAg/UNKNOWN_ANDROID/mid/3721506659956/video.m3u8?p
-
 #EXTINF:-1, MOVISTAR LALIGA 2 🇪🇸
 http://89.249.49.78:8000/play/a0i4
 
@@ -75,17 +57,11 @@ http://protv.top:8000/live/90879347454025140/1593574628/38796.ts
 #EXTINF:-1, DIRECTV SPORT 2 🇦🇷
 http://qqtv.nl:8080/live/norma/12345/20311.m3u8
 
-#EXTINF:-1, DIRECTV SPORT 🇦🇷
-https://videodelivery.net/575071a4fabf4e1b9368f494fd7fc308/manifest/video.m3u8
-
 #EXTINF:-1, SETANTA SPORTS 1 🇷🇺
 https://bal.varcdn1.ru/lb/setanta1/index.m3u8?per
 
 #EXTINF:-1, Bein Sports 3 HD 🇶🇦
 http://api.magiaiptv.com/live/800328/755275/m3_84EEnC2nxXxTmQcJUE1LLnLCqj9_720p
-
-#EXTINF:-1, Bein Sports 3 HD 🇶🇦
-https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/5AEo_MeSm3cKNiny0EIZwUPPMOoJzIjTzKHZMrMNncgrxZbn8TvZqWyFfUa5VA13S6WhpaFLl2hoH-dOycwvdA/non_transcode/us-west-2/periscope-replay-direct-prod-us-east-1-public/dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1, BLUE SPORT 1 🇨🇭
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/124
