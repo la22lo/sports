@@ -108,21 +108,6 @@ http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 #EXTINF:-1, GEO SUPER 🇮🇳
 http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8?token=rk%F0%9F%8F%8F
 
-#EXTINF:-1, Bein Sports 1 HD 🇶🇦
-http://api.magiaiptv.com/live/800328/755275/m1_b3LqtPcVf80FH9zmjuIKYaSdNW4_720p
-
-#EXTINF:-1, Bein Sports 2 HD 🇶🇦
-http://api.magiaiptv.com/live/800328/755275/m2_kzBnxIpw2nDN4oc2hacjgj5nX8i_720p
-
-#EXTINF:-1, Bein Sports 3 HD 🇶🇦
-http://api.magiaiptv.com/live/800328/755275/m3_84EEnC2nxXxTmQcJUE1LLnLCqj9_720p
-
-#EXTINF:-1, Bein Sports 4 HD 🇶🇦
-http://api.magiaiptv.com/live/800328/755275/m1_QmvKPghrqboJ5XW5ys7LeOUjn5R_720p
-
-#EXTINF:-1, Bein Sports 5 HD 🇶🇦
-http://api.magiaiptv.com/live/800328/755275/m2_rBQgv9ZWMgCpBoK09zqQqamkASY_720p
-
 #EXTINF:-1,Eleven Sports 1 (PT) 🇵🇹
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
@@ -213,12 +198,6 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 
-#EXTINF:-1, Liga Campeonesᴴᴰ
-http://37.14.202.156:8001/1:0:19:78b4:3ec:1:c00000:0:0:0:
-
-#EXTINF:-1, Liga Campeones 1ᴴᴰ
-http://37.14.202.156:8001/1:0:1:77C3:40A:1:C00000:0:0:0:
-
 #EXTINF:-1, Liga Campeones 1ᴴᴰ
 http://89.249.49.78:8000/play/a0i7
 
@@ -230,24 +209,6 @@ http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/199
 
 #EXTINF:-1, DAZN 2 HD 🇪🇸
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1991
-
-#EXTINF:-1, DAZN 1
-http://37.14.202.156:8001/1:0:19:7855:41A:1:C00000:0:0:0
-
-#EXTINF:-1, DAZN 2
-http://37.14.202.156:8001/1:0:19:785F:41A:1:C00000:0:0:0
-
-#EXTINF:-1, DAZN 3
-http://37.14.202.156:8001/1:0:19:74D8:3F8:1:C00000:0:0:0
-
-#EXTINF:-1, DAZN 3
-http://89.249.49.78:8000/play/a0i9
-
-#EXTINF:-1, DAZN 4
-http://89.249.49.78:8000/play/a0i8
-
-#EXTINF:-1, DAZN 4
-http://37.14.202.156:8001/1:0:19:74D6:3F8:1:C00000:0:0:0
 
 #EXTINF:-1, DAZN F1 🇪🇸
 http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/chunks.m3u8
