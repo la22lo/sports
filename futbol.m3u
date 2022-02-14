@@ -198,6 +198,12 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 
+#EXTINF:-1,beIN Sports ñ 🇪🇸
+http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/17410
+
+#EXTINF:-1,beIN Sports 1 🇬🇧
+http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/52925
+
 #EXTINF:-1, Liga Campeones 1ᴴᴰ
 http://89.249.49.78:8000/play/a0i7
 
