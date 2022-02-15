@@ -12,6 +12,9 @@ https://www.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1,Eleven Sports 2 (PT) 🇵🇹
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
+#EXTINF:-1, MOVISTAR LIGA CAMPEONES
+https://prod-ec-us-west-1.video.pscp.tv:443/Transcoding/v1/hls/ksbvZKFnfOX9fvlb9qtItVcb6Qvaq6CoHgVikJG_jy94-CkPscIQ_D-BsroQgxLoRbktlI5ppPULmBTNuZ1SDA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+
 #EXTINF:-1, FOX SPORTS
 https://edge-live32-hr.cvattv.com.ar//live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8?SBN
 
