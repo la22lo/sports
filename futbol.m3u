@@ -12,6 +12,9 @@ https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleve
 #EXTINF:-1,PPV Event M1
 http://cdn1.cyclingnews.live/hls/M1.m3u8
 
+#EXTINF:-1, BT SPORT 3
+https://d3rwour00l8w6d.cloudfront.net:443/stream/Mjg2Mw==/1080p.m3u8
+
 #EXTINF:-1,LOOK SPORT + 🇷🇴
 https://stream1.1616.ro:1945/look/livestream/chunklist.m3u8?mvk
 
