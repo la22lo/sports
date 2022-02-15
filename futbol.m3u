@@ -75,6 +75,12 @@ http://protv.top:8000/live/90879347454025140/1593574628/38796.ts
 #EXTINF:-1, DIRECTV SPORT 2 🇦🇷
 http://qqtv.nl:8080/live/norma/12345/20311.m3u8
 
+#EXTINF:-1, DirectTV Sports 🇦🇷
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204265
+
+#EXTINF:-1, DirectTV Sports 2 🇦🇷
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/228754
+
 #EXTINF:-1, SETANTA SPORTS 1 🇷🇺
 https://bal.varcdn1.ru/lb/setanta1/index.m3u8?per
 
