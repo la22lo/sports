@@ -12,6 +12,9 @@ https://stream1.1616.ro:1945/look/livestream/chunklist.m3u8?mvk
 #EXTINF:-1,Eleven Sports 2 (PT) 🇵🇹
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
+#EXTINF:-1, RMC SPORT 1 HD 🇫🇷
+http://185.184.192.166/RMC1/mpegts
+
 #EXTINF:-1, ZIGGO VOETBAL 🇳🇱
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/3716
 
@@ -302,6 +305,12 @@ http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/37
 
 #EXTINF:-1, ZIGGO SELECT 🇳🇱
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/3715
+
+#EXTINF:-1, RMC SPORT 1 HD 🇫🇷
+http://185.184.192.166/RMC1/mpegts
+
+#EXTINF:-1, RMC SPORT 2 HD 🇫🇷
+http://185.184.192.166/RMC2/mpegts
 
 #EXTINF:-1, RTK1 KOSOVO
 http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8?
