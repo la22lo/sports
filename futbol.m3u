@@ -3,6 +3,9 @@
 #EXTINF:-1, ESPN VIVO
 http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8?P135
 
+#EXTINF:-1, ESPN VIVO
+http://edge7-ccast-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+
 #EXTINF:-1, BT SPORT 2
 https://dmj9db4enxaf6.cloudfront.net:443/stream/Mjg3NA==/1080p.m3u8?P135
 
