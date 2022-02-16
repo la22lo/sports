@@ -1,67 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1,beIN SPORTS 1 PREMIUM
-https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/C5k-oBF9yoypZwoBqVs6RjNXCJ7K5rZb4zHnKxDEKIf6PJGBbaycMA68mZmgOPyQyq7tLla3UD8WQvsod2giLQ/non_transcode/us-west-2/periscope-replay-direct-prod-eu-west-3-public/dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1, BEIN SPORT 1 TRUE VISIONS 🇹🇭
-https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8?per
-
-#EXTINF:-1, BEIN SPORT 1 TRUE VISIONS
-https://www.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
-
-#EXTINF:-1,Eleven Sports 2 (PT) 🇵🇹
-https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
-
-#EXTINF:-1, MOVISTAR LIGA CAMPEONES
-https://prod-ec-us-west-1.video.pscp.tv:443/Transcoding/v1/hls/ksbvZKFnfOX9fvlb9qtItVcb6Qvaq6CoHgVikJG_jy94-CkPscIQ_D-BsroQgxLoRbktlI5ppPULmBTNuZ1SDA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
-
 #EXTINF:-1, FOX SPORTS
 https://edge-live32-hr.cvattv.com.ar//live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8?SBN
 
-#EXTINF:-1, FOX SPORTS
-https://5g9s179kfgx9wn8tqwj9-cul47i.p5cdn.com/dlive/transcode-65-213/fyufyu777yt/1644946996/src/live.m3u8
-
-#EXTINF:-1,PPV Event M1
-http://cdn1.cyclingnews.live/hls/M1.m3u8
-
-#EXTINF:-1, BT SPORT 3
-https://d3rwour00l8w6d.cloudfront.net:443/stream/Mjg2Mw==/1080p.m3u8
-
-#EXTINF:-1,LOOK SPORT + 🇷🇴
-https://stream1.1616.ro:1945/look/livestream/chunklist.m3u8?mvk
-
-#EXTINF:-1, SPORT 1 LIVE
-https://server40.freestreamhd.ml/livehls/stream1/playlist.m3u8?P135
-
-#EXTINF:-1, CHAMPIONS
-http://45.134.21.199/hls/S2.m3u8?P135
-
-#EXTINF:-1, CHAMPIONS
-http://45.134.21.199/hls/S2.m3u8
-
-#EXTINF:-1, RMC SPORT 1 HD 🇫🇷
-http://185.184.192.166/RMC1/mpegts
-
-#EXTINF:-1, ZIGGO VOETBAL 🇳🇱
-http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/3716
-
-#EXTINF:-1, ARENA SPORT 1 HD PREMIUM SERBIA 🇷🇸
-http://46.29.169.15:4001/play/a00g/index.m3u8?mvk
-
 #EXTINF:-1, TNT SPORTS
 http://user.tvcluboficial.com/stream/free_Admin_Look/kG0/179.m3u8
-
-#EXTINF:-1,beIN SPORTS 1 PREMIUM 🇶🇦
-http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
-
-#EXTINF:-1, MANCHESTER CITY beIN SPORTS 2 PREMIUM
-https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/KAlUZrW6YZbhtMS7Y2eaz4XZpy0EbuFdxNNJi2Dtra_S5L98cn_wfIeBGL-kYM-LOMArnp27vqEtWFDozcBzrQ/non_transcode/us-west-2/periscope-replay-direct-prod-eu-west-3-public/dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://api.magiaiptv.com/live/800328/755275/m1_b3LqtPcVf80FH9zmjuIKYaSdNW4_720p
 
 #EXTINF:-1, BEIN SPORT 1 TRUE VISIONS 🇹🇭
 https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8?per
+
+#EXTINF:-1, BEIN SPORT 1 TRUE VISIONS 🇹🇭
+https://www.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
 
 #EXTINF:-1, BEIN SPORT 2 TRUE VISIONS 🇹🇭
 https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8?per
