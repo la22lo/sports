@@ -192,6 +192,9 @@ http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 #EXTINF:-1, GEO SUPER 🇮🇳
 http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8?token=rk%F0%9F%8F%8F
 
+#EXTINF:-1, GEO SUPER 🇮🇳
+http://221.120.204.4:80/geo-super-LOCKLE/tracks-v1a1/mono.m3u8?shareext.m3u8
+
 #EXTINF:-1,Eleven Sports 1 (PT) 🇵🇹
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
@@ -1256,6 +1259,9 @@ http://77.247.109.111/hls/T1.m3u8
 
 #EXTINF:-1, S PREMIER
 http://cro.hockeynews.club/live/2/chunks.m3u8
+
+#EXTINF:-1, SuperSport LaLiga
+http://shareext@urtv.cc:80/live/titi3/titi3/6575.ts?Shareext.ts
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
