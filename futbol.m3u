@@ -21,6 +21,9 @@ https://d3rwour00l8w6d.cloudfront.net/stream/Mjg3NQ==/1080p.m3u8
 #EXTINF:-1, BEIN SPORT 1 PREMIUM
 https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/m4CF7inuE7wHiatcWFcPOSFjJCPYBI05m6rBlMlH1a6W7fRoJ7itMgaxlJRtPocHqA3IgyX-DD5Bk7N5IomuLw/non_transcode/us-west-2/periscope-replay-direct-prod-eu-west-3-public/dynamic_highlatency.m3u8?type=live
 
+#EXTINF:-1, BEIN SPORT 1 PREMIUM
+https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/m4CF7inuE7wHiatcWFcPOSFjJCPYBI05m6rBlMlH1a6W7fRoJ7itMgaxlJRtPocHqA3IgyX-DD5Bk7N5IomuLw/non_transcode/us-west-2/periscope-replay-direct-prod-eu-west-3-public/dynamic_highlatency.m3u8?type=live
+
 #EXTINF:-1, BEIN SPORT 2 PREMIUM
 https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/R9ohIjomQjmW_g8nAo05-i1Cn-dy-yu2pE5Qc5q0DemJV-sNOl2qOdhQ4zWLHpHLZLUdLsg-Bb-qyjHjuH0x2w/non_transcode/us-west-2/periscope-replay-direct-prod-eu-west-1-public/dynamic_highlatency.m3u8?type=live
 
@@ -38,12 +41,6 @@ https://www.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1, FOX SPORTS
 https://edge-live32-hr.cvattv.com.ar//live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8?SBN
-
-#EXTINF:-1, FOX SPORTS PREMIUM
-https://vod.livestreamapis.com/620fef32_7e6a2058afc5094864ab4362c21f63012a9556de/events/000000000093e016/7eef53c1-668e-424f-8f38-9b23e41e220a_2756.m3u8
-
-#EXTINF:-1, TNT SPORTS
-http://user.tvcluboficial.com/stream/free_Admin_Look/kG0/179.m3u8
 
 #EXTINF:-1, BT SPORT
 http://45.134.21.199/hls/S2.m3u8?P135
@@ -63,6 +60,12 @@ http://clubtv.link/f15/lista2.php?c=3227
 #EXTINF:-1, MOVISTAR LIGA CAMPEONES
 http://soberon.us:25461/live/bullnew/soberonnew/57.m3u8
 
+#EXTINF:-1, ELEVEN SPORT 1 🇵🇹
+https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+
+#EXTINF:-1,Eleven Sports 1 🇵🇹
+https://per@da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://api.magiaiptv.com/live/800328/755275/m1_b3LqtPcVf80FH9zmjuIKYaSdNW4_720p
 
@@ -78,32 +81,11 @@ https://www.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1, BEIN SPORT 2 TRUE VISIONS 🇹🇭
 https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8?per
 
-#EXTINF:-1, LaLiga TV 🇬🇧
-https://play.girlupx.cn/live/ballbar_25230.m3u8
-
 #EXTINF:-1, SuperSport LaLiga 🇬🇧
 http://shareext@urtv.cc:80/live/titi3/titi3/6575.ts?Shareext.ts
 
-#EXTINF:-1,Eleven Sports 3 (PT) 🇵🇹
-https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleven_Sports_3_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
-
-#EXTINF:-1,Eleven Sports 3 (PT)
-https://per@da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleven_Sports_3_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
-
-#EXTINF:-1, ELEVEN SPORT 1 🇵🇹
-https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
-
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇹
 https://liv11octptsp.stblauncher.com/live/6643_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
-
-#EXTINF:-1, LaLiga TV 🇬🇧
-https://d3rwour00l8w6d.cloudfront.net/stream/Mjg3Mw==/1080p.m3u8?P135
-
-#EXTINF:-1, LaLiga TV
-http://livehls.ltjuq.top/ofmatch/HD220946.m3u8?auth_key=1645034825-3a8cbf08ddcd2a4837b08264050016ee-0-113f4faa6ff440725ddaa79c7b96f140
-
-#EXTINF:-1, FUTPLAY
-https://live.brimecdn.com/live/RYeoa5sPzQCNIP9E6zQ8/chunks.m3u8
 
 #EXTINF:-1, beIN SPORTS English 2 🇬🇧
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
@@ -270,8 +252,14 @@ http://221.120.204.4:80/geo-super-LOCKLE/tracks-v1a1/mono.m3u8?shareext.m3u8
 #EXTINF:-1,Eleven Sports 1 (PT) 🇵🇹
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
+#EXTINF:-1,Eleven Sports 1 🇵🇹
+https://per@da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+
 #EXTINF:-1,Eleven Sports 2 (PT) 🇵🇹
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+
+#EXTINF:-1,Eleven Sports 2 🇵🇹
+https://per@da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
 #EXTINF:-1, ELEVEN 2 🇵🇹
 http://fortv.cc:8080/christina/christina/78455
@@ -279,17 +267,26 @@ http://fortv.cc:8080/christina/christina/78455
 #EXTINF:-1,Eleven Sports 3 (PT) 🇵🇹
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleven_Sports_3_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
+#EXTINF:-1,Eleven Sports 3 (PT) 🇵🇹
+https://per@da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleven_Sports_3_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+
 #EXTINF:-1, ELEVEN 3 🇵🇹
 http://fortv.cc:8080/christina/christina/78456
 
 #EXTINF:-1,Eleven Sports 4 (PT) 🇵🇹
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleven_Sports_4_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
+#EXTINF:-1,Eleven Sports 4 (PT) 🇵🇹
+https://per@da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleven_Sports_4_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+
 #EXTINF:-1, ELEVEN 4 🇵🇹
 https://liv11octptsp.stblauncher.com/live/6646_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 
 #EXTINF:-1,Eleven Sports 5 (PT) 🇵🇹
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleven_Sports_5_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+
+#EXTINF:-1,Eleven Sports 5 (PT) 🇵🇹
+https://per@da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleven_Sports_5_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
 #EXTINF:-1, ELEVEN 5 🇵🇹
 https://liv11octptsp.stblauncher.com/live/6647_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
@@ -299,6 +296,9 @@ http://fortv.cc:8080/christina/christina/78458
 
 #EXTINF:-1,Eleven Sports 6 (PT) 🇵🇹
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleven_Sports_6_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+
+#EXTINF:-1,Eleven Sports 6 (PT) 🇵🇹
+https://per@da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleven_Sports_6_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
 #EXTINF:-1, ELEVEN 6 🇵🇹
 http://fortv.cc:8080/christina/christina/78459
@@ -920,6 +920,9 @@ http://qqtv.nl:8080/live/norma/12345/20103.m3u8
 
 #EXTINF:-1, ESPN VIVO 🇦🇷
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
+
+#EXTINF:-1, FOX SPORTS PREMIUM 🇦🇷
+https://vod.livestreamapis.com/620fef32_7e6a2058afc5094864ab4362c21f63012a9556de/events/000000000093e016/7eef53c1-668e-424f-8f38-9b23e41e220a_2756.m3u8
 
 #EXTINF:-1, ESPN HD MEX
 http://qqtv.nl:8080/live/norma/12345/7913.m3u8
