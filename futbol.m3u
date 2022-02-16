@@ -57,6 +57,12 @@ https://stream1.1616.ro:1945/look/livestream/chunklist.m3u8?mvk
 #EXTINF:-1,SETANTA 1 🇷🇺
 https://sl07.varcdn1.ru/setanta2/index.m3u8?mvk
 
+#EXTINF:-1, SETANTA SPORTS 1 🇷🇺
+https://bal.varcdn1.ru/lb/setanta1/index.m3u8?per
+
+#EXTINF:-1,SETANTA 2 🇷🇺
+https://bal.varcdn1.ru/lb/setanta2/index.m3u8
+
 #EXTINF:-1, DAZN 1 ALEMANIA 🇩🇪
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/190
 
@@ -134,9 +140,6 @@ http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204265
 
 #EXTINF:-1, DirectTV Sports 2 🇦🇷
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/228754
-
-#EXTINF:-1, SETANTA SPORTS 1 🇷🇺
-https://bal.varcdn1.ru/lb/setanta1/index.m3u8?per
 
 #EXTINF:-1, Bein Sports 3 HD 🇶🇦
 http://api.magiaiptv.com/live/800328/755275/m3_84EEnC2nxXxTmQcJUE1LLnLCqj9_720p
