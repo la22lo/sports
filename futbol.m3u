@@ -21,6 +21,9 @@ http://soberon.us:25461/live/bullnew/soberonnew/57.m3u8
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://api.magiaiptv.com/live/800328/755275/m1_b3LqtPcVf80FH9zmjuIKYaSdNW4_720p
 
+#EXTINF:-1, beINSport01(480P)
+http://red.ipfox.org:8080/1234/12345678/31555
+
 #EXTINF:-1, BEIN SPORT 1 TRUE VISIONS 🇹🇭
 https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8?per
 
