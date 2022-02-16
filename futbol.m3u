@@ -273,6 +273,12 @@ http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/chunks.m3u8
 #EXTINF:-1, DAZN F1 🇪🇸
 http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/playlist.m3u8
 
+#EXTINF:-1 ,Movistar f1 🇪🇸
+http://ultra-premium-pro.xyz:8080/ROLANDO/ROLANDO1/38140
+
+#EXTINF:-1 ,M. Formula1 🇪🇸
+http://ultra-premium-pro.xyz:8090/ROLANDO/ROLANDO1/38056
+
 #EXTINF:-1, ST☆R+ 1 HD BRA 🇧🇷
 http://api.magiaiptv.com/live/800328/755275/m1_1cd2ba26a97dec106269_720p
 
