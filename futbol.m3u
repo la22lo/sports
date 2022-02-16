@@ -6,14 +6,20 @@ http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 #EXTINF:-1, BT SPORT 2
 https://dmj9db4enxaf6.cloudfront.net:443/stream/Mjg3NA==/1080p.m3u8?P135
 
-#EXTINF:-1, BEIN SPORT 1 PREMIUM
-https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/m4CF7inuE7wHiatcWFcPOSFjJCPYBI05m6rBlMlH1a6W7fRoJ7itMgaxlJRtPocHqA3IgyX-DD5Bk7N5IomuLw/non_transcode/us-west-2/periscope-replay-direct-prod-eu-west-3-public/dynamic_highlatency.m3u8?type=live
-
 #EXTINF:-1, BT SPORT 3
 https://d3rwour00l8w6d.cloudfront.net:443/stream/Mjg3NQ==/1080p.m3u8?P135
 
+#EXTINF:-1, BEIN SPORT 1 PREMIUM
+https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/m4CF7inuE7wHiatcWFcPOSFjJCPYBI05m6rBlMlH1a6W7fRoJ7itMgaxlJRtPocHqA3IgyX-DD5Bk7N5IomuLw/non_transcode/us-west-2/periscope-replay-direct-prod-eu-west-3-public/dynamic_highlatency.m3u8?type=live
+
+#EXTINF:-1, BEIN SPORT 2 PREMIUM
+https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/R9ohIjomQjmW_g8nAo05-i1Cn-dy-yu2pE5Qc5q0DemJV-sNOl2qOdhQ4zWLHpHLZLUdLsg-Bb-qyjHjuH0x2w/non_transcode/us-west-2/periscope-replay-direct-prod-eu-west-1-public/dynamic_highlatency.m3u8?type=live
+
 #EXTINF:-1, FOX SPORTS
 https://edge-live32-hr.cvattv.com.ar//live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8?SBN
+
+#EXTINF:-1, FOX SPORTS PREMIUM
+https://vod.livestreamapis.com/620fef32_7e6a2058afc5094864ab4362c21f63012a9556de/events/000000000093e016/7eef53c1-668e-424f-8f38-9b23e41e220a_2756.m3u8
 
 #EXTINF:-1, TNT SPORTS
 http://user.tvcluboficial.com/stream/free_Admin_Look/kG0/179.m3u8
