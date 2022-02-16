@@ -1314,5 +1314,23 @@ http://cro.hockeynews.club/live/2/chunks.m3u8
 #EXTINF:-1, SuperSport LaLiga
 http://shareext@urtv.cc:80/live/titi3/titi3/6575.ts?Shareext.ts
 
+#EXTINF:-1, LOOK_PLUS
+http://televizoro.tk:25461/roforum.net/roforum.net/16711
+
+#EXTINF:-1, lookSport1
+http://televizoro.tk:25461/roforum.net/roforum.net/16712
+
+#EXTINF:-1, lookSport2
+http://televizoro.tk:25461/roforum.net/roforum.net/16713
+
+#EXTINF:-1, lookSport3
+http://televizoro.tk:25461/roforum.net/roforum.net/16714
+
+#EXTINF:-1, LOOKSPORT PLUS
+http://televizoro.tk:25461/roforum.net/roforum.net/18174
+
+#EXTINF:-1, LOOKSPORT
+http://televizoro.tk:25461/roforum.net/roforum.net/18175
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
