@@ -375,6 +375,36 @@ https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?mvk
 #EXTINF:-1,LOOK SPORT + 🇷🇴
 https://stream1.1616.ro:1945/look/livestream/chunklist.m3u8?mvk
 
+#EXTINF:-1, LOOK_PLUS 🇷🇴
+http://televizoro.tk:25461/roforum.net/roforum.net/16711
+
+#EXTINF:-1, lookSport1 🇷🇴
+http://televizoro.tk:25461/roforum.net/roforum.net/16712
+
+#EXTINF:-1, lookSport2 🇷🇴
+http://televizoro.tk:25461/roforum.net/roforum.net/16713
+
+#EXTINF:-1, lookSport3 🇷🇴
+http://televizoro.tk:25461/roforum.net/roforum.net/16714
+
+#EXTINF:-1, LOOKSPORT PLUS 🇷🇴
+http://televizoro.tk:25461/roforum.net/roforum.net/18174
+
+#EXTINF:-1, LOOKSPORT 🇷🇴
+http://televizoro.tk:25461/roforum.net/roforum.net/18175
+
+#EXTINF:-1, DIGISPORT1 🇷🇴
+http://televizoro.tk:25461/roforum.net/roforum.net/18193
+
+#EXTINF:-1, DIGISPORT2 🇷🇴
+http://televizoro.tk:25461/roforum.net/roforum.net/18194
+
+#EXTINF:-1, DIGISPORT3 🇷🇴
+http://televizoro.tk:25461/roforum.net/roforum.net/18195
+
+#EXTINF:-1, DIGISPORT4 🇷🇴
+http://televizoro.tk:25461/roforum.net/roforum.net/18196
+
 #EXTINF:-1, Adjarasport 1 🇬🇪
 https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
 
@@ -1311,38 +1341,17 @@ http://77.247.109.111/hls/T1.m3u8
 #EXTINF:-1, S PREMIER
 http://cro.hockeynews.club/live/2/chunks.m3u8
 
-#EXTINF:-1, SuperSport LaLiga
-http://shareext@urtv.cc:80/live/titi3/titi3/6575.ts?Shareext.ts
+#EXTINF:-1, TELEKOMSPORT1 HD(On-Demand)
+http://televizoro.tk:25461/roforum.net/roforum.net/18199
 
-#EXTINF:-1, LOOK_PLUS
-http://televizoro.tk:25461/roforum.net/roforum.net/16711
+#EXTINF:-1, TELEKOMSPORT2 HD(On-Demand)
+http://televizoro.tk:25461/roforum.net/roforum.net/18200
 
-#EXTINF:-1, lookSport1
-http://televizoro.tk:25461/roforum.net/roforum.net/16712
+#EXTINF:-1, TELEKOMSPORT3 HD(On-Demand)
+http://televizoro.tk:25461/roforum.net/roforum.net/18201
 
-#EXTINF:-1, lookSport2
-http://televizoro.tk:25461/roforum.net/roforum.net/16713
-
-#EXTINF:-1, lookSport3
-http://televizoro.tk:25461/roforum.net/roforum.net/16714
-
-#EXTINF:-1, LOOKSPORT PLUS
-http://televizoro.tk:25461/roforum.net/roforum.net/18174
-
-#EXTINF:-1, LOOKSPORT
-http://televizoro.tk:25461/roforum.net/roforum.net/18175
-
-#EXTINF:-1, DIGISPORT1
-http://televizoro.tk:25461/roforum.net/roforum.net/18193
-
-#EXTINF:-1, DIGISPORT2
-http://televizoro.tk:25461/roforum.net/roforum.net/18194
-
-#EXTINF:-1, DIGISPORT3
-http://televizoro.tk:25461/roforum.net/roforum.net/18195
-
-#EXTINF:-1, DIGISPORT4
-http://televizoro.tk:25461/roforum.net/roforum.net/18196
+#EXTINF:-1, TELEKOMSPORT4 HD(On-Demand)
+http://televizoro.tk:25461/roforum.net/roforum.net/18202
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
