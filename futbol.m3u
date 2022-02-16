@@ -45,6 +45,9 @@ http://shareext@urtv.cc:80/live/titi3/titi3/6575.ts?Shareext.ts
 #EXTINF:-1,Eleven Sports 3 (PT) 🇵🇹
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleven_Sports_3_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
+#EXTINF:-1,Eleven Sports 3 (PT)
+https://per@da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleven_Sports_3_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇹
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
@@ -53,6 +56,12 @@ https://liv11octptsp.stblauncher.com/live/6643_.m3u8?token=bcc65a1fb3974adeaa616
 
 #EXTINF:-1, LaLiga TV 🇬🇧
 https://d3rwour00l8w6d.cloudfront.net/stream/Mjg3Mw==/1080p.m3u8?P135
+
+#EXTINF:-1, LaLiga TV
+http://livehls.ltjuq.top/ofmatch/HD220946.m3u8?auth_key=1645034825-3a8cbf08ddcd2a4837b08264050016ee-0-113f4faa6ff440725ddaa79c7b96f140
+
+#EXTINF:-1, FUTPLAY
+https://live.brimecdn.com/live/RYeoa5sPzQCNIP9E6zQ8/chunks.m3u8
 
 #EXTINF:-1, beIN SPORTS English 2 🇬🇧
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
@@ -74,6 +83,9 @@ https://bal.varcdn1.ru/lb/setanta1/index.m3u8?per
 
 #EXTINF:-1,SETANTA 2 🇷🇺
 https://bal.varcdn1.ru/lb/setanta2/index.m3u8
+
+#EXTINF:-1,SETANTA 2 🇷🇺
+https://srv03.varcdn1.ru/setanta2/index.m3u8?per
 
 #EXTINF:-1, DAZN 1 ALEMANIA 🇩🇪
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/190
