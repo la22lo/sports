@@ -1332,5 +1332,17 @@ http://televizoro.tk:25461/roforum.net/roforum.net/18174
 #EXTINF:-1, LOOKSPORT
 http://televizoro.tk:25461/roforum.net/roforum.net/18175
 
+#EXTINF:-1, DIGISPORT1
+http://televizoro.tk:25461/roforum.net/roforum.net/18193
+
+#EXTINF:-1, DIGISPORT2
+http://televizoro.tk:25461/roforum.net/roforum.net/18194
+
+#EXTINF:-1, DIGISPORT3
+http://televizoro.tk:25461/roforum.net/roforum.net/18195
+
+#EXTINF:-1, DIGISPORT4
+http://televizoro.tk:25461/roforum.net/roforum.net/18196
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
