@@ -1,10 +1,26 @@
 #EXTM3U
 
+#EXTINF:-1, ESPN VIVO
+http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8?P135
+
+#EXTINF:-1, BT SPORT 2
+https://dmj9db4enxaf6.cloudfront.net:443/stream/Mjg3NA==/1080p.m3u8?P135
+
+
+#EXTINF:-1, BT SPORT 3
+https://d3rwour00l8w6d.cloudfront.net:443/stream/Mjg3NQ==/1080p.m3u8?P135
+
 #EXTINF:-1, FOX SPORTS
 https://edge-live32-hr.cvattv.com.ar//live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8?SBN
 
 #EXTINF:-1, TNT SPORTS
 http://user.tvcluboficial.com/stream/free_Admin_Look/kG0/179.m3u8
+
+#EXTINF:-1, BT SPORT
+http://45.134.21.199/hls/S2.m3u8?P135
+
+#EXTINF:-1, BT SPORT
+http://45.134.21.199/hls/S3.m3u8?P135
 
 #EXTINF:-1, MOVISTAR LIGA CAMPEONES
 http://ultra-premium-pro.xyz:8080/ROLANDO/ROLANDO1/38065
