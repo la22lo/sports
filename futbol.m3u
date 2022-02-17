@@ -6,6 +6,9 @@ https://d2qwphv73v6lkm.cloudfront.net/stream/Mjg5NQ==/1080p.m3u8?per
 #EXTINF:-1, UEFA
 http://45.134.21.199/hls/S1.m3u8?per
 
+#EXTINF:-1, BEIN TRUE SPORT
+https://www.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8?per
+
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇹
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
