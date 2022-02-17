@@ -3,6 +3,9 @@
 #EXTINF:-1, ESPN VIVO
 https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/iL1vCQnzaqSsn9yir82tG3HXxeLZ6X-PhcE_108nV7qn2xo6eg5KWYDqNyqFNQbjbpxPoiLMPGxdRtG-KvdwdA/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
 
+#EXTINF:-1, ADJARASPORT 1
+https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
+
 #EXTINF:-1, BT SPORT ESPN
 https://d2qwphv73v6lkm.cloudfront.net/stream/Mjg5NQ==/1080p.m3u8?per
 
