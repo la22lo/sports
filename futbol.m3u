@@ -111,6 +111,9 @@ http://clubtv.link/f15/lista2.php?c=3234
 #EXTINF:-1, FOX Sports 3 🇦🇷
 http://45.160.73.129:8888/play/a00t/index.m3u8
 
+#EXTINF:-1, FOX Sports SUR 🇦🇷
+https://lnc-fox-sports-espanol.tubi.video/index_4.m3u8
+
 #EXTINF:-1, DirecTV Sports 🇦🇷
 http://clubtv.link/f15/lista2.php?c=3246
 
