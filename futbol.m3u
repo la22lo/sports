@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, BT SPORT
-http://45.134.21.199/hls/S2.m3u8?P135
-
-#EXTINF:-1, BT SPORT
-http://45.134.21.199/hls/S3.m3u8?P135
-
 #EXTINF:-1, MOVISTAR LIGA CAMPEONES
 http://ultra-premium-pro.xyz:8080/ROLANDO/ROLANDO1/38065
 
@@ -1361,6 +1355,12 @@ http://185.53.89.183/hls/ssla.m3u8?SBN
 
 #EXTINF:-1, LALIGATV
 http://77.247.109.111/hls/T1.m3u8
+
+#EXTINF:-1, BT SPORT
+http://45.134.21.199/hls/S2.m3u8?P135
+
+#EXTINF:-1, BT SPORT
+http://45.134.21.199/hls/S3.m3u8?P135
 
 #EXTINF:-1, S PREMIER
 http://cro.hockeynews.club/live/2/chunks.m3u8
