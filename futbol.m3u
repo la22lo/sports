@@ -393,6 +393,9 @@ http://5.178.129.16/adjarasport_live/LiveTV/mono.m3u8
 #EXTINF:-1, Adjarasport 2 🇬🇪
 https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8
 
+#EXTINF:-1, Adjarasport 2 🇬🇪
+http://5.178.129.16/adjarasport_live/LiveTV2/mono.m3u8
+
 #EXTINF:-1, ZIGGO VOETBAL 🇳🇱
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/3716
 
