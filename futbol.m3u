@@ -6,12 +6,6 @@ https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
 #EXTINF:-1, ADJARASPORT 1
 http://5.178.129.16/adjarasport_live/LiveTV/mono.m3u8
 
-#EXTINF:-1, BT SPORT ESPN
-https://d2qwphv73v6lkm.cloudfront.net/stream/Mjg5NQ==/1080p.m3u8?per
-
-#EXTINF:-1, UEFA
-http://45.134.21.199/hls/S1.m3u8?per
-
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇹
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
