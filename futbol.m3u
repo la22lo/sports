@@ -510,9 +510,6 @@ https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF:-1,True Sport HD2 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
 
-#EXTINF:-1,True Visions 7 🇹🇭
-https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
-
 #EXTINF:-1, SuperSport PSL 🇬🇧
 https://free.one24tv.com:443/live/94791643436715/94791643436715/15205.ts
 
@@ -557,21 +554,6 @@ http://15.235.142.228:8080/live/hometv/premium/6.ts
 
 #EXTINF:-1, Supersport Variety 2 🇬🇧
 http://15.235.142.228:8080/live/hometv/premium/7.ts
-
-#EXTINF:-1, SPORTTV 1 🇵🇹
-https://www.wopep.com/02_SPORTTV_1_720p/chunklist.m3u8
-
-#EXTINF:-1, SPORTTV 2 🇵🇹
-https://www.wopep.com/02_SPORTTV_2_720p/chunklist.m3u8
-
-#EXTINF:-1, SPORTTV 3 🇵🇹
-https://www.wopep.com/02_SPORTTV_3_720p/chunklist.m3u8
-
-#EXTINF:-1, SPORTTV 4 🇵🇹
-https://www.wopep.com/02_SPORTTV_4_720p/chunklist.m3u8
-
-#EXTINF:-1, SPORTTV 5 🇵🇹
-https://www.wopep.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1, SPORTTV 1 🇵🇹
 https://liv11octptsp.stblauncher.com/live/4271_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
