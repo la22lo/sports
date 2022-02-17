@@ -3,9 +3,6 @@
 #EXTINF:-1, ADJARASPORT 1
 https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
 
-#EXTINF:-1, ADJARASPORT 1
-http://5.178.129.16/adjarasport_live/LiveTV/mono.m3u8
-
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇹
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
@@ -380,6 +377,9 @@ http://televizoro.tk:25461/roforum.net/roforum.net/18202
 
 #EXTINF:-1, Adjarasport 1 🇬🇪
 https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
+
+#EXTINF:-1, ADJARASPORT 1
+http://5.178.129.16/adjarasport_live/LiveTV/mono.m3u8
 
 #EXTINF:-1, Adjarasport 2 🇬🇪
 https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8
