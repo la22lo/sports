@@ -1,41 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, ESPN VIVO
-http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8?P135
-
-#EXTINF:-1, TV MAX
-https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_2/chunklist_dvr.m3u8
-
-#EXTINF:-1, ESPN VIVO
-http://edge7-ccast-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
-
-#EXTINF:-1, BT SPORT 2
-https://dmj9db4enxaf6.cloudfront.net:443/stream/Mjg3NA==/1080p.m3u8?P135
-
-#EXTINF:-1, BT SPORT 2
-https://dmj9db4enxaf6.cloudfront.net/stream/Mjg3NA==/1080p.m3u8
-
-#EXTINF:-1, BT SPORT 3
-https://d3rwour00l8w6d.cloudfront.net:443/stream/Mjg3NQ==/1080p.m3u8?P135
-
-#EXTINF:-1, BT SPORT 3
-https://d3rwour00l8w6d.cloudfront.net/stream/Mjg3NQ==/1080p.m3u8
-
-#EXTINF:-1, BEIN SPORT 1 PREMIUM
-https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/m4CF7inuE7wHiatcWFcPOSFjJCPYBI05m6rBlMlH1a6W7fRoJ7itMgaxlJRtPocHqA3IgyX-DD5Bk7N5IomuLw/non_transcode/us-west-2/periscope-replay-direct-prod-eu-west-3-public/dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1, BEIN SPORT 1 PREMIUM
-https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/m4CF7inuE7wHiatcWFcPOSFjJCPYBI05m6rBlMlH1a6W7fRoJ7itMgaxlJRtPocHqA3IgyX-DD5Bk7N5IomuLw/non_transcode/us-west-2/periscope-replay-direct-prod-eu-west-3-public/dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1, BEIN SPORT 2 PREMIUM
-https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/R9ohIjomQjmW_g8nAo05-i1Cn-dy-yu2pE5Qc5q0DemJV-sNOl2qOdhQ4zWLHpHLZLUdLsg-Bb-qyjHjuH0x2w/non_transcode/us-west-2/periscope-replay-direct-prod-eu-west-1-public/dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1,Eleven Sports 1
-https://per@da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
-
-#EXTINF:-1,Eleven Sports 2
-https://per@da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
-
 #EXTINF:-1, BEIN SPORT 1 TRUE VISIONS
 https://www.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
 
@@ -159,6 +123,9 @@ http://clubtv.link/f15/lista2.php?c=3231
 #EXTINF:-1, ESPN 3 🇦🇷
 http://clubtv.link/f15/lista2.php?c=3232
 
+#EXTINF:-1, ESPN VIVO 🇦🇷
+http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8?P135
+
 #EXTINF:-1, FOX Sports 🇦🇷
 http://clubtv.link/f15/lista2.php?c=3233
 
@@ -185,6 +152,9 @@ http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204265
 
 #EXTINF:-1, DirectTV Sports 2 🇦🇷
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/228754
+
+#EXTINF:-1, TV MAX
+https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_2/chunklist_dvr.m3u8
 
 #EXTINF:-1, Bein Sports 3 HD 🇶🇦
 http://api.magiaiptv.com/live/800328/755275/m3_84EEnC2nxXxTmQcJUE1LLnLCqj9_720p
