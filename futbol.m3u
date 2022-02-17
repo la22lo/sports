@@ -1,14 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, MOVISTAR LIGA CAMPEONES
-http://ultra-premium-pro.xyz:8080/ROLANDO/ROLANDO1/38065
-
-#EXTINF:-1, MOVISTAR LIGA CAMPEONES
-http://ultra-premium-pro.xyz:8090/ROLANDO/ROLANDO1/37843
-
-#EXTINF:-1, MOVISTAR LIGA CAMPEONES
-http://soberon.us:25461/live/bullnew/soberonnew/57.m3u8
-
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇹
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
@@ -299,6 +290,9 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
+
+#EXTINF:-1, MOVISTAR LIGA CAMPEONES
+http://soberon.us:25461/live/bullnew/soberonnew/57.m3u8
 
 #EXTINF:-1, Liga Campeones 1ᴴᴰ 🇪🇸
 http://89.249.49.78:8000/play/a0i7
