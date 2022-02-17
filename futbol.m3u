@@ -279,23 +279,11 @@ http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/199
 #EXTINF:-1, DAZN 2 HD 🇪🇸
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1991
 
-#EXTINF:-1 ,Dazn 4 🇪🇸
-http://ultra-premium-pro.xyz:8090/ROLANDO/ROLANDO1/67303
-
-#EXTINF:-1 ,Dazn 3 🇪🇸
-http://ultra-premium-pro.xyz:8090/ROLANDO/ROLANDO1/67302
-
 #EXTINF:-1, DAZN F1 🇪🇸
 http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/chunks.m3u8
 
 #EXTINF:-1, DAZN F1 🇪🇸
 http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/playlist.m3u8
-
-#EXTINF:-1 ,Movistar f1 🇪🇸
-http://ultra-premium-pro.xyz:8080/ROLANDO/ROLANDO1/38140
-
-#EXTINF:-1 ,M. Formula1 🇪🇸
-http://ultra-premium-pro.xyz:8090/ROLANDO/ROLANDO1/38056
 
 #EXTINF:-1, ST☆R+ 1 HD BRA 🇧🇷
 http://api.magiaiptv.com/live/800328/755275/m1_1cd2ba26a97dec106269_720p
@@ -1088,9 +1076,6 @@ http://91.126.141.13:1935/live/91/1800-def.m3u8
 
 #EXTINF:-1, GOL TV 🇪🇸
 http://154.62.74.29:1935/live/gol/playlist.m3u8
-
-#EXTINF:-1, GOL TV 🇪🇸
-http://ultra-premium-pro.xyz:8090/ROLANDO/ROLANDO1/38060
 
 #EXTINF:-1, PALY UD SPORT ESP 🇪🇸
 https://ccdn.fractalmedia.es:9443/live015/stream/live/cudtv/high/index.m3u8
