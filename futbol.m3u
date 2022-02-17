@@ -1,16 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1, ESPN VIVO
+https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/iL1vCQnzaqSsn9yir82tG3HXxeLZ6X-PhcE_108nV7qn2xo6eg5KWYDqNyqFNQbjbpxPoiLMPGxdRtG-KvdwdA/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
+
 #EXTINF:-1, BT SPORT ESPN
 https://d2qwphv73v6lkm.cloudfront.net/stream/Mjg5NQ==/1080p.m3u8?per
 
 #EXTINF:-1, UEFA
 http://45.134.21.199/hls/S1.m3u8?per
-
-#EXTINF:-1, BEIN TRUE SPORT
-https://www.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8?per
-
-#EXTINF:-1, ESPN VIVO
-https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/iL1vCQnzaqSsn9yir82tG3HXxeLZ6X-PhcE_108nV7qn2xo6eg5KWYDqNyqFNQbjbpxPoiLMPGxdRtG-KvdwdA/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇹
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
