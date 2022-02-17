@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, FOX SPORTS
-https://edge-live32-hr.cvattv.com.ar//live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8?SBN
-
 #EXTINF:-1, BT SPORT
 http://45.134.21.199/hls/S2.m3u8?P135
 
