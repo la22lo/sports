@@ -9,6 +9,9 @@ http://api.magiaiptv.com/live/800328/755275/m1_b3LqtPcVf80FH9zmjuIKYaSdNW4_720p
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇹
 https://liv11octptsp.stblauncher.com/live/6643_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 
+#EXTINF:-1, ELEVEN 1 🇵🇹
+http://fortv.cc:8080/christina/christina/78454
+
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇹
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
@@ -54,6 +57,12 @@ http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/189
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/309
 
+#EXTINF:-1, BLUE SPORT 1 🇨🇭
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/124
+
+#EXTINF:-1, BLUE SPORT 2 🇨🇭
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/123
+
 #EXTINF:-1, MOVISTAR LALIGA 2 🇪🇸
 http://89.249.49.78:8000/play/a0i4
 
@@ -84,6 +93,12 @@ http://45.160.73.129:8888/play/a00t/index.m3u8
 #EXTINF:-1, FOX Sports SUR 🇦🇷
 https://lnc-fox-sports-espanol.tubi.video/index_4.m3u8
 
+#EXTINF:-1, DirectTV Sports 🇦🇷
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204265
+
+#EXTINF:-1, DirectTV Sports 2 🇦🇷
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/228754
+
 #EXTINF:-1, DirecTV Sports 🇦🇷
 http://clubtv.link/f15/lista2.php?c=3246
 
@@ -96,13 +111,7 @@ http://clubtv.link/f15/lista2.php?c=3248
 #EXTINF:-1, DIRECTV SPORT 2 🇦🇷
 http://qqtv.nl:8080/live/norma/12345/20311.m3u8
 
-#EXTINF:-1, DirectTV Sports 🇦🇷
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204265
-
-#EXTINF:-1, DirectTV Sports 2 🇦🇷
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/228754
-
-#EXTINF:-1, TV MAX
+#EXTINF:-1, TV MAX 🇦🇷
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_2/chunklist_dvr.m3u8
 
 #EXTINF:-1, Bein Sports 3 HD 🇶🇦
@@ -110,12 +119,6 @@ http://api.magiaiptv.com/live/800328/755275/m3_84EEnC2nxXxTmQcJUE1LLnLCqj9_720p
 
 #EXTINF:-1, Bein Sports 3 HD 🇶🇦
 http://vt.vttpi.com:8000/live/679109957020323/107350873819821/526.ts
-
-#EXTINF:-1, BLUE SPORT 1 🇨🇭
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/124
-
-#EXTINF:-1, BLUE SPORT 2 🇨🇭
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/123
 
 #EXTINF:-1,DUHOK HD 🇮🇶
 http://88.198.32.36:1935/live/Duhok--Sports--HD/chunklist.m3u8
@@ -131,9 +134,6 @@ http://190.2.148.141:8080/bar7667/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, BEIN SPORT 1 TRUE VISIONS 🇹🇭
 https://smart-tv.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8
-
-#EXTINF:-1, BEIN SPORT 1 TRUE VISIONS 🇹🇭
-https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 
 #EXTINF:-1, ESPN BRASIL HD 🇧🇷
 https://liv11octhd.stblauncher.com/live/5907_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
