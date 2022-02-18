@@ -6,11 +6,11 @@ http://vt.vttpi.com:8000/live/679109957020323/107350873819821/524.ts
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://api.magiaiptv.com/live/800328/755275/m1_b3LqtPcVf80FH9zmjuIKYaSdNW4_720p
 
+#EXTINF:-1, nova sports 2 POLONIA 🇵🇱
+http://84.42.140.147:8889/hdmi
+
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇹
 https://liv11octptsp.stblauncher.com/live/6643_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
-
-#EXTINF:-1, ELEVEN 1 🇵🇹
-http://fortv.cc:8080/christina/christina/78454
 
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇹
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
@@ -447,9 +447,6 @@ http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
 #EXTINF:-1, SETANTA SPORT 1 🇷🇺
 http://37.187.28.95:2022/setanta_eurasia_hd/mpegts
 
-#EXTINF:-1, SETANTA SPORT 2 🇷🇺
-http://37.17.12.119:8910/play/a005
-
 #EXTINF:-1, SETANTA SPORT HD LIVE 🇷🇺
 http://95.67.12.179:9001
 
@@ -461,18 +458,6 @@ http://95.67.12.179:9003
 
 #EXTINF:-1, SETANTA SPORT + 🇷🇺
 https://bal.varcdn1.ru/lb/setantasport/index.m3u8
-
-#EXTINF:-1, SETANTA SPORT + 🇷🇺
-https://185-107-80-245.livesports24.online/setantaukraine.m3u8
-
-#EXTINF:-1, SETANTA SPORT UKR 🇺🇦
-https://95-213-172-220.livesports24.online/setantaukraine.m3u8
-
-#EXTINF:-1, BIELORUSIA 5HD 🇧🇾
-https://95-213-224-181.livesports24.online/belarusss5.m3u8
-
-#EXTINF:-1, SETANTA SPORT UKRAINE 🇺🇦
-https://95-213-172-220.livesports24.online/setantaukraine.m3u8
 
 #EXTINF:-1, ARENA SPORT 1 PREMIUM 🇷🇸
 http://46.29.169.15:4001/play/a00g/index.m3u8
@@ -492,9 +477,6 @@ http://46.29.169.15:4001/play/a001/index.m3u8
 #EXTINF:-1, Arena 1
 http://46.29.169.15:4001/play/a002/index.m3u8
 
-#EXTINF:-1, Arena 4
-http://46.29.169.15:4001/play/a005/index.m3u8
-
 #EXTINF:-1, Arena Premium 1
 http://46.29.169.15:4001/play/a00g/index.m3u8
 
@@ -506,39 +488,6 @@ http://46.29.169.15:4001/play/a00i/index.m3u8
 
 #EXTINF:-1, Nova Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
-
-#EXTINF:-1, SuperSport LaLiga 🇬🇧
-http://shareext@urtv.cc:80/live/titi3/titi3/6575.ts?Shareext.ts
-
-#EXTINF:-1, SuperSport Football 🇬🇧
-http://shareext@urtv.cc:80/live/titi3/titi3/6576.ts?Shareext.ts
-
-#EXTINF:-1, BT Sport1 🇬🇧
-http://shareext@urtv.cc:80/live/titi3/titi3/6610.ts?Shareext.ts
-
-#EXTINF:-1, BT Sport2 🇬🇧
-http://shareext@urtv.cc:80/live/titi3/titi3/6611.ts?Shareext.ts
-
-#EXTINF:-1, BT Sport3 🇬🇧
-http://shareext@urtv.cc:80/live/titi3/titi3/6612.ts?Shareext.ts
-
-#EXTINF:-1, SuperSport Variety 1 🇬🇧
-http://shareext@urtv.cc:80/live/titi3/titi3/6577.ts?Shareext.ts
-
-#EXTINF:-1, SuperSport Variety 2 🇬🇧
-http://shareext@urtv.cc:80/live/titi3/titi3/6578.ts?Shareext.ts
-
-#EXTINF:-1, SuperSport Variety 3 🇬🇧
-http://shareext@urtv.cc:80/live/titi3/titi3/6579.ts?Shareext.ts
-
-#EXTINF:-1, SuperSport Variety 4 🇬🇧
-http://shareext@urtv.cc:80/live/titi3/titi3/6580.ts?Shareext.ts
-
-#EXTINF:-1, Supersport Blitz 🇬🇧
-http://shareext@urtv.cc:80/live/titi3/titi3/6584.ts?Shareext.ts
-
-#EXTINF:-1, SuperSport MáXimo 🇬🇧
-http://shareext@urtv.cc:80/live/titi3/titi3/6585.ts?Shareext.ts
 
 #EXTINF:-1, FOX SOCCER PLUS 🇬🇧
 http://134.19.182.131:8080/pdgfb78bc33b911096c_2.m3u8?m=D60POeH1SPpZzFWw2CirWQ&c=fb78bc33b911096c&p=3138352e3132382e36302e31&e=1644976155
@@ -581,27 +530,6 @@ https://free.one24tv.com:443/live/94791643436715/94791643436715/15209.ts
 
 #EXTINF:-1, SuperSport Grandstand 🇬🇧
 https://free.one24tv.com:443/live/94791643436715/94791643436715/15208.ts
-
-#EXTINF:-1, Supersport Jadwal 🇬🇧
-http://15.235.142.228:8080/live/hometv/premium/1.ts
-
-#EXTINF:-1, Supersport Premier League 🇬🇧
-http://15.235.142.228:8080/live/hometv/premium/2.ts
-
-#EXTINF:-1, Supersport LALIGA 🇬🇧
-http://15.235.142.228:8080/live/hometv/premium/3.ts
-
-#EXTINF:-1, Supersport FOOTBALL 🇬🇧
-http://15.235.142.228:8080/live/hometv/premium/4.ts
-
-#EXTINF:-1, Supersport PSL 🇬🇧
-http://15.235.142.228:8080/live/hometv/premium/5.ts
-
-#EXTINF:-1, Supersport Variety 3 🇬🇧
-http://15.235.142.228:8080/live/hometv/premium/6.ts
-
-#EXTINF:-1, Supersport Variety 2 🇬🇧
-http://15.235.142.228:8080/live/hometv/premium/7.ts
 
 #EXTINF:-1, SPORTTV 1 🇵🇹
 https://liv11octptsp.stblauncher.com/live/4271_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
