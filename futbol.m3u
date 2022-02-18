@@ -6,9 +6,6 @@ http://vt.vttpi.com:8000/live/679109957020323/107350873819821/524.ts
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://api.magiaiptv.com/live/800328/755275/m1_b3LqtPcVf80FH9zmjuIKYaSdNW4_720p
 
-#EXTINF:-1, nova sports 2 POLONIA 🇵🇱
-http://84.42.140.147:8889/hdmi
-
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇹
 https://liv11octptsp.stblauncher.com/live/6643_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 
@@ -459,6 +456,9 @@ http://95.67.12.179:9003
 #EXTINF:-1, SETANTA SPORT + 🇷🇺
 https://bal.varcdn1.ru/lb/setantasport/index.m3u8
 
+#EXTINF:-1, BELARUS 5 🇧🇾
+http://bal.varcdn1.ru/lb/b5/index.m3u8
+
 #EXTINF:-1, ARENA SPORT 1 PREMIUM 🇷🇸
 http://46.29.169.15:4001/play/a00g/index.m3u8
 
@@ -621,36 +621,6 @@ http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1, CANAL CHINO 6 CCTV5+Sport 🇨🇳
 http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 
-#EXTINF:-1, PPTV ASIA 🇨🇳
-https://smart-tv.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
-
-#EXTINF:-1,Astro SuperSport HD 🇲🇾
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170834
-
-#EXTINF:-1,Astro SuperSport 2 HD 🇲🇾
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170831
-
-#EXTINF:-1,Astro SuperSport 3 HD 🇲🇾
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170832
-
-#EXTINF:-1,Astro SuperSport 4 HD 🇲🇾
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170833
-
-#EXTINF:-1,astro supersport 1 🇲🇾
-http://vo01.mohdtv.com:8880/ALLChannels4459E384540F/39815544/1722
-
-#EXTINF:-1,astro supersport 2 🇲🇾
-http://vo01.mohdtv.com:8880/ALLChannels4459E384540F/39815544/1721
-
-#EXTINF:-1,astro supersport 3 🇲🇾
-http://vo01.mohdtv.com:8880/ALLChannels4459E384540F/39815544/1720
-
-#EXTINF:-1,astro supersport 4 🇲🇾
-http://vo01.mohdtv.com:8880/ALLChannels4459E384540F/39815544/1719
-
-#EXTINF:-1,astro arena 🇲🇾
-http://vo01.mohdtv.com:8880/ALLChannels4459E384540F/39815544/71102
-
 #EXTINF:-1,TVONE 🇲🇾
 http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
 
@@ -659,9 +629,6 @@ http://210.210.155.35/session/f5cd353c-0131-11ec-b286-abca8519aa62/qwr9ew/s/s105
 
 #EXTINF:-1, SSC1 🇦🇪
 https://ssc-5-ak.akamaized.net:443/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index_3.m3u8
-
-#EXTINF:-1, TNT SPORTS
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
 #EXTINF:-1, ELEVEN SPORT 2
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
@@ -684,9 +651,6 @@ https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2f
 #EXTINF:-1, МАТЧ! 🇷🇺
 https://77-247-178-24.livesports24.online/ntvmatchfoot1.m3u8
 
-#EXTINF:-1, VARCHAT 5 🇧🇾
-http://bal.varcdn1.ru/lb/b5/index.m3u8
-
 #EXTINF:-1, Premier Football HD 1 (TH) 🇹🇭
 https://smart-tv.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
 
@@ -695,9 +659,6 @@ https://smart-tv.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8
 
 #EXTINF:-1, Live Sports (pk) 🇵🇱
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
-
-#EXTINF:-1, TNT SPORTS arg
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 #EXTINF:-1,EUROSPORT 1 🇪🇸
 http://185.41.244.69/eurosport1/tracks-v2a1a2/mono.m3u8
@@ -750,12 +711,6 @@ https://mn-nl.mncdn.com/blutv_trt1_dvr/live.m3u8
 #EXTINF:-1,TRT 2 🇹🇷
 https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
 
-#EXTINF:-1, A SPOR FHD 🇹🇷
-https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
-
-#EXTINF:-1, A SPORT CANLI 🇹🇷
-https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
-
 #EXTINF:-1, SPORTV TUR 🇹🇷
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 
@@ -783,6 +738,18 @@ http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 #EXTINF:-1, FOX SPORTS PREMIUM 🇦🇷
 https://vod.livestreamapis.com/620fef32_7e6a2058afc5094864ab4362c21f63012a9556de/events/000000000093e016/7eef53c1-668e-424f-8f38-9b23e41e220a_2756.m3u8
 
+#EXTINF:-1, TNT SPORTS 🇦🇷
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
+#EXTINF:-1, TyC SPORT 🇦🇷
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+
+#EXTINF:-1, TyC SPORT 🇦🇷
+https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_15.m3u8
+
+#EXTINF:-1,CABLE SPORTS 🇦🇷
+https://tv.siete.us/bestcablesports/bestcablesports/index.m3u8
+
 #EXTINF:-1, ESPN HD MEX
 http://qqtv.nl:8080/live/norma/12345/7913.m3u8
 
@@ -807,20 +774,14 @@ https://liv11octhd.stblauncher.com/live/5927_.m3u8?token=bcc65a1fb3974adeaa616e5
 #EXTINF:-1, FOX SPORTS HD 2 BRASIL 🇧🇷
 https://liv11octhd.stblauncher.com/live/5924_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 
-#EXTINF:-1, TNT SPORTS
+#EXTINF:-1, TNT SPORTS 🇧🇷
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-
-#EXTINF:-1, TyC SPORT
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
-
-#EXTINF:-1, TyC SPORT
-https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_15.m3u8
-
-#EXTINF:-1,CABLE SPORTS
-https://tv.siete.us/bestcablesports/bestcablesports/index.m3u8
 
 #EXTINF:-1, ESPORTE INTERACTIVO 🇧🇷
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
+#EXTINF:-1, ESPORTE INTERACTIVO 🇧🇷
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
 #EXTINF:-1, BAND Sports 🇧🇷
 http://cdn.connectbr.com.br/BandSports/tracks-v1a1/mono.m3u8
@@ -918,9 +879,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1, SPOTV 1
 https://smart-tv.livedoomovie.com:4431/02_foxsport_720p/chunklist.m3u8
 
-#EXTINF:-1, SPOTV 1
-http://15.235.142.228:8080/live/hometv/premium/72.ts
-
 #EXTINF:-1, SPOTV 2
 https://smart-tv.livedoomovie.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8
 
@@ -932,12 +890,6 @@ https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 
 #EXTINF:-1, KTB SPORTS 🇸🇦
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
-
-#EXTINF:-1, KTV Sport FHD
-http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243897
-
-#EXTINF:-1, KTV Sport Plus TV FHD
-http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243896
 
 #EXTINF:-1,DUBAI SPORTS 3 FHD 🇸🇦
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby
@@ -956,18 +908,6 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m
 
 #EXTINF:-1, YAS 🇸🇦
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
-
-#EXTINF:-1, KSA SPORTS 1 HD 🇸🇦
-http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243761
-
-#EXTINF:-1, KSA SPORTS 2 HD 🇸🇦
-http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243760
-
-#EXTINF:-1, KSA SPORTS 3 HD 🇸🇦
-http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243759
-
-#EXTINF:-1, KSA SPORTS 4 HD 🇸🇦
-http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243758
 
 #EXTINF:-1, FootballHub
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
