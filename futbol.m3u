@@ -699,6 +699,27 @@ http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_
 #EXTINF:-1, ARAB CHANNEL 1 🇸🇦
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
+#EXTINF:0, BEINTK: BEiN SPORT HABER HD 🇹🇷		
+http://cctv-port.com:8080/live/rbTm8c/AP63KqxQ6N/529604.m3u8
+
+#EXTINF:0, BEINTK: BEIN SPORTS 1 HD	🇹🇷
+http://cctv-port.com:8080/live/rbTm8c/AP63KqxQ6N/529598.m3u8
+
+#EXTINF:0, BEINTK: BEIN SPORTS 2 HD	🇹🇷
+http://cctv-port.com:8080/live/rbTm8c/AP63KqxQ6N/529599.m3u8
+
+#EXTINF:0, BEINTK: BEIN SPORTS 3 HD	🇹🇷
+http://cctv-port.com:8080/live/rbTm8c/AP63KqxQ6N/529600.m3u8
+
+#EXTINF:0, BEINTK: BEIN SPORTS 4 HD	🇹🇷
+http://cctv-port.com:8080/live/rbTm8c/AP63KqxQ6N/529601.m3u8
+
+#EXTINF:0, BEINTK: BEIN SPORTS MAX 1 HD	🇹🇷
+http://cctv-port.com:8080/live/rbTm8c/AP63KqxQ6N/529602.m3u8
+
+#EXTINF:0, BEINTK: BEIN SPORTS MAX 2 HD	🇹🇷
+http://cctv-port.com:8080/live/rbTm8c/AP63KqxQ6N/529603.m3u8
+
 #EXTINF:-1, TIVIBU SPOR 🇹🇷
 http://istanbul.tvizlehd.com/live/tivibuspor.m3u8
 
