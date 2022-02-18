@@ -456,6 +456,30 @@ http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8?
 #EXTINF:-1, RTK1 ALBANIA
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
 
+#EXTINF:-1, SETANTA SPORT HD 🇷🇺
+http://185.140.187.67:8085/udp/238.2.5.154:1234
+
+#EXTINF:-1, SETANTA SPORT HD1 🇷🇺
+http://185.140.187.67:8085/udp/238.2.19.174:1234
+
+#EXTINF:-1, SETANTA SPORT HD2 🇷🇺
+http://185.140.187.67:8085/udp/238.2.19.175:1234
+
+#EXTINF:-1,CФУТБOЛ 1HD 🇷🇺
+http://185.140.187.67:8085/udp/238.2.17.4:1234
+
+#EXTINF:-1, ФУТБOЛ 2HD 🇷🇺
+http://185.140.187.67:8085/udp/238.2.17.15:1234
+
+#EXTINF:-1, ФУТБOЛ 3HD 🇷🇺
+http://185.140.187.67:8085/udp/238.2.17.73:1234
+
+#EXTINF:-1, ФУТБOЛ 1HD 🇷🇺
+http://185.140.187.67:8085/udp/238.2.19.188:1234
+
+#EXTINF:-1, ФУТБOЛ 2HD 🇷🇺
+http://185.140.187.67:8085/udp/238.2.19.189:1234
+
 #EXTINF:-1, SETANTA SPORT 1 🇷🇺
 http://37.187.28.95:2022/setanta_eurasia_hd/mpegts
 
