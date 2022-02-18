@@ -1569,26 +1569,5 @@ http://45.134.21.199/hls/S3.m3u8?P135
 #EXTINF:-1, S PREMIER
 http://cro.hockeynews.club/live/2/chunks.m3u8
 
-#EXTINF:-1, beIN Sports 1 4K 🇶🇦
-http://speeder.live:8080/starmahdy79/0941416146DHZ/101148?checkedby:Samir_Sat%20El%20Eulma
-
-#EXTINF:-1, beIN Sports 1 ULTRA 4K 🇶🇦
-http://speeder.live:8080/starmahdy79/0941416146DHZ/50555?checkedby:Samir_Sat%20El%20Eulma
-
-#EXTINF:-1, beIN Sports 1 4K 🇶🇦
-http://speeder.live:8080/starmahdy79/0941416146DHZ/101148?checkedby:Samir_Sat%20El%20Eulma
-
-#EXTINF:-1, beIN Sports 2 4K 🇶🇦
-http://speeder.live:8080/starmahdy79/0941416146DHZ/101149?checkedby:Samir_Sat%20El%20Eulma
-
-#EXTINF:-1, beIN Sports 3 4K 🇶🇦
-http://speeder.live:8080/starmahdy79/0941416146DHZ/101150?checkedby:Samir_Sat%20El%20Eulma
-
-#EXTINF:-1, beIN Sports 4 4K 🇶🇦
-http://speeder.live:8080/starmahdy79/0941416146DHZ/101151?checkedby:Samir_Sat%20El%20Eulma
-
-#EXTINF:-1, beIN Sports 5 4K 🇶🇦
-http://speeder.live:8080/starmahdy79/0941416146DHZ/101152?checkedby:Samir_Sat%20El%20Eulma
-
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
