@@ -432,6 +432,9 @@ https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
 #EXTINF:-1, ADJARASPORT 1 🇬🇪
 http://5.178.129.16/adjarasport_live/LiveTV/mono.m3u8
 
+#EXTINF:-1, ADJARASPORT 1 🇬🇪
+http://matiasstornini00.shortcm.li:80/ch2.m3u8
+
 #EXTINF:-1, Adjarasport 2 🇬🇪
 https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8
 
@@ -583,6 +586,9 @@ https://free.one24tv.com:443/live/94791643436715/94791643436715/15209.ts
 https://free.one24tv.com:443/live/94791643436715/94791643436715/15208.ts
 
 #EXTINF:-1, SPORTTV 1 🇵🇹
+http://93.152.174.144:4000/play/sporttv1/index.m3u8
+
+#EXTINF:-1, SPORTTV 1 🇵🇹
 https://liv11octptsp.stblauncher.com/live/4271_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 
 #EXTINF:-1, SPORTTV 2 🇵🇹
@@ -626,6 +632,9 @@ https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
 
 #EXTINF:-1, SPORT.TV5 HD 🇵🇹
 https://smart-tv.livedoomovie.com:4431/02_SPORTTV_5_720p/chunklist.m3u8
+
+#EXTINF:-1, ELEVEN SPORT 2 POLONIA 🇵🇱
+http://185.204.32.49:6735/UltraNetS6/stream/playlist.m3u8
 
 #EXTINF:-1, LOOK SPORTS HD 🇷🇴
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&checkedby:iptvcat.com
