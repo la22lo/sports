@@ -645,6 +645,21 @@ http://api.magiaiptv.com/live/800328/755275/m3_FZukotDQWYstv2_1080p
 #EXTINF:-1, Sport TV 5 🇵🇹
 http://api.magiaiptv.com/live/800328/755275/m3_L4QIjJorwjstv5_1080p
 
+#EXTINF:-1, SPORTTV 1 🇵🇹
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:-1, SPORT.TV2 HD 🇵🇹
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1, SPORT.TV3 HD 🇵🇹
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8
+
+#EXTINF:-1, SPORT.TV4 HD 🇵🇹
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
+
+#EXTINF:-1, SPORT.TV5 HD 🇵🇹
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_5_720p/chunklist.m3u8
+
 #EXTINF:-1, LOOK SPORTS HD 🇷🇴
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&checkedby:iptvcat.com
 
