@@ -699,6 +699,9 @@ https://bal.varcdn1.ru/lb/setantasport/index.m3u8
 #EXTINF:-1, BELARUS 5 🇧🇾
 http://bal.varcdn1.ru/lb/b5/index.m3u8
 
+#EXTINF:-1, BELARUS 5 🇧🇾
+http://51.68.191.31:1212/219/video.m3u8?token=X3ea770e83
+
 #EXTINF:-1, ARENA SPORT 1 PREMIUM 🇷🇸
 http://46.29.169.15:4001/play/a00g/index.m3u8
 
