@@ -642,10 +642,10 @@ http://185.184.192.166/RMC1/mpegts
 #EXTINF:-1, RMC SPORT 2 HD 🇫🇷
 http://185.184.192.166/RMC2/mpegts
 
-#EXTINF:-1, RTK1 KOSOVO
+#EXTINF:-1, RTK1 KOSOVO 🇽🇰
 http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8?
 
-#EXTINF:-1, RTK1 ALBANIA
+#EXTINF:-1, RTK1 ALBANIA 🇦🇱
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
 
 #EXTINF:-1, SETANTA SPORT HD 🇷🇺
@@ -738,16 +738,16 @@ http://194.15.225.98:8000/play/a2qt
 #EXTINF:-1, SK 3 HD Croacia 🇭🇷
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/44694
 
-#EXTINF:-1, Arena 1
+#EXTINF:-1, Arena 1 🇷🇸
 http://46.29.169.15:4001/play/a002/index.m3u8
 
-#EXTINF:-1, Arena Premium 1
+#EXTINF:-1, Arena Premium 1 🇷🇸
 http://46.29.169.15:4001/play/a00g/index.m3u8
 
-#EXTINF:-1, Arena Premium 2
+#EXTINF:-1, Arena Premium 2 🇷🇸
 http://46.29.169.15:4001/play/a00h/index.m3u8
 
-#EXTINF:-1, Arena Premium 3
+#EXTINF:-1, Arena Premium 3 🇷🇸
 http://46.29.169.15:4001/play/a00i/index.m3u8
 
 #EXTINF:-1, Nova Sport 3 🇨🇿 
@@ -975,7 +975,7 @@ https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4q
 #EXTINF:-1, TV 2 SPORT 
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 
-#EXTINF:-1, VIASAT SPORT
+#EXTINF:-1, VIASAT SPORT 🇸🇪
 http://51.68.191.31:1212/215/video.m3u8?token=X3ea770e83
 
 #EXTINF:-1, SPORT RU 🇷🇺
