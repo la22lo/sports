@@ -27,6 +27,9 @@ http://93.152.174.144:4000/play/bein1ar/index.m3u8
 #EXTINF:-1, beIN Sports 1 HD 🇶🇦
 http://sawaiptv.vip/mahmoud2021/mahmoud2022/4024
 
+#EXTINF:-1, beIN Sports 1 HD 🇶🇦
+http://maxq.live:25461/000123/111/476
+
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/3244
 
@@ -182,6 +185,9 @@ http://93.152.174.144:4000/play/bein3ar/index.m3u8
 
 #EXTINF:-1, Bein Sports 3 HD 🇶🇦
 http://sawaiptv.vip/mahmoud2021/mahmoud2022/4022
+
+#EXTINF:-1, Bein Sports 3 HD 🇶🇦
+http://maxq.live:25461/000123/111/478
 
 #EXTINF:-1,DUHOK HD 🇮🇶
 http://88.198.32.36:1935/live/Duhok--Sports--HD/chunklist.m3u8
