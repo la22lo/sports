@@ -300,45 +300,6 @@ http://217.23.4.81:86/BEIN_SPORT_6_HD/index.m3u8?token=test
 #EXTINF:-1, Bein Sports 7 🇶🇦
 http://93.152.174.144:4000/play/bein7/index.m3u8
 
-#EXTINF:-1, beIN Sports 1 🇶🇦
-http://vt.vttpi.com:8000/live/679109957020323/107350873819821/524.ts
-
-#EXTINF:-1, beIN Sports 2 🇶🇦
-http://vt.vttpi.com:8000/live/679109957020323/107350873819821/525.ts
-
-#EXTINF:-1, Bein Sports 3 🇶🇦
-http://vt.vttpi.com:8000/live/679109957020323/107350873819821/526.ts
-
-#EXTINF:-1, Bein Sports 4 🇶🇦
-http://vt.vttpi.com:8000/live/679109957020323/107350873819821/527.ts
-
-#EXTINF:-1, Bein Sports 5 🇶🇦
-http://vt.vttpi.com:8000/live/679109957020323/107350873819821/528.ts
-
-#EXTINF:-1, Bein Sports 6 🇶🇦
-http://vt.vttpi.com:8000/live/679109957020323/107350873819821/529.ts
-
-#EXTINF:-1, Bein Sports 7 🇶🇦
-http://vt.vttpi.com:8000/live/679109957020323/107350873819821/530.ts
-
-#EXTINF:-1, BEIN SPORT PREMIUM 1 🇶🇦
-http://vt.vttpi.com:8000/live/679109957020323/107350873819821/521.ts
-
-#EXTINF:-1, BEIN SPORT PREMIUM 1 🇶🇦
-http://vt.vttpi.com:8000/live/P-957977/P-740465/412.m3u8
-
-#EXTINF:-1, BEIN SPORT PREMIUM 2 🇶🇦
-http://vt.vttpi.com:8000/live/P-957977/P-740465/413.m3u8
-
-#EXTINF:-1, BEIN SPORT PREMIUM 2 🇶🇦
-http://vt.vttpi.com:8000/live/679109957020323/107350873819821/522.ts
-
-#EXTINF:-1, BEIN SPORT PREMIUM 3 🇶🇦
-http://vt.vttpi.com:8000/live/P-957977/P-740465/414.m3u8 
-
-#EXTINF:-1, BEIN SPORT PREMIUM 3 🇶🇦
-http://vt.vttpi.com:8000/live/679109957020323/107350873819821/523.ts
-
 #EXTINF:-1,beIN SPORTS 1 PREMIUM 🇶🇦
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 
