@@ -918,6 +918,15 @@ http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1,TVONE 🇲🇾
 http://210.210.155.35/session/f5cd353c-0131-11ec-b286-abca8519aa62/qwr9ew/s/s105/01.m3u8
 
+#EXTINF:-1, SONY TEN 3 FHD 🇮🇳
+http://goldentv.tech:25461/rachman/rachman/25209
+
+#EXTINF:-1, SONY TEN 2 FHD 🇮🇳
+http://goldentv.tech:25461/rachman/rachman/25208
+
+#EXTINF:-1, SONY TEN 1 FHD 🇮🇳
+http://goldentv.tech:25461/rachman/rachman/25207
+
 #EXTINF:-1, SSC1 🇦🇪
 https://ssc-5-ak.akamaized.net:443/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index_3.m3u8
 
