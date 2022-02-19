@@ -169,7 +169,7 @@ https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/60580
 http://api.magiaiptv.com/live/800328/755275/m3_84EEnC2nxXxTmQcJUE1LLnLCqj9_720p
 
 #EXTINF:-1, Bein Sports 3 HD 🇶🇦
-http://vt.vttpi.com:8000/live/679109957020323/107350873819821/526.ts
+http://93.152.174.144:4000/play/bein3ar/index.m3u8
 
 #EXTINF:-1,DUHOK HD 🇮🇶
 http://88.198.32.36:1935/live/Duhok--Sports--HD/chunklist.m3u8
