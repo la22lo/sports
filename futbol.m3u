@@ -897,6 +897,21 @@ http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=useesport&gumisasakTV=
 #EXTINF:-1, UseeSports 2 🇹🇭
 http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=useesports2&gumisasakTV=default&sync=0
 
+#EXTINF:-1,ASTRO SUPERSPORT 1 🇲🇾
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/52859
+
+#EXTINF:-1,ASTRO SUPERSPORT 2 🇲🇾
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/52860
+
+#EXTINF:-1,ASTRO SUPERSPORT 3 🇲🇾
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/52861
+
+#EXTINF:-1,ASTRO SUPERSPORT 4 🇲🇾
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/52862
+
+#EXTINF:-1,ASTRO SUPERSPORT 5 🇲🇾
+http://goldentv.tech:25461/rachman/rachman/25016
+
 #EXTINF:-1,TVONE 🇲🇾
 http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
 
