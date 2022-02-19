@@ -294,23 +294,41 @@ https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
+#EXTINF:-1, beIN Sports 1 🇶🇦
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/3244
+
 #EXTINF:-1, beIN Sports 2 🇶🇦
 http://93.152.174.144:4000/play/bein2ar/index.m3u8
+
+#EXTINF:-1, beIN Sports 2 🇶🇦
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/3245
 
 #EXTINF:-1, Bein Sports 3 🇶🇦
 http://93.152.174.144:4000/play/bein3ar/index.m3u8
 
+#EXTINF:-1, beIN Sports 3 🇶🇦
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/3246
+
 #EXTINF:-1, Bein Sports 4 🇶🇦
 http://93.152.174.144:4000/play/bein4ar/index.m3u8
 
+#EXTINF:-1, beIN Sports 4 🇶🇦
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/3247
+
 #EXTINF:-1, Bein Sports 5 🇶🇦
 http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
+
+#EXTINF:-1, Bein Sports 5 🇶🇦
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/49383
 
 #EXTINF:-1, Bein Sports 6 🇶🇦
 http://217.23.4.81:86/BEIN_SPORT_6_HD/index.m3u8?token=test
 
 #EXTINF:-1, Bein Sports 7 🇶🇦
 http://93.152.174.144:4000/play/bein7/index.m3u8
+
+#EXTINF:-1, Bein Sports 7 🇶🇦
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/49385
 
 #EXTINF:-1,beIN SPORTS 1 PREMIUM 🇶🇦
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
