@@ -900,6 +900,9 @@ https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
 #EXTINF:-1, nova sports 3 POLONIA 🇵🇱
 http://84.42.140.147:8890/hdmi
 
+#EXTINF:-1 , M4 SPORTS 🇭🇺
+http://78.109.104.240:8000/play/a0ao/index.m3u8?HasBahCa.m3u8
+
 #EXTINF:-1 , DIGI SPORT 1 🇭🇺
 http://bestavb.top:8008/Daia_Florin/1Unlimited19/62775
 
