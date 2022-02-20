@@ -165,9 +165,6 @@ http://clubtv.link/f15/lista2.php?c=3247
 #EXTINF:-1, DirecTV Sports + 🇦🇷
 http://clubtv.link/f15/lista2.php?c=3248
 
-#EXTINF:-1, DIRECTV SPORT 2 🇦🇷
-http://qqtv.nl:8080/live/norma/12345/20311.m3u8
-
 #EXTINF:-1, TV MAX 🇦🇷
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_2/chunklist_dvr.m3u8
 
@@ -214,19 +211,10 @@ https://sport.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 https://liv11octhd.stblauncher.com/live/5907_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 
 #EXTINF:-1, ESPN 2 🇦🇷
-http://qqtv.nl:8080/live/norma/12345/20268.m3u8
-
-#EXTINF:-1, ESPN 2 🇦🇷
 http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nHenuh8R2ANPee8i_PgMBeM/.m3u8
 
 #EXTINF:-1, ESPN 3 🇦🇷
 https://edge-live11-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
-
-#EXTINF:-1, ESPN 3 🇦🇷
-http://qqtv.nl:8080/live/norma/12345/20267.m3u8
-
-#EXTINF:-1, ESPN + 🇦🇷
-http://qqtv.nl:8080/live/norma/12345/20062.m3u8
 
 #EXTINF:-1, GEO SUPER 🇮🇳
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
@@ -345,14 +333,8 @@ http://fortv.cc:8080/christina/christina/1806
 #EXTINF:-1, Bein Sports 7 🇶🇦
 http://fortv.cc:8080/christina/christina/55342
 
-#EXTINF:-1 ,BEIN SPORTS NEWS 🇶🇦
-http://vt.vttpi.com:8000/live/679109957020323/107350873819821/29.ts
-
 #EXTINF:-1, beIN SPORTS HD الإخبارية🇸🇦
 http://showflix.org:5890/Berlin/Berlin/70058
-
-#EXTINF:-1, TSN 1 🇺🇸
-http://38.91.57.12:2082/tsn1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,beIN SPORTS EXTRA Ñ 🇪🇸
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
