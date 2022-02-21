@@ -969,6 +969,12 @@ https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 #EXTINF:-1, VIASAT SPORT 🇸🇪
 http://51.68.191.31:1212/215/video.m3u8?token=X3ea770e83
 
+#EXTINF:-1, VIASAT SPORT 🇸🇪
+https://sc.id-tv.kz:443/ViasatSport_34_35.m3u8
+
+#EXTINF:-1, VIASAT SPORT 🇸🇪
+http://bl.uma.media/live/485548/HLS/4614144_2,2883584/2/1/playlist.m3u8
+
 #EXTINF:-1, SPORT RU 🇷🇺
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
 
