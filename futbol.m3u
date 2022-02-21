@@ -267,11 +267,17 @@ http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 #EXTINF:-1,BEIN SPORTS 1 PREMIUM 🇶🇦
 http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
 
+#EXTINF:-1,BEIN SPORTS 1 PREMIUM 🇶🇦
+http://yeplayer.xyz:8080/load/load5/1
+
 #EXTINF:-1, BEIN SPORT 2 PREMIUM 🇶🇦
 http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 
 #EXTINF:-1 ,BEIN SPORTS 2 PREMIUM 🇶🇦
 http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8
+
+#EXTINF:-1 ,BEIN SPORTS 2 PREMIUM 🇶🇦
+http://yeplayer.xyz:8080/load/load5/5
 
 #EXTINF:-1, BEIN SPORT 3 PREMIUM 🇶🇦
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
