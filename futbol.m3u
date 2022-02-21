@@ -22,6 +22,9 @@ https://edge-live12-sl.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
 #EXTINF:-1, beIN Sports 1 HD 🇶🇦
+http://yeplayer.xyz:8080/load/load5/4
+
+#EXTINF:-1, beIN Sports 1 HD 🇶🇦
 http://maxq.live:25461/000123/111/476
 
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇹
@@ -162,6 +165,9 @@ https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/60580
 #EXTINF:-1, Bein Sports 3 HD 🇶🇦
 http://93.152.174.144:4000/play/bein3ar/index.m3u8
 
+#EXTINF:-1, beIN Sports 3 HD 🇶🇦
+http://yeplayer.xyz:8080/load/load5/6
+
 #EXTINF:-1, Bein Sports 3 HD 🇶🇦
 http://maxq.live:25461/000123/111/478
 
@@ -236,6 +242,21 @@ http://93.152.174.144:4000/play/bein4ar/index.m3u8
 
 #EXTINF:-1, Bein Sports 5 🇶🇦
 http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
+
+#EXTINF:-1, beIN Sports 1 HD 🇶🇦
+http://yeplayer.xyz:8080/load/load5/4
+
+#EXTINF:-1, beIN Sports 2 HD 🇶🇦
+http://yeplayer.xyz:8080/load/load5/5
+
+#EXTINF:-1, beIN Sports 3 HD 🇶🇦
+http://yeplayer.xyz:8080/load/load5/6
+
+#EXTINF:-1, beIN Sports 4 HD 🇶🇦
+http://yeplayer.xyz:8080/load/load5/7
+
+#EXTINF:-1, beIN Sports 5 HD 🇶🇦
+http://yeplayer.xyz:8080/load/load5/8
 
 #EXTINF:-1, Bein Sports 7 🇶🇦
 http://93.152.174.144:4000/play/bein7/index.m3u8
@@ -1238,6 +1259,15 @@ http://109.122.68.51:4000/play/a06v
 
 #EXTINF:-1,Realitatea Sportiva 🇷🇴
 https://streamx.realitatea.net/realitatea/sportiva_hd/playlist.m3u8
+
+#EXTINF:-1, SPORTS-ON-TIME-1 🇸🇦
+http://yeplayer.xyz:8080/load/load5/21
+
+#EXTINF:-1, SPORTS-ON-TIME-2 🇸🇦
+http://yeplayer.xyz:8080/load/load5/22
+
+#EXTINF:-1, SPORTS-ON-TIME-3 🇸🇦
+http://yeplayer.xyz:8080/load/load5/23
 
 #EXTINF:-1, OMAN SPORT 🇴🇲
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
