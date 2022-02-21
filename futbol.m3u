@@ -1173,17 +1173,32 @@ http://93.157.62.180:80/KSport4/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Super Sports 1 🇦🇱
 http://93.157.62.180/Supersport1/index.m3u8
 
+#EXTINF:-1, Super Sports 1 🇦🇱
+http://93.157.62.180:80/Supersport1/index.m3u8
+
 #EXTINF:-1, Super Sports 2 🇦🇱
 http://93.157.62.180/Supersport2/index.m3u8
+
+#EXTINF:-1, Super Sports 2 🇦🇱
+http://93.157.62.180:80/Supersport2/index.m3u8
 
 #EXTINF:-1, Super Sports 3 🇦🇱
 http://93.157.62.180/Supersport3/index.m3u8
 
+#EXTINF:-1, Super Sports 3 🇦🇱
+http://93.157.62.180:80/Supersport3/index.m3u8
+
 #EXTINF:-1, Super Sports 4 🇦🇱
 http://93.157.62.180/Supersport4/index.m3u8
 
+#EXTINF:-1, Super Sports 4 🇦🇱
+http://93.157.62.180:80/Supersport4/index.m3u8
+
 #EXTINF:-1, Super Sports 5 🇦🇱
 http://93.157.62.180/Supersport5/index.m3u8
+
+#EXTINF:-1, Super Sports 5 🇦🇱
+http://93.157.62.180:80/Supersport5/index.m3u8
 
 #EXTINF:-1, Super Sports HD 1 🇦🇱
 http://185.204.32.49:6735/UltraNetS1/stream/playlist.m3u8
