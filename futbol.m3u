@@ -7,7 +7,7 @@ https://sport.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 https://www.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
 
 #EXTINF:-1, BEIN SPORT 2 TRUE VISIONS 🇹🇭
-https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8?per
+https://sport.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1, BEIN SPORT 2 TRUE VISIONS 🇹🇭
 https://www.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
@@ -15,32 +15,14 @@ https://www.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/309
 
-#EXTINF:-1, LALIGA TV 🇬🇧
-https://5632e808a57f.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.837897036078.channel.5lTPTrzN8oiD.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czpldS13ZXN0LTE6ODM3ODk3MDM2MDc4OmNoYW5uZWwvNWxUUFRyek44b2lEIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHA6Ly93d3cuZm9vdHkudG8iLCJpYXQiOjE2NDUzNTU2MDgsImV4cCI6MTY0NTQ0MjAwOH0.28ixHFWPyCZvox_8WUco9IKIFsbmNmjwlaAo4LDAR2BC14hMic7Fiqeo0Tlh3ypRfod4lawVyN_ECznBG9mClsA4JArWvrI0g8wXHxSxTbEC3n8d38bCPv9CqD3Uuecp
-
-#EXTINF:-1, LALIGA TV 🇬🇧
-https://cdn.livepeer.com/hls/0222b7vtmrm309ai/3_1/index.m3u8
-
-#EXTINF:-1, SUPERSPORT LALIGA 🇬🇧
-https://awshd.mazystreams.xyz/live/2/playlist.m3u8
-
 #EXTINF:-1, ESPN 2 🇦🇷
 https://edge-live12-sl.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
-
-#EXTINF:-1, beIN Sports 1 🇶🇦
-http://api.magiaiptv.com/live/800328/755275/m1_b3LqtPcVf80FH9zmjuIKYaSdNW4_720p
 
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
 #EXTINF:-1, beIN Sports 1 HD 🇶🇦
-http://sawaiptv.vip/mahmoud2021/mahmoud2022/4024
-
-#EXTINF:-1, beIN Sports 1 HD 🇶🇦
 http://maxq.live:25461/000123/111/476
-
-#EXTINF:-1, beIN Sports 1 🇶🇦
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/3244
 
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇹
 https://liv11octptsp.stblauncher.com/live/6643_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
@@ -59,12 +41,6 @@ http://46.29.169.15:4001/play/a00g/index.m3u8?mvk
 
 #EXTINF:-1, SETANTA SPORTS 1 🇷🇺
 https://sl18.varcdn1.ru/setanta1/index.m3u8?mvk
-
-#EXTINF:-1, SETANTA SPORTS 2 🇷🇺
-https://spotless365.net/lba/YWQ5MjQwNWFhMDMyMjBiZWFjMjRmYWRjYjI1MWY3ZmI=/123/364f70d1c969.m3u8
-
-#EXTINF:-1, SETANTA SPORTS 2 🇷🇺
-https://bigsmoke.lbs.pw/set2/tracks-v1a1/mono.m3u8?token=68b6077e5c4bf6b46340226a9c2565c634d94755-0.43798080580638854-1645406029-1645370029
 
 #EXTINF:-1,LOOK + 🇷🇴
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?per
@@ -126,14 +102,8 @@ http://89.249.49.78:8000/play/a0i5
 #EXTINF:-1, VAMOS 🇪🇸
 http://ultra-premium-pro.xyz:8090/ROLANDO/ROLANDO1/66435
 
-#EXTINF:-1, VAMOS 🇪🇸
-http://64.227.180.219/laliga22/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1, ESPN 🇦🇷
 http://clubtv.link/f15/lista2.php?c=3230
-
-#EXTINF:-1, ESPN 🇦🇷
-http://38.91.57.12:2082/espn/index.m3u8
 
 #EXTINF:-1, ESPN 2 🇦🇷
 http://clubtv.link/f15/lista2.php?c=3231
@@ -141,14 +111,14 @@ http://clubtv.link/f15/lista2.php?c=3231
 #EXTINF:-1, ESPN 2 🇦🇷
 https://edge-live12-sl.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
 
-#EXTINF:-1, ESPN 2 🇦🇷
-http://38.91.57.12:2082/espn2/index.m3u8
-
 #EXTINF:-1, ESPN 3 🇦🇷
 http://clubtv.link/f15/lista2.php?c=3232
 
 #EXTINF:-1, ESPN 3 🇦🇷
 http://spliktv-edge2.wedrly.xyz/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8
+
+#EXTINF:-1, ESPN 3 🇦🇷
+https://edge-live11-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
 
 #EXTINF:-1, ESPN VIVO 🇦🇷
 http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8?P135
@@ -190,13 +160,7 @@ http://clubtv.link/f15/lista2.php?c=3248
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_2/chunklist_dvr.m3u8
 
 #EXTINF:-1, Bein Sports 3 HD 🇶🇦
-http://api.magiaiptv.com/live/800328/755275/m3_84EEnC2nxXxTmQcJUE1LLnLCqj9_720p
-
-#EXTINF:-1, Bein Sports 3 HD 🇶🇦
 http://93.152.174.144:4000/play/bein3ar/index.m3u8
-
-#EXTINF:-1, Bein Sports 3 HD 🇶🇦
-http://sawaiptv.vip/mahmoud2021/mahmoud2022/4022
 
 #EXTINF:-1, Bein Sports 3 HD 🇶🇦
 http://maxq.live:25461/000123/111/478
@@ -222,20 +186,8 @@ http://190.2.148.141:8080/bar7653/index.m3u8
 #EXTINF:-1,MMN SPORT HD 🇮🇶
 http://190.2.148.141:8080/bar7642/index.m3u8
 
-#EXTINF:-1, BEIN SPORT 1 TRUE VISIONS 🇹🇭
-https://smart-tv.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8
-
-#EXTINF:-1, BEIN SPORT 1 TRUE VISIONS 🇹🇭
-https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8?per
-
 #EXTINF:-1, ESPN BRASIL HD 🇧🇷
 https://liv11octhd.stblauncher.com/live/5907_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
-
-#EXTINF:-1, ESPN 2 🇦🇷
-http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nHenuh8R2ANPee8i_PgMBeM/.m3u8
-
-#EXTINF:-1, ESPN 3 🇦🇷
-https://edge-live11-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
 
 #EXTINF:-1, GEO SUPER 🇮🇳
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
@@ -270,56 +222,29 @@ http://fortv.cc:8080/christina/christina/78458
 #EXTINF:-1, ELEVEN 6 🇵🇹
 http://fortv.cc:8080/christina/christina/78459
 
-#EXTINF:-1, BEIN SPORT 1 live TRUE VISIONS  🇹🇭
-https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
-
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
-
-#EXTINF:-1, beIN Sports 1 🇶🇦
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/3244
 
 #EXTINF:-1, beIN Sports 2 🇶🇦
 http://93.152.174.144:4000/play/bein2ar/index.m3u8
 
-#EXTINF:-1, beIN Sports 2 🇶🇦
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/3245
-
 #EXTINF:-1, Bein Sports 3 🇶🇦
 http://93.152.174.144:4000/play/bein3ar/index.m3u8
-
-#EXTINF:-1, beIN Sports 3 🇶🇦
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/3246
 
 #EXTINF:-1, Bein Sports 4 🇶🇦
 http://93.152.174.144:4000/play/bein4ar/index.m3u8
 
-#EXTINF:-1, beIN Sports 4 🇶🇦
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/3247
-
 #EXTINF:-1, Bein Sports 5 🇶🇦
 http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
 
-#EXTINF:-1, Bein Sports 5 🇶🇦
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/49383
-
-#EXTINF:-1, Bein Sports 6 🇶🇦
-http://217.23.4.81:86/BEIN_SPORT_6_HD/index.m3u8?token=test
-
 #EXTINF:-1, Bein Sports 7 🇶🇦
 http://93.152.174.144:4000/play/bein7/index.m3u8
-
-#EXTINF:-1, Bein Sports 7 🇶🇦
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/49385
 
 #EXTINF:-1,beIN SPORTS 1 PREMIUM 🇶🇦
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 
 #EXTINF:-1,BEIN SPORTS 1 PREMIUM 🇶🇦
 http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
-
-#EXTINF:-1,BEIN SPORTS 1 PREMIUM 🇶🇦
-http://api.magiaiptv.com/live/800328/755275/m2_dBrQsWUR9FuOGHKtz7tQ64tqSTH_720p
 
 #EXTINF:-1, BEIN SPORT 2 PREMIUM 🇶🇦
 http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
@@ -353,9 +278,6 @@ http://fortv.cc:8080/christina/christina/1806
 
 #EXTINF:-1, Bein Sports 7 🇶🇦
 http://fortv.cc:8080/christina/christina/55342
-
-#EXTINF:-1, beIN SPORTS HD الإخبارية🇸🇦
-http://showflix.org:5890/Berlin/Berlin/70058
 
 #EXTINF:-1,beIN SPORTS EXTRA Ñ 🇪🇸
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
@@ -399,18 +321,6 @@ http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/playlist.m3u8
 #EXTINF:-1, DAZN F1 🇪🇸
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/3905
 
-#EXTINF:-1, ST☆R+ 1 HD BRA 🇧🇷
-http://api.magiaiptv.com/live/800328/755275/m1_1cd2ba26a97dec106269_720p
-
-#EXTINF:-1, ST☆R+ 2 HD BRA 🇧🇷
-http://api.magiaiptv.com/live/800328/755275/m1_e8e0475e7548d3b1_720p
-
-#EXTINF:-1, ST☆R+ 3 HD BRA 🇧🇷
-http://api.magiaiptv.com/live/800328/755275/m1_9b0bf85a96462778_720p
-
-#EXTINF:-1, ST☆R+ 4 HD BRA 🇧🇷
-http://api.magiaiptv.com/live/800328/755275/m2_ee92c0f83475cfae7c8_720p
-
 #EXTINF:-1, beIN Sports 1 French 🇫🇷
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
 
@@ -432,9 +342,6 @@ http://showflix.org:5890/Berlin/Berlin/591
 #EXTINF:-1, beIN SPORTS English 1 🇬🇧
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
 
-#EXTINF:-1, beIN SPORTS English 1 🇬🇧
-http://api.magiaiptv.com/live/800328/755275/m2_ggkPvTiPcSNtLf3ymyMSPY53ksi_720p
-
 #EXTINF:-1, beIN SPORTS English 2 🇬🇧
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
 
@@ -444,32 +351,17 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
 #EXTINF:-1, BT SPORT 1 🇬🇧
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 
-#EXTINF:-1, BT SPORT 1 🇬🇧
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/52241
-
 #EXTINF:-1, BT SPORT 2 🇬🇧
 http://93.152.174.144:4000/play/btsport2/index.m3u8
 
-#EXTINF:-1, BT SPORT 2 🇬🇧
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/52240
-
 #EXTINF:-1, BT SPORT 3 🇬🇧
 http://93.152.174.144:4000/play/btsport3/index.m3u8
-
-#EXTINF:-1, BT SPORT 3 🇬🇧
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/52239
 
 #EXTINF:-1, PREMIER SPORT 🇬🇧
 http://fortv.cc:8080/christina/christina/35257
 
 #EXTINF:-1, EIR SPORT 🇬🇧
 http://fortv.cc:8080/christina/christina/53746
-
-#EXTINF:-1, BEIN SPORTS CANADA 🇨🇦
-http://vmp343.ddnsking.com:80/thomas2/thomas2/3047
-
-#EXTINF:-1, BEIN SPORTS CANADA 🇨🇦
-http://breakingcable.xyz/Banner/banner/650092
 
 #EXTINF:-1,Look Sport 1 🇷🇴
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
