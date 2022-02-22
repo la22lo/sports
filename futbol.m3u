@@ -1773,5 +1773,11 @@ https://per@da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs2.online.meo.pt/shls/LIVE$E
 #EXTINF:-1, S PREMIER
 http://cro.hockeynews.club/live/2/chunks.m3u8
 
+#EXTINF:-1, CHAMP
+https://hll.hnzzdf.com.cn/live/H35535.m3u8?txSecret=0bb5538bc752be258a66c372354367b6&txTime=62161D4F&_s=stream
+
+#EXTINF:-1, CHAMP
+https://hll.hnzzdf.com.cn/live/H35536.m3u8?txSecret=3618303d14d6726df713dd97ecf075bb&txTime=62161D4F&_s=stream
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
