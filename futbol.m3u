@@ -1509,6 +1509,9 @@ http://91.126.141.13:1935/live/61/playlist.m3u8
 #EXTINF:-1, TELE5 HD 🇪🇸
 http://185.41.244.69/telecincohd/index.m3u8
 
+#EXTINF:-1, LASEXTA 🇪🇸
+http://91.126.141.13:1935/live/21/playlist.m3u8
+
 #EXTINF:-1, MEGA 🇪🇸
 http://154.62.74.29:1935/live/mega/chunklist_w1555082919.m3u8
 
