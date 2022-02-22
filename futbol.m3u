@@ -24,6 +24,9 @@ http://93.152.174.144:4000/play/bein1ar/index.m3u8
 #EXTINF:-1, beIN Sports 1 HD 🇶🇦
 http://yeplayer.xyz:8080/load/load5/4
 
+#EXTINF:-1, Bein Sports HD1 🇶🇦
+http://gazalavatar.com:2082/morrostar0241/5f902165a8533/23893
+
 #EXTINF:-1, beIN Sports 1 HD 🇶🇦
 http://maxq.live:25461/000123/111/476
 
@@ -269,6 +272,27 @@ http://yeplayer.xyz:8080/load/load5/8
 
 #EXTINF:-1, Bein Sports 7 🇶🇦
 http://93.152.174.144:4000/play/bein7/index.m3u8
+
+#EXTINF:-1, Bein Sports HD1 🇶🇦
+http://gazalavatar.com:2082/morrostar0241/5f902165a8533/23893
+
+#EXTINF:-1, Bein Sports HD2 🇶🇦
+http://gazalavatar.com:2082/morrostar0241/5f902165a8533/23891
+
+#EXTINF:-1, Bein Sports HD3 🇶🇦
+http://gazalavatar.com:2082/morrostar0241/5f902165a8533/23890
+
+#EXTINF:-1, Bein Sports HD4 🇶🇦
+http://gazalavatar.com:2082/morrostar0241/5f902165a8533/23889
+
+#EXTINF:-1, Bein Sports HD5 🇶🇦
+http://gazalavatar.com:2082/morrostar0241/5f902165a8533/23888
+
+#EXTINF:-1, Bein Sports HD6 🇶🇦
+http://gazalavatar.com:2082/morrostar0241/5f902165a8533/23887
+
+#EXTINF:-1, Bein Sports HD7 🇶🇦
+http://gazalavatar.com:2082/morrostar0241/5f902165a8533/23886
 
 #EXTINF:-1,beIN SPORTS 1 PREMIUM 🇶🇦
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
