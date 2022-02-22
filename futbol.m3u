@@ -12,6 +12,12 @@ https://per@prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/oG1PPu0B5Fl238
 #EXTINF:-1, FOX SPORT 🇦🇷
 https://edge2.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
 
+#EXTINF:-1, BT SPORT 2 🇬🇧
+https://dcisiz1qfkk6q.cloudfront.net:443/stream/MjkzOQ==/1080p.m3u8?per
+
+#EXTINF:-1, 4KORA 2 🇶🇦
+https://per@prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/HincCG4wO55N8B2YfwEAu5tkoGdVp26GpG8jfTUhb6KCDcCZFYKOwHQ5o0o84fjQPGYQWVXTF2GoknF9QO42Nw/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8
+
 #EXTINF:-1, MATH 🇷🇺
 https://bal.varcdn1.ru/lb/m3/index.m3u8
 
