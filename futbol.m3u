@@ -9,8 +9,14 @@ https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.
 #EXTINF:-1, MOVISTAR LIGA CAMPEONES 🇪🇸
 https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/9gYKrdRadqVQ5XY5oEgHBPHf3ipBRJ1bzVox9qGTj-sYPpi_nGhSU5B3am92LK4X40Ns2XS0pw3ZL-ySkPK-NA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live
 
+#EXTINF:-1, SUPERSPORT CHAMPIONS 🇬🇧
+https://ddc8aa1e2jz1g.cloudfront.net:443/hls/manutd/chunks.m3u8
+
 #EXTINF:-1, BT SPORT 2 🇬🇧
 https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/TIMBA75wQa3nIegO34mMGEUD3l4Hyj798lAX0AGOwG-0Wo-5bly3RRrAngB8El-e4HJPgLRlCs73mqnPUJeVjg/non_transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/master_dynamic_highlatency.m3u8?type=live
+
+#EXTINF:-1, BT SPORT 2 🇬🇧
+https://dcisiz1qfkk6q.cloudfront.net:443/stream/Mjk4Mg==/1080p.m3u8
 
 #EXTINF:-1, ATLETICO
 https://live-ak.vimeocdn.com/exp=1645648236~acl=%2Fe25c7e8d-ca21-4deb-962b-fd4f65e938d7%2F%2A~hmac=5b9e8a02a7b1d62cb6f236b8317784ade27c70322652f3bf5b3b9ce9ee6bcab5/e25c7e8d-ca21-4deb-962b-fd4f65e938d7/hls.m3u8
