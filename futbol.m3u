@@ -18,6 +18,12 @@ https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/TIMBA75wQa3nIegO34mMG
 #EXTINF:-1, BT SPORT 2 🇬🇧
 https://dcisiz1qfkk6q.cloudfront.net:443/stream/Mjk4Mg==/1080p.m3u8
 
+#EXTINF:-1, TUDN
+https://cdn.livepeer.com:443/hls/0222b7vtmrm309ai/0_1/index.m3u8
+
+#EXTINF:-1, CHAMPIONS 1
+https://hll.hnzzdf.com.cn/live/H35543.m3u8?txSecret=72c0dc8096d8c724c50d24af69406e79&txTime=6217962E&_s=stream
+
 #EXTINF:-1, ATLETICO
 https://live-ak.vimeocdn.com/exp=1645648236~acl=%2Fe25c7e8d-ca21-4deb-962b-fd4f65e938d7%2F%2A~hmac=5b9e8a02a7b1d62cb6f236b8317784ade27c70322652f3bf5b3b9ce9ee6bcab5/e25c7e8d-ca21-4deb-962b-fd4f65e938d7/hls.m3u8
 
