@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1, ESPN VIVO 🇦🇷
-http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
-
 #EXTINF:-1, FOX SPORT 🇦🇷
 https://edge2.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
+
+#EXTINF:-1, ESPN VIVO 🇦🇷
+http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 
 #EXTINF:-1, MATH 🇷🇺
 https://bal.varcdn1.ru/lb/m3/index.m3u8
