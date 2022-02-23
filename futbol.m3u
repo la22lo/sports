@@ -3,44 +3,11 @@
 #EXTINF:-1, ESPN VIVO 🇦🇷
 http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 
-#EXTINF:-1, TUDN VIVO 🇦🇷
-https://cdn.livepeer.com:443/hls/0222b7vtmrm309ai/0_1/index.m3u8
-
-#EXTINF:-1, SUPERSPORT CHAMPIONS LIVE 🇬🇧
-https://ddc8aa1e2jz1g.cloudfront.net:443/hls/juve/chunks.m3u8
-
-#EXTINF:-1, BT SPORT 3 🇬🇧
-https://dcisiz1qfkk6q.cloudfront.net/stream/Mjk0MA==/1080p.m3u8?per
-
-#EXTINF:-1, 4KORA 🇶🇦
-https://per@prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/oG1PPu0B5Fl238YRGVksLLUEAgQvtj83DPph9B92hK-QpWFxZXkoXndEsqvVmBvCK_0iWm3-qNoc2BkAzzEYrQ/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8
-
-#EXTINF:-1, CHAMP
-https://hll.hnzzdf.com.cn/live/H35535.m3u8?txSecret=0bb5538bc752be258a66c372354367b6&txTime=62161D4F&_s=stream
-
-#EXTINF:-1, CHAMP
-https://hll.hnzzdf.com.cn/live/H35536.m3u8?txSecret=3618303d14d6726df713dd97ecf075bb&txTime=62161D4F&_s=stream
-
 #EXTINF:-1, FOX SPORT 🇦🇷
 https://edge2.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
 
-#EXTINF:-1, BT SPORT 2 🇬🇧
-https://dcisiz1qfkk6q.cloudfront.net:443/stream/MjkzOQ==/1080p.m3u8?per
-
-#EXTINF:-1, BT SPORT 2 🇬🇧
-https://dcisiz1qfkk6q.cloudfront.net/stream/MjkzOQ==/1080p.m3u8
-
-#EXTINF:-1, 4KORA 2 🇶🇦
-https://per@prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/HincCG4wO55N8B2YfwEAu5tkoGdVp26GpG8jfTUhb6KCDcCZFYKOwHQ5o0o84fjQPGYQWVXTF2GoknF9QO42Nw/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8
-
-#EXTINF:-1, SUPERSPORT CHAMPIONS 🇬🇧
-https://ddc8aa1e2jz1g.cloudfront.net:443/hls/ssp/chunks.m3u8
-
 #EXTINF:-1, MATH 🇷🇺
 https://bal.varcdn1.ru/lb/m3/index.m3u8
-
-#EXTINF:-1, MATH 🇷🇺
-https://bigsmoke.lbs.pw:443/match/tracks-v1a1/mono.m3u8?token=6712464f330950eba7ea1ca5ea92515895d3f90d-0.9459265411235191-1645596095-1645560095
 
 #EXTINF:-1, BEIN SPORT 1 TRUE VISIONS 🇹🇭
 https://sport.livedoomovie.com/02_epl1_720p/chunklist.m3u8
