@@ -15,6 +15,9 @@ https://live-ak.vimeocdn.com/exp=1645648236~acl=%2Fe25c7e8d-ca21-4deb-962b-fd4f6
 #EXTINF:-1, ESPN VIVO 🇦🇷
 http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 
+#EXTINF:-1, CHAMPIONS 2
+https://hll.hnzzdf.com.cn/live/H99752.m3u8?txSecret=9ae82b0bda4971226a65ce5a011620b1&txTime=6217962E&_s=stream
+
 #EXTINF:-1, MATH 🇷🇺
 https://bal.varcdn1.ru/lb/m3/index.m3u8
 
