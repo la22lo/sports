@@ -9,6 +9,9 @@ https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/9gYKrdRadqVQ5XY5oEgHB
 #EXTINF:-1, BT SPORT 2 🇬🇧
 https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/TIMBA75wQa3nIegO34mMGEUD3l4Hyj798lAX0AGOwG-0Wo-5bly3RRrAngB8El-e4HJPgLRlCs73mqnPUJeVjg/non_transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/master_dynamic_highlatency.m3u8?type=live
 
+#EXTINF:-1, ATLETICO
+https://live-ak.vimeocdn.com/exp=1645648236~acl=%2Fe25c7e8d-ca21-4deb-962b-fd4f65e938d7%2F%2A~hmac=5b9e8a02a7b1d62cb6f236b8317784ade27c70322652f3bf5b3b9ce9ee6bcab5/e25c7e8d-ca21-4deb-962b-fd4f65e938d7/hls.m3u8
+
 #EXTINF:-1, ESPN VIVO 🇦🇷
 http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 
