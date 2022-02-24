@@ -25,6 +25,9 @@ https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.
 https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/hTwqsD3ibyas3zB5gOQfl98b8c5Xmiwk4kVZ-jC-4Bk9lTFuFq8BVN6NHsMkKLrMzaiCi9quozcG3kz39R_Lnw/non_transcode/us-west-2/periscope-replay-direct-prod-us-east-1-public/dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1, SUPERSPORT CHAMPIONS 🇬🇧
+https://ddc8aa1e2jz1g.cloudfront.net/hls/ajax/chunks.m3u8
+
+#EXTINF:-1, SUPERSPORT CHAMPIONS 🇬🇧
 https://ddc8aa1e2jz1g.cloudfront.net:443/hls/manutd/chunks.m3u8
 
 #EXTINF:-1, ESPN VIVO 🇦🇷
