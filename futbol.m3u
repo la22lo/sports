@@ -6,6 +6,9 @@ http://yeplayer.xyz:8080/load/load5/1
 #EXTINF:-1, BEIN 1 🇸🇦
 https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/hTwqsD3ibyas3zB5gOQfl98b8c5Xmiwk4kVZ-jC-4Bk9lTFuFq8BVN6NHsMkKLrMzaiCi9quozcG3kz39R_Lnw/non_transcode/us-west-2/periscope-replay-direct-prod-us-east-1-public/dynamic_highlatency.m3u8?type=live
 
+#EXTINF:-1, ESPN 2 🇦🇷
+https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/_8yy7GgMw3sQ38ec8N86n8eBd5GmnA921gpz8Kitd_RS1oCa7ai99PW47Y_wNih8Ncn1ZrXljqbObV6fpMh2wQ/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
+
 #EXTINF:-1, SUPERSPORT CHAMPIONS 🇬🇧
 https://ddc8aa1e2jz1g.cloudfront.net/hls/ajax/chunks.m3u8
 
