@@ -30,6 +30,12 @@ https://ddc8aa1e2jz1g.cloudfront.net/hls/ajax/chunks.m3u8
 #EXTINF:-1, SUPERSPORT CHAMPIONS 🇬🇧
 https://ddc8aa1e2jz1g.cloudfront.net:443/hls/manutd/chunks.m3u8
 
+#EXTINF:-1, UEFA 1 🇬🇧
+https://hll.hnzzdf.com.cn/live/H86847.m3u8?txSecret=b628e99c5860e18a71b8b421fc349f99&txTime=6218F854&_s=stream
+
+#EXTINF:-1, UEFA 2 🇬🇧
+https://hll.hnzzdf.com.cn/live/H86851.m3u8?txSecret=175737fec6e111f62fc4c1840c3c1f83&txTime=6218F854&_s=stream
+
 #EXTINF:-1, ESPN VIVO 🇦🇷
 http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 
