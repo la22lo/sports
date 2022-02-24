@@ -16,6 +16,9 @@ https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/_8yy7GgMw3sQ38ec8N86n
 http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 
 #EXTINF:-1, SUPERSPORT CHAMPIONS 🇬🇧
+https://d2t0agv4yshwp.cloudfront.net:443/stream/Mjk4OQ==/1080p.m3u8
+
+#EXTINF:-1, SUPERSPORT CHAMPIONS 🇬🇧
 https://ddc8aa1e2jz1g.cloudfront.net/hls/ajax/chunks.m3u8
 
 #EXTINF:-1, SUPERSPORT CHAMPIONS 🇬🇧
