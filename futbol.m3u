@@ -27,7 +27,10 @@ https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/7_O7gujbp_44eIVcCb77j
 #EXTINF:-1,CФУТБOЛ 1HD 🇷🇺
 https://mkh2.varcdn1.ru/m1/index.m3u8
 
-#EXTINF:-1, MATH 🇷🇺
+#EXTINF:-1,CФУТБOЛ 2HD 🇷🇺
+https://bal.varcdn1.ru/lb/m2/index.m3u8
+
+#EXTINF:-1, MATH 3 🇷🇺
 https://bal.varcdn1.ru/lb/m3/index.m3u8
 
 #EXTINF:-1, BEIN SPORT 1 TRUE VISIONS 🇹🇭
