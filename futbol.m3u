@@ -9,6 +9,9 @@ https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/hTwqsD3ibyas3zB5gOQfl
 #EXTINF:-1, ESPN 2 🇦🇷
 https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/_8yy7GgMw3sQ38ec8N86n8eBd5GmnA921gpz8Kitd_RS1oCa7ai99PW47Y_wNih8Ncn1ZrXljqbObV6fpMh2wQ/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
 
+#EXTINF:-1, ESPN VIVO 🇦🇷
+http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
+
 #EXTINF:-1, SUPERSPORT CHAMPIONS 🇬🇧
 https://ddc8aa1e2jz1g.cloudfront.net/hls/ajax/chunks.m3u8
 
@@ -23,9 +26,6 @@ https://hll.hnzzdf.com.cn/live/H86851.m3u8?txSecret=175737fec6e111f62fc4c1840c3c
 
 #EXTINF:-1, ESPN 2 🇦🇷
 https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/OHeRyg5CFUZgs_D1e0pnqeqmpdd-flzAF7NT2T94KfcRRRlanT5ByNJ6BvOvWaiRIuHJqePSiENm-pV_myz0dg/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1, ESPN VIVO 🇦🇷
-http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 
 #EXTINF:-1, ESPN EXTRA 🇦🇷
 https://edge-live13-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
