@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, BEIN 2 🇸🇦
-https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/BC2W9Km5cpLfOuDbqqGFZg0ktzOeWSHS6lacQ4EpupRWSvhzHwbFsGz-uHLleKJZWxAF75yhlGzlfGhdvFtCIg/non_transcode/us-west-2/periscope-replay-direct-prod-eu-central-1-public/dynamic_highlatency.m3u8?type=live
-
 #EXTINF:-1, BEIN SPORT 1 TRUE VISIONS 🇹🇭
 https://sport.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 
@@ -206,6 +203,9 @@ http://yeplayer.xyz:8080/load/load5/6
 
 #EXTINF:-1, Bein Sports 3 HD 🇶🇦
 http://maxq.live:25461/000123/111/478
+
+#EXTINF:-1, BEIN 2 🇸🇦
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/BC2W9Km5cpLfOuDbqqGFZg0ktzOeWSHS6lacQ4EpupRWSvhzHwbFsGz-uHLleKJZWxAF75yhlGzlfGhdvFtCIg/non_transcode/us-west-2/periscope-replay-direct-prod-eu-central-1-public/dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1,DUHOK HD 🇮🇶
 http://88.198.32.36:1935/live/Duhok--Sports--HD/chunklist.m3u8
