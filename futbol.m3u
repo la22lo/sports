@@ -3,21 +3,6 @@
 #EXTINF:-1, BEIN 2 🇸🇦
 https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/BC2W9Km5cpLfOuDbqqGFZg0ktzOeWSHS6lacQ4EpupRWSvhzHwbFsGz-uHLleKJZWxAF75yhlGzlfGhdvFtCIg/non_transcode/us-west-2/periscope-replay-direct-prod-eu-central-1-public/dynamic_highlatency.m3u8?type=live
 
-#EXTINF:-1, ESPN VIVO 🇦🇷
-http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
-
-#EXTINF:-1, ESPN EXTRA 🇦🇷
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
-
-#EXTINF:-1,CФУТБOЛ 1HD 🇷🇺
-https://mkh2.varcdn1.ru/m1/index.m3u8
-
-#EXTINF:-1,CФУТБOЛ 2HD 🇷🇺
-https://bal.varcdn1.ru/lb/m2/index.m3u8
-
-#EXTINF:-1, MATH 3 🇷🇺
-https://bal.varcdn1.ru/lb/m3/index.m3u8
-
 #EXTINF:-1, BEIN SPORT 1 TRUE VISIONS 🇹🇭
 https://sport.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 
@@ -166,6 +151,12 @@ https://edge-live11-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
 http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8?P135
 
 #EXTINF:-1, ESPN extra 🇦🇷
+https://edge-live13-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
+
+#EXTINF:-1, ESPN VIVO 🇦🇷
+http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
+
+#EXTINF:-1, ESPN EXTRA 🇦🇷
 https://edge-live13-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
 
 #EXTINF:-1, FOX Sports 🇦🇷
@@ -722,6 +713,12 @@ http://185.140.187.67:8085/udp/238.2.19.188:1234
 
 #EXTINF:-1, ФУТБOЛ 2HD 🇷🇺
 http://185.140.187.67:8085/udp/238.2.19.189:1234
+
+#EXTINF:-1,CФУТБOЛ 2HD 🇷🇺
+https://bal.varcdn1.ru/lb/m2/index.m3u8
+
+#EXTINF:-1, MATH 3 🇷🇺
+https://bal.varcdn1.ru/lb/m3/index.m3u8
 
 #EXTINF:-1, SETANTA SPORT 1 🇷🇺
 http://37.187.28.95:2022/setanta_eurasia_hd/mpegts
