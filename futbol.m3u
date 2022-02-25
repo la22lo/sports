@@ -3,8 +3,8 @@
 #EXTINF:-1, LALIGA TV 🇬🇧
 http://194.67.196.19/hls/103.m3u8
 
-#EXTINF:-1,LOOK SPORT + 🇷🇴
-https://stream1.1616.ro:1945/lookplus/livestream/chunklist_w160988655.m3u8
+#EXTINF:-1, LALIGA TV 🇬🇧
+https://dcisiz1qfkk6q.cloudfront.net/stream/MzAwMg==/1080p.m3u8
 
 #EXTINF:-1, LALIGA CCTV 🇨🇳
 https://hll.hnzzdf.com.cn/live/H94836.m3u8?txSecret=472bd43721eb74576825a5ab3163965d&txTime=621A3571&_s=stream
@@ -500,6 +500,9 @@ https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?mvk
 
 #EXTINF:-1,LOOK SPORT + 🇷🇴
 https://stream1.1616.ro:1945/look/livestream/chunklist.m3u8?mvk
+
+#EXTINF:-1,LOOK SPORT + 🇷🇴
+https://stream1.1616.ro:1945/lookplus/livestream/chunklist_w160988655.m3u8
 
 #EXTINF:-1, LOOK_PLUS 🇷🇴
 http://televizoro.tk:25461/roforum.net/roforum.net/16711
