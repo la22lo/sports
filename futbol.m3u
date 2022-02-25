@@ -3,6 +3,9 @@
 #EXTINF:-1, LALIGA TV 🇬🇧
 http://194.67.196.19/hls/103.m3u8
 
+#EXTINF:-1,LOOK SPORT + 🇷🇴
+https://stream1.1616.ro:1945/lookplus/livestream/chunklist_w160988655.m3u8
+
 #EXTINF:-1, BEIN SPORT 1 TRUE VISIONS 🇹🇭
 https://sport.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 
