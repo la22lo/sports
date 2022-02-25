@@ -861,33 +861,6 @@ http://37.19.203.217:8085/udp/239.100.10.131:5000
 #EXTINF:-1, RING HD 🇬🇷
 http://37.19.203.217:8085/udp/239.100.10.81:5000
 
-#EXTINF:-1, Dazn Channel 🇮🇹
-http://gazalavatar.com:2082/morrostar0241/5f902165a8533/44760
-
-#EXTINF:-1, Dazn 1 🇮🇹
-http://gazalavatar.com:2082/morrostar0241/5f902165a8533/44761
-
-#EXTINF:-1, Dazn 2 🇮🇹
-http://gazalavatar.com:2082/morrostar0241/5f902165a8533/44762
-
-#EXTINF:-1, Dazn 3 🇮🇹
-http://gazalavatar.com:2082/morrostar0241/5f902165a8533/44763
-
-#EXTINF:-1, Dazn 4 🇮🇹
-http://gazalavatar.com:2082/morrostar0241/5f902165a8533/44764
-
-#EXTINF:-1, Dazn 5 🇮🇹
-http://gazalavatar.com:2082/morrostar0241/5f902165a8533/44765
-
-#EXTINF:-1, Dazn 6 🇮🇹
-http://gazalavatar.com:2082/morrostar0241/5f902165a8533/44766
-
-#EXTINF:-1, Dazn 7 🇮🇹
-http://gazalavatar.com:2082/morrostar0241/5f902165a8533/44767
-
-#EXTINF:-1, Dazn 8 🇮🇹
-http://gazalavatar.com:2082/morrostar0241/5f902165a8533/44768
-
 #EXTINF:-1, FOX SOCCER PLUS 🇬🇧
 http://134.19.182.131:8080/pdgfb78bc33b911096c_2.m3u8?m=D60POeH1SPpZzFWw2CirWQ&c=fb78bc33b911096c&p=3138352e3132382e36302e31&e=1644976155
 
@@ -1133,6 +1106,9 @@ http://93.157.62.180/RTSHSport/index.m3u8
 
 #EXTINF:-1,RTSH SPORT 🇦🇱
 http://185.204.32.4:9981/stream/channelid/1261192802|User-Agent=stream
+
+#EXTINF:-1,RTSH SPORT 🇦🇱
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2568
 
 #EXTINF:-1,CID 1 🇸🇦
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8 
