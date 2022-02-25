@@ -54,6 +54,9 @@ https://edge-live12-sl.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
+#EXTINF:-1, beIN Sports 1 🇶🇦
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/100
+
 #EXTINF:-1, beIN Sports 1 HD 🇶🇦
 http://yeplayer.xyz:8080/load/load5/4
 
