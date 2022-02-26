@@ -18,6 +18,15 @@ https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=
 #EXTINF:-1,TELEKOM Sport 2 🇷🇴
 http://bestavb.top:8008/Daia_Florin/1Unlimited19/36707
 
+#EXTINF:-1, beIN Sports 1 🇶🇦
+http://93.152.174.144:4000/play/bein1ar/index.m3u8
+
+#EXTINF:-1, ELEVEN SPORT 1 🇵🇹
+https://liv11octptsp.stblauncher.com/live/6643_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+
+#EXTINF:-1, ELEVEN SPORT 1 🇵🇹
+https://bit.ly/3pCPdPt
+
 #EXTINF:-1,ELEVEN SPORT 2 POLONIA 🇵🇱
 http://185.204.32.49:6735/UltraNetS6/stream/playlist.m3u8
 
@@ -47,18 +56,6 @@ http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/48633
 
 #EXTINF:-1, ESPN 2 🇦🇷
 https://edge-live12-sl.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
-
-#EXTINF:-1, beIN Sports 1 🇶🇦
-http://93.152.174.144:4000/play/bein1ar/index.m3u8
-
-#EXTINF:-1, beIN Sports 1 🇶🇦
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/100
-
-#EXTINF:-1, ELEVEN SPORT 1 🇵🇹
-https://liv11octptsp.stblauncher.com/live/6643_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
-
-#EXTINF:-1, ELEVEN SPORT 1 🇵🇹
-https://bit.ly/3pCPdPt
 
 #EXTINF:-1, SUPER SPORT 🇬🇧
 http://urtv.cc/454781209544/431009674535/6575
