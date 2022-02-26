@@ -3,8 +3,8 @@
 #EXTINF:-1, LALIGA TV 🇬🇧
 http://livehls.ltjuq.top/ofmatch/HD236313.m3u8?auth_key=1645889051-70dc38695d0c8426aa90146c053843e2-0-dd3258e250c3b6e33b1c4029e8279308
 
-#EXTINF:-1, LALIGA TV 🇬🇧
-https://dcisiz1qfkk6q.cloudfront.net/stream/MzAwNw==/1080p.m3u8?SBN
+#EXTINF:-1, LALIGA TV 🇪🇸
+https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/XKrUKfD4d469sPMknhE7Q9aiNKst6iSXPUbB_Hm1On-lnQsVf2OLyyqVbr6NcohNpgViyOQ5iB_Ay9k6PHsrPQ/non_transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/master_dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1, SUPERSPORT TV 🇬🇧
 http://194.67.196.19/hls/103.m3u8
