@@ -12,6 +12,9 @@ https://d2t0agv4yshwp.cloudfront.net/stream/MzAwNw==/1080p.m3u8
 #EXTINF:-1, SUPERSPORT TV 🇬🇧
 http://194.67.196.19/hls/103.m3u8
 
+#EXTINF:-1, LIGA
+https://hll.hnzzdf.com.cn/live/H94835.m3u8?txSecret=eace1113cf6e89b3e0c94e49619de47b&txTime=621B386D&_s=stream
+
 #EXTINF:-1, MAX SPORT 4 HD 🇧🇬
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/28407
 
