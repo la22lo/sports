@@ -1,6 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1, LALIGA TV 🇬🇧
+https://dcisiz1qfkk6q.cloudfront.net/stream/MzAwNw==/1080p.m3u8
+
+#EXTINF:-1, SUPERSPORT TV 🇬🇧
 http://194.67.196.19/hls/103.m3u8
 
 #EXTINF:-1, MAX SPORT 4 HD 🇧🇬
