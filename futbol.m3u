@@ -45,6 +45,9 @@ https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/VJMkevy2BmPdNNHfvf02f
 #EXTINF:-1, DirecTV Sports 🇦🇷
 http://soberon.us:25461/live/bullnew/soberonnew/1048.m3u8
 
+#EXTINF:-1, DirecTV Sports 2 🇦🇷
+http://soberon.us:25461/live/bullnew/soberonnew/1046.m3u8
+
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 https://s.shidurlive.com/app/19067/chunklist.m3u8?h=kwNrhr3nBuHduJ2wg9ifEg&e=1645994999&uid=e15ee0624a30f8efb70ef74208736c48
 
