@@ -9,6 +9,9 @@ http://185.204.32.49:6735/UltraNetS3/stream/playlist.m3u8
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/VJMkevy2BmPdNNHfvf02fHy3CfCATXAmURREQD7j7ifL69HSuEbHPDv-zovWbLY-6Gcfkdsmls2TeSu1k9JPYQ/non_transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/master_dynamic_highlatency.m3u8
 
+#EXTINF:-1, SUPER SPORT 🇬🇧
+http://194.67.196.19/hls/103.m3u8?mvk
+
 #EXTINF:-1, ARENA SPORT 1 HD PREMIUM SERBIA 🇷🇸
 http://46.29.169.15:4001/play/a00g/index.m3u8?mvk
 
