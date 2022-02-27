@@ -1,32 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, LALIGA SUPERSPORT 🇬🇧
-https://bigsmoke.lbs.pw/set1/tracks-v1a1/mono.m3u8?token=f1b9783b1629018df4b4dd3254290e53634a6491-0.4533807739260671-1645931547-1645895547
-
-#EXTINF:-1, S LALIGA 🇬🇧
-https://awshd.mazystreams.xyz/live/2/playlist.m3u8
-
-#EXTINF:-1, LALIGA TV 🇬🇧
-https://cdn.livepeer.com/hls/62d2nxqpq96gb8e6/0_1/index.m3u8
-
-#EXTINF:-1, ESPN
-https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/n3jt3mmsG4DaWzaAZyumI4iIr419XcTg1KmfdL75Wo_FUVpxHul3-hh2v11es1K4GdX6WV8Jxk-TlQTB7Qmv8w/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8
-
-#EXTINF:-1, LALIGA
-https://play.girlupx.cn/live/ballbar_20940.m3u8
-
-#EXTINF:-1, LALIGA TV 🇪🇸
-https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/XKrUKfD4d469sPMknhE7Q9aiNKst6iSXPUbB_Hm1On-lnQsVf2OLyyqVbr6NcohNpgViyOQ5iB_Ay9k6PHsrPQ/non_transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/master_dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1, LALIGA
-https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/n3jt3mmsG4DaWzaAZyumI4iIr419XcTg1KmfdL75Wo_FUVpxHul3-hh2v11es1K4GdX6WV8Jxk-TlQTB7Qmv8w/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1, SETANTA SPORTS 🇷🇺
-https://bigsmoke.lbs.pw/set1/tracks-v1a1/mono.m3u8?token=f1b9783b1629018df4b4dd3254290e53634a6491-0.4533807739260671-1645931547-1645895547
-
-#EXTINF:-1, SUPERSPORT TV 🇬🇧
-http://194.67.196.19/hls/103.m3u8
-
 #EXTINF:-1, MAX SPORT 4 HD 🇧🇬
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/28407
 
