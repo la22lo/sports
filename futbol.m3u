@@ -1002,8 +1002,14 @@ http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1, CANAL CHINO 6 CCTV5+Sport 🇨🇳
 http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 
-#EXTINF:-1, ELEVENSPORT ASIA 1 🇨🇳
-https://europe-west-hls.mls.mycujoo.tv/esgp/ckze22hzk000e0188jlzvr6d2/720p/playlist.m3u8
+#EXTINF:-1, CCTV5 🇨🇳
+https://playfdcusa.olelive.olevod.tv:6443/tv/cctv5hd/hls.m3u8
+
+#EXTINF:-1, CCTV5 🇨🇳
+http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228965/42330389.smil/1000.m3u8?IASHttpSessionId=OTT5831020220226103327009638&ztecid=3221228965&bandwidth=7726080&ispcode=26&timeformat=local&channel=3221228965&fmt=ts2hls&m3u8_level=2&zte_bandwidth=1000
+
+#EXTINF:-1, CCTV5 + 🇨🇳
+https://playfdcusa.olelive.olevod.tv:6443/tv/cctv5phd/hls.m3u8
 
 #EXTINF:-1, UseeSports 1 🇹🇭
 http://15.235.142.228:8080/live/hometvfree/selaludihati/70.ts
