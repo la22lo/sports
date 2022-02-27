@@ -9,6 +9,9 @@ http://185.204.32.49:6735/UltraNetS3/stream/playlist.m3u8
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/VJMkevy2BmPdNNHfvf02fHy3CfCATXAmURREQD7j7ifL69HSuEbHPDv-zovWbLY-6Gcfkdsmls2TeSu1k9JPYQ/non_transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/master_dynamic_highlatency.m3u8
 
+#EXTINF:-1, ARENA SPORT 1 HD PREMIUM SERBIA 🇷🇸
+http://46.29.169.15:4001/play/a00g/index.m3u8?mvk
+
 #EXTINF:-1, ARENA SPORT 2 PREMIUM 🇷🇸
 http://46.29.169.15:4001/play/a00h/index.m3u8
 
@@ -74,9 +77,6 @@ http://urtv.cc/454781209544/431009674535/6575
 
 #EXTINF:-1, beIN SPORTS English 2 🇬🇧
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
-
-#EXTINF:-1, ARENA SPORT 1 HD PREMIUM SERBIA 🇷🇸
-http://46.29.169.15:4001/play/a00g/index.m3u8?mvk
 
 #EXTINF:-1, SETANTA SPORTS 1 🇷🇺
 https://sl18.varcdn1.ru/setanta1/index.m3u8?mvk
