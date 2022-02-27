@@ -946,10 +946,10 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 https://europe-west-hls.mls.mycujoo.tv/esgp/ckze22hzk000e0188jlzvr6d2/720p/playlist.m3u8
 
 #EXTINF:-1, UseeSports 1 🇹🇭
-http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=useesport&gumisasakTV=default&sync=0
+http://15.235.142.228:8080/live/hometvfree/selaludihati/70.ts
 
 #EXTINF:-1, UseeSports 2 🇹🇭
-http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=useesports2&gumisasakTV=default&sync=0
+http://15.235.142.228:8080/live/hometvfree/selaludihati/71.ts
 
 #EXTINF:-1,ASTRO SUPERSPORT 1 🇲🇾
 http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/52859
