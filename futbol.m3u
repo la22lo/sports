@@ -6,9 +6,6 @@ http://185.204.32.49:6735/UltraNetS2/stream/playlist.m3u8
 #EXTINF:-1, S LALIGA 🇬🇧
 http://2690.ovh:25461/r04e78aq/93nxngw7/103359
 
-#EXTINF:-1, ON FOOTBALL
-https://m3u.1proxy.xyz/sv2/go_15/index.m3u8
-
 #EXTINF:-1, MAX SPORT 4 HD 🇧🇬
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/28407
 
@@ -1784,6 +1781,9 @@ http://45.134.21.199/hls/S3.m3u8?P135
 
 #EXTINF:-1, S PREMIER
 http://cro.hockeynews.club/live/2/chunks.m3u8
+
+#EXTINF:-1, ON FOOTBALL
+https://m3u.1proxy.xyz/sv2/go_15/index.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
