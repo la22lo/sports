@@ -966,13 +966,8 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
-
-
 #EXTINF:-1, 4 SPORT
 http://80.24.75.92:5555/udp/239.111.2.8:1234
-
-#EXTINF:-1, SPORT 1 GERMANY 🇩🇪
-http://109.122.68.51:4000/play/a06v
 
 #EXTINF:-1, SPORT 1 GERMANY 🇩🇪
 http://ip.bosszx.net/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/19679
@@ -986,20 +981,8 @@ http://ip.bosszx.net/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/3897
 #EXTINF:-1,SKY SPORT AUSTRIA 2 🇦🇹
 http://ip.bosszx.net/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/64464
 
-#EXTINF:-1, SPORTS-ON-TIME-1 🇸🇦
-http://yeplayer.xyz:8080/load/load5/21
-
-#EXTINF:-1, SPORTS-ON-TIME-2 🇸🇦
-http://yeplayer.xyz:8080/load/load5/22
-
-#EXTINF:-1, SPORTS-ON-TIME-3 🇸🇦
-http://yeplayer.xyz:8080/load/load5/23
-
 #EXTINF:-1, OMAN SPORT 🇴🇲
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
-
-#EXTINF:-1, KTB SPORTS 🇸🇦
-https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
 
 #EXTINF:-1,DUBAI SPORTS 3 FHD 🇸🇦
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby
