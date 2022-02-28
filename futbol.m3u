@@ -328,21 +328,6 @@ http://fortv.cc:8080/christina/christina/78458
 http://fortv.cc:8080/christina/christina/78459
 
 #EXTINF:-1, beIN Sports 1 🇶🇦
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
-
-#EXTINF:-1, beIN Sports 2 🇶🇦
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
-
-#EXTINF:-1, beIN Sports 4 🇶🇦
-http://cloud.cdn-proxy.win:2052/802431545469102/l4WCmZnwCp/524?
-
-#EXTINF:-1, beIN Sports 5 🇶🇦
-http://cloud.cdn-proxy.win:2052/802431545469102/l4WCmZnwCp/526?
-
-#EXTINF:-1, beIN Sports 6 🇶🇦
-http://cloud.cdn-proxy.win:2052/802431545469102/l4WCmZnwCp/528?
-
-#EXTINF:-1, beIN Sports 1 🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
 #EXTINF:-1, beIN Sports 2 🇶🇦
@@ -357,68 +342,8 @@ http://93.152.174.144:4000/play/bein4ar/index.m3u8
 #EXTINF:-1, Bein Sports 5 🇶🇦
 http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
 
-#EXTINF:-1, beIN Sports 1 HD 🇶🇦
-http://yeplayer.xyz:8080/load/load5/4
-
-#EXTINF:-1, beIN Sports 2 HD 🇶🇦
-http://yeplayer.xyz:8080/load/load5/5
-
-#EXTINF:-1, beIN Sports 3 HD 🇶🇦
-http://yeplayer.xyz:8080/load/load5/6
-
-#EXTINF:-1, beIN Sports 4 HD 🇶🇦
-http://yeplayer.xyz:8080/load/load5/7
-
-#EXTINF:-1, beIN Sports 5 HD 🇶🇦
-http://yeplayer.xyz:8080/load/load5/8
-
 #EXTINF:-1, Bein Sports 7 🇶🇦
 http://93.152.174.144:4000/play/bein7/index.m3u8
-
-#EXTINF:-1, Bein Sports HD1 🇶🇦
-http://gazalavatar.com:2082/morrostar0241/5f902165a8533/23893
-
-#EXTINF:-1, Bein Sports HD2 🇶🇦
-http://gazalavatar.com:2082/morrostar0241/5f902165a8533/23891
-
-#EXTINF:-1, Bein Sports HD3 🇶🇦
-http://gazalavatar.com:2082/morrostar0241/5f902165a8533/23890
-
-#EXTINF:-1, Bein Sports HD4 🇶🇦
-http://gazalavatar.com:2082/morrostar0241/5f902165a8533/23889
-
-#EXTINF:-1, Bein Sports HD5 🇶🇦
-http://gazalavatar.com:2082/morrostar0241/5f902165a8533/23888
-
-#EXTINF:-1, Bein Sports HD6 🇶🇦
-http://gazalavatar.com:2082/morrostar0241/5f902165a8533/23887
-
-#EXTINF:-1, Bein Sports HD7 🇶🇦
-http://gazalavatar.com:2082/morrostar0241/5f902165a8533/23886
-
-#EXTINF:-1,beIN SPORTS 1 PREMIUM 🇶🇦
-http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
-
-#EXTINF:-1,BEIN SPORTS 1 PREMIUM 🇶🇦
-http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
-
-#EXTINF:-1,BEIN SPORTS 1 PREMIUM 🇶🇦
-http://yeplayer.xyz:8080/load/load5/1
-
-#EXTINF:-1, BEIN SPORT 2 PREMIUM 🇶🇦
-http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
-
-#EXTINF:-1 ,BEIN SPORTS 2 PREMIUM 🇶🇦
-http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8
-
-#EXTINF:-1 ,BEIN SPORTS 2 PREMIUM 🇶🇦
-http://yeplayer.xyz:8080/load/load5/5
-
-#EXTINF:-1, BEIN SPORT 3 PREMIUM 🇶🇦
-http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
-
-#EXTINF:-1 ,BEIN SPORTS 3 PREMIUM 🇶🇦
-http://130.193.166.18:80/cache/Bein-Prem-3-HEVC/master.m3u8
 
 #EXTINF:-1,BEIN SPORTS 1 PREMIUM 🇶🇦
 http://fortv.cc:8080/christina/christina/55337
@@ -428,6 +353,9 @@ http://fortv.cc:8080/christina/christina/55338
 
 #EXTINF:-1, BEIN SPORT 3 PREMIUM 🇶🇦
 http://fortv.cc:8080/christina/christina/55339
+
+#EXTINF:-1, beIN Sports 3 PREMIUM 🇶🇦
+http://cloud.cdn-proxy.win:2052/802431545469102/l4WCmZnwCp/528?
 
 #EXTINF:-1, Bein Sports 4 🇶🇦
 http://fortv.cc:8080/christina/christina/55340
@@ -469,9 +397,6 @@ http://plus.linkott.com:80/50513041283809/97304261488292/180277
 http://plus.linkott.com:80/50513041283809/97304261488292/30130
 
 #EXTINF:-1, MOVISTAR LIGA CAMPEONES 🇪🇸
-http://soberon.us:25461/live/bullnew/soberonnew/57.m3u8
-
-#EXTINF:-1, MOVISTAR LIGA CAMPEONES 🇪🇸
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/12609
 
 #EXTINF:-1, Liga Campeones 1ᴴᴰ 🇪🇸
@@ -498,26 +423,17 @@ http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/39
 #EXTINF:-1, beIN Sports 1 French 🇫🇷
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
 
-#EXTINF:-1 ,BEIN SPORTS 1 FR 🇫🇷
-http://showflix.org:5890/Berlin/Berlin/587
+#EXTINF:-1,BEIN SPORT  1 HD 🇫🇷
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49493
 
 #EXTINF:-1, beIN Sports 2 French 🇫🇷
 http://93.152.174.144:4000/play/bein2fr/index.m3u8
 
-#EXTINF:-1 ,BEIN SPORTS 2 FR 🇫🇷
-http://showflix.org:5890/Berlin/Berlin/589
+#EXTINF:-1,BEIN SPORT  2 HD 🇫🇷
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49494
 
 #EXTINF:-1 ,BEIN SPORTS 3 FR 🇫🇷
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
-
-#EXTINF:-1 ,BEIN SPORTS 3 FR 🇫🇷
-http://showflix.org:5890/Berlin/Berlin/591
-
-#EXTINF:-1,BEIN SPORT  1 HD 🇫🇷
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49493
-
-#EXTINF:-1,BEIN SPORT  2 HD 🇫🇷
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49494
 
 #EXTINF:-1,BEIN SPORT  3 HD 🇫🇷
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49495
@@ -537,9 +453,6 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
 #EXTINF:-1, beIN SPORTS English 3 🇬🇧
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
 
-#EXTINF:-1, beIN SPORTS USA HD
-http://s1.iptv66.tv:80/H04036T16072X/u57QopCXyM/6097
-
 #EXTINF:-1, BT SPORT 1 🇬🇧
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 
@@ -554,15 +467,6 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61419
 
 #EXTINF:-1, BT SPORT 3 🇬🇧
 http://93.152.174.144:4000/play/btsport3/index.m3u8
-
-#EXTINF:-1, BT Sport 1 🇬🇧
-https://iptv.lancartech.co.id:8443/live/kumon/kumon/86856.ts
-
-#EXTINF:-1, BT Sport 2 🇬🇧
-https://iptv.lancartech.co.id:8443/live/kumon/kumon/86857.ts
-
-#EXTINF:-1, BT Sport 3 🇬🇧
-https://iptv.lancartech.co.id:8443/live/kumon/kumon/86858.ts
 
 #EXTINF:-1, BT Sport ESPN 🇬🇧
 http://93.152.174.144:4000/play/btsport3/index.m3u8
@@ -594,35 +498,11 @@ https://stream1.1616.ro:1945/look/livestream/chunklist.m3u8?mvk
 #EXTINF:-1,LOOK SPORT + 🇷🇴
 https://stream1.1616.ro:1945/lookplus/livestream/chunklist_w160988655.m3u8
 
-#EXTINF:-1, LOOK_PLUS 🇷🇴
-http://televizoro.tk:25461/roforum.net/roforum.net/16711
-
-#EXTINF:-1, lookSport1 🇷🇴
-http://televizoro.tk:25461/roforum.net/roforum.net/16712
-
-#EXTINF:-1, lookSport2 🇷🇴
-http://televizoro.tk:25461/roforum.net/roforum.net/16713
-
-#EXTINF:-1, lookSport3 🇷🇴
-http://televizoro.tk:25461/roforum.net/roforum.net/16714
-
-#EXTINF:-1, LOOKSPORT PLUS 🇷🇴
-http://televizoro.tk:25461/roforum.net/roforum.net/18174
-
-#EXTINF:-1, LOOKSPORT 🇷🇴
-http://televizoro.tk:25461/roforum.net/roforum.net/18175
-
-#EXTINF:-1, DIGISPORT1 🇷🇴
-http://televizoro.tk:25461/roforum.net/roforum.net/18193
-
 #EXTINF:-1, DIGISPORT1 🇷🇴
 http://bestavb.top:8008/Daia_Florin/1Unlimited19/33798
 
 #EXTINF:-1, DIGISPORT1 🇷🇴
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4524
-
-#EXTINF:-1, DIGISPORT2 🇷🇴
-http://televizoro.tk:25461/roforum.net/roforum.net/18194
 
 #EXTINF:-1, DIGISPORT2 🇷🇴
 http://bestavb.top:8008/Daia_Florin/1Unlimited19/33800
@@ -631,16 +511,10 @@ http://bestavb.top:8008/Daia_Florin/1Unlimited19/33800
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4523
 
 #EXTINF:-1, DIGISPORT3 🇷🇴
-http://televizoro.tk:25461/roforum.net/roforum.net/18195
-
-#EXTINF:-1, DIGISPORT3 🇷🇴
 http://bestavb.top:8008/Daia_Florin/1Unlimited19/33802
 
 #EXTINF:-1, DIGISPORT3 🇷🇴
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4522
-
-#EXTINF:-1, DIGISPORT4 🇷🇴
-http://televizoro.tk:25461/roforum.net/roforum.net/18196
 
 #EXTINF:-1, DIGISPORT4 🇷🇴
 http://bestavb.top:8008/Daia_Florin/1Unlimited19/33804
@@ -648,26 +522,8 @@ http://bestavb.top:8008/Daia_Florin/1Unlimited19/33804
 #EXTINF:-1, DIGISPORT4 🇷🇴
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4521
 
-#EXTINF:-1, TELEKOMSPORT1 HD(On-Demand) 🇷🇴
-http://televizoro.tk:25461/roforum.net/roforum.net/18199
-
-#EXTINF:-1, TELEKOMSPORT2 HD(On-Demand) 🇷🇴
-http://televizoro.tk:25461/roforum.net/roforum.net/18200
-
-#EXTINF:-1, TELEKOMSPORT3 HD(On-Demand) 🇷🇴
-http://televizoro.tk:25461/roforum.net/roforum.net/18201
-
-#EXTINF:-1, TELEKOMSPORT4 HD(On-Demand) 🇷🇴
-http://televizoro.tk:25461/roforum.net/roforum.net/18202
-
 #EXTINF:-1, TELEKOMSPORT1 HD 🇷🇴
-http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/23964
-
-#EXTINF:-1, TELEKOMSPORT2 HD 🇷🇴
-http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/23963
-
-#EXTINF:-1, TELEKOMSPORT3 HD 🇷🇴
-http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/23962
+http://bestavb.top:8008/Daia_Florin/1Unlimited19/36706
 
 #EXTINF:-1, TELEKOMSPORT2 HD 🇷🇴
 http://bestavb.top:8008/Daia_Florin/1Unlimited19/36707
