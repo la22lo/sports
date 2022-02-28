@@ -801,29 +801,8 @@ https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 #EXTINF:-1, SMAR SPORT HD 🇹🇷
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1795
 
-#EXTINF:-1, ESPN 1 ARG 🇦🇷
-http://qqtv.nl:8080/live/norma/12345/20101.m3u8
-
-#EXTINF:-1, ESPN 2 ARG 🇦🇷
-http://qqtv.nl:8080/live/norma/12345/275190.m3u8
-
-#EXTINF:-1, ESPN 3 ARG 🇦🇷
-http://qqtv.nl:8080/live/norma/12345/20056.m3u8
-
-#EXTINF:-1, ESPN VIVO 1 🇦🇷
-http://qqtv.nl:8080/live/norma/12345/275187.m3u8
-
-#EXTINF:-1, ESPN VIVO 2 🇦🇷
-http://qqtv.nl:8080/live/norma/12345/20102.m3u8
-
-#EXTINF:-1, ESPN VIVO 3 🇦🇷
-http://qqtv.nl:8080/live/norma/12345/20103.m3u8
-
 #EXTINF:-1, ESPN VIVO 🇦🇷
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
-
-#EXTINF:-1, FOX SPORTS PREMIUM 🇦🇷
-https://vod.livestreamapis.com/620fef32_7e6a2058afc5094864ab4362c21f63012a9556de/events/000000000093e016/7eef53c1-668e-424f-8f38-9b23e41e220a_2756.m3u8
 
 #EXTINF:-1, TNT SPORTS 🇦🇷
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
@@ -831,17 +810,11 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1, TyC SPORT 🇦🇷
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 
-#EXTINF:-1, TyC SPORT 🇦🇷
+#EXTINF:-1, TyC SPORT PLAY 🇦🇷
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_15.m3u8
 
 #EXTINF:-1,CABLE SPORTS 🇦🇷
 https://tv.siete.us/bestcablesports/bestcablesports/index.m3u8
-
-#EXTINF:-1, ESPN HD MEX
-http://qqtv.nl:8080/live/norma/12345/7913.m3u8
-
-#EXTINF:-1, ESPN EXTRA
-http://qqtv.nl:8080/live/norma/12345/7915.m3u8
 
 #EXTINF:-1, ESPN EXTRA BRASIL 🇧🇷
 https://liv11octhd.stblauncher.com/live/34_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
@@ -851,9 +824,6 @@ https://liv11octhd.stblauncher.com/live/5912_.m3u8?token=bcc65a1fb3974adeaa616e5
 
 #EXTINF:-1, ESPN HD 3 BRASIL 🇧🇷
 https://liv11octhd.stblauncher.com/live/5910_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
-
-#EXTINF:-1, DIRECTV + ECUADOR 🇪🇨
-http://qqtv.nl:8080/live/norma/12345/20059.m3u8
 
 #EXTINF:-1, FOX SPORTS HD 1 BRASIL 🇧🇷
 https://liv11octhd.stblauncher.com/live/5927_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
