@@ -3,9 +3,6 @@
 #EXTINF:-1, Super Sports HD 2 🇦🇱
 http://185.204.32.49:6735/UltraNetS2/stream/playlist.m3u8
 
-#EXTINF:-1, S LALIGA 🇬🇧
-http://2690.ovh:25461/r04e78aq/93nxngw7/103359
-
 #EXTINF:-1, MAX SPORT 4 HD 🇧🇬
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/28407
 
@@ -39,41 +36,11 @@ https://liv11octptsp.stblauncher.com/live/6643_.m3u8?token=bcc65a1fb3974adeaa616
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇹
 https://bit.ly/3pCPdPt
 
-#EXTINF:-1, ESPN 3 🇦🇷
-https://edge-live12-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
+#EXTINF:-1, beIN SPORTS English 2 🇬🇧
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
 
 #EXTINF:-1,ELEVEN SPORT 2 POLONIA 🇵🇱
 http://185.204.32.49:6735/UltraNetS6/stream/playlist.m3u8
-
-#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
-http://plus.linkott.com:80/50513041283809/97304261488292/78675
-
-#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
-http://plus.linkott.com:80/50513041283809/97304261488292/149070
-
-#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
-http://plus.linkott.com:80/50513041283809/97304261488292/180283
-
-#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
-http://plus.linkott.com:80/50513041283809/97304261488292/30202
-
-#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
-http://plus.linkott.com:80/50513041283809/97304261488292/103304
-
-#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
-http://plus.linkott.com:80/50513041283809/97304261488292/103305
-
-#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
-http://plus.linkott.com:80/50513041283809/97304261488292/30029
-
-#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
-http://plus.linkott.com:80/50513041283809/97304261488292/103244
-
-#EXTINF:-1, ESPN 2 🇦🇷
-https://edge-live12-sl.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
-
-#EXTINF:-1, beIN SPORTS English 2 🇬🇧
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
 
 #EXTINF:-1, SETANTA SPORTS 1 🇷🇺
 https://sl18.varcdn1.ru/setanta1/index.m3u8?mvk
@@ -89,9 +56,6 @@ https://stream1.1616.ro:1945/look/livestream/chunklist.m3u8?mvk
 
 #EXTINF:-1, SETANTA SPORTS 1 🇷🇺
 https://bal.varcdn1.ru/lb/setanta1/index.m3u8?per
-
-#EXTINF:-1,SETANTA 2 🇷🇺
-https://fat.lbs.pw/set2/index.m3u8?token=3cceae20e4e614f64d25783be0d9b92a717f2502-0.2608656284964541-1646002372-1645966372
 
 #EXTINF:-1,SETANTA 2 🇷🇺
 https://bal.varcdn1.ru/lb/setanta2/index.m3u8
@@ -111,9 +75,6 @@ http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/19
 #EXTINF:-1, DAZN 2 ALEMANIA 🇩🇪
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/189
 
-#EXTINF:-1, DAZN 2 Bar 🇩🇪
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78782
-
 #EXTINF:-1, BLUE SPORT 1 🇨🇭
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/124
 
@@ -125,12 +86,6 @@ http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/123
 
 #EXTINF:-1, BLUE SPORT 2 🇨🇭
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/11632
-
-#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/309
-
-#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
-http://77.247.109.136:2847/live/alper/123456/43376.m3u8?RacsoRella&token=TEQLBUENFwlHAgxSD1UAC1VTVFMGCAENAFdXWgAPXl0DUlUAAFVQUVBEGBJKEURWBAw8WQYaAwwFAFZVFBRNSlIUPA1WRw8RVFYCCQtcFB9HFQpdBxoDCBoREQpcFAIbBFVVVQJHGREAHkBVSwtXXzoFBkYLW1waDF0UD1QaGlZZOQcBXwRbV0dcFgEbSRRaFhFBCgxNVVQaEQMKTERZTVJEWQpHCVkfRwVbRVcRREpHW0F1MRoVGlNLFQZWRVFWWURZRl9WQAtHShZZSjpEVhYVEVUDVVxKFAlDUxoaGlRWHjwHXQtbVgYSXV9XFhQJR1BBHEBVVlZfRw4RZ0ZRXRVcQVcBUQwLRxs=
 
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/3933
@@ -164,9 +119,6 @@ http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 
 #EXTINF:-1, ESPN EXTRA 🇦🇷
 https://edge-live13-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
-
-#EXTINF:-1, FOX Sports 3 🇦🇷
-http://45.160.73.129:8888/play/a00t/index.m3u8
 
 #EXTINF:-1, FOX Sports SUR 🇦🇷
 https://lnc-fox-sports-espanol.tubi.video/index_4.m3u8
@@ -215,9 +167,6 @@ http://190.2.148.141:8080/bar7642/index.m3u8
 
 #EXTINF:-1, ESPN BRASIL HD 🇧🇷
 https://liv11octhd.stblauncher.com/live/5907_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
-
-#EXTINF:-1, ESPN BRASIL HD 🇧🇷
-https://iptv.lancartech.co.id:8443/live/kumon/kumon/87721.ts
 
 #EXTINF:-1, GEO SUPER 🇮🇳
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
