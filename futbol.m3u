@@ -615,6 +615,42 @@ http://46.29.169.15:4001/play/a002/index.m3u8
 #EXTINF:-1, ARENA SPORT 2 🇷🇸
 http://84.22.33.214/ArenaSport2/mono.m3u8?per
 
+#EXTINF:-1, KUJTESA SPORT 1HD 🇦🇱
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2187
+
+#EXTINF:-1, KUJTESA SPORT 2HD 🇦🇱
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2186
+
+#EXTINF:-1, KUJTESA SPORT 3HD 🇦🇱
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2185
+
+#EXTINF:-1, KUJTESA SPORT 4HD 🇦🇱
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2184
+
+#EXTINF:-1, Super Sports HD 1 🇦🇱
+http://185.204.32.49:6735/UltraNetS1/stream/playlist.m3u8
+
+#EXTINF:-1, Super Sports HD 2 🇦🇱
+http://185.204.32.49:6735/UltraNetS2/stream/playlist.m3u8
+
+#EXTINF:-1, Super Sports HD 3 🇦🇱
+http://185.204.32.49:6735/UltraNetS3/stream/playlist.m3u8
+
+#EXTINF:-1, Super Sports HD 4 🇦🇱
+http://185.204.32.49:6735/UltraNetS4/stream/playlist.m3u8
+
+#EXTINF:-1,RTSH SPORT 🇦🇱
+http://185.204.32.4:9981/stream/channelid/1261192802|User-Agent=stream
+
+#EXTINF:-1, TRING SPORT 1HD 🇦🇱
+http://45.58.122.106:8081/live/ts1/playlist.m3u8
+
+#EXTINF:-1, TRING SPORT 2HD 🇦🇱
+http://45.58.122.106:8081/live/ts2/playlist.m3u8
+
+#EXTINF:-1, TRING SPORT 3HD 🇦🇱
+http://45.58.122.106:8081/live/ts3/playlist.m3u8
+
 #EXTINF:-1, SK HD Croacia 🇭🇷
 http://94.250.61.6:2334/skhd
 
@@ -726,6 +762,9 @@ http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1, CANAL CHINO 6 CCTV5+Sport 🇨🇳
 http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 
+#EXTINF:-1, CCTV5
+http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+
 #EXTINF:-1, CCTV5 🇨🇳
 http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228965/42330389.smil/1000.m3u8?IASHttpSessionId=OTT5831020220226103327009638&ztecid=3221228965&bandwidth=7726080&ispcode=26&timeformat=local&channel=3221228965&fmt=ts2hls&m3u8_level=2&zte_bandwidth=1000
 
@@ -783,8 +822,8 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
 #EXTINF:-1, X SPORT 🇷🇺
 http://iptv.prosto.tv:7000/ch109/video.m3u8
 
-#EXTINF:-1,RTSH SPORT 🇦🇱
-http://185.204.32.4:9981/stream/channelid/1261192802|User-Agent=stream
+#EXTINF:-1, KBP SPORT 🇷🇺
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 #EXTINF:-1,Tivibu Spor 1 🇹🇷
 http://mugla.tvizlehd.com/live/tivibuspor.m3u8
@@ -865,19 +904,10 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 http://iptv.tvfix.org/hls/starsports.m3u8
 
 #EXTINF:-1, Win Sports 🇨🇴
-http://clubtv.link/f15/lista2.php?c=3244
-
-#EXTINF:-1, Win Sports 🇨🇴
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204379
-
-#EXTINF:-1, Win Sports + 🇨🇴
-http://clubtv.link/f15/lista2.php?c=3245
 
 #EXTINF:-1, VTV 🇨🇴
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/203894
-
-#EXTINF:-1, TNTSPORTS CHILE 🇨🇱
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/221474
 
 #EXTINF:-1, TIGO SPORTS 🇧🇴
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/228861
@@ -897,44 +927,8 @@ https://nn.geo.joj.sk/live/hls/rik-540.m3u8
 #EXTINF:-1, 11 INTERNACIONAL PORTUGAL
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
 
-#EXTINF:-1, KUJTESA SPORT 1HD 🇦🇱
-http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2187
-
-#EXTINF:-1, KUJTESA SPORT 2HD 🇦🇱
-http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2186
-
-#EXTINF:-1, KUJTESA SPORT 3HD 🇦🇱
-http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2185
-
-#EXTINF:-1, KUJTESA SPORT 4HD 🇦🇱
-http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2184
-
-#EXTINF:-1, Super Sports HD 1 🇦🇱
-http://185.204.32.49:6735/UltraNetS1/stream/playlist.m3u8
-
-#EXTINF:-1, Super Sports HD 2 🇦🇱
-http://185.204.32.49:6735/UltraNetS2/stream/playlist.m3u8
-
-#EXTINF:-1, Super Sports HD 3 🇦🇱
-http://185.204.32.49:6735/UltraNetS3/stream/playlist.m3u8
-
-#EXTINF:-1, Super Sports HD 4 🇦🇱
-http://185.204.32.49:6735/UltraNetS4/stream/playlist.m3u8
-
-#EXTINF:-1, TRING SPORT 1HD 🇦🇱
-http://45.58.122.106:8081/live/ts1/playlist.m3u8
-
-#EXTINF:-1, TRING SPORT 2HD 🇦🇱
-http://45.58.122.106:8081/live/ts2/playlist.m3u8
-
-#EXTINF:-1, TRING SPORT 3HD 🇦🇱
-http://45.58.122.106:8081/live/ts3/playlist.m3u8
-
 #EXTINF:-1,SWISS SPORT TV 🇨🇭
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
-
-#EXTINF:-1, SPORT DIGITAL HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1752
 
 #EXTINF:-1, TURKMEN SPORTS 🇹🇷
 http://alpha.tv.online.tm/hls/ch004_720/index.m3u8
@@ -963,14 +957,8 @@ http://149.62.183.198:8000/play/a06i/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1, T SPORTS
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
-#EXTINF:-1, CCTV5
-http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
-
 #EXTINF:-1, SHARJJAH SPORT
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-
-#EXTINF:-1, KBP SPORT 🇷🇺
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 #EXTINF:-1, TVRI SPORT HD
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
@@ -978,14 +966,7 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1, SPOTV 1
-https://smart-tv.livedoomovie.com:4431/02_foxsport_720p/chunklist.m3u8
 
-#EXTINF:-1, SPOTV 2
-https://smart-tv.livedoomovie.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8
-
-#EXTINF:-1, 11 SPORT 🇵🇹
-https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
 
 #EXTINF:-1, 4 SPORT
 http://80.24.75.92:5555/udp/239.111.2.8:1234
