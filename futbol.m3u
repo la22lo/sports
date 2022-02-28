@@ -693,6 +693,15 @@ http://195.222.7.26:7001/play/a00t
 #EXTINF:-1, CCTV5 🇨🇳
 https://playfdcusa.olelive.olevod.tv:6443/tv/cctv5hd/hls.m3u8
 
+#EXTINF:-1, CCTV5 🇨🇳
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000064
+
+#EXTINF:-1, CCTV5 + 🇨🇳
+http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
+
+#EXTINF:-1, CCTV5 + 🇨🇳
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000246
+
 #EXTINF:-1, CANAL CHINO 1 咪咕視頻·PP體育1 🇨🇳
 http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8 
 
@@ -719,6 +728,15 @@ http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221
 
 #EXTINF:-1, CCTV5 + 🇨🇳
 https://playfdcusa.olelive.olevod.tv:6443/tv/cctv5phd/hls.m3u8
+
+#EXTINF:-1, ELEVEN 1 🇨🇳
+rtmp://59.124.75.157/sat/tv731
+
+#EXTINF:-1, ELEVEN2 🇨🇳
+rtmp://59.124.75.157/sat/tv741
+
+#EXTINF:-1, ELTA 🇨🇳
+rtmp://59.124.75.157/sat/md041
 
 #EXTINF:-1, UseeSports 1 🇹🇭
 http://15.235.142.228:8080/live/hometvfree/selaludihati/70.ts
@@ -929,6 +947,9 @@ http://ip.bosszx.net/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/3897
 
 #EXTINF:-1,SKY SPORT AUSTRIA 2 🇦🇹
 http://ip.bosszx.net/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/64464
+
+#EXTINF:-1, NOW SPORT PRIME 🇸🇦
+http://livetv.dnsfor.me/channel.12.m3u8
 
 #EXTINF:-1, OMAN SPORT 🇴🇲
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
