@@ -963,6 +963,9 @@ https://sc.id-tv.kz:443/ViasatSport_34_35.m3u8
 #EXTINF:-1, VIASAT SPORT 🇸🇪
 http://bl.uma.media/live/485548/HLS/4614144_2,2883584/2/1/playlist.m3u8
 
+#EXTINF:-1, SPORT 1+1 🇷🇺
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+
 #EXTINF:-1, SPORT RU 🇷🇺
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
 
