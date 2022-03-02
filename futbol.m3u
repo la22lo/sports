@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
+http://unarrozvalenciano.ddns.net:8030/hls/marta12.m3u8
+
 #EXTINF:-1, Super Sports HD 2 🇦🇱
 http://185.204.32.49:6735/UltraNetS2/stream/playlist.m3u8
 
