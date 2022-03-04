@@ -6,6 +6,9 @@ https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/VY49QlLD8lQtt1WpOa_lr
 #EXTINF:-1, ESPN 🇦🇷
 https://videodelivery.net/bc300050a89f430e0f5169d3ddfedde5/manifest/video.m3u8
 
+#EXTINF:-1, ESPN 🇦🇷
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
+
 #EXTINF:-1, Super Sports HD 2 🇦🇱
 http://185.204.32.49:6735/UltraNetS2/stream/playlist.m3u8
 
