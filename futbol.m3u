@@ -12,6 +12,9 @@ https://videodelivery.net/bc300050a89f430e0f5169d3ddfedde5/manifest/video.m3u8
 #EXTINF:-1, ESPN 🇦🇷
 https://edge-live12-sl.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
 
+#EXTINF:-1, ESPN 🇦🇷
+https://per@play.brasiltvweb.com/v3/youshi/m1_ZLeLkHOSgiYq548T_480p.m3u8?dev_limit=1&client_ip=2804:5310:50ca:ec00:286d:ac96:72d5:f0fe&session_id=fQDpm2SR14uE&app_id=com.global.brasiltvweb&auth_id=42166598_com.global.brasiltvweb&user_id=42166598&app_ver=10101&rst_status=0&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&dev_id=b47e480f&main_addr=https://play.brasiltvweb.com/v3/youshi/&expired=1646433972&token=FA40AC830A60281954659A97093A91B5&media_code=m1_ZLeLkHOSgiYq548T_480p
+
 #EXTINF:-1, Super Sports HD 2 🇦🇱
 http://185.204.32.49:6735/UltraNetS2/stream/playlist.m3u8
 
