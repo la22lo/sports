@@ -6,6 +6,9 @@ https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/PQ44jXjuKakqZWs0XAUYb
 #EXTINF:-1, beIN Sports 🇶🇦
 https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/K9p5WkWJsdzJ9BqjoPNQuNJjWNvs4ny1l-NgX1B44tLrWu2B89UiPk6MNp607FJ7KCt_rh6Wl_sCHqNU34-R-A/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/dynamic_highlatency.m3u8?type=live
 
+#EXTINF:-1, beIN Sports 🇶🇦
+http://s1.iptv-pla.net:7040/mustapha7/dmruisst/42012
+
 #EXTINF:-1, beIN Sports 1 INDO 🇮🇩
 http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/60455
 
@@ -326,6 +329,27 @@ http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
 
 #EXTINF:-1, Bein Sports 7 🇶🇦
 http://93.152.174.144:4000/play/bein7/index.m3u8
+
+#EXTINF:-1, beIN Sports_2090 1 HD 🇶🇦
+http://s1.iptv-pla.net:7040/mustapha7/dmruisst/42012
+
+#EXTINF:-1, beIN Sports_2090 2 HD 🇶🇦
+http://s1.iptv-pla.net:7040/mustapha7/dmruisst/42013
+
+#EXTINF:-1, beIN Sports_2090 3 HD 🇶🇦
+http://s1.iptv-pla.net:7040/mustapha7/dmruisst/42014
+
+#EXTINF:-1, beIN Sports_2090 4 HD 🇶🇦
+http://s1.iptv-pla.net:7040/mustapha7/dmruisst/42015
+
+#EXTINF:-1, beIN Sports_2090 5 HD 🇶🇦
+http://s1.iptv-pla.net:7040/mustapha7/dmruisst/42041
+
+#EXTINF:-1, beIN Sports_2090 6 HD 🇶🇦
+http://s1.iptv-pla.net:7040/mustapha7/dmruisst/42042
+
+#EXTINF:-1, beIN Sports_2090 7 HD 🇶🇦
+http://s1.iptv-pla.net:7040/mustapha7/dmruisst/42044
 
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1013.ts
