@@ -18,6 +18,9 @@ http://init.cheches.info/hls/103.m3u8
 #EXTINF:-1, Super Sports HD 2 🇦🇱
 http://185.204.32.49:6735/UltraNetS2/stream/playlist.m3u8
 
+#EXTINF:-1, beIN Sports 1 🇶🇦
+http://almultakatv.com:25461/YCk3wuWx3oS/EgeQkm4lYrsZ/3108
+
 #EXTINF:-1, beIN Sports 1 INDO 🇮🇩
 http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/60455
 
