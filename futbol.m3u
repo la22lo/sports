@@ -21,9 +21,6 @@ https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/QSQpCbVjtQjFlGTrf4915
 #EXTINF:-1,MMN SPORT HD 🇮🇶
 http://190.2.148.141:8080/bar7642/index.m3u8
 
-#EXTINF:-1,LIGA 🇨🇳
-https://hll.hnzzdf.com.cn/live/H113223.m3u8?txSecret=22089551ae5aa29e065dd0992b387898&txTime=6225D27E&_s=stream
-
 #EXTINF:-1,SUPERSPORT LIGA 🇬🇧
 http://init.cheches.info/hls/103.m3u8
 
