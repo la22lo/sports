@@ -9,6 +9,9 @@ https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/K9p5WkWJsdzJ9BqjoPNQu
 #EXTINF:-1, beIN Sports 1 INDO 🇮🇩
 http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/60455
 
+#EXTINF:-1, ELEVEN SPORT 1 🇵🇹
+http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJIlbAuux2Qjgom4M0Y1VZBc/ts
+
 #EXTINF:-1, MAX 🇶🇦
 https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/QSQpCbVjtQjFlGTrf4915EJbGk-jTquLCAe6P4pKVxjzaR9LoZ7EWkzOKBN9CXPcmUYYDp3OUyNz4qZQ_8fT5w/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
 
@@ -77,6 +80,9 @@ http://bestavb.top:8008/Daia_Florin/1Unlimited19/36707
 
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
+
+#EXTINF:-1, ELEVEN SPORT 1 🇵🇹
+http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJIlbAuux2Qjgom4M0Y1VZBc/ts
 
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇹
 https://liv11octptsp.stblauncher.com/live/6643_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
