@@ -9,6 +9,9 @@ https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/K9p5WkWJsdzJ9BqjoPNQu
 #EXTINF:-1, beIN Sports 1 INDO 🇮🇩
 http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/60455
 
+#EXTINF:-1, MAX 🇶🇦
+https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/QSQpCbVjtQjFlGTrf4915EJbGk-jTquLCAe6P4pKVxjzaR9LoZ7EWkzOKBN9CXPcmUYYDp3OUyNz4qZQ_8fT5w/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
+
 #EXTINF:-1,MMN SPORT HD 🇮🇶
 http://190.2.148.141:8080/bar7642/index.m3u8
 
