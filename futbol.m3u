@@ -6,6 +6,9 @@ https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/PQ44jXjuKakqZWs0XAUYb
 #EXTINF:-1,MMN SPORT HD 🇮🇶
 http://190.2.148.141:8080/bar7642/index.m3u8
 
+#EXTINF:-1,LIGA 🇨🇳
+https://hll.hnzzdf.com.cn/live/H113220.m3u8?txSecret=1505133ca1459af223cb87706b83b258&txTime=62249525&_s=stream
+
 #EXTINF:-1,SUPERSPORT LIGA 🇬🇧
 http://init.cheches.info/hls/103.m3u8
 
