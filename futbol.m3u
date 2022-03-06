@@ -3,6 +3,9 @@
 #EXTINF:-1, beIN Sports 🇶🇦
 https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/PQ44jXjuKakqZWs0XAUYbxM7JAYUiEoWRyjpptiIpxaAMKqqH7fF8xQTnOKrKVw8LPST7RzcL5-beLTg0ubKKw/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
 
+#EXTINF:-1, beIN Sports 🇶🇦
+https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/K9p5WkWJsdzJ9BqjoPNQuNJjWNvs4ny1l-NgX1B44tLrWu2B89UiPk6MNp607FJ7KCt_rh6Wl_sCHqNU34-R-A/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/dynamic_highlatency.m3u8?type=live
+
 #EXTINF:-1, beIN Sports 1 INDO 🇮🇩
 http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/60455
 
