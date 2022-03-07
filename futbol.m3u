@@ -4,19 +4,10 @@
 https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/PQ44jXjuKakqZWs0XAUYbxM7JAYUiEoWRyjpptiIpxaAMKqqH7fF8xQTnOKrKVw8LPST7RzcL5-beLTg0ubKKw/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1, beIN Sports 🇶🇦
-https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/K9p5WkWJsdzJ9BqjoPNQuNJjWNvs4ny1l-NgX1B44tLrWu2B89UiPk6MNp607FJ7KCt_rh6Wl_sCHqNU34-R-A/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1, beIN Sports 🇶🇦
 http://s1.iptv-pla.net:7040/mustapha7/dmruisst/42012
-
-#EXTINF:-1, beIN Sports 1 INDO 🇮🇩
-http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/60455
 
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇹
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJIlbAuux2Qjgom4M0Y1VZBc/ts
-
-#EXTINF:-1, MAX 🇶🇦
-https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/QSQpCbVjtQjFlGTrf4915EJbGk-jTquLCAe6P4pKVxjzaR9LoZ7EWkzOKBN9CXPcmUYYDp3OUyNz4qZQ_8fT5w/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1,MMN SPORT HD 🇮🇶
 http://190.2.148.141:8080/bar7642/index.m3u8
@@ -27,29 +18,23 @@ http://init.cheches.info/hls/103.m3u8
 #EXTINF:-1, Super Sports HD 2 🇦🇱
 http://185.204.32.49:6735/UltraNetS2/stream/playlist.m3u8
 
-#EXTINF:-1, beIN Sports 1 🇶🇦
-http://almultakatv.com:25461/YCk3wuWx3oS/EgeQkm4lYrsZ/3108
-
-#EXTINF:-1, beIN Sports 1 INDO 🇮🇩
-http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/60455
-
 #EXTINF:-1, beIN Sports 1 INDO 🇮🇩
 http://15.235.142.228:8080/live/tvnid123/tvn123456/833.m3u8
 
 #EXTINF:-1, beIN Sports 1 MAL 🇲🇾
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71104
 
-#EXTINF:-1, beIN Sports 3 INDO 🇮🇩
-http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/60284
-
-#EXTINF:-1, beIN Sports 3 INDO 🇮🇩
-http://15.235.142.228:8080/live/tvnid123/tvn123456/834.m3u8
-
 #EXTINF:-1, beIN Sports 3 MAL 🇲🇾
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71105
 
+#EXTINF:-1, beIN Sports 1 MAL 🇲🇾
+http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/71104
+
 #EXTINF:-1, beIN Sports 3 MAL 🇲🇾
 http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/71105
+
+#EXTINF:-1, beIN Sports 3 INDO 🇮🇩
+http://15.235.142.228:8080/live/tvnid123/tvn123456/834.m3u8
 
 #EXTINF:-1, MAX SPORT 4 HD 🇧🇬
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/28407
@@ -96,9 +81,6 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
 #EXTINF:-1,ELEVEN SPORT 2 POLONIA 🇵🇱
 http://185.204.32.49:6735/UltraNetS6/stream/playlist.m3u8
 
-#EXTINF:-1, SETANTA SPORTS 1 🇷🇺
-https://sl18.varcdn1.ru/setanta1/index.m3u8?mvk
-
 #EXTINF:-1,LOOK + 🇷🇴
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?per
 
@@ -107,12 +89,6 @@ https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=
 
 #EXTINF:-1,LOOK SPORT + 🇷🇴
 https://stream1.1616.ro:1945/look/livestream/chunklist.m3u8?mvk
-
-#EXTINF:-1, SETANTA SPORTS 1 🇷🇺
-https://bal.varcdn1.ru/lb/setanta1/index.m3u8?per
-
-#EXTINF:-1,SETANTA 2 🇷🇺
-https://bal.varcdn1.ru/lb/setanta2/index.m3u8
 
 #EXTINF:-1, DAZN 1 ALEMANIA 🇩🇪
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/19688
@@ -285,27 +261,6 @@ http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/17510.ts
 #EXTINF:-1, ELEVEN 6 🇵🇹
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/17511.ts
 
-#EXTINF:-1, beIN 1 HD 🇶🇦
-http://almultakatv.com:25461/YCk3wuWx3oS/EgeQkm4lYrsZ/3108
-
-#EXTINF:-1, beIN 2 HD 🇶🇦
-http://almultakatv.com:25461/YCk3wuWx3oS/EgeQkm4lYrsZ/3109
-
-#EXTINF:-1, beIN 3 HD 🇶🇦
-http://almultakatv.com:25461/YCk3wuWx3oS/EgeQkm4lYrsZ/3110
-
-#EXTINF:-1, beIN 4 HD 🇶🇦
-http://almultakatv.com:25461/YCk3wuWx3oS/EgeQkm4lYrsZ/3111
-
-#EXTINF:-1, beIN 5 HD 🇶🇦
-http://almultakatv.com:25461/YCk3wuWx3oS/EgeQkm4lYrsZ/3112
-
-#EXTINF:-1, beIN 6 HD 🇶🇦
-http://almultakatv.com:25461/YCk3wuWx3oS/EgeQkm4lYrsZ/3113
-
-#EXTINF:-1, beIN 7 HD 🇶🇦
-http://almultakatv.com:25461/YCk3wuWx3oS/EgeQkm4lYrsZ/3114
-
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
@@ -367,15 +322,6 @@ http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1006.ts
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1005.ts
 
 #EXTINF:-1,BEIN SPORTS 1 PREMIUM 🇶🇦
-http://almultakatv.com:25461/YCk3wuWx3oS/EgeQkm4lYrsZ/3115
-
-#EXTINF:-1,beIN 2 PREMIUM HD 🇶🇦
-http://almultakatv.com:25461/YCk3wuWx3oS/EgeQkm4lYrsZ/3116
-
-#EXTINF:-1,beIN 3 PREMIUM HD 🇶🇦
-http://almultakatv.com:25461/YCk3wuWx3oS/EgeQkm4lYrsZ/3117
-
-#EXTINF:-1,BEIN SPORTS 1 PREMIUM 🇶🇦
 http://fortv.cc:8080/christina/christina/55337
 
 #EXTINF:-1 ,BEIN SPORTS 2 PREMIUM 🇶🇦
@@ -383,9 +329,6 @@ http://fortv.cc:8080/christina/christina/55338
 
 #EXTINF:-1, BEIN SPORT 3 PREMIUM 🇶🇦
 http://fortv.cc:8080/christina/christina/55339
-
-#EXTINF:-1, beIN Sports 3 PREMIUM 🇶🇦
-http://cloud.cdn-proxy.win:2052/802431545469102/l4WCmZnwCp/528?
 
 #EXTINF:-1, Bein Sports 4 🇶🇦
 http://fortv.cc:8080/christina/christina/55340
@@ -483,7 +426,7 @@ http://s1.iptv-pla.net:7040/mustapha7/dmruisst/6175
 #EXTINF:-1, FRA 2 HD 🇫🇷
 http://s1.iptv-pla.net:7040/mustapha7/dmruisst/6176
 
-#EXTINF:-1, FRA 3 HD 🇫🇷
+#EXTINF:-1, FRA 3 HD MAX 🇫🇷
 http://s1.iptv-pla.net:7040/mustapha7/dmruisst/6177
 
 #EXTINF:-1, FRA 4 HD MAX 🇫🇷
