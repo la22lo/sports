@@ -6,6 +6,12 @@ http://s1.iptv-pla.net:2052/mustapha7/dmruisst/42045
 #EXTINF:-1,BEIN SPORTS 2 PREMIUM 🇶🇦
 http://s1.iptv-pla.net:2052/mustapha7/dmruisst/42046
 
+#EXTINF:-1, MOVISTAR LIGA CAMPEONES 🇪🇸
+http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJP1IeMgAs-bFnNYQn2osiGg/ts
+
+#EXTINF:-1, MOVISTAR LIGA CAMPEONES 2 🇪🇸
+http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJKw_wQU01N-cq7dRYPnBxc8/ts
+
 #EXTINF:-1, beIN Sports 🇶🇦
 https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/PQ44jXjuKakqZWs0XAUYbxM7JAYUiEoWRyjpptiIpxaAMKqqH7fF8xQTnOKrKVw8LPST7RzcL5-beLTg0ubKKw/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
 
@@ -115,16 +121,31 @@ http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/11
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/11632
 
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
+http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJH9gUYooJbVMF7v-Il8_bps/ts
+
+#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1108.ts
+
+#EXTINF:-1, LALIGA TV BAR 🇪🇸
+http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJAt6YMgWhQl3h8tM0SxSoJY/ts
 
 #EXTINF:-1, LALIGA TV BAR 🇪🇸
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/12596
 
 #EXTINF:-1, MOVISTAR LALIGA 2 🇪🇸
+http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJOM9-HqsaWnxwL_OyUXGh1I/ts
+
+#EXTINF:-1, MOVISTAR LALIGA 2 🇪🇸
 http://89.249.49.78:8000/play/a0i4
 
 #EXTINF:-1, MOVISTAR LALIGA 3 🇪🇸
+http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJHGMZfRC13rapz3xej_NQb0/ts
+
+#EXTINF:-1, MOVISTAR LALIGA 3 🇪🇸
 http://89.249.49.78:8000/play/a0i5
+
+#EXTINF:-1, VAMOS 🇪🇸
+http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJCYqOseLWkr2SVOvOL5tbBM/ts
 
 #EXTINF:-1, ESPN 2 🇦🇷
 https://edge-live12-sl.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
