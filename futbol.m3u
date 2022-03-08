@@ -1,6 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1, ESPN VIVO 🇦🇷
+http://edge8-ccast-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD-mp4a_145200_eng=20002-avc1_899968=10009.m3u8
+
+#EXTINF:-1, ESPN VIVO 🇦🇷
 https://edge10-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8?aaa
 
 #EXTINF:-1, ESPN VIVO 🇦🇷
