@@ -3,6 +3,9 @@
 #EXTINF:-1, ESPN VIVO 🇦🇷
 https://edge10-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8?aaa
 
+#EXTINF:-1, ESPN VIVO 🇦🇷
+https://videodelivery.net/478dd182c790fb35b9de9afe1f200965/manifest/video.m3u8
+
 #EXTINF:-1, beIN Sports 1 PREMIUM 🇶🇦
 https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/HhM-2tdBx9bXHTHT-xUcfyEi8s5xSqGZuPkONgj-6g8-Yx3l2ZWSzTbTL1r6idaGWM-tT2DpAtUdjOcSxsN_8Q/non_transcode/us-west-2/periscope-replay-direct-prod-eu-west-3-public/dynamic_highlatency.m3u8?type=live
 
