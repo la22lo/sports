@@ -27,10 +27,10 @@ https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/flTCsBOB8Og5ot
 #EXTINF:-1, beIN Sports 3 PREMIUM 🇶🇦
 http://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/UHtTDRwo4kjb1DmnmPq7hDMK83wpQLSLZpmtZpj79eBzAZHlYLpccHyYvLi4N_JDe5Q8yBYSnVYr9pqGmQduqg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
 
-#EXTINF:-1, CHAMP BAYERN
+#EXTINF:-1, CHAMP BAYERN 🇷🇺
 https://hll.hnzzdf.com.cn/live/H102756.m3u8?txSecret=8e9ad5967ea0dff9f9c450df5567dae8&txTime=62284B87&_s=stream
 
-#EXTINF:-1, CHAMP LIVERPOOL
+#EXTINF:-1, CHAMP LIVERPOOL 🇷🇺
 https://hll.hnzzdf.com.cn/live/H102757.m3u8?txSecret=2b33d4b4fdede7fcc6733030164e3428&txTime=62284B87&_s=stream
 
 #EXTINF:-1, beIN Sports 🇶🇦
