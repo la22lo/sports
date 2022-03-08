@@ -12,6 +12,9 @@ https://edge6-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.
 #EXTINF:-1, FOX VIVO 🇦🇷
 https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
 
+#EXTINF:-1, beIN Sports 2 PREMIUM 🇶🇦
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/flTCsBOB8Og5otV9L_YWX_NApnD3EE9YO61JA4r9QhRxQCvaZirDI3AaK6G9YQnGO14XmCAby81LwSsFRoRzhQ/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+
 #EXTINF:-1, beIN Sports 3 PREMIUM 🇶🇦
 http://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/UHtTDRwo4kjb1DmnmPq7hDMK83wpQLSLZpmtZpj79eBzAZHlYLpccHyYvLi4N_JDe5Q8yBYSnVYr9pqGmQduqg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
 
