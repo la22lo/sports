@@ -3,8 +3,14 @@
 #EXTINF:-1, ESPN VIVO 🇦🇷
 https://edge10-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8?aaa
 
+#EXTINF:-1, beIN Sports 1 PREMIUM 🇶🇦
+https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/HhM-2tdBx9bXHTHT-xUcfyEi8s5xSqGZuPkONgj-6g8-Yx3l2ZWSzTbTL1r6idaGWM-tT2DpAtUdjOcSxsN_8Q/non_transcode/us-west-2/periscope-replay-direct-prod-eu-west-3-public/dynamic_highlatency.m3u8?type=live
+
 #EXTINF:-1, FOX VIVO 🇦🇷
 https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+
+#EXTINF:-1, beIN Sports 3 PREMIUM 🇶🇦
+http://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/UHtTDRwo4kjb1DmnmPq7hDMK83wpQLSLZpmtZpj79eBzAZHlYLpccHyYvLi4N_JDe5Q8yBYSnVYr9pqGmQduqg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1, beIN Sports 🇶🇦
 https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/PQ44jXjuKakqZWs0XAUYbxM7JAYUiEoWRyjpptiIpxaAMKqqH7fF8xQTnOKrKVw8LPST7RzcL5-beLTg0ubKKw/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
