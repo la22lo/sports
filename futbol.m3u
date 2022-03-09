@@ -6,6 +6,9 @@ http://edge8-ccast-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD-mp4a_
 #EXTINF:-1,RTSH SPORT 🇦🇱
 http://185.204.32.4:9981/stream/channelid/1261192802|User-Agent=stream
 
+#EXTINF:-1,BEIN SPORTS 1 PREMIUM 🇶🇦
+http://s1.iptv-pla.net:2052/mustapha7/dmruisst/42045
+
 #EXTINF:-1,SUPERSPORT CHAMPIONS 🇬🇧
 https://d3bh6k6cdgaj10.cloudfront.net/hls/ssp/chunks.m3u8
 
