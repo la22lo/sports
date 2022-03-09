@@ -15,6 +15,9 @@ http://edge3-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 #EXTINF:-1,BT SPORT 3 🇬🇧
 https://d9dv940q60g7b.cloudfront.net/stream/MzEzOA==/1080p.m3u8
 
+#EXTINF:-1,BT SPORT 3 🇬🇧
+https://d9dv940q60g7b.cloudfront.net:443/stream/MzEzOA==/1080p.m3u8?per
+
 #EXTINF:-1,SUPERSPORT CHAMPIONS 🇬🇧
 https://d3bh6k6cdgaj10.cloudfront.net:443/hls/ssp/chunks.m3u8
 
@@ -41,9 +44,6 @@ https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/MQZssLB4LnPuoVmQkIHq8
 
 #EXTINF:-1,BEIN SPORTS 1 PREMIUM 🇶🇦
 http://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/5udNJ8roslPcw1lzT4Ve-S8u7DnR3YI5psi-eMC_vdTPUERknJNuow_VzxPHu_NnlJTyKP5CRIjL3GJk8FYNdA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1, MADRID
-https://d9dv940q60g7b.cloudfront.net:443/stream/MzEzOA==/1080p.m3u8?per
 
 #EXTINF:-1,LOOK + 🇷🇴
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?per
