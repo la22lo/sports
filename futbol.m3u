@@ -30,6 +30,9 @@ http://livehls.ltjuq.top/ofmatch/HD256158.m3u8?auth_key=1646856315-6bacbf4f27b18
 #EXTINF:-1,HRT2 🇭🇷
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
 
+#EXTINF:-1, MATH 🇺🇦
+https://per@bigsmoke.lbs.pw/match/tracks-v1a1/mono.m3u8?token=0a2000874ea585ef9ec6c539ce08a139e79eee1a-0.44634992407681384-1646891235-1646855235
+
 #EXTINF:-1,RTSH SPORT 🇦🇱
 http://185.204.32.4:9981/stream/channelid/1261192802|User-Agent=stream
 
