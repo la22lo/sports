@@ -18,6 +18,9 @@ https://d9dv940q60g7b.cloudfront.net/stream/MzEzOA==/1080p.m3u8
 #EXTINF:-1,SUPERSPORT CHAMPIONS 🇬🇧
 https://d3bh6k6cdgaj10.cloudfront.net:443/hls/ssp/chunks.m3u8
 
+#EXTINF:-1, CHAMPIONS 🇬🇧
+http://livehls.ltjuq.top/ofmatch/HD256158.m3u8?auth_key=1646856315-6bacbf4f27b189f1efe1af75a1cff956-0-d63c7c63edf8e30f4aa4d71e818021e1
+
 #EXTINF:-1,HRT2
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
 
