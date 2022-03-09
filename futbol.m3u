@@ -3,6 +3,9 @@
 #EXTINF:-1, ESPN VIVO 🇦🇷
 http://edge8-ccast-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD-mp4a_145200_eng=20002-avc1_899968=10009.m3u8
 
+#EXTINF:-1,RTSH SPORT 🇦🇱
+http://185.204.32.4:9981/stream/channelid/1261192802|User-Agent=stream
+
 #EXTINF:-1,SUPERSPORT CHAMPIONS 🇬🇧
 https://d3bh6k6cdgaj10.cloudfront.net/hls/ssp/chunks.m3u8
 
