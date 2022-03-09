@@ -18,6 +18,9 @@ https://d9dv940q60g7b.cloudfront.net/stream/MzEzOA==/1080p.m3u8
 #EXTINF:-1,BT SPORT 3 🇬🇧
 https://d9dv940q60g7b.cloudfront.net:443/stream/MzEzOA==/1080p.m3u8?per
 
+#EXTINF:-1,BT SPORT 3 🇬🇧
+https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/NqytK2UPvJg8k8KqSIfqUaSCVSYYOqWLC2MMgS3d8jF1DDQXVUsbjaBfUfKBV-TM-DfAjijsHfPElh8zzW2uTg/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_highlatency.m3u8?type=live
+
 #EXTINF:-1,SUPERSPORT CHAMPIONS 🇬🇧
 https://d3bh6k6cdgaj10.cloudfront.net:443/hls/ssp/chunks.m3u8
 
