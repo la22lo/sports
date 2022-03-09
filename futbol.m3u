@@ -12,6 +12,9 @@ http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 #EXTINF:-1, ESPN VIVO 🇦🇷
 http://edge3-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 
+#EXTINF:-1,BT SPORT 3 🇬🇧
+https://d9dv940q60g7b.cloudfront.net/stream/MzEzOA==/1080p.m3u8
+
 #EXTINF:-1,RTSH SPORT 🇦🇱
 http://185.204.32.4:9981/stream/channelid/1261192802|User-Agent=stream
 
