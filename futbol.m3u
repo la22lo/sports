@@ -39,6 +39,9 @@ http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJLdC6sguiyX8N2QI-yX-d64/ts
 #EXTINF:-1, ELEVEN 2 🇵🇹
 http://fortv.cc:8080/christina/christina/78455
 
+#EXTINF:-1, ESPN4 🇧🇷
+https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/Tg4kux7XF8ueJm358No5tl1-shat-GaapE7moURCFkGH7dCYUXlMJgZaLSjBsDoRY8PEKCsf03of7Ag_UFsGDg/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+
 #EXTINF:-1,SUPERSPORT CHAMPIONS 🇬🇧
 https://d3bh6k6cdgaj10.cloudfront.net/hls/ssp/chunks.m3u8
 
