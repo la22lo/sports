@@ -21,6 +21,9 @@ https://054bcd0c89f4.eu-central-1.playback.live-video.net/api/video/v1/eu-centra
 #EXTINF:-1,  UEFA 🇬🇧
 https://hll.hnzzdf.com.cn/live/H117278.m3u8?txSecret=a0f521c305a0e8c707b3761ffb7f6fce&txTime=622B4DB1&_s=stream
 
+#EXTINF:-1, UEFA ENG 🇬🇧
+http://livehls.ltjuq.top/ofmatch/HD257586.m3u8?auth_key=1646942727-215cfbfa5f4cff409b9b462bdaee7fbb-0-d9d51cc38d911e54395e75d5070fb52a
+
 #EXTINF:-1, ARENA SPORT 2 PREMIUM 🇷🇸
 http://46.29.169.15:4001/play/a00h/index.m3u8
 
