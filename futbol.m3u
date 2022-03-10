@@ -15,6 +15,9 @@ http://edge3-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 #EXTINF:-1, BT SPORT 3 🇬🇧
 https://054bcd0c89f4.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.552542483530.channel.VhHUVxAVeqB4.m3u8
 
+#EXTINF:-1, BT SPORT 3 🇬🇧
+http://d2vle8remumhqi.cloudfront.net:80/stream/MzE2NQ==/1080p.m3u8?SBN
+
 #EXTINF:-1, SUPERSPORT UEFA 🇬🇧
 https://054bcd0c89f4.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.552542483530.channel.HnffzIsLlcvF.m3u8?SBN
 
