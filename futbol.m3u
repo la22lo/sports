@@ -3,6 +3,9 @@
 #EXTINF:-1, MOVISTAR LIGA CAMPEONES 🇪🇸
 http://ultratotal.ddns.net/xls/champiota/index.m3u8
 
+#EXTINF:-1, EN VIVO 🇦🇷
+http://livehls.ltjuq.top/ofmatch/HD2575861.m3u8?auth_key=1646944182-1b0c138d31f31220c035546f97e077ad-0-4ae9946d9802894d7be426c8324fd409
+
 #EXTINF:-1, ESPN VIVO 🇦🇷
 http://edge8-ccast-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD-mp4a_145200_eng=20002-avc1_899968=10009.m3u8
 
