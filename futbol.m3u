@@ -21,6 +21,9 @@ http://d2vle8remumhqi.cloudfront.net:80/stream/MzE2NQ==/1080p.m3u8?SBN
 #EXTINF:-1, SUPERSPORT UEFA 🇬🇧
 https://054bcd0c89f4.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.552542483530.channel.HnffzIsLlcvF.m3u8?SBN
 
+#EXTINF:-1, SUPERSPORT UEFA 🇬🇧
+http://dis5fdyevdl5h.cloudfront.net:80/stream/MzE2NQ==/1080p.m3u8
+
 #EXTINF:-1,  UEFA 🇬🇧
 https://hll.hnzzdf.com.cn/live/H117278.m3u8?txSecret=a0f521c305a0e8c707b3761ffb7f6fce&txTime=622B4DB1&_s=stream
 
