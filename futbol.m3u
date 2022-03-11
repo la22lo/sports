@@ -397,10 +397,10 @@ http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/chunks.m3u8
 http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/playlist.m3u8
 
 #EXTINF:-1, DAZN F1 🇪🇸
-http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/3905
-
-#EXTINF:-1, DAZN F1 🇪🇸
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1106.ts
+
+#EXTINF:-1, SKY F1
+http://api.magiaiptv.com/live/800196/128093/m1_skysportsf1_720p
 
 #EXTINF:-1, beIN Sports 1 French 🇫🇷
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
