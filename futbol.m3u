@@ -1389,59 +1389,5 @@ http://init.cheches.info:80/hls/105.m3u8
 #EXTINF:-1, EVENT 5
 http://45.148.26.176/hls/M1.m3u8
 
-#EXTINF:-1, S LALIGA
-http://cro.hockeynews.club:80/live/1/chunks.m3u8
-
-#EXTINF:-1, S LALIGA
-http://185.53.89.183/hls/ssla.m3u8
-
-#EXTINF:-1, S LALIGA
-http://194.67.196.19/hls/103.m3u8?mvk
-
-#EXTINF:-1, LigaTv
-http://77.247.109.101/hls/A2.m3u8
-
-#EXTINF:-1, S LALIGA TV
-http://iptv.tvmalaysia.cc:80/penang174/penang174/6575
-
-#EXTINF:-1, SKY SPORTS
-https://tunelive.net:3245/stream/play.m3u8
-
-#EXTINF:-1, LALIGA TV
-http://77.247.109.101/hls/A1.m3u8
-
-#EXTINF:-1, LA LIGA TV
-http://cdn2.cyclingnews.live/hls/P1.m3u8
-
-#EXTINF:-1, LALIGATV
-http://45.148.26.176/hls/M2.m3u8?mvk
-
-#EXTINF:-1, PPV LALIGATV
-http://cdn1.cyclingnews.live/hls/M2.m3u8
-
-#EXTINF:-1, LALIGA CDN
-http://cdn3.cyclingnews.live/hls/W3.m3u8
-
-#EXTINF:-1, LALIGA BSN
-http://77.247.109.111/hls/T1.m3u8?SBN
-
-#EXTINF:-1, S LA LIGA
-http://185.53.89.183/hls/ssla.m3u8?SBN
-
-#EXTINF:-1, LALIGATV
-http://77.247.109.111/hls/T1.m3u8
-
-#EXTINF:-1, BT SPORT
-http://45.134.21.199/hls/S2.m3u8?P135
-
-#EXTINF:-1, BT SPORT
-http://45.134.21.199/hls/S3.m3u8?P135
-
-#EXTINF:-1, S PREMIER
-http://cro.hockeynews.club/live/2/chunks.m3u8
-
-#EXTINF:-1, ON FOOTBALL
-https://m3u.1proxy.xyz/sv2/go_15/index.m3u8
-
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
