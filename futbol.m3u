@@ -12,9 +12,6 @@ http://edge8-ccast-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD-mp4a_
 #EXTINF:-1, ESPN VIVO 🇦🇷
 http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8?P135
 
-#EXTINF:-1, ESPN VIVO 🇦🇷
-http://edge3-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
-
 #EXTINF:-1, BT SPORT 3 🇬🇧
 https://054bcd0c89f4.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.552542483530.channel.VhHUVxAVeqB4.m3u8
 
@@ -215,6 +212,9 @@ http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 
 #EXTINF:-1, ESPN EXTRA 🇦🇷
 https://edge-live13-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
+
+#EXTINF:-1, ESPN VIVO 🇦🇷
+http://edge3-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 
 #EXTINF:-1, FOX Sports SUR 🇦🇷
 https://lnc-fox-sports-espanol.tubi.video/index_4.m3u8
