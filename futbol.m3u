@@ -1377,9 +1377,6 @@ http://sir1b.uefa-tv.com:80/live/4/chunks.m3u8
 #EXTINF:-1,PPV Event c4 (op3)
 http://sir1c.uefa-tv.com:80/live/4/chunks.m3u8
 
-#EXTINF:-1, SUPERSPORT CHAMPIONS
-http://cdn3.cyclingnews.live/hls/W1.m3u8?SBN
-
 #EXTINF:-1, EVENT 1
 http://init.cheches.info:80/hls/110.m3u8
 
