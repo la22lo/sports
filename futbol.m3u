@@ -18,6 +18,9 @@ http://geniuses-line.com:22455/live.ts?channelId=9889&uid=31975&deviceMac=00:1A:
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/eMGFw1vRnol6qqsbmGFc9U3xZzivnHN0KSMVZIdOwCFcw-1vj2AkiY3_XGG36rzkYks8hpQEj2wKbfHX_K4rCQ/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
 
+#EXTINF:-1, LIGA
+https://hll.hnzzdf.com.cn/live/H116351.m3u8?txSecret=33a7fff23591b6c6aec9c8ff558f8114&txTime=622CB487&_s=stream
+
 #EXTINF:-1, FOOTBALL ARG 🇦🇷
 https://videodelivery.net/150ea31f0200e5f0bff1563239a827b2/manifest/video.m3u8
 
