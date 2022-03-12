@@ -24,7 +24,7 @@ http://init.cheches.info/hls/103.m3u8
 #EXTINF:-1,SUPERSPORT LIGA 🇬🇧
 http://194.67.196.19/hls/103.m3u8?mvk
 
-#EXTINF:-1,LIGA
+#EXTINF:-1, CCTV5 🇨🇳
 https://hll.hnzzdf.com.cn/live/H116353.m3u8?txSecret=568717aa9d9a96bce0c220e52a7fd998&txTime=622DA0D0&_s=stream
 
 #EXTINF:-1, Super Sports HD 2 🇦🇱
