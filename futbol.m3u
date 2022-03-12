@@ -21,14 +21,8 @@ http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJIlbAuux2Qjgom4M0Y1VZBc/ts
 #EXTINF:-1,MMN SPORT HD 🇮🇶
 http://190.2.148.141:8080/bar7642/index.m3u8
 
-#EXTINF:-1,S LIGA 🇬🇧
-https://bigsmoke.lbs.pw/sslaliga/tracks-v1a1/mono.m3u8?token=9c4c4484780807f73f92ac0e3c3af31997060e88-0.1415201336834373-1647125965-1647089965
-
 #EXTINF:-1, CCTV5 🇨🇳
 https://hll.hnzzdf.com.cn/live/H116354.m3u8?txSecret=c56f4fa81cfb4cabe6022322b83e00d9&txTime=622DE62B&_s=stream
-
-#EXTINF:-1, CCTV5 🇨🇳
-http://livehls.ltjuq.top/ofmatch/HD2614371.m3u8?auth_key=1647108652-64514e1fe275d5cbadee4f54dd6620c6-0-7f1080f60f86a39607c88abd88a91437
 
 #EXTINF:-1,SUPERSPORT LIGA 🇬🇧
 http://init.cheches.info/hls/103.m3u8
