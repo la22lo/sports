@@ -6,9 +6,6 @@ https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/PQ44jXjuKakqZWs0XAUYb
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
-#EXTINF:-1, FOOTBALL ARG 🇦🇷
-https://videodelivery.net/150ea31f0200e5f0bff1563239a827b2/manifest/video.m3u8
-
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇹
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJIlbAuux2Qjgom4M0Y1VZBc/ts
 
@@ -155,6 +152,9 @@ http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/21
 
 #EXTINF:-1, TV MAX 🇦🇷
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_2/chunklist_dvr.m3u8
+
+#EXTINF:-1, FOOTBALL ARG 🇦🇷
+https://videodelivery.net/150ea31f0200e5f0bff1563239a827b2/manifest/video.m3u8
 
 #EXTINF:-1, Bein Sports 3 HD 🇶🇦
 http://93.152.174.144:4000/play/bein3ar/index.m3u8
