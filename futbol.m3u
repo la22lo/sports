@@ -6,15 +6,6 @@ https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/PQ44jXjuKakqZWs0XAUYb
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
-#EXTINF:-1,LA LIGA TV 🇬🇧
-https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/kdch890UX2b6l6JO3k9beQilvay6LU2b9U8R0IxLxWyptgkM1bLqxl06s3WTTXSn939BRTdUx8elpT92xPOgFQ/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1,LA LIGA TV 🇬🇧
-https://4d4038e89536.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.938173488259.channel.kL8Vh0ROzqtM.m3u8?SBN
-
-#EXTINF:-1,LA LIGA TV 🇬🇧
-https://awshd.mazystreams.xyz/live/2/playlist.m3u8
-
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇹
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJIlbAuux2Qjgom4M0Y1VZBc/ts
 
