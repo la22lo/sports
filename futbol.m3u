@@ -15,6 +15,9 @@ https://edge4-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 https://cdn.livepeer.com/hls/9e0bvnl36ey98wqk/2_1/index.m3u8
 
+#EXTINF:-1, MOVISTAR LALIGA
+https://cdn.livepeer.com/hls/9e0bvnl36ey98wqk/index.m3u8
+
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://ultratotal.ddns.net/xls/champiota/index.m3u8
 
