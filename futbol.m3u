@@ -9,6 +9,9 @@ https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/sxEZgWhEaPcyFQ85nWczv
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
+#EXTINF:-1, DIRECTV SPORT 🇦🇷
+https://videodelivery.net/60a2b14c17e2a4a3721d962f6aafc419/manifest/video.m3u8
+
 #EXTINF:-1, ESPN 2 🇦🇷
 https://edge4-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
 
