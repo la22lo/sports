@@ -9,6 +9,9 @@ https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/vWKNALKiE5MvB6r68QS6y
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
+#EXTINF:-1, ESPN 2 🇦🇷
+https://edge4-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
+
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 https://cdn.livepeer.com/hls/9e0bvnl36ey98wqk/2_1/index.m3u8
 
