@@ -21,6 +21,9 @@ http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJIlbAuux2Qjgom4M0Y1VZBc/ts
 #EXTINF:-1,MMN SPORT HD 🇮🇶
 http://190.2.148.141:8080/bar7642/index.m3u8
 
+#EXTINF:-1, SUPERSPORT LALIGA
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/135960
+
 #EXTINF:-1,SUPERSPORT LIGA 🇬🇧
 http://init.cheches.info/hls/103.m3u8
 
@@ -30,11 +33,20 @@ http://194.67.196.19/hls/103.m3u8?mvk
 #EXTINF:-1,SUPERSPORT LIGA 🇬🇧
 http://194.67.196.19/hls/103.m3u8
 
+#EXTINF:-1, SUPERSPORT FOOTBALL
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/135963
+
 #EXTINF:-1, Super Sports HD 2 🇦🇱
 http://185.204.32.49:6735/UltraNetS2/stream/playlist.m3u8
 
+#EXTINF:-1, Super Sports HD 2 🇦🇱
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/7268
+
 #EXTINF:-1, Super Sports HD 3 🇦🇱
 http://185.204.32.49:6735/UltraNetS3/stream/playlist.m3u8
+
+#EXTINF:-1, Super Sports HD 3 🇦🇱
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/7269
 
 #EXTINF:-1, ARENA SPORT 1 HD PREMIUM SERBIA 🇷🇸
 http://46.29.169.15:4001/play/a00g/index.m3u8?mvk
@@ -596,6 +608,18 @@ http://iptvparty.live:8080/debbie/x9H1MqQc1K/23631
 
 #EXTINF:-1, BT SPORT ESPN 🇬🇧
 http://iptvparty.live:8080/debbie/x9H1MqQc1K/7808
+
+#EXTINF:-1, BT ESPN HD 1 🇬🇧
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/308833
+
+#EXTINF:-1, BT ESPN HD 2 🇬🇧
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/308832
+
+#EXTINF:-1, Premiere Sports 🇬🇧
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/308684
+
+#EXTINF:-1, Premiere Sports 1 FHD 🇬🇧
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/308683
 
 #EXTINF:-1, BT SPORT 1 🇬🇧
 http://93.152.174.144:4000/play/btsport1/index.m3u8
