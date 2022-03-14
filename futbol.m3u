@@ -1422,5 +1422,14 @@ http://init.cheches.info:80/hls/105.m3u8
 #EXTINF:-1, EVENT 5
 http://45.148.26.176/hls/M1.m3u8
 
+#EXTINF:-1, BEIN SPORTS ENG 1
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/260908
+
+#EXTINF:-1, BEIN SPORTS ENG 2
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/260909
+
+#EXTINF:-1, BEIN SPORTS ENG 3
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/260910
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
