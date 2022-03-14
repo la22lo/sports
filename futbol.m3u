@@ -9,6 +9,12 @@ https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/PQ44jXjuKakqZWs0XAUYb
 #EXTINF:-1, beIN Sports 🇶🇦
 https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/sxEZgWhEaPcyFQ85nWczvuMCZNzkKKM-QURSBktCL-k8Jmw-pdJJ3BXDmt5si4YrIskma8C-vXaI72ZpQUEjYQ/non_transcode/us-west-2/periscope-replay-direct-prod-eu-west-3-public/dynamic_highlatency.m3u8
 
+#EXTINF:-1, BEIN SPORTS 1 🇶🇦
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/22882
+
+#EXTINF:-1, BEIN SPORTS 1 VIP 🇶🇦
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/170078
+
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
@@ -306,7 +312,7 @@ http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/17510.ts
 #EXTINF:-1, ELEVEN 6 🇵🇹
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/17511.ts
 
-#EXTINF:-1,AR: BEIN SPORTS 1 🇶🇦
+#EXTINF:-1, BEIN SPORTS 1 🇶🇦
 http://iptvparty.live:8080/debbie/x9H1MqQc1K/22882
 
 #EXTINF:-1, BEIN SPORTS 1 VIP 🇶🇦
