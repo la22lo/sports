@@ -12,6 +12,9 @@ http://5g9s179kfgx9wn8tqwj9-cul47i.p5cdn.com/dlive/transcode-79-67/dlive-dihupyo
 #EXTINF:-1, LaLigaTV HD 🇬🇧
 http://d1wfx3iskb5o0q.cloudfront.net:80/stream/MzIxOA==/1080p.m3u8
 
+#EXTINF:-1, LaLigaTV HD 🇬🇧
+http://dlyky3ill0mvo.cloudfront.net/stream/MzIxOA==/1080p.m3u8?SBN
+
 #EXTINF:-1, S LaLiga 🇬🇧
 http://f9b4c96b3d36.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.809655496056.channel.6chLjkMFkiSh.m3u8
 
