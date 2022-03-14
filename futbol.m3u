@@ -306,6 +306,48 @@ http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/17510.ts
 #EXTINF:-1, ELEVEN 6 🇵🇹
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/17511.ts
 
+#EXTINF:-1,AR: BEIN SPORTS 1 🇶🇦
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/22882
+
+#EXTINF:-1, BEIN SPORTS 1 VIP 🇶🇦
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/170078
+
+#EXTINF:-1, BEIN SPORTS 2 🇶🇦
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/25494
+
+#EXTINF:-1, BEIN SPORTS 2 VIP 🇶🇦
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/170079
+
+#EXTINF:-1, BEIN SPORTS 3 🇶🇦
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/22886
+
+#EXTINF:-1, BEIN SPORTS 3 VIP 🇶🇦
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/170080
+
+#EXTINF:-1, BEIN SPORTS 4 🇶🇦
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/22888
+
+#EXTINF:-1, BEIN SPORTS 4 VIP 🇶🇦
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/170081
+
+#EXTINF:-1, BEIN SPORTS 5 🇶🇦
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/170907
+
+#EXTINF:-1, BEIN SPORTS 5 VIP 🇶🇦
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/170082
+
+#EXTINF:-1, BEIN SPORTS 6 🇶🇦
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/170909
+
+#EXTINF:-1, BEIN SPORTS 6 VIP 🇶🇦
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/170083
+
+#EXTINF:-1, BEIN SPORTS 7 🇶🇦
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/170911
+
+#EXTINF:-1, BEIN SPORTS 7 VIP 🇶🇦
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/170084
+
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
@@ -524,6 +566,15 @@ http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJBqdg7Slp6-qg3BmzZyuLoA/ts
 
 #EXTINF:-1, INFOSPORT 🇫🇷
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49496
+
+#EXTINF:-1, BEIN SPORTS ENG 1 🇬🇧
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/260908
+
+#EXTINF:-1, BEIN SPORTS ENG 2 🇬🇧
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/260909
+
+#EXTINF:-1, BEIN SPORTS ENG 3 🇬🇧
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/260910
 
 #EXTINF:-1, beIN SPORTS English 1 🇬🇧
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
@@ -1421,15 +1472,6 @@ http://init.cheches.info:80/hls/105.m3u8
 
 #EXTINF:-1, EVENT 5
 http://45.148.26.176/hls/M1.m3u8
-
-#EXTINF:-1, BEIN SPORTS ENG 1
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/260908
-
-#EXTINF:-1, BEIN SPORTS ENG 2
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/260909
-
-#EXTINF:-1, BEIN SPORTS ENG 3
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/260910
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
