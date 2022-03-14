@@ -15,6 +15,9 @@ http://d1wfx3iskb5o0q.cloudfront.net:80/stream/MzIxOA==/1080p.m3u8
 #EXTINF:-1, LaLigaTV HD 🇬🇧
 http://dlyky3ill0mvo.cloudfront.net/stream/MzIxOA==/1080p.m3u8?SBN
 
+#EXTINF:-1, LaLigaTV HD 🇬🇧
+http://livehls.ltjuq.top/ofmatch/HD265625.m3u8?auth_key=1647288324-81888dd66795d8eb5356ab8896af5245-0-b9ea98f200a9b8f04a78a180f5cba6f0
+
 #EXTINF:-1, S LaLiga 🇬🇧
 http://f9b4c96b3d36.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.809655496056.channel.6chLjkMFkiSh.m3u8
 
