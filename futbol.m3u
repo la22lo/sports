@@ -21,8 +21,11 @@ http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJIlbAuux2Qjgom4M0Y1VZBc/ts
 #EXTINF:-1,MMN SPORT HD 🇮🇶
 http://190.2.148.141:8080/bar7642/index.m3u8
 
-#EXTINF:-1, SUPERSPORT LALIGA
+#EXTINF:-1, SUPERSPORT LALIGA 🇬🇧
 http://iptvparty.live:8080/debbie/x9H1MqQc1K/135960
+
+#EXTINF:-1,UK: SUPER SPORT LALIGA 🇬🇧
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/200525
 
 #EXTINF:-1,SUPERSPORT LIGA 🇬🇧
 http://init.cheches.info/hls/103.m3u8
@@ -1019,6 +1022,21 @@ https://liv11octptsp.stblauncher.com/live/4246_.m3u8?token=bcc65a1fb3974adeaa616
 
 #EXTINF:-1, SPORTTV 5 🇵🇹
 https://liv11octptsp.stblauncher.com/live/4213_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+
+#EXTINF:-1, SPORT TV 1 🇵🇹
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/170957
+
+#EXTINF:-1, SPORT TV 2 🇵🇹
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/206
+
+#EXTINF:-1, SPORT TV 3 🇵🇹
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/7688
+
+#EXTINF:-1, SPORT TV 4 🇵🇹
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/11073
+
+#EXTINF:-1, SPORT TV 5 🇵🇹
+http://iptvparty.live:8080/debbie/x9H1MqQc1K/11074
 
 #EXTINF:-1, LOOK SPORTS HD 🇷🇴
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&checkedby:iptvcat.com
