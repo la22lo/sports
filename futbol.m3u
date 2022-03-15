@@ -660,6 +660,18 @@ http://iptvparty.live:8080/debbie/x9H1MqQc1K/23583
 #EXTINF:-1, DIGI SPORT 4 🇷🇴
 http://iptvparty.live:8080/debbie/x9H1MqQc1K/8866
 
+#EXTINF:-1, DIGI Sport 1 FHD 🇷🇴
+http://21929815.rossteleccom.net/iptv/HCA5Q2VGYBY7YE/2523/index.m3u8
+
+#EXTINF:-1, DIGI Sport 2 FHD 🇷🇴
+http://21929815.rossteleccom.net/iptv/HCA5Q2VGYBY7YE/2522/index.m3u8
+
+#EXTINF:-1, DIGI Sport 3 FHD 🇷🇴
+http://21929815.rossteleccom.net/iptv/HCA5Q2VGYBY7YE/2524/index.m3u8
+
+#EXTINF:-1, DIGI Sport 4 FHD 🇷🇴
+http://21929815.rossteleccom.net/iptv/HCA5Q2VGYBY7YE/2538/index.m3u8
+
 #EXTINF:-1, TELEKOMSPORT1 HD 🇷🇴
 http://bestavb.top:8008/Daia_Florin/1Unlimited19/36706
 
@@ -1493,18 +1505,6 @@ http://init.cheches.info:80/hls/105.m3u8
 
 #EXTINF:-1, EVENT 5
 http://45.148.26.176/hls/M1.m3u8
-
-#EXTINF:-1, DIGI Sport 1 FHD
-http://21929815.rossteleccom.net/iptv/HCA5Q2VGYBY7YE/2523/index.m3u8
-
-#EXTINF:-1, DIGI Sport 2 FHD
-http://21929815.rossteleccom.net/iptv/HCA5Q2VGYBY7YE/2522/index.m3u8
-
-#EXTINF:-1, DIGI Sport 3 FHD
-http://21929815.rossteleccom.net/iptv/HCA5Q2VGYBY7YE/2524/index.m3u8
-
-#EXTINF:-1, DIGI Sport 4 FHD
-http://21929815.rossteleccom.net/iptv/HCA5Q2VGYBY7YE/2538/index.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
