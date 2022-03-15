@@ -16,10 +16,16 @@ https://cdn.livepeer.com/hls/9e0bvnl36ey98wqk/index.m3u8
 http://45.92.109.177:8080/hls/s2.m3u8
 
 #EXTINF:-1, BEIN SPORTS 1 PREMIUM 🇶🇦
+https://per@prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/VnFGpeOIomcxjzK_-fQZx5DBAnKkNEogfDVqJpyaNgMD2b8paKbz4Clsm-GwL1lyv2HF9KsdTwHcFv6G4j4FMw/non_transcode/us-west-2/periscope-replay-direct-prod-eu-west-3-public/dynamic_highlatency.m3u8?type=live
+
+#EXTINF:-1, BEIN SPORTS 1 PREMIUM 🇶🇦
 https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/vmgVT-TxDhkv8XF3Inkfc_li_4OMOOa9yRUzFs5bD81yTDT5BIy_XPWG0zUOiSKhMP4R3WBrlhSoktA7j72uUw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1, BEIN SPORTS 1 PREMIUM 🇶🇦
 https://cdn.livepeer.com/hls/a41f1bajbg58wba2/index.m3u8
+
+#EXTINF:-1, CHAMP 🇬🇧
+http://d1wfx3iskb5o0q.cloudfront.net:80/stream/MzIyOA==/1080p.m3u8
 
 #EXTINF:-1, TNT SPORTS 🇦🇷
 https://vdsx.glletle1.com/v3/youshi/m2_hrXYNmAD2GitKZdq5wlHUjJF_480p.m3u8?client_ip=45.165.28.16&user_id=42166598&session_id=aJc6lSKf64je&dev_limit=1&app_id=com.global.brasiltvweb&auth_id=42166598_com.global.brasiltvweb&app_ver=10101&dev_id=6f512ceb&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&main_addr=https://vdsx.glletle1.com/v3/youshi/&expired=1647384857&token=65B5A87387B93927CB3FA395BB6CB7DC&media_code=m2_hrXYNmAD2GitKZdq5wlHUjJF_480p
