@@ -849,6 +849,9 @@ http://iptvparty.live:8080/debbie/x9H1MqQc1K/7272
 #EXTINF:-1,RTSH SPORT 🇦🇱
 http://185.204.32.4:9981/stream/channelid/1261192802|User-Agent=stream
 
+#EXTINF:-1,RTSH SPORT 🇦🇱
+http://185.204.32.4:9981/stream/channelid/1261192802?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
+
 #EXTINF:-1, Arena Sport 1 HR 🇭🇷
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/750.ts
 
