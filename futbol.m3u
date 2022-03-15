@@ -4,43 +4,13 @@
 http://loga.ultratotal.ml/xls/ligota/index.m3u8
 
 #EXTINF:-1, ESPN 🇦🇷
-https://cdn.livepeer.com/hls/9e0bvnl36ey98wqk/index.m3u8
-
-#EXTINF:-1, ESPN 🇦🇷
 http://5g9s179kfgx9wn8tqwj9-cul47i.p5cdn.com/dlive/transcode-79-67/dlive-dihupyoptj/1647209339/src/live.m3u8
-
-#EXTINF:-1, LaLigaTV HD 🇬🇧
-http://d1wfx3iskb5o0q.cloudfront.net:80/stream/MzIxOA==/1080p.m3u8
-
-#EXTINF:-1, LaLigaTV HD 🇬🇧
-http://dlyky3ill0mvo.cloudfront.net/stream/MzIxOA==/1080p.m3u8?SBN
-
-#EXTINF:-1, LaLigaTV HD 🇬🇧
-http://livehls.ltjuq.top/ofmatch/HD265625.m3u8?auth_key=1647288324-81888dd66795d8eb5356ab8896af5245-0-b9ea98f200a9b8f04a78a180f5cba6f0
 
 #EXTINF:-1, S LaLiga 🇬🇧
 http://f9b4c96b3d36.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.809655496056.channel.6chLjkMFkiSh.m3u8
 
-#EXTINF:-1, ELEVEN SPORT 1 🇵🇹
-https://hll.hnzzdf.com.cn/live/H118474.m3u8?txSecret=5d112528f0f7ed1a88a7064686bebbd2&txTime=62308654&_s=stream
-
-#EXTINF:-1, AO VIVO 🇧🇷
-https://live.brimecdn.com/live/ZNqGHJ96rNK3DTVsoMEB/chunks.m3u8
-
-#EXTINF:-1, beIN Sports 🇶🇦
-https://cdn.livepeer.com/hls/3772antt2t4mh5hs/0_1/index.m3u8
-
-#EXTINF:-1, beIN Sports 🇶🇦
-https://per@pullhls3948069e.live.126.net/live/126com@f0802829eacfb82758a4fb5ce6f718b5/playlist.m3u8
-
-#EXTINF:-1, beIN Sports 🇶🇦
-https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/CDrnYep7lXRFD_rBcvwXtt0_fCSsCJfQr6Aap1qMZMRuNxQFAJfEhHsNWcxUzk8eU2uv5r8wEKnL2Hdg6uVdgQ/non_transcode/us-west-2/periscope-replay-direct-prod-eu-west-3-public/dynamic_highlatency.m3u8?type=live
-
 #EXTINF:-1, beIN Sports 🇶🇦
 https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/PQ44jXjuKakqZWs0XAUYbxM7JAYUiEoWRyjpptiIpxaAMKqqH7fF8xQTnOKrKVw8LPST7RzcL5-beLTg0ubKKw/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1, BEIN SPORTS 1 🇶🇦
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/22882
 
 #EXTINF:-1, BEIN SPORTS 1 VIP 🇶🇦
 http://iptvparty.live:8080/debbie/x9H1MqQc1K/170078
