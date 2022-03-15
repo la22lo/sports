@@ -165,9 +165,6 @@ http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8?checkedby:iptvcat.com
 #EXTINF:-1, BEIN SPORTS 3 PREMIUM 🇶🇦
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8?
 
-#EXTINF:-1, VAMOS 🇪🇸
-http://78.141.230.196:8080/hls/marta.m3u8
-
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJH9gUYooJbVMF7v-Il8_bps/ts
 
