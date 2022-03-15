@@ -27,10 +27,10 @@ https://cdn.livepeer.com/hls/a41f1bajbg58wba2/index.m3u8
 #EXTINF:-1, BEIN SPORTS 1 PREMIUM 🇶🇦
 https://live-ak.vimeocdn.com/exp=1647377221~acl=%2Fb6a826a0-2e38-4cc0-83c3-76e9c2093df1%2F%2A~hmac=fd2b6b7ff2ab382c4eff6140a2e1239a98b9ddd6c7378a6c14121333a78c361d/b6a826a0-2e38-4cc0-83c3-76e9c2093df1/hls.m3u8?min_seconds=30
 
-#EXTINF:-1, CHAMP
+#EXTINF:-1, MATH
 https://bigsmoke.lbs.pw:443/match/tracks-v1a1/mono.m3u8?token=9b56eb9d1f3f0a9d398dbf2af58723d5252ba310-0.929171949135877-1647409756-1647373756
 
-#EXTINF:-1, CHAMP
+#EXTINF:-1, 5 LIVE ISR
 https://hll.hnzzdf.com.cn/live/H102763.m3u8?txSecret=837152dab07e3c4a9cc5445c58e0107b&txTime=6231EE17&_s=stream
 
 #EXTINF:-1, S CHAMPIONS 🇬🇧
