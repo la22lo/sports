@@ -1128,6 +1128,9 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1, SPORT LIVE 🇧🇷
 http://iptv.tvfix.org/hls/starsports.m3u8
 
+#EXTINF:-1, STADIUM 🇧🇷
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
+
 #EXTINF:-1, SKY SPORTS 24 🇮🇹
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 
