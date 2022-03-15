@@ -33,6 +33,9 @@ https://bigsmoke.lbs.pw:443/match/tracks-v1a1/mono.m3u8?token=9b56eb9d1f3f0a9d39
 #EXTINF:-1, CHAMP
 https://hll.hnzzdf.com.cn/live/H102763.m3u8?txSecret=837152dab07e3c4a9cc5445c58e0107b&txTime=6231EE17&_s=stream
 
+#EXTINF:-1, S CHAMPIONS 🇬🇧
+http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8
+
 #EXTINF:-1, CHAMP 🇬🇧
 http://d1wfx3iskb5o0q.cloudfront.net:80/stream/MzIyOA==/1080p.m3u8
 
