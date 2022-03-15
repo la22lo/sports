@@ -6,6 +6,12 @@ http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8?
 #EXTINF:-1, ESPN 🇦🇷
 https://cdn.livepeer.com/hls/9e0bvnl36ey98wqk/index.m3u8
 
+#EXTINF:-1, BEIN SPORTS 1 PREMIUM 🇶🇦
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/vmgVT-TxDhkv8XF3Inkfc_li_4OMOOa9yRUzFs5bD81yTDT5BIy_XPWG0zUOiSKhMP4R3WBrlhSoktA7j72uUw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+
+#EXTINF:-1, BEIN SPORTS 1 PREMIUM 🇶🇦
+https://cdn.livepeer.com/hls/a41f1bajbg58wba2/index.m3u8
+
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://loga.ultratotal.ml/xls/ligota/index.m3u8
 
