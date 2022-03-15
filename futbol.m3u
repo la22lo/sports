@@ -21,6 +21,9 @@ https://cdn.livepeer.com/hls/a41f1bajbg58wba2/index.m3u8
 #EXTINF:-1, TNT SPORTS 🇦🇷
 https://vdsx.glletle1.com/v3/youshi/m2_hrXYNmAD2GitKZdq5wlHUjJF_480p.m3u8?client_ip=45.165.28.16&user_id=42166598&session_id=aJc6lSKf64je&dev_limit=1&app_id=com.global.brasiltvweb&auth_id=42166598_com.global.brasiltvweb&app_ver=10101&dev_id=6f512ceb&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&main_addr=https://vdsx.glletle1.com/v3/youshi/&expired=1647384857&token=65B5A87387B93927CB3FA395BB6CB7DC&media_code=m2_hrXYNmAD2GitKZdq5wlHUjJF_480p
 
+#EXTINF:-1, TNT SPORTS 🇦🇷
+https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/JYJplLzlevutrWxigDBaWQMzs0Y0bw_afV2at8oRf-LhhS0YuMzCe1YhMID6_Llwqyv16FXWwCvrFYNXt1r35w/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
+
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://loga.ultratotal.ml/xls/ligota/index.m3u8
 
