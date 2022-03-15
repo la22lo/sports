@@ -1515,5 +1515,8 @@ http://init.cheches.info:80/hls/105.m3u8
 #EXTINF:-1, EVENT 5
 http://45.148.26.176/hls/M1.m3u8
 
+#EXTINF:-1, CHAMP
+http://51.178.131.215:45256/live/212700881643/Y1jH1z5HMmndx/2943.ts
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
