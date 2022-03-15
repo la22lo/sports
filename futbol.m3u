@@ -1563,5 +1563,8 @@ http://init.cheches.info:80/hls/105.m3u8
 #EXTINF:-1, EVENT 5
 http://45.148.26.176/hls/M1.m3u8
 
+#EXTINF:-1, ATP
+https://70.32.30.155/proxy.php/https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/f.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
