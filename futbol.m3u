@@ -30,6 +30,9 @@ https://live-ak.vimeocdn.com/exp=1647377221~acl=%2Fb6a826a0-2e38-4cc0-83c3-76e9c
 #EXTINF:-1, CHAMP
 https://bigsmoke.lbs.pw:443/match/tracks-v1a1/mono.m3u8?token=9b56eb9d1f3f0a9d398dbf2af58723d5252ba310-0.929171949135877-1647409756-1647373756
 
+#EXTINF:-1, CHAMP
+https://hll.hnzzdf.com.cn/live/H102763.m3u8?txSecret=837152dab07e3c4a9cc5445c58e0107b&txTime=6231EE17&_s=stream
+
 #EXTINF:-1, CHAMP 🇬🇧
 http://d1wfx3iskb5o0q.cloudfront.net:80/stream/MzIyOA==/1080p.m3u8
 
