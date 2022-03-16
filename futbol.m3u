@@ -21,6 +21,9 @@ https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/2IxFwBYiB6LPAQ
 #EXTINF:-1, BT SPORT 3 🇬🇧
 https://16live00.akamaized.net/BTSPORTS3/index.m3u8
 
+#EXTINF:-1, CHAMP 🇬🇧
+https://hll.hnzzdf.com.cn/live/H102772.m3u8?txSecret=94110cb10444952d5da70f371508f218&txTime=62336A3F&_s=stream
+
 #EXTINF:-1, ESPACE TV BRASIL HD 🇧🇷
 http://api.magiaiptv.com/live/800435/469206/m4_ymZnQGTRxLhgzKBYlOekpfso_720p_2M
 
@@ -47,6 +50,9 @@ https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/UuAlZHu2T-RiZA_8eN
 
 #EXTINF:-1, BT SPORT 2 🇬🇧
 https://16live00.akamaized.net/BTSPORTS2/index.m3u8
+
+#EXTINF:-1, CHAMP 🇬🇧
+https://hll.hnzzdf.com.cn/live/H102773.m3u8?txSecret=3b148d527006d4c45cb1b25ae59df141&txTime=62336A3F&_s=stream
 
 #EXTINF:-1, TNT SPORTS HD 🇧🇷
 http://api.magiaiptv.com/live/800435/469206/m2_hrXYNmAD2GitKZdq5wlHUjJF_720p_2M
