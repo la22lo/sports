@@ -42,6 +42,9 @@ http://api.magiaiptv.com/live/800435/469206/m2_N44ZDspEYyjOq881vt39l_720p
 #EXTINF:-1, Футбол 1 🇷🇺
 http://80.237.96.66:9090/stream/channelid/1447584418?ticket=421CCD7B1F55D2BEAF0796AF28338DBB6840D5C7&profile=pass
 
+#EXTINF:-1, NADAL
+https://70.32.30.155/proxy.php/https://Richi@playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/f.m3u8
+
 #EXTINF:-1, LIGA CAMPEONES 🇪🇸
 http://45.92.109.177:8080/hls/s2.m3u8
 
