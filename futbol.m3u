@@ -21,8 +21,20 @@ https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/2IxFwBYiB6LPAQ
 #EXTINF:-1, BT SPORT 3 🇬🇧
 https://16live00.akamaized.net/BTSPORTS3/index.m3u8
 
+#EXTINF:-1, BT SPORT 3 🇬🇧
+https://cd2fbb7b4cae.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.724458877794.channel.TSA5ooAuobS3.m3u8
+
+#EXTINF:-1, BT SPORT 3 🇬🇧
+https://ppv.gcdn.co:443/FOOT2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, BT SPORT 3 🇬🇧
+http://dom2ikmy6qovb.cloudfront.net:80/stream/MzIzNg==/1080p.m3u8
+
 #EXTINF:-1, CHAMP 🇬🇧
 https://hll.hnzzdf.com.cn/live/H102772.m3u8?txSecret=94110cb10444952d5da70f371508f218&txTime=62336A3F&_s=stream
+
+#EXTINF:-1, GRANDSTAND LIVE 🇬🇧
+http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8
 
 #EXTINF:-1, ESPACE TV BRASIL HD 🇧🇷
 http://api.magiaiptv.com/live/800435/469206/m4_ymZnQGTRxLhgzKBYlOekpfso_720p_2M
@@ -32,6 +44,9 @@ http://api.magiaiptv.com/live/800435/469206/m1_aa8eb9237a88af37_720p
 
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
+
+#EXTINF:-1, MATH 🇷🇺
+https://bigsmoke.lbs.pw/match/tracks-v1a1/mono.m3u8?token=512bbefb16017f195b7db55484d4fb63b643857a-0.3888063172602676-1647496248-1647460248
 
 #EXTINF:-1, Футбол 3 🇷🇺
 http://80.237.96.66:9090/stream/channelid/1429424341?ticket=DC32E4FDAB18819CC3C91C835EEA0C57ED9FEEBD&profile=pass
@@ -56,6 +71,18 @@ https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/UuAlZHu2T-RiZA_8eN
 
 #EXTINF:-1, BT SPORT 2 🇬🇧
 https://16live00.akamaized.net/BTSPORTS2/index.m3u8
+
+#EXTINF:-1, BT SPORT 2 🇬🇧
+https://cd2fbb7b4cae.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.724458877794.channel.lwmknWymFzSH.m3u8
+
+#EXTINF:-1, BT SPORT 2 🇬🇧
+https://ppv.gcdn.co:443/FOOT1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, BT SPORT 2 🇬🇧
+http://dom2ikmy6qovb.cloudfront.net:80/stream/MzIzNQ==/1080p.m3u8
+
+#EXTINF:-1, S SPORT 🇬🇧
+https://d17f1mg1q6g54e.cloudfront.net/hls/ssv/chunks.m3u8
 
 #EXTINF:-1, CHAMP 🇬🇧
 https://hll.hnzzdf.com.cn/live/H102773.m3u8?txSecret=3b148d527006d4c45cb1b25ae59df141&txTime=62336A3F&_s=stream
