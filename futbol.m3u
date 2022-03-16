@@ -9,6 +9,12 @@ http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,BEIN SPORTS 2 PREMIUM 🇶🇦
 http://api.magiaiptv.com/live/800435/469206/m3_nzx613AAUnJqOOgUbYFRYyKAyhm_720p
 
+#EXTINF:-1,BEIN SPORTS 2 PREMIUM 🇶🇦
+https://stream2-usea.streaming.media.azure.net/4d764346-ce0a-4953-8990-cfa7dc427c0f/2.ism/manifest(format=m3u8-aapl)
+
+#EXTINF:-1,BEIN SPORTS 2 PREMIUM 🇶🇦
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/2IxFwBYiB6LPAQNXF-ARk-aKURkiRQEBuyXoWnZ1gp-T9X_Txo-d6z8eC5q9OtAjtMNIK_3R_FopykmuvwjLhw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+
 #EXTINF:-1, BT SPORT 3 🇬🇧
 https://16live00.akamaized.net/BTSPORTS3/index.m3u8
 
