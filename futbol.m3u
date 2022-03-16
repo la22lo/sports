@@ -18,6 +18,9 @@ http://api.magiaiptv.com/live/800435/469206/m4_ymZnQGTRxLhgzKBYlOekpfso_720p_2M
 #EXTINF:-1, HBO MAX 2 HD 🇧🇷
 http://api.magiaiptv.com/live/800435/469206/m1_aa8eb9237a88af37_720p
 
+#EXTINF:-1, MATH 🇷🇺
+https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
+
 #EXTINF:-1, BEIN SPORTS 1 PREMIUM 🇶🇦
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8?
 
@@ -965,6 +968,9 @@ http://bl.uma.media/live/485548/HLS/4614144_2,2883584/2/1/playlist.m3u8
 
 #EXTINF:-1, San Marino RTV Sport
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+
+#EXTINF:-1, MATH 🇷🇺
+https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
 
 #EXTINF:-1, SPORT 1+1 🇷🇺
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
