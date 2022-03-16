@@ -6,11 +6,17 @@ http://5g9s179kfgx9wn8tqwj9-cul47i.p5cdn.com/dlive/transcode-79-67/dlive-dihupyo
 #EXTINF:-1, BEIN SPORTS 2 PREMIUM 🇶🇦
 http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1,BEIN SPORTS 2 PREMIUM 🇶🇦
+http://api.magiaiptv.com/live/800435/469206/m3_nzx613AAUnJqOOgUbYFRYyKAyhm_720p
+
 #EXTINF:-1, BT SPORT 3 🇬🇧
 https://16live00.akamaized.net/BTSPORTS3/index.m3u8
 
 #EXTINF:-1, BEIN SPORTS 1 PREMIUM 🇶🇦
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8?
+
+#EXTINF:-1,BEIN SPORTS 1 PREMIUM 🇶🇦
+http://api.magiaiptv.com/live/800435/469206/m2_dBrQsWUR9FuOGHKtz7tQ64tqSTH_720p
 
 #EXTINF:-1, BT SPORT 2 🇬🇧
 https://16live00.akamaized.net/BTSPORTS2/index.m3u8
@@ -23,6 +29,9 @@ http://loga.ultratotal.ml/xls/ligota/index.m3u8
 
 #EXTINF:-1, beIN Sports 🇶🇦
 https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/PQ44jXjuKakqZWs0XAUYbxM7JAYUiEoWRyjpptiIpxaAMKqqH7fF8xQTnOKrKVw8LPST7RzcL5-beLTg0ubKKw/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+
+#EXTINF:-1, Bein Sports 1 HD 🇶🇦
+http://api.magiaiptv.com/live/800435/469206/m1_b3LqtPcVf80FH9zmjuIKYaSdNW4_720p
 
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
@@ -273,6 +282,27 @@ http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/17510.ts
 #EXTINF:-1, ELEVEN 6 🇵🇹
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/17511.ts
 
+#EXTINF:-1, Bein Sports 1 HD 🇶🇦
+http://api.magiaiptv.com/live/800435/469206/m1_b3LqtPcVf80FH9zmjuIKYaSdNW4_720p
+
+#EXTINF:-1, Bein Sports 2 HD 🇶🇦
+http://api.magiaiptv.com/live/800435/469206/m2_kzBnxIpw2nDN4oc2hacjgj5nX8i_720p
+
+#EXTINF:-1, Bein Sports 3 HD 🇶🇦
+http://api.magiaiptv.com/live/800435/469206/m3_84EEnC2nxXxTmQcJUE1LLnLCqj9_720p
+
+#EXTINF:-1, Bein Sports 4 HD 🇶🇦
+http://api.magiaiptv.com/live/800435/469206/m1_QmvKPghrqboJ5XW5ys7LeOUjn5R_720p
+
+#EXTINF:-1, Bein Sports 5 HD 🇶🇦
+http://api.magiaiptv.com/live/800435/469206/m2_rBQgv9ZWMgCpBoK09zqQqamkASY_720p
+
+#EXTINF:-1, Seja Sports 6 HD 🇶🇦
+http://api.magiaiptv.com/live/800435/469206/m3_fK7O9ECloybQIPcQ0kOwfg9mUid_720p
+
+#EXTINF:-1, Bein Sports 7 HD 🇶🇦
+http://api.magiaiptv.com/live/800435/469206/m1_IJuJZjslV1ETJDTkTvWSUKGMR3d_720p
+
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
@@ -332,6 +362,15 @@ http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1006.ts
 
 #EXTINF:-1, Bein Sports 7 🇶🇦
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1005.ts
+
+#EXTINF:-1,BEIN SPORTS 1 PREMIUM 🇶🇦
+http://api.magiaiptv.com/live/800435/469206/m2_dBrQsWUR9FuOGHKtz7tQ64tqSTH_720p
+
+#EXTINF:-1,BEIN SPORTS 2 PREMIUM 🇶🇦
+http://api.magiaiptv.com/live/800435/469206/m3_nzx613AAUnJqOOgUbYFRYyKAyhm_720p
+
+#EXTINF:-1, BEIN SPORT 3 PREMIUM 🇶🇦
+http://api.magiaiptv.com/live/800435/469206/m1_ssjfelAbYzoqhYEjGOimmjYlTyj_720p
 
 #EXTINF:-1,BEIN SPORTS 1 PREMIUM 🇶🇦
 http://s1.iptv-pla.net:2052/mustapha7/dmruisst/42045
@@ -491,6 +530,15 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
 
 #EXTINF:-1, beIN SPORTS English 3 🇬🇧
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
+
+#EXTINF:-1, beIN SPORTS English 1 🇬🇧
+http://api.magiaiptv.com/live/800435/469206/m2_ggkPvTiPcSNtLf3ymyMSPY53ksi_720p
+
+#EXTINF:-1, beIN SPORTS English 2 🇬🇧
+http://api.magiaiptv.com/live/800435/469206/m3_JljAFmCUV13gjSLMGt3D6n8q7Lt_720p
+
+#EXTINF:-1, beIN SPORTS English 3 🇬🇧
+http://api.magiaiptv.com/live/800435/469206/m3_GCcBFnck0TR7e19gmg_720p
 
 #EXTINF:-1, BT SPORT 1 🇬🇧
 http://93.152.174.144:4000/play/btsport1/index.m3u8
