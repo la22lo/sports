@@ -102,6 +102,9 @@ http://80.237.96.66:9090/stream/channelid/1447584418?ticket=421CCD7B1F55D2BEAF07
 #EXTINF:-1, NADAL
 http://Richi@stream2.grandma.fit/acc.m3u8
 
+#EXTINF:-1, NADAL
+http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1007.ts
+
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://loga.ultratotal.ml/xls/ligota/index.m3u8
 
