@@ -12,6 +12,9 @@ http://api.magiaiptv.com/live/800435/469206/m3_nzx613AAUnJqOOgUbYFRYyKAyhm_720p
 #EXTINF:-1, BT SPORT 3 🇬🇧
 https://16live00.akamaized.net/BTSPORTS3/index.m3u8
 
+#EXTINF:-1, ESPACE TV BRASIL HD 🇧🇷
+http://api.magiaiptv.com/live/800435/469206/m4_ymZnQGTRxLhgzKBYlOekpfso_720p_2M
+
 #EXTINF:-1, BEIN SPORTS 1 PREMIUM 🇶🇦
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8?
 
