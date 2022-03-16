@@ -15,6 +15,9 @@ https://16live00.akamaized.net/BTSPORTS3/index.m3u8
 #EXTINF:-1, ESPACE TV BRASIL HD 🇧🇷
 http://api.magiaiptv.com/live/800435/469206/m4_ymZnQGTRxLhgzKBYlOekpfso_720p_2M
 
+#EXTINF:-1, HBO MAX 2 HD 🇧🇷
+http://api.magiaiptv.com/live/800435/469206/m1_aa8eb9237a88af37_720p
+
 #EXTINF:-1, BEIN SPORTS 1 PREMIUM 🇶🇦
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8?
 
@@ -26,6 +29,9 @@ https://16live00.akamaized.net/BTSPORTS2/index.m3u8
 
 #EXTINF:-1, TNT SPORTS HD 🇧🇷
 http://api.magiaiptv.com/live/800435/469206/m2_hrXYNmAD2GitKZdq5wlHUjJF_720p_2M
+
+#EXTINF:-1, HBO MAX 1 HD 🇧🇷
+http://api.magiaiptv.com/live/800435/469206/m2_N44ZDspEYyjOq881vt39l_720p
 
 #EXTINF:-1, LIGA CAMPEONES 🇪🇸
 http://45.92.109.177:8080/hls/s2.m3u8
