@@ -36,12 +36,6 @@ http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJIlbAuux2Qjgom4M0Y1VZBc/ts
 #EXTINF:-1,MMN SPORT HD 🇮🇶
 http://190.2.148.141:8080/bar7642/index.m3u8
 
-#EXTINF:-1, SUPERSPORT LALIGA 🇬🇧
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/135960
-
-#EXTINF:-1, SUPER SPORT LALIGA 🇬🇧
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/200525
-
 #EXTINF:-1, LaLigaTV HD 🇬🇧
 http://45.153.35.224:8000/play/a00u
 
@@ -54,17 +48,8 @@ http://194.67.196.19/hls/103.m3u8?mvk
 #EXTINF:-1,SUPERSPORT LIGA 🇬🇧
 http://194.67.196.19/hls/103.m3u8
 
-#EXTINF:-1, SUPERSPORT FOOTBALL 🇬🇧
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/135963
-
 #EXTINF:-1, Super Sports HD 2 🇦🇱
 http://185.204.32.49:6735/UltraNetS2/stream/playlist.m3u8
-
-#EXTINF:-1, Super Sports HD 2 🇦🇱
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/7268
-
-#EXTINF:-1, Super Sports HD 3 🇦🇱
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/7269
 
 #EXTINF:-1, ARENA SPORT 1 HD PREMIUM SERBIA 🇷🇸
 http://46.29.169.15:4001/play/a00g/index.m3u8?mvk
@@ -291,48 +276,6 @@ http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/17510.ts
 #EXTINF:-1, ELEVEN 6 🇵🇹
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/17511.ts
 
-#EXTINF:-1, BEIN SPORTS 1 🇶🇦
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/22882
-
-#EXTINF:-1, BEIN SPORTS 1 VIP 🇶🇦
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/170078
-
-#EXTINF:-1, BEIN SPORTS 2 🇶🇦
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/25494
-
-#EXTINF:-1, BEIN SPORTS 2 VIP 🇶🇦
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/170079
-
-#EXTINF:-1, BEIN SPORTS 3 🇶🇦
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/22886
-
-#EXTINF:-1, BEIN SPORTS 3 VIP 🇶🇦
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/170080
-
-#EXTINF:-1, BEIN SPORTS 4 🇶🇦
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/22888
-
-#EXTINF:-1, BEIN SPORTS 4 VIP 🇶🇦
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/170081
-
-#EXTINF:-1, BEIN SPORTS 5 🇶🇦
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/170907
-
-#EXTINF:-1, BEIN SPORTS 5 VIP 🇶🇦
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/170082
-
-#EXTINF:-1, BEIN SPORTS 6 🇶🇦
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/170909
-
-#EXTINF:-1, BEIN SPORTS 6 VIP 🇶🇦
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/170083
-
-#EXTINF:-1, BEIN SPORTS 7 🇶🇦
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/170911
-
-#EXTINF:-1, BEIN SPORTS 7 VIP 🇶🇦
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/170084
-
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
@@ -543,15 +486,6 @@ http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJBqdg7Slp6-qg3BmzZyuLoA/ts
 #EXTINF:-1, INFOSPORT 🇫🇷
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49496
 
-#EXTINF:-1, BEIN SPORTS ENG 1 🇬🇧
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/260908
-
-#EXTINF:-1, BEIN SPORTS ENG 2 🇬🇧
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/260909
-
-#EXTINF:-1, BEIN SPORTS ENG 3 🇬🇧
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/260910
-
 #EXTINF:-1, beIN SPORTS English 1 🇬🇧
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
 
@@ -560,39 +494,6 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
 
 #EXTINF:-1, beIN SPORTS English 3 🇬🇧
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
-
-#EXTINF:-1, BT SPORT 1 🇬🇧
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/7805
-
-#EXTINF:-1, BT SPORT 2 🇬🇧
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/7806
-
-#EXTINF:-1, BT Sport 3 🇬🇧
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/7807
-
-#EXTINF:-1, BT SPORT EXTRA 1 🇬🇧
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/7810
-
-#EXTINF:-1, BT SPORT EXTRA 2 🇬🇧
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/7811
-
-#EXTINF:-1, BT SPORT EXTRA 3 🇬🇧
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/7812
-
-#EXTINF:-1, BT SPORT EXTRA 4 🇬🇧
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/7813
-
-#EXTINF:-1, BT SPORT EXTRA 5 🇬🇧
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/23631
-
-#EXTINF:-1, BT SPORT ESPN 🇬🇧
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/7808
-
-#EXTINF:-1, BT ESPN HD 1 🇬🇧
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/308833
-
-#EXTINF:-1, BT ESPN HD 2 🇬🇧
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/308832
 
 #EXTINF:-1, BT SPORT 1 🇬🇧
 http://93.152.174.144:4000/play/btsport1/index.m3u8
@@ -657,18 +558,6 @@ http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/17324.ts
 #EXTINF:-1, DIGISPORT4 🇷🇴
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/17325.ts
 
-#EXTINF:-1, DIGI SPORT 1 🇷🇴
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/8863
-
-#EXTINF:-1, DIGI SPORT 2 🇷🇴
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/8864
-
-#EXTINF:-1, DIGI SPORT 3 🇷🇴
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/23583
-
-#EXTINF:-1, DIGI SPORT 4 🇷🇴
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/8866
-
 #EXTINF:-1, DIGI Sport 1 FHD 🇷🇴
 http://21929815.rossteleccom.net/iptv/HCA5Q2VGYBY7YE/2523/index.m3u8
 
@@ -705,21 +594,6 @@ http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/17328.ts
 #EXTINF:-1, TELEKOMSPORT4 HD 🇷🇴
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/17329.ts
 
-#EXTINF:-1, ZIGGO SPORT VOETBAL 🇳🇱
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/3923
-
-#EXTINF:-1, ZIGGO SPORT SELECT 🇳🇱
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/3921
-
-#EXTINF:-1, ZIGGO SPORT EXTRA 1 🇳🇱
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/3299
-
-#EXTINF:-1, ZIGGO SPORT EXTRA 2 🇳🇱
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/3298
-
-#EXTINF:-1, ZIGGO SPORT 🇳🇱
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/3296
-
 #EXTINF:-1, ELEVEN SPORTS 1 🇵🇱
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1110.ts
 
@@ -746,42 +620,6 @@ http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1113.ts
 
 #EXTINF:-1, nova sports 3 POLONIA 🇵🇱
 http://84.42.140.147:8890/hdmi
-
-#EXTINF:-1, NOVA Sport 1 GRE
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/178302
-
-#EXTINF:-1, NOVA Sport 2 GRE
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/178303
-
-#EXTINF:-1, NOVA Sport 3 GRE
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/18572
-
-#EXTINF:-1, NOVA Sport 4 GRE
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/18573
-
-#EXTINF:-1, Cosmote Sport 1
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/175109
-
-#EXTINF:-1, Cosmote Sport 2
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/10835
-
-#EXTINF:-1, Cosmote SPORT 3
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/10836
-
-#EXTINF:-1, Cosmote Sport 4
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/10837
-
-#EXTINF:-1, Cosmote Sport 5
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/10838
-
-#EXTINF:-1, Cosmote Sport 6
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/10839
-
-#EXTINF:-1, Cosmote Sport 7
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/175110
-
-#EXTINF:-1, Cosmote Sport 8
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/10841
 
 #EXTINF:-1, MATH CTPAHA 🇷🇺
 https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
@@ -836,21 +674,6 @@ http://185.204.32.49:6735/UltraNetS3/stream/playlist.m3u8
 
 #EXTINF:-1, Super Sports HD 4 🇦🇱
 http://185.204.32.49:6735/UltraNetS4/stream/playlist.m3u8
-
-#EXTINF:-1, Super Sports HD 2 🇦🇱
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/7268
-
-#EXTINF:-1, Super Sports HD 3 🇦🇱
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/7269
-
-#EXTINF:-1, Super Sports HD 4 🇦🇱
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/7270
-
-#EXTINF:-1, Super Sports HD 5 🇦🇱
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/7271
-
-#EXTINF:-1, Super Sports HD 6 🇦🇱
-http://iptvparty.live:8080/debbie/x9H1MqQc1K/7272
 
 #EXTINF:-1,RTSH SPORT 🇦🇱
 http://185.204.32.4:9981/stream/channelid/1261192802|User-Agent=stream
