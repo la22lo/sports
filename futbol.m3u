@@ -555,6 +555,15 @@ http://api.magiaiptv.com/live/800435/469206/m3_JljAFmCUV13gjSLMGt3D6n8q7Lt_720p
 #EXTINF:-1, beIN SPORTS English 3 🇬🇧
 http://api.magiaiptv.com/live/800435/469206/m3_GCcBFnck0TR7e19gmg_720p
 
+#EXTINF:-1, BT_SPORTS_1 🇬🇧
+https://16live00.akamaized.net/BTSPORTS1/index.m3u8
+
+#EXTINF:-1, BT_SPORTS_2 🇬🇧
+https://16live00.akamaized.net/BTSPORTS2/index.m3u8
+
+#EXTINF:-1, BT_SPORTS_3 🇬🇧
+https://16live00.akamaized.net/BTSPORTS3/index.m3u8
+
 #EXTINF:-1, BT SPORT 1 🇬🇧
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 
