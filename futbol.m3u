@@ -654,13 +654,13 @@ http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/17328.ts
 #EXTINF:-1, TELEKOMSPORT4 HD 🇷🇴
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/17329.ts
 
-#EXTINF:-1, VIVARO_SPORTS_HD
+#EXTINF:-1, VIVARO_SPORTS_HD 🇦🇲
 http://135.181.178.91/vmedia_live/1/mono.m3u8?shareext.ts
 
-#EXTINF:-1, VIVARO_SPORTS+_HD
+#EXTINF:-1, VIVARO_SPORTS+_HD 🇦🇲
 http://135.181.178.91/vmedia_live/2/mono.m3u8?shareext.ts
 
-#EXTINF:-1, VIVARO_ARENA_HD 
+#EXTINF:-1, VIVARO_ARENA_HD 🇦🇲
 http://135.181.178.91/vmedia_live/3/mono.m3u8?shareext.ts
 
 #EXTINF:-1, ELEVEN SPORTS 1 🇵🇱
