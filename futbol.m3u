@@ -981,17 +981,47 @@ https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
 #EXTINF:-1, Футбол 1 🇷🇺
 http://80.237.96.66:9090/stream/channelid/1447584418?ticket=421CCD7B1F55D2BEAF0796AF28338DBB6840D5C7&profile=pass
 
+#EXTINF:-1, Футбол 1 🇷🇺
+http://persik.by/stream/7504/377885/346.m3u8
+
 #EXTINF:-1, Футбол 2 🇷🇺
 http://80.237.96.66:9090/stream/channelid/927470349?ticket=4AC1FD6BFB840BFDA0D8FA44B2ABE1DE00617625&profile=pass
+
+#EXTINF:-1, Футбол 2 🇷🇺
+http://persik.by/stream/7504/377885/10217.m3u8
 
 #EXTINF:-1, Футбол 3 🇷🇺
 http://80.237.96.66:9090/stream/channelid/1429424341?ticket=DC32E4FDAB18819CC3C91C835EEA0C57ED9FEEBD&profile=pass
 
+#EXTINF:-1, Футбол 3 🇷🇺
+http://persik.by/stream/7504/377885/10218.m3u8
+
 #EXTINF:-1, Футбол 🇷🇺
 http://80.237.96.66:9090/stream/channelid/179317365?ticket=DA8EC54EEBE7A94F39F16B645F93F14F2B1AFA9F&profile=pass
 
-#EXTINF:-1, Belarus 5 🇧🇾
+#EXTINF:-1, Belarus 5 HD 🇧🇾
 http://persik.by/stream/7504/377885/10408.m3u8
+
+#EXTINF:-1, Belarus 5 🇧🇾
+http://persik.by/stream/7504/377885/932.m3u8
+
+#EXTINF:-1, Матч! Арена 🇷🇺
+http://persik.by/stream/7504/377885/261.m3u8
+
+#EXTINF:-1, Матч! Арена 🇷🇺
+http://persik.by/stream/7504/377885/724.m3u8
+
+#EXTINF:-1, Матч! Игра 🇷🇺
+http://persik.by/stream/7504/377885/10270.m3u8
+
+#EXTINF:-1, Матч! Премьер 🇷🇺
+http://persik.by/stream/7504/377885/284.m3u8
+
+#EXTINF:-1, Матч! Страна 🇷🇺
+http://persik.by/stream/7504/377885/10271.m3u8
+
+#EXTINF:-1, Спорт 1 🇷🇺
+http://212.115.255.196/Jfd85Hf/sport1.m3u8
 
 #EXTINF:-1, SPORT 1+1 🇷🇺
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
