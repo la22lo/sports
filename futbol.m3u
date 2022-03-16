@@ -45,6 +45,9 @@ http://80.237.96.66:9090/stream/channelid/1447584418?ticket=421CCD7B1F55D2BEAF07
 #EXTINF:-1, NADAL
 https://70.32.30.155/proxy.php/https://Richi@playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/f.m3u8
 
+#EXTINF:-1, NADAL
+http://Richi@stream2.grandma.fit/acc.m3u8
+
 #EXTINF:-1, LIGA CAMPEONES 🇪🇸
 http://45.92.109.177:8080/hls/s2.m3u8
 
