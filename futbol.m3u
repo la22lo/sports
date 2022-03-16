@@ -990,6 +990,9 @@ http://80.237.96.66:9090/stream/channelid/1429424341?ticket=DC32E4FDAB18819CC3C9
 #EXTINF:-1, Футбол 🇷🇺
 http://80.237.96.66:9090/stream/channelid/179317365?ticket=DA8EC54EEBE7A94F39F16B645F93F14F2B1AFA9F&profile=pass
 
+#EXTINF:-1, Belarus 5 🇧🇾
+http://persik.by/stream/7504/377885/10408.m3u8
+
 #EXTINF:-1, SPORT 1+1 🇷🇺
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
