@@ -444,6 +444,9 @@ http://89.249.49.78:8000/play/a0ia
 #EXTINF:-1, DAZN F1 🇪🇸
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1106.ts
 
+#EXTINF:-1, FORMULA 1 🇬🇧
+http://api.magiaiptv.com/live/800435/469206/m1_skysportsf1_720p
+
 #EXTINF:-1, beIN Sports 1 French 🇫🇷
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
 
