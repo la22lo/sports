@@ -3,65 +3,23 @@
 #EXTINF:-1, ESPN 🇦🇷
 http://5g9s179kfgx9wn8tqwj9-cul47i.p5cdn.com/dlive/transcode-79-67/dlive-dihupyoptj/1647209339/src/live.m3u8
 
-#EXTINF:-1, BEIN SPORTS 1 PREMIUM 🇶🇦
-http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8?
-
-#EXTINF:-1, ESPN 🇦🇷
-https://cdn.livepeer.com/hls/9e0bvnl36ey98wqk/index.m3u8
-
-#EXTINF:-1, TUDN VIVO 🇦🇷
-https://cdn.livepeer.com/hls/9e0bvnl36ey98wqk/index.m3u8
-
-#EXTINF:-1, LIGA CAMPEONES 🇪🇸
-http://45.92.109.177:8080/hls/s2.m3u8
-
-#EXTINF:-1, BEIN SPORTS 1 PREMIUM 🇶🇦
-https://per@prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/VnFGpeOIomcxjzK_-fQZx5DBAnKkNEogfDVqJpyaNgMD2b8paKbz4Clsm-GwL1lyv2HF9KsdTwHcFv6G4j4FMw/non_transcode/us-west-2/periscope-replay-direct-prod-eu-west-3-public/dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1, BEIN SPORTS 1 PREMIUM 🇶🇦
-https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/vmgVT-TxDhkv8XF3Inkfc_li_4OMOOa9yRUzFs5bD81yTDT5BIy_XPWG0zUOiSKhMP4R3WBrlhSoktA7j72uUw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1, BEIN SPORTS 1 PREMIUM 🇶🇦
-https://cdn.livepeer.com/hls/a41f1bajbg58wba2/index.m3u8
-
-#EXTINF:-1, BEIN SPORTS 1 PREMIUM 🇶🇦
-https://live-ak.vimeocdn.com/exp=1647377221~acl=%2Fb6a826a0-2e38-4cc0-83c3-76e9c2093df1%2F%2A~hmac=fd2b6b7ff2ab382c4eff6140a2e1239a98b9ddd6c7378a6c14121333a78c361d/b6a826a0-2e38-4cc0-83c3-76e9c2093df1/hls.m3u8?min_seconds=30
-
-#EXTINF:-1, MATH 🇷🇺
-https://bigsmoke.lbs.pw:443/match/tracks-v1a1/mono.m3u8?token=9b56eb9d1f3f0a9d398dbf2af58723d5252ba310-0.929171949135877-1647409756-1647373756
-
-#EXTINF:-1, 5 LIVE ISR 🇮🇱
-https://hll.hnzzdf.com.cn/live/H102763.m3u8?txSecret=837152dab07e3c4a9cc5445c58e0107b&txTime=6231EE17&_s=stream
-
-#EXTINF:-1, S CHAMPIONS 🇬🇧
-http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8
-
-#EXTINF:-1, BT SPORT 2 🇬🇧
-https://16live00.akamaized.net/BTSPORTS2/index.m3u8
-
-#EXTINF:-1, S CHAMPIONS 🇬🇧
-https://d17f1mg1q6g54e.cloudfront.net:443/hls/ssp/chunks.m3u8 
-
-#EXTINF:-1,CHAMPIONS 🇬🇧
-http://livehls.ltjuq.top/ofmatch/HD2676061.m3u8?auth_key=1647374722-3a8993a76d08dd2a69f0821bea0b3066-0-483c819b6363fe7e8134307ee7d8bdf6
+#EXTINF:-1, BEIN SPORTS 2 PREMIUM 🇶🇦
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1, BT SPORT 3 🇬🇧
 https://16live00.akamaized.net/BTSPORTS3/index.m3u8
 
-#EXTINF:-1, TNT SPORTS 🇦🇷
-https://vdsx.glletle1.com/v3/youshi/m2_hrXYNmAD2GitKZdq5wlHUjJF_480p.m3u8?client_ip=45.165.28.16&user_id=42166598&session_id=aJc6lSKf64je&dev_limit=1&app_id=com.global.brasiltvweb&auth_id=42166598_com.global.brasiltvweb&app_ver=10101&dev_id=6f512ceb&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&main_addr=https://vdsx.glletle1.com/v3/youshi/&expired=1647384857&token=65B5A87387B93927CB3FA395BB6CB7DC&media_code=m2_hrXYNmAD2GitKZdq5wlHUjJF_480p
+#EXTINF:-1, BEIN SPORTS 1 PREMIUM 🇶🇦
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8?
 
-#EXTINF:-1, TNT SPORTS 🇦🇷
-https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/JYJplLzlevutrWxigDBaWQMzs0Y0bw_afV2at8oRf-LhhS0YuMzCe1YhMID6_Llwqyv16FXWwCvrFYNXt1r35w/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
+#EXTINF:-1, BT SPORT 2 🇬🇧
+https://16live00.akamaized.net/BTSPORTS2/index.m3u8
+
+#EXTINF:-1, LIGA CAMPEONES 🇪🇸
+http://45.92.109.177:8080/hls/s2.m3u8
 
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://loga.ultratotal.ml/xls/ligota/index.m3u8
-
-#EXTINF:-1, VAMOS TV 🇪🇸
-http://51.178.131.215:45256/live/212700881643/Y1jH1z5HMmndx/2943.ts
-
-#EXTINF:-1, S LaLiga 🇬🇧
-http://f9b4c96b3d36.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.809655496056.channel.6chLjkMFkiSh.m3u8
 
 #EXTINF:-1, beIN Sports 🇶🇦
 https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/PQ44jXjuKakqZWs0XAUYbxM7JAYUiEoWRyjpptiIpxaAMKqqH7fF8xQTnOKrKVw8LPST7RzcL5-beLTg0ubKKw/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
