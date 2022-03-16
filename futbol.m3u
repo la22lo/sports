@@ -103,6 +103,9 @@ http://80.237.96.66:9090/stream/channelid/1447584418?ticket=421CCD7B1F55D2BEAF07
 http://Richi@stream2.grandma.fit/acc.m3u8
 
 #EXTINF:-1, TENNIS
+http://Richi@stream2.grandma.fit/acc.m3u8
+
+#EXTINF:-1, TENNIS
 https://70.32.30.155/proxy.php/https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f/f.m3u8
 
 #EXTINF:-1, NADAL
