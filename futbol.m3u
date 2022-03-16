@@ -36,6 +36,12 @@ https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
 #EXTINF:-1, Футбол 3 🇷🇺
 http://80.237.96.66:9090/stream/channelid/1429424341?ticket=DC32E4FDAB18819CC3C91C835EEA0C57ED9FEEBD&profile=pass
 
+#EXTINF:-1, CHAMPIONS TV 1 🇬🇧
+https://lnk.ec/shareext@juara1
+
+#EXTINF:-1, CHAMPIONS TV 2 🇬🇧
+https://lnk.ec/shareext@juara2
+
 #EXTINF:-1, BEIN SPORTS 1 PREMIUM 🇶🇦
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8?
 
@@ -479,6 +485,15 @@ http://89.249.49.78:8000/play/a0ia
 
 #EXTINF:-1, DAZN F1 🇪🇸
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1106.ts
+
+#EXTINF:-1, CHAMPIONS TV 1 🇬🇧
+https://lnk.ec/shareext@juara1
+
+#EXTINF:-1, CHAMPIONS TV 2 🇬🇧
+https://lnk.ec/shareext@juara2
+
+#EXTINF:-1, CHAMPIONS TV 2 🇬🇧
+https://lnk.ec/shareext@juara3
 
 #EXTINF:-1, FORMULA 1 🇬🇧
 http://api.magiaiptv.com/live/800435/469206/m1_skysportsf1_720p
