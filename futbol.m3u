@@ -1566,5 +1566,41 @@ http://init.cheches.info:80/hls/105.m3u8
 #EXTINF:-1, EVENT 5
 http://45.148.26.176/hls/M1.m3u8
 
+#EXTINF:-1, Cosmote Sport 1 HD
+http://electrotv.us:25461/HJmF7RYMvk/DELMORE123/1138972.ts
+
+#EXTINF:-1, Cosmote Sport 2 HD
+http://electrotv.us:25461/HJmF7RYMvk/DELMORE123/1243278.ts
+
+#EXTINF:-1, Cosmote Sport 3 HD
+http://electrotv.us:25461/HJmF7RYMvk/DELMORE123/1243279.ts
+
+#EXTINF:-1, COSMOTE SPORT 4 HD
+http://electrotv.us:25461/HJmF7RYMvk/DELMORE123/498926.ts
+
+#EXTINF:-1, Cosmote Sport 5 HD
+http://electrotv.us:25461/HJmF7RYMvk/DELMORE123/1651453.ts
+
+#EXTINF:-1,COSMOTE SPORT 6 HD
+http://electrotv.us:25461/HJmF7RYMvk/DELMORE123/1651451.ts
+
+#EXTINF:-1, Cosmote Sport 7 HD
+http://electrotv.us:25461/HJmF7RYMvk/DELMORE123/1651452.ts
+
+#EXTINF:-1, Cosmote Sport 8 HD
+http://electrotv.us:25461/HJmF7RYMvk/DELMORE123/1651454.ts
+
+#EXTINF:-1, NOVA SPORTS 1 HD
+http://electrotv.us:25461/HJmF7RYMvk/DELMORE123/498865.ts
+
+#EXTINF:-1, NOVA SPORTS 2 HD
+http://electrotv.us:25461/HJmF7RYMvk/DELMORE123/498866.ts
+
+#EXTINF:-1, NOVA SPORTS 3 HD
+http://electrotv.us:25461/HJmF7RYMvk/DELMORE123/498867.ts
+
+#EXTINF:-1, NOVA SPORT 4 HD
+http://electrotv.us:25461/HJmF7RYMvk/DELMORE123/1138971.ts
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
