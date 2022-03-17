@@ -6,8 +6,8 @@ http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 #EXTINF:-1, Super Sports HD 2 🇦🇱
 http://185.204.32.49:6735/UltraNetS2/stream/playlist.m3u8
 
-#EXTINF:-1, BEIN SPORTS 2 PREMIUM 🇶🇦
-http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1, BEIN SPORTS 1 PREMIUM 🇶🇦
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8?
 
 #EXTINF:-1, BT SPORT 3 🇬🇧
 https://16live00.akamaized.net/BTSPORTS3/index.m3u8
@@ -23,9 +23,6 @@ https://lnk.ec/shareext@juara1
 
 #EXTINF:-1, CHAMPIONS TV 2 🇬🇧
 https://lnk.ec/shareext@juara2
-
-#EXTINF:-1, BEIN SPORTS 1 PREMIUM 🇶🇦
-http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8?
 
 #EXTINF:-1, BT SPORT 2 🇬🇧
 https://16live00.akamaized.net/BTSPORTS2/index.m3u8
