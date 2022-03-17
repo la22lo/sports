@@ -627,14 +627,14 @@ https://16live00.akamaized.net/BTSPORTS2/index.m3u8
 #EXTINF:-1, BT_SPORTS_3 🇬🇧
 https://16live00.akamaized.net/BTSPORTS3/index.m3u8
 
+#EXTINF:-1, BT_SPORTS_ESPN_HD 🇬🇧
+https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8
+
 #EXTINF:-1, BT SPORT 1 🇬🇧
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 
 #EXTINF:-1, BT SPORT 1 🇬🇧
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61418
-
-#EXTINF:-1, BT SPORT 1 🇬🇧
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/246
 
 #EXTINF:-1, BT SPORT 2 🇬🇧
 http://93.152.174.144:4000/play/btsport2/index.m3u8
@@ -642,14 +642,8 @@ http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1, BT SPORT 2 🇬🇧
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61419
 
-#EXTINF:-1, BT SPORT 2 🇬🇧
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/243
-
 #EXTINF:-1, BT SPORT 3 🇬🇧
 http://93.152.174.144:4000/play/btsport3/index.m3u8
-
-#EXTINF:-1, BT SPORT 3 🇬🇧
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/240
 
 #EXTINF:-1, BT Sport ESPN 🇬🇧
 http://93.152.174.144:4000/play/btsport3/index.m3u8
