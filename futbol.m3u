@@ -669,6 +669,9 @@ http://21929815.rossteleccom.net/iptv/HCA5Q2VGYBY7YE/2524/index.m3u8
 #EXTINF:-1, DIGI Sport 4 FHD 🇷🇴
 http://21929815.rossteleccom.net/iptv/HCA5Q2VGYBY7YE/2538/index.m3u8
 
+#EXTINF:-1, DIGI SPORT 4 🇷🇴
+http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/6307
+
 #EXTINF:-1, TELEKOMSPORT1 HD 🇷🇴
 http://bestavb.top:8008/Daia_Florin/1Unlimited19/36706
 
@@ -1541,9 +1544,6 @@ http://init.cheches.info:80/hls/105.m3u8
 
 #EXTINF:-1, EVENT 5
 http://45.148.26.176/hls/M1.m3u8
-
-#EXTINF:-1, DIGI SPORT 4
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/6307
 
 #EXTINF:-1, ZIGGO SPORT SELECT
 http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/589
