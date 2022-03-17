@@ -21,6 +21,9 @@ https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/jjWG7RjnXmcz3K_wZEdN5
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
 
+#EXTINF:-1, TUDN VIVO
+https://cdn.livepeer.com/hls/9e0bvnl36ey98wqk/index.m3u8
+
 #EXTINF:-1, Super Sports HD 2 🇦🇱
 http://185.204.32.49:6735/UltraNetS2/stream/playlist.m3u8
 
