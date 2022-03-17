@@ -630,6 +630,9 @@ https://16live00.akamaized.net/BTSPORTS3/index.m3u8
 #EXTINF:-1, BT_SPORTS_ESPN_HD 🇬🇧
 https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8
 
+#EXTINF:-1, CBS SPORTS 🇬🇧
+https://16live00.akamaized.net/CBS_SPORTS/index.m3u8
+
 #EXTINF:-1, BT SPORT 1 🇬🇧
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 
@@ -647,6 +650,12 @@ http://93.152.174.144:4000/play/btsport3/index.m3u8
 
 #EXTINF:-1, BT Sport ESPN 🇬🇧
 http://93.152.174.144:4000/play/btsport3/index.m3u8
+
+#EXTINF:-1, ESPN 1 USA
+http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8
+
+#EXTINF:-1, ESPN 2 USA
+http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8
 
 #EXTINF:-1,Look Sport 1 🇷🇴
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
@@ -908,6 +917,9 @@ http://134.19.182.131:8080/pdgfb78bc33b911096c_2.m3u8?m=D60POeH1SPpZzFWw2CirWQ&c
 
 #EXTINF:-1, FOX SOCCER PLUS 🇬🇧
 http://134.19.182.131:8080/pdgfb78bc33b911096c.m3u8?m=6MisnqUn5jMd-6DekFyaaw&c=fb78bc33b911096c&p=3138352e3132382e36302e31&e=1644976155
+
+#EXTINF:-1, FLOW SPORTS 1 🇬🇧
+http://38.127.211.18/live/c2eds/FlowSports1/HLS/index.m3u8
 
 #EXTINF:-1, SPORTTV 1 🇵🇹
 http://93.152.174.144:4000/play/sporttv1/index.m3u8
