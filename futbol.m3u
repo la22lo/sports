@@ -69,6 +69,12 @@ https://70.32.30.155/proxy.php/https://playoutengine.sinclairstoryline.com/playo
 #EXTINF:-1, TENNIS 🇬🇧
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1007.ts
 
+#EXTINF:-1, TENNIS CHANNEL 🇬🇧
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, TENNIS CHANNEL 🇬🇧
+https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
+
 #EXTINF:-1, GRANDSTAND LIVE 🇬🇧
 http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/14193
 
@@ -96,8 +102,8 @@ http://190.2.148.141:8080/bar7642/index.m3u8
 #EXTINF:-1, LaLigaTV HD 🇬🇧
 http://45.153.35.224:8000/play/a00u
 
-#EXTINF:-1, SuperSport LaLiga 🇬🇧
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/14196
+#EXTINF:-1, MTV+ HD 🇬🇧
+http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 
 #EXTINF:-1,SUPERSPORT LIGA 🇬🇧
 http://init.cheches.info/hls/103.m3u8
