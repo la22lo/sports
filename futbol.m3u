@@ -1521,5 +1521,65 @@ http://init.cheches.info:80/hls/105.m3u8
 #EXTINF:-1, EVENT 5
 http://45.148.26.176/hls/M1.m3u8
 
+#EXTINF:-1, DIGI SPORT 1
+http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/6310
+
+#EXTINF:-1, DIGI SPORT 2
+http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/6309
+
+#EXTINF:-1, DIGI SPORT 3
+http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/6308
+
+#EXTINF:-1, DIGI SPORT 4
+http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/6307
+
+#EXTINF:-1, SUPERSPORT 1
+http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/7057
+
+#EXTINF:-1, SUPERSPORT 2
+http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/7056
+
+#EXTINF:-1, SUPERSPORT 3
+http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/7055
+
+#EXTINF:-1, SUPERSPORT 4
+http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/7054
+
+#EXTINF:-1, SUPERSPORT 5
+http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/7053
+
+#EXTINF:-1, SPORT TV 1 HD
+http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/581
+
+#EXTINF:-1, SPORT TV 2 FHD
+http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/580
+
+#EXTINF:-1, SPORT TV 2 HD
+http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/579
+
+#EXTINF:-1, SPORT TV 3 FHD
+http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/578
+
+#EXTINF:-1, SPORT TV 3 HD
+http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/577
+
+#EXTINF:-1, SPORT TV 4 FHD
+http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/576
+
+#EXTINF:-1, SPORT TV 4 HD
+http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/575
+
+#EXTINF:-1, SPORT TV 5 FHD
+http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/574
+
+#EXTINF:-1, SPORT TV 5 HD
+http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/573
+
+#EXTINF:-1, ZIGGO SPORT SELECT
+http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/589
+
+#EXTINF:-1, ZIGGO SPORT VOETBAL
+http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/4712
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
