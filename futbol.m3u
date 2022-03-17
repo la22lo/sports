@@ -18,17 +18,14 @@ https://16live00.akamaized.net/BTSPORTS3/index.m3u8
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
 
-#EXTINF:-1, Футбол 3 🇷🇺
-http://80.237.96.66:9090/stream/channelid/1429424341?ticket=DC32E4FDAB18819CC3C91C835EEA0C57ED9FEEBD&profile=pass
+#EXTINF:-1, Футбол 2 🇷🇺
+http://persik.by/stream/7504/377885/10217.m3u8
 
 #EXTINF:-1, CHAMPIONS TV 1 🇬🇧
 https://lnk.ec/shareext@juara1
 
 #EXTINF:-1, CHAMPIONS TV 2 🇬🇧
 https://lnk.ec/shareext@juara2
-
-#EXTINF:-1, Футбол 1 🇷🇺
-http://80.237.96.66:9090/stream/channelid/1447584418?ticket=421CCD7B1F55D2BEAF0796AF28338DBB6840D5C7&profile=pass
 
 #EXTINF:-1, TENNIS
 http://Richi@stream2.grandma.fit/acc.m3u8
