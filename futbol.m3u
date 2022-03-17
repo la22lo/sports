@@ -9,35 +9,14 @@ https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
 #EXTINF:-1, Super Sports HD 2 🇦🇱
 http://185.204.32.49:6735/UltraNetS2/stream/playlist.m3u8
 
-#EXTINF:-1, SPORT TV 2 FHD 🇵🇹
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/580
-
-#EXTINF:-1, SPORT TV 2 HD 🇵🇹
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/579
-
-#EXTINF:-1, Cosmote SPORT 3 FHD 🇬🇷
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/28627
-
-#EXTINF:-1, SKY SPORT 1 AUSTRIA 🇦🇹
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/20433
-
 #EXTINF:-1, BEIN SPORTS 1 PREMIUM 🇶🇦
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8?
-
-#EXTINF:-1,BEIN SPORTS 1 PREMIUM 🇶🇦
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/26259
 
 #EXTINF:-1, BT SPORT 2 🇬🇧
 https://16live00.akamaized.net/BTSPORTS2/index.m3u8
 
-#EXTINF:-1, BT SPORT 2 🇬🇧
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/243
-
 #EXTINF:-1, BT SPORT 3 🇬🇧
 https://16live00.akamaized.net/BTSPORTS3/index.m3u8
-
-#EXTINF:-1, BT SPORT 3 🇬🇧
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/240
 
 #EXTINF:-1, Футбол 2 🇷🇺
 http://persik.by/stream/7504/377885/10217.m3u8
