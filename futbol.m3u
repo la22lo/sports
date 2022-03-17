@@ -750,6 +750,12 @@ http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1113.ts
 #EXTINF:-1, nova sports 3 POLONIA 🇵🇱
 http://84.42.140.147:8890/hdmi
 
+#EXTINF:-1, ZIGGO SPORT SELECT
+http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/589
+
+#EXTINF:-1, ZIGGO SPORT VOETBAL
+http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/4712
+
 #EXTINF:-1, MATH CTPAHA 🇷🇺
 https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 
@@ -1547,12 +1553,6 @@ http://init.cheches.info:80/hls/105.m3u8
 
 #EXTINF:-1, EVENT 5
 http://45.148.26.176/hls/M1.m3u8
-
-#EXTINF:-1, ZIGGO SPORT SELECT
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/589
-
-#EXTINF:-1, ZIGGO SPORT VOETBAL
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/4712
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
