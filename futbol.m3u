@@ -9,12 +9,6 @@ http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8?
 #EXTINF:-1, BEIN SPORTS 1 PREMIUM 🇶🇦
 https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/jjWG7RjnXmcz3K_wZEdN5TUuHvKxxLvjmw3cYg-n7TQbeMawuR3XY09oI56NlYQ4215cntOCbCBRueHp6sfOZQ/non_transcode/us-west-2/periscope-replay-direct-prod-eu-west-3-public/dynamic_highlatency.m3u8?type=live
 
-#EXTINF:-1, BEIN SPORTS 1 PREMIUM 🇶🇦
-http://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/sSg66xkJlEMuP8JWNPrj5rQFjjngtK7AQZ7Zp5AU2slpbK-QphGjqUjR6IwvS95dpOf5eV6oxGIBNEt6kQ4NSw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1, BEIN SPORTS 1 PREMIUM 🇶🇦
-https://stream1-usea.streaming.media.azure.net/74b6516e-63dc-4e05-86c8-903528782e6e/1a.ism/manifest(format=m3u8-aapl)
-
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
 
