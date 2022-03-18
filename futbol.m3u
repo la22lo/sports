@@ -1419,6 +1419,9 @@ http://init.cheches.info:80/hls/107.m3u8
 #EXTINF:-1, EVENTS
 http://init.cheches.info:80/hls/105.m3u8
 
+#EXTINF:-1, EVENTS
+http://init.cheches.info/hls/113.m3u8
+
 #EXTINF:-1, SUPERSPORT EVENTS 🇬🇧
 http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8
 
