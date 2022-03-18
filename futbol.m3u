@@ -783,6 +783,15 @@ http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/744.ts
 #EXTINF:-1, Arena Sport 5 HR 🇭🇷
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/742.ts
 
+#EXTINF:-1, Arena 1 PREMIUM HR 🇭🇷
+http://46.29.169.15:4001/play/a00g/index.m3u8|User-Agent=stream
+
+#EXTINF:-1, Arena 2 PREMIUM HR 🇭🇷
+http://46.29.169.15:4001/play/a00h/index.m3u8|User-Agent=stream
+
+#EXTINF:-1, Arena 3 PREMIUM HR 🇭🇷
+http://46.29.169.15:4001/play/a00i/index.m3u8|User-Agent=stream
+
 #EXTINF:-1, SK HD Croacia 🇭🇷
 http://94.250.61.6:2334/skhd
 
