@@ -3,6 +3,9 @@
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://loga.ultratotal.ml/xls/ligota/index.m3u8
 
+#EXTINF:-1, MTV+ HD 🇬🇧
+http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
+
 #EXTINF:-1, BEIN SPORT 1 (Thái) 🇹🇭
 http://103.22.183.7:8080/bein1/mpegts
 
@@ -32,9 +35,6 @@ http://190.2.148.141:8080/bar7642/index.m3u8
 
 #EXTINF:-1, LaLigaTV HD 🇬🇧
 http://45.153.35.224:8000/play/a00u
-
-#EXTINF:-1, MTV+ HD 🇬🇧
-http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 
 #EXTINF:-1,SUPERSPORT LIGA 🇬🇧
 http://init.cheches.info/hls/103.m3u8
