@@ -981,6 +981,9 @@ http://myott.top/stream/1VGPHYLZTH/234.m3u8
 #EXTINF:-1, SETANTA SPORTS 1HD 🇷🇺
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
+#EXTINF:-1, SETANTA SPORTS 1HD 🇷🇺
+http://217.174.225.146/hls/ch004_720/index.m3u8
+
 #EXTINF:-1, SETANTA SPORTS 2HD 🇷🇺
 http://myott.top/stream/1VGPHYLZTH/235.m3u8
 
@@ -1127,6 +1130,9 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 
 #EXTINF:-1,Tivibu Spor 1 🇹🇷
 http://mugla.tvizlehd.com/live/tivibuspor.m3u8
+
+#EXTINF:-1, TVRI SPORT 🇹🇷
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:-1,TRT 1 🇹🇷
 https://mn-nl.mncdn.com/blutv_trt1_dvr/live.m3u8
