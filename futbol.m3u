@@ -831,6 +831,9 @@ https://liv11octptsp.stblauncher.com/live/4273_.m3u8?token=bcc65a1fb3974adeaa616
 #EXTINF:-1, SPORTTV 4 🇵🇹
 https://liv11octptsp.stblauncher.com/live/4246_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 
+#EXTINF:-1, SPORTTV 4 🇵🇹
+http://78.129.253.15:8030/Fuchar5/index.m3u8
+
 #EXTINF:-1, SPORTTV 5 🇵🇹
 https://liv11octptsp.stblauncher.com/live/4213_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 
@@ -974,6 +977,9 @@ http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221
 
 #EXTINF:-1, CCTV5 + 🇨🇳
 https://playfdcusa.olelive.olevod.tv:6443/tv/cctv5phd/hls.m3u8
+
+#EXTINF:-1, PTV
+http://78.129.253.15:8030/Fuchar6/index.m3u8
 
 #EXTINF:-1,TVONE 🇲🇾
 http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
