@@ -1,29 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, MATH 🇷🇺
-https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
-
-#EXTINF:-1, Super Sports HD 2 🇦🇱
-http://185.204.32.49:6735/UltraNetS2/stream/playlist.m3u8
-
-#EXTINF:-1, ARENA SPORT PREMIUM SERBIA 🇷🇸
-http://46.29.169.15:4001/play/a00h/index.m3u8
-
-#EXTINF:-1, BT SPORT 2 🇬🇧
-https://16live00.akamaized.net/BTSPORTS2/index.m3u8
-
-#EXTINF:-1, BT SPORT 3 🇬🇧
-https://16live00.akamaized.net/BTSPORTS3/index.m3u8
-
-#EXTINF:-1, Футбол 2 🇷🇺
-http://persik.by/stream/7504/377885/10217.m3u8
-
-#EXTINF:-1, CHAMPIONS TV 1 🇬🇧
-https://lnk.ec/shareext@juara1
-
-#EXTINF:-1, CHAMPIONS TV 2 🇬🇧
-https://lnk.ec/shareext@juara2
-
 #EXTINF:-1, NADAL
 http://198.144.159.40/eURhOxH0slO2ezFJPfDPZQ/1647583160/3138382e3137312e38362e323036/ff90/playlist.m3u8
 
