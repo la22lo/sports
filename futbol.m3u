@@ -1392,8 +1392,17 @@ http://init.cheches.info:80/hls/105.m3u8
 #EXTINF:-1, SUPERSPORT EVENTS 🇬🇧
 http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8
 
-#EXTINF:-1, eleven 5
+#EXTINF:-1, ELEVEN SPORT 3 🇵🇹
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/2533/index.m3u8
+
+#EXTINF:-1, ELEVEN SPORT 4 🇵🇹
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/2534/index.m3u8
+
+#EXTINF:-1, ELEVEN SPORT 5 🇵🇹
 http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/2535/index.m3u8
+
+#EXTINF:-1, ELEVEN SPORT 6 🇵🇹
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/2536/index.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
