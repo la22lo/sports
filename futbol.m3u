@@ -1377,8 +1377,5 @@ http://init.cheches.info:80/hls/105.m3u8
 #EXTINF:-1, SUPERSPORT EVENTS 🇬🇧
 http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8
 
-#EXTINF:-1, Super Sport LaLiga HD
-http://supportstreams.net:80/848C6gVTm/G6SHwxPun/154063
-
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
