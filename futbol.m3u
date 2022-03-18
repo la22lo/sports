@@ -783,6 +783,18 @@ http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/743.ts
 #EXTINF:-1, ARENA SPORT 5 🇷🇸
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/741.ts
 
+#EXTINF:-1, SPORT KLUB HD 🇷🇸
+http://94.250.61.6:2334/skhd?
+
+#EXTINF:-1, SPORT KLUB HD 1 🇷🇸
+http://194.15.225.98:8000/play/a2qu
+
+#EXTINF:-1, SPORT KLUB HD 2 🇷🇸
+http://194.15.225.98:8000/play/a2qz
+
+#EXTINF:-1, SPORT KLUB HD 3 🇷🇸
+http://194.15.225.98:8000/play/a2qt
+
 #EXTINF:-1, Super Sports HD 1 🇦🇱
 http://185.204.32.49:6735/UltraNetS1/stream/playlist.m3u8
 
