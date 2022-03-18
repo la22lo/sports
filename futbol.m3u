@@ -63,7 +63,7 @@ https://bit.ly/3pCPdPt
 #EXTINF:-1, beIN SPORTS English 2 🇬🇧
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
 
-#EXTINF:-1,ELEVEN SPORT 2 POLONIA 🇵🇱
+#EXTINF:-1,ELEVEN SPORT 1 POLONIA 🇵🇱
 http://185.204.32.49:6735/UltraNetS6/stream/playlist.m3u8
 
 #EXTINF:-1,LOOK + 🇷🇴
@@ -1055,6 +1055,15 @@ http://iptv.tvfix.org/hls/starsports.m3u8
 
 #EXTINF:-1, STADIUM 🇧🇷
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
+
+#EXTINF:-1, AU SPORTS HD1
+http://78.129.253.15:8030/Fuchar1/index.m3u8
+
+#EXTINF:-1, AU SPORTS HD2
+http://78.129.253.15:8030/Fuchar2/index.m3u8
+
+#EXTINF:-1, AU SPORTS HD3
+http://78.129.253.15:8030/Fuchar3/index.m3u8
 
 #EXTINF:-1, SKY SPORTS 24 🇮🇹
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
