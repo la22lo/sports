@@ -141,9 +141,6 @@ https://edge2.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxS
 #EXTINF:-1, Bein Sports 3 HD 🇶🇦
 http://93.152.174.144:4000/play/bein3ar/index.m3u8
 
-#EXTINF:-1,DUHOK HD 🇮🇶
-http://88.198.32.36:1935/live/Duhok--Sports--HD/chunklist.m3u8
-
 #EXTINF:-1,ASO SPORT HD 🇮🇶
 http://190.2.148.141:8080/bar7671/tracks-v1a1/mono.m3u8
 
@@ -161,9 +158,6 @@ http://190.2.148.141:8080/bar7642/index.m3u8
 
 #EXTINF:-1, ESPN BRASIL HD 🇧🇷
 https://liv11octhd.stblauncher.com/live/5907_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
-
-#EXTINF:-1, ELEVEN BRASIL HD 🇧🇷
-https://europe-west-hls.mls.mycujoo.tv/esgp/cl00w43l43gje0116jt3vcfru/720p/playlist.m3u8
 
 #EXTINF:-1, GEO SUPER 🇮🇳
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
@@ -246,24 +240,6 @@ http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/17511.ts
 #EXTINF:-1, Bein Sports 1 HD 🇶🇦
 http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/26262
 
-#EXTINF:-1, Bein Sports 2 HD 🇶🇦
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/26263
-
-#EXTINF:-1, Bein Sports 3 HD 🇶🇦
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/26264
-
-#EXTINF:-1, Bein Sports 4 HD 🇶🇦
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/26265
-
-#EXTINF:-1, Bein Sports 5 HD 🇶🇦
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/26266
-
-#EXTINF:-1, Seja Sports 6 HD 🇶🇦
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/26267
-
-#EXTINF:-1, Bein Sports 7 HD 🇶🇦
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/26268
-
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
@@ -323,15 +299,6 @@ http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1006.ts
 
 #EXTINF:-1, Bein Sports 7 🇶🇦
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1005.ts
-
-#EXTINF:-1,BEIN SPORTS 1 PREMIUM 🇶🇦
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/26259
-
-#EXTINF:-1,BEIN SPORTS 2 PREMIUM 🇶🇦
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/26260
-
-#EXTINF:-1, BEIN SPORT 3 PREMIUM 🇶🇦
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/26261
 
 #EXTINF:-1,BEIN SPORTS 1 PREMIUM 🇶🇦
 http://s1.iptv-pla.net:2052/mustapha7/dmruisst/42045
@@ -477,14 +444,8 @@ http://185.184.192.166/RMC1/mpegts
 #EXTINF:-1, RMC SPORT 1 HD 🇫🇷
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/959.ts
 
-#EXTINF:-1, RMC SPORT 1 HD 🇫🇷
-http://31.14.41.252:8000/play/a00e/index.m3u8?shareext.ts
-
 #EXTINF:-1, RMC SPORT 2 HD 🇫🇷
 http://185.184.192.166/RMC2/mpegts
-
-#EXTINF:-1, RMC SPORT 2 HD 🇫🇷
-http://31.14.41.252:8000/play/a011/index.m3u8?shareext.ts
 
 #EXTINF:-1, RMC SPORT 2 HD 🇫🇷
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/958.ts
@@ -512,15 +473,6 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
 
 #EXTINF:-1, beIN SPORTS English 3 🇬🇧
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
-
-#EXTINF:-1, beIN SPORTS English 1 🇬🇧
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/26269
-
-#EXTINF:-1, beIN SPORTS English 2 🇬🇧
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/26270
-
-#EXTINF:-1, beIN SPORTS English 3 🇬🇧
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/26271
 
 #EXTINF:-1, BT_SPORTS_1 🇬🇧
 https://16live00.akamaized.net/BTSPORTS1/index.m3u8
@@ -550,9 +502,6 @@ http://93.152.174.144:4000/play/btsport2/index.m3u8
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61419
 
 #EXTINF:-1, BT SPORT 3 🇬🇧
-http://93.152.174.144:4000/play/btsport3/index.m3u8
-
-#EXTINF:-1, BT Sport ESPN 🇬🇧
 http://93.152.174.144:4000/play/btsport3/index.m3u8
 
 #EXTINF:-1, ESPN 1 USA
@@ -617,9 +566,6 @@ http://21929815.rossteleccom.net/iptv/HCA5Q2VGYBY7YE/2524/index.m3u8
 
 #EXTINF:-1, DIGI Sport 4 FHD 🇷🇴
 http://21929815.rossteleccom.net/iptv/HCA5Q2VGYBY7YE/2538/index.m3u8
-
-#EXTINF:-1, DIGI SPORT 4 🇷🇴
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/6307
 
 #EXTINF:-1, TELEKOMSPORT1 HD 🇷🇴
 http://bestavb.top:8008/Daia_Florin/1Unlimited19/36706
@@ -695,21 +641,6 @@ http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1114.ts
 
 #EXTINF:-1, Polsat SPORTS Premium 1 HD 🇵🇱
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1113.ts
-
-#EXTINF:-1, nova sports 3 POLONIA 🇵🇱
-http://84.42.140.147:8890/hdmi
-
-#EXTINF:-1, ZIGGO SPORT SELECT
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/589
-
-#EXTINF:-1, ZIGGO SPORT VOETBAL
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/4712
-
-#EXTINF:-1, MATH CTPAHA 🇷🇺
-https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
-
-#EXTINF:-1, MATH 🇷🇺
-https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
 #EXTINF:-1, RTK1 KOSOVO 🇽🇰
 http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8?
@@ -801,9 +732,6 @@ http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/738.ts
 #EXTINF:-1, SK 4 Croacia 🇭🇷
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/737.ts
 
-#EXTINF:-1, SK 4 CROACIA
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/578
-
 #EXTINF:-1, SK 5 Croacia 🇭🇷
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/736.ts
 
@@ -813,23 +741,11 @@ http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/735.ts
 #EXTINF:-1,HRT2 🇭🇷
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
 
-#EXTINF:-1, Nova Sport 3 🇨🇿 
-http://84.42.140.147:8890/hdmi
-
-#EXTINF:-1, FOX SOCCER PLUS 🇬🇧
-http://134.19.182.131:8080/pdgfb78bc33b911096c_2.m3u8?m=D60POeH1SPpZzFWw2CirWQ&c=fb78bc33b911096c&p=3138352e3132382e36302e31&e=1644976155
-
-#EXTINF:-1, FOX SOCCER PLUS 🇬🇧
-http://134.19.182.131:8080/pdgfb78bc33b911096c.m3u8?m=6MisnqUn5jMd-6DekFyaaw&c=fb78bc33b911096c&p=3138352e3132382e36302e31&e=1644976155
-
 #EXTINF:-1, FLOW SPORTS 1 🇬🇧
 http://38.127.211.18/live/c2eds/FlowSports1/HLS/index.m3u8
 
 #EXTINF:-1, RUSH HD 🇬🇧
 http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
-
-#EXTINF:-1, SPORTTV 1 🇵🇹
-http://93.152.174.144:4000/play/sporttv1/index.m3u8
 
 #EXTINF:-1, SPORTTV 1 🇵🇹
 https://liv11octptsp.stblauncher.com/live/4271_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
@@ -845,21 +761,6 @@ https://liv11octptsp.stblauncher.com/live/4246_.m3u8?token=bcc65a1fb3974adeaa616
 
 #EXTINF:-1, SPORTTV 5 🇵🇹
 https://liv11octptsp.stblauncher.com/live/4213_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
-
-#EXTINF:-1, SPORT TV 1 HD 🇵🇹
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/581
-
-#EXTINF:-1, SPORT TV 2 FHD 🇵🇹
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/580
-
-#EXTINF:-1, SPORT TV 2 HD 🇵🇹
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/579
-
-#EXTINF:-1, SPORT TV 4 HD 🇵🇹
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/575
-
-#EXTINF:-1, SPORT TV 5 HD 🇵🇹
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/573
 
 #EXTINF:-1, LOOK SPORTS HD 🇷🇴
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&checkedby:iptvcat.com
@@ -890,30 +791,6 @@ http://bestavb.top:8008/Daia_Florin/1Unlimited19/62775
 
 #EXTINF:-1 , DIGI SPORT 2 🇭🇺
 http://bestavb.top:8008/Daia_Florin/1Unlimited19/33800?
-
-#EXTINF:-1, Cosmote Sport 2 HD
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/28626
-
-#EXTINF:-1, Cosmote SPORT 3 FHD
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/28627
-
-#EXTINF:-1, Cosmote Sport 4 HD
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/28628
-
-#EXTINF:-1, Cosmote Sport 5 HD
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/28629
-
-#EXTINF:-1, Nova Sport 1 FHD
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/28710
-
-#EXTINF:-1, NOVA SPORT 2 HD
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/28711
-
-#EXTINF:-1, NOVA SPORT 3 HD
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/28712
-
-#EXTINF:-1, NOVA SPORT 4 HD
-http://beams-tv.stream:80/sid.smith@gmailiz.com/2014452956/28713
 
 #EXTINF:-1 ,2 SPORT HUNGRIA 🇭🇺
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
@@ -1011,6 +888,9 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
 
+#EXTINF:-1, MATH 🇷🇺
+https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+
 #EXTINF:-1, Футбол 1 🇷🇺
 http://80.237.96.66:9090/stream/channelid/1447584418?ticket=421CCD7B1F55D2BEAF0796AF28338DBB6840D5C7&profile=pass
 
@@ -1055,6 +935,9 @@ http://persik.by/stream/7504/377885/10271.m3u8
 
 #EXTINF:-1, Спорт 1 🇷🇺
 http://212.115.255.196/Jfd85Hf/sport1.m3u8
+
+#EXTINF:-1, MATH CTPAHA 🇷🇺
+https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 
 #EXTINF:-1, SPORT 1+1 🇷🇺
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
