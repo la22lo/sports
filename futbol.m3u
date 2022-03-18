@@ -573,8 +573,17 @@ http://archive.simpletv.eu:8080/SkySport1HD/index.m3u8
 #EXTINF:-1, EIR TV 🇬🇧
 http://fortv.cc:8080/christina/christina/53746
 
+#EXTINF:-1, ESPN DEPORTES HD USA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
+
+#EXTINF:-1, ESPN HD USA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
+
 #EXTINF:-1, ESPN 1 USA
 http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8
+
+#EXTINF:-1, ESPN 2 USA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733
 
 #EXTINF:-1, ESPN 2 USA
 http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8
