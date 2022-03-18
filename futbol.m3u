@@ -561,6 +561,9 @@ http://93.152.174.144:4000/play/btsport3/index.m3u8
 #EXTINF:-1, SKY SPORTS MAIN EVENT 🇬🇧
 http://archive.simpletv.eu:8080/SkySport1HD/index.m3u8
 
+#EXTINF:-1, EIR TV 🇬🇧
+http://fortv.cc:8080/christina/christina/53746
+
 #EXTINF:-1, ESPN 1 USA
 http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8
 
