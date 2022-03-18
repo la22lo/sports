@@ -798,87 +798,6 @@ https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 #EXTINF:-1 , LIVE SPORT HD 🇭🇺
 http://195.222.7.26:7001/play/a00t
 
-#EXTINF:-1, CCTV5 🇨🇳
-https://playfdcusa.olelive.olevod.tv:6443/tv/cctv5hd/hls.m3u8
-
-#EXTINF:-1, CCTV5 🇨🇳
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000064
-
-#EXTINF:-1, CCTV5 + 🇨🇳
-http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
-
-#EXTINF:-1, CCTV5 + 🇨🇳
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000246
-
-#EXTINF:-1, CANAL CHINO 1 咪咕視頻·PP體育1 🇨🇳
-http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8 
-
-#EXTINF:-1, CANAL CHINO 2 精品體育 🇨🇳
-http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8 
-
-#EXTINF:-1, CANAL CHINO 3 博斯運動2 🇨🇳
-http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
-
-#EXTINF:-1, CANAL CHINO 4 魅力足球 🇨🇳
-http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-
-#EXTINF:-1, CANAL CHINO 5 新视觉 🇨🇳
-http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-
-#EXTINF:-1, CANAL CHINO 6 CCTV5+Sport 🇨🇳
-http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
-
-#EXTINF:-1, CCTV5
-http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
-
-#EXTINF:-1, CCTV5 🇨🇳
-http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228965/42330389.smil/1000.m3u8?IASHttpSessionId=OTT5831020220226103327009638&ztecid=3221228965&bandwidth=7726080&ispcode=26&timeformat=local&channel=3221228965&fmt=ts2hls&m3u8_level=2&zte_bandwidth=1000
-
-#EXTINF:-1, CCTV5 + 🇨🇳
-https://playfdcusa.olelive.olevod.tv:6443/tv/cctv5phd/hls.m3u8
-
-#EXTINF:-1,TVONE 🇲🇾
-http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
-
-#EXTINF:-1,TVONE 🇲🇾
-http://210.210.155.35/session/f5cd353c-0131-11ec-b286-abca8519aa62/qwr9ew/s/s105/01.m3u8
-
-#EXTINF:-1, SSC1 🇦🇪
-https://ssc-5-ak.akamaized.net:443/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index_3.m3u8
-
-#EXTINF:-1, Live Sports (pk) 🇵🇱
-http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
-
-#EXTINF:-1,EUROSPORT 1 🇪🇸
-http://185.41.244.69/eurosport1/tracks-v2a1a2/mono.m3u8
-
-#EXTINF:-1,EUROSPORT 2 🇪🇸
-http://158.69.117.205:9039/eurosport2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, LOOK SPORTS + 🇷🇴
-https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-
-#EXTINF:-1, LOOK SPORTS + 🇷🇴
-https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
-
-#EXTINF:-1, LOOK SPORTS + 🇷🇴
-https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8
-
-#EXTINF:-1, LOOK SPORTS HD 🇷🇴
-https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-
-#EXTINF:-1, TV 2 SPORT 
-https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
-
-#EXTINF:-1, VIASAT SPORT 🇸🇪
-https://sc.id-tv.kz:443/ViasatSport_34_35.m3u8
-
-#EXTINF:-1, VIASAT SPORT 🇸🇪
-http://bl.uma.media/live/485548/HLS/4614144_2,2883584/2/1/playlist.m3u8
-
-#EXTINF:-1, San Marino RTV Sport
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
-
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
 
@@ -944,6 +863,78 @@ http://iptv.prosto.tv:7000/ch109/video.m3u8
 
 #EXTINF:-1, KBP SPORT 🇷🇺
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
+#EXTINF:-1, CCTV5 🇨🇳
+https://playfdcusa.olelive.olevod.tv:6443/tv/cctv5hd/hls.m3u8
+
+#EXTINF:-1, CCTV5 🇨🇳
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000064
+
+#EXTINF:-1, CCTV5 + 🇨🇳
+http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
+
+#EXTINF:-1, CCTV5 + 🇨🇳
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000246
+
+#EXTINF:-1, CANAL CHINO 1 咪咕視頻·PP體育1 🇨🇳
+http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8 
+
+#EXTINF:-1, CANAL CHINO 2 精品體育 🇨🇳
+http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8 
+
+#EXTINF:-1, CANAL CHINO 3 博斯運動2 🇨🇳
+http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
+
+#EXTINF:-1, CANAL CHINO 4 魅力足球 🇨🇳
+http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+
+#EXTINF:-1, CANAL CHINO 5 新视觉 🇨🇳
+http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+
+#EXTINF:-1, CANAL CHINO 6 CCTV5+Sport 🇨🇳
+http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+
+#EXTINF:-1, CCTV5
+http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+
+#EXTINF:-1, CCTV5 🇨🇳
+http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228965/42330389.smil/1000.m3u8?IASHttpSessionId=OTT5831020220226103327009638&ztecid=3221228965&bandwidth=7726080&ispcode=26&timeformat=local&channel=3221228965&fmt=ts2hls&m3u8_level=2&zte_bandwidth=1000
+
+#EXTINF:-1, CCTV5 + 🇨🇳
+https://playfdcusa.olelive.olevod.tv:6443/tv/cctv5phd/hls.m3u8
+
+#EXTINF:-1,TVONE 🇲🇾
+http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1,TVONE 🇲🇾
+http://210.210.155.35/session/f5cd353c-0131-11ec-b286-abca8519aa62/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1, Live Sports (pk) 🇵🇱
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
+
+#EXTINF:-1, LOOK SPORTS + 🇷🇴
+https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+
+#EXTINF:-1, LOOK SPORTS + 🇷🇴
+https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
+
+#EXTINF:-1, LOOK SPORTS + 🇷🇴
+https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8
+
+#EXTINF:-1, LOOK SPORTS HD 🇷🇴
+https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+
+#EXTINF:-1, TV 2 SPORT 
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
+
+#EXTINF:-1, VIASAT SPORT 🇸🇪
+https://sc.id-tv.kz:443/ViasatSport_34_35.m3u8
+
+#EXTINF:-1, VIASAT SPORT 🇸🇪
+http://bl.uma.media/live/485548/HLS/4614144_2,2883584/2/1/playlist.m3u8
+
+#EXTINF:-1, San Marino RTV Sport
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 
 #EXTINF:-1, BEIN SPORTS HD 1 🇹🇷
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1075.ts
