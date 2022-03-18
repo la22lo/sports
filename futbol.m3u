@@ -1,37 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1, ESPN VIVO 🇦🇷
-http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
-
-#EXTINF:-1, ESPN VIVO 🇦🇷
-https://videodelivery.net/a4d78e0a64795b221b1dc8aaf586deca/manifest/video.m3u8
-
-#EXTINF:-1, FOX 2 🇦🇷
-https://fox-tk-edge1-mx.tbxdrm.com/token=nva=1647554831~ttl=600&dirs=1~hash=0b7ced2b5ed53b94924ea/mxfoxsports2_tk/master.m3u8
-
-#EXTINF:-1, SUPERSPORT UEFA 🇬🇧
-http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8
-
-#EXTINF:-1, PRO X HD 🇷🇴
-https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz:443/hBqMd4vFY_4F_64tSJT8Pw==,1647554477/channels/cme-ro-prox/playlist/rum/live_fullhd.m3u8?offsetSeconds=0&url=0
-
-#EXTINF:-1, BEIN SPORTS 1 PREMIUM 🇶🇦
-https://pullhls3948069e.live.126.net/live/126com@8ad23ac9e50ba34be84d8f41a07d2340/playlist.m3u8
-
-#EXTINF:-1, BEIN SPORTS 1 PREMIUM 🇶🇦
-http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8?
-
-#EXTINF:-1, BEIN SPORTS 1 PREMIUM 🇶🇦
-https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/jjWG7RjnXmcz3K_wZEdN5TUuHvKxxLvjmw3cYg-n7TQbeMawuR3XY09oI56NlYQ4215cntOCbCBRueHp6sfOZQ/non_transcode/us-west-2/periscope-replay-direct-prod-eu-west-3-public/dynamic_highlatency.m3u8?type=live
-
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
-
-#EXTINF:-1, MATH 🇷🇺
-https://bigsmoke.lbs.pw:443/match/tracks-v1a1/mono.m3u8?token=9b56eb9d1f3f0a9d398dbf2af58723d5252ba310-0.929171949135877-1647409756-1647373756
-
-#EXTINF:-1, TUDN VIVO 🇦🇷
-https://cdn.livepeer.com/hls/9e0bvnl36ey98wqk/index.m3u8
 
 #EXTINF:-1, Super Sports HD 2 🇦🇱
 http://185.204.32.49:6735/UltraNetS2/stream/playlist.m3u8
@@ -1451,6 +1421,9 @@ http://init.cheches.info:80/hls/107.m3u8
 
 #EXTINF:-1, EVENTS
 http://init.cheches.info:80/hls/105.m3u8
+
+#EXTINF:-1, SUPERSPORT EVENTS 🇬🇧
+http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
