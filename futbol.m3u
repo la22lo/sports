@@ -9,6 +9,9 @@ http://51.178.131.215:45256/live/212700881643/Y1jH1z5HMmndx/2943.ts
 #EXTINF:-1, DIRECTV SPORT 🇦🇷
 http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/667.m3u8
 
+#EXTINF:-1, LaLigaTV HD 🇬🇧
+http://45.153.35.224:8000/play/a00u
+
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://loga.ultratotal.ml/xls/ligota/index.m3u8
 
@@ -44,9 +47,6 @@ http://ipalytvsuda.russtv.net/iptv/7NVLY27H7B4L5N/2531/index.m3u8
 
 #EXTINF:-1,MMN SPORT HD 🇮🇶
 http://190.2.148.141:8080/bar7642/index.m3u8
-
-#EXTINF:-1, LaLigaTV HD 🇬🇧
-http://45.153.35.224:8000/play/a00u
 
 #EXTINF:-1,SUPERSPORT LIGA 🇬🇧
 http://init.cheches.info/hls/103.m3u8
