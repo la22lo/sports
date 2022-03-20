@@ -1419,5 +1419,14 @@ http://init.cheches.info/hls/113.m3u8
 #EXTINF:-1, SUPERSPORT EVENTS 🇬🇧
 http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8
 
+#EXTINF:-1, EVENT
+https://awshd.mazystreams.xyz/live/1/playlist.m3u8
+
+#EXTINF:-1, EVENT
+https://awshd.mazystreams.xyz/live/2/playlist.m3u8
+
+#EXTINF:-1, EVENT
+https://awshd.mazystreams.xyz/live/3/playlist.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
