@@ -30,6 +30,9 @@ http://loga.ultratotal.ml/xls/ligota/index.m3u8
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 https://cdn.livepeer.com/hls/7a5914474q0ku76l/0_1/index.m3u8
 
+#EXTINF:-1, beIN Sports 1 🇶🇦
+https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/UqdxOoOGBdW4bi5UiwwmheRkI0HuGdcBWmmIpp-nf5sWNcH53Rg77LVjJ85k5WzPu_rpnRI8C46FdlgAnLcQLQ/non_transcode/us-west-2/periscope-replay-direct-prod-eu-west-3-public/dynamic_highlatency.m3u8
+
 #EXTINF:-1, BEIN SPORT 1 (Thái) 🇹🇭
 http://103.22.183.7:8080/bein1/mpegts
 
