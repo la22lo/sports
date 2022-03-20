@@ -54,6 +54,9 @@ http://78.141.230.196:8080/hls/se1.m3u8
 #EXTINF:-1, LALIGA
 http://78.141.230.196:8080/hls/se22.m3u8
 
+#EXTINF:-1, BIGSMOKE
+https://bigsmoke.lbs.pw/set1/index.m3u8?token=b943014b8ba9b3e4db7750554a48246e07aac56e-0.015506612017048393-1647841928-1647805928&filter.tracks=v1a1
+
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 
