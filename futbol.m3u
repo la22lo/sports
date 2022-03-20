@@ -18,6 +18,9 @@ http://45.153.35.224:8000/play/a00u
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://loga.ultratotal.ml/xls/ligota/index.m3u8
 
+#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
+https://cdn.livepeer.com/hls/7a5914474q0ku76l/0_1/index.m3u8
+
 #EXTINF:-1, MTV+ HD 🇮🇳
 http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 
