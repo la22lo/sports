@@ -609,16 +609,16 @@ http://135.181.178.91/vmedia_live/1/tracks-v1a3/index.m3u8
 #EXTINF:-1, VIVARO_ARENA_HD 🇦🇲
 http://135.181.178.91/vmedia_live/3/index.m3u8
 
-#EXTINF:-1, SPORT 5HD ISRAEL
+#EXTINF:-1, SPORT 5HD ISRAEL 🇮🇱
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/8026.ts
 
-#EXTINF:-1, SPORT 5HD+ ISRAEL
+#EXTINF:-1, SPORT 5HD+ ISRAEL 🇮🇱
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/6759.ts
 
-#EXTINF:-1, SPORT 5 STARS HD ISRAEL
+#EXTINF:-1, SPORT 5 STARS HD ISRAEL 🇮🇱
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2945.ts
 
-#EXTINF:-1, SPORT 5 GOLD HD ISRAEL
+#EXTINF:-1, SPORT 5 GOLD HD ISRAEL 🇮🇱
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/3971.ts
 
 #EXTINF:-1, ELEVEN SPORTS 1 🇵🇱
@@ -812,6 +812,9 @@ http://185.204.32.4:9981/stream/channelid/577840136
 
 #EXTINF:-1, EUROSPORT 2 🇬🇧
 http://212.102.60.80/Eurosport2/index.m3u8
+
+#EXTINF:-1, EUROSPORT 2 🇬🇧
+http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/90.chunklist_w4667732286.m3u8?mvk
 
 #EXTINF:-1, FLOW SPORTS 1 🇬🇧
 http://38.127.211.18/live/c2eds/FlowSports1/HLS/index.m3u8
