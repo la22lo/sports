@@ -39,6 +39,9 @@ http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJIlbAuux2Qjgom4M0Y1VZBc/ts
 #EXTINF:-1,MMN SPORT HD 🇮🇶
 http://190.2.148.141:8080/bar7642/index.m3u8
 
+#EXTINF:-1, SUPERSPORT TV 🇬🇧
+http://178.218.196.218:8000/play/a00d/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
+
 #EXTINF:-1, LALIGA TV 🇬🇧
 http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8
 
