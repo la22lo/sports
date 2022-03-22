@@ -69,8 +69,14 @@ http://myott.top/stream/1VGPHYLZTH/234.m3u8
 #EXTINF:-1, SETANTA SPORTS 1HD 🇷🇺
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
+#EXTINF:-1, SETANTA SPORTS 1 🇷🇺
+http://bethoven.af-stream.com:1600/s/ktsufmzt/setanta-eurasia/video.m3u8
+
 #EXTINF:-1, SETANTA SPORTS 2HD 🇷🇺
 http://myott.top/stream/1VGPHYLZTH/235.m3u8
+
+#EXTINF:-1, SETANTA SPORTS 2 🇷🇺
+http://bethoven.af-stream.com:1600/s/ktsufmzt/setanta-eurasia-plus/video.m3u8
 
 #EXTINF:-1,Look Sport 2 🇷🇴
 https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
@@ -873,17 +879,29 @@ https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
+#EXTINF:-1, MATH 🇷🇺
+http://bethoven.af-stream.com:1600/s/ktsufmzt/match-tv-hd/video.m3u8
+
 #EXTINF:-1, Футбол 1 🇷🇺
 http://80.237.96.66:9090/stream/channelid/1447584418?ticket=421CCD7B1F55D2BEAF0796AF28338DBB6840D5C7&profile=pass
 
+#EXTINF:-1, Футбол 1 🇷🇺
+http://bethoven.af-stream.com:1600/s/ktsufmzt/match-futbol1-hd/video.m3u8
+
 #EXTINF:-1, Футбол 2 🇷🇺
 http://80.237.96.66:9090/stream/channelid/927470349?ticket=4AC1FD6BFB840BFDA0D8FA44B2ABE1DE00617625&profile=pass
+
+#EXTINF:-1, Футбол 2 🇷🇺
+http://bethoven.af-stream.com:1600/s/ktsufmzt/match-futbol2-hd/video.m3u8
 
 #EXTINF:-1, Футбол 2 🇷🇺
 http://persik.by/stream/7504/377885/10217.m3u8
 
 #EXTINF:-1, Футбол 3 🇷🇺
 http://80.237.96.66:9090/stream/channelid/1429424341?ticket=DC32E4FDAB18819CC3C91C835EEA0C57ED9FEEBD&profile=pass
+
+#EXTINF:-1, Футбол 3 🇷🇺
+http://bethoven.af-stream.com:1600/s/ktsufmzt/match-futbol3-hd/video.m3u8
 
 #EXTINF:-1, Футбол 3 🇷🇺
 http://persik.by/stream/7504/377885/10218.m3u8
@@ -897,14 +915,23 @@ http://persik.by/stream/7504/377885/10408.m3u8
 #EXTINF:-1, Belarus 5 🇧🇾
 http://persik.by/stream/7504/377885/932.m3u8
 
+#EXTINF:-1, Viasat Sport 🇷🇺
+http://bethoven.af-stream.com:1600/s/ktsufmzt/viasat-sport-hd/video.m3u8
+
 #EXTINF:-1, Матч! Арена 🇷🇺
 http://persik.by/stream/7504/377885/261.m3u8
+
+#EXTINF:-1, Матч! Арена 🇷🇺
+http://bethoven.af-stream.com:1600/s/ktsufmzt/match-arena-hd/video.m3u8
 
 #EXTINF:-1, Матч! Арена 🇷🇺
 http://persik.by/stream/7504/377885/724.m3u8
 
 #EXTINF:-1, Матч! Игра 🇷🇺
 http://persik.by/stream/7504/377885/10270.m3u8
+
+#EXTINF:-1, Матч! Игра 🇷🇺
+http://bethoven.af-stream.com:1600/s/ktsufmzt/match-igra-hd/video.m3u8
 
 #EXTINF:-1, Матч! Премьер 🇷🇺
 http://persik.by/stream/7504/377885/284.m3u8
@@ -914,6 +941,9 @@ http://persik.by/stream/7504/377885/10271.m3u8
 
 #EXTINF:-1, Спорт 1 🇷🇺
 http://212.115.255.196/Jfd85Hf/sport1.m3u8
+
+#EXTINF:-1, Старт HD 🇷🇺
+http://bethoven.af-stream.com:1600/s/ktsufmzt/start-hd/video.m3u8
 
 #EXTINF:-1, MATH CTPAHA 🇷🇺
 https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
@@ -929,6 +959,12 @@ http://iptv.prosto.tv:7000/ch109/video.m3u8
 
 #EXTINF:-1, KBP SPORT 🇷🇺
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
+#EXTINF:-1, EUROSPORT 1 🇷🇺
+http://bethoven.af-stream.com:1600/s/ktsufmzt/eurosport-hd/video.m3u8
+
+#EXTINF:-1, EUROSPORT 2 🇷🇺
+http://bethoven.af-stream.com:1600/s/ktsufmzt/eurosport2-hd/video.m3u8
 
 #EXTINF:-1, CCTV5 🇨🇳
 https://playfdcusa.olelive.olevod.tv:6443/tv/cctv5hd/hls.m3u8
