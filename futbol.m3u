@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, SUPERSPORT 
-https://d2a09kwu66ln12.cloudfront.net/stream/MzM1Nw==/1080p.m3u8
-
-#EXTINF:-1, ASTRO SUPERSPORT 2
-https://92e0560a9053.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.029184200737.channel.8RPUf1ngBCSG.m3u8
-
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://51.255.51.249:45256/live/212700881643/Y1jH1z5HMmndx/6144.ts
 
