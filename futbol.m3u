@@ -448,7 +448,13 @@ http://s1.iptv-pla.net:7040/mustapha7/dmruisst/13865
 http://185.184.192.166/RMC1/mpegts
 
 #EXTINF:-1, RMC SPORT 1 HD 🇫🇷
+http://45.153.32.69:8888/37/index.m3u8
+
+#EXTINF:-1, RMC SPORT 1 HD 🇫🇷
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/959.ts
+
+#EXTINF:-1, RMC SPORT 2 HD 🇫🇷
+http://45.153.32.69:8888/30/index.m3u8
 
 #EXTINF:-1, RMC SPORT 2 HD 🇫🇷
 http://185.184.192.166/RMC2/mpegts
