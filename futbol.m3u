@@ -12,6 +12,12 @@ http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 #EXTINF:-1, DIRECTV SPORT 🇦🇷
 http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/667.m3u8
 
+#EXTINF:-1, DirectTV Sports 🇦🇷
+http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/259.m3u8
+
+#EXTINF:-1, DirectTV Sports 2 🇦🇷
+http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/667.m3u8
+
 #EXTINF:-1, LaLigaTV HD 🇬🇧
 http://45.153.35.224:8000/play/a00u
 
@@ -1292,15 +1298,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1, TENNIS CHANNEL 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1, DirectTV Sports
-http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/259.m3u8
-
-#EXTINF:-1, DirectTV Sports 2
-http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/667.m3u8
-
-#EXTINF:-1, DirectTV Deportes Perú HD
-http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/879.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
