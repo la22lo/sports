@@ -1,9 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1, MOVISTAR LALiGa 🇪🇸
-http://70.34.212.187:8080/hls/maniacos1.m3u8
-
-#EXTINF:-1, MOVISTAR LALiGa 🇪🇸
 http://195.201.217.8/xls/ligota/index.m3u8?mvk
 
 #EXTINF:-1, MTV+ HD 🇮🇳
