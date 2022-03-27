@@ -3,9 +3,6 @@
 #EXTINF:-1, MOVISTAR LALiGa 🇪🇸
 http://195.201.217.8/xls/ligota/index.m3u8?mvk
 
-#EXTINF:-1, MOVISTAR LALiGa 🇪🇸
-http://127.0.0.1:6878/ace/m/19ec0e27d5fc4b440c5e109d99760f4a845c6161/a5c5355513139e44e66f4dd649b9d8ee.m3u8
-
 #EXTINF:-1, LALiGA 🇬🇧
 http://livehls.ltjuq.top/ofmatch/289229.m3u8?auth_key=1648398235-4a3b7eeb32b8d146ae8ec56f4817fafd-0-31197779cf1d82d33cf0105a47a9c53e
 
