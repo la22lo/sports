@@ -1299,6 +1299,9 @@ https://70.32.30.155/proxy.php/https://playoutengine.sinclairstoryline.com/playo
 #EXTINF:-1, TENNIS
 https://70.32.30.155/proxy.php/https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f/f.m3u8
 
+#EXTINF:-1, TENNIS
+http://134.19.182.131:8082/nOczOHPj5bt7jgLUTtaTCQ/1648525860/3138382e32362e3139372e3231/ff91/playlist.m3u8
+
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
