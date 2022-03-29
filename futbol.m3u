@@ -1,9 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1, MOVISTAR LALiGa 🇪🇸
-http://195.201.217.8/xls/ligota/index.m3u8?mvk
-
-#EXTINF:-1, MOVISTAR LALiGa 🇪🇸
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/31.m3u8
 
 #EXTINF:-1, MTV+ HD 🇮🇳
@@ -12,17 +9,8 @@ http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 #EXTINF:-1, DIRECTV SPORT 🇦🇷
 http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/667.m3u8
 
-#EXTINF:-1, DirectTV Sports 🇦🇷
-http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/259.m3u8
-
-#EXTINF:-1, DirectTV Sports 2 🇦🇷
-http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/667.m3u8
-
 #EXTINF:-1, LaLigaTV HD 🇬🇧
 http://45.153.35.224:8000/play/a00u
-
-#EXTINF:-1, beIN Sports 🇶🇦
-https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/PQ44jXjuKakqZWs0XAUYbxM7JAYUiEoWRyjpptiIpxaAMKqqH7fF8xQTnOKrKVw8LPST7RzcL5-beLTg0ubKKw/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
@@ -63,9 +51,6 @@ http://194.67.196.19/hls/103.m3u8?mvk
 #EXTINF:-1,SUPERSPORT LIGA 🇬🇧
 http://194.67.196.19/hls/103.m3u8
 
-#EXTINF:-1, Super Sports HD 2 🇦🇱
-http://185.204.32.49:6735/UltraNetS2/stream/playlist.m3u8
-
 #EXTINF:-1, ARENA SPORT 1 HD PREMIUM SERBIA 🇷🇸
 http://46.29.169.15:4001/play/a00g/index.m3u8?mvk
 
@@ -78,20 +63,8 @@ http://myott.top/stream/1VGPHYLZTH/234.m3u8
 #EXTINF:-1, SETANTA SPORTS 1HD 🇷🇺
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
-#EXTINF:-1, SETANTA SPORTS 1 🇷🇺
-http://bethoven.af-stream.com:1600/s/ktsufmzt/setanta-eurasia/video.m3u8
-
 #EXTINF:-1, SETANTA SPORTS 2HD 🇷🇺
 http://myott.top/stream/1VGPHYLZTH/235.m3u8
-
-#EXTINF:-1, SETANTA SPORTS 2 🇷🇺
-http://bethoven.af-stream.com:1600/s/ktsufmzt/setanta-eurasia-plus/video.m3u8
-
-#EXTINF:-1, SETANTA SPORTS UCRANIA 🇺🇦
-http://bethoven.af-stream.com:1600/s/ktsufmzt/setanta-sport-hd-ua/video.m3u8
-
-#EXTINF:-1,Look Sport 2 🇷🇴
-https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 
 #EXTINF:-1,DIGI SPORT 2 🇭🇺
 http://bestavb.top:8008/Daia_Florin/1Unlimited19/33800?
@@ -110,18 +83,6 @@ https://bit.ly/3pCPdPt
 
 #EXTINF:-1, beIN SPORTS English 2 🇬🇧
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
-
-#EXTINF:-1,ELEVEN SPORT 1 POLONIA 🇵🇱
-http://185.204.32.49:6735/UltraNetS6/stream/playlist.m3u8
-
-#EXTINF:-1,LOOK + 🇷🇴
-https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?per
-
-#EXTINF:-1,Look Sport 3 🇷🇴
-https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-
-#EXTINF:-1,LOOK SPORT 🇷🇴
-https://stream1.1616.ro:1945/look/livestream/chunklist.m3u8?mvk
 
 #EXTINF:-1, DAZN 1 ALEMANIA 🇩🇪
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/868.ts
@@ -145,37 +106,10 @@ http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJPAjWOIDxuxDjnIofO3MYFA/ts
 http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/667.m3u8
 
 #EXTINF:-1, ESPN VIVO 🇦🇷
-http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
-
-#EXTINF:-1, ESPN VIVO 🇦🇷
-http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8?P135
-
-#EXTINF:-1, ESPN VIVO 🇦🇷
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
-
-#EXTINF:-1, ESPN 3 🇦🇷
-http://spliktv-edge2.wedrly.xyz/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8
-
-#EXTINF:-1, FOX SPORT 🇦🇷
-https://edge2.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
-
-#EXTINF:-1, FOX SPORTS 2 🇦🇷
-https://edge2.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8
 
 #EXTINF:-1, TNT SPORTS 🇦🇷
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-
-#EXTINF:-1, TUDN 🇦🇷
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666
-
-#EXTINF:-1, TyC SPORT 🇦🇷
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
-
-#EXTINF:-1, TyC SPORT PLAY 🇦🇷
-https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_15.m3u8
-
-#EXTINF:-1,CABLE SPORTS 🇦🇷
-https://tv.siete.us/bestcablesports/bestcablesports/index.m3u8
 
 #EXTINF:-1, Bein Sports 3 HD 🇶🇦
 http://93.152.174.144:4000/play/bein3ar/index.m3u8
@@ -267,24 +201,6 @@ https://liv11octptsp.stblauncher.com/live/6646_.m3u8?token=bcc65a1fb3974adeaa616
 #EXTINF:-1,ELEVEN SPORTS 5 🇵🇹
 https://liv11octptsp.stblauncher.com/live/6647_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 
-#EXTINF:-1, ELEVEN SPORT 1 🇵🇹
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/17506.ts
-
-#EXTINF:-1, ELEVEN 2 🇵🇹
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/17507.ts
-
-#EXTINF:-1, ELEVEN 3 🇵🇹
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/17508.ts
-
-#EXTINF:-1, ELEVEN 4 🇵🇹
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/17509.ts
-
-#EXTINF:-1, ELEVEN 5 🇵🇹
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/17510.ts
-
-#EXTINF:-1, ELEVEN 6 🇵🇹
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/17511.ts
-
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
@@ -345,18 +261,6 @@ http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1006.ts
 #EXTINF:-1, Bein Sports 7 🇶🇦
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1005.ts
 
-#EXTINF:-1,BEIN SPORTS 1 PREMIUM 🇶🇦
-http://s1.iptv-pla.net:2052/mustapha7/dmruisst/42045
-
-#EXTINF:-1,BEIN SPORTS 2 PREMIUM 🇶🇦
-http://s1.iptv-pla.net:2052/mustapha7/dmruisst/42046
-
-#EXTINF:-1, BEIN SPORT 3 PREMIUM 🇶🇦
-http://s1.iptv-pla.net:2052/mustapha7/dmruisst/42887
-
-#EXTINF:-1, Bein Sports XTRA 🇶🇦
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102livestitch/2977158/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=false&paln=&includeExtendedEvents=false&architecture=&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&deviceDNT=0&deviceModel=Opera&userId=&appName=web
-
 #EXTINF:-1,beIN SPORTS EXTRA Ñ 🇪🇸
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
@@ -370,16 +274,10 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
 #EXTINF:-1, MOVISTAR LIGA CAMPEONES 🇪🇸
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1093.ts
-
-#EXTINF:-1, MOVISTAR LIGA CAMPEONES 🇪🇸
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1107.ts
 
 #EXTINF:-1, DAZN F1 🇪🇸
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1106.ts
-
-#EXTINF:-1, DAZN F1 🇪🇸
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698
 
 #EXTINF:-1, beIN Sports 1 French 🇫🇷
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
