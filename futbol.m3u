@@ -261,6 +261,15 @@ http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1006.ts
 #EXTINF:-1, Bein Sports 7 🇶🇦
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1005.ts
 
+#EXTINF:-1, BeinSport Premium 1 🇶🇦
+http://vt.vttpi.com:8000/live/P-957977/P-740465/412.m3u8
+
+#EXTINF:-1, BeinSport Premium 2 🇶🇦
+http://vt.vttpi.com:8000/live/P-957977/P-740465/413.m3u8
+
+#EXTINF:-1, BeinSport Premium 3 🇶🇦
+http://vt.vttpi.com:8000/live/P-957977/P-740465/414.m3u8
+
 #EXTINF:-1,beIN SPORTS EXTRA Ñ 🇪🇸
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
