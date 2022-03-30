@@ -69,6 +69,9 @@ https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1, SETANTA SPORTS 2HD 🇷🇺
 http://myott.top/stream/1VGPHYLZTH/235.m3u8
 
+#EXTINF:-1, SETANTA SPORTS 2HD 🇷🇺
+http://217.174.225.146/hls/ch004_720/index.m3u8
+
 #EXTINF:-1,DIGI SPORT 2 🇭🇺
 http://bestavb.top:8008/Daia_Florin/1Unlimited19/33800?
 
@@ -372,6 +375,9 @@ http://135.181.178.91/vmedia_live/3/index.m3u8
 #EXTINF:-1, Polsat SPORTS EXTRA HD 🇵🇱
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1114.ts
 
+#EXTINF:-1, Live Sports (pk) 🇵🇱
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
+
 #EXTINF:-1, ARENA SPORT 1 PREMIUM 🇷🇸
 http://46.29.169.15:4001/play/a00g/index.m3u8
 
@@ -507,9 +513,6 @@ http://185.204.32.4:9981/stream/channelid/577840136
 #EXTINF:-1, EUROSPORT 2 🇬🇧
 http://212.102.60.80/Eurosport2/index.m3u8
 
-#EXTINF:-1, EUROSPORT 2 🇬🇧
-http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/90.chunklist_w4667732286.m3u8?mvk
-
 #EXTINF:-1, FLOW SPORTS 1 🇬🇧
 http://38.127.211.18/live/c2eds/FlowSports1/HLS/index.m3u8
 
@@ -528,14 +531,8 @@ https://liv11octptsp.stblauncher.com/live/4273_.m3u8?token=bcc65a1fb3974adeaa616
 #EXTINF:-1, SPORTTV 4 🇵🇹
 https://liv11octptsp.stblauncher.com/live/4246_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 
-#EXTINF:-1, SPORTTV 4 🇵🇹
-http://78.129.253.15:8030/Fuchar5/index.m3u8
-
 #EXTINF:-1, SPORTTV 5 🇵🇹
 https://liv11octptsp.stblauncher.com/live/4213_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
-
-#EXTINF:-1 , M4 SPORTS 🇭🇺
-http://78.109.104.240:8000/play/a0ao/index.m3u8?HasBahCa.m3u8
 
 #EXTINF:-1 , DIGI SPORT 1 🇭🇺
 http://bestavb.top:8008/Daia_Florin/1Unlimited19/62775
@@ -567,29 +564,17 @@ https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
-#EXTINF:-1, MATH 🇷🇺
-http://bethoven.af-stream.com:1600/s/ktsufmzt/match-tv-hd/video.m3u8
-
 #EXTINF:-1, Футбол 1 🇷🇺
 http://80.237.96.66:9090/stream/channelid/1447584418?ticket=421CCD7B1F55D2BEAF0796AF28338DBB6840D5C7&profile=pass
 
-#EXTINF:-1, Футбол 1 🇷🇺
-http://bethoven.af-stream.com:1600/s/ktsufmzt/match-futbol1-hd/video.m3u8
-
 #EXTINF:-1, Футбол 2 🇷🇺
 http://80.237.96.66:9090/stream/channelid/927470349?ticket=4AC1FD6BFB840BFDA0D8FA44B2ABE1DE00617625&profile=pass
-
-#EXTINF:-1, Футбол 2 🇷🇺
-http://bethoven.af-stream.com:1600/s/ktsufmzt/match-futbol2-hd/video.m3u8
 
 #EXTINF:-1, Футбол 2 🇷🇺
 http://persik.by/stream/7504/377885/10217.m3u8
 
 #EXTINF:-1, Футбол 3 🇷🇺
 http://80.237.96.66:9090/stream/channelid/1429424341?ticket=DC32E4FDAB18819CC3C91C835EEA0C57ED9FEEBD&profile=pass
-
-#EXTINF:-1, Футбол 3 🇷🇺
-http://bethoven.af-stream.com:1600/s/ktsufmzt/match-futbol3-hd/video.m3u8
 
 #EXTINF:-1, Футбол 3 🇷🇺
 http://persik.by/stream/7504/377885/10218.m3u8
@@ -603,23 +588,14 @@ http://persik.by/stream/7504/377885/10408.m3u8
 #EXTINF:-1, Belarus 5 🇧🇾
 http://persik.by/stream/7504/377885/932.m3u8
 
-#EXTINF:-1, Viasat Sport 🇷🇺
-http://bethoven.af-stream.com:1600/s/ktsufmzt/viasat-sport-hd/video.m3u8
-
 #EXTINF:-1, Матч! Арена 🇷🇺
 http://persik.by/stream/7504/377885/261.m3u8
-
-#EXTINF:-1, Матч! Арена 🇷🇺
-http://bethoven.af-stream.com:1600/s/ktsufmzt/match-arena-hd/video.m3u8
 
 #EXTINF:-1, Матч! Арена 🇷🇺
 http://persik.by/stream/7504/377885/724.m3u8
 
 #EXTINF:-1, Матч! Игра 🇷🇺
 http://persik.by/stream/7504/377885/10270.m3u8
-
-#EXTINF:-1, Матч! Игра 🇷🇺
-http://bethoven.af-stream.com:1600/s/ktsufmzt/match-igra-hd/video.m3u8
 
 #EXTINF:-1, Матч! Премьер 🇷🇺
 http://persik.by/stream/7504/377885/284.m3u8
@@ -629,9 +605,6 @@ http://persik.by/stream/7504/377885/10271.m3u8
 
 #EXTINF:-1, Спорт 1 🇷🇺
 http://212.115.255.196/Jfd85Hf/sport1.m3u8
-
-#EXTINF:-1, Старт HD 🇷🇺
-http://bethoven.af-stream.com:1600/s/ktsufmzt/start-hd/video.m3u8
 
 #EXTINF:-1, MATH CTPAHA 🇷🇺
 https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
@@ -647,12 +620,6 @@ http://iptv.prosto.tv:7000/ch109/video.m3u8
 
 #EXTINF:-1, KBP SPORT 🇷🇺
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-
-#EXTINF:-1, EUROSPORT 1 🇷🇺
-http://bethoven.af-stream.com:1600/s/ktsufmzt/eurosport-hd/video.m3u8
-
-#EXTINF:-1, EUROSPORT 2 🇷🇺
-http://bethoven.af-stream.com:1600/s/ktsufmzt/eurosport2-hd/video.m3u8
 
 #EXTINF:-1, Astro Super Sport 1 🇲🇾
 http://203.154.243.89:21201/nakhon
@@ -675,12 +642,6 @@ https://playfdcusa.olelive.olevod.tv:6443/tv/cctv5hd/hls.m3u8
 #EXTINF:-1, CCTV5 + 🇨🇳
 http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 
-#EXTINF:-1, CANAL CHINO 1 咪咕視頻·PP體育1 🇨🇳
-http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8 
-
-#EXTINF:-1, CANAL CHINO 2 精品體育 🇨🇳
-http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8 
-
 #EXTINF:-1, CANAL CHINO 4 魅力足球 🇨🇳
 http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 
@@ -690,17 +651,11 @@ http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1, CANAL CHINO 6 CCTV5+Sport 🇨🇳
 http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 
-#EXTINF:-1, CCTV5 + 🇨🇳
-https://playfdcusa.olelive.olevod.tv:6443/tv/cctv5phd/hls.m3u8
-
 #EXTINF:-1,TVONE 🇲🇾
 http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
 
 #EXTINF:-1,TVONE 🇲🇾
 http://210.210.155.35/session/f5cd353c-0131-11ec-b286-abca8519aa62/qwr9ew/s/s105/01.m3u8
-
-#EXTINF:-1, Live Sports (pk) 🇵🇱
-http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 
 #EXTINF:-1, TV 2 SPORT 
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
@@ -710,9 +665,6 @@ https://sc.id-tv.kz:443/ViasatSport_34_35.m3u8
 
 #EXTINF:-1, VIASAT SPORT 🇸🇪
 http://bl.uma.media/live/485548/HLS/4614144_2,2883584/2/1/playlist.m3u8
-
-#EXTINF:-1,Tivibu Spor 1 🇹🇷
-http://mugla.tvizlehd.com/live/tivibuspor.m3u8
 
 #EXTINF:-1, TVRI SPORT 🇹🇷
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
@@ -726,20 +678,11 @@ https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
 #EXTINF:-1, SPORTV TUR 🇹🇷
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 
-#EXTINF:-1, FOX SPORTS HD 2 BRASIL 🇧🇷
-https://liv11octhd.stblauncher.com/live/5924_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
-
 #EXTINF:-1, TNT SPORTS 🇧🇷
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 
 #EXTINF:-1, TNT SPORTS 🇧🇷
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-
-#EXTINF:-1, ESPORTE INTERACTIVO 🇧🇷
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-
-#EXTINF:-1, BAND Sports 🇧🇷
-http://cdn.connectbr.com.br/BandSports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,TNTSPORTS 1 🇧🇷
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
@@ -756,26 +699,20 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1, TNTSPORTS 5 🇧🇷
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
+#EXTINF:-1, ESPORTE INTERACTIVO 🇧🇷
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1, BAND Sports 🇧🇷
+http://cdn.connectbr.com.br/BandSports/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, SPORT LIVE 🇧🇷
 http://iptv.tvfix.org/hls/starsports.m3u8
 
 #EXTINF:-1, STADIUM 🇧🇷
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
 
-#EXTINF:-1, AU SPORTS HD1
-http://78.129.253.15:8030/Fuchar1/index.m3u8
-
-#EXTINF:-1, AU SPORTS HD2
-http://78.129.253.15:8030/Fuchar2/index.m3u8
-
-#EXTINF:-1, AU SPORTS HD3
-http://78.129.253.15:8030/Fuchar3/index.m3u8
-
 #EXTINF:-1, SKY SPORTS 24 🇮🇹
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
-
-#EXTINF:-1, SERIE A 🇮🇹
-http://217.174.225.146/hls/ch004_720/index.m3u8
 
 #EXTINF:-1,RikSports HD
 https://nn.geo.joj.sk/live/hls/rik-540.m3u8
@@ -806,12 +743,6 @@ https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist
 
 #EXTINF:-1, MOROC SPORTS 🇲🇦
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-
-#EXTINF:-1, LIBIA SPORT CHANNEL 1 🇱🇾
-http://149.62.183.198:8000/play/a06f/index.m3u8?HasBahCa.m3u8
-
-#EXTINF:-1, LIBIA SPORT CHANNEL 2 🇱🇾
-http://149.62.183.198:8000/play/a06i/index.m3u8?HasBahCa.m3u8
 
 #EXTINF:-1, SHARJJAH SPORT
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
