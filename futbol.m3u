@@ -21,6 +21,9 @@ https://master.server-cdn-streaming.com/api/live-player/28/live.m3u8
 #EXTINF:-1, BEIN SPORT 2 (Thái) 🇹🇭
 https://master.server-cdn-streaming.com/api/live-player/29/live.m3u8
 
+#EXTINF:-1, BEIN SPORT 3 (Thái) 🇹🇭
+http://4digital.ddns.net:11222/ts/0
+
 #EXTINF:-1,BEIN SPORT 1 (Pháp)
 http://45.153.32.69:8888/4/index.m3u8
 
