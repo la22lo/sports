@@ -567,6 +567,9 @@ https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 #EXTINF:-1, Футбол 1 🇷🇺
 http://80.237.96.66:9090/stream/channelid/1447584418?ticket=421CCD7B1F55D2BEAF0796AF28338DBB6840D5C7&profile=pass
 
+#EXTINF:-1, Футбол 1 🇷🇺
+http://persik.by/stream/7504/377885/346.m3u8
+
 #EXTINF:-1, Футбол 2 🇷🇺
 http://80.237.96.66:9090/stream/channelid/927470349?ticket=4AC1FD6BFB840BFDA0D8FA44B2ABE1DE00617625&profile=pass
 
