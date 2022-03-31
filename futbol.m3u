@@ -312,8 +312,38 @@ http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1, BT SPORT 3 🇬🇧
 http://93.152.174.144:4000/play/btsport3/index.m3u8
 
-#EXTINF:-1, BT SPORT 1
+#EXTINF:-1, BT SPORT 1 🇬🇧
 http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/110708
+
+#EXTINF:-1, BT SPORT 2 🇬🇧
+http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/89213
+
+#EXTINF:-1, BT SPORT 3 🇬🇧
+http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/89212
+
+#EXTINF:-1, BT SPORT ESPN 🇬🇧
+http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/89211
+
+#EXTINF:-1, BT SPORT ESPNHD 🇬🇧
+http://45.153.35.224:8000/play/a008
+
+#EXTINF:-1, BT SPORT EXTRA 1 🇬🇧
+http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/100702
+
+#EXTINF:-1, BT SPORT EXTRA 2 🇬🇧
+http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/100703
+
+#EXTINF:-1, BT SPORT EXTRA 3 🇬🇧
+http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/100704
+
+#EXTINF:-1, BT SPORT EXTRA 4 🇬🇧
+http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/100705
+
+#EXTINF:-1, BT SPORT EXTRA 5 🇬🇧
+http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/100706
+
+#EXTINF:-1, BT SPORT EXTRA 6 🇬🇧
+http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/100707
 
 #EXTINF:-1, ESPN USA 🇺🇸
 http://69.164.224.53:80/ESPN/mpegts
