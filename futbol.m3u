@@ -714,6 +714,24 @@ https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
 #EXTINF:-1, SPORTV TUR 🇹🇷
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 
+#EXTINF:-1, Exxen Sports 1
+http://myhosting.one:8080/arsenal1/arsenal1/255664
+
+#EXTINF:-1, Exxen Sports 2
+http://myhosting.one:8080/arsenal1/arsenal1/255665
+
+#EXTINF:-1, Exxen Sports 3
+http://myhosting.one:8080/arsenal1/arsenal1/255666
+
+#EXTINF:-1, Exxen Sports 4
+http://myhosting.one:8080/arsenal1/arsenal1/255667
+
+#EXTINF:-1, Exxen Sports 5
+http://myhosting.one:8080/arsenal1/arsenal1/255668
+
+#EXTINF:-1, Exxen Sports 6
+http://myhosting.one:8080/arsenal1/arsenal1/255669
+
 #EXTINF:-1, TNT SPORTS 🇧🇷
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 
