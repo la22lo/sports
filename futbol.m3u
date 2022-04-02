@@ -4,9 +4,6 @@
 http://178.218.196.218:8000/play/a00d/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
 
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
-https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/KAYE4Cbb6CBTV9OS7dQ5YE5sCgiOvZ5yAr2SOe5V2EL2VXrIlN4syRDLOveEN_TsfMa2WdtqaVH_bRr1mVQIoA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://188.34.177.35/xls/ligota/index.m3u8
 
 #EXTINF:-1, YAYA LIVE 🇶🇦
