@@ -6,6 +6,9 @@ http://178.218.196.218:8000/play/a00d/index.m3u8?token=1234678887643fgjkfe23579i
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://188.34.177.35/xls/ligota/index.m3u8
 
+#EXTINF:-1, LALIGA TV 🇬🇧
+http://84.17.40.43:25461/live/gigitbl/2DKYzhvEke/117125.m3u8?token=GkMOV0pdG18SU1MCBFQCCwcNCQMFAQwHAgFTUAVRVVRTVwJSXwMOXFIXGUNHFxRXAllmXVYVDgdVB1dXBElBFBIEFGlQURtfEgMEUQ1SVhBPFk1dX1IWDFQcRBVYAUFbQ1NRAQkEG0kSUE0VUREIUw9rXVFEXldTRgoIEF0JT0MODzlSXFhYC1QXD0MFQUoQCkdJFghZQVoIHEQHWBERABUERAwbBwBXCRcZQ1cME1wXRkAWCBVxZUYcRABJEQYPEggJWBsPGwgDQA1DGEEPQTxGXEdGRVFXCVUURwtHU0NNQwtXQWpaCl5bUAJACglcEBYDFgEVGBQJXwgMRQoRPhEIAhQDFwtSBgYMQ0k=
+
 #EXTINF:-1, YAYA LIVE 🇶🇦
 https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/7QFZlz96-HBhxtRWUgpElEqjDfmnnhNLBLp35GKtwsshNC8XPIHcnsIS466au_OmcHwoZ6HREh9_QGUXobLB9w/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
 
