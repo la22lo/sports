@@ -30,9 +30,6 @@ http://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/DDnFFROlVmrYxoK
 #EXTINF:-1, MTV+ HD 🇮🇳
 http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 
-#EXTINF:-1, DIRECTV SPORT 🇦🇷
-http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/667.m3u8
-
 #EXTINF:-1, LaLigaTV HD 🇬🇧
 http://45.153.35.224:8000/play/a00u
 
