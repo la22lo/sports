@@ -387,6 +387,18 @@ http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8
 #EXTINF:-1, ESPN 2 USA 🇺🇸
 http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8
 
+#EXTINF:-1, Look Plus HD 🇷🇴
+http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/20525
+
+#EXTINF:-1, Look Sport FHD 🇷🇴
+http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/20526
+
+#EXTINF:-1, Look Sport 2 HD 🇷🇴
+http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/41572
+
+#EXTINF:-1,Look Sport 3 HD 🇷🇴
+http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/41573
+
 #EXTINF:-1, DIGISPORT1 🇷🇴
 http://bestavb.top:8008/Daia_Florin/1Unlimited19/33798
 
