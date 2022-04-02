@@ -666,6 +666,21 @@ http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8?
 #EXTINF:-1, RTK1 ALBANIA 🇦🇱
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
 
+#EXTINF:-1, Sport 5 HD 🇮🇱
+http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/19813
+
+#EXTINF:-1, Sport 5+ Live HD 🇮🇱
+http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/16521
+
+#EXTINF:-1, Sport 5+ Stars FHD 🇮🇱
+http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/5955
+
+#EXTINF:-1, Sport 5 Plus 🇮🇱
+http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/12823
+
+#EXTINF:-1, Sport 5 Gold 🇮🇱
+http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/11725
+
 #EXTINF:-1, EUROSPORT 1 🇬🇧
 http://185.204.32.4:9981/stream/channelid/577840136
 
