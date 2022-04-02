@@ -15,6 +15,9 @@ https://bigsmoke.lbs.pw/sslaliga/tracks-v1a1/mono.m3u8?token=dd31244b3e1ae264266
 #EXTINF:-1, LALIGA TV 🇬🇧
 https://3f02a01aba16.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.303838583901.channel.3DxwrW3edoOv.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czpldS1jZW50cmFsLTE6MzAzODM4NTgzOTAxOmNoYW5uZWwvM0R4d3JXM2Vkb092IiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHA6Ly93d3cuc3BvcnRuZXdzLnRvIiwiaWF0IjoxNjQ4ODkxMzgwLCJleHAiOjE2NDg5Nzc3ODB9.m-CjxQo3IrUkt1S6_hOAq0k_qylcdjkCxm6CR7WAP_3PLgnIRQxodnXliGFtph9GCqWok8ygN_Ps7I5okoTsDogJWZwU3BDyPn-dPNEU1KWp_bpb0LuhcBYbEsSYLFLK
 
+#EXTINF:-1, BEIN SPORT 1 🇶🇦
+https://cdn.odysee.live/hls/c85943bd114934a21a38980b02b47f2534eb16d0/index.m3u8
+
 #EXTINF:-1, YAYA LIVE 🇶🇦
 https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/7QFZlz96-HBhxtRWUgpElEqjDfmnnhNLBLp35GKtwsshNC8XPIHcnsIS466au_OmcHwoZ6HREh9_QGUXobLB9w/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
 
