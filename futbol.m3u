@@ -717,6 +717,9 @@ http://iptv.prosto.tv:7000/ch109/video.m3u8
 #EXTINF:-1, KBP SPORT 🇷🇺
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
+#EXTINF:-1, rumatcharena 🇷🇺
+http://wrioslio.altervista.org/TV/scapers/match.php?id=rumatcharena
+
 #EXTINF:-1, Astro Super Sport 1 🇲🇾
 http://203.154.243.89:21201/nakhon
 
