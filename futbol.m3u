@@ -39,6 +39,9 @@ http://15.235.142.241:8080/hometv/premium/2
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
+#EXTINF:-1, beIN Sports 4 🇫🇷
+https://stream.syfey.tv/beinsports4maxfr/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, BEIN SPORT 1 (Thái) 🇹🇭
 https://master.server-cdn-streaming.com/api/live-player/28/live.m3u8
 
