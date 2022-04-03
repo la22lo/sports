@@ -1194,5 +1194,8 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1, TENNIS CHANNEL 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1, GOL TV
+http://127.0.0.1:6878/ace/m/c5bad52ae0154d69859b35a786a80a59c5416b2b/5b372ca965306975502b6558dd67e464.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
