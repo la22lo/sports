@@ -21,6 +21,9 @@ http://213.13.23.132/shls/LIVE%24Eleven_Sports_3_HD.CVL/index.m3u8?device=ANDROI
 #EXTINF:-1,ELEVEN SPORT 1 🇵🇹
 http://comag.rip:8000/50263223856606/28267324527831/22520
 
+#EXTINF:-1, LALIGA TV 🇬🇧
+http://livehls.ltjuq.top/ofmatch/HD302097.m3u8?auth_key=1649003736-ecdde41e102f1251d303b3e508a559d9-0-c7d73ea19b3215dfbe3a600cfad8ef76
+
 #EXTINF:-1, BEIN SPORT 1 🇶🇦
 https://cdn.odysee.live/hls/c85943bd114934a21a38980b02b47f2534eb16d0/index.m3u8
 
