@@ -1176,5 +1176,14 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1, TENNIS CHANNEL 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1, DirectTV Deportes
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204265
+
+#EXTINF:-1, DirectTV Sports 2
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/228754
+
+#EXTINF:-1, DirectTV Sports +
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/228757
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
