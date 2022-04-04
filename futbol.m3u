@@ -504,6 +504,12 @@ http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1, CANAL CHINO 6 CCTV5+Sport 🇨🇳
 http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 
+#EXTINF:-1,SPOTV 1 🇲🇾
+https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=koceng&channel=spotv
+
+#EXTINF:-1,SPOTV 2 🇲🇾
+https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=koceng&channel=spotv2
+
 #EXTINF:-1,TVONE 🇲🇾
 http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
 
