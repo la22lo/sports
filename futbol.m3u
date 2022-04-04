@@ -477,6 +477,12 @@ http://iptv.prosto.tv:7000/ch109/video.m3u8
 #EXTINF:-1, KBP SPORT 🇷🇺
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
+#EXTINF:-1, CHAMPIONS 1 🇲🇾
+http://15.235.142.241:8080/hometv/premium/8063
+
+#EXTINF:-1, CHAMPIONS 2 🇲🇾
+http://15.235.142.241:8080/hometv/premium/8064
+
 #EXTINF:-1, Astro Super Sport 1 🇲🇾
 http://203.154.243.89:21201/nakhon
 
