@@ -420,6 +420,9 @@ http://213.13.23.132/shls/LIVE%24SPORTTV4.CVL/index.m3u8?device=ANDROID_Live&sta
 #EXTINF:-1,Sport TV5 🇵🇹
 http://213.13.23.132/shls/LIVE%24SPORTTV5.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
+#EXTINF:-1, ARENA SPORT 1 LIVE 🇵🇹
+http://149.62.183.208:8000/play/a0fj/index.m3u8
+
 #EXTINF:-1 ,2 SPORT HUNGRIA 🇭🇺
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 
@@ -486,6 +489,9 @@ http://persik.by/stream/7504/377885/261.m3u8
 #EXTINF:-1, Матч! Арена 🇷🇺
 http://persik.by/stream/7504/377885/724.m3u8
 
+#EXTINF:-1, RTVS SPORT 🇷🇺
+http://149.62.183.208:8000/play/a0df/index.m3u8
+
 #EXTINF:-1, Матч! Игра 🇷🇺
 http://persik.by/stream/7504/377885/10270.m3u8
 
@@ -507,11 +513,29 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1, SPORT RU 🇷🇺
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
 
+#EXTINF:-1, JOJ Sport HD 🇷🇺
+http://149.62.183.208:8000/play/a0c3/index.m3u8
+
 #EXTINF:-1, X SPORT 🇷🇺
 http://iptv.prosto.tv:7000/ch109/video.m3u8
 
+#EXTINF:-1, SPORT 1 🇷🇺
+http://149.62.183.208:8000/play/a0g0/index.m3u8
+
+#EXTINF:-1, SPORT 2 🇷🇺
+http://149.62.183.208:8000/play/a0fb/index.m3u8
+
+#EXTINF:-1, SPORT 5 🇷🇺
+http://149.62.183.208:8000/play/a0fc/index.m3u8
+
 #EXTINF:-1, KBP SPORT 🇷🇺
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
+#EXTINF:-1, Nova Sport 1 HD
+http://149.62.183.208:8000/play/a0bs/index.m3u8
+
+#EXTINF:-1, Nova Sport 2 HD
+http://149.62.183.208:8000/play/a0ei/index.m3u8
 
 #EXTINF:-1, CHAMPIONS 1 🇲🇾
 http://15.235.142.241:8080/hometv/premium/8063
