@@ -468,6 +468,12 @@ http://80.237.96.66:9090/stream/channelid/179317365?ticket=DA8EC54EEBE7A94F39F16
 #EXTINF:-1,MEGOGO 1 HD 🇺🇦
 http://lb.wisp.cat/lb0/DMEGO1_HD/video.m3u8?token=FREETVUKRAINE
 
+#EXTINF:-1,MEGOGO 2 HD 🇺🇦
+http://lb.wisp.cat/lb0/DMEGO2_HD/video.m3u8?token=FREETVUKRAINE
+
+#EXTINF:-1,MEGOGO 3 HD 🇺🇦
+http://lb.wisp.cat/lb0/DMEGO3_HD/video.m3u8?token=FREETVUKRAINE
+
 #EXTINF:-1, Belarus 5 HD 🇧🇾
 http://persik.by/stream/7504/377885/10408.m3u8
 
