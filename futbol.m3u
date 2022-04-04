@@ -420,6 +420,9 @@ http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
 #EXTINF:-1, Star Sport 🇬🇧
 http://iptv.tvfix.org/hls/starsports.m3u8
 
+#EXTINF:-1,Sport TV+ 🇵🇹
+http://213.13.23.132/shls/LIVE%24SPORTTV.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+
 #EXTINF:-1,Sport TV1 🇵🇹
 http://213.13.23.132/shls/LIVE%24SPORTTV1.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
@@ -432,11 +435,17 @@ http://213.13.23.132/shls/LIVE%24SPORTTV3.CVL/index.m3u8?device=ANDROID_Live&sta
 #EXTINF:-1,Sport TV4 🇵🇹
 http://213.13.23.132/shls/LIVE%24SPORTTV4.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
+#EXTINF:-1,Sport TV4 🇵🇹
+http://213.13.23.132/shls/LIVE%24SPORTTVLive.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+
 #EXTINF:-1,Sport TV5 🇵🇹
 http://213.13.23.132/shls/LIVE%24SPORTTV5.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
 #EXTINF:-1, ARENA SPORT 1 LIVE 🇵🇹
 http://149.62.183.208:8000/play/a0fj/index.m3u8
+
+#EXTINF:-1, SPORT TV AO VIVO 🇵🇹
+http://213.13.23.132/shls/LIVE%24PFC.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
 #EXTINF:-1 ,2 SPORT HUNGRIA 🇭🇺
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
