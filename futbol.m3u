@@ -279,6 +279,18 @@ http://141.95.206.174:8080/ar-s/bein-afc-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, beIN Sports AFC 3 🇸🇦
 http://141.95.206.174:8080/ar-s/bein-afc-3/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, SUPER SPORT 1 🇦🇱
+http://62.210.170.186:8080/live/TVSHQIP/FAKTESHQIP/52.ts
+
+#EXTINF:-1, SUPER SPORT 2 🇦🇱
+http://62.210.170.186:8080/live/TVSHQIP/FAKTESHQIP/53.ts
+
+#EXTINF:-1, SUPER SPORT 3 🇦🇱
+http://62.210.170.186:8080/live/TVSHQIP/FAKTESHQIP/54.ts
+
+#EXTINF:-1, SUPER SPORT 4 🇦🇱
+http://62.210.170.186:8080/live/TVSHQIP/FAKTESHQIP/55.ts
+
 #EXTINF:-1, ESPN USA 🇺🇸
 http://69.164.224.53:80/ESPN/mpegts
 
