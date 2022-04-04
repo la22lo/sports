@@ -576,10 +576,10 @@ http://149.62.183.208:8000/play/a0fc/index.m3u8
 #EXTINF:-1, KBP SPORT 🇷🇺
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-#EXTINF:-1, Nova Sport 1 HD
+#EXTINF:-1, Nova Sport 1 HD 🇬🇷
 http://149.62.183.208:8000/play/a0bs/index.m3u8
 
-#EXTINF:-1, Nova Sport 2 HD
+#EXTINF:-1, Nova Sport 2 HD 🇬🇷
 http://149.62.183.208:8000/play/a0ei/index.m3u8
 
 #EXTINF:-1, CHAMPIONS 1 🇲🇾
@@ -654,22 +654,22 @@ https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
 #EXTINF:-1, SPORTV TUR 🇹🇷
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 
-#EXTINF:-1, Exxen Sports 1
+#EXTINF:-1, Exxen Sports 1 🇹🇷
 http://myhosting.one:8080/arsenal1/arsenal1/255664
 
-#EXTINF:-1, Exxen Sports 2
+#EXTINF:-1, Exxen Sports 2 🇹🇷
 http://myhosting.one:8080/arsenal1/arsenal1/255665
 
-#EXTINF:-1, Exxen Sports 3
+#EXTINF:-1, Exxen Sports 3 🇹🇷
 http://myhosting.one:8080/arsenal1/arsenal1/255666
 
-#EXTINF:-1, Exxen Sports 4
+#EXTINF:-1, Exxen Sports 4 🇹🇷
 http://myhosting.one:8080/arsenal1/arsenal1/255667
 
-#EXTINF:-1, Exxen Sports 5
+#EXTINF:-1, Exxen Sports 5 🇹🇷
 http://myhosting.one:8080/arsenal1/arsenal1/255668
 
-#EXTINF:-1, Exxen Sports 6
+#EXTINF:-1, Exxen Sports 6 🇹🇷
 http://myhosting.one:8080/arsenal1/arsenal1/255669
 
 #EXTINF:-1, TNT SPORTS 🇧🇷
@@ -738,7 +738,7 @@ https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist
 #EXTINF:-1, MOROC SPORTS 🇲🇦
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 
-#EXTINF:-1, SHARJJAH SPORT
+#EXTINF:-1, SHARJJAH SPORT 🇸🇦
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
 #EXTINF:-1, 4 SPORT
