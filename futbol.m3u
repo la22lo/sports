@@ -417,6 +417,9 @@ http://38.127.211.18/live/c2eds/FlowSports1/HLS/index.m3u8
 #EXTINF:-1, RUSH HD 🇬🇧
 http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
 
+#EXTINF:-1, Star Sport 🇬🇧
+http://iptv.tvfix.org/hls/starsports.m3u8
+
 #EXTINF:-1,Sport TV1 🇵🇹
 http://213.13.23.132/shls/LIVE%24SPORTTV1.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
