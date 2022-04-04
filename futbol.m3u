@@ -270,6 +270,15 @@ http://15.235.142.241:8080/hometv/premium/8074
 #EXTINF:-1, BT SPORT ESPNHD 🇬🇧
 http://45.153.35.224:8000/play/a008
 
+#EXTINF:-1, beIN Sports AFC 1 🇸🇦
+http://141.95.206.174:8080/ar-s/bein-afc-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, beIN Sports AFC 2 🇸🇦
+http://141.95.206.174:8080/ar-s/bein-afc-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, beIN Sports AFC 3 🇸🇦
+http://141.95.206.174:8080/ar-s/bein-afc-3/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, ESPN USA 🇺🇸
 http://69.164.224.53:80/ESPN/mpegts
 
