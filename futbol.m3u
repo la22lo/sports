@@ -204,20 +204,11 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
 #EXTINF:-1, BEIN SPORT EXTRA Ñ 🇪🇸
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
-#EXTINF:-1, MOVISTAR LIGA CAMPEONES 🇪🇸
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1107.ts
-
-#EXTINF:-1, DAZN F1 🇪🇸
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1106.ts
-
 #EXTINF:-1, beIN Sports 1 French 🇫🇷
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
 
 #EXTINF:-1,BEIN SPORT  1 HD 🇫🇷
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49493
-
-#EXTINF:-1,BEIN SPORT  1 HD 🇫🇷
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/972.ts
 
 #EXTINF:-1, beIN Sports 2 French 🇫🇷
 http://93.152.174.144:4000/play/bein2fr/index.m3u8
@@ -225,53 +216,17 @@ http://93.152.174.144:4000/play/bein2fr/index.m3u8
 #EXTINF:-1,BEIN SPORT  2 HD 🇫🇷
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49494
 
-#EXTINF:-1,BEIN SPORT  2 HD 🇫🇷
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/971.ts
-
 #EXTINF:-1 ,BEIN SPORTS 3 FR 🇫🇷
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
 
 #EXTINF:-1,BEIN SPORT 3 HD 🇫🇷
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49495
 
-#EXTINF:-1,BEIN SPORT 3 HD 🇫🇷
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/973.ts
-
-#EXTINF:-1,BEIN SPORT MAX 4 HD 🇫🇷
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/966.ts
-
-#EXTINF:-1, beIN Sports MAX 4 🇫🇷
-https://stream.syfey.tv/beinsports4maxfr/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, beIN Sports MAX 5 🇫🇷
-https://stream.syfey.tv/beinsports5maxfr/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, beIN Sports MAX 6 🇫🇷
-https://stream.syfey.tv/beinsports6maxfr/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, beIN Sports MAX 7 🇫🇷
-https://stream.syfey.tv/beinsports7maxfr/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,BEIN SPORT MAX 8 HD 🇫🇷
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/968.ts
-
-#EXTINF:-1,BEIN SPORT MAX 10 HD 🇫🇷
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/970.ts
-
-#EXTINF:-1, RMC SPORT 1 HD 🇫🇷
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/959.ts
-
 #EXTINF:-1, RMC SPORT 1 HD 🇫🇷
 http://45.153.32.69:8888/37/index.m3u8
 
 #EXTINF:-1, RMC SPORT 2 HD 🇫🇷
 http://45.153.32.69:8888/30/index.m3u8
-
-#EXTINF:-1, RMC SPORT 2 HD 🇫🇷
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/958.ts
-
-#EXTINF:-1, RMC SPORT 3 HD 🇫🇷
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/957.ts
 
 #EXTINF:-1, L'EQUIPE 🇫🇷
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49499
@@ -282,59 +237,17 @@ http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJBqdg7Slp6-qg3BmzZyuLoA/ts
 #EXTINF:-1, INFOSPORT 🇫🇷
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49496
 
-#EXTINF:-1, beIN SPORTS English 1 🇬🇧
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
-
-#EXTINF:-1, beIN SPORTS English 2 🇬🇧
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
-
-#EXTINF:-1, beIN SPORTS English 3 🇬🇧
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
-
 #EXTINF:-1, BT SPORT 1 🇬🇧
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 
 #EXTINF:-1, BT SPORT 2 🇬🇧
 http://93.152.174.144:4000/play/btsport2/index.m3u8
 
-#EXTINF:-1, BT SPORT 2 🇬🇧
-http://idec-hls.flumotion.com/crtvg/moto/chunks.m3u8
-
 #EXTINF:-1, BT SPORT 3 🇬🇧
 http://93.152.174.144:4000/play/btsport3/index.m3u8
 
-#EXTINF:-1, BT SPORT 1 🇬🇧
-http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/110708
-
-#EXTINF:-1, BT SPORT 2 🇬🇧
-http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/89213
-
-#EXTINF:-1, BT SPORT 3 🇬🇧
-http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/89212
-
-#EXTINF:-1, BT SPORT ESPN 🇬🇧
-http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/89211
-
 #EXTINF:-1, BT SPORT ESPNHD 🇬🇧
 http://45.153.35.224:8000/play/a008
-
-#EXTINF:-1, BT SPORT EXTRA 1 🇬🇧
-http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/100702
-
-#EXTINF:-1, BT SPORT EXTRA 2 🇬🇧
-http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/100703
-
-#EXTINF:-1, BT SPORT EXTRA 3 🇬🇧
-http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/100704
-
-#EXTINF:-1, BT SPORT EXTRA 4 🇬🇧
-http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/100705
-
-#EXTINF:-1, BT SPORT EXTRA 5 🇬🇧
-http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/100706
-
-#EXTINF:-1, BT SPORT EXTRA 6 🇬🇧
-http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/100707
 
 #EXTINF:-1, ESPN USA 🇺🇸
 http://69.164.224.53:80/ESPN/mpegts
@@ -344,66 +257,6 @@ http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8
 
 #EXTINF:-1, ESPN 2 USA 🇺🇸
 http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8
-
-#EXTINF:-1, Look Plus HD 🇷🇴
-http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/20525
-
-#EXTINF:-1, Look Sport FHD 🇷🇴
-http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/20526
-
-#EXTINF:-1, Look Sport 2 HD 🇷🇴
-http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/41572
-
-#EXTINF:-1,Look Sport 3 HD 🇷🇴
-http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/41573
-
-#EXTINF:-1, DIGISPORT1 🇷🇴
-http://bestavb.top:8008/Daia_Florin/1Unlimited19/33798
-
-#EXTINF:-1, DIGISPORT2 🇷🇴
-http://bestavb.top:8008/Daia_Florin/1Unlimited19/33800
-
-#EXTINF:-1, DIGISPORT3 🇷🇴
-http://bestavb.top:8008/Daia_Florin/1Unlimited19/33802
-
-#EXTINF:-1, DIGISPORT4 🇷🇴
-http://bestavb.top:8008/Daia_Florin/1Unlimited19/33804
-
-#EXTINF:-1, Digi Sport 1 HD 🇷🇴
-http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/20522
-
-#EXTINF:-1,Digi Sport 2 HD 🇷🇴
-http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/20521
-
-#EXTINF:-1,Digi Sport 3 HD 🇷🇴
-http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/20520
-
-#EXTINF:-1,Digi Sport 4 HD 🇷🇴
-http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/20519
-
-#EXTINF:-1, TELEKOMSPORT1 HD 🇷🇴
-http://bestavb.top:8008/Daia_Florin/1Unlimited19/36706
-
-#EXTINF:-1, TELEKOMSPORT2 HD 🇷🇴
-http://bestavb.top:8008/Daia_Florin/1Unlimited19/36707
-
-#EXTINF:-1, TELEKOMSPORT3 HD 🇷🇴
-http://bestavb.top:8008/Daia_Florin/1Unlimited19/36708
-
-#EXTINF:-1, TELEKOMSPORT4 HD 🇷🇴
-http://bestavb.top:8008/Daia_Florin/1Unlimited19/36709
-
-#EXTINF:-1, Telekom Sport 1 HD 🇷🇴
-http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/20518
-
-#EXTINF:-1, Telekom Sport 2 HD 🇷🇴
-http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/20517
-
-#EXTINF:-1, Telekom Sport 3 HD 🇷🇴
-http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/20516
-
-#EXTINF:-1, Telekom Sport 4 HD 🇷🇴
-http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/20515
 
 #EXTINF:-1, VIVARO_SPORTS_HD 🇦🇲
 http://135.181.178.91/vmedia_live/1/mono.m3u8?shareext.ts
@@ -432,33 +285,6 @@ http://135.181.178.91/vmedia_live/1/tracks-v1a3/index.m3u8
 #EXTINF:-1, VIVARO_ARENA_HD 🇦🇲
 http://135.181.178.91/vmedia_live/3/index.m3u8
 
-#EXTINF:-1, Max Sport 1 HD 🇧🇬
-http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/14936
-
-#EXTINF:-1, Max Sport 2 HD 🇧🇬
-http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/14937
-
-#EXTINF:-1, Max Sport 3 HD 🇧🇬
-http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/20341
-
-#EXTINF:-1,Max Sport 4 HD 🇧🇬
-http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/26353
-
-#EXTINF:-1,Diema Sport FHD 🇧🇬
-http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/40770
-
-#EXTINF:-1,Diema Sport HD 🇧🇬
-http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/3281
-
-#EXTINF:-1,Diema Sport 2 HD 🇧🇬
-http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/3280
-
-#EXTINF:-1, Polsat SPORTS EXTRA HD 🇵🇱
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1114.ts
-
-#EXTINF:-1, Live Sports (pk) 🇵🇱
-http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
-
 #EXTINF:-1, ARENA SPORT 1 PREMIUM 🇷🇸
 http://46.29.169.15:4001/play/a00g/index.m3u8
 
@@ -468,35 +294,8 @@ http://46.29.169.15:4001/play/a00h/index.m3u8
 #EXTINF:-1, ARENA SPORT 3 PREMIUM 🇷🇸
 http://46.29.169.15:4001/play/a00i/index.m3u8
 
-#EXTINF:-1, ARENA SPORT 1 PREMIUM 🇷🇸
-http://5.206.237.66:9000/play/a06z
-
-#EXTINF:-1, ARENA SPORT 2 PREMIUM 🇷🇸
-http://5.206.237.66:9000/play/a071
-
-#EXTINF:-1, ARENA SPORT 3 PREMIUM 🇷🇸
-http://5.206.237.66:9000/play/a072
-
 #EXTINF:-1, ARENA SPORT 1 🇷🇸
 http://46.29.169.15:4001/play/a002/index.m3u8
-
-#EXTINF:-1, ARENA SPORT 1 🇷🇸
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/749.ts
-
-#EXTINF:-1, ARENA SPORT 2 🇷🇸
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/747.ts
-
-#EXTINF:-1, ARENA SPORT 3 🇷🇸
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/745.ts
-
-#EXTINF:-1, ARENA SPORT 4 🇷🇸
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/743.ts
-
-#EXTINF:-1, ARENA SPORT 5 🇷🇸
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/741.ts
-
-#EXTINF:-1, SPORT KLUB HD 🇷🇸
-http://94.250.61.6:2334/skhd?
 
 #EXTINF:-1, SPORT KLUB HD 1 🇷🇸
 http://194.15.225.98:8000/play/a2qu
@@ -512,21 +311,6 @@ http://185.204.32.4:9981/stream/channelid/1261192802|User-Agent=stream
 
 #EXTINF:-1,RTSH SPORT 🇦🇱
 http://185.204.32.4:9981/stream/channelid/1261192802?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-
-#EXTINF:-1, Arena Sport 1 HR 🇭🇷
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/750.ts
-
-#EXTINF:-1, Arena Sport 2 HR 🇭🇷
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/748.ts
-
-#EXTINF:-1, Arena Sport 3 HR 🇭🇷
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/746.ts
-
-#EXTINF:-1, Arena Sport 4 HR 🇭🇷
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/744.ts
-
-#EXTINF:-1, Arena Sport 5 HR 🇭🇷
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/742.ts
 
 #EXTINF:-1, Arena 1 PREMIUM HR 🇭🇷
 http://46.29.169.15:4001/play/a00g/index.m3u8|User-Agent=stream
@@ -555,21 +339,6 @@ http://46.29.169.15:4001/play/a006/index.m3u8|User-Agent=stream
 #EXTINF:-1, Arena Sport 6 HR 🇭🇷
 http://46.29.169.15:4001/play/a007/index.m3u8|User-Agent=stream
 
-#EXTINF:-1, Arena Sport 1 HR 🇭🇷
-http://5.206.237.66:9000/play/a075
-
-#EXTINF:-1, Arena Sport 2 HR 🇭🇷
-http://5.206.237.66:9000/play/a076
-
-#EXTINF:-1, Arena Sport 3 HR 🇭🇷
-http://5.206.237.66:9000/play/a077
-
-#EXTINF:-1, Arena Sport 4 HR 🇭🇷
-http://5.206.237.66:9000/play/a073
-
-#EXTINF:-1, Arena Sport 5 HR 🇭🇷
-http://5.206.237.66:9000/play/a074
-
 #EXTINF:-1, SK HD Croacia 🇭🇷
 http://94.250.61.6:2334/skhd
 
@@ -582,26 +351,8 @@ http://46.29.169.15:4001/play/a00e/index.m3u8
 #EXTINF:-1, SK 1 Croacia 🇭🇷
 http://46.29.169.15:4001/play/a001/index.m3u8|User-Agent=stream
 
-#EXTINF:-1, SK 1 Croacia 🇭🇷
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/740.ts
-
-#EXTINF:-1, SK 2 Croacia 🇭🇷
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/739.ts
-
 #EXTINF:-1, SK 2 Croacia 🇭🇷
 http://46.29.169.15:4001/play/a00e/index.m3u8|User-Agent=stream
-
-#EXTINF:-1, SK 3 Croacia 🇭🇷
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/738.ts
-
-#EXTINF:-1, SK 4 Croacia 🇭🇷
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/737.ts
-
-#EXTINF:-1, SK 5 Croacia 🇭🇷
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/736.ts
-
-#EXTINF:-1, SK 6 Croacia 🇭🇷
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/735.ts
 
 #EXTINF:-1,HRT2 🇭🇷
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
@@ -611,21 +362,6 @@ http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8?
 
 #EXTINF:-1, RTK1 ALBANIA 🇦🇱
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
-
-#EXTINF:-1, Sport 5 HD 🇮🇱
-http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/19813
-
-#EXTINF:-1, Sport 5+ Live HD 🇮🇱
-http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/16521
-
-#EXTINF:-1, Sport 5+ Stars FHD 🇮🇱
-http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/5955
-
-#EXTINF:-1, Sport 5 Plus 🇮🇱
-http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/12823
-
-#EXTINF:-1, Sport 5 Gold 🇮🇱
-http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/11725
 
 #EXTINF:-1, EUROSPORT 1 🇬🇧
 http://185.204.32.4:9981/stream/channelid/577840136
@@ -653,45 +389,6 @@ http://213.13.23.132/shls/LIVE%24SPORTTV4.CVL/index.m3u8?device=ANDROID_Live&sta
 
 #EXTINF:-1,Sport TV5 🇵🇹
 http://213.13.23.132/shls/LIVE%24SPORTTV5.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1, Sport TV1 🇵🇹
-http://comag.rip:8000/50263223856606/28267324527831/79116
-
-#EXTINF:-1,Sport TV2 🇵🇹
-http://comag.rip:8000/50263223856606/28267324527831/79118
-
-#EXTINF:-1,Sport TV3 🇵🇹
-http://comag.rip:8000/50263223856606/28267324527831/79120
-
-#EXTINF:-1,Sport TV4 🇵🇹
-http://comag.rip:8000/50263223856606/28267324527831/79121
-
-#EXTINF:-1,Sport TV5 🇵🇹
-http://comag.rip:8000/50263223856606/28267324527831/79122
-
-#EXTINF:-1,Sport TV+ 🇵🇹
-http://comag.rip:8000/50263223856606/28267324527831/79114
-
-#EXTINF:-1,Ziggo Sport HD 🇳🇱
-http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/14599
-
-#EXTINF:-1,Ziggo sport Select FHD 🇳🇱
-http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/4122
-
-#EXTINF:-1,Ziggo Sport Voetbal FHD 🇳🇱
-http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/9765
-
-#EXTINF:-1,Ziggo Sport Voetbal 🇳🇱
-http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/896
-
-#EXTINF:-1,Ziggo Sport Extra FHD 🇳🇱
-http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/2372
-
-#EXTINF:-1 , DIGI SPORT 1 🇭🇺
-http://bestavb.top:8008/Daia_Florin/1Unlimited19/62775
-
-#EXTINF:-1 , DIGI SPORT 2 🇭🇺
-http://bestavb.top:8008/Daia_Florin/1Unlimited19/33800?
 
 #EXTINF:-1 ,2 SPORT HUNGRIA 🇭🇺
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
@@ -776,18 +473,6 @@ http://iptv.prosto.tv:7000/ch109/video.m3u8
 
 #EXTINF:-1, KBP SPORT 🇷🇺
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-
-#EXTINF:-1, rumatcharena 🇷🇺
-http://wrioslio.altervista.org/TV/scapers/match.php?id=rumatcharena
-
-#EXTINF:-1, C More Sport HD 🇸🇪
-http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/7288
-
-#EXTINF:-1, C More Fotboll HD 🇸🇪
-http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/4282
-
-#EXTINF:-1, C More Live HD 🇸🇪
-http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/7292
 
 #EXTINF:-1, Astro Super Sport 1 🇲🇾
 http://203.154.243.89:21201/nakhon
@@ -909,7 +594,7 @@ https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/in
 #EXTINF:-1,SWISS SPORT TV 🇨🇭
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
 
-#EXTINF:-1, A SPORTS
+#EXTINF:-1, A SPORTS 🇮🇳
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 
 #EXTINF:-1, TURKMEN SPORTS 🇹🇷
