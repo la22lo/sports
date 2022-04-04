@@ -288,6 +288,27 @@ http://45.153.35.224:8000/play/a008
 #EXTINF:-1, SUPER GRANDSTAND 🇬🇧
 http://178.218.196.218:8000/play/a008/index.m3u8
 
+#EXTINF:-1, SUPER SPORT EPL 🇬🇧
+http://15.235.142.241:8080/hometv/premium/1
+
+#EXTINF:-1, SUPER SPORT LALIGA 🇬🇧
+http://15.235.142.241:8080/hometv/premium/2
+
+#EXTINF:-1, SUPER SPORT FOOTBALL 🇬🇧
+http://15.235.142.241:8080/hometv/premium/3
+
+#EXTINF:-1, SUPER SPORT TENNIS 🇬🇧
+http://15.235.142.241:8080/hometv/premium/4
+
+#EXTINF:-1, SUPER SPORT MOTOSPORT 🇬🇧
+http://15.235.142.241:8080/hometv/premium/5
+
+#EXTINF:-1, SUPER SPORT CRICKET 🇬🇧
+http://15.235.142.241:8080/hometv/premium/6
+
+#EXTINF:-1, SUPER SPORT VARIETY 🇬🇧
+http://15.235.142.228:8080/hometv/premium/7
+
 #EXTINF:-1, beIN Sports AFC 1 🇸🇦
 http://141.95.206.174:8080/ar-s/bein-afc-1/tracks-v1a1/mono.m3u8
 
