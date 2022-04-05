@@ -21,6 +21,9 @@ http://62.210.137.234:8000/play/a01o/index.m3u8
 #EXTINF:-1, S LIVE UEFA 🇬🇧
 https://d2pwyrb5nekpor.cloudfront.net/hls/ssv/chunks.m3u8
 
+#EXTINF:-1, S LIVE UEFA 🇬🇧
+http://49.12.208.73:80/live/abr_s-1/live/s-1/chunks.m3u8
+
 #EXTINF:-1, BT SPORT 2 🇬🇧
 http://d1usk8i9yi9an3.cloudfront.net:80/stream/MzY3Nw==/1080p.m3u8
 
@@ -31,10 +34,16 @@ https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/qL_-Kk_D0E_aVt2wJqp_e
 https://ppv.gcdn.co/FOOT2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, BT SPORT 2 🇬🇧
+https://16live00.akamaized.net:443/BTSPORTS2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, BT SPORT 2 🇬🇧
 https://sbn@16live00.akamaized.net:443/BTSPORTS2/tracks-v1a1/mono.m3u8?SBN
 
 #EXTINF:-1, BT SPORT 3 🇬🇧
 https://sbn@16live00.akamaized.net:443/BTSPORTS3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, BT SPORT 3 🇬🇧
+https://16live00.akamaized.net:443/BTSPORTS3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, POLSAT SPORT 🇵🇱
 https://per@acdn.zhengyaning.com/xoilac/channel-2.m3u8?auth_key=1645859164-0-0-e297e18045e4ff30ab55d343f14b8f42
