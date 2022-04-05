@@ -39,6 +39,12 @@ http://phru6b.lkg1fl1pt.com/v3/youshi/m2_hrXYNmAD2GitKZdq5wlHUjJF_480p.m3u8?sess
 #EXTINF:-1, BeinSport Premium 2 YAYA 🇶🇦
 http://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/QaTkgXZxfJayZdORMsUReBnIO0RqDu2auveQOMZQsPRCZBysOEJXTKT54bMxsgQbWyLMIDdzOICXjq-LXmFl7A/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
 
+#EXTINF:-1, S LIVE CHAMPIONS 🇬🇧
+https://d2pwyrb5nekpor.cloudfront.net:443/hls/ssp/chunks.m3u8
+
+#EXTINF:-1, S LIVE CHAMPIONS 🇬🇧
+https://d2pwyrb5nekpor.cloudfront.net/hls/ssp/chunks.m3u8
+
 #EXTINF:-1, SUPERSPORT TV 🇬🇧
 http://178.218.196.218:8000/play/a00d/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
 
