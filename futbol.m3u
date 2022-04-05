@@ -12,6 +12,9 @@ http://lb.wisp.cat/lb0/DMEGO1_HD/video.m3u8?token=FREETVUKRAINE
 #EXTINF:-1, RMC SPORT 1 HD 🇫🇷
 http://62.210.137.234:8000/play/a01o/index.m3u8
 
+#EXTINF:-1, BT SPORT 2 🇬🇧
+https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/qL_-Kk_D0E_aVt2wJqp_eB9ZNbHmdDLM4CzZKGJmECJdZlEe4h_M3wgfc_Al6DIz_Sur-rTFRAC7E4weO1V7rQ/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+
 #EXTINF:-1, BeinSport Premium 1 YAYA 🇶🇦
 https://videodelivery.net/b70754d511cffdeecc98f91e1cedae76/manifest/video.m3u8
 
