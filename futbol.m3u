@@ -273,6 +273,27 @@ http://62.210.137.234:8000/play/a01o/index.m3u8
 #EXTINF:-1, RMC SPORT 2 HD 🇫🇷
 http://45.153.32.69:8888/30/index.m3u8
 
+#EXTINF:-1,beIN Sports Max 4 HD 🇫🇷
+http://62.210.137.234:8000/play/a02a/index.m3u8
+
+#EXTINF:-1,beIN Sports Max 5 HD 🇫🇷
+http://62.210.137.234:8000/play/a02b/index.m3u8
+
+#EXTINF:-1,beIN Sports Max 6 HD 🇫🇷
+http://62.210.137.234:8000/play/a02c/index.m3u8
+
+#EXTINF:-1,beIN Sports Max 7 HD 🇫🇷
+http://62.210.137.234:8000/play/a02d/index.m3u8
+
+#EXTINF:-1,beIN Sports Max 8 HD 🇫🇷
+http://62.210.137.234:8000/play/a02e/index.m3u8
+
+#EXTINF:-1,beIN Sports Max 9 HD 🇫🇷
+http://62.210.137.234:8000/play/a02f/index.m3u8
+
+#EXTINF:-1,beIN Sports Max 10 HD 🇫🇷
+http://62.210.137.234:8000/play/a02g/index.m3u8
+
 #EXTINF:-1, L'EQUIPE 🇫🇷
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49499
 
