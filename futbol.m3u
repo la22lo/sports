@@ -24,6 +24,9 @@ https://d2pwyrb5nekpor.cloudfront.net/hls/ssv/chunks.m3u8
 #EXTINF:-1, S LIVE UEFA 🇬🇧
 http://49.12.208.73:80/live/abr_s-1/live/s-1/chunks.m3u8
 
+#EXTINF:-1, S LIVE UEFA 🇬🇧
+https://67873f287b2d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.786628836550.channel.VZRE1s6Ncp8F.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjIgNjozODowOSBQTSZoYXNoX3ZhbHVlPXE2V2toeEUvbDdQT1JhSXdxa2dpNGc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTE5My41Ni4yNTQuOTQmc3RybV9sZW49NQ==
+
 #EXTINF:-1, BT SPORT 2 🇬🇧
 http://d1usk8i9yi9an3.cloudfront.net:80/stream/MzY3Nw==/1080p.m3u8
 
