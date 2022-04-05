@@ -10,7 +10,7 @@ http://135.181.178.91/vmedia_live/1/tracks-v1a1/index.m3u8
 http://135.181.178.91/vmedia_live/2/index.m3u8
 
 #EXTINF:-1, BeinSport Premium 1 🇶🇦
-http://vt.vttpi.com:8000/live/P-957977/P-740465/412.m3u8
+http://51.195.234.238:8080/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,MEGOGO 1 HD 🇺🇦
 http://lb.wisp.cat/lb0/DMEGO1_HD/video.m3u8?token=FREETVUKRAINE
