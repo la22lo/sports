@@ -51,6 +51,9 @@ https://16live00.akamaized.net:443/BTSPORTS3/tracks-v1a1/mono.m3u8
 #EXTINF:-1, POLSAT SPORT 🇵🇱
 https://per@acdn.zhengyaning.com/xoilac/channel-2.m3u8?auth_key=1645859164-0-0-e297e18045e4ff30ab55d343f14b8f42
 
+#EXTINF:-1, BeinSport 4 Live
+http://23.88.116.116/live/abr_s-1/live/s-1/chunks.m3u8
+
 #EXTINF:-1, BeinSport Premium 1 YAYA 🇶🇦
 https://videodelivery.net/b70754d511cffdeecc98f91e1cedae76/manifest/video.m3u8
 
