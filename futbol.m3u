@@ -12,6 +12,15 @@ http://lb.wisp.cat/lb0/DMEGO1_HD/video.m3u8?token=FREETVUKRAINE
 #EXTINF:-1, RMC SPORT 1 HD 🇫🇷
 http://62.210.137.234:8000/play/a01o/index.m3u8
 
+#EXTINF:-1, BeinSport Premium 1 YAYA 🇶🇦
+https://videodelivery.net/b70754d511cffdeecc98f91e1cedae76/manifest/video.m3u8
+
+#EXTINF:-1, BeinSport Premium 1 YAYA 🇶🇦
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/qNzaSLL6yUz1c30byFtc6yi4IaHfTkyfHxqb5ksguMhMQ8ux_ejFD4oQw8JfezIqHDaiIKyc9GF3ewDbrClF4A/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+
+#EXTINF:-1, BeinSport Premium 2 YAYA 🇶🇦
+http://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/QaTkgXZxfJayZdORMsUReBnIO0RqDu2auveQOMZQsPRCZBysOEJXTKT54bMxsgQbWyLMIDdzOICXjq-LXmFl7A/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+
 #EXTINF:-1, SUPERSPORT TV 🇬🇧
 http://178.218.196.218:8000/play/a00d/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
 
