@@ -267,6 +267,18 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49499
 #EXTINF:-1, CANAL+ SPORT 🇫🇷
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJBqdg7Slp6-qg3BmzZyuLoA/ts
 
+#EXTINF:-1, CANAL+ SPORT 🇫🇷
+http://62.210.137.234:8000/play/a02j/index.m3u8
+
+#EXTINF:-1, CANAL+ ligue 1 🇫🇷
+http://62.210.137.234:8000/play/a02p/index.m3u8
+
+#EXTINF:-1,Eurosport 1 HD 🇫🇷
+http://62.210.137.234:8000/play/a02h/index.m3u8
+
+#EXTINF:-1,Eurosport 2 HD 🇫🇷
+http://62.210.137.234:8000/play/a02i/index.m3u8
+
 #EXTINF:-1, INFOSPORT 🇫🇷
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49496
 
