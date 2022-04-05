@@ -282,6 +282,9 @@ http://62.210.137.234:8000/play/a02i/index.m3u8
 #EXTINF:-1, INFOSPORT 🇫🇷
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49496
 
+#EXTINF:-1, INFOSPORT 🇫🇷
+http://62.210.137.234:8000/play/a02k/index.m3u8
+
 #EXTINF:-1,BEIN SPORT 1 ENGLISH 🇬🇧
 http://vt.vttpi.com:8000/live/P-957977/P-740465/1846.ts
 
