@@ -33,6 +33,9 @@ https://videodelivery.net/b70754d511cffdeecc98f91e1cedae76/manifest/video.m3u8
 #EXTINF:-1, BeinSport Premium 1 YAYA 🇶🇦
 https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/qNzaSLL6yUz1c30byFtc6yi4IaHfTkyfHxqb5ksguMhMQ8ux_ejFD4oQw8JfezIqHDaiIKyc9GF3ewDbrClF4A/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
 
+#EXTINF:-1, ESPN VIVO 🇦🇷
+http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
+
 #EXTINF:-1,TNT SPORTS 🇧🇷
 http://phru6b.lkg1fl1pt.com/v3/youshi/m2_hrXYNmAD2GitKZdq5wlHUjJF_480p.m3u8?session_id=0u6G6TOzI6t&user_id=50223834&auth_id=50223834_com.global.brasiltvweb&dev_limit=1&app_id=com.global.brasiltvweb&client_ip=45.165.28.17&app_ver=10101&dev_id=d285706d&rst_status=0&spared_addr=http://vdsx.glletle1.com/v3/youshi/&main_addr=http://phru6b.lkg1fl1pt.com/v3/youshi/&expired=1649196166&token=ED0C8A237A4C15B9303235AF9DAE23AC&media_code=m2_hrXYNmAD2GitKZdq5wlHUjJF_264
 
