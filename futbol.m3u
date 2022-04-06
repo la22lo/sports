@@ -1041,8 +1041,32 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1, TENNIS CHANNEL 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1, HD Arena 1
+http://178.17.19.77:8000/play/a026/index.m3u8
+
+#EXTINF:-1, HD Arena 2
+http://178.17.19.77:8000/play/a027/index.m3u8
+
+#EXTINF:-1, HD Arena 3
+http://178.17.19.77:8000/play/a028/index.m3u8
+
 #EXTINF:-1, HD Arena 4
 http://178.17.19.77:8000/play/a029/index.m3u8
+
+#EXTINF:-1, HD Arena 5
+http://178.17.19.77:8000/play/a02a/index.m3u8
+
+#EXTINF:-1, HD Arena 7
+http://178.17.19.77:8000/play/a02l/index.m3u8
+
+#EXTINF:-1, HD Arena 1 Premium
+http://178.17.19.77:8000/play/a02h/index.m3u8
+
+#EXTINF:-1, HD Arena 2 Premium
+http://178.17.19.77:8000/play/a02i/index.m3u8
+
+#EXTINF:-1, HD Arena 3 Premium
+http://178.17.19.77:8000/play/a02j/index.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
