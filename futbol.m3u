@@ -957,5 +957,20 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1, TENNIS CHANNEL 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1,Diema
+http://87.246.54.125:4022/udp/239.1.1.144:4000
+
+#EXTINF:-1,Diema Sport 2 HD
+http://87.246.54.125:4022/udp/239.1.1.88:4000
+
+#EXTINF:-1,Nova Sport
+http://87.246.54.125:4022/udp/239.1.1.147:4000
+
+#EXTINF:-1,MAX Sport 1
+http://87.246.54.125:4022/udp/239.1.3.21:4000
+
+#EXTINF:-1,MAX Sport 2
+http://87.246.54.125:4022/udp/239.1.3.31:4000
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
