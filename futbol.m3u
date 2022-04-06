@@ -54,6 +54,9 @@ https://fbabbf52069f.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.
 #EXTINF:-1, BT SPORT 3 🇬🇧
 https://sbn@16live00.akamaized.net:443/BTSPORTS3/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, SUPERSPORT CHAMPIONS 🇬🇧
+https://d2pwyrb5nekpor.cloudfront.net:443/hls/ssv/chunks.m3u8
+
 #EXTINF:-1, BT SPORT 3 🇬🇧
 https://16live00.akamaized.net:443/BTSPORTS3/tracks-v1a1/mono.m3u8
 
