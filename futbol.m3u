@@ -1023,5 +1023,14 @@ http://45.14.38.5:8000/play/a01h/index.m3u8
 #EXTINF:-1,Sky Sport Austria 1 HD
 http://45.14.38.5:8000/play/a05x/index.m3u8
 
+#EXTINF:-1,058-Матч Футбол 1
+http://212.73.81.228:9004/play/footbol1/index.m3u8
+
+#EXTINF:-1,059-Матч Футбол 2
+http://212.73.81.228:9004/play/footbol2/index.m3u8
+
+#EXTINF:-1,060-Матч Футбол 3
+http://212.73.81.228:9004/play/footbol3/index.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
