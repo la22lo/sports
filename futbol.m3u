@@ -129,6 +129,21 @@ http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJPAjWOIDxuxDjnIofO3MYFA/ts
 #EXTINF:-1, ESPN VIVO 🇦🇷
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 
+#EXTINF:-1,ESPN 🇦🇷
+http://45.71.185.142:8500/play/a01e
+
+#EXTINF:-1,ESPN 2 🇦🇷
+http://45.71.185.142:8500/play/a015
+
+#EXTINF:-1,Fox Sports 1 🇦🇷
+http://45.71.185.142:8500/play/a021
+
+#EXTINF:-1,Fox Sports 2 🇦🇷
+http://45.71.185.142:8500/play/a01n
+
+#EXTINF:-1,Fox Sports 3 🇦🇷
+http://45.71.185.142:8500/play/a01o
+
 #EXTINF:-1, TNT SPORTS 🇦🇷
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
@@ -627,6 +642,15 @@ http://persik.by/stream/7504/377885/10218.m3u8
 #EXTINF:-1, Футбол 🇷🇺
 http://80.237.96.66:9090/stream/channelid/179317365?ticket=DA8EC54EEBE7A94F39F16B645F93F14F2B1AFA9F&profile=pass
 
+#EXTINF:-1, Футбол 1 🇷🇺
+http://212.73.81.228:9004/play/footbol1/index.m3u8
+
+#EXTINF:-1, Футбол 2 🇷🇺
+http://212.73.81.228:9004/play/footbol2/index.m3u8
+
+#EXTINF:-1, Футбол 3 🇷🇺
+http://212.73.81.228:9004/play/footbol3/index.m3u8
+
 #EXTINF:-1,MEGOGO 1 HD 🇺🇦
 http://lb.wisp.cat/lb0/DMEGO1_HD/video.m3u8?token=FREETVUKRAINE
 
@@ -813,6 +837,9 @@ http://iptv.tvfix.org/hls/starsports.m3u8
 #EXTINF:-1, STADIUM 🇧🇷
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
 
+#EXTINF:-1,GOL TV
+http://45.71.185.142:8500/play/a03b
+
 #EXTINF:-1, SKY SPORTS 24 🇮🇹
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 
@@ -839,6 +866,9 @@ http://ott-cdn.ucom.am/s4/04.m3u8
 
 #EXTINF:-1, PREMIUM ARMENIA TV 🇦🇲
 http://ott-cdn.ucom.am/s83/03.m3u8
+
+#EXTINF:-1,Iraqia Sport HD
+http://45.94.31.203:7002/play/a0gu
 
 #EXTINF:-1, DUBAI SPORTS 🇸🇦
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
@@ -995,42 +1025,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1, TENNIS CHANNEL 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,Iraqia Sport HD
-http://45.94.31.203:7002/play/a0gu
-
-#EXTINF:-1,ESPN
-http://45.71.185.142:8500/play/a01e
-
-#EXTINF:-1,ESPN 2
-http://45.71.185.142:8500/play/a015
-
-#EXTINF:-1,Fox Sports 1
-http://45.71.185.142:8500/play/a021
-
-#EXTINF:-1,Fox Sports 2
-http://45.71.185.142:8500/play/a01n
-
-#EXTINF:-1,Fox Sports 3
-http://45.71.185.142:8500/play/a01o
-
-#EXTINF:-1,GOL TV
-http://45.71.185.142:8500/play/a03b
-
-#EXTINF:-1,ORF SPORT+ HD
-http://45.14.38.5:8000/play/a01h/index.m3u8
-
-#EXTINF:-1,Sky Sport Austria 1 HD
-http://45.14.38.5:8000/play/a05x/index.m3u8
-
-#EXTINF:-1,058-Матч Футбол 1
-http://212.73.81.228:9004/play/footbol1/index.m3u8
-
-#EXTINF:-1,059-Матч Футбол 2
-http://212.73.81.228:9004/play/footbol2/index.m3u8
-
-#EXTINF:-1,060-Матч Футбол 3
-http://212.73.81.228:9004/play/footbol3/index.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
