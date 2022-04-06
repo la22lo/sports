@@ -468,6 +468,18 @@ http://87.246.54.125:4022/udp/239.1.3.37:4000
 #EXTINF:-1,Arena 5 HD 🇷🇸
 http://87.246.54.125:4022/udp/239.1.3.76:4000
 
+#EXTINF:-1,Arena Sport 3 HD 🇷🇸
+http://185.205.201.101:8024/play/a05m
+
+#EXTINF:-1,SportKlub 2 HD 🇷🇸
+http://185.205.201.101:8024/play/a05k
+
+#EXTINF:-1,SportKlub 3 HD 🇷🇸
+http://185.205.201.101:8024/play/a05l
+
+#EXTINF:-1,SportKlub Start 🇷🇸
+http://185.205.201.101:8024/play/a05o
+
 #EXTINF:-1, SPORT KLUB HD 1 🇷🇸
 http://194.15.225.98:8000/play/a2qu
 
@@ -840,6 +852,9 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
 #EXTINF:-1,GOL TV
 http://45.71.185.142:8500/play/a03b
 
+#EXTINF:-1,Rai Sport + HD 🇮🇹
+http://185.234.217.24:8018/play/a06i
+
 #EXTINF:-1, SKY SPORTS 24 🇮🇹
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 
@@ -1025,48 +1040,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1, TENNIS CHANNEL 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,ESPN
-http://190.2.214.100:9000/play/a01l
-
-#EXTINF:-1,ESPN 2
-http://190.2.214.100:9000/play/a018
-
-#EXTINF:-1,ESPN 2 Latin
-http://190.2.214.100:9000/play/a01k
-
-#EXTINF:-1,ESPN 3
-http://190.2.214.100:9000/play/a02b
-
-#EXTINF:-1,ESPN 4
-http://190.2.214.100:9000/play/a01z
-
-#EXTINF:-1,ESPN 4 HD
-http://190.2.214.100:9000/play/a03e
-
-#EXTINF:-1,ESPN EXTRA HD
-http://190.2.214.100:9000/play/a02v
-
-#EXTINF:-1,ESPN HD
-http://190.2.214.100:9000/play/a03i
-
-#EXTINF:-1,Rai Sport + HD
-http://185.234.217.24:8018/play/a06i
-
-#EXTINF:-1,Arena Sport 3 HD.
-http://185.205.201.101:8024/play/a05m
-
-#EXTINF:-1,Arena 4 HD.
-http://185.205.201.101:8024/play/a05p
-
-EXTINF:-1,SportKlub 2 HD.
-http://185.205.201.101:8024/play/a05k
-
-#EXTINF:-1,SportKlub 3 HD.
-http://185.205.201.101:8024/play/a05l
-
-#EXTINF:-1,SportKlub Start.
-http://185.205.201.101:8024/play/a05o
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
