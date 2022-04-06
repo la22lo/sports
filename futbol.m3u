@@ -19,22 +19,7 @@ http://lb.wisp.cat/lb0/DMEGO1_HD/video.m3u8?token=FREETVUKRAINE
 http://62.210.137.234:8000/play/a01o/index.m3u8
 
 #EXTINF:-1, S LIVE UEFA 🇬🇧
-https://d2pwyrb5nekpor.cloudfront.net/hls/ssv/chunks.m3u8
-
-#EXTINF:-1, S LIVE UEFA 🇬🇧
 http://49.12.208.73:80/live/abr_s-1/live/s-1/chunks.m3u8
-
-#EXTINF:-1, S LIVE UEFA 🇬🇧
-https://67873f287b2d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.786628836550.channel.VZRE1s6Ncp8F.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjIgNjozODowOSBQTSZoYXNoX3ZhbHVlPXE2V2toeEUvbDdQT1JhSXdxa2dpNGc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTE5My41Ni4yNTQuOTQmc3RybV9sZW49NQ==
-
-#EXTINF:-1, BT SPORT 2 🇬🇧
-http://d1usk8i9yi9an3.cloudfront.net:80/stream/MzY3Nw==/1080p.m3u8
-
-#EXTINF:-1, BT SPORT 2 🇬🇧
-https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/qL_-Kk_D0E_aVt2wJqp_eB9ZNbHmdDLM4CzZKGJmECJdZlEe4h_M3wgfc_Al6DIz_Sur-rTFRAC7E4weO1V7rQ/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1, BT SPORT 2 🇬🇧
-https://ppv.gcdn.co/FOOT2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, BT SPORT 2 🇬🇧
 https://16live00.akamaized.net:443/BTSPORTS2/tracks-v1a1/mono.m3u8
@@ -48,32 +33,8 @@ https://sbn@16live00.akamaized.net:443/BTSPORTS3/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BT SPORT 3 🇬🇧
 https://16live00.akamaized.net:443/BTSPORTS3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, POLSAT SPORT 🇵🇱
-https://per@acdn.zhengyaning.com/xoilac/channel-2.m3u8?auth_key=1645859164-0-0-e297e18045e4ff30ab55d343f14b8f42
-
 #EXTINF:-1, BeinSport 4 Live
 http://23.88.116.116/live/abr_s-1/live/s-1/chunks.m3u8
-
-#EXTINF:-1, BeinSport Premium 1 YAYA 🇶🇦
-https://videodelivery.net/b70754d511cffdeecc98f91e1cedae76/manifest/video.m3u8
-
-#EXTINF:-1, BeinSport Premium 1 YAYA 🇶🇦
-https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/qNzaSLL6yUz1c30byFtc6yi4IaHfTkyfHxqb5ksguMhMQ8ux_ejFD4oQw8JfezIqHDaiIKyc9GF3ewDbrClF4A/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1, ESPN VIVO 🇦🇷
-http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
-
-#EXTINF:-1,TNT SPORTS 🇧🇷
-http://phru6b.lkg1fl1pt.com/v3/youshi/m2_hrXYNmAD2GitKZdq5wlHUjJF_480p.m3u8?session_id=0u6G6TOzI6t&user_id=50223834&auth_id=50223834_com.global.brasiltvweb&dev_limit=1&app_id=com.global.brasiltvweb&client_ip=45.165.28.17&app_ver=10101&dev_id=d285706d&rst_status=0&spared_addr=http://vdsx.glletle1.com/v3/youshi/&main_addr=http://phru6b.lkg1fl1pt.com/v3/youshi/&expired=1649196166&token=ED0C8A237A4C15B9303235AF9DAE23AC&media_code=m2_hrXYNmAD2GitKZdq5wlHUjJF_264
-
-#EXTINF:-1, BeinSport Premium 2 YAYA 🇶🇦
-http://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/QaTkgXZxfJayZdORMsUReBnIO0RqDu2auveQOMZQsPRCZBysOEJXTKT54bMxsgQbWyLMIDdzOICXjq-LXmFl7A/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1, S LIVE CHAMPIONS 🇬🇧
-https://d2pwyrb5nekpor.cloudfront.net:443/hls/ssp/chunks.m3u8
-
-#EXTINF:-1, S LIVE CHAMPIONS 🇬🇧
-https://d2pwyrb5nekpor.cloudfront.net/hls/ssp/chunks.m3u8
 
 #EXTINF:-1, SUPERSPORT TV 🇬🇧
 http://178.218.196.218:8000/play/a00d/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
