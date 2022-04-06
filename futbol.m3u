@@ -27,9 +27,6 @@ http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
 #EXTINF:-1,RTSH SPORT 🇦🇱
 http://185.204.32.4:9981/stream/channelid/1261192802?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
 
-#EXTINF:-1, S LIVE UEFA 🇬🇧
-http://49.12.208.73:80/live/abr_s-1/live/s-1/chunks.m3u8
-
 #EXTINF:-1, BT SPORT 2 🇬🇧
 https://16live00.akamaized.net:443/BTSPORTS2/tracks-v1a1/mono.m3u8
 
@@ -44,6 +41,9 @@ https://16live00.akamaized.net:443/BTSPORTS3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, BeinSport 4 Live
 http://23.88.116.116/live/abr_s-1/live/s-1/chunks.m3u8
+
+#EXTINF:-1, S LIVE UEFA 🇬🇧
+http://49.12.208.73:80/live/abr_s-1/live/s-1/chunks.m3u8
 
 #EXTINF:-1, SUPERSPORT TV 🇬🇧
 http://178.218.196.218:8000/play/a00d/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
