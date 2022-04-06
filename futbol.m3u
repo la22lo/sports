@@ -1053,5 +1053,20 @@ http://190.2.214.100:9000/play/a03i
 #EXTINF:-1,Rai Sport + HD
 http://185.234.217.24:8018/play/a06i
 
+#EXTINF:-1,Arena Sport 3 HD.
+http://185.205.201.101:8024/play/a05m
+
+#EXTINF:-1,Arena 4 HD.
+http://185.205.201.101:8024/play/a05p
+
+EXTINF:-1,SportKlub 2 HD.
+http://185.205.201.101:8024/play/a05k
+
+#EXTINF:-1,SportKlub 3 HD.
+http://185.205.201.101:8024/play/a05l
+
+#EXTINF:-1,SportKlub Start.
+http://185.205.201.101:8024/play/a05o
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
