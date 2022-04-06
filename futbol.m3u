@@ -33,6 +33,9 @@ https://fbabbf52069f.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.
 #EXTINF:-1, BT SPORT 2 🇬🇧
 http://d13z1lqpfq29ov.cloudfront.net:80/stream/MzY5NA==/1080p.m3u8
 
+#EXTINF:-1, CHAMPIONS
+http://212.71.238.241/live/abr_s-1/live/s-1/chunks.m3u8
+
 #EXTINF:-1,HRT2 🇭🇷
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
 
