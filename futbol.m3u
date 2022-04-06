@@ -1050,5 +1050,8 @@ http://190.2.214.100:9000/play/a02v
 #EXTINF:-1,ESPN HD
 http://190.2.214.100:9000/play/a03i
 
+#EXTINF:-1,Rai Sport + HD
+http://185.234.217.24:8018/play/a06i
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
