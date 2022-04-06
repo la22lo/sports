@@ -534,9 +534,6 @@ http://185.204.32.4:9981/stream/channelid/577840136
 #EXTINF:-1, EUROSPORT 2 🇬🇧
 http://212.102.60.80/Eurosport2/index.m3u8
 
-#EXTINF:-1, FLOW SPORTS 1 🇬🇧
-http://38.127.211.18/live/c2eds/FlowSports1/HLS/index.m3u8
-
 #EXTINF:-1, RUSH HD 🇬🇧
 http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
 
@@ -686,12 +683,6 @@ http://149.62.183.208:8000/play/a0bs/index.m3u8
 
 #EXTINF:-1, Nova Sport 2 HD 🇬🇷
 http://149.62.183.208:8000/play/a0ei/index.m3u8
-
-#EXTINF:-1, CHAMPIONS 1 🇲🇾
-http://15.235.142.241:8080/hometv/premium/8063
-
-#EXTINF:-1, CHAMPIONS 2 🇲🇾
-http://15.235.142.241:8080/hometv/premium/8064
 
 #EXTINF:-1, Astro Super Sport 1 🇲🇾
 http://203.154.243.89:21201/nakhon
