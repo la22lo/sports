@@ -345,14 +345,14 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49496
 #EXTINF:-1, INFOSPORT 🇫🇷
 http://62.210.137.234:8000/play/a02k/index.m3u8
 
-#EXTINF:-1,BEIN SPORT 1 ENGLISH 🇬🇧
-http://vt.vttpi.com:8000/live/P-957977/P-740465/1846.ts
+#EXTINF:-1, BEIN SPORT 1 ENGLISH 🇬🇧
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 
-#EXTINF:-1,BEIN SPORT 2 ENGLISH 🇬🇧
-http://vt.vttpi.com:8000/live/P-957977/P-740465/1847.ts
+#EXTINF:-1, BEIN SPORT 2 ENGLISH 🇬🇧
+http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
 
-#EXTINF:-1,BEIN SPORT 3 ENGLISH 🇬🇧
-http://vt.vttpi.com:8000/live/P-957977/P-740465/1848.ts
+#EXTINF:-1, BEIN SPORT 3 ENGLISH 🇬🇧
+http://125.209.88.166:45793/BRN/beINSP13.stream/playlist.m3u8
 
 #EXTINF:-1, BT SPORT 1 🇬🇧
 http://93.152.174.144:4000/play/btsport1/index.m3u8
@@ -956,15 +956,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1, TENNIS CHANNEL 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1, BEIN SPORT 1 ENGLISH
-http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
-
-#EXTINF:-1, BEIN SPORT 2 ENGLISH
-http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
-
-#EXTINF:-1, BEIN SPORT 3 ENGLISH
-http://125.209.88.166:45793/BRN/beINSP13.stream/playlist.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
