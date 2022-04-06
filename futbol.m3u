@@ -957,17 +957,5 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1, TENNIS CHANNEL 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, DIGI Sport 1 RO
-http://stariptv.org:8080/wael2021/123456/56158
-
-#EXTINF:-1, DIGI Sport 2 RO
-http://stariptv.org:8080/wael2021/123456/56145
-
-#EXTINF:-1, DIGI Sport 3 RO
-http://stariptv.org:8080/wael2021/123456/56148
-
-#EXTINF:-1, DIGI Sport 4 RO
-http://stariptv.org:8080/wael2021/123456/56159
-
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
