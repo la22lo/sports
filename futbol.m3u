@@ -996,5 +996,32 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1, TENNIS CHANNEL 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1,Iraqia Sport HD
+http://45.94.31.203:7002/play/a0gu
+
+#EXTINF:-1,ESPN
+http://45.71.185.142:8500/play/a01e
+
+#EXTINF:-1,ESPN 2
+http://45.71.185.142:8500/play/a015
+
+#EXTINF:-1,Fox Sports 1
+http://45.71.185.142:8500/play/a021
+
+#EXTINF:-1,Fox Sports 2
+http://45.71.185.142:8500/play/a01n
+
+#EXTINF:-1,Fox Sports 3
+http://45.71.185.142:8500/play/a01o
+
+#EXTINF:-1,GOL TV
+http://45.71.185.142:8500/play/a03b
+
+#EXTINF:-1,ORF SPORT+ HD
+http://45.14.38.5:8000/play/a01h/index.m3u8
+
+#EXTINF:-1,Sky Sport Austria 1 HD
+http://45.14.38.5:8000/play/a05x/index.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
