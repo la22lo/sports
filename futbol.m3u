@@ -1041,23 +1041,17 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1, TENNIS CHANNEL 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,M+ LaLiga 1 HD
-http://103.161.34.64:8001/play/a024
+#EXTINF:-1, Digi Sport 1 HD
+http://86.123.169.234:9000/play/a0ia
 
-#EXTINF:-1,M+ LaLiga HD
-http://103.161.34.64:8001/play/a039
+#EXTINF:-1, Digi Sport 2 HD
+http://86.123.169.234:9000/play/a0ib
 
-#EXTINF:-1,M+ LaLiga 1
-http://103.161.34.64:8001/play/a02v
+#EXTINF:-1, Ziggo Sport Select HD
+http://86.123.169.234:9000/play/a0bv
 
-#EXTINF:-1,M+ LaLiga 1
-http://103.161.34.64:8001/play/a02v
-
-#EXTINF:-1,M+ LaLiga 1 HD
-http://103.161.34.64:8001/play/a024
-
-#EXTINF:-1,M+ #VAMOSHD
-http://103.161.34.64:8001/play/a035
+#EXTINF:-1, Ziggo Sport Voetbal
+http://86.123.169.234:9000/play/a0bp
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
