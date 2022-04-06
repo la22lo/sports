@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,ELEVEN SPORT 2 🇵🇹
-http://213.13.23.132/shls/LIVE%24Eleven_Sports_2_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+#EXTINF:-1,ELEVEN SPORT 1 🇵🇹
+http://213.13.23.132/shls/LIVE%24Eleven_Sports_1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
 #EXTINF:-1, VIVARO_SPORTS_HD 🇦🇲
 http://135.181.178.91/vmedia_live/1/tracks-v1a1/index.m3u8
