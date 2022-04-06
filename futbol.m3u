@@ -1071,5 +1071,11 @@ http://178.17.19.77:8000/play/a02j/index.m3u8
 #EXTINF:-1, SPORTS
 http://14.199.164.20:4001/play/a0iv/index.m3u8
 
+#EXTINF:-1,LaLiga HD
+http://103.239.255.212:8000/play/a034/index.m3u8
+
+#EXTINF:-1,One Sports Dialog
+http://103.239.255.212:8000/play/a02f/index.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
