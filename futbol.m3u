@@ -3,6 +3,9 @@
 #EXTINF:-1, AO VIVO 🇦🇷
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
 
+#EXTINF:-1, TV MAX 🇦🇷
+https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/playlist_dvr.m3u8
+
 #EXTINF:-1,ELEVEN SPORT 1 🇵🇹
 http://213.13.23.132/shls/LIVE%24Eleven_Sports_1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
