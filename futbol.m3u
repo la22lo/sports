@@ -21,6 +21,12 @@ https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/WBhfaat5qmVZmhslRDJFh
 #EXTINF:-1,MEGOGO 1 HD 🇺🇦
 http://lb.wisp.cat/lb0/DMEGO1_HD/video.m3u8?token=FREETVUKRAINE
 
+#EXTINF:-1, SUPER SPORT CHAMPIONS 🇬🇧
+http://212.71.238.241:80/live/abr_s-1/live/s-1/chunks.m3u8
+
+#EXTINF:-1, BT SPORT 2 🇬🇧
+https://fbabbf52069f.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.303838583901.channel.nIRjBLsyLXEI.m3u8
+
 #EXTINF:-1,HRT2 🇭🇷
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
 
