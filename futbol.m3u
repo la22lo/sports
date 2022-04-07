@@ -12,15 +12,6 @@ http://51.195.234.238:8080/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Bein YAYA Premium 1 🇶🇦
 https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/WBhfaat5qmVZmhslRDJFhHorLdbIqQyjnBcDvCaVBizsu6PxQa0LwGg8NznuRGsf0nwESrKXwpxIpCiOOkX-RA/non_transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/dynamic_highlatency.m3u8
 
-#EXTINF:-1,HRT2 🇭🇷
-http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
-
-#EXTINF:-1, RMC SPORT 1 HD 🇫🇷
-http://62.210.137.234:8000/play/a01o/index.m3u8
-
-#EXTINF:-1,RTSH SPORT 🇦🇱
-http://185.204.32.4:9981/stream/channelid/1261192802?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-
 #EXTINF:-1, BT SPORT 3 🇬🇧
 https://sbn@16live00.akamaized.net:443/BTSPORTS3/tracks-v1a1/mono.m3u8
 
