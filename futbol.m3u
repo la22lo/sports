@@ -9,9 +9,6 @@ http://213.13.23.132/shls/LIVE%24Eleven_Sports_2_HD.CVL/index.m3u8?device=ANDROI
 #EXTINF:-1,Sport TV2 🇵🇹
 http://213.13.23.132/shls/LIVE%24SPORTTV2.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
-#EXTINF:-1, RMC SPORT 2 HD 🇫🇷
-http://45.153.32.69:8888/30/index.m3u8
-
 #EXTINF:-1, SUPER SPORT 2 🇦🇱
 http://62.210.170.186:8080/live/TVSHQIP/FAKTESHQIP/53.ts
 
