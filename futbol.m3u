@@ -3,15 +3,6 @@
 #EXTINF:-1, BeinSport Premium 1 🇶🇦
 http://51.195.234.238:8080/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, SUPERSPORT CHAMPIONS 🇬🇧
-https://d2pwyrb5nekpor.cloudfront.net:443/hls/ssv/chunks.m3u8
-
-#EXTINF:-1, SUPERSPORT CHAMPIONS 🇬🇧
-http://173.255.236.49:80/live/abr_s-2/live/s-2/chunks.m3u8
-
-#EXTINF:-1, BeinSport 2 YAYA 🇶🇦
-https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/kFBU30skLVVKc0FaAQGTpmRkptZzIS6nKFg2olRPCfUxRYEy5wpbmvFPWQYNgBR682KgS2GnC1gPFLh6EsZqAw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/dynamic_highlatency.m3u8
-
 #EXTINF:-1, SUPERSPORT TV 🇬🇧
 http://178.218.196.218:8000/play/a00d/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
 
