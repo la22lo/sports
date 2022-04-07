@@ -12,9 +12,6 @@ http://213.13.23.132/shls/LIVE%24SPORTTV2.CVL/index.m3u8?device=ANDROID_Live&sta
 #EXTINF:-1,Sport TV2 HD 🇵🇹
 http://213.13.23.132/shls/LIVE%24SPORTTV2_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
-#EXTINF:-1,ELEVEN SPORT 2 🇵🇹
-http://213.13.23.132/shls/LIVE%24Eleven_Sports_2_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
 #EXTINF:-1, S LIVE 🇬🇧
 http://dis5fdyevdl5h.cloudfront.net:80/stream/MzcwNw==/1080p.m3u8
 
