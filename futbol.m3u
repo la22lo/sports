@@ -12,6 +12,9 @@ http://213.13.23.132/shls/LIVE%24SPORTTV2.CVL/index.m3u8?device=ANDROID_Live&sta
 #EXTINF:-1, BeinSport Premium 1 🇶🇦
 http://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/0rE63jK5eArRqr4H2ppRiA9mxHdOpwIij2BFfca-DUDKA2JyjcOlDQfCe4neJQxP2T_KZ6vbXV_eWK_XQWHWtw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8
 
+#EXTINF:-1, MATH 🇷🇺
+https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
+
 #EXTINF:-1,Arena 3 HR 🇭🇷
 http://213.186.23.21:8000/Arena%203%20HR?u=00:1A:79:2A:E9:66:p=001A792AE966
 
