@@ -21,6 +21,9 @@ http://213.186.23.21:8000/Arena%203%20HR?u=00:1A:79:2A:E9:66:p=001A792AE966
 #EXTINF:-1, SUPER SPORT 2 🇦🇱
 http://62.210.170.186:8080/live/TVSHQIP/FAKTESHQIP/53.ts
 
+#EXTINF:-1, Pro Arena HD
+https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/gckwapvVElJmbCKougaBcA==,1649356458/channels/cme-ro-prox/playlist.m3u8
+
 #EXTINF:-1, SUPERSPORT TV 🇬🇧
 http://178.218.196.218:8000/play/a00d/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
 
