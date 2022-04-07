@@ -9,6 +9,9 @@ https://5g9s179kfgx9wn8tqwj9-cul47i-edc.p5cdn.com/dlive/transcode-84-72/wefwfw/1
 #EXTINF:-1,Sport TV2 🇵🇹
 http://213.13.23.132/shls/LIVE%24SPORTTV2.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
+#EXTINF:-1,Sport TV2 HD 🇵🇹
+http://213.13.23.132/shls/LIVE%24SPORTTV2_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+
 #EXTINF:-1,ELEVEN SPORT 2 🇵🇹
 http://213.13.23.132/shls/LIVE%24Eleven_Sports_2_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
