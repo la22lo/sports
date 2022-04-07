@@ -3,18 +3,6 @@
 #EXTINF:-1, BeinSport Premium 1 🇶🇦
 http://51.195.234.238:8080/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, Bein YAYA Premium 1 🇶🇦
-https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/WBhfaat5qmVZmhslRDJFhHorLdbIqQyjnBcDvCaVBizsu6PxQa0LwGg8NznuRGsf0nwESrKXwpxIpCiOOkX-RA/non_transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/dynamic_highlatency.m3u8
-
-#EXTINF:-1, BT SPORT 3 🇬🇧
-https://sbn@16live00.akamaized.net:443/BTSPORTS3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, BT SPORT 3 🇬🇧
-https://16live00.akamaized.net:443/BTSPORTS3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, BT SPORT 3 🇬🇧
-https://3f02a01aba16.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.303838583901.channel.3DxwrW3edoOv.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czpldS1jZW50cmFsLTE6MzAzODM4NTgzOTAxOmNoYW5uZWwvM0R4d3JXM2Vkb092IiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHA6Ly93d3cuc3BvcnRuZXdzLnRvIiwiaWF0IjoxNjQ5MjY2MTgzLCJleHAiOjE2NDkzNTI1ODN9.qj2knSLBEnrYj8G6NwpCte6dE8vHT4k2S_iYRaIYdUtmcSzYciMII_9roxqYLAZ2iohFB8KotWpPoWFyDVtt9oSBPvgmH31Kjpa0mU7fmcZK8a3HBIa8N415WjBTbLSO
-
 #EXTINF:-1, SUPERSPORT CHAMPIONS 🇬🇧
 https://d2pwyrb5nekpor.cloudfront.net:443/hls/ssv/chunks.m3u8
 
@@ -365,6 +353,12 @@ https://16live00.akamaized.net:443/BTSPORTS2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, BT SPORT 3 🇬🇧
 http://93.152.174.144:4000/play/btsport3/index.m3u8
+
+#EXTINF:-1, BT SPORT 3 🇬🇧
+https://sbn@16live00.akamaized.net:443/BTSPORTS3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, BT SPORT 3 🇬🇧
+https://16live00.akamaized.net:443/BTSPORTS3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, BT SPORT ESPNHD 🇬🇧
 http://45.153.35.224:8000/play/a008
