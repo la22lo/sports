@@ -3,6 +3,9 @@
 #EXTINF:-1, MOVISTAR liga campeones 🇪🇸
 http://5.161.63.200/xls/campin/index.m3u8
 
+#EXTINF:-1, ESPORT CAT 🇪🇸
+https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/.m3u8
+
 #EXTINF:-1, BeinSport Premium 1 🇶🇦
 http://51.195.234.238:8080/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8
 
