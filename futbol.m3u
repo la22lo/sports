@@ -75,6 +75,12 @@ http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJOM9-HqsaWnxwL_OyUXGh1I/ts
 #EXTINF:-1, VAMOS 🇪🇸
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJPAjWOIDxuxDjnIofO3MYFA/ts
 
+#EXTINF:-1, VAMOS 🇪🇸
+http://195.28.180.65:8081/sky/index.m3u8
+
+#EXTINF:-1, VAMOS 🇪🇸
+http://195.28.180.65:8081/sky/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, ESPN VIVO 🇦🇷
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 
