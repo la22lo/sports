@@ -6,15 +6,6 @@ http://51.195.234.238:8080/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ESPN VIVO 🇦🇷
 https://5g9s179kfgx9wn8tqwj9-cul47i-edc.p5cdn.com/dlive/transcode-84-72/wefwfw/1649283727/src/live.m3u8
 
-#EXTINF:-1, S LIVE 🇬🇧
-http://dis5fdyevdl5h.cloudfront.net:80/stream/MzcwNw==/1080p.m3u8
-
-#EXTINF:-1, S LIVE 🇬🇧
-http://d2sy11d747f9rk.cloudfront.net:80/stream/MzcwNw==/1080p.m3u8
-
-#EXTINF:-1, BT SPORT 1 🇬🇧
-http://dis5fdyevdl5h.cloudfront.net:80/stream/MzcwNw==/1080p.m3u8
-
 #EXTINF:-1,Arena 3 HR 🇭🇷
 http://213.186.23.21:8000/Arena%203%20HR?u=00:1A:79:2A:E9:66:p=001A792AE966
 
