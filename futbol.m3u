@@ -255,9 +255,6 @@ http://62.210.137.234:8000/play/a028/index.m3u8
 #EXTINF:-1, beIN Sports 1 French 🇫🇷
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
 
-#EXTINF:-1,BEIN SPORT  1 HD 🇫🇷
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49493
-
 #EXTINF:-1, beIN Sports 2 French 🇫🇷
 http://93.152.174.144:4000/play/bein2fr/index.m3u8
 
@@ -267,38 +264,8 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49494
 #EXTINF:-1 ,BEIN SPORTS 3 FR 🇫🇷
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
 
-#EXTINF:-1,BEIN SPORT 3 HD 🇫🇷
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49495
-
-#EXTINF:-1, RMC SPORT 1 HD 🇫🇷
-http://45.153.32.69:8888/37/index.m3u8
-
-#EXTINF:-1, RMC SPORT 1 HD 🇫🇷
-http://62.210.137.234:8000/play/a01o/index.m3u8
-
-#EXTINF:-1, RMC SPORT 2 HD 🇫🇷
-http://45.153.32.69:8888/30/index.m3u8
-
-#EXTINF:-1,beIN Sports Max 4 HD 🇫🇷
-http://62.210.137.234:8000/play/a02a/index.m3u8
-
-#EXTINF:-1,beIN Sports Max 5 HD 🇫🇷
-http://62.210.137.234:8000/play/a02b/index.m3u8
-
-#EXTINF:-1,beIN Sports Max 6 HD 🇫🇷
-http://62.210.137.234:8000/play/a02c/index.m3u8
-
 #EXTINF:-1,beIN Sports Max 7 HD 🇫🇷
 http://62.210.137.234:8000/play/a02d/index.m3u8
-
-#EXTINF:-1,beIN Sports Max 8 HD 🇫🇷
-http://62.210.137.234:8000/play/a02e/index.m3u8
-
-#EXTINF:-1,beIN Sports Max 9 HD 🇫🇷
-http://62.210.137.234:8000/play/a02f/index.m3u8
-
-#EXTINF:-1,beIN Sports Max 10 HD 🇫🇷
-http://62.210.137.234:8000/play/a02g/index.m3u8
 
 #EXTINF:-1, L'EQUIPE 🇫🇷
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49499
