@@ -267,12 +267,6 @@ http://93.152.174.144:4000/play/bein3fr/index.m3u8
 #EXTINF:-1,beIN Sports Max 7 HD 🇫🇷
 http://62.210.137.234:8000/play/a02d/index.m3u8
 
-#EXTINF:-1, L'EQUIPE 🇫🇷
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49499
-
-#EXTINF:-1, L'EQUIPE 🇫🇷
-http://62.210.137.234:8000/play/a02m/index.m3u8
-
 #EXTINF:-1, CANAL+ SPORT 🇫🇷
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJBqdg7Slp6-qg3BmzZyuLoA/ts
 
@@ -287,9 +281,6 @@ http://62.210.137.234:8000/play/a02h/index.m3u8
 
 #EXTINF:-1,Eurosport 2 HD 🇫🇷
 http://62.210.137.234:8000/play/a02i/index.m3u8
-
-#EXTINF:-1, INFOSPORT 🇫🇷
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49496
 
 #EXTINF:-1, INFOSPORT 🇫🇷
 http://62.210.137.234:8000/play/a02k/index.m3u8
@@ -336,18 +327,6 @@ http://141.95.206.174:8080/ar-s/bein-afc-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, beIN Sports AFC 3 🇸🇦
 http://141.95.206.174:8080/ar-s/bein-afc-3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, SUPER SPORT 1 🇦🇱
-http://62.210.170.186:8080/live/TVSHQIP/FAKTESHQIP/52.ts
-
-#EXTINF:-1, SUPER SPORT 2 🇦🇱
-http://62.210.170.186:8080/live/TVSHQIP/FAKTESHQIP/53.ts
-
-#EXTINF:-1, SUPER SPORT 3 🇦🇱
-http://62.210.170.186:8080/live/TVSHQIP/FAKTESHQIP/54.ts
-
-#EXTINF:-1, SUPER SPORT 4 🇦🇱
-http://62.210.170.186:8080/live/TVSHQIP/FAKTESHQIP/55.ts
-
 #EXTINF:-1, ESPN USA 🇺🇸
 http://69.164.224.53:80/ESPN/mpegts
 
@@ -356,33 +335,6 @@ http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8
 
 #EXTINF:-1, ESPN 2 USA 🇺🇸
 http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8
-
-#EXTINF:-1, VIVARO_SPORTS_HD 🇦🇲
-http://135.181.178.91/vmedia_live/1/mono.m3u8?shareext.ts
-
-#EXTINF:-1, VIVARO_SPORTS_HD 🇦🇲
-http://135.181.178.91/vmedia_live/1/tracks-v1a1/index.m3u8
-
-#EXTINF:-1, VIVARO_SPORTS_HD 🇦🇲
-http://135.181.178.91/vmedia_live/1/index.m3u8
-
-#EXTINF:-1, VIVARO_SPORTS+_HD 🇦🇲
-http://135.181.178.91/vmedia_live/2/mono.m3u8?shareext.ts
-
-#EXTINF:-1, VIVARO_SPORTS+_HD 🇦🇲
-http://135.181.178.91/vmedia_live/1/tracks-v1a2/index.m3u8
-
-#EXTINF:-1, VIVARO_SPORTS+_HD 🇦🇲
-http://135.181.178.91/vmedia_live/2/index.m3u8
-
-#EXTINF:-1, VIVARO_ARENA_HD 🇦🇲
-http://135.181.178.91/vmedia_live/3/mono.m3u8?shareext.ts
-
-#EXTINF:-1, VIVARO_ARENA_HD 🇦🇲
-http://135.181.178.91/vmedia_live/1/tracks-v1a3/index.m3u8
-
-#EXTINF:-1, VIVARO_ARENA_HD 🇦🇲
-http://135.181.178.91/vmedia_live/3/index.m3u8
 
 #EXTINF:-1, ARENA SPORT 1 PREMIUM 🇷🇸
 http://46.29.169.15:4001/play/a00g/index.m3u8
@@ -395,21 +347,6 @@ http://46.29.169.15:4001/play/a00i/index.m3u8
 
 #EXTINF:-1, ARENA SPORT 1 🇷🇸
 http://46.29.169.15:4001/play/a002/index.m3u8
-
-#EXTINF:-1,Arena 1 HD 🇷🇸
-http://87.246.54.125:4022/udp/239.1.3.34:4000
-
-#EXTINF:-1,Arena 2 HD 🇷🇸
-http://87.246.54.125:4022/udp/239.1.3.35:4000
-
-#EXTINF:-1,Arena 3 HD 🇷🇸
-http://87.246.54.125:4022/udp/239.1.3.36:4000
-
-#EXTINF:-1,Arena 4 HD 🇷🇸
-http://87.246.54.125:4022/udp/239.1.3.37:4000
-
-#EXTINF:-1,Arena 5 HD 🇷🇸
-http://87.246.54.125:4022/udp/239.1.3.76:4000
 
 #EXTINF:-1,Arena Sport 3 HD 🇷🇸
 http://185.205.201.101:8024/play/a05m
