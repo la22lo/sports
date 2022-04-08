@@ -15,6 +15,9 @@ http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 #EXTINF:-1,ELEVEN SPORT 3 🇵🇹
 http://213.13.23.132/shls/LIVE%24Eleven_Sports_3_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
+#EXTINF:-1, Free Sport Live LaLiga 🇬🇧
+http://d28c1d458041.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.303903229440.channel.Zt0Ys9ruaoFz.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czpldS1jZW50cmFsLTE6MzAzOTAzMjI5NDQwOmNoYW5uZWwvWnQwWXM5cnVhb0Z6IiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHA6Ly93d3cuc3BvcnRuZXdzLnRvIiwiaWF0IjoxNjQ5MzY2MjYxLCJleHAiOjE2NDk0NTI2NjF9.5weBLf62sGQ-T_re_Uk2i24cisV1vUsiftyYpQx5xjUV1MqzXpltw0_-gxy9Hhf3Y6qUqadNcKRGWJSjETWgQiUcvhgqQnb8czTlAXZZhk0WhugawJgnbyybVJMLokbK
+
 #EXTINF:-1, LaLigaTV HD 🇬🇧
 http://45.153.35.224:8000/play/a00u
 
