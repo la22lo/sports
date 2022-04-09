@@ -849,6 +849,9 @@ http://203.154.243.89:21204/nakhon
 #EXTINF:-1, Astro Super Sport 4 🇲🇾
 http://203.154.243.89:21204/saraburi1
 
+#EXTINF:-1, TEN SPORTS 🇲🇾
+http://103.24.96.74/stream/ptvsports/playlist.m3u8
+
 #EXTINF:-1, CCTV5 🇨🇳
 https://playfdcusa.olelive.olevod.tv:6443/tv/cctv5hd/hls.m3u8
 
