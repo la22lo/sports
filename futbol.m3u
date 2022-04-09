@@ -699,6 +699,12 @@ http://iptv.prosto.tv:7000/ch109/video.m3u8
 #EXTINF:-1, KBP SPORT 🇷🇺
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
+#EXTINF:-1,ZIGGO Sport SELECT 🇳🇱
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/1258
+
+#EXTINF:-1,ZIGGO Sport VOETBAL 🇳🇱
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/1259
+
 #EXTINF:-1,VOO Sport World 1 🇧🇪
 https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/21076
 
