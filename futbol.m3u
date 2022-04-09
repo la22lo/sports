@@ -948,6 +948,9 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
 #EXTINF:-1,GOL TV 🇧🇷
 http://45.71.185.142:8500/play/a03b
 
+#EXTINF:-1,TIGO SPORTS 🇧🇴
+http://bgapp.live/play/14-405.php?c=764&token=blccck-gh0ost&f=.m3u8
+
 #EXTINF:-1,Rai Sport + HD 🇮🇹
 http://185.234.217.24:8018/play/a06i
 
