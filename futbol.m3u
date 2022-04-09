@@ -93,8 +93,14 @@ http://195.28.180.65:8081/sky/tracks-v1a1/mono.m3u8
 #EXTINF:-1, DIRECTV SPORT 🇦🇷
 http://bgapp.live/play/14-405.php?c=259&token=blccck-gh0ost&f=.m3u8
 
+#EXTINF:-1, DIRECTV SPORT 🇦🇷
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/382.m3u8
+
 #EXTINF:-1, DIRECTV SPORT 2 🇦🇷
 http://bgapp.live/play/14-405.php?c=667&token=blccck-gh0ost&f=.m3u8
+
+#EXTINF:-1, DIRECTV SPORT 2 🇦🇷
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/383.m3u8
 
 #EXTINF:-1, ESPN 🇦🇷
 http://190.187.200.69:8000/play/a01e
