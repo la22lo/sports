@@ -177,6 +177,18 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1,TYC SPORTS 🇦🇷
 http://190.187.200.69:8000/play/a01g
 
+#EXTINF:-1,ESPN BRASIL 🇧🇷
+http://rec2.distv.net/jorge/102030/537
+
+#EXTINF:-1,ESPN 🇧🇷
+http://rec2.distv.net/jorge/102030/535
+
+#EXTINF:-1,ESPN 3 🇧🇷
+http://rec2.distv.net/jorge/102030/536
+
+#EXTINF:-1,ESPN EXTRA 🇧🇷
+http://rec2.distv.net/jorge/102030/538
+
 #EXTINF:-1, Bein Sports 3 HD 🇶🇦
 http://93.152.174.144:4000/play/bein3ar/index.m3u8
 
