@@ -873,6 +873,9 @@ https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=koceng&channel=spotv
 #EXTINF:-1,SPOTV 2 🇲🇾
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=koceng&channel=spotv2
 
+#EXTINF:-1,SPOTV 🇲🇾
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+
 #EXTINF:-1,TVONE 🇲🇾
 http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
 
