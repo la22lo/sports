@@ -729,8 +729,14 @@ https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/21002
 #EXTINF:-1,SKY SPORT AUSTRIA 🇦🇹
 https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/476
 
+#EXTINF:-1, 1 SPORT HUNGRIA 🇭🇺
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/14115
+
 #EXTINF:-1 ,2 SPORT HUNGRIA 🇭🇺
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
+
+#EXTINF:-1, 2 SPORT 🇨🇿
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/1468
 
 #EXTINF:-1 , LIVE SPORT HD 🇭🇺
 http://195.222.7.26:7001/play/a00t
