@@ -903,6 +903,24 @@ https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/1468
 #EXTINF:-1 , LIVE SPORT HD 🇭🇺
 http://195.222.7.26:7001/play/a00t
 
+#EXTINF:-1, CHAMPIONS TV1 🇲🇾
+http://tvn.x10.bz/TvN_ID/master-6.m3u8
+
+#EXTINF:-1, CHAMPIONS TV1 🇲🇾
+http://begaltvku.site/ventidos/master-6.m3u8
+
+#EXTINF:-1, CHAMPIONS TV2 🇲🇾
+http://tvn.x10.bz/TvN_ID/master-7.m3u8
+
+#EXTINF:-1, CHAMPIONS TV2 🇲🇾
+http://begaltvku.site/ventidos/master-7.m3u8
+
+#EXTINF:-1, CHAMPIONS TV3 🇲🇾
+http://tvn.x10.bz/TvN_ID/master-8.m3u8
+
+#EXTINF:-1, CHAMPIONS TV3 🇲🇾
+http://begaltvku.site/ventidos/master-8.m3u8
+
 #EXTINF:-1,Astro Super Sport 2 🇲🇾
 http://203.154.243.89:21202/nakhon
 
