@@ -288,17 +288,26 @@ http://51.195.234.238:8080/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BeinSport Premium 1 🇶🇦
 http://vt.vttpi.com:8000/live/P-957977/P-740465/412.m3u8
 
+#EXTINF:-1, BeinSport Premium 1 🇶🇦
+http://grl.dream-tv.org:2082/live/ikram_286249/GkYqOAh8/108161.m3u8
+
 #EXTINF:-1, BeinSport Premium 2 🇶🇦
 http://51.195.234.238:8080/ar-s/B-S-pre-2-stop/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, BeinSport Premium 2 🇶🇦
 http://vt.vttpi.com:8000/live/P-957977/P-740465/413.m3u8
 
+#EXTINF:-1, BeinSport Premium 2 🇶🇦
+http://grl.dream-tv.org:2082/live/ikram_286249/GkYqOAh8/2.m3u8
+
 #EXTINF:-1, BeinSport Premium 3 🇶🇦
-http://51.195.234.238:8080/ar-s/B-S-pre-3-stop/tracks-v1a1/mono.m3u8
+http://51.195.234.238:8080/ar-s/B-S-pre-3-stop/tracks-v1a1/
 
 #EXTINF:-1, BeinSport Premium 3 🇶🇦
 http://vt.vttpi.com:8000/live/P-957977/P-740465/414.m3u8
+
+#EXTINF:-1, BeinSport Premium 3 🇶🇦
+http://grl.dream-tv.org:2082/live/ikram_286249/GkYqOAh8/108163.m3u8
 
 #EXTINF:-1,beIN SPORTS EXTRA Ñ 🇪🇸
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
