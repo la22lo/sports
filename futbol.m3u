@@ -82,6 +82,9 @@ http://myott.top/stream/1VGPHYLZTH/235.m3u8
 http://217.174.225.146/hls/ch004_720/index.m3u8
 
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
+http://51.89.143.30:8080/JS7xxR46Vt/bd1qwVHWP7/67167
+
+#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJH9gUYooJbVMF7v-Il8_bps/ts
 
 #EXTINF:-1, LALIGA TV BAR 🇪🇸
@@ -95,6 +98,12 @@ http://51.89.143.30:8080/JS7xxR46Vt/bd1qwVHWP7/8736
 
 #EXTINF:-1, VAMOS 🇪🇸
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJPAjWOIDxuxDjnIofO3MYFA/ts
+
+#EXTINF:-1, MOVISTAR LIGA CAMPEONES 🇪🇸
+http://51.89.143.30:8080/JS7xxR46Vt/bd1qwVHWP7/19732
+
+#EXTINF:-1, MOVISTAR LIGA CAMPEONES 1 🇪🇸
+http://51.89.143.30:8080/JS7xxR46Vt/bd1qwVHWP7/267
 
 #EXTINF:-1, DIRECTV SPORT 🇦🇷
 http://bgapp.live/play/14-405.php?c=259&token=blccck-gh0ost&f=.m3u8
