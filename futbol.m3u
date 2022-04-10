@@ -384,6 +384,15 @@ http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
 #EXTINF:-1, BEIN SPORT 3 ENGLISH 🇬🇧
 http://125.209.88.166:45793/BRN/beINSP13.stream/playlist.m3u8
 
+#EXTINF:-1, BEIN SPORT 1 ENGLISH 🇬🇧
+http://grl.dream-tv.org:2082/live/ikram_286249/GkYqOAh8/151566.m3u8
+
+#EXTINF:-1, BEIN SPORT 2 ENGLISH 🇬🇧
+http://grl.dream-tv.org:2082/live/ikram_286249/GkYqOAh8/151567.m3u8
+
+#EXTINF:-1, BEIN SPORT 3 ENGLISH 🇬🇧
+http://grl.dream-tv.org:2082/live/ikram_286249/GkYqOAh8/151568.m3u8
+
 #EXTINF:-1, BT SPORT 1 🇬🇧
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 
