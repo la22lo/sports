@@ -91,13 +91,10 @@ http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJAt6YMgWhQl3h8tM0SxSoJY/ts
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJOM9-HqsaWnxwL_OyUXGh1I/ts
 
 #EXTINF:-1, VAMOS 🇪🇸
+http://51.89.143.30:8080/JS7xxR46Vt/bd1qwVHWP7/8736
+
+#EXTINF:-1, VAMOS 🇪🇸
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJPAjWOIDxuxDjnIofO3MYFA/ts
-
-#EXTINF:-1, VAMOS 🇪🇸
-http://195.28.180.65:8081/sky/index.m3u8
-
-#EXTINF:-1, VAMOS 🇪🇸
-http://195.28.180.65:8081/sky/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, DIRECTV SPORT 🇦🇷
 http://bgapp.live/play/14-405.php?c=259&token=blccck-gh0ost&f=.m3u8
