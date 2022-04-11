@@ -10,6 +10,9 @@ http://213.13.23.132/shls/LIVE%24Eleven_Sports_1_HD.CVL/index.m3u8?device=ANDROI
 http://161.230.155.157:8000/play/a02u
 
 #EXTINF:-1,beIN Sports 1 SD 🇶🇦
+http://62.210.170.186:8080/live/TVSHQIP/FAKTESHQIP/322.m3u8
+
+#EXTINF:-1,beIN Sports 1 SD 🇶🇦
 http://195.154.200.168:8000/play/a00w/index.m3u8
 
 #EXTINF:-1,MMN SPORT HD 🇮🇶
