@@ -837,6 +837,12 @@ http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1,TVONE 🇲🇾
 http://210.210.155.35/session/f5cd353c-0131-11ec-b286-abca8519aa62/qwr9ew/s/s105/01.m3u8
 
+#EXTINF:-1,S SPORT 🇹🇷
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6825/index.m3u8
+
+#EXTINF:-1,S SPORT 2 🇹🇷
+http://nx4545.xyz:80/live/ademgumus/ademgumus/35.ts
+
 #EXTINF:-1, TVRI SPORT 🇹🇷
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
@@ -848,6 +854,9 @@ https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
 
 #EXTINF:-1, SPORTV TUR 🇹🇷
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
+
+#EXTINF:-1,SPORTS TV 🇹🇷
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #EXTINF:-1, TNT SPORTS 🇧🇷
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
@@ -1112,49 +1121,6 @@ http://alv.encohd.co:39591/live/wdrety/cdew23/529.m3u8
 
 #EXTINF:-1, TENNIS CHANNEL 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,S SPORT
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6825/index.m3u8
-#EXTINF:-1,S SPORT 2
-http://nx4545.xyz:80/live/ademgumus/ademgumus/35.ts
-#EXTINF:-1,SPORTS TV
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1,ESPN
-http://200.4.96.59:8003/play/a02b/index.m3u8
-#EXTINF:-1,ESPN 2
-http://200.4.96.59:8002/play/a0f8/index.m3u8
-#EXTINF:-1,ESPN brasil
-http://200.4.96.59:8003/play/a02a/index.m3u8
-#EXTINF:-1,ESPN extra
-http://200.4.96.59:8002/play/a0d99/index.m3u8
-#EXTINF:-1,Fox Sports
-http://200.4.96.59:8003/play/a031/index.m3u8
-#EXTINF:-1,Fox Sports 2
-http://200.4.96.59:8003/play/a032/index.m3u8
-#EXTINF:-1, beIN Sports English 2 FHD
-http://ns1111.xyz:80/live/aziz22/22aziz/71852.ts
-#EXTINF:-1, beIN Sports English 3 FHD
-http://ns1111.xyz:80/live/aziz22/22aziz/71853.ts
-#EXTINF:-1, beIN Sports FHD
-http://ns1111.xyz:80/live/aziz22/22aziz/71854.ts
-#EXTINF:-1, beIN Sports English 1 HD
-http://ns1111.xyz:80/live/aziz22/22aziz/71855.ts
-#EXTINF:-1, ESPN HD
-http://ns1111.xyz:80/live/aziz22/22aziz/73312.ts
-#EXTINF:-1, ESPN HD
-http://ns1111.xyz:80/live/aziz22/22aziz/73313.ts
-#EXTINF:-1, ESPN 2 HD
-http://ns1111.xyz:80/live/aziz22/22aziz/73306.ts
-#EXTINF:-1, ESPN 2 HD
-http://ns1111.xyz:80/live/aziz22/22aziz/73307.ts
-#EXTINF:-1, ESPN 3 HD
-http://ns1111.xyz:80/live/aziz22/22aziz/73308.ts
-#EXTINF:-1, ESPN 3 HD
-http://ns1111.xyz:80/live/aziz22/22aziz/73309.ts
-#EXTINF:-1, ESPN Extra
-http://ns1111.xyz:80/live/aziz22/22aziz/73310.ts
-#EXTINF:-1, ESPN Extra
-http://ns1111.xyz:80/live/aziz22/22aziz/73311.ts
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
