@@ -405,6 +405,9 @@ https://16live00.akamaized.net:443/BTSPORTS3/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BT SPORT ESPNHD 🇬🇧
 http://45.153.35.224:8000/play/a008
 
+#EXTINF:-1, BT SPORT ESPNHD 🇬🇧
+http://93.152.174.144:4000/play/btsportespn/index.m3u8
+
 #EXTINF:-1, SUPER GRANDSTAND 🇬🇧
 http://178.218.196.218:8000/play/a008/index.m3u8
 
