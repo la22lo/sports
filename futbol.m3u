@@ -1122,5 +1122,18 @@ http://alv.encohd.co:39591/live/wdrety/cdew23/529.m3u8
 #EXTINF:-1, TENNIS CHANNEL 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1, DIRECTV Sports 1
+http://goldiptv.online:8080/mevlut/mevlut123/27538
+#EXTINF:-1, DIRECTV Sports 2
+http://goldiptv.online:8080/mevlut/mevlut123/27537
+#EXTINF:-1, DIRECTV Sports Plus
+http://goldiptv.online:8080/mevlut/mevlut123/27536
+#EXTINF:-1, DIRECTV Sports FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27046
+#EXTINF:-1, DIRECTV Sports 2 HD
+http://goldiptv.online:8080/mevlut/mevlut123/27045
+#EXTINF:-1, DIRECTV Sports Plus
+http://goldiptv.online:8080/mevlut/mevlut123/27044
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
