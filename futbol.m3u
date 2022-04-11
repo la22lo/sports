@@ -732,6 +732,33 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 #EXTINF:-1,CBC Azerbaiyán
 http://185.236.229.31:9981/play/a056
 
+#EXTINF:-1,M4 Sport
+http://live.hutv.me:25461/b8byc4GaNB/f4RwbYi752/26420
+
+#EXTINF:-1,DIGI Sport 1
+http://live.hutv.me:25461/b8byc4GaNB/f4RwbYi752/26426
+
+#EXTINF:-1,DIGI Sport 1 HD
+http://live.hutv.me:25461/b8byc4GaNB/f4RwbYi752/26427
+
+#EXTINF:-1,DIGI Sport 2
+http://live.hutv.me:25461/b8byc4GaNB/f4RwbYi752/26428
+
+#EXTINF:-1,DIGI Sport 2 HD
+http://live.hutv.me:25461/b8byc4GaNB/f4RwbYi752/26429
+
+#EXTINF:-1,DIGI Sport 3
+http://live.hutv.me:25461/b8byc4GaNB/f4RwbYi752/26430
+
+#EXTINF:-1,DIGI Sport 3 HD
+http://live.hutv.me:25461/b8byc4GaNB/f4RwbYi752/26431
+
+#EXTINF:-1,Sport1
+http://live.hutv.me:25461/b8byc4GaNB/f4RwbYi752/26422
+
+#EXTINF:-1,Sport 1 HD
+http://live.hutv.me:25461/b8byc4GaNB/f4RwbYi752/26423
+
 #EXTINF:-1,SPORT DIGITAL LIVE 🇩🇪
 http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/331
 
@@ -1085,29 +1112,6 @@ http://alv.encohd.co:39591/live/wdrety/cdew23/529.m3u8
 
 #EXTINF:-1, TENNIS CHANNEL 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,M4 Sport
-http://live.hutv.me:25461/b8byc4GaNB/f4RwbYi752/26420
-#EXTINF:-1,M4 Sport HD
-http://live.hutv.me:25461/b8byc4GaNB/f4RwbYi752/26421
-#EXTINF:-1,Arena 4 HD
-http://live.hutv.me:25461/b8byc4GaNB/f4RwbYi752/41315
-#EXTINF:-1,DIGI Sport 1
-http://live.hutv.me:25461/b8byc4GaNB/f4RwbYi752/26426
-#EXTINF:-1,DIGI Sport 1 HD
-http://live.hutv.me:25461/b8byc4GaNB/f4RwbYi752/26427
-#EXTINF:-1,DIGI Sport 2
-http://live.hutv.me:25461/b8byc4GaNB/f4RwbYi752/26428
-#EXTINF:-1,DIGI Sport 2 HD
-http://live.hutv.me:25461/b8byc4GaNB/f4RwbYi752/26429
-#EXTINF:-1,DIGI Sport 3
-http://live.hutv.me:25461/b8byc4GaNB/f4RwbYi752/26430
-#EXTINF:-1,DIGI Sport 3 HD
-http://live.hutv.me:25461/b8byc4GaNB/f4RwbYi752/26431
-#EXTINF:-1,Sport1
-http://live.hutv.me:25461/b8byc4GaNB/f4RwbYi752/26422
-#EXTINF:-1,Sport 1 HD
-http://live.hutv.me:25461/b8byc4GaNB/f4RwbYi752/26423
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
