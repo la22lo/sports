@@ -1050,5 +1050,64 @@ http://alv.encohd.co:39591/live/wdrety/cdew23/529.m3u8
 #EXTINF:-1, TENNIS CHANNEL 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1,Amazon Prime 1 HD Events
+http://195.154.200.168:8002/play/a008/index.m3u8
+#EXTINF:-1,Amazon Prime 2 HD Events
+http://195.154.200.168:8002/play/a009/index.m3u8
+#EXTINF:-1,Amazon Prime 3 HD Events
+http://195.154.200.168:8002/play/a00a/index.m3u8
+#EXTINF:-1,Amazon Prime 4 HD Events
+http://195.154.200.168:8002/play/a00b/index.m3u8
+#EXTINF:-1,Amazon Prime 5 HD Events
+http://195.154.200.168:8002/play/a00c/index.m3u8
+#EXTINF:-1,Amazon Prime 6 HD Events
+http://195.154.200.168:8002/play/a00d/index.m3u8
+#EXTINF:-1,Amazon Prime 7 HD Events
+http://195.154.200.168:8002/play/a00e/index.m3u8
+#EXTINF:-1,Amazon Prime 8 HD Events
+http://195.154.200.168:8002/play/a00f/index.m3u8
+#EXTINF:-1,Canal+ Premier League HD
+http://195.154.200.168:8002/play/a007/index.m3u8
+#EXTINF:-1,Multi Sports 1 HD Events
+http://195.154.200.168:8002/play/a001/index.m3u8
+#EXTINF:-1,Multi Sports 2 HD Events
+http://195.154.200.168:8002/play/a002/index.m3u8
+#EXTINF:-1,Multi Sports 3 HD Events
+http://195.154.200.168:8002/play/a003/index.m3u8
+#EXTINF:-1,Multi Sports 4 HD Events
+http://195.154.200.168:8002/play/a004/index.m3u8
+#EXTINF:-1,Multi Sports 5 HD Events
+http://195.154.200.168:8002/play/a005/index.m3u8
+#EXTINF:-1,Multi Sports 6 HD Events
+http://195.154.200.168:8002/play/a006/index.m3u8
+#EXTINF:-1,Sport En France
+http://195.154.200.168:8002/play/a00g/index.m3u8
+#EXTINF:-1,RMC Sport 1 HD
+http://195.154.200.168:8003/play/a001/index.m3u8
+#EXTINF:-1,RMC Sport 2 HD
+http://195.154.200.168:8003/play/a002/index.m3u8
+#EXTINF:-1,RMC Sport 3 HD
+http://195.154.200.168:8003/play/a003/index.m3u8
+#EXTINF:-1,RMC Sport 4 HD
+http://195.154.200.168:8003/play/a004/index.m3u8
+#EXTINF:-1,RMC Sport 5 HD
+http://195.154.200.168:8003/play/a005/index.m3u8
+#EXTINF:-1,SSC 1 HD
+http://195.154.200.168:8004/play/a05l/index.m3u8
+#EXTINF:-1,SSC 2 HD
+http://195.154.200.168:8004/play/a05m/index.m3u8
+#EXTINF:-1,SSC 3 HD
+http://195.154.200.168:8004/play/a05n/index.m3u8
+#EXTINF:-1,SSC 4 HD
+http://195.154.200.168:8004/play/a05o/index.m3u8
+#EXTINF:-1,SSC 5 HD
+http://195.154.200.168:8004/play/a05p/index.m3u8
+#EXTINF:-1,SSC 6 HD
+http://195.154.200.168:8004/play/a05q/index.m3u8
+#EXTINF:-1,SSC 7 HD
+http://195.154.200.168:8004/play/a05r/index.m3u8
+#EXTINF:-1,CBC_Azerbaycan
+http://185.236.229.31:9981/play/a056
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
