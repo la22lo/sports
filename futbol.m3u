@@ -1113,5 +1113,12 @@ http://alv.encohd.co:39591/live/wdrety/cdew23/529.m3u8
 #EXTINF:-1, TENNIS CHANNEL 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1,S SPORT
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6825/index.m3u8
+#EXTINF:-1,S SPORT 2
+http://nx4545.xyz:80/live/ademgumus/ademgumus/35.ts
+#EXTINF:-1,SPORTS TV
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
