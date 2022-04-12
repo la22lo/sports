@@ -60,6 +60,9 @@ http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 #EXTINF:-1, SUPERSPORT TV 🇬🇧
 http://myiptvco.ddns.net:80/live/Janet_Herward/DiSW75G9nH/196180.ts
 
+#EXTINF:-1, SuperSport LaLiga 🇬🇧
+http://driptvs.com:8080/dessy/cmOXmsOWRm/135960
+
 #EXTINF:-1,DAZN 1 🇩🇪
 http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/320
 
@@ -1266,10 +1269,13 @@ http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/32891
 #EXTINF:-1, DAZN 3 Canada HD EVENT 🇨🇦
 http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/32892
 
+#EXTINF:-1, SuperSport TENNIS HD 🇬🇧
+http://driptvs.com:8080/dessy/cmOXmsOWRm/140560
+
 #EXTINF:-1, TENNIS 🇬🇧
 https://70.32.30.155/proxy.php/https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/f.m3u8
 
-#EXTINF:-1, Tennis Channel HD
+#EXTINF:-1, Tennis Channel HD 🇬🇧
 https://nonton.site:8443/live/1842273725/9237641816/102.m3u8
 
 #EXTINF:-1, TENNIS 🇭🇷
@@ -1310,12 +1316,6 @@ https://nonton.site:8443/live/1842273725/9237641816/499.m3u8
 
 #EXTINF:-1, ESPN2
 https://nonton.site:8443/live/1842273725/9237641816/299.m3u8
-
-#EXTINF:-1, SuperSport LaLiga
-http://driptvs.com:8080/dessy/cmOXmsOWRm/135960
-
-#EXTINF:-1, SuperSport TENNIS HD
-http://driptvs.com:8080/dessy/cmOXmsOWRm/140560
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
