@@ -18,6 +18,9 @@ https://videodelivery.net/9fe740ac4c772cf1b1ac1cf9cffe0818/manifest/video.m3u8
 #EXTINF:-1, TNT BRASIL 
 https://dubr2rz6c5qdz.cloudfront.net/live-stream/61c21f28fa354108218ed3a3/publish/media_1800.m3u8
 
+#EXTINF:-1, ESPN 2
+https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
+
 #EXTINF:-1, BeinSport Premium 1 🇶🇦
 http://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/FPGg2jqBaNlXw8qmmS1IYg70sMs57FKA0Yb-pi8HihIkSPhMr1EwcmVQycK7qh1LrsaDtBlg5jMEzz42N3ffpw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
 
