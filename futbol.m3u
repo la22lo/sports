@@ -18,6 +18,9 @@ http://driptvs.com:8080/dessy/cmOXmsOWRm/308826
 #EXTINF:-1, BT Sport 2 🇬🇧
 http://driptvs.com:8080/dessy/cmOXmsOWRm/308813
 
+#EXTINF:-1 ,RMC 1 SPORT 🇫🇷
+http://driptvs.com:8080/dessy/cmOXmsOWRm/4455
+
 #EXTINF:-1, Sport 5 HD 🇮🇱
 http://driptvs.com:8080/dessy/cmOXmsOWRm/142848
 
@@ -294,7 +297,19 @@ http://93.152.174.144:4000/play/bein2fr/index.m3u8
 #EXTINF:-1 ,BEIN SPORTS 3 FR 🇫🇷
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
 
-#EXTINF:-1, CANAL+ SPORT 🇫🇷 🇫🇷
+#EXTINF:-1 ,RMC 1 SPORT 🇫🇷
+http://driptvs.com:8080/dessy/cmOXmsOWRm/4455
+
+#EXTINF:-1 ,RMC 2 SPORT 🇫🇷
+http://driptvs.com:8080/dessy/cmOXmsOWRm/4456
+
+#EXTINF:-1 ,RMC 3 SPORT 🇫🇷
+http://driptvs.com:8080/dessy/cmOXmsOWRm/4457
+
+#EXTINF:-1 ,RMC 4 SPORT 🇫🇷
+http://driptvs.com:8080/dessy/cmOXmsOWRm/4458
+
+#EXTINF:-1, CANAL+ SPORT 🇫🇷 
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJBqdg7Slp6-qg3BmzZyuLoA/ts
 
 #EXTINF:-1, BEIN SPORT 1 ENGLISH 🇬🇧
