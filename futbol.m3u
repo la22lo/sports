@@ -1,13 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1,ELEVEN SPORT 1 🇵🇹
+http://213.13.23.132/shls/LIVE%24Eleven_Sports_1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+
+#EXTINF:-1,M4 Sport 🇭🇺
+http://live.hutv.me:25461/b8byc4GaNB/f4RwbYi752/26420
+
 #EXTINF:-1, BeinSport Premium 1 🇶🇦
 http://grl.dream-tv.org:2082/live/ikram_286249/GkYqOAh8/108161.m3u8
 
 #EXTINF:-1, BeinSport Premium 1 🇶🇦
 http://vt.vttpi.com:8000/live/P-957977/P-740465/412.m3u8
-
-#EXTINF:-1,ELEVEN SPORT 1 🇵🇹
-http://213.13.23.132/shls/LIVE%24Eleven_Sports_1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
 #EXTINF:-1, BT SPORT 2 🇬🇧
 https://16live00.akamaized.net:443/BTSPORTS2/tracks-v1a1/mono.m3u8
