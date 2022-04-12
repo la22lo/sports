@@ -18,6 +18,9 @@ https://videodelivery.net/9fe740ac4c772cf1b1ac1cf9cffe0818/manifest/video.m3u8
 #EXTINF:-1, BT SPORT 2 🇬🇧
 http://d1x38tpjgevyaw.cloudfront.net:80/stream/Mzg1NQ==/1080p.m3u8
 
+#EXTINF:-1, MATH
+https://edge1.lbs.pw/test/test/playlist.m3u8?token=7c3f6ef7c5902fd72d9e73ca5f21d064fe1e752b-0.8406331621036816-1649825057-1649789057
+
 #EXTINF:-1, TNT BRASIL 
 https://dubr2rz6c5qdz.cloudfront.net/live-stream/61c21f28fa354108218ed3a3/publish/media_1800.m3u8
 
