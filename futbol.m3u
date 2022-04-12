@@ -13,6 +13,9 @@ http://vt.vttpi.com:8000/live/P-957977/P-740465/412.m3u8
 https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/2qSyWBiwvRG_OFMjMp9qlyTqDX0ZcaKneUpnMGnmpAzg36EF1RvtiTr1MgMxgIE3f5MlHjEyzz2HHE8o3rNszw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1, BeinSport Premium 1 🇶🇦
+https://videodelivery.net/9fe740ac4c772cf1b1ac1cf9cffe0818/manifest/video.m3u8
+
+#EXTINF:-1, BeinSport Premium 1 🇶🇦
 http://grl.dream-tv.org:2082/live/ikram_286249/GkYqOAh8/108161.m3u8
 
 #EXTINF:-1, BT SPORT 2 🇬🇧
