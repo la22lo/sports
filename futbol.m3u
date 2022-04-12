@@ -21,6 +21,9 @@ http://d1x38tpjgevyaw.cloudfront.net:80/stream/Mzg1NQ==/1080p.m3u8
 #EXTINF:-1, BT SPORT 2 🇬🇧
 https://d2t3o3qt5uv12p.cloudfront.net:443/hls/bt2/chunks.m3u8
 
+#EXTINF:-1, BT SPORT 2 🇬🇧
+https://ppv.gcdn.co:443/FOOT4/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, MATH
 https://edge1.lbs.pw/test/test/playlist.m3u8?token=7c3f6ef7c5902fd72d9e73ca5f21d064fe1e752b-0.8406331621036816-1649825057-1649789057
 
