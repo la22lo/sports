@@ -1287,8 +1287,14 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1, ESPN
 https://nonton.site:8443/live/1842273725/9237641816/499.m3u8
 
-#EXTINF:-1, BEIN
+#EXTINF:-1, BEIN 3
 https://nonton.site:8443/live/1842273725/9237641816/37433.m3u8
+
+#EXTINF:-1, BEIN 2
+https://nonton.site:8443/live/1842273725/9237641816/37432.m3u8
+
+#EXTINF:-1, BEIN 1
+https://nonton.site:8443/live/1842273725/9237641816/37431.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
