@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,beIN Sports 1 Premium SD 🇶🇦
-http://195.154.200.168:8000/play/a014/index.m3u8
-
 #EXTINF:-1, BeinSport Premium 1 🇶🇦
 http://grl.dream-tv.org:2082/live/ikram_286249/GkYqOAh8/108161.m3u8
 
@@ -17,9 +14,6 @@ http://driptvs.com:8080/dessy/cmOXmsOWRm/308826
 
 #EXTINF:-1, BT Sport 2 🇬🇧
 http://driptvs.com:8080/dessy/cmOXmsOWRm/308813
-
-#EXTINF:-1,M4 Sport 🇭🇺
-http://live.hutv.me:25461/b8byc4GaNB/f4RwbYi752/26420
 
 #EXTINF:-1, Sport 5 HD 🇮🇱
 http://driptvs.com:8080/dessy/cmOXmsOWRm/142848
@@ -125,21 +119,6 @@ http://51.89.143.30:8080/JS7xxR46Vt/bd1qwVHWP7/19732
 
 #EXTINF:-1, MOVISTAR LIGA CAMPEONES 1 🇪🇸
 http://51.89.143.30:8080/JS7xxR46Vt/bd1qwVHWP7/267
-
-#EXTINF:-1, DIRECTV SPORT 🇦🇷
-http://bgapp.live/play/14-405.php?c=259&token=blccck-gh0ost&f=.m3u8
-
-#EXTINF:-1, DIRECTV SPORT 2 🇦🇷
-http://bgapp.live/play/14-405.php?c=667&token=blccck-gh0ost&f=.m3u8
-
-#EXTINF:-1, ESPN 🇦🇷
-http://bgapp.live/play/14-405.php?c=34&token=blccck-gh0ost&f=.m3u8
-
-#EXTINF:-1, ESPN 2 🇦🇷
-http://bgapp.live/play/14-405.php?c=35&token=blccck-gh0ost&f=.m3u8
-
-#EXTINF:-1, ESPN 3 🇦🇷
-http://bgapp.live/play/14-405.php?c=485&token=blccck-gh0ost&f=.m3u8
 
 #EXTINF:-1, ESPN VIVO 🇦🇷
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
