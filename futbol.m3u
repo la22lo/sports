@@ -426,7 +426,16 @@ http://195.154.200.168:8003/play/a002/index.m3u8
 #EXTINF:-1,RMC Sport 3 HD 🇫🇷
 http://195.154.200.168:8003/play/a003/index.m3u8
 
-#EXTINF:-1, CANAL+ SPORT 🇫🇷
+#EXTINF:-1, RMC SPORT 1 HD 🇫🇷
+http://driptvs.com:8080/dessy/cmOXmsOWRm/4455
+
+#EXTINF:-1, RMC SPORT 2 HD 🇫🇷
+http://driptvs.com:8080/dessy/cmOXmsOWRm/4456
+
+#EXTINF:-1, RMC SPORT 3 HD 🇫🇷
+http://driptvs.com:8080/dessy/cmOXmsOWRm/4457
+
+#EXTINF:-1, CANAL+ SPORT 🇫🇷 🇫🇷
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJBqdg7Slp6-qg3BmzZyuLoA/ts
 
 #EXTINF:-1, CANAL+ ligue 1 🇫🇷
@@ -492,8 +501,38 @@ http://45.153.35.224:8000/play/a008
 #EXTINF:-1, BT SPORT ESPNHD 🇬🇧
 http://93.152.174.144:4000/play/btsportespn/index.m3u8
 
+#EXTINF:-1, BT Sport 1 HD 
+http://driptvs.com:8080/dessy/cmOXmsOWRm/308830
+
+#EXTINF:-1, BT Sport 1
+http://driptvs.com:8080/dessy/cmOXmsOWRm/308816
+
+#EXTINF:-1, BT Sport 2 HD 
+http://driptvs.com:8080/dessy/cmOXmsOWRm/308826
+
+#EXTINF:-1, BT Sport 2
+http://driptvs.com:8080/dessy/cmOXmsOWRm/7806
+
+#EXTINF:-1, BT Sport 3 HD
+http://driptvs.com:8080/dessy/cmOXmsOWRm/7807
+
+#EXTINF:-1, BT Sport 3
+http://driptvs.com:8080/dessy/cmOXmsOWRm/308810
+
 #EXTINF:-1, SUPER GRANDSTAND 🇬🇧
 http://178.218.196.218:8000/play/a008/index.m3u8
+
+#EXTINF:-1, SuperSport Grandstand 🇬🇧
+http://driptvs.com:8080/dessy/cmOXmsOWRm/135961
+
+#EXTINF:-1, SuperSport Football 🇬🇧
+http://driptvs.com:8080/dessy/cmOXmsOWRm/135963
+
+#EXTINF:-1, SUPERSPORT MAXIMO 1 🇬🇧
+http://driptvs.com:8080/dessy/cmOXmsOWRm/235537
+
+#EXTINF:-1, SuperSport Variety 1 🇬🇧
+http://driptvs.com:8080/dessy/cmOXmsOWRm/135952
 
 #EXTINF:-1,DAZN 1 🇩🇪
 http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/320
@@ -1316,27 +1355,6 @@ https://nonton.site:8443/live/1842273725/9237641816/499.m3u8
 
 #EXTINF:-1, ESPN2
 https://nonton.site:8443/live/1842273725/9237641816/299.m3u8
-
-#EXTINF:-1, SuperSport Football
-http://driptvs.com:8080/dessy/cmOXmsOWRm/135963
-
-#EXTINF:-1, SUPERSPORT MAXIMO 1
-http://driptvs.com:8080/dessy/cmOXmsOWRm/235537
-
-#EXTINF:-1, SuperSport Grandstand
-http://driptvs.com:8080/dessy/cmOXmsOWRm/135961
-
-#EXTINF:-1, SuperSport Variety 1
-http://driptvs.com:8080/dessy/cmOXmsOWRm/135952
-
-#EXTINF:-1, RMC SPORT 1 HD
-http://driptvs.com:8080/dessy/cmOXmsOWRm/4455
-
-#EXTINF:-1, RMC SPORT 2 HD
-http://driptvs.com:8080/dessy/cmOXmsOWRm/4456
-
-#EXTINF:-1, RMC SPORT 3 HD
-http://driptvs.com:8080/dessy/cmOXmsOWRm/4457
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
