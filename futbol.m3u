@@ -33,6 +33,9 @@ http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/19813
 #EXTINF:-1,Cosmote Sport 2 HD 🇬🇷
 http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/22429
 
+#EXTINF:-1, Cosmote Sport 2 HD 🇬🇷
+http://driptvs.com:8080/dessy/cmOXmsOWRm/10835
+
 #EXTINF:-1,M4 Sport 🇭🇺
 http://live.hutv.me:25461/b8byc4GaNB/f4RwbYi752/26420
 
@@ -552,6 +555,12 @@ http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/18763
 #EXTINF:-1, DAZN ALE 2 HD 🇩🇪
 http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/18764
 
+#EXTINF:-1, DAZN 1 HD 🇩🇪
+http://driptvs.com:8080/dessy/cmOXmsOWRm/22015
+
+#EXTINF:-1, DAZN 2 HD 🇩🇪
+http://driptvs.com:8080/dessy/cmOXmsOWRm/22016
+
 #EXTINF:-1, ESPN USA 🇺🇸
 http://69.164.224.53:80/ESPN/mpegts
 
@@ -783,8 +792,11 @@ http://213.186.23.21:8000/SportKlub%202%20SD?u=00:1A:79:2A:E9:66:p=001A792AE966
 #EXTINF:-1,SK 3 🇭🇷
 http://213.186.23.21:8000/SportKlub%203%20SD?u=00:1A:79:2A:E9:66:p=001A792AE966
 
-#EXTINF:-1, Sport 5 HD ISR 🇮🇱
+#EXTINF:-1, Sport 5 HD 🇮🇱
 http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/19813
+
+#EXTINF:-1, Sport 5 HD 🇮🇱
+http://driptvs.com:8080/dessy/cmOXmsOWRm/142848
 
 #EXTINF:-1, RTK1 KOSOVO 🇽🇰
 http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8?
@@ -921,6 +933,18 @@ http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/957
 #EXTINF:-1, Nova Sports 1HD 🇬🇷
 http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/26481
 
+#EXTINF:-1, NOVA Sport 1 HD 🇬🇷
+http://driptvs.com:8080/dessy/cmOXmsOWRm/178302
+
+#EXTINF:-1, Nova Sport 2 HD 🇬🇷
+http://driptvs.com:8080/dessy/cmOXmsOWRm/178303
+
+#EXTINF:-1, NOVA SPORT 3 HD 🇬🇷
+http://driptvs.com:8080/dessy/cmOXmsOWRm/18572
+
+#EXTINF:-1, NOVA SPORT 4 HD 🇬🇷
+http://driptvs.com:8080/dessy/cmOXmsOWRm/18573
+
 #EXTINF:-1, Cosmote Sport 1 HD 🇬🇷
 http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/22430
 
@@ -930,8 +954,29 @@ http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/22429
 #EXTINF:-1, Cosmote Sport 3 HD 🇬🇷
 http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/22428
 
+#EXTINF:-1, Cosmote Sport 1 🇬🇷
+http://driptvs.com:8080/dessy/cmOXmsOWRm/175109
+
+#EXTINF:-1, Cosmote Sport 2 HD 🇬🇷
+http://driptvs.com:8080/dessy/cmOXmsOWRm/10835
+
+#EXTINF:-1, Cosmote SPORT 3 FHD 🇬🇷
+http://driptvs.com:8080/dessy/cmOXmsOWRm/10836
+
 #EXTINF:-1,M4 Sport 🇭🇺
 http://live.hutv.me:25461/b8byc4GaNB/f4RwbYi752/26420
+
+#EXTINF:-1, Viasat Football SWEDEN
+http://driptvs.com:8080/dessy/cmOXmsOWRm/453
+ 
+#EXTINF:-1, C More Fotboll HD SWEDEN
+http://driptvs.com:8080/dessy/cmOXmsOWRm/13544
+
+#EXTINF:-1, C More Live HD SWEDEN
+http://driptvs.com:8080/dessy/cmOXmsOWRm/441
+
+#EXTINF:-1, C MORE LIVE 2 HD SWEDEN
+http://driptvs.com:8080/dessy/cmOXmsOWRm/442
 
 #EXTINF:-1,DIGI Sport 1 🇭🇺
 http://live.hutv.me:25461/b8byc4GaNB/f4RwbYi752/26426
