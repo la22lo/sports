@@ -3,6 +3,9 @@
 #EXTINF:-1, BeinSport Premium 1 🇶🇦
 http://grl.dream-tv.org:2082/live/ikram_286249/GkYqOAh8/108161.m3u8
 
+#EXTINF:-1, BeinSport Premium 1 🇶🇦
+http://vt.vttpi.com:8000/live/P-957977/P-740465/412.m3u8
+
 #EXTINF:-1,ELEVEN SPORT 1 🇵🇹
 http://213.13.23.132/shls/LIVE%24Eleven_Sports_1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
@@ -228,54 +231,6 @@ http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJCK3CZq-25JorpVxvxLOm6M/ts
 #EXTINF:-1,ELEVEN SPORTS 6 🇵🇹
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJFGRezPP_E_YrLaVH7MB7KE/ts
 
-#EXTINF:-1,beIN Sports HD 🇶🇦
-http://195.154.200.168:8000/play/a00h/index.m3u8
-
-#EXTINF:-1,beIN Sports News HD 🇶🇦
-http://195.154.200.168:8000/play/a00g/index.m3u8
-
-#EXTINF:-1,beIN Sports 1 HD 🇶🇦
-http://195.154.200.168:8000/play/a00i/index.m3u8
-
-#EXTINF:-1,beIN Sports 1 SD 🇶🇦
-http://195.154.200.168:8000/play/a00w/index.m3u8
-
-#EXTINF:-1,beIN Sports 2 HD 🇶🇦
-http://195.154.200.168:8000/play/a00j/index.m3u8
-
-#EXTINF:-1,beIN Sports 2 SD 🇶🇦
-http://195.154.200.168:8000/play/a00y/index.m3u8
-
-#EXTINF:-1,beIN Sports 3 FHD 🇶🇦
-http://195.154.200.168:8000/play/a01g/index.m3u8
-
-#EXTINF:-1,beIN Sports 3 SD 🇶🇦
-http://195.154.200.168:8000/play/a00x/index.m3u8
-
-#EXTINF:-1,beIN Sports 4 HD 🇶🇦
-http://195.154.200.168:8000/play/a00l/index.m3u8
-
-#EXTINF:-1,beIN Sports 4 SD 🇶🇦
-http://195.154.200.168:8000/play/a011/index.m3u8
-
-#EXTINF:-1,beIN Sports 5 HD 🇶🇦
-http://195.154.200.168:8000/play/a00m/index.m3u8
-
-#EXTINF:-1,beIN Sports 5 SD 🇶🇦
-http://195.154.200.168:8000/play/a010/index.m3u8
-
-#EXTINF:-1,beIN Sports 6 HD 🇶🇦
-http://195.154.200.168:8000/play/a00n/index.m3u8
-
-#EXTINF:-1,beIN Sports 6 SD 🇶🇦
-http://195.154.200.168:8000/play/a00z/index.m3u8
- 
-#EXTINF:-1,beIN Sports 7 HD 🇶🇦
-http://195.154.200.168:8000/play/a00o/index.m3u8
-
-#EXTINF:-1,beIN Sports 7 SD 🇶🇦
-http://195.154.200.168:8000/play/a012/index.m3u8
-
 #EXTINF:-1,beIN SPORT NEWS 🇶🇦
 http://localchannels.zinamedia.net/ar-s/WhKxECvZSk/index.m3u8
 
@@ -299,24 +254,6 @@ http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
 
 #EXTINF:-1, Bein Sports 7 🇶🇦
 http://93.152.174.144:4000/play/bein7/index.m3u8
-
-#EXTINF:-1,beIN Sports 1 Premium HD 🇶🇦
-http://195.154.200.168:8000/play/a00p/index.m3u8
-
-#EXTINF:-1,beIN Sports 1 Premium SD 🇶🇦
-http://195.154.200.168:8000/play/a014/index.m3u8
-
-#EXTINF:-1,beIN Sports 2 Premium HD 🇶🇦
-http://195.154.200.168:8000/play/a00q/index.m3u8
-
-#EXTINF:-1,beIN Sports 2 Premium SD 🇶🇦
-http://195.154.200.168:8000/play/a015/index.m3u8
-
-#EXTINF:-1,beIN Sports 3 Premium HD 🇶🇦
-http://195.154.200.168:8000/play/a00r/index.m3u8
-
-#EXTINF:-1,beIN Sports 3 Premium SD 🇶🇦
-http://195.154.200.168:8000/play/a016/index.m3u8
 
 #EXTINF:-1, BeinSport Premium 1 🇶🇦
 http://vt.vttpi.com:8000/live/P-957977/P-740465/412.m3u8
@@ -357,41 +294,8 @@ http://93.152.174.144:4000/play/bein2fr/index.m3u8
 #EXTINF:-1 ,BEIN SPORTS 3 FR 🇫🇷
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
 
-#EXTINF:-1,beIN Sports 1 French HD 🇫🇷
-http://195.154.200.168:8000/play/a00u/index.m3u8
-
-#EXTINF:-1,beIN Sports 1 French SD 🇫🇷
-http://195.154.200.168:8000/play/a019/index.m3u8
-
-#EXTINF:-1,beIN Sports 2 French SD 🇫🇷
-http://195.154.200.168:8000/play/a01a/index.m3u8
-
-#EXTINF:-1,RMC Sport 1 HD 🇫🇷
-http://195.154.200.168:8003/play/a001/index.m3u8
-
-#EXTINF:-1,RMC Sport 2 HD 🇫🇷
-http://195.154.200.168:8003/play/a002/index.m3u8
-
-#EXTINF:-1,RMC Sport 3 HD 🇫🇷
-http://195.154.200.168:8003/play/a003/index.m3u8
-
-#EXTINF:-1, RMC SPORT 1 HD 🇫🇷
-http://driptvs.com:8080/dessy/cmOXmsOWRm/4455
-
-#EXTINF:-1, RMC SPORT 2 HD 🇫🇷
-http://driptvs.com:8080/dessy/cmOXmsOWRm/4456
-
-#EXTINF:-1, RMC SPORT 3 HD 🇫🇷
-http://driptvs.com:8080/dessy/cmOXmsOWRm/4457
-
 #EXTINF:-1, CANAL+ SPORT 🇫🇷 🇫🇷
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJBqdg7Slp6-qg3BmzZyuLoA/ts
-
-#EXTINF:-1, CANAL+ ligue 1 🇫🇷
-http://62.210.137.234:8000/play/a02p/index.m3u8
-
-#EXTINF:-1,Eurosport 1 HD 🇫🇷
-http://62.210.137.234:8000/play/a02h/index.m3u8
 
 #EXTINF:-1, BEIN SPORT 1 ENGLISH 🇬🇧
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
@@ -410,12 +314,6 @@ http://grl.dream-tv.org:2082/live/ikram_286249/GkYqOAh8/151567.m3u8
 
 #EXTINF:-1, BEIN SPORT 3 ENGLISH 🇬🇧
 http://grl.dream-tv.org:2082/live/ikram_286249/GkYqOAh8/151568.m3u8
-
-#EXTINF:-1,beIN Sports 1 English SD 🇬🇧
-http://195.154.200.168:8000/play/a017/index.m3u8
-
-#EXTINF:-1,beIN Sports 2 English SD 🇬🇧
-http://195.154.200.168:8000/play/a018/index.m3u8
 
 #EXTINF:-1, BT SPORT 1 🇬🇧
 http://93.152.174.144:4000/play/btsport1/index.m3u8
@@ -494,9 +392,6 @@ http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8
 
 #EXTINF:-1, ESPN 2 USA 🇺🇸
 http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8
-
-#EXTINF:-1, Spark Sport 1 NZ
-http://driptvs.com:8080/dessy/cmOXmsOWRm/301753
 
 #EXTINF:-1, ARENA SPORT 1 PREMIUM 🇷🇸
 http://46.29.169.15:4001/play/a00g/index.m3u8
