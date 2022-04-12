@@ -102,6 +102,18 @@ http://myott.top/stream/1VGPHYLZTH/235.m3u8
 #EXTINF:-1, ELEVEN SPORTS 3 🇵🇱
 https://per@acdn.zhengyaning.com/xoilac/channel-1.m3u8?auth_key=19645859083-0-0-fa1de8978707c8a8faef1c05977d451c
 
+#EXTINF:-1, beIN SPORTS MALASIA
+https://nonton.site:8443/live/1842273725/9237641816/37432.m3u8
+
+#EXTINF:-1, bEIN 3 MALASIA
+https://nonton.site:8443/live/1842273725/9237641816/37433.m3u8
+
+#EXTINF:-1, BeIN Sport 1 ID
+https://nonton.site:8443/live/1842273725/9237641816/728.m3u8
+
+#EXTINF:-1, BeIN Sport 2 ID
+https://nonton.site:8443/live/1842273725/9237641816/729.m3u8
+
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://51.89.143.30:8080/JS7xxR46Vt/bd1qwVHWP7/67167
 
@@ -1290,29 +1302,11 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1, ESPN
 https://nonton.site:8443/live/1842273725/9237641816/499.m3u8
 
-#EXTINF:-1, BEIN 3
-https://nonton.site:8443/live/1842273725/9237641816/37433.m3u8
-
-#EXTINF:-1, BEIN 2
-https://nonton.site:8443/live/1842273725/9237641816/37432.m3u8
-
-#EXTINF:-1, BeIN Sport 1 ID
-https://nonton.site:8443/live/1842273725/9237641816/728.m3u8
-
-#EXTINF:-1, BeIN Sport 2 ID
-https://nonton.site:8443/live/1842273725/9237641816/729.m3u8
-
 #EXTINF:-1, ESPN 3
 https://nonton.site:8443/live/1842273725/9237641816/499.m3u8
 
 #EXTINF:-1, ESPN2
 https://nonton.site:8443/live/1842273725/9237641816/299.m3u8
-
-#EXTINF:-1, beIN SPORTS MALASIA
-https://nonton.site:8443/live/1842273725/9237641816/37432.m3u8
-
-#EXTINF:-1, bEIN 3 MALASIA
-https://nonton.site:8443/live/1842273725/9237641816/37433.m3u8
 
 #EXTINF:-1, Tennis Channel HD
 https://nonton.site:8443/live/1842273725/9237641816/102.m3u8
