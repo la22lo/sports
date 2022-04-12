@@ -1317,20 +1317,5 @@ https://nonton.site:8443/live/1842273725/9237641816/37433.m3u8
 #EXTINF:-1, Tennis Channel HD
 https://nonton.site:8443/live/1842273725/9237641816/102.m3u8
 
-#EXTINF:-1, Tennis Channel 2
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-
-#EXTINF:-1, True Tennis HD
-https://www.wopep.com/02_TennisHD_720p/chunklist.m3u8
-
-#EXTINF:-1,True Sports HD 1
-https://www.wopep.com/02_2sporthd1_720p/chunklist.m3u8
-
-#EXTINF:-1,True Sports HD 2
-https://www.wopep.com/02_2sporthd2_720p/chunklist.m3u8
-
-#EXTINF:-1 ,True Sports HD 3
-https://www.wopep.com/02_2sporthd3_720p/chunklist.m3u8
-
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
