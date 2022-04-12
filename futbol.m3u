@@ -1290,5 +1290,41 @@ https://nonton.site:8443/live/1842273725/9237641816/37433.m3u8
 #EXTINF:-1, BEIN 2
 https://nonton.site:8443/live/1842273725/9237641816/37432.m3u8
 
+#EXTINF:-1, BeIN Sport 1 ID
+https://nonton.site:8443/live/1842273725/9237641816/728.m3u8
+
+#EXTINF:-1, BeIN Sport 2 ID
+https://nonton.site:8443/live/1842273725/9237641816/729.m3u8
+
+#EXTINF:-1, ESPN
+https://nonton.site:8443/live/1842273725/9237641816/499.m3u8
+
+#EXTINF:-1, ESPN2
+https://nonton.site:8443/live/1842273725/9237641816/299.m3u8
+
+#EXTINF:-1, SPOTV 1
+https://nonton.site:8443/live/1842273725/9237641816/51.m3u8
+
+#EXTINF:-1, SPOTV 2
+https://nonton.site:8443/live/1842273725/9237641816/101.m3u8
+
+#EXTINF:-1, beIN SPORTS MALASIA
+https://nonton.site:8443/live/1842273725/9237641816/37432.m3u8
+
+#EXTINF:-1, bEIN MAX MALASIA
+https://nonton.site:8443/live/1842273725/9237641816/37433.m3u8
+
+#EXTINF:-1, Tennis Channel HD
+https://nonton.site:8443/live/1842273725/9237641816/102.m3u8
+
+#EXTINF:-1, BeinSport1 afc
+http://zz@141.95.206.174:8080/ar-s/bein-afc-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, BeinSport2 afc
+http://zz@141.95.206.174:8080/ar-s/bein-afc-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, BeinSport3 afc
+http://zz@141.95.206.174:8080/ar-s/bein-afc-3/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
