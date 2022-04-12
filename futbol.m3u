@@ -570,6 +570,9 @@ http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8
 #EXTINF:-1, ESPN 2 USA 🇺🇸
 http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8
 
+#EXTINF:-1, Spark Sport 1 NZ
+http://driptvs.com:8080/dessy/cmOXmsOWRm/301753
+
 #EXTINF:-1, Super Sport 1 HD 🇦🇱
 http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/80227
 
