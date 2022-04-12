@@ -6,9 +6,6 @@ http://195.154.200.168:8000/play/a014/index.m3u8
 #EXTINF:-1, BeinSport Premium 1 🇶🇦
 http://grl.dream-tv.org:2082/live/ikram_286249/GkYqOAh8/108161.m3u8
 
-#EXTINF:-1, Bein Sport Premium HD1 🇶🇦
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/65030
-
 #EXTINF:-1,ELEVEN SPORT 1 🇵🇹
 http://213.13.23.132/shls/LIVE%24Eleven_Sports_1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
@@ -20,15 +17,6 @@ http://driptvs.com:8080/dessy/cmOXmsOWRm/308826
 
 #EXTINF:-1, BT Sport 2 🇬🇧
 http://driptvs.com:8080/dessy/cmOXmsOWRm/308813
-
-#EXTINF:-1, RMC SPORT 1 HD 🇫🇷
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/7285
-
-#EXTINF:-1, Digi Sport 1 HD 🇷🇴
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/20522
-
-#EXTINF:-1, Sport 5 HD ISR 🇮🇱
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/19813
 
 #EXTINF:-1,M4 Sport 🇭🇺
 http://live.hutv.me:25461/b8byc4GaNB/f4RwbYi752/26420
@@ -50,9 +38,6 @@ http://62.210.170.186:8080/live/TVSHQIP/FAKTESHQIP/322.m3u8
 
 #EXTINF:-1,beIN Sports 1 SD 🇶🇦
 http://195.154.200.168:8000/play/a00w/index.m3u8
-
-#EXTINF:-1, Bein Sport 1 4K 🇶🇦
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/80369
 
 #EXTINF:-1,MMN SPORT HD 🇮🇶
 http://190.2.148.141:8080/bar7642/index.m3u8
@@ -369,15 +354,6 @@ http://vt.vttpi.com:8000/live/P-957977/P-740465/414.m3u8
 #EXTINF:-1, BeinSport Premium 3 🇶🇦
 http://grl.dream-tv.org:2082/live/ikram_286249/GkYqOAh8/108163.m3u8
 
-#EXTINF:-1, Bein Sport Premium HD1 🇶🇦
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/65030
-
-#EXTINF:-1, Bein Sport Premium HD2 🇶🇦
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/65031
-
-#EXTINF:-1, Bein Sport Premium HD3 🇶🇦
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/65032
-
 #EXTINF:-1,beIN SPORTS EXTRA Ñ 🇪🇸
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
@@ -407,15 +383,6 @@ http://195.154.200.168:8000/play/a019/index.m3u8
 
 #EXTINF:-1,beIN Sports 2 French SD 🇫🇷
 http://195.154.200.168:8000/play/a01a/index.m3u8
-
-#EXTINF:-1, RMC SPORT 1 HD 🇫🇷
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/7285
-
-#EXTINF:-1, RMC SPORT 2 HD 🇫🇷
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/7286
-
-#EXTINF:-1, RMC SPORT 3 HD 🇫🇷
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/7427
 
 #EXTINF:-1,RMC Sport 1 HD 🇫🇷
 http://195.154.200.168:8003/play/a001/index.m3u8
@@ -467,15 +434,6 @@ http://195.154.200.168:8000/play/a017/index.m3u8
 
 #EXTINF:-1,beIN Sports 2 English SD 🇬🇧
 http://195.154.200.168:8000/play/a018/index.m3u8
-
-#EXTINF:-1, Bein Sport English HD1 🇬🇧
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/68104
-
-#EXTINF:-1, Bein Sport English HD2 🇬🇧
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/68105
-
-#EXTINF:-1, Bein Sport English HD3 🇬🇧
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/68106
 
 #EXTINF:-1, BT SPORT 1 🇬🇧
 http://93.152.174.144:4000/play/btsport1/index.m3u8
@@ -540,12 +498,6 @@ http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/320
 #EXTINF:-1,DAZN 2 🇩🇪
 http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/321
 
-#EXTINF:-1, DAZN ALE 1 HD 🇩🇪
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/18763
-
-#EXTINF:-1, DAZN ALE 2 HD 🇩🇪
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/18764
-
 #EXTINF:-1, DAZN 1 HD 🇩🇪
 http://driptvs.com:8080/dessy/cmOXmsOWRm/22015
 
@@ -563,48 +515,6 @@ http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8
 
 #EXTINF:-1, Spark Sport 1 NZ
 http://driptvs.com:8080/dessy/cmOXmsOWRm/301753
-
-#EXTINF:-1, Super Sport 1 HD 🇦🇱
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/80227
-
-#EXTINF:-1,Super Sport 2 HD 🇦🇱
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/223
-
-#EXTINF:-1,Super Sport 3 HD 🇦🇱
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/222
-
-#EXTINF:-1,Super Sport 4 HD 🇦🇱
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/221
-
-#EXTINF:-1,Super Sport 5 HD 🇦🇱
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/19809
-
-#EXTINF:-1,Super Sport 6 HD 🇦🇱
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/19810
-
-#EXTINF:-1, Digi Sport 1 HD 🇷🇴
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/20522
-
-#EXTINF:-1,Digi Sport 2 HD 🇷🇴
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/20521
-
-#EXTINF:-1,Digi Sport 3 HD 🇷🇴
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/20520
-
-#EXTINF:-1,Digi Sport 4 HD 🇷🇴
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/20519
-
-#EXTINF:-1,Digi Sport 1 🇷🇴
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/2901
-
-#EXTINF:-1,Digi Sport 2 🇷🇴
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/2902
-
-#EXTINF:-1,Digi Sport 3 🇷🇴
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/2903
-
-#EXTINF:-1,Digi Sport 4 🇷🇴
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/2904
 
 #EXTINF:-1, ARENA SPORT 1 PREMIUM 🇷🇸
 http://46.29.169.15:4001/play/a00g/index.m3u8
@@ -787,9 +697,6 @@ http://213.186.23.21:8000/SportKlub%202%20SD?u=00:1A:79:2A:E9:66:p=001A792AE966
 http://213.186.23.21:8000/SportKlub%203%20SD?u=00:1A:79:2A:E9:66:p=001A792AE966
 
 #EXTINF:-1, Sport 5 HD 🇮🇱
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/19813
-
-#EXTINF:-1, Sport 5 HD 🇮🇱
 http://driptvs.com:8080/dessy/cmOXmsOWRm/142848
 
 #EXTINF:-1, RTK1 KOSOVO 🇽🇰
@@ -918,17 +825,8 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 #EXTINF:-1,CBC Azerbaiyán 🇦🇿
 http://185.236.229.31:9981/play/a056
 
-#EXTINF:-1, Ziggo Sport HD 🇳🇱
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/14599
-
-#EXTINF:-1, Ziggo Sport Select HD 🇳🇱
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/957
-
 #EXTINF:-1, Ziggo Sport Voetbal 🇳🇱
 http://driptvs.com:8080/dessy/cmOXmsOWRm/3923
-
-#EXTINF:-1, Nova Sports 1HD 🇬🇷
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/26481
 
 #EXTINF:-1, NOVA Sport 1 HD 🇬🇷
 http://driptvs.com:8080/dessy/cmOXmsOWRm/178302
@@ -941,15 +839,6 @@ http://driptvs.com:8080/dessy/cmOXmsOWRm/18572
 
 #EXTINF:-1, NOVA SPORT 4 HD 🇬🇷
 http://driptvs.com:8080/dessy/cmOXmsOWRm/18573
-
-#EXTINF:-1, Cosmote Sport 1 HD 🇬🇷
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/22430
-
-#EXTINF:-1,Cosmote Sport 2 HD 🇬🇷
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/22429
-
-#EXTINF:-1, Cosmote Sport 3 HD 🇬🇷
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/22428
 
 #EXTINF:-1, Cosmote Sport 1 🇬🇷
 http://driptvs.com:8080/dessy/cmOXmsOWRm/175109
@@ -1028,18 +917,6 @@ http://tvn.x10.bz/TvN_ID/master-8.m3u8
 
 #EXTINF:-1, CHAMPIONS TV3 🇲🇾
 http://begaltvku.site/ventidos/master-8.m3u8
-
-#EXTINF:-1, ASTRO SUPERSPORTS 1 HD 🇲🇾
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/19170
-
-#EXTINF:-1, ASTRO SUPERSPORTS 2 HD 🇲🇾
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/19171
-
-#EXTINF:-1, ASTRO SUPERSPORTS 3 HD 🇲🇾
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/19172
-
-#EXTINF:-1, ASTRO SUPERSPORTS 4 HD 🇲🇾
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/19173
 
 #EXTINF:-1,Astro Super Sport 2 🇲🇾
 http://203.154.243.89:21202/nakhon
@@ -1346,15 +1223,6 @@ http://77.247.109.116/live/abr_b-2/live/b-2/chunks.m3u8
 
 #EXTINF:-1, EVENT
 http://194.67.196.19/hls/102.m3u8
-
-#EXTINF:-1, DAZN 1 Canada HD EVENT 🇨🇦
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/32890
-
-#EXTINF:-1, DAZN 2 Canada HD EVENT 🇨🇦
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/32891
-
-#EXTINF:-1, DAZN 3 Canada HD EVENT 🇨🇦
-http://iptvlivecast.com:8080/frank.wright@orperfect.com/807087361/32892
 
 #EXTINF:-1, SuperSport TENNIS HD 🇬🇧
 http://driptvs.com:8080/dessy/cmOXmsOWRm/140560
