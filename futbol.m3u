@@ -15,6 +15,9 @@ http://vt.vttpi.com:8000/live/P-957977/P-740465/412.m3u8
 #EXTINF:-1,RTSH SPORT 🇦🇱
 http://185.204.32.4:9981/stream/channelid/1261192802|User-Agent=stream
 
+#EXTINF:-1,HRT2 🇭🇷
+http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
+
 #EXTINF:-1, MOVISTAR CHAMPIONS 🇪🇸
 https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/2qSyWBiwvRG_OFMjMp9qlyTqDX0ZcaKneUpnMGnmpAzg36EF1RvtiTr1MgMxgIE3f5MlHjEyzz2HHE8o3rNszw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live
 
