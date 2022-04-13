@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,ELEVEN SPORT 1 🇵🇹
-http://213.13.23.132/shls/LIVE%24Eleven_Sports_1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+#EXTINF:-1,ELEVEN SPORT 2 🇵🇹
+http://213.13.23.132/shls/LIVE%24Eleven_Sports_2_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
 #EXTINF:-1,M4 Sport 🇭🇺
 http://live.hutv.me:25461/b8byc4GaNB/f4RwbYi752/26420
@@ -10,52 +10,22 @@ http://live.hutv.me:25461/b8byc4GaNB/f4RwbYi752/26420
 http://vt.vttpi.com:8000/live/P-957977/P-740465/412.m3u8
 
 #EXTINF:-1, MOVISTAR CHAMPIONS 🇪🇸
-https://5g9s179kfgx9wn8tqwj9-cul47i-edc.p5cdn.com/dlive/transcode-72-50/jose98465/1649787312/src/live.m3u8
-
-#EXTINF:-1, MOVISTAR CHAMPIONS 🇪🇸
 https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/2qSyWBiwvRG_OFMjMp9qlyTqDX0ZcaKneUpnMGnmpAzg36EF1RvtiTr1MgMxgIE3f5MlHjEyzz2HHE8o3rNszw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1, BeinSport Premium 1 🇶🇦
-https://videodelivery.net/9fe740ac4c772cf1b1ac1cf9cffe0818/manifest/video.m3u8
 
 #EXTINF:-1, BT SPORT 2 🇬🇧
 http://d1x38tpjgevyaw.cloudfront.net:80/stream/Mzg1NQ==/1080p.m3u8
 
-#EXTINF:-1, BT SPORT 2 🇬🇧
-https://d2t3o3qt5uv12p.cloudfront.net:443/hls/bt2/chunks.m3u8
-
-#EXTINF:-1, BT SPORT 2 🇬🇧
-https://ppv.gcdn.co:443/FOOT4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, MATH
-https://edge1.lbs.pw/test/test/playlist.m3u8?token=7c3f6ef7c5902fd72d9e73ca5f21d064fe1e752b-0.8406331621036816-1649825057-1649789057
-
-#EXTINF:-1, TNT BRASIL 
+#EXTINF:-1, SBT AO VIVO BRASIL 🇧🇷
 https://dubr2rz6c5qdz.cloudfront.net/live-stream/61c21f28fa354108218ed3a3/publish/media_1800.m3u8
-
-#EXTINF:-1, TNT BRASIL 
-https://vdsx.glletle1.com/v3/youshi/m1_aa8eb9237a88af37_480p.m3u8?app_ver=10101&dev_limit=1&client_ip=177.154.4.146&session_id=ts1NCuQvkQm&user_id=51589068&auth_id=51589068_com.global.brasiltvweb&app_id=com.global.brasiltvweb&rst_status=0&main_addr=http://vdsx.glletle1.com/v3/youshi/&dev_id=cd2bb2d1&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&expired=1649803844&token=B4649A2AA94370E9461BD8A638DB9796&media_code=m1_aa8eb9237a88af37_480p
-
-#EXTINF:-1, ESPN 2
-https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
-
-#EXTINF:-1, BeinSport Premium 1 🇶🇦
-http://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/FPGg2jqBaNlXw8qmmS1IYg70sMs57FKA0Yb-pi8HihIkSPhMr1EwcmVQycK7qh1LrsaDtBlg5jMEzz42N3ffpw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1, BeinSport Premium 1 🇶🇦
 http://grl.dream-tv.org:2082/live/ikram_286249/GkYqOAh8/108161.m3u8
-
-#EXTINF:-1, BT SPORT 2 🇬🇧
-https://16live00.akamaized.net:443/BTSPORTS2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, BT Sport 2 HD 🇬🇧
 http://driptvs.com:8080/dessy/cmOXmsOWRm/308826
 
 #EXTINF:-1, BT Sport 2 🇬🇧
 http://driptvs.com:8080/dessy/cmOXmsOWRm/308813
-
-#EXTINF:-1,M4 Sport 🇭🇺
-http://live.hutv.me:25461/b8byc4GaNB/f4RwbYi752/26420
 
 #EXTINF:-1 ,RMC 1 SPORT 🇫🇷
 http://driptvs.com:8080/dessy/cmOXmsOWRm/4455
