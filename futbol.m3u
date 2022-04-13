@@ -873,6 +873,9 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m
 #EXTINF:-1, YAS 🇸🇦
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 
+#EXTINF:-1, ARHAT SPORT TV 🇸🇦
+http://arhat.tv/public/360p/index.m3u8
+
 #EXTINF:-1, FootballHub
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
@@ -989,12 +992,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, BEIN
 http://localchannels.zinamedia.net:80/ar-s/pEmPdyrGGz/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, BEIN2
-http://localchannels.zinamedia.net:80/ar-s/pEmPdyrGGz/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1, ARHAT SPORT TV
-http://arhat.tv/public/360p/index.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
