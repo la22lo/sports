@@ -114,6 +114,12 @@ https://nonton.site:8443/live/1842273725/9237641816/728.m3u8
 #EXTINF:-1, BeIN Sport 2 ID 🇮🇩
 https://nonton.site:8443/live/1842273725/9237641816/729.m3u8
 
+#EXTINF:-1, beIN Sports 1 ID 🇮🇩
+https://link.zozotv.xyz:443/shukrisinar/shukrisinar/162
+
+#EXTINF:-1, beIN Sports 2 ID 🇮🇩
+https://link.zozotv.xyz:443/shukrisinar/shukrisinar/163
+
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://51.89.143.30:8080/JS7xxR46Vt/bd1qwVHWP7/67167
 
@@ -1151,24 +1157,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1, TENNIS CHANNEL 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1, DIRECTV SPORT 2 HD
-http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/667.m3u8
-
-#EXTINF:-1, beIN Sports 1 ID
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/162
-
-#EXTINF:-1, beIN Sports 2 ID
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/163
-
-#EXTINF:-1, BT SPORT 1
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/173
-
-#EXTINF:-1, BT SPORT 2
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/174
-
-#EXTINF:-1, TENNIS TV
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/175
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
