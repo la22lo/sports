@@ -18,6 +18,9 @@ http://185.204.32.4:9981/stream/channelid/1261192802|User-Agent=stream
 #EXTINF:-1,HRT2 🇭🇷
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
 
+#EXTINF:-1, POLSAT SPORT PREMIUM 1
+http://62.182.80.87:8081/Test22/Test22/7312
+
 #EXTINF:-1, MOVISTAR CHAMPIONS 🇪🇸
 https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/2qSyWBiwvRG_OFMjMp9qlyTqDX0ZcaKneUpnMGnmpAzg36EF1RvtiTr1MgMxgIE3f5MlHjEyzz2HHE8o3rNszw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live
 
@@ -341,6 +344,9 @@ http://62.182.80.87:8081/Test22/Test22/7387
 
 #EXTINF:-1, ELEVEN SPORT 4 POLONIA
 http://62.182.80.87:8081/Test22/Test22/7386
+
+#EXTINF:-1, POLSAT SPORT PREMIUM 1
+http://62.182.80.87:8081/Test22/Test22/7312
 
 #EXTINF:-1, ARENA SPORT 1 PREMIUM 🇷🇸
 http://46.29.169.15:4001/play/a00g/index.m3u8
