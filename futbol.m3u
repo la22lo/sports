@@ -165,6 +165,9 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
 #EXTINF:-1, SBT AO VIVO BRASIL 🇧🇷
 https://dubr2rz6c5qdz.cloudfront.net/live-stream/61c21f28fa354108218ed3a3/publish/media_1800.m3u8
 
+#EXTINF:-1,SBT 🇧🇷
+http://45.232.196.5:8000/play/a014/index.m3u8
+
 #EXTINF:-1, TV MAX 🇦🇷
 https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/playlist_dvr.m3u8
 
