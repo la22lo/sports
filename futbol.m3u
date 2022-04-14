@@ -1,32 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, ATV VIVO 🇵🇪
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
-
-#EXTINF:-1, TV MAX 🇦🇷
-https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/playlist_dvr.m3u8
-
-#EXTINF:-1,BT SPORT 2
-http://d18g769mcqqna8.cloudfront.net/stream/Mzg4Nw==/1080p.m3u8
-
-#EXTINF:-1,ELEVEN SPORT 2 🇵🇹
-http://213.13.23.132/shls/LIVE%24Eleven_Sports_2_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1,M4 Sport 🇭🇺
-http://live.hutv.me:25461/b8byc4GaNB/f4RwbYi752/26420
-
-#EXTINF:-1, BeinSport Premium 1 🇶🇦
-https://tx.flv.nimo.tv/live/su2039513003352rd34720fccee3475d2e08e75ed80f3692.m3u8?wsSecret=9ea53b75d5d6b9809db4600bf3cd68a1&wsTime=6255db1a&seqid=3689306885456&ctype=&ver=1&appid=81&tp=1649793818361&needwm=0&&wsiphost=ipdbme&u=2037738985692&t=100&sv=2204081430
-
-#EXTINF:-1, BeinSport Premium 1 🇶🇦
-http://vt.vttpi.com:8000/live/P-957977/P-740465/412.m3u8
-
-#EXTINF:-1,RTSH SPORT 🇦🇱
-http://185.204.32.4:9981/stream/channelid/1261192802|User-Agent=stream
-
-#EXTINF:-1,HRT2 🇭🇷
-http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
-
 #EXTINF:-1, POLSAT SPORT PREMIUM 1
 http://62.182.80.87:8081/Test22/Test22/7311
 
