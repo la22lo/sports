@@ -372,6 +372,12 @@ http://213.186.23.21:8000/Arena%204%20SR?u=00:1A:79:2A:E9:66:p=001A792AE966
 #EXTINF:-1,Arena 5 SR 🇷🇸
 http://213.186.23.21:8000/Arena%205%20SR?u=00:1A:79:2A:E9:66:p=001A792AE966
 
+#EXTINF:-1,NOVA SPORT 🇷🇸
+http://62.182.80.87:8081/Test22/Test22/1248
+
+#EXTINF:-1,MOJA TV SPORT 🇷🇸
+http://62.182.80.87:8081/Test22/Test22/604
+
 #EXTINF:-1,RTSH SPORT 🇦🇱
 http://185.204.32.4:9981/stream/channelid/1261192802|User-Agent=stream
 
@@ -494,6 +500,18 @@ http://213.186.23.21:8000/SportKlub%202%20SD?u=00:1A:79:2A:E9:66:p=001A792AE966
 
 #EXTINF:-1,SK 3 🇭🇷
 http://213.186.23.21:8000/SportKlub%203%20SD?u=00:1A:79:2A:E9:66:p=001A792AE966
+
+#EXTINF:-1,SPORTSKA TV 🇭🇷
+http://62.182.80.87:8081/Test22/Test22/1139
+
+#EXTINF:-1,SPORT TV 1 🇸🇰
+http://62.182.80.87:8081/Test22/Test22/1140
+
+#EXTINF:-1,SPORT TV 2 🇸🇰
+http://62.182.80.87:8081/Test22/Test22/1141
+
+#EXTINF:-1,SPORT TV 3 🇸🇰
+http://62.182.80.87:8081/Test22/Test22/1142
 
 #EXTINF:-1, RTK1 KOSOVO 🇽🇰
 http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8?
