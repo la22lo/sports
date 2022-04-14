@@ -534,6 +534,18 @@ http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8?
 #EXTINF:-1, RTK1 ALBANIA 🇦🇱
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
 
+#EXTINF:-1, NOVA SPORT 🇧🇬
+http://62.182.80.87:8081/Test22/Test22/7849
+
+#EXTINF:-1, MAX SPORT 3 🇧🇬
+http://62.182.80.87:8081/Test22/Test22/7868
+
+#EXTINF:-1, DIEMA SPORT 1 🇧🇬
+http://62.182.80.87:8081/Test22/Test22/7900
+
+#EXTINF:-1, DIEMA SPORT 2 🇧🇬
+http://62.182.80.87:8081/Test22/Test22/7899
+
 #EXTINF:-1, EUROSPORT 1 🇬🇧
 http://185.204.32.4:9981/stream/channelid/577840136
 
