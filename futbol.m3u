@@ -294,6 +294,9 @@ http://93.152.174.144:4000/play/btsportespn/index.m3u8
 #EXTINF:-1, SUPER GRANDSTAND 🇬🇧
 http://178.218.196.218:8000/play/a008/index.m3u8
 
+#EXTINF:-1, SKY MAIN EVENT 🇬🇧
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/259
+
 #EXTINF:-1, ESPN USA 🇺🇸
 http://69.164.224.53:80/ESPN/mpegts
 
