@@ -609,41 +609,20 @@ http://212.102.60.80/Eurosport2/index.m3u8
 #EXTINF:-1, RUSH HD 🇬🇧
 http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
 
-#EXTINF:-1,Sport TV+ 🇵🇹
-http://213.13.23.132/shls/LIVE%24SPORTTV.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
 #EXTINF:-1,Sport TV+ HD 🇵🇹
 http://213.13.23.132/shls/LIVE%24SPORTTV_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1,Sport TV1 🇵🇹
-http://213.13.23.132/shls/LIVE%24SPORTTV1.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
 #EXTINF:-1,Sport TV1 HD 🇵🇹
 http://213.13.23.132/shls/LIVE%24SPORTTV1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
-#EXTINF:-1,Sport TV2 🇵🇹
-http://213.13.23.132/shls/LIVE%24SPORTTV2.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
 #EXTINF:-1,Sport TV2 HD 🇵🇹
 http://213.13.23.132/shls/LIVE%24SPORTTV2_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1,Sport TV3 🇵🇹
-http://213.13.23.132/shls/LIVE%24SPORTTV3.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
 #EXTINF:-1,Sport TV3 HD 🇵🇹
 http://213.13.23.132/shls/LIVE%24SPORTTV3_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
-#EXTINF:-1,Sport TV4 🇵🇹
-http://213.13.23.132/shls/LIVE%24SPORTTV4.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
 #EXTINF:-1,Sport TV4 HD 🇵🇹
 http://213.13.23.132/shls/LIVE%24SPORTTV4_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1,Sport TV4 🇵🇹
-http://213.13.23.132/shls/LIVE%24SPORTTVLive.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1,Sport TV5 🇵🇹
-http://213.13.23.132/shls/LIVE%24SPORTTV5.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
 #EXTINF:-1,Sport TV5 HD 🇵🇹
 http://213.13.23.132/shls/LIVE%24SPORTTV5_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
