@@ -291,6 +291,9 @@ http://45.153.35.224:8000/play/a008
 #EXTINF:-1, BT SPORT ESPNHD 🇬🇧
 http://93.152.174.144:4000/play/btsportespn/index.m3u8
 
+#EXTINF:-1, BT SPORT 2 🇬🇧
+http://line.uhd-ott.com/AzamBala/A86744/103146
+
 #EXTINF:-1, SUPER GRANDSTAND 🇬🇧
 http://178.218.196.218:8000/play/a008/index.m3u8
 
@@ -707,6 +710,9 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 #EXTINF:-1,CBC Azerbaiyán 🇦🇿
 http://185.236.229.31:9981/play/a056
+
+#EXTINF:-1, ZIGGO VOETBAL 🇳🇱
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/896
 
 #EXTINF:-1,M4 Sport 🇭🇺
 http://live.hutv.me:25461/b8byc4GaNB/f4RwbYi752/26420
