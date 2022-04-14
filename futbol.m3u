@@ -60,8 +60,14 @@ http://myott.top/stream/1VGPHYLZTH/235.m3u8
 #EXTINF:-1, DAZN 1 🇩🇪
 http://62.182.80.87:8081/Test22/Test22/907
 
+#EXTINF:-1, DAZN 1 🇩🇪
+http://cloudstream.myddns.me:8080/x9y2U3GM/gArAq642/2238
+
 #EXTINF:-1, DAZN 2 🇩🇪
 http://62.182.80.87:8081/Test22/Test22/908
+
+#EXTINF:-1, DAZN 2 🇩🇪
+http://cloudstream.myddns.me:8080/x9y2U3GM/gArAq642/2239
 
 #EXTINF:-1, beIN SPORTS MALASIA 🇲🇾
 https://nonton.site:8443/live/1842273725/9237641816/37432.m3u8
