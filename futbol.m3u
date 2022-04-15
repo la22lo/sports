@@ -1215,5 +1215,44 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1, BEIN
 http://localchannels.zinamedia.net:80/ar-s/pEmPdyrGGz/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,SPORT TV+
+http://5.43.40.83:9981/stream/channelid/1976817418?ticket=B8281DAACA57CEAF62314AD9F63B57594EFDB752&profile=pass
+
+#EXTINF:-1,Sport TV 1 HD
+http://5.43.40.83:9981/stream/channelid/1956773492?ticket=A7059B08F0C27A46F08961D8DE9C11453CFBF1EF&profile=pass
+
+#EXTINF:-1,Sport TV 2 HD
+http://5.43.40.83:9981/stream/channelid/226857145?ticket=2C5E247C244C7138EA8F7E4A3BE2B3D2ABE7D62B&profile=pass
+
+#EXTINF:-1,Sport TV 3 HD
+http://5.43.40.83:9981/stream/channelid/1073386407?ticket=85C0147899A54731ACD04A78D39BB1AB482895BD&profile=pass
+
+#EXTINF:-1,Sport TV 4 HD
+http://5.43.40.83:9981/stream/channelid/2025372806?ticket=E04E52FE59D604E1B578A300C6E4A153C43B8C05&profile=pass
+
+#EXTINF:-1,Sport TV 5 HD
+http://5.43.40.83:9981/stream/channelid/1755123498?ticket=5BF28C28906432BE0E93CEBD11113967477A1ADC&profile=pass
+
+#EXTINF:-1,Sport TV 6 HD
+http://5.43.40.83:9981/stream/channelid/1766056985?ticket=007B2E6E83C00AF18CC2391882D28F84455163C6&profile=pass
+
+#EXTINF:-1,Eleven Sports 1 HD
+http://5.43.40.83:9981/stream/channelid/253859144?ticket=7AAAB5B866AA554FDDE1AD4653F8C5B955A1AF70&profile=pass
+
+#EXTINF:-1,Eleven Sports 2 HD
+http://5.43.40.83:9981/stream/channelid/296973414?ticket=EC8E71F211DC6E2EC9EDD0C0A123BE3CDC47E0B8&profile=pass
+
+#EXTINF:-1,Eleven Sports 3 HD
+http://5.43.40.83:9981/stream/channelid/289314433?ticket=B071A843292397C0ED9A068EA04F019CAC59FA5F&profile=pass
+
+#EXTINF:-1,Eleven Sports 4 HD
+http://5.43.40.83:9981/stream/channelid/2029515084?ticket=47A43E922139A9C09C7FAE33D956FC997A3CCCB8&profile=pass
+
+#EXTINF:-1, Eleven Sports  5 HD
+http://5.43.40.83:9981/stream/channelid/177924297?ticket=5C614E060DAAACDBDE246B00D857DEFC0165036E&profile=pass
+
+#EXTINF:-1, Eleven Sports 6 HD
+http://5.43.40.83:9981/stream/channelid/1144652434?ticket=E8178F52C174FD208B3553371570B8686EE9E130&profile=pass
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
