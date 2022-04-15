@@ -27,6 +27,9 @@ http://190.2.148.141:8080/bar7642/index.m3u8
 #EXTINF:-1, MTV+ HD 🇮🇳
 http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 
+#EXTINF:-1, LALIGA TV 🇬🇧
+https://d28c1d458041.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.303903229440.channel.OSZZ1xigeDtj.m3u8
+
 #EXTINF:-1, SUPERSPORT TV 🇬🇧
 http://myiptvco.ddns.net:80/live/Janet_Herward/DiSW75G9nH/196180.ts
 
