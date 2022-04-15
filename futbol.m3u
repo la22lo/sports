@@ -1278,5 +1278,32 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1, BEIN
 http://localchannels.zinamedia.net:80/ar-s/pEmPdyrGGz/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,Super Sport 1
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJnlcQ3BkzFyv-fwISRiwVH/ts
+#EXTINF:-1,Super Sport 2
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIKXg4-RvtwjfoZ_PbFgGkk/ts
+#EXTINF:-1,Super Sport 3
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQITyh2t2uws3fBOULyQxHHP/ts
+#EXTINF:-1,Super Sport 4
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQINLlOhdc_ibFySngsz_WXB/ts
+#EXTINF:-1,KUJTESA SPORT 1 HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIRU3T6SdjPmmOAVGTbfhfr/ts
+#EXTINF:-1,KUJTESA SPORT 2 HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLu8vRdneLw0MX96_BThgUy/ts
+#EXTINF:-1,KUJTESA SPORT 3 HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQK_ZCjQnJPPm92iLRZHp6m3/ts
+#EXTINF:-1,KUJTESA SPORT 4 HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIqwf-pFE4SZKzJScAfp9gP/ts
+#EXTINF:-1,RTSH Sport
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQK2dPDAxaUBqS3QyjI-41L-/ts
+#EXTINF:-1,Tring Sport 1
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJsbL0x0iogWL5H5ec7hf5w/ts
+#EXTINF:-1,Tring Sport 2
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLvrhwpFk12Bw3MRc4M7KFk/ts
+#EXTINF:-1,Tring Sport 3
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJ9I55CG4ZkdqcmkF_L3dCD/ts
+#EXTINF:-1,Tring Sport 4
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJa8GKlQA9gqM38Wc1U-Kl6/ts
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
