@@ -324,6 +324,9 @@ http://11121314.fr:8000/00/965341695888844/36203
 #EXTINF:-1, CANAL+ SPORT 🇫🇷 
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJBqdg7Slp6-qg3BmzZyuLoA/ts
 
+#EXTINF:-1, CANAL+ SPORT 3 AFRICA 🇫🇷 
+http://207.244.250.245:25461/SP0R0TFTV@12/V0wak8FI3p/103
+
 #EXTINF:-1, BEIN SPORT 1 ENGLISH 🇬🇧
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 
