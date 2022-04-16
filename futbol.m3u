@@ -1,14 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,ELEVEN SPORT 4 🇵🇹
-http://213.13.23.132/shls/LIVE%24Eleven_Sports_4_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1,ELEVEN SPORTS 4 🇵🇹
-http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJOSZsWI3Dx4VfxyLQOwcoX0/ts
-
-#EXTINF:-1, ORANGE SPORT 4 🇷🇴
-http://62.182.80.87:8081/Test22/Test22/7071
-
 #EXTINF:-1, SUPERSPORT TV 🇬🇧
 http://178.218.196.218:8000/play/a00d/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
 
