@@ -1302,8 +1302,5 @@ http://test.thesmartiptv.com:900/9795803908/8947457935/118060
 #EXTINF:-1, TENNIS
 http://newinfinity3.ddns.net:8000/live/Genius22.kiko/TJe3CAaSdfuy/306.ts
 
-#EXTINF:-1, BEIN
-http://localchannels.zinamedia.net:80/ar-s/pEmPdyrGGz/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
