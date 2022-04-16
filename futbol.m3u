@@ -1296,5 +1296,24 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1, TENNIS
 http://newinfinity3.ddns.net:8000/live/Genius22.kiko/TJe3CAaSdfuy/306.ts
 
+#EXTINF:-1,TRING SPORT 1 HD
+http://test.thesmartiptv.com:900/9795803908/8947457935/118110
+#EXTINF:-1,TRING SPORT 2 HD
+http://test.thesmartiptv.com:900/9795803908/8947457935/118111
+#EXTINF:-1,TRING SPORT 3 HD
+http://test.thesmartiptv.com:900/9795803908/8947457935/118112
+#EXTINF:-1,TRING SPORT 4 HD
+http://test.thesmartiptv.com:900/9795803908/8947457935/118113
+#EXTINF:-1,KUJTESA SPORT 1 HD
+http://test.thesmartiptv.com:900/9795803908/8947457935/184112
+#EXTINF:-1,KUJTESA SPORT 2 HD
+http://test.thesmartiptv.com:900/9795803908/8947457935/184113
+#EXTINF:-1,KUJTESA SPORT 3 HD
+http://test.thesmartiptv.com:900/9795803908/8947457935/184114
+#EXTINF:-1,KUJTESA SPORT 4 HD
+http://test.thesmartiptv.com:900/9795803908/8947457935/184115
+#EXTINF:-1,KUJTESA SPORT 5 HD
+http://test.thesmartiptv.com:900/9795803908/8947457935/400260898
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
