@@ -102,6 +102,9 @@ http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJPAjWOIDxuxDjnIofO3MYFA/ts
 #EXTINF:-1, ESPN VIVO 🇦🇷
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 
+#EXTINF:-1, ESPN VIVO 🇦🇷
+http://138.117.84.82/co_espn/index.m3u8
+
 #EXTINF:-1,ESPN 🇦🇷
 http://45.71.185.142:8500/play/a01e
 
