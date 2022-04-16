@@ -774,6 +774,9 @@ http://213.13.23.132/shls/LIVE%24SPORTTV_HD.CVL/index.m3u8?device=ANDROID_Live&s
 #EXTINF:-1,Sport TV1 HD 🇵🇹
 http://213.13.23.132/shls/LIVE%24SPORTTV1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
+#EXTINF:-1,Sport TV1 🇵🇹
+https://ruwbe3.kkile1web.com/v3/youshi/m3_DFwhzUuzfistv1_480p.m3u8?auth_id=68424638_com.global.brasiltvweb&app_ver=10101&app_id=com.global.brasiltvweb&client_ip=45.163.154.178&user_id=68424638&session_id=I5uAJk5aezs9&dev_limit=1&dev_id=df507261&main_addr=http://ruwbe3.kkile1web.com/v3/youshi/&rst_status=0&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&expired=1650147314&token=AF66284520006BAC7889BC57A4E8BEA8&media_code=m3_DFwhzUuzfistv1_480p
+
 #EXTINF:-1,Sport TV2 HD 🇵🇹
 http://213.13.23.132/shls/LIVE%24SPORTTV2_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
