@@ -1333,6 +1333,14 @@ http://test.thesmartiptv.com:900/9795803908/8947457935/400248378
 http://test.thesmartiptv.com:900/9795803908/8947457935/194549
 #EXTINF:-1,YES Sport5
 http://35.181.48.229:8000/play/a04s
+#EXTINF:-1,Ziggo Sport Extra 1
+http://195.154.242.24:8000/play/a04k/index.m3u8
+#EXTINF:-1,Ziggo Sport Golf
+http://195.154.242.24:8000/play/a04j/index.m3u8
+#EXTINF:-1,Ziggo Sport Select HD
+http://195.154.242.24:8000/play/a04h/index.m3u8
+#EXTINF:-1,Ziggo Sport Voetbal HD
+http://195.154.242.24:8000/play/a04i/index.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
