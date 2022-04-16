@@ -1331,6 +1331,8 @@ http://test.thesmartiptv.com:900/9795803908/8947457935/400248379
 http://test.thesmartiptv.com:900/9795803908/8947457935/400248378
 #EXTINF:-1,DAZN SPORT 1 HD ITA
 http://test.thesmartiptv.com:900/9795803908/8947457935/194549
+#EXTINF:-1,YES Sport5
+http://35.181.48.229:8000/play/a04s
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
