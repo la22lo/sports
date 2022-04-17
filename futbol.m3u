@@ -708,6 +708,7 @@ http://62.182.80.87:8081/Test22/Test22/7900
 #EXTINF:-1, DIEMA SPORT 2 🇧🇬
 http://62.182.80.87:8081/Test22/Test22/7899
 
+
 #EXTINF:-1, EUROSPORT 1 🇬🇧
 http://185.204.32.4:9981/stream/channelid/577840136
 
@@ -1131,6 +1132,15 @@ http://init.cheches.info:80/hls/105.m3u8
 #EXTINF:-1, EVENTS
 http://init.cheches.info/hls/113.m3u8
 
+#EXTINF:-1, EVENTS
+https://acdn.zhengyaning.com/xoilac/channel-1.m3u8?auth_key=19645859083-0-0-fa1de8978707c8a8faef1c05977d451c
+
+#EXTINF:-1, EVENTS
+https://acdn.zhengyaning.com/xoilac/channel-6.m3u8?auth_key=1645859322-0-0-fae0eb082f6836877046b19a4df6672a
+
+#EXTINF:-1, EVENTS
+https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/KKWHM9qqwdaklUPK85Rcrg==,1649975071/channels/cme-ro-prox/playlist.m3u8
+
 #EXTINF:-1, SUPERSPORT EVENTS 🇬🇧
 http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8
 
@@ -1184,9 +1194,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, TENNIS
 http://newinfinity3.ddns.net:8000/live/Genius22.kiko/TJe3CAaSdfuy/306.ts
-
-#EXTINF:-1,YES Sport5
-http://35.181.48.229:8000/play/a04s
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
