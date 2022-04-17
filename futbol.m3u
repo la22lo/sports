@@ -1195,23 +1195,35 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1, TENNIS
 http://newinfinity3.ddns.net:8000/live/Genius22.kiko/TJe3CAaSdfuy/306.ts
 
-#EXTINF:-1, Channel 5
-https://acdn.zhengyaning.com/xoilac/channel-5.m3u8?auth_key=1645859296-0-0-85a698c78d1d59e34239c8e598b43d38
-
-#EXTINF:-1, Channel 4
-https://acdn.zhengyaning.com/xoilac/channel-4.m3u8?auth_key=1645859261-0-0-3e286b5b352187b06d667e9cf873a1ee
-
-#EXTINF:-1, Channel 9
-https://acdn.zhengyaning.com/xoilac/channel-9.m3u8?auth_key=1645859441-0-0-1a12df632ea519cd6141c5e85af14ea5
-
-#EXTINF:-1, Channel 6
-https://acdn.zhengyaning.com/xoilac/channel-6.m3u8?auth_key=1645859322-0-0-fae0eb082f6836877046b19a4df6672a
+#EXTINF:-1, Channel 1
+https://acdn.zhengyaning.com/xoilac/channel-1.m3u8?auth_key=19645859083-0-0-fa1de8978707c8a8faef1c05977d451c
 
 #EXTINF:-1, Channel 2
 https://acdn.zhengyaning.com/xoilac/channel-2.m3u8?auth_key=1645859164-0-0-e297e18045e4ff30ab55d343f14b8f42
 
-#EXTINF:-1, Channel 1
+#EXTINF:-1, Channel 3
 https://acdn.zhengyaning.com/xoilac/channel-3.m3u8?auth_key=1645859224-0-0-0dfcca14c00221f49af88e8df85a8f26
+
+#EXTINF:-1, Channel 4
+https://acdn.zhengyaning.com/xoilac/channel-4.m3u8?auth_key=1645859261-0-0-3e286b5b352187b06d667e9cf873a1ee
+
+#EXTINF:-1, Channel 5
+https://acdn.zhengyaning.com/xoilac/channel-5.m3u8?auth_key=1645859296-0-0-85a698c78d1d59e34239c8e598b43d38
+
+#EXTINF:-1, Channel 6
+https://acdn.zhengyaning.com/xoilac/channel-6.m3u8?auth_key=1645859322-0-0-fae0eb082f6836877046b19a4df6672a
+
+#EXTINF:-1, Channel 7
+https://acdn.zhengyaning.com/xoilac/channel-7.m3u8?auth_key=1645859345-0-0-963cacbbd0a3d4a32bc9baaf0bd43a2a
+
+#EXTINF:-1, Channel 8
+https://acdn.zhengyaning.com/xoilac/channel-8.m3u8?auth_key=1645859421-0-0-f41d5ef6017c01d6b3b23d7e009cdf9c
+
+#EXTINF:-1, Channel 9
+https://acdn.zhengyaning.com/xoilac/channel-9.m3u8?auth_key=1645859441-0-0-1a12df632ea519cd6141c5e85af14ea5
+
+#EXTINF:-1, Channel 10
+https://acdn.zhengyaning.com/xoilac/channel-10.m3u8?auth_key=1645859460-0-0-b7025c023971adda1514bdd7ec8fbdaf
 
 #EXTINF:-1, Channel 11
 https://acdn.zhengyaning.com/xoilac/channel-11.m3u8?auth_key=1645859482-0-0-6bc23936151f20c56d90cec933fb17d3
