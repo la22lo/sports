@@ -1195,5 +1195,20 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1, TENNIS
 http://newinfinity3.ddns.net:8000/live/Genius22.kiko/TJe3CAaSdfuy/306.ts
 
+#EXTINF:-1, Channel 5
+https://acdn.zhengyaning.com/xoilac/channel-5.m3u8?auth_key=1645859296-0-0-85a698c78d1d59e34239c8e598b43d38
+
+#EXTINF:-1, Channel 4
+https://acdn.zhengyaning.com/xoilac/channel-4.m3u8?auth_key=1645859261-0-0-3e286b5b352187b06d667e9cf873a1ee
+
+#EXTINF:-1, Channel 9
+https://acdn.zhengyaning.com/xoilac/channel-9.m3u8?auth_key=1645859441-0-0-1a12df632ea519cd6141c5e85af14ea5
+
+#EXTINF:-1, Channel 6
+https://acdn.zhengyaning.com/xoilac/channel-6.m3u8?auth_key=1645859322-0-0-fae0eb082f6836877046b19a4df6672a
+
+#EXTINF:-1, Channel 2
+https://acdn.zhengyaning.com/xoilac/channel-2.m3u8?auth_key=1645859164-0-0-e297e18045e4ff30ab55d343f14b8f42
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
