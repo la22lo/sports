@@ -15,6 +15,9 @@ http://161.230.155.157:8000/play/a02u
 #EXTINF:-1, Channel 4
 https://acdn.zhengyaning.com/xoilac/channel-4.m3u8?auth_key=1645859261-0-0-3e286b5b352187b06d667e9cf873a1ee
 
+#EXTINF:-1,LIGA TV 🇬🇧
+https://5c90ebfa23e3.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.979680664481.channel.pwdIBh44sjSK.m3u8
+
 #EXTINF:-1,beIN Sports 1 SD 🇶🇦
 http://62.210.170.186:8080/live/TVSHQIP/FAKTESHQIP/322.m3u8
 
