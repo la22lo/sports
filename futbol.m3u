@@ -1083,48 +1083,6 @@ https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w192207
 #EXTINF:-1, EUROSPORT
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 
-#EXTINF:-1, SSC 1 🇸🇦
-http://localchannels.zinamedia.net/ar-s/SSC1/index.m3u8
-
-#EXTINF:-1, SSC 2 🇸🇦
-http://localchannels.zinamedia.net/ar-s/SSC2/index.m3u8
-
-#EXTINF:-1, SSC 3 🇸🇦
-http://localchannels.zinamedia.net/ar-s/SSC3/index.m3u8
-
-#EXTINF:-1, SSC 4 🇸🇦
-http://localchannels.zinamedia.net/ar-s/SSC4/index.m3u8
-
-#EXTINF:-1, SSC 5 🇸🇦
-http://localchannels.zinamedia.net/ar-s/SSC5/index.m3u8
-
-#EXTINF:-1, SSC 6 🇸🇦
-http://localchannels.zinamedia.net/ar-s/SSC6/index.m3u8
-
-#EXTINF:-1, SSC 7 🇸🇦
-http://localchannels.zinamedia.net/ar-s/SSC7/index.m3u8
-
-#EXTINF:-1,SSC 1 HD 🇸🇦
-http://195.154.200.168:8004/play/a05l/index.m3u8
-
-#EXTINF:-1,SSC 2 HD 🇸🇦
-http://195.154.200.168:8004/play/a05m/index.m3u8
-
-#EXTINF:-1,SSC 3 HD 🇸🇦
-http://195.154.200.168:8004/play/a05n/index.m3u8
-
-#EXTINF:-1,SSC 4 HD 🇸🇦
-http://195.154.200.168:8004/play/a05o/index.m3u8
-
-#EXTINF:-1,SSC 5 HD 🇸🇦
-http://195.154.200.168:8004/play/a05p/index.m3u8
-
-#EXTINF:-1,SSC 6 HD 🇸🇦
-http://195.154.200.168:8004/play/a05q/index.m3u8
-
-#EXTINF:-1,SSC 7 HD 🇸🇦 
-http://195.154.200.168:8004/play/a05r/index.m3u8
-
 #EXTINF:-1, A SPORTS 🇮🇳
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 
