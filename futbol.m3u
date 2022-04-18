@@ -1201,6 +1201,12 @@ http://194.58.42.152:8000/play/setantasports1hd/index.m3u8
 #EXTINF:-1,Setanta Sports 2 HD
 http://194.58.42.152:8000/play/setantasports2hd/index.m3u8
 
+#EXTINF:-1,Setanta Sports 1 HD
+http://134.0.113.120:8000/play/setantasports1hd/index.m3u8
+
+#EXTINF:-1,Setanta Sports 2 HD
+http://134.0.113.120:8000/play/setantasports2hd/index.m3u8
+
 #EXTINF:-1,RTA SPORTS AFG FHD
 http://193.228.193.179:8000/play/a00z
 
