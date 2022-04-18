@@ -1159,5 +1159,41 @@ https://acdn.zhengyaning.com/xoilac/channel-10.m3u8?auth_key=1645859460-0-0-b702
 #EXTINF:-1, Channel 11
 https://acdn.zhengyaning.com/xoilac/channel-11.m3u8?auth_key=1645859482-0-0-6bc23936151f20c56d90cec933fb17d3
 
+#EXTINF:-1,ESPN HD 
+http://170.83.242.153:5150/play/a05h
+
+#EXTINF:-1,ESPN 2 HD 
+http://170.83.242.153:5150/play/a05i 
+
+#EXTINF:-1,ESPN 3 HD 
+http://170.83.242.153:5150/play/a0dh 
+
+#EXTINF:-1,ESPN 4 HD 
+http://170.83.242.153:5150/play/a057 
+
+#EXTINF:-1,ESPN EXTRA HD 
+http://170.83.242.153:5150/play/a03k 
+
+#EXTINF:-1,FOX SPORTS 2 HD 
+http://170.83.242.153:5150/play/a0dk 
+
+#EXTINF:-1,FOX SPORTS 3 HD 
+http://170.83.242.153:5150/play/a042
+
+#EXTINF:-1,TIGO SPORTS HD 
+http://170.83.242.153:5150/play/a036 
+
+#EXTINF:-1,TIGO SPORTS+ HD 
+http://170.83.242.153:5150/play/a0a1 
+
+#EXTINF:-1,TIGO SPORTS+ HD CARD00 
+http://170.83.242.153:5150/play/a02q 
+
+#EXTINF:-1,TIGO SPORTS+ HD CARD01 
+http://170.83.242.153:5150/play/a0e7 
+
+#EXTINF:-1,TYC SPORTS HD 
+http://170.83.242.153:5150/play/a04t
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
