@@ -117,6 +117,12 @@ http://45.71.185.142:8500/play/a015
 #EXTINF:-1,ESPN 4 🇦🇷
 http://45.71.185.142:8500/play/a021
 
+#EXTINF:-1,FOX SPORTS 2 HD 
+http://170.83.242.153:5150/play/a0dk 
+
+#EXTINF:-1,FOX SPORTS 3 HD 
+http://170.83.242.153:5150/play/a042
+
 #EXTINF:-1,Fox Sports 2 🇦🇷
 http://45.71.185.142:8500/play/a01n
 
@@ -1173,12 +1179,6 @@ https://acdn.zhengyaning.com/xoilac/channel-10.m3u8?auth_key=1645859460-0-0-b702
 
 #EXTINF:-1, Channel 11
 https://acdn.zhengyaning.com/xoilac/channel-11.m3u8?auth_key=1645859482-0-0-6bc23936151f20c56d90cec933fb17d3
-
-#EXTINF:-1,FOX SPORTS 2 HD 
-http://170.83.242.153:5150/play/a0dk 
-
-#EXTINF:-1,FOX SPORTS 3 HD 
-http://170.83.242.153:5150/play/a042
 
 #EXTINF:-1,TIGO SPORTS HD 
 http://170.83.242.153:5150/play/a036 
