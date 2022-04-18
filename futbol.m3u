@@ -784,6 +784,9 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 #EXTINF:-1,CBC Azerbaiyán 🇦🇿
 http://185.236.229.31:9981/play/a056
 
+#EXTINF:-1, CBC Sport 🇦🇿
+http://193.228.193.179:8000/play/a01k
+
 #EXTINF:-1, ZIGGO VOETBAL 🇳🇱
 http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/896
 
@@ -1210,9 +1213,6 @@ https://acdn.zhengyaning.com/xoilac/channel-11.m3u8?auth_key=1645859482-0-0-6bc2
 
 #EXTINF:-1,RTA SPORTS AFG FHD
 http://193.228.193.179:8000/play/a00z
-
-#EXTINF:-1, CBC Sport AZ
-http://193.228.193.179:8000/play/a01k
 
 #EXTINF:-1,YES Sport5
 http://193.228.193.179:8000/play/a04s
