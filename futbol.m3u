@@ -967,7 +967,6 @@ http://170.83.242.153:5150/play/a02q
 #EXTINF:-1,TIGO SPORTS+ HD CARD01 🇵🇾
 http://170.83.242.153:5150/play/a0e7 
 
-
 #EXTINF:-1,WINO SPORTS 🇨🇴
 http://node1.smartersapp.net:2082/live/UDUPLEXR001/PDUPLEXR002/705.chunklist_w894316004512896005217.m3u8?mvk
 
@@ -991,6 +990,9 @@ https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w192207
 
 #EXTINF:-1, EUROSPORT
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
+
+#EXTINF:-1,RTA SPORTS 🇦🇫
+http://193.228.193.179:8000/play/a00z
 
 #EXTINF:-1, A SPORTS 🇮🇳
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
@@ -1210,9 +1212,6 @@ https://acdn.zhengyaning.com/xoilac/channel-10.m3u8?auth_key=1645859460-0-0-b702
 
 #EXTINF:-1, Channel 11
 https://acdn.zhengyaning.com/xoilac/channel-11.m3u8?auth_key=1645859482-0-0-6bc23936151f20c56d90cec933fb17d3
-
-#EXTINF:-1,RTA SPORTS 🇦🇫
-http://193.228.193.179:8000/play/a00z
 
 #EXTINF:-1,YES Sport5
 http://193.228.193.179:8000/play/a04s
