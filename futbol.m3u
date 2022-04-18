@@ -462,32 +462,17 @@ http://46.29.169.15:4001/play/a004/index.m3u8
 #EXTINF:-1,Arena Sport 3 HD 🇷🇸
 http://185.205.201.101:8024/play/a05m
 
-#EXTINF:-1,SportKlub 1 HD 🇷🇸
-http://not0.online:4209/CryptoSkype/BqFXikioW5/245
-
 #EXTINF:-1,SportKlub 2 HD 🇷🇸
 http://185.205.201.101:8024/play/a05k
 
 #EXTINF:-1, SPORT KLUB HD 2 🇷🇸
 http://194.15.225.98:8000/play/a2qz
 
-#EXTINF:-1,SportKlub 2 HD 🇷🇸
-http://not0.online:4209/CryptoSkype/BqFXikioW5/246
-
 #EXTINF:-1,SportKlub 3 HD 🇷🇸
 http://185.205.201.101:8024/play/a05l
 
 #EXTINF:-1, SPORT KLUB HD 3 🇷🇸
 http://194.15.225.98:8000/play/a2qt
-
-#EXTINF:-1,SportKlub 3 HD 🇷🇸
-http://not0.online:4209/CryptoSkype/BqFXikioW5/247
-
-#EXTINF:-1,SportKlub 4 HD 🇷🇸
-http://not0.online:4209/CryptoSkype/BqFXikioW5/248
-
-#EXTINF:-1,SportKlub 5 HD 🇷🇸
-http://not0.online:4209/CryptoSkype/BqFXikioW5/249
 
 #EXTINF:-1,SportKlub Start 🇷🇸
 http://185.205.201.101:8024/play/a05o
@@ -509,9 +494,6 @@ http://213.186.23.21:8000/Arena%205%20SR?u=00:1A:79:2A:E9:66:p=001A792AE966
 
 #EXTINF:-1,NOVA SPORT 🇷🇸
 http://62.182.80.87:8081/Test22/Test22/1248
-
-#EXTINF:-1,NOVA SPORT 🇷🇸
-http://not0.online:4209/CryptoSkype/BqFXikioW5/193
 
 #EXTINF:-1,MOJA TV SPORT 🇷🇸
 http://62.182.80.87:8081/Test22/Test22/604
@@ -802,12 +784,6 @@ http://193.228.193.179:8000/play/a04v
 #EXTINF:-1,YES Sport5 Stars FHD 🇮🇱
 http://193.228.193.179:8000/play/a04u
 
-#EXTINF:-1, ZIGGO VOETBAL 🇳🇱
-http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/896
-
-#EXTINF:-1, ZIGGO SELECT 🇳🇱
-http://not0.online:4209/CryptoSkype/BqFXikioW5/270
-
 #EXTINF:-1,M4 Sport 🇭🇺
 http://live.hutv.me:25461/b8byc4GaNB/f4RwbYi752/26420
 
@@ -852,9 +828,6 @@ http://62.182.80.87:8081/Test22/Test22/875
 
 #EXTINF:-1 , ORF SPORT + 🇦🇹
 http://62.182.80.87:8081/Test22/Test22/2926
-
-#EXTINF:-1 , ORF SPORT + 🇦🇹
-http://not0.online:4209/CryptoSkype/BqFXikioW5/1517
 
 #EXTINF:-1 , SAN MARINO SPORT 🇸🇲
 http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
