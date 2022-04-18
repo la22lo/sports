@@ -937,6 +937,19 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
 #EXTINF:-1,GOL TV 🇧🇷
 http://45.71.185.142:8500/play/a03b
 
+#EXTINF:-1,TIGO SPORTS HD 🇵🇾
+http://170.83.242.153:5150/play/a036 
+
+#EXTINF:-1,TIGO SPORTS+ HD 🇵🇾
+http://170.83.242.153:5150/play/a0a1 
+
+#EXTINF:-1,TIGO SPORTS+ HD CARD00 🇵🇾
+http://170.83.242.153:5150/play/a02q 
+
+#EXTINF:-1,TIGO SPORTS+ HD CARD01 🇵🇾
+http://170.83.242.153:5150/play/a0e7 
+
+
 #EXTINF:-1,WINO SPORTS 🇨🇴
 http://node1.smartersapp.net:2082/live/UDUPLEXR001/PDUPLEXR002/705.chunklist_w894316004512896005217.m3u8?mvk
 
@@ -1179,18 +1192,6 @@ https://acdn.zhengyaning.com/xoilac/channel-10.m3u8?auth_key=1645859460-0-0-b702
 
 #EXTINF:-1, Channel 11
 https://acdn.zhengyaning.com/xoilac/channel-11.m3u8?auth_key=1645859482-0-0-6bc23936151f20c56d90cec933fb17d3
-
-#EXTINF:-1,TIGO SPORTS HD 🇵🇾
-http://170.83.242.153:5150/play/a036 
-
-#EXTINF:-1,TIGO SPORTS+ HD 
-http://170.83.242.153:5150/play/a0a1 
-
-#EXTINF:-1,TIGO SPORTS+ HD CARD00 
-http://170.83.242.153:5150/play/a02q 
-
-#EXTINF:-1,TIGO SPORTS+ HD CARD01 
-http://170.83.242.153:5150/play/a0e7 
 
 #EXTINF:-1,TYC SPORTS HD 
 http://170.83.242.153:5150/play/a04t
