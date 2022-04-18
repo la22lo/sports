@@ -21,12 +21,6 @@ https://5c90ebfa23e3.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.
 #EXTINF:-1,beIN Sports 1 SD 🇶🇦
 http://62.210.170.186:8080/live/TVSHQIP/FAKTESHQIP/322.m3u8
 
-#EXTINF:-1,beIN Sports 1 🇶🇦
-http://11121314.fr:8000/00/965341695888844/393338
-
-#EXTINF:-1,MMN SPORT HD 🇮🇶
-http://190.2.148.141:8080/bar7642/index.m3u8
-
 #EXTINF:-1, MTV+ HD 🇮🇳
 http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 
