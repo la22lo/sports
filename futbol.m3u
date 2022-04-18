@@ -138,6 +138,9 @@ https://dubr2rz6c5qdz.cloudfront.net/live-stream/61c21f28fa354108218ed3a3/publis
 #EXTINF:-1, TV MAX 🇦🇷
 https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/playlist_dvr.m3u8
 
+#EXTINF:-1,TYC SPORTS HD 🇦🇷
+http://170.83.242.153:5150/play/a04t
+
 #EXTINF:-1, TNT SPORTS 🇧🇷
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
@@ -1192,9 +1195,6 @@ https://acdn.zhengyaning.com/xoilac/channel-10.m3u8?auth_key=1645859460-0-0-b702
 
 #EXTINF:-1, Channel 11
 https://acdn.zhengyaning.com/xoilac/channel-11.m3u8?auth_key=1645859482-0-0-6bc23936151f20c56d90cec933fb17d3
-
-#EXTINF:-1,TYC SPORTS HD 
-http://170.83.242.153:5150/play/a04t
 
 #EXTINF:-1,Setanta Sports 1 HD 017
 http://194.58.42.152:8000/play/setantasports1hd/index.m3u8
