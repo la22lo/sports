@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
+https://5g9s179kfgx9wn8tqwj9-cul47i-stp.p5cdn.com/dlive/transcode-81-110/jose98465/1650306770/src/live.m3u8
+
 #EXTINF:-1, SUPERSPORT TV 🇬🇧
 http://178.218.196.218:8000/play/a00d/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
 
