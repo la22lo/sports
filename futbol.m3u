@@ -15,6 +15,9 @@ https://d8ubxolpw9bus.cloudfront.net/live/a2/chunks.m3u8
 #EXTINF:-1, LALIGA TV 🇬🇧
 http://dwpzr86d4430d.cloudfront.net:80/stream/Mzk0Nw==/1080p.m3u8
 
+#EXTINF:-1, PREMIERE SPORT 🇬🇧
+https://0cb79f18204b.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.500746704626.channel.HxskL8e6FLLG.m3u8
+
 #EXTINF:-1,ELEVEN SPORT 1 🇵🇹
 http://213.13.23.132/shls/LIVE%24Eleven_Sports_1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
