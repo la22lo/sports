@@ -33,11 +33,8 @@ http://213.13.23.132/shls/LIVE%24Eleven_Sports_3_HD.CVL/index.m3u8?device=ANDROI
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
-#EXTINF:-1, ELEVEN SPORT 1 🇵🇹
-http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJIlbAuux2Qjgom4M0Y1VZBc/ts
-
 #EXTINF:-1, ELEVEN SPORT 2 🇵🇹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
+http://213.13.23.132/shls/LIVE%24Eleven_Sports_2_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
 #EXTINF:-1,SUPERSPORT LIGA 🇬🇧
 http://init.cheches.info/hls/103.m3u8
