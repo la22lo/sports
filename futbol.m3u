@@ -1204,5 +1204,11 @@ https://acdn.zhengyaning.com/xoilac/channel-10.m3u8?auth_key=1645859460-0-0-b702
 #EXTINF:-1, Channel 11
 https://acdn.zhengyaning.com/xoilac/channel-11.m3u8?auth_key=1645859482-0-0-6bc23936151f20c56d90cec933fb17d3
 
+#EXTINF:-1, DAZN 1 HD
+http://toolsworldiptv.org:8080/Ademkirmizi/5zuTZKKPOo/7230
+
+#EXTINF:-1, DAZN 2 HD
+http://toolsworldiptv.org:8080/Ademkirmizi/5zuTZKKPOo/7231
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
