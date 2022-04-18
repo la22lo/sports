@@ -1195,5 +1195,11 @@ http://170.83.242.153:5150/play/a0e7
 #EXTINF:-1,TYC SPORTS HD 
 http://170.83.242.153:5150/play/a04t
 
+#EXTINF:-1,Setanta Sports 1 HD 017
+http://194.58.42.152:8000/play/setantasports1hd/index.m3u8
+
+#EXTINF:-1,Setanta Sports 2 HD
+http://194.58.42.152:8000/play/setantasports2hd/index.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
