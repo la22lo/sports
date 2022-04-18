@@ -87,6 +87,21 @@ http://newinfinity3.ddns.net:8000/live/Genius22.kiko/TJe3CAaSdfuy/306.ts
 #EXTINF:-1, VAMOS 🇪🇸
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJPAjWOIDxuxDjnIofO3MYFA/ts
 
+#EXTINF:-1,ESPN HD 🇦🇷
+http://170.83.242.153:5150/play/a05h
+
+#EXTINF:-1,ESPN 2 HD 🇦🇷
+http://170.83.242.153:5150/play/a05i 
+
+#EXTINF:-1,ESPN 3 HD 🇦🇷
+http://170.83.242.153:5150/play/a0dh 
+
+#EXTINF:-1,ESPN 4 HD 🇦🇷
+http://170.83.242.153:5150/play/a057 
+
+#EXTINF:-1,ESPN EXTRA HD 🇦🇷
+http://170.83.242.153:5150/play/a03k 
+
 #EXTINF:-1, ESPN VIVO 🇦🇷
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 
@@ -1158,21 +1173,6 @@ https://acdn.zhengyaning.com/xoilac/channel-10.m3u8?auth_key=1645859460-0-0-b702
 
 #EXTINF:-1, Channel 11
 https://acdn.zhengyaning.com/xoilac/channel-11.m3u8?auth_key=1645859482-0-0-6bc23936151f20c56d90cec933fb17d3
-
-#EXTINF:-1,ESPN HD 
-http://170.83.242.153:5150/play/a05h
-
-#EXTINF:-1,ESPN 2 HD 
-http://170.83.242.153:5150/play/a05i 
-
-#EXTINF:-1,ESPN 3 HD 
-http://170.83.242.153:5150/play/a0dh 
-
-#EXTINF:-1,ESPN 4 HD 
-http://170.83.242.153:5150/play/a057 
-
-#EXTINF:-1,ESPN EXTRA HD 
-http://170.83.242.153:5150/play/a03k 
 
 #EXTINF:-1,FOX SPORTS 2 HD 
 http://170.83.242.153:5150/play/a0dk 
