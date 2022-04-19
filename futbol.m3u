@@ -1231,5 +1231,8 @@ http://85.245.237.73:8082/play/a00b
 #EXTINF:-1,A SPOR HD
 http://46.29.169.27:8000/play/a01o
 
+#EXTINF:-1,CNT SPORTS SD
+http://45.225.95.170:8000/play/a0o1/index.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
