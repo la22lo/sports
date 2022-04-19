@@ -85,6 +85,9 @@ https://nonton.site:8443/live/1842273725/9237641816/729.m3u8
 http://admin:admin@185.4.34.93:9981/stream/channelid/1586464194?profile=pass
 
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7797:424:1:C00000:0:0:0:
+
+#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJH9gUYooJbVMF7v-Il8_bps/ts
 
 #EXTINF:-1, MOVISTAR LALIGA 2 🇪🇸
@@ -92,6 +95,9 @@ http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJOM9-HqsaWnxwL_OyUXGh1I/ts
 
 #EXTINF:-1, VAMOS 🇪🇸
 http://newinfinity3.ddns.net:8000/live/Genius22.kiko/TJe3CAaSdfuy/306.ts
+
+#EXTINF:-1, VAMOS HD 🇪🇸
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7734:416:1:C00000:0:0:0:
 
 #EXTINF:-1, VAMOS 🇪🇸
 http://admin:admin@185.4.34.93:9981/stream/channelid/1647922213?profile=pass
