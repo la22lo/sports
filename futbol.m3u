@@ -1263,5 +1263,8 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1, BEIN 3
+http://31.172.87.31:2200//EX/bein13sd-ar/tracks-v1a1/mono.m3u8?token=RED_WSSGchiwqGgN-JELQZYSew%3D%3D%2C1650358280.9659699029=|User-agent=REDLINECLIENT
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
