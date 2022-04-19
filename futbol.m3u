@@ -327,6 +327,12 @@ http://grl.dream-tv.org:2082/live/ikram_286249/GkYqOAh8/151567.m3u8
 #EXTINF:-1, BEIN SPORT 3 ENGLISH 🇬🇧
 http://grl.dream-tv.org:2082/live/ikram_286249/GkYqOAh8/151568.m3u8
 
+#EXTINF:-1,79.BT SPORT 1 🇬🇧
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+
+#EXTINF:-1,80.BT SPORT 2 🇬🇧
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+
 #EXTINF:-1, BT SPORT 2 🇬🇧
 http://line.uhd-ott.com/AzamBala/A86744/103146
 
@@ -1026,6 +1032,9 @@ https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w192207
 
 #EXTINF:-1, EUROSPORT
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
+
+#EXTINF:-1, TURKMENISTAN SPORTS 
+http://217.174.225.146/hls/ch004_720/index.m3u8
 
 #EXTINF:-1,RTA SPORTS 🇦🇫
 http://193.228.193.179:8000/play/a00z
