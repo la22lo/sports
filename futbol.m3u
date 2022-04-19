@@ -1302,18 +1302,5 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, DIRECTV SPORTS 2   HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/285224
-#EXTINF:-1, DIRECTV SPORTS ARG   HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/285202
-#EXTINF:-1, DIRECTV SPORTS CHILE   FHD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/285200
-#EXTINF:-1, DIRECTV SPORTS URY   HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/285201
-#EXTINF:-1, DIRECTV SPORTS   HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/285223
-#EXTINF:-1, SKY SPORTS LA LIGA   HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/285210
-
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
