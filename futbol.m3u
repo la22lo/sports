@@ -928,6 +928,15 @@ http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6825/index.m3u8
 #EXTINF:-1,S SPORT 2 🇹🇷
 http://nx4545.xyz:80/live/ademgumus/ademgumus/35.ts
 
+#EXTINF:-1,TİVİBU SPOR HD 🇹🇷
+http://46.29.169.27:8000/play/a04f
+
+#EXTINF:-1,beIN SPORTS HABER 🇹🇷
+http://46.29.169.27:8000/play/a045
+
+#EXTINF:-1,beIN SPORTS HABER HD 🇹🇷
+http://46.29.169.27:8000/play/a044
+
 #EXTINF:-1, TVRI SPORT 🇹🇷
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
@@ -1227,18 +1236,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,TİVİBU SPOR HD
-http://46.29.169.27:8000/play/a04f
-
-#EXTINF:-1,ULKE TV HD
-http://46.29.169.27:8000/play/a01w
-
-#EXTINF:-1,beIN SPORTS HABER
-http://46.29.169.27:8000/play/a045
-
-#EXTINF:-1,beIN SPORTS HABER HD
-http://46.29.169.27:8000/play/a044
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
