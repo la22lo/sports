@@ -693,6 +693,11 @@ http://62.182.80.87:8081/Test22/Test22/7900
 #EXTINF:-1, DIEMA SPORT 2 🇧🇬
 http://62.182.80.87:8081/Test22/Test22/7899
 
+#EXTINF:-1, Sport 1 🇨🇿 
+http://panel.ooguy.com:9002/Sport1.m3u8
+
+#EXTINF:-1, Sport 2 🇨🇿 
+http://panel.ooguy.com:9002/Sport2.m3u8
 
 #EXTINF:-1, EUROSPORT 1 🇬🇧
 http://185.204.32.4:9981/stream/channelid/577840136
@@ -949,6 +954,9 @@ http://46.29.169.27:8000/play/a045
 #EXTINF:-1,beIN SPORTS HABER HD 🇹🇷
 http://46.29.169.27:8000/play/a044
 
+#EXTINF:-1, TURKMENISTAN SPORTS 🇹🇷
+http://217.174.225.146/hls/ch004_720/index.m3u8
+
 #EXTINF:-1, TVRI SPORT 🇹🇷
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
@@ -1032,9 +1040,6 @@ https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w192207
 
 #EXTINF:-1, EUROSPORT
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
-
-#EXTINF:-1, TURKMENISTAN SPORTS 
-http://217.174.225.146/hls/ch004_720/index.m3u8
 
 #EXTINF:-1,RTA SPORTS 🇦🇫
 http://193.228.193.179:8000/play/a00z
