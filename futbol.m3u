@@ -123,6 +123,12 @@ http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C3:40A:1:C00000:0:0:0:
 #EXTINF:-1, Directv 🇦🇷
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
+#EXTINF:-1, Directv Sports Plus 🇦🇷
+https://shortgod.com/vip/pllatino3.php?id=667&f=.m3u8
+
+#EXTINF:-1, Directv Sports Plus HD 🇦🇷
+https://shortgod.com/vip/pllatino3.php?id=259&f=.m3u8
+
 #EXTINF:-1,ESPN HD 🇦🇷
 http://170.83.242.153:5150/play/a05h
 
