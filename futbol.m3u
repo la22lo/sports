@@ -1228,5 +1228,17 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1,TİVİBU SPOR HD
+http://46.29.169.27:8000/play/a04f
+
+#EXTINF:-1,ULKE TV HD
+http://46.29.169.27:8000/play/a01w
+
+#EXTINF:-1,beIN SPORTS HABER
+http://46.29.169.27:8000/play/a045
+
+#EXTINF:-1,beIN SPORTS HABER HD
+http://46.29.169.27:8000/play/a044
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
