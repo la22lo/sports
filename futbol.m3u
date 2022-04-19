@@ -15,17 +15,11 @@ http://213.13.23.132/shls/LIVE%24Eleven_Sports_1_HD.CVL/index.m3u8?device=ANDROI
 #EXTINF:-1,Eleven Sports 1 🇵🇹
 http://161.230.155.157:8000/play/a02u
 
-#EXTINF:-1,LIGA 🇪🇸
-http://livehls.ltjuq.top/ofmatch/HD335768.m3u8?auth_key=1650392274-f0c3cf94a2d1c8a0cbb7c7655414601b-0-518acf1377c56091836447864e856ff3
-
 #EXTINF:-1,LIGA TV 🇬🇧
 https://5c90ebfa23e3.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.979680664481.channel.pwdIBh44sjSK.m3u8
 
 #EXTINF:-1,beIN Sports 1 SD 🇶🇦
 http://62.210.170.186:8080/live/TVSHQIP/FAKTESHQIP/322.m3u8
-
-#EXTINF:-1,beIN YAYA 1 🇶🇦
-https://167b4551ff40.us-east-1.playback.live-video.net/api/video/v1/us-east-1.148890269452.channel.Nkoi5sDcWDf7.m3u8?token=eyJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy1lYXN0LTE6MTQ4ODkwMjY5NDUyOmNoYW5uZWwvTmtvaTVzRGNXRGY3IiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8vYXBwLmhvcGluLmNvbSIsImV4cCI6MTY1MDM4ODQ5MywiaG9waW46dWlkIjoiMEVpcWl6ZEd3aGE4Q0s1bWFNa2dqYnZIVyJ9.XCsMSLDiX2iWeUg1Ysi4HE7b30vP93cWdkub6u0ny7aPCjSTz4YEClu2TbdlGrrxVCSslGl6qnzQIOpZQmxEoUacHPj2WD0p_pg45LX0b2SVprVhVa9VtswM-EAYl9Sg
 
 #EXTINF:-1, MTV+ HD 🇮🇳
 http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
