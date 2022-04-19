@@ -1,25 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
-https://5g9s179kfgx9wn8tqwj9-cul47i-stp.p5cdn.com/dlive/transcode-81-110/jose98465/1650306770/src/live.m3u8
-
 #EXTINF:-1, SUPERSPORT TV 🇬🇧
 http://178.218.196.218:8000/play/a00d/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754
 
 #EXTINF:-1, SUPERSPORT TV 🇬🇧
 http://178.218.196.218:8000/play/a00d/index.m3u8
-
-#EXTINF:-1, S LALIGA 🇬🇧
-https://d8ubxolpw9bus.cloudfront.net/live/a2/chunks.m3u8
-
-#EXTINF:-1, LALIGA TV 🇬🇧
-http://dwpzr86d4430d.cloudfront.net:80/stream/Mzk0Nw==/1080p.m3u8
-
-#EXTINF:-1, LALIGA TV 🇬🇧
-http://d2nl6vzjz0wdxu.cloudfront.net:80/stream/Mzk0Nw==/1080p.m3u8
-
-#EXTINF:-1, PREMIERE SPORT 🇬🇧
-https://0cb79f18204b.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.500746704626.channel.HxskL8e6FLLG.m3u8
 
 #EXTINF:-1,ELEVEN SPORT 1 🇵🇹
 http://213.13.23.132/shls/LIVE%24Eleven_Sports_1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
