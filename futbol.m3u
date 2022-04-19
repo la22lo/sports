@@ -90,6 +90,9 @@ http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7797:424:1:C00000:0:0:0:
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJH9gUYooJbVMF7v-Il8_bps/ts
 
+#EXTINF:-1, MOVISTAR LALIGA 1 🇪🇸
+http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:769D:41E:1:C00000:0:0:0:
+
 #EXTINF:-1, MOVISTAR LALIGA 2 🇪🇸
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJOM9-HqsaWnxwL_OyUXGh1I/ts
 
