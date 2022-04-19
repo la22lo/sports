@@ -1195,5 +1195,34 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1,Bein Sports 1
+http://85.245.237.73:8082/play/a00c
+#EXTINF:-1,Bein Sports 2
+http://85.245.237.73:8082/play/a00d
+#EXTINF:-1,Bein Sports 3
+http://85.245.237.73:8082/play/a00e
+#EXTINF:-1,Bt Sport 1 HD
+http://85.245.237.73:8082/play/a009
+#EXTINF:-1,Bt Sport 2
+http://85.245.237.73:8082/play/a00a
+#EXTINF:-1,Sky Sports Action
+http://85.245.237.73:8082/play/a005
+#EXTINF:-1,Sky Sports Arena
+http://85.245.237.73:8082/play/a002
+#EXTINF:-1,Sky Sports Football
+http://85.245.237.73:8082/play/a008
+#EXTINF:-1,Sky Sports Golf
+http://85.245.237.73:8082/play/a007
+#EXTINF:-1,Sky Sports Main Event
+http://85.245.237.73:8082/play/a004
+#EXTINF:-1,Sky Sports News
+http://85.245.237.73:8082/play/a003
+#EXTINF:-1,Sky Sports Premier League
+http://85.245.237.73:8082/play/a006
+#EXTINF:-1,Sport Tv 1
+http://85.245.237.73:8082/play/a001
+#EXTINF:-1,Stream CCTV
+http://85.245.237.73:8082/play/a00b
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
