@@ -786,6 +786,12 @@ http://lb.wisp.cat/lb0/DMEGO2_HD/video.m3u8?token=FREETVUKRAINE
 #EXTINF:-1,MEGOGO 3 HD 🇺🇦
 http://lb.wisp.cat/lb0/DMEGO3_HD/video.m3u8?token=FREETVUKRAINE
 
+#EXTINF:-1, порт 1 🇺🇦
+http://212.115.255.196/Jfd85Hf/sport1.m3u8
+
+#EXTINF:-1, порт 2 🇺🇦
+http://212.115.255.196/Jfd85Hf/sport2.m3u8
+
 #EXTINF:-1, VIASAT SPORT 🇸🇪
 https://sc.id-tv.kz:443/ViasatSport_34_35.m3u8
 
