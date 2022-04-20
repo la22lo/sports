@@ -858,8 +858,8 @@ http://iptv.prosto.tv:7000/ch109/video.m3u8
 #EXTINF:-1, KBP SPORT 🇷🇺
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-#EXTINF:-1,CBC Azerbaiyán 🇦🇿
-http://185.236.229.31:9981/play/a056
+#EXTINF:-1, Беларусь 5
+http://82.209.197.187:8080/udp/239.0.100.9:1234
 
 #EXTINF:-1, CBC Sport 🇦🇿
 http://193.228.193.179:8000/play/a01k
@@ -1316,21 +1316,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1, Беларусь 5
-http://82.209.197.187:8080/udp/239.0.100.9:1234
-
-#EXTINF:-1,MAX Sport 1 HD
-http://78.83.191.18:8000/play/a073
-
-#EXTINF:-1,MAX Sport 2 HD
-http://78.83.191.18:8000/play/a074
-
-#EXTINF:-1,MAX Sport 3 HD
-http://78.83.191.18:8000/play/a075
-
-#EXTINF:-1, MAX Sport 4 HD
-http://78.83.191.18:8000/play/a07f
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
