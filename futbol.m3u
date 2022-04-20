@@ -54,6 +54,12 @@ http://134.0.113.120:8000/play/setantasports1hd/index.m3u8
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
 http://134.0.113.120:8000/play/setantasports2hd/index.m3u8
 
+#EXTINF:-1,Setanta Sports 1 HD 🇷🇺
+https://livetv.mylifeisgood.ml/channels/setantahd
+
+#EXTINF:-1,Setanta Sports 2 HD 🇷🇺
+https://livetv.mylifeisgood.ml/channels/setantaplus
+
 #EXTINF:-1, DAZN 1 🇩🇪
 http://62.182.80.87:8081/Test22/Test22/907
 
@@ -416,6 +422,30 @@ https://nonton.site:8443/live/1842273725/9237641816/499.m3u8
 
 #EXTINF:-1, ESPN2 🇺🇸
 https://nonton.site:8443/live/1842273725/9237641816/299.m3u8
+ 
+#EXTINF:-1, SUPER SPORT 1HD 🇦🇱
+http://45.58.122.106:8081/live/ss1/playlist.m3u8
+
+#EXTINF:-1, SUPER SPORT 1HD 🇦🇱
+http://45.58.122.106:8081/live/s1/playlist.m3u8
+
+#EXTINF:-1, SUPER SPORT 2HD 🇦🇱
+http://45.58.122.106:8081/live/s2/playlist.m3u8
+
+#EXTINF:-1, SUPER SPORT 3HD 🇦🇱
+http://45.58.122.106:8081/live/ss3/playlist.m3u8
+
+#EXTINF:-1, SUPER SPORT 3HD 🇦🇱
+http://45.58.122.106:8081/live/s3/playlist.m3u8
+
+#EXTINF:-1, SUPER SPORT 4HD 🇦🇱
+http://45.58.122.106:8081/live/ss4/playlist.m3u8
+
+#EXTINF:-1, SUPER SPORT 4HD 🇦🇱 
+http://45.58.122.106:8081/live/ss2/playlist.m3u8
+
+#EXTINF:-1, SUPER SPORT 4HD 🇦🇱
+http://45.58.122.106:8081/live/s4/playlist.m3u8
 
 #EXTINF:-1, ELEVEN SPORT 1 POLONIA 🇵🇱
 http://62.182.80.87:8081/Test22/Test22/7389
@@ -801,6 +831,12 @@ http://134.0.113.120:8000/play/setantasports1hd/index.m3u8
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
 http://134.0.113.120:8000/play/setantasports2hd/index.m3u8
 
+#EXTINF:-1,Setanta Sports 1 HD 🇷🇺
+https://livetv.mylifeisgood.ml/channels/setantahd
+
+#EXTINF:-1,Setanta Sports 2 HD 🇷🇺
+https://livetv.mylifeisgood.ml/channels/setantaplus
+
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
 
@@ -833,6 +869,12 @@ http://62.182.80.87:8081/Test22/Test22/8208
 
 #EXTINF:-1, Футбол 🇷🇺
 http://80.237.96.66:9090/stream/channelid/179317365?ticket=DA8EC54EEBE7A94F39F16B645F93F14F2B1AFA9F&profile=pass
+
+#EXTINF:-1, ФУТБOЛ 1HD 🇷🇺
+http:/146.158.30.190:8000/futbol1
+
+#EXTINF:-1, ФУТБOЛ 2HD 🇷🇺
+http:/146.158.30.190:8000/futbol2
 
 #EXTINF:-1,MEGOGO 1 HD 🇺🇦
 http://lb.wisp.cat/lb0/DMEGO1_HD/video.m3u8?token=FREETVUKRAINE
@@ -875,6 +917,9 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 #EXTINF:-1, Беларусь 5
 http://82.209.197.187:8080/udp/239.0.100.9:1234
+
+#EXTINF:-1, Беларусь 5
+http://37.17.14.149:8910/play/a009
 
 #EXTINF:-1, CBC Sport 🇦🇿
 http://193.228.193.179:8000/play/a01k
