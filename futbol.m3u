@@ -147,6 +147,12 @@ https://shortgod.com/vip/pllatino3.php?id=667&f=.m3u8
 #EXTINF:-1, Directv Sports Plus HD 🇦🇷
 https://shortgod.com/vip/pllatino3.php?id=259&f=.m3u8
 
+#EXTINF:-1,TELECOSTA 🇦🇷
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+
+#EXTINF:-1,WOW TV 🇦🇷
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
 #EXTINF:-1,ESPN HD 🇦🇷
 http://170.83.242.153:5150/play/a05h
 
