@@ -24,6 +24,9 @@ http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 #EXTINF:-1, SUPER SPORT 4HD 🇦🇱
 http://45.58.122.106:8081/live/ss4/playlist.m3u8
 
+#EXTINF:-1, NOVA Sport 3 🇨🇿 
+http://84.42.140.147:8890/hdmi
+
 #EXTINF:-1, SUPERSPORT TV 🇬🇧
 http://myiptvco.ddns.net:80/live/Janet_Herward/DiSW75G9nH/196180.ts
 
@@ -454,6 +457,15 @@ http://45.58.122.106:8081/live/ss2/playlist.m3u8
 http://45.58.122.106:8081/live/s4/playlist.m3u8
 
 #EXTINF:-1, ELEVEN SPORT 1 POLONIA 🇵🇱
+http://185.205.201.44:8019/play/a04c/index.m3u8
+
+#EXTINF:-1, ELEVEN SPORT 2 POLONIA 🇵🇱
+http://185.205.201.44:8019/play/a04d/index.m3u8
+
+#EXTINF:-1, ELEVEN SPORT 3 POLONIA 🇵🇱
+http://185.205.201.44:8019/play/a04e/index.m3u8
+
+#EXTINF:-1, ELEVEN SPORT 1 POLONIA 🇵🇱
 http://62.182.80.87:8081/Test22/Test22/7389
 
 #EXTINF:-1, ELEVEN SPORT 2 POLONIA 🇵🇱
@@ -791,6 +803,18 @@ http://panel.ooguy.com:9002/Sport1.m3u8
 
 #EXTINF:-1, Sport 2 🇨🇿 
 http://panel.ooguy.com:9002/Sport2.m3u8
+
+#EXTINF:-1, JOJ Sport 🇨🇿 
+https://nn.geo.joj.sk/live/hls/rik-540.m3u8
+
+#EXTINF:-1, NOVA Sport 1 🇨🇿 
+http://77.247.225.101:9186/stream/channelid/781580623&profile=test
+
+#EXTINF:-1, NOVA Sport 3 🇨🇿 
+http://84.42.140.147:8890/hdmi
+
+#EXTINF:-1, SPORT PREMIUM 🇨🇿 
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 
 #EXTINF:-1, EUROSPORT 1 🇬🇧
 http://185.204.32.4:9981/stream/channelid/577840136
