@@ -1323,5 +1323,29 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1, Bein Sports 1 HD 
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/14981
+
+#EXTINF:-1, Bein Sports 2 HD 
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/14983
+
+#EXTINF:-1, Bein Sports 3 
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/14985
+
+#EXTINF:-1, Bein Sports 4 
+http://stream.tvtap.live:8081/live/bein4.stream/chunks.m3u8
+
+#EXTINF:-1, Bein Sports 4 HD
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/14987
+
+#EXTINF:-1, Bein Sports 5
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/14989
+
+#EXTINF:-1, Bein Sports 6
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/14991
+
+#EXTINF:-1, Bein Sports 7
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/14993
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
