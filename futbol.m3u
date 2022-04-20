@@ -21,6 +21,9 @@ http://62.210.170.186:8080/live/TVSHQIP/FAKTESHQIP/322.m3u8
 #EXTINF:-1, MTV+ HD 🇮🇳
 http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 
+#EXTINF:-1, SUPER SPORT 4HD 🇦🇱
+http://45.58.122.106:8081/live/ss4/playlist.m3u8
+
 #EXTINF:-1, SUPERSPORT TV 🇬🇧
 http://myiptvco.ddns.net:80/live/Janet_Herward/DiSW75G9nH/196180.ts
 
