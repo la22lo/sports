@@ -12,8 +12,11 @@ https://d1wwjcf3u80zop.cloudfront.net/live/a2/chunks.m3u8?SBNhttps://player.akiw
 #EXTINF:-1,SUPERSPORT LIGA 🇬🇧
 http://mykingtv.net:2082/Yapang98/Dragon98/12741
 
-#EXTINF:-1,beIN 1 MALASYA
+#EXTINF:-1,beIN 1 MY 🇲🇾
 http://mykingtv.net:2082/Yapang98/Dragon98/8414
+
+#EXTINF:-1, BeIN Sport 1 ID 🇮🇩
+http://mykingtv.net:2082/Yapang98/Dragon98/8651
 
 #EXTINF:-1,beIN Sports 1 SD 🇶🇦
 http://62.210.170.186:8080/live/TVSHQIP/FAKTESHQIP/322.m3u8
@@ -65,6 +68,12 @@ https://nonton.site:8443/live/1842273725/9237641816/37432.m3u8
 
 #EXTINF:-1, bEIN 3 MALASIA 🇲🇾
 https://nonton.site:8443/live/1842273725/9237641816/37433.m3u8
+
+#EXTINF:-1, BeIN Sport 1 ID 🇮🇩
+http://mykingtv.net:2082/Yapang98/Dragon98/8651
+
+#EXTINF:-1, BeIN Sport 2 ID 🇮🇩
+http://mykingtv.net:2082/Yapang98/Dragon98/8652
 
 #EXTINF:-1, BeIN Sport 1 ID 🇮🇩
 https://nonton.site:8443/live/1842273725/9237641816/728.m3u8
