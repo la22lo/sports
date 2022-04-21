@@ -428,12 +428,6 @@ http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8
 
 #EXTINF:-1, ESPN 2 USA 🇺🇸
 http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8
-
-#EXTINF:-1, ESPN 🇺🇸
-https://nonton.site:8443/live/1842273725/9237641816/499.m3u8
-
-#EXTINF:-1, ESPN2 🇺🇸
-https://nonton.site:8443/live/1842273725/9237641816/299.m3u8
  
 #EXTINF:-1, SUPER SPORT 1HD 🇦🇱
 http://45.58.122.106:8081/live/ss1/playlist.m3u8
