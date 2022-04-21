@@ -339,47 +339,17 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:-1, beIN Sports 1 French 🇫🇷
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
 
-#EXTINF:-1, beIN Sports 1 French 🇫🇷
-http://11121314.fr:8000/00/965341695888844/36207
-
 #EXTINF:-1, beIN Sports 2 French 🇫🇷
 http://93.152.174.144:4000/play/bein2fr/index.m3u8
-
-#EXTINF:-1, beIN Sports 2 French 🇫🇷
-http://11121314.fr:8000/00/965341695888844/36208
 
 #EXTINF:-1, beIN Sports 3 French 🇫🇷
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
 
-#EXTINF:-1, beIN Sports 3 French 🇫🇷
-http://11121314.fr:8000/00/965341695888844/36209
-
-#EXTINF:-1 ,BEIN SPORT MAX 4 🇫🇷
-http://11121314.fr:8000/00/965341695888844/36210
-
-#EXTINF:-1 ,BEIN SPORT MAX 5 🇫🇷
-http://11121314.fr:8000/00/965341695888844/36211
-
-#EXTINF:-1 ,BEIN SPORT MAX 6 🇫🇷
-http://11121314.fr:8000/00/965341695888844/36212
-
-#EXTINF:-1 ,BEIN SPORT MAX 7 🇫🇷
-http://11121314.fr:8000/00/965341695888844/36213
-
-#EXTINF:-1 ,BEIN SPORT MAX 8 🇫🇷
-http://11121314.fr:8000/00/965341695888844/36214
-
 #EXTINF:-1 ,RMC 1 🇫🇷
 http://185.184.192.166/RMC1/mpegts
 
-#EXTINF:-1 ,RMC 1 🇫🇷
-http://11121314.fr:8000/00/965341695888844/36202
-
 #EXTINF:-1 ,RMC 2 🇫🇷
 http://185.184.192.166/RMC2/mpegts
-
-#EXTINF:-1 ,RMC 2 🇫🇷
-http://11121314.fr:8000/00/965341695888844/36203
 
 #EXTINF:-1, BEIN SPORT 1 ENGLISH 🇬🇧
 http://grl.dream-tv.org:2082/live/ikram_286249/GkYqOAh8/151566.m3u8
