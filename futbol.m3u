@@ -847,28 +847,16 @@ https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 http://62.182.80.87:8081/Test22/Test22/8205
 
 #EXTINF:-1, Футбол 1 🇷🇺
-http://80.237.96.66:9090/stream/channelid/1447584418?ticket=421CCD7B1F55D2BEAF0796AF28338DBB6840D5C7&profile=pass
-
-#EXTINF:-1, Футбол 1 🇷🇺
 http://myott.tv/stream/MEITIIUJNS/130.m3u8
 
 #EXTINF:-1, Футбол 1 🇷🇺
 http://62.182.80.87:8081/Test22/Test22/8206
 
 #EXTINF:-1, Футбол 2 🇷🇺
-http://80.237.96.66:9090/stream/channelid/927470349?ticket=4AC1FD6BFB840BFDA0D8FA44B2ABE1DE00617625&profile=pass
-
-#EXTINF:-1, Футбол 2 🇷🇺
 http://62.182.80.87:8081/Test22/Test22/8207
 
 #EXTINF:-1, Футбол 3 🇷🇺
-http://80.237.96.66:9090/stream/channelid/1429424341?ticket=DC32E4FDAB18819CC3C91C835EEA0C57ED9FEEBD&profile=pass
-
-#EXTINF:-1, Футбол 3 🇷🇺
 http://62.182.80.87:8081/Test22/Test22/8208
-
-#EXTINF:-1, Футбол 🇷🇺
-http://80.237.96.66:9090/stream/channelid/179317365?ticket=DA8EC54EEBE7A94F39F16B645F93F14F2B1AFA9F&profile=pass
 
 #EXTINF:-1, ФУТБOЛ 1HD 🇷🇺
 http:/146.158.30.190:8000/futbol1
