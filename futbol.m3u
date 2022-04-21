@@ -1104,12 +1104,6 @@ http://170.83.242.153:5150/play/a02q
 #EXTINF:-1,TIGO SPORTS+ HD CARD01 🇵🇾
 http://170.83.242.153:5150/play/a0e7 
 
-#EXTINF:-1,WINO SPORTS 🇨🇴
-http://node1.smartersapp.net:2082/live/UDUPLEXR001/PDUPLEXR002/705.chunklist_w894316004512896005217.m3u8?mvk
-
-#EXTINF:-1,WINO SPORTS 🇨🇴
-http://198.144.159.40/1ccw4STnayG4sTSKUnWrOQ/1650172146/3231362e3133312e38342e3539/ff56/playlist.m3u8?mvk
-
 #EXTINF:-1,Rai Sport + HD 🇮🇹
 http://185.234.217.24:8018/play/a06i
 
