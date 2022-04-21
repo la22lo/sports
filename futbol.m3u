@@ -9,6 +9,9 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 #EXTINF:-1, LIGA TV 🇬🇧
 https://bd911d026808.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.500746704626.channel.q6eyiTmpJBrx.m3u8
 
+#EXTINF:-1, LIGA TV 🇬🇧
+http://d19iphtv9h35kt.cloudfront.net:80/stream/Mzk5Ng==/1080p.m3u8?SBN
+
 #EXTINF:-1, S LIGA 🇬🇧
 http://d3fux4819m73bb.cloudfront.net:80/stream/Mzk5OQ==/1080p.m3u8?SBN
 
