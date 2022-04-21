@@ -6,12 +6,6 @@ http://161.230.155.157:8000/play/a02u
 #EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 
-#EXTINF:-1,S LIGA 🇬🇧
-https://king.hockeynews.club/live/3/playlist.m3u8
-
-#EXTINF:-1, beIN Sports 1 🇶🇦
-https://live-ak.vimeocdn.com/exp=1650571650~acl=%2F3ca5ff82-08f6-472c-ac57-6a707a8e38d0%2F%2A~hmac=1126abc6163bab5988a02af63a103a16fc4d5d22f38bd51a6151b3263fd24233/3ca5ff82-08f6-472c-ac57-6a707a8e38d0/chunklist_b2056000.m3u8
-
 #EXTINF:-1, beIN Sports 1 🇶🇦
 https://tx.hls.nimo.tv/live/su2039516379340rf2f4d5b4b6eb018ba6288526c7a73811.m3u8
 
