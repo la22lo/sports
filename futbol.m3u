@@ -30,8 +30,8 @@ http://62.210.170.186:8080/live/TVSHQIP/FAKTESHQIP/322.m3u8
 #EXTINF:-1, MTV+ HD 🇮🇳
 http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 
-#EXTINF:-1, SUPER SPORT 4HD 🇦🇱
-http://45.58.122.106:8081/live/s4/playlist.m3u8
+#EXTINF:-1, SUPER SPORT 2HD 🇦🇱
+http://45.58.122.106:8081/live/s2/playlist.m3u8
 
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
