@@ -30,8 +30,20 @@ http://mykingtv.net:2082/Yapang98/Dragon98/12741
 #EXTINF:-1,beIN 1 MY 🇲🇾
 http://mykingtv.net:2082/Yapang98/Dragon98/8414
 
+#EXTINF:-1, bEIN MAX MALASIA 🇲🇾
+http://mykingtv.net:2082/Yapang98/Dragon98/8413
+
 #EXTINF:-1, BeIN Sport 1 ID 🇮🇩
 http://mykingtv.net:2082/Yapang98/Dragon98/8651
+
+#EXTINF:-1, BeIN Sport 2 ID 🇮🇩
+http://mykingtv.net:2082/Yapang98/Dragon98/8652
+
+#EXTINF:-1, beIN Sports 1 ID 🇮🇩
+https://zz@iptv.lancartech.co.id:8443/topan/54637/25
+
+#EXTINF:-1, beIN Sports 3 ID 🇮🇩
+https://zz@iptv.lancartech.co.id:8443/topan/54637/26
 
 #EXTINF:-1,beIN Sports 1 SD 🇶🇦
 http://62.210.170.186:8080/live/TVSHQIP/FAKTESHQIP/322.m3u8
@@ -92,15 +104,6 @@ http://62.182.80.87:8081/Test22/Test22/907
 
 #EXTINF:-1, DAZN 2 🇩🇪
 http://62.182.80.87:8081/Test22/Test22/908
-
-#EXTINF:-1, bEIN MAX MALASIA 🇲🇾
-http://mykingtv.net:2082/Yapang98/Dragon98/8413
-
-#EXTINF:-1, BeIN Sport 1 ID 🇮🇩
-http://mykingtv.net:2082/Yapang98/Dragon98/8651
-
-#EXTINF:-1, BeIN Sport 2 ID 🇮🇩
-http://mykingtv.net:2082/Yapang98/Dragon98/8652
 
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://admin:admin@185.4.34.93:9981/stream/channelid/1586464194?profile=pass
@@ -1382,27 +1385,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 ,DSTV SuperSport La Liga
-http://iptv.tvmalaysia.cc:80/174726/174726/6575
-
-#EXTINF:-1 ,beIN Sports
-http://iptv.tvmalaysia.cc:80/174726/174726/6749
-
-#EXTINF:-1 ,beIN MAX
-http://iptv.tvmalaysia.cc:80/174726/174726/6748
-
-#EXTINF:-1 ,beIN MAX 2
-http://iptv.tvmalaysia.cc:80/174726/174726/7195
-
-#EXTINF:-1, beIN Sports 1 ID
-https://zz@iptv.lancartech.co.id:8443/topan/54637/25
-
-#EXTINF:-1, beIN Sports 3 ID
-https://zz@iptv.lancartech.co.id:8443/topan/54637/26
-
-#EXTINF:-1, beIN xtra
-http://1tv1.net:8080/hakim2021/123456/15721
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
