@@ -243,24 +243,6 @@ http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8?token=rk%F0%9F%8F%8F
 #EXTINF:-1, GEO SUPER 🇮🇳
 http://221.120.204.4:80/geo-super-LOCKLE/tracks-v1a1/mono.m3u8?shareext.m3u8
 
-#EXTINF:-1,ELEVEN SPORT 1 🇵🇹
-http://213.13.23.132/shls/LIVE%24Eleven_Sports_1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1,ELEVEN SPORT 2 🇵🇹
-http://213.13.23.132/shls/LIVE%24Eleven_Sports_2_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1,ELEVEN SPORT 3 🇵🇹
-http://213.13.23.132/shls/LIVE%24Eleven_Sports_3_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1,ELEVEN SPORT 4 🇵🇹
-http://213.13.23.132/shls/LIVE%24Eleven_Sports_4_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1,ELEVEN SPORT 5 🇵🇹
-http://213.13.23.132/shls/LIVE%24Eleven_Sports_5_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1,ELEVEN SPORT 6 🇵🇹
-http://213.13.23.132/shls/LIVE%24Eleven_Sports_6_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
 #EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 
@@ -827,30 +809,6 @@ http://212.102.60.80/Eurosport2/index.m3u8
 
 #EXTINF:-1, RUSH HD 🇬🇧
 http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
-
-#EXTINF:-1,Sport TV+ HD 🇵🇹
-http://213.13.23.132/shls/LIVE%24SPORTTV_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1,Sport TV1 HD 🇵🇹
-http://213.13.23.132/shls/LIVE%24SPORTTV1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1,Sport TV1 🇵🇹
-https://ruwbe3.kkile1web.com/v3/youshi/m3_DFwhzUuzfistv1_480p.m3u8?auth_id=68424638_com.global.brasiltvweb&app_ver=10101&app_id=com.global.brasiltvweb&client_ip=45.163.154.178&user_id=68424638&session_id=I5uAJk5aezs9&dev_limit=1&dev_id=df507261&main_addr=http://ruwbe3.kkile1web.com/v3/youshi/&rst_status=0&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&expired=1650147314&token=AF66284520006BAC7889BC57A4E8BEA8&media_code=m3_DFwhzUuzfistv1_480p
-
-#EXTINF:-1,Sport TV2 HD 🇵🇹
-http://213.13.23.132/shls/LIVE%24SPORTTV2_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1,Sport TV3 HD 🇵🇹
-http://213.13.23.132/shls/LIVE%24SPORTTV3_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1,Sport TV4 HD 🇵🇹
-http://213.13.23.132/shls/LIVE%24SPORTTV4_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1,Sport TV5 HD 🇵🇹
-http://213.13.23.132/shls/LIVE%24SPORTTV5_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1, SPORT TV AO VIVO 🇵🇹
-http://213.13.23.132/shls/LIVE%24PFC.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
 #EXTINF:-1,Setanta Sports 1 HD 🇷🇺
 http://194.58.42.152:8000/play/setantasports1hd/index.m3u8
