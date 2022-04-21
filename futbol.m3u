@@ -1395,5 +1395,14 @@ http://iptv.tvmalaysia.cc:80/174726/174726/6748
 #EXTINF:-1 ,beIN MAX 2
 http://iptv.tvmalaysia.cc:80/174726/174726/7195
 
+#EXTINF:-1, beIN Sports 1 ID
+https://zz@iptv.lancartech.co.id:8443/topan/54637/25
+
+#EXTINF:-1, beIN Sports 3 ID
+https://zz@iptv.lancartech.co.id:8443/topan/54637/26
+
+#EXTINF:-1, beIN xtra
+http://1tv1.net:8080/hakim2021/123456/15721
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
