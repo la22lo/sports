@@ -1035,12 +1035,6 @@ https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=koceng&channel=spotv2
 #EXTINF:-1,SPOTV 🇲🇾
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 
-#EXTINF:-1, SPOTV 1 🇲🇾
-https://nonton.site:8443/live/1842273725/9237641816/51.m3u8
-
-#EXTINF:-1, SPOTV 2 🇲🇾
-https://nonton.site:8443/live/1842273725/9237641816/101.m3u8
-
 #EXTINF:-1,TVONE 🇲🇾
 http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
 
@@ -1352,9 +1346,6 @@ https://70.32.30.155:443/proxy.php/https://playoutengine.sinclairstoryline.com/p
 
 #EXTINF:-1, TENNIS 3 PLUS 🇬🇧
 https://70.32.30.155/proxy.php/https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/f.m3u8
-
-#EXTINF:-1, Tennis LIVE 1 HD 🇬🇧
-https://nonton.site:8443/live/1842273725/9237641816/102.m3u8
 
 #EXTINF:-1, TENNIS LIVE 2 🇬🇧
 http://Richi@stream2.grandma.fit/acc.m3u8
