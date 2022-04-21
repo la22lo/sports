@@ -1386,5 +1386,14 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,DSTV SuperSport La Liga
 http://iptv.tvmalaysia.cc:80/174726/174726/6575
 
+#EXTINF:-1 ,beIN Sports
+http://iptv.tvmalaysia.cc:80/174726/174726/6749
+
+#EXTINF:-1 ,beIN MAX
+http://iptv.tvmalaysia.cc:80/174726/174726/6748
+
+#EXTINF:-1 ,beIN MAX 2
+http://iptv.tvmalaysia.cc:80/174726/174726/7195
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
