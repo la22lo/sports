@@ -432,11 +432,11 @@ http://62.182.80.87:8081/Test22/Test22/7308
 #EXTINF:-1, SUPERSPORT 🇽🇰
 http://62.182.80.87:8081/Test22/Test22/1037
 
-#EXTINF:-1, LOOK SPORT 1 🇷🇴
-http://62.182.80.87:8081/Test22/Test22/7051
-
-#EXTINF:-1, LOOK SPORT PLUS 🇷🇴
+#EXTINF:-1, PRIMA SPORT 1 🇷🇴
 http://62.182.80.87:8081/Test22/Test22/7050
+
+#EXTINF:-1, PRIMA SPORT 2 🇷🇴
+http://62.182.80.87:8081/Test22/Test22/7051
 
 #EXTINF:-1,Look Sport + HD
 http://149.62.177.105:8001/play/a00e/index.m3u8
