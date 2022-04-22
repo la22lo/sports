@@ -18,6 +18,9 @@ http://mykingtv.net:2082/Yapang98/Dragon98/12741
 #EXTINF:-1, LALIGA TV 🇬🇧
 https://hostcloud.network/live/aD8C1ETPQU28/842373/71325.ts
 
+#EXTINF:-1,SUPERSPORT LIGA 🇬🇧
+https://hostcloud.network/live/aD8C1ETPQU28/842373/102245.ts
+
 #EXTINF:-1,beIN 1 MY 🇲🇾
 http://mykingtv.net:2082/Yapang98/Dragon98/8414
 
@@ -350,6 +353,24 @@ http://93.152.174.144:4000/play/btsportespn/index.m3u8
 
 #EXTINF:-1, SUPER GRANDSTAND 🇬🇧
 http://mykingtv.net:2082/Yapang98/Dragon98/12747
+
+#EXTINF:-1, SUPER MAXIMO 🇬🇧
+https://hostcloud.network/live/aD8C1ETPQU28/842373/102807.ts
+
+#EXTINF:-1, SUPERSPORT PSL 🇬🇧
+https://hostcloud.network/live/aD8C1ETPQU28/842373/102244.ts
+
+#EXTINF:-1, S VARIETY 1 🇬🇧
+https://hostcloud.network/live/aD8C1ETPQU28/842373/102240.ts
+
+#EXTINF:-1, S VARIETY 2 🇬🇧
+https://hostcloud.network/live/aD8C1ETPQU28/842373/102241.ts
+
+#EXTINF:-1, S VARIETY 3 🇬🇧
+https://hostcloud.network/live/aD8C1ETPQU28/842373/102236.ts
+
+#EXTINF:-1, S VARIETY 4 🇬🇧
+https://hostcloud.network/live/aD8C1ETPQU28/842373/102237.ts
 
 #EXTINF:-1, PREMIER SPORT 1 🇬🇧
 https://hostcloud.network/live/aD8C1ETPQU28/842373/266.ts
