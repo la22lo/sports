@@ -334,9 +334,6 @@ http://93.152.174.144:4000/play/btsport3/index.m3u8
 http://urtv.cc:80/444386/444386/6610
 
 #EXTINF:-1, BT SPORT 2 🇬🇧
-https://16live00.akamaized.net/BTSPORTS2/index.m3u8
-
-#EXTINF:-1, BT SPORT 2 🇬🇧
 http://urtv.cc:80/444386/444386/6611
 
 #EXTINF:-1, BT SPORT 3 🇬🇧
@@ -363,26 +360,26 @@ http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8
 #EXTINF:-1, SUPER SPORT 1HD 🇦🇱
 http://45.58.122.106:8081/live/ss1/playlist.m3u8
 
-#EXTINF:-1, SUPER SPORT 1HD 🇦🇱
-http://45.58.122.106:8081/live/s1/playlist.m3u8
-
-#EXTINF:-1, SUPER SPORT 2HD 🇦🇱
-http://45.58.122.106:8081/live/s2/playlist.m3u8
+#EXTINF:-1, SUPER SPORT 2HD 🇦🇱 
+http://45.58.122.106:8081/live/ss2/playlist.m3u8
 
 #EXTINF:-1, SUPER SPORT 3HD 🇦🇱
 http://45.58.122.106:8081/live/ss3/playlist.m3u8
 
-#EXTINF:-1, SUPER SPORT 3HD 🇦🇱
-http://45.58.122.106:8081/live/s3/playlist.m3u8
-
 #EXTINF:-1, SUPER SPORT 4HD 🇦🇱
 http://45.58.122.106:8081/live/ss4/playlist.m3u8
 
-#EXTINF:-1, SUPER SPORT 4HD 🇦🇱 
-http://45.58.122.106:8081/live/ss2/playlist.m3u8
+#EXTINF:-1, SUPERSPORT 1 🇦🇱
+http://62.182.80.87:8081/Test22/Test22/1018
 
-#EXTINF:-1, SUPER SPORT 4HD 🇦🇱
-http://45.58.122.106:8081/live/s4/playlist.m3u8
+#EXTINF:-1, SUPERSPORT 2 🇦🇱
+http://62.182.80.87:8081/Test22/Test22/1019
+
+#EXTINF:-1, SUPERSPORT 3 🇦🇱
+http://62.182.80.87:8081/Test22/Test22/1020
+
+#EXTINF:-1, SUPERSPORT 4 🇦🇱
+http://62.182.80.87:8081/Test22/Test22/1021
 
 #EXTINF:-1, ELEVEN SPORT 1 POLONIA 🇵🇱
 http://185.205.201.44:8019/play/a04c/index.m3u8
@@ -432,21 +429,6 @@ http://62.182.80.87:8081/Test22/Test22/7309
 #EXTINF:-1, POLSAT SPORT PREMIUM 4 🇵🇱
 http://62.182.80.87:8081/Test22/Test22/7308
 
-#EXTINF:-1, SUPERSPORT 1 🇦🇱
-http://62.182.80.87:8081/Test22/Test22/1018
-
-#EXTINF:-1, SUPERSPORT 2 🇦🇱
-http://62.182.80.87:8081/Test22/Test22/1019
-
-#EXTINF:-1, SUPERSPORT 3 🇦🇱
-http://62.182.80.87:8081/Test22/Test22/1020
-
-#EXTINF:-1, SUPERSPORT 4 🇦🇱
-http://62.182.80.87:8081/Test22/Test22/1021
-
-#EXTINF:-1, ARENA 2 HD 🇦🇱
-http://xtremeport.com:80/nogaj4323/tony32323/384264.m3u8
-
 #EXTINF:-1, SUPERSPORT 🇽🇰
 http://62.182.80.87:8081/Test22/Test22/1037
 
@@ -482,9 +464,6 @@ http://62.182.80.87:8081/Test22/Test22/7071
 
 #EXTINF:-1, ARENA SPORT 1 PREMIUM 🇷🇸
 http://46.29.169.15:4001/play/a00g/index.m3u8
-
-#EXTINF:-1, ARENA SPORT 1 PREMIUM 🇷🇸
-http://5.183.209.201:8080/live/22vahid99593/razmjena114352/21442.m3u8?
 
 #EXTINF:-1, ARENA SPORT 2 PREMIUM 🇷🇸
 http://46.29.169.15:4001/play/a00h/index.m3u8
@@ -552,26 +531,8 @@ http://194.15.225.98:8000/play/a2qt
 #EXTINF:-1,SportKlub Start 🇷🇸
 http://185.205.201.101:8024/play/a05o
 
-#EXTINF:-1,Arena 1 SR 🇷🇸
-http://213.186.23.21:8000/Arena%201%20SR?u=00:1A:79:2A:E9:66:p=001A792AE966
-
-#EXTINF:-1,Arena 2 SR 🇷🇸
-http://213.186.23.21:8000/Arena%202%20SR?u=00:1A:79:2A:E9:66:p=001A792AE966
-
-#EXTINF:-1,Arena 3 SR 🇷🇸
-http://213.186.23.21:8000/Arena%203%20SR?u=00:1A:79:2A:E9:66:p=001A792AE966
-
-#EXTINF:-1,Arena 4 SR 🇷🇸
-http://213.186.23.21:8000/Arena%204%20SR?u=00:1A:79:2A:E9:66:p=001A792AE966
-
-#EXTINF:-1,Arena 5 SR 🇷🇸
-http://213.186.23.21:8000/Arena%205%20SR?u=00:1A:79:2A:E9:66:p=001A792AE966
-
 #EXTINF:-1,NOVA SPORT 🇷🇸
 http://62.182.80.87:8081/Test22/Test22/1248
-
-#EXTINF:-1,MOJA TV SPORT 🇷🇸
-http://62.182.80.87:8081/Test22/Test22/604
 
 #EXTINF:-1,RTSH SPORT 🇦🇱
 http://185.204.32.4:9981/stream/channelid/1261192802|User-Agent=stream
@@ -603,9 +564,6 @@ http://46.29.169.15:4001/play/a005/index.m3u8|User-Agent=stream
 #EXTINF:-1, Arena Sport 5 HR 🇭🇷 
 http://46.29.169.15:4001/play/a006/index.m3u8|User-Agent=stream
 
-#EXTINF:-1, SK HD Croacia 🇭🇷
-http://94.250.61.6:2334/skhd
-
 #EXTINF:-1, SK 1 Croacia 🇭🇷
 http://46.29.169.15:4001/play/a001/index.m3u8
 
@@ -620,81 +578,6 @@ http://46.29.169.15:4001/play/a00e/index.m3u8|User-Agent=stream
 
 #EXTINF:-1,HRT2 🇭🇷
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
-
-#EXTINF:-1,SportKlub 🇭🇷
-http://213.186.23.21:8000/SportKlub?u=00:1A:79:2A:E9:66:p=001A792AE966
-
-#EXTINF:-1,SportKlub 1 🇭🇷
-http://213.186.23.21:8000/SportKlub%201%20HR?u=00:1A:79:2A:E9:66:p=001A792AE966
-
-#EXTINF:-1,SportKlub 2 🇭🇷
-http://213.186.23.21:8000/SportKlub%202?u=00:1A:79:2A:E9:66:p=001A792AE966
-
-#EXTINF:-1,SportKlub 3 🇭🇷
-http://213.186.23.21:8000/SportKlub%203?u=00:1A:79:2A:E9:66:p=001A792AE966
-
-#EXTINF:-1,SportKlub 4 🇭🇷
-http://213.186.23.21:8000/SportKlub%204?u=00:1A:79:2A:E9:66:p=001A792AE966
-
-#EXTINF:-1,SportKlub 5 🇭🇷
-http://213.186.23.21:8000/SportKlub%205?u=00:1A:79:2A:E9:66:p=001A792AE966
-
-#EXTINF:-1,SportKlub 6 🇭🇷
-http://213.186.23.21:8000/SportKlub%206?u=00:1A:79:2A:E9:66:p=001A792AE966
-
-#EXTINF:-1,SportKlub 7 🇭🇷
-http://213.186.23.21:8000/SportKlub%207?u=00:1A:79:2A:E9:66:p=001A792AE966
-
-#EXTINF:-1,SportKlub 8 🇭🇷
-http://213.186.23.21:8000/SportKlub%208?u=00:1A:79:2A:E9:66:p=001A792AE966
-
-#EXTINF:-1,SportKlub 9 🇭🇷
-http://213.186.23.21:8000/SportKlub%209?u=00:1A:79:2A:E9:66:p=001A792AE966
-
-#EXTINF:-1,SportKlub 10 🇭🇷
-http://213.186.23.21:8000/SportKlub%2010?u=00:1A:79:2A:E9:66:p=001A792AE966
-
-#EXTINF:-1,Arena 1 HR 🇭🇷
-http://213.186.23.21:8000/Arena%201%20HR?u=00:1A:79:2A:E9:66:p=001A792AE966
-
-#EXTINF:-1,Arena 2 HR 🇭🇷
-http://213.186.23.21:8000/Arena%202%20HR?u=00:1A:79:2A:E9:66:p=001A792AE966
-
-#EXTINF:-1,Arena Sport 2 HR 🇭🇷
-http://213.186.23.21:8000/Arena%202%20HR%20SD?u=00:1A:79:2A:E9:66:p=001A792AE966
-
-#EXTINF:-1,Arena 3 HR 🇭🇷
-http://213.186.23.21:8000/Arena%203%20HR?u=00:1A:79:2A:E9:66:p=001A792AE966
-
-#EXTINF:-1,Arena Sport 3 HR 🇭🇷
-http://213.186.23.21:8000/Arena%203%20HR%20SD?u=00:1A:79:2A:E9:66:p=001A792AE966
-
-#EXTINF:-1,Arena 4 HR 🇭🇷
-http://213.186.23.21:8000/Arena%204%20HR?u=00:1A:79:2A:E9:66:p=001A792AE966
-
-#EXTINF:-1,Arena Sport 4 HR 🇭🇷
-http://213.186.23.21:8000/Arena%204%20HR%20SD?u=00:1A:79:2A:E9:66:p=001A792AE966
-
-#EXTINF:-1,Arena 5 HR 🇭🇷
-http://213.186.23.21:8000/Arena%205%20HR?u=00:1A:79:2A:E9:66:p=001A792AE966
-
-#EXTINF:-1,Arena Sport 5 HR 🇭🇷
-http://213.186.23.21:8000/Arena%205%20HR%20SD?u=00:1A:79:2A:E9:66:p=001A792AE966
-
-#EXTINF:-1,SK HD 🇭🇷
-http://213.186.23.21:8000/SportKlub%20SD?u=00:1A:79:2A:E9:66:p=001A792AE966
-
-#EXTINF:-1,SK 1 HD 🇭🇷
-http://213.186.23.21:8000/SportKlub%201%20SD?u=00:1A:79:2A:E9:66:p=001A792AE966
-
-#EXTINF:-1,SK 1 HR 🇭🇷
-http://213.186.23.21:8000/SportKlub%201%20HR%20SD?u=00:1A:79:2A:E9:66:p=001A792AE966
-
-#EXTINF:-1,SK 2 🇭🇷
-http://213.186.23.21:8000/SportKlub%202%20SD?u=00:1A:79:2A:E9:66:p=001A792AE966
-
-#EXTINF:-1,SK 3 🇭🇷
-http://213.186.23.21:8000/SportKlub%203%20SD?u=00:1A:79:2A:E9:66:p=001A792AE966
 
 #EXTINF:-1,SPORTSKA TV 🇭🇷
 http://62.182.80.87:8081/Test22/Test22/1139
