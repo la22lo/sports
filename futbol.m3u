@@ -117,12 +117,6 @@ http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C3:40A:1:C00000:0:0:0:
 #EXTINF:-1, Directv 🇦🇷
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
-#EXTINF:-1, Directv Sports Plus 🇦🇷
-https://shortgod.com/vip/pllatino3.php?id=667&f=.m3u8
-
-#EXTINF:-1, Directv Sports Plus HD 🇦🇷
-https://shortgod.com/vip/pllatino3.php?id=259&f=.m3u8
-
 #EXTINF:-1,TELECOSTA 🇬🇹
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
@@ -162,10 +156,10 @@ http://45.71.185.142:8500/play/a015
 #EXTINF:-1,ESPN 4 🇦🇷
 http://45.71.185.142:8500/play/a021
 
-#EXTINF:-1,FOX SPORTS 2 HD 
+#EXTINF:-1,FOX SPORTS 2 HD 🇦🇷
 http://170.83.242.153:5150/play/a0dk 
 
-#EXTINF:-1,FOX SPORTS 3 HD 
+#EXTINF:-1,FOX SPORTS 3 HD 🇦🇷
 http://170.83.242.153:5150/play/a042
 
 #EXTINF:-1,Fox Sports 2 🇦🇷
@@ -174,7 +168,7 @@ http://45.71.185.142:8500/play/a01n
 #EXTINF:-1,Fox Sports 3 🇦🇷
 http://45.71.185.142:8500/play/a01o
 
-#EXTINF:-1,ESPN 3 CHILE
+#EXTINF:-1,ESPN 3 CHILE 🇨🇱
 http://177.128.115.10:8000/play/a00h
 
 #EXTINF:-1, ATV VIVO 🇵🇪
@@ -194,21 +188,6 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 #EXTINF:-1, Bein Sports 3 HD 🇶🇦
 http://93.152.174.144:4000/play/bein3ar/index.m3u8
-
-#EXTINF:-1,ASO SPORT HD 🇮🇶
-http://190.2.148.141:8080/bar7671/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,ASO SPORT HD 🇮🇶
-http://190.2.148.141:8080/bar7671/index.m3u8
-
-#EXTINF:-1,NRT SPORT HD 🇮🇶
-http://190.2.148.141:8080/bar7638/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,GK SPORT HD 🇮🇶
-http://190.2.148.141:8080/bar7653/index.m3u8
-
-#EXTINF:-1,MMN SPORT HD 🇮🇶
-http://190.2.148.141:8080/bar7642/index.m3u8
 
 #EXTINF:-1, GEO SUPER 🇮🇳
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
