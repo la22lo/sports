@@ -435,20 +435,20 @@ http://62.182.80.87:8081/Test22/Test22/1037
 #EXTINF:-1, PRIMA SPORT 1 🇷🇴
 http://62.182.80.87:8081/Test22/Test22/7050
 
+#EXTINF:-1, PRIMA SPORT 1 🇷🇴
+http://149.62.177.105:8001/play/a00e/index.m3u8
+
 #EXTINF:-1, PRIMA SPORT 2 🇷🇴
 http://62.182.80.87:8081/Test22/Test22/7051
 
-#EXTINF:-1,Look Sport + HD
-http://149.62.177.105:8001/play/a00e/index.m3u8
+#EXTINF:-1, PRIMA SPORT 2 🇷🇴
+http://149.62.177.105:8001/play/a00n/index.m3u8
 
-#EXTINF:-1,Look Sport 2 HD
+#EXTINF:-1, PRIMA SPORT 4 🇷🇴
 http://149.62.177.105:8001/play/a00m/index.m3u8
 
-#EXTINF:-1,Look Sport 3 HD
+#EXTINF:-1, PRIMA SPORT 4 🇷🇴
 http://149.62.177.105:8001/play/a00f/index.m3u8
-
-#EXTINF:-1,Look Sport HD
-http://149.62.177.105:8001/play/a00n/index.m3u8
 
 #EXTINF:-1, DIGI SPORT 1 🇷🇴
 http://62.182.80.87:8081/Test22/Test22/7014
