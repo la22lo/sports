@@ -18,6 +18,9 @@ http://mykingtv.net:2082/Yapang98/Dragon98/12741
 #EXTINF:-1, LALIGA TV 🇬🇧
 https://hostcloud.network/live/aD8C1ETPQU28/842373/71325.ts
 
+#EXTINF:-1,S SPORT LIGA 🇬🇧
+http://supportstreams.net/Awsa9Fa9M/g3dmDyFK4/315551
+
 #EXTINF:-1,SUPERSPORT LIGA 🇬🇧
 https://hostcloud.network/live/aD8C1ETPQU28/842373/102245.ts
 
@@ -1241,9 +1244,6 @@ http://supportstreams.net:80/Awsa9Fa9M/g3dmDyFK4/649383
 
 #EXTINF:-1,BT SPORT ESPN 
 http://supportstreams.net:80/Awsa9Fa9M/g3dmDyFK4/649385
-
-#EXTINF:-1,S SPORT LIGA
-http://supportstreams.net/Awsa9Fa9M/g3dmDyFK4/315551
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
