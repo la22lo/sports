@@ -1083,6 +1083,9 @@ https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8
 #EXTINF:-1, TELEDEPORTE 🇪🇸
 https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_1080.m3u8
 
+#EXTINF:-1, TELEDEPORTE 🇪🇸
+https://ztnr.rtve.es/ztnr/1712295.m3u8
+
 #EXTINF:-1, GH2 GALICIA 🇪🇸
 https://events1-crtvg.flumotion.com/playlist.m3u8
 
