@@ -366,6 +366,18 @@ http://45.153.35.224:8000/play/a008
 #EXTINF:-1, BT SPORT ESPNHD 🇬🇧
 http://93.152.174.144:4000/play/btsportespn/index.m3u8
 
+#EXTINF:-1,BT SPORT 1 🇬🇧
+http://supportstreams.net:80/Awsa9Fa9M/g3dmDyFK4/649381
+
+#EXTINF:-1,BT SPORT 2 🇬🇧
+http://supportstreams.net:80/Awsa9Fa9M/g3dmDyFK4/649382
+
+#EXTINF:-1,BT SPORT 3 🇬🇧
+http://supportstreams.net:80/Awsa9Fa9M/g3dmDyFK4/649383
+
+#EXTINF:-1,BT SPORT ESPN 🇬🇧
+http://supportstreams.net:80/Awsa9Fa9M/g3dmDyFK4/649385
+
 #EXTINF:-1, SUPER GRANDSTAND 🇬🇧
 http://mykingtv.net:2082/Yapang98/Dragon98/12747
 
@@ -1232,18 +1244,6 @@ http://190.83.119.67:8000/play/a0v6/index.m3u8
 
 #EXTINF:-1, -SPORTEXT
 http://177.53.152.186:8000/play/a00m/index.m3u8
-
-#EXTINF:-1,BT SPORT 1
-http://supportstreams.net:80/Awsa9Fa9M/g3dmDyFK4/649381
-
-#EXTINF:-1,BT SPORT 2
-http://supportstreams.net:80/Awsa9Fa9M/g3dmDyFK4/649382
-
-#EXTINF:-1,BT SPORT 3 
-http://supportstreams.net:80/Awsa9Fa9M/g3dmDyFK4/649383
-
-#EXTINF:-1,BT SPORT ESPN 
-http://supportstreams.net:80/Awsa9Fa9M/g3dmDyFK4/649385
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
