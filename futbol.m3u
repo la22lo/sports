@@ -1284,10 +1284,10 @@ http://190.83.119.67:8000/play/a0v6/index.m3u8
 #EXTINF:-1, -SPORTEXT
 http://177.53.152.186:8000/play/a00m/index.m3u8
 
-#EXTINF:-1 ,Pt: Eleven Sport 6 HD
+#EXTINF:-1 , Eleven Sport 6 HD
 http://new-pro.tv:8080/Fernando/123321/121896
 
-#EXTINF:-1 ,Pt: Eleven Sports 6 HD
+#EXTINF:-1 , Eleven Sports 6 HD
 http://new-pro.tv:8080/Fernando/123321/298789
 
 #EXTINF:-1, REAL MADRID TV
