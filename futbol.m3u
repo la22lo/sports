@@ -1084,16 +1084,16 @@ http://77.247.109.116/live/abr_b-2/live/b-2/chunks.m3u8
 http://194.67.196.19/hls/102.m3u8
 
 #EXTINF:-1, Channel 1
-https://acdn.zhengyaning.com/xoilac/channel-1.m3u8?auth_key=19645859083-0-0-fa1de8978707c8a8faef1c05977d451c
+https://alplay.zhengyaning.com/xoilac/channel-1.m3u8?auth_key=1650270384-0-0-48c6ca8a63158bfe5e9a6a038b0676e2
 
 #EXTINF:-1, Channel 2
-https://acdn.zhengyaning.com/xoilac/channel-2.m3u8?auth_key=1645859164-0-0-e297e18045e4ff30ab55d343f14b8f42
+https://alplay.zhengyaning.com/xoilac/channel-2.m3u8?auth_key=1650270470-0-0-8fccdc7f7bc8c0794d340d1e16371658
 
 #EXTINF:-1, Channel 3
-https://acdn.zhengyaning.com/xoilac/channel-3.m3u8?auth_key=1645859224-0-0-0dfcca14c00221f49af88e8df85a8f26
+https://alplay.zhengyaning.com/xoilac/channel-3.m3u8?auth_key=1650270470-0-0-8fccdc7f7bc8c0794d340d1e16371658
 
 #EXTINF:-1, Channel 4
-https://acdn.zhengyaning.com/xoilac/channel-4.m3u8?auth_key=1645859261-0-0-3e286b5b352187b06d667e9cf873a1ee
+https://alplay.zhengyaning.com/xoilac/channel-4.m3u8?auth_key=1650270580-0-0-17538c7bccec7438ccdb9471e475778b
 
 #EXTINF:-1, Channel 5
 https://acdn.zhengyaning.com/xoilac/channel-5.m3u8?auth_key=1645859296-0-0-85a698c78d1d59e34239c8e598b43d38
