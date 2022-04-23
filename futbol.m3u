@@ -1293,6 +1293,30 @@ http://177.53.152.186:8000/play/a00m/index.m3u8
 #EXTINF:-1 , MMN Sport 4K
 http://new-pro.tv:8080/Fernando/123321/298894
 
+#EXTINF:-1 , Astera Sport HD
+http://new-pro.tv:8080/Fernando/123321/90970
+
+#EXTINF:-1 , Reng Sport HD
+http://new-pro.tv:8080/Fernando/123321/106139
+
+#EXTINF:-1 , Aro Sport HD
+http://new-pro.tv:8080/Fernando/123321/151677
+
+#EXTINF:-1 , 4sport HD
+http://new-pro.tv:8080/Fernando/123321/176299
+
+#EXTINF:-1 , Kurdistan Sport HD
+http://new-pro.tv:8080/Fernando/123321/176507
+
+#EXTINF:-1 , ASO Sport HD
+http://new-pro.tv:8080/Fernando/123321/106144
+
+#EXTINF:-1 , MMN Sport HD
+http://new-pro.tv:8080/Fernando/123321/33300
+
+#EXTINF:-1 , Duhok Sports HD
+http://new-pro.tv:8080/Fernando/123321/296790
+
 #EXTINF:-1 , Eleven Sport 6 HD
 http://new-pro.tv:8080/Fernando/123321/121896
 
