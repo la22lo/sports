@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 , Eleven Sport 6 HD 🇵🇹
+http://new-pro.tv:8080/Fernando/123321/121896
+
+#EXTINF:-1 , Eleven Sports 6 HD 🇵🇹
+http://new-pro.tv:8080/Fernando/123321/298789
+
 #EXTINF:-1,Eleven Sports 1 🇵🇹
 http://161.230.155.157:8000/play/a02u
 
@@ -1316,12 +1322,6 @@ http://new-pro.tv:8080/Fernando/123321/33300
 
 #EXTINF:-1 , Duhok Sports HD
 http://new-pro.tv:8080/Fernando/123321/296790
-
-#EXTINF:-1 , Eleven Sport 6 HD
-http://new-pro.tv:8080/Fernando/123321/121896
-
-#EXTINF:-1 , Eleven Sports 6 HD
-http://new-pro.tv:8080/Fernando/123321/298789
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
