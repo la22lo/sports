@@ -87,6 +87,18 @@ http://62.182.80.87:8081/Test22/Test22/907
 #EXTINF:-1, DAZN 2 🇩🇪
 http://62.182.80.87:8081/Test22/Test22/908
 
+#EXTINF:-1, DAZN BAR 1 🇩🇪
+http://supportstreams.net:80/Awsa9Fa9M/g3dmDyFK4/737754
+
+#EXTINF:-1,DAZN BAR 2 🇩🇪
+http://supportstreams.net:80/Awsa9Fa9M/g3dmDyFK4/737755
+
+#EXTINF:-1,DAZN 1 HD 🇩🇪
+http://supportstreams.net:80/Awsa9Fa9M/g3dmDyFK4/247104
+
+#EXTINF:-1,DAZN 2 HD 🇩🇪
+http://supportstreams.net:80/Awsa9Fa9M/g3dmDyFK4/247105
+
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://admin:admin@185.4.34.93:9981/stream/channelid/1586464194?profile=pass
 
