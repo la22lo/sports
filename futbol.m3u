@@ -1203,5 +1203,14 @@ http://79.118.90.182:8000/play/a02s
 #EXTINF:-1,DIGI Sport 4 HD
 http://79.118.90.182:8000/play/a05a
 
+#EXTINF:-1,Look Plus
+http://79.118.90.182:8000/play/a01i
+
+#EXTINF:-1,Look Sport
+http://79.118.90.182:8000/play/a055
+
+#EXTINF:-1,Look Sport + HD
+http://79.118.90.182:8000/play/a079
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
