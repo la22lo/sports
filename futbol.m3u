@@ -1212,5 +1212,11 @@ http://79.118.90.182:8000/play/a055
 #EXTINF:-1,Look Sport + HD
 http://79.118.90.182:8000/play/a079
 
+#EXTINF:-1, Beinsports
+http://190.83.119.67:8000/play/a0v6/index.m3u8
+
+#EXTINF:-1, -SPORTEXT
+http://177.53.152.186:8000/play/a00m/index.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
