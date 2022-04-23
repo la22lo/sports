@@ -136,6 +136,9 @@ http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:757B:412:1:C00000:0:0:0:
 http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C3:40A:1:C00000:0:0:0:
 
 #EXTINF:-1, Directv 🇦🇷
+https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/Gp5O33mg2xSgKFhB9lEUW8ba6F3xCMxKHZx6xLFLsyByD--hvGH5CjLVuSJjM9fKS3qKy-cb_N6gjB86WWCxLQ/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8
+
+#EXTINF:-1, Directv 🇦🇷
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
 #EXTINF:-1,TELECOSTA 🇬🇹
