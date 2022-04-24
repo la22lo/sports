@@ -1,6 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
+http://188.34.177.35/xls/ligota/index.m3u8
+
+#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJH9gUYooJbVMF7v-Il8_bps/ts
 
 #EXTINF:-1,ELEVEN SPORTS 6 🇵🇹
