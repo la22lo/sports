@@ -1116,6 +1116,12 @@ https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist
 #EXTINF:-1, SHARJJAH SPORT 🇸🇦
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
+#EXTINF:-1, ON Sport 1 🇪🇬
+http://89.105.221.115:8080/livesport/shahid_sport/21
+
+#EXTINF:-1, ON Sport 2 🇪🇬
+http://89.105.221.115:8080/livesport/shahid_sport/22
+
 #EXTINF:-1, 4 SPORT
 http://80.24.75.92:5555/udp/239.111.2.8:1234
 
