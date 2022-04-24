@@ -885,6 +885,12 @@ http://bl.uma.media/live/485548/HLS/4614144_2,2883584/2/1/playlist.m3u8
 #EXTINF:-1, Спорт 1 🇷🇺
 http://212.115.255.196/Jfd85Hf/sport1.m3u8
 
+#EXTINF:-1,sport 1 🇷🇺
+http://188.239.125.3:6351/play/a2g7nj
+
+#EXTINF:-1,sport 2 🇷🇺
+http://188.239.125.3:6351/play/cn2wwa
+
 #EXTINF:-1, MATH CTPAHA 🇷🇺
 https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 
@@ -1364,12 +1370,6 @@ http://new-pro.tv:8080/Fernando/123321/33300
 
 #EXTINF:-1 , Duhok Sports HD
 http://new-pro.tv:8080/Fernando/123321/296790
-
-#EXTINF:-1,sport 1
-http://188.239.125.3:6351/play/a2g7nj
-
-#EXTINF:-1,sport 2
-http://188.239.125.3:6351/play/cn2wwa
 
 #EXTINF:-1, Setanta Sports Ukraine
 http://188.239.125.3:6351/play/a00k
