@@ -849,6 +849,12 @@ http:/146.158.30.190:8000/futbol1
 #EXTINF:-1, ФУТБOЛ 2HD 🇷🇺
 http:/146.158.30.190:8000/futbol2
 
+#EXTINF:-1,FOOTBALL 1 SD 🇷🇺
+http://188.239.125.3:6351/play/a01i
+
+#EXTINF:-1,FOOTBALL 2 SD 🇷🇺
+http://188.239.125.3:6351/play/a012
+
 #EXTINF:-1,MEGOGO 1 HD 🇺🇦
 http://lb.wisp.cat/lb0/DMEGO1_HD/video.m3u8?token=FREETVUKRAINE
 
@@ -1370,12 +1376,6 @@ http://188.239.125.3:6351/play/a00k
 
 #EXTINF:-1, Setanta Sports +
 http://188.239.125.3:6351/play/kjhgf
-
-#EXTINF:-1,FOOTBALL 1 SD
-http://188.239.125.3:6351/play/a01i
-
-#EXTINF:-1,FOOTBALL 2 SD
-http://188.239.125.3:6351/play/a012
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
