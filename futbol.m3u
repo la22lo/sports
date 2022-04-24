@@ -6,6 +6,12 @@ http://161.230.155.157:8000/play/a02u
 #EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 
+#EXTINF:-1, beIN Sports 1 HD 🇶🇦
+http://89.105.221.115:8080/livesport/shahid_sport/4
+
+#EXTINF:-1, beIN Sports 1 SD 🇶🇦
+http://89.105.221.115:8080/livesport/shahid_sport/12
+
 #EXTINF:-1,SUPERSPORT LIGA 🇬🇧
 http://mykingtv.net:2082/Yapang98/Dragon98/12741
 
@@ -281,6 +287,54 @@ http://62.28.71.186:45678/http/192.168.150.173:7073/spt3
 
 #EXTINF:-1, SPORTV + 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
+
+#EXTINF:-1, BeinSport Premium 1 🇶🇦
+http://89.105.221.115:8080/livesport/shahid_sport/1
+
+#EXTINF:-1, beIN Sports Premium 2 HD 🇶🇦
+http://89.105.221.115:8080/livesport/shahid_sport/2
+
+#EXTINF:-1, beIN Sports Premium 3 HD 🇶🇦
+http://89.105.221.115:8080/livesport/shahid_sport/3
+
+#EXTINF:-1, beIN Sports 1 HD 🇶🇦
+http://89.105.221.115:8080/livesport/shahid_sport/4
+
+#EXTINF:-1, beIN Sports 2 HD 🇶🇦
+http://89.105.221.115:8080/livesport/shahid_sport/5
+
+#EXTINF:-1, beIN Sports 3 HD 🇶🇦
+http://89.105.221.115:8080/livesport/shahid_sport/6
+
+#EXTINF:-1, beIN Sports 4 HD 🇶🇦
+http://89.105.221.115:8080/livesport/shahid_sport/7
+
+#EXTINF:-1, beIN Sports 5 HD 🇶🇦
+http://89.105.221.115:8080/livesport/shahid_sport/8
+
+#EXTINF:-1, beIN Sports Pre 1 SD 🇶🇦
+http://89.105.221.115:8080/livesport/shahid_sport/9
+
+#EXTINF:-1, beIN Sports Pre 2 SD 🇶🇦
+http://89.105.221.115:8080/livesport/shahid_sport/10
+
+#EXTINF:-1, beIN Sports Pre 3 SD 🇶🇦
+http://89.105.221.115:8080/livesport/shahid_sport/11
+
+#EXTINF:-1, beIN Sports 1 SD 🇶🇦
+http://89.105.221.115:8080/livesport/shahid_sport/12
+
+#EXTINF:-1, beIN Sports 2 SD 🇶🇦
+http://89.105.221.115:8080/livesport/shahid_sport/13
+
+#EXTINF:-1, beIN Sports 3 SD 🇶🇦
+http://89.105.221.115:8080/livesport/shahid_sport/14
+
+#EXTINF:-1, beIN Sports 4 SD 🇶🇦
+http://89.105.221.115:8080/livesport/shahid_sport/15
+
+#EXTINF:-1, beIN Sports 5 SD 🇶🇦
+http://89.105.221.115:8080/livesport/shahid_sport/16
 
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
