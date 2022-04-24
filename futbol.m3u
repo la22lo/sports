@@ -90,18 +90,6 @@ http://62.182.80.87:8081/Test22/Test22/907
 #EXTINF:-1, DAZN 2 🇩🇪
 http://62.182.80.87:8081/Test22/Test22/908
 
-#EXTINF:-1, DAZN BAR 1 🇩🇪
-http://supportstreams.net:80/Awsa9Fa9M/g3dmDyFK4/737754
-
-#EXTINF:-1,DAZN BAR 2 🇩🇪
-http://supportstreams.net:80/Awsa9Fa9M/g3dmDyFK4/737755
-
-#EXTINF:-1,DAZN 1 HD 🇩🇪
-http://supportstreams.net:80/Awsa9Fa9M/g3dmDyFK4/247104
-
-#EXTINF:-1,DAZN 2 HD 🇩🇪
-http://supportstreams.net:80/Awsa9Fa9M/g3dmDyFK4/247105
-
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://admin:admin@185.4.34.93:9981/stream/channelid/1586464194?profile=pass
 
@@ -140,9 +128,6 @@ http://ytv.plus:25461/live/Maria/1234/17319.m3u8
 
 #EXTINF:-1, Directv 🇦🇷
 http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/59797.m3u8
-
-#EXTINF:-1, Directv 🇦🇷
-https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/Gp5O33mg2xSgKFhB9lEUW8ba6F3xCMxKHZx6xLFLsyByD--hvGH5CjLVuSJjM9fKS3qKy-cb_N6gjB86WWCxLQ/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8
 
 #EXTINF:-1, Directv 🇦🇷
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
@@ -227,9 +212,6 @@ http://177.128.115.10:8000/play/a00h
 
 #EXTINF:-1, ATV VIVO 🇵🇪
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
-
-#EXTINF:-1, SBT AO VIVO BRASIL 🇧🇷
-https://dubr2rz6c5qdz.cloudfront.net/live-stream/61c21f28fa354108218ed3a3/publish/media_1800.m3u8
 
 #EXTINF:-1, TV MAX 🇦🇷
 https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/playlist_dvr.m3u8
