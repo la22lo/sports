@@ -1272,9 +1272,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, -SPORTEXT
-http://177.53.152.186:8000/play/a00m/index.m3u8
-
 #EXTINF:-1 , MMN Sport 4K
 http://new-pro.tv:8080/Fernando/123321/298894
 
