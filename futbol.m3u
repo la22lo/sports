@@ -6,6 +6,9 @@ http://188.34.177.35/xls/ligota/index.m3u8
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/1cfzaqtsohSPFTRH1eR_BZUffZniDTXVtw9PXvInInqSw17hzxbg0_aU_sG3ifWns6jMdyaOr2-0lBvvDtpwzA/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8
 
+#EXTINF:-1, LALIGA 🇪🇸
+https://play.girlupx.cn/live/ballbar_25770.m3u8
+
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJH9gUYooJbVMF7v-Il8_bps/ts
 
