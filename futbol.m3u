@@ -93,38 +93,20 @@ http://62.182.80.87:8081/Test22/Test22/908
 #EXTINF:-1,DAZN 2 HD 🇩🇪
 http://185.234.217.26:8007/play/a02e/index.m3u8
 
-#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
-http://admin:admin@185.4.34.93:9981/stream/channelid/1586464194?profile=pass
+#EXTINF:-1,M+ LaLiga HD 🇪🇸
+http://185.234.217.28:8001/play/a02d
 
-#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7797:424:1:C00000:0:0:0:
+#EXTINF:-1,M+ LaLiga 1 HD 🇪🇸
+http://185.234.217.28:8001/play/a02e
 
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJH9gUYooJbVMF7v-Il8_bps/ts
 
-#EXTINF:-1, MOVISTAR LALIGA 1 🇪🇸
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:769D:41E:1:C00000:0:0:0:
-
-#EXTINF:-1, MOVISTAR LALIGA 2 🇪🇸
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77BD:40A:1:C00000:0:0:0:
-
 #EXTINF:-1, MOVISTAR LALIGA 2 🇪🇸
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJOM9-HqsaWnxwL_OyUXGh1I/ts
 
-#EXTINF:-1, VAMOS HD 🇪🇸
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7734:416:1:C00000:0:0:0:
-
-#EXTINF:-1, VAMOS 🇪🇸
-http://admin:admin@185.4.34.93:9981/stream/channelid/1647922213?profile=pass
-
 #EXTINF:-1, VAMOS 🇪🇸
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJPAjWOIDxuxDjnIofO3MYFA/ts
-
-#EXTINF:-1, MOVISTAR CHAMPIONS 🇪🇸
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:757B:412:1:C00000:0:0:0:
-
-#EXTINF:-1, MOVISTAR CHAMPIONS 1 🇪🇸
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C3:40A:1:C00000:0:0:0:
 
 #EXTINF:-1 , Duhok Sports HD
 http://duhoktvstream.top:1935/live/Duhok--Sports--HD/chunklist_w2080602545.m3u8
@@ -1442,12 +1424,6 @@ http://new-pro.tv:8080/Fernando/123321/33300
 
 #EXTINF:-1 , Duhok Sports HD
 http://new-pro.tv:8080/Fernando/123321/296790
-
-#EXTINF:-1,M+ LaLiga 1 HD
-http://185.234.217.28:8001/play/a02e
-
-#EXTINF:-1,M+ LaLiga HD
-http://185.234.217.28:8001/play/a02d
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
