@@ -1353,5 +1353,26 @@ http://new-pro.tv:8080/Fernando/123321/33300
 #EXTINF:-1 , Duhok Sports HD
 http://new-pro.tv:8080/Fernando/123321/296790
 
+#EXTINF:-1,DAZN 1 HD
+http://185.234.217.22:8001/play/a02f
+
+#EXTINF:-1,DAZN F1
+http://185.234.217.22:8001/play/a026
+
+#EXTINF:-1,LALIGATVBAR2
+http://185.234.217.22:8001/play/a029
+
+#EXTINF:-1,M+ LaLiga 1
+http://185.234.217.22:8001/play/a02b
+
+#EXTINF:-1,M+ LaLiga 3
+http://185.234.217.22:8001/play/a02c
+
+#EXTINF:-1,M+DEPORTES5
+http://185.234.217.22:8001/play/a02a
+
+#EXTINF:-1,M+LCAMPEON2
+http://185.234.217.22:8001/play/a02d
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
