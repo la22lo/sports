@@ -1371,6 +1371,9 @@ http://185.234.217.27:8002/play/a02w/index.m3u8
 #EXTINF:-1,E-06-CANAL+SPORT
 http://185.234.217.27:8002/play/a03m/index.m3u8
 
+#EXTINF:-1,F-03-FOOT+ 24/24
+http://185.234.217.27:8002/play/a03w/index.m3u8
+
 #EXTINF:-1,G-06-BEIN SPORTS 1
 http://185.234.217.27:8002/play/a04a/index.m3u8
 
@@ -1379,6 +1382,15 @@ http://185.234.217.27:8002/play/a02j/index.m3u8
 
 #EXTINF:-1,B-05-BEIN SPORTS 3
 http://185.234.217.27:8002/play/a02k/index.m3u8
+
+#EXTINF:-1,B-06-BEIN SPORTS MAX 4
+http://185.234.217.27:8002/play/a02l/index.m3u8
+
+#EXTINF:-1,B-07-BEIN SPORTS MAX 5
+http://185.234.217.27:8002/play/a02m/index.m3u8
+
+#EXTINF:-1,B-08-BEIN SPORTS MAX 6
+http://185.234.217.27:8002/play/a02n/index.m3u8
 
 #EXTINF:-1,C-09-BEIN SPORTS MAX 7
 http://185.234.217.27:8002/play/a033/index.m3u8
