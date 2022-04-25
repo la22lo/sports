@@ -126,6 +126,9 @@ http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:757B:412:1:C00000:0:0:0:
 #EXTINF:-1, MOVISTAR CHAMPIONS 1 🇪🇸
 http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77C3:40A:1:C00000:0:0:0:
 
+#EXTINF:-1 , Duhok Sports HD
+http://duhoktvstream.top:1935/live/Duhok--Sports--HD/chunklist_w2080602545.m3u8
+
 #EXTINF:-1, Directv 🇦🇷
 http://ytv.plus:25461/live/Maria/1234/17319.m3u8
 
