@@ -1374,5 +1374,98 @@ http://185.234.217.22:8001/play/a02a
 #EXTINF:-1,M+LCAMPEON2
 http://185.234.217.22:8001/play/a02d
 
+#EXTINF:-1,DAZN 2 HD
+http://185.234.217.26:8007/play/a02e/index.m3u8
+
+#EXTINF:-1,S**y Sport 1 HD
+http://185.234.217.26:8007/play/a02l/index.m3u8
+
+#EXTINF:-1,S**y Sport F1 HD
+http://185.234.217.26:8007/play/a027/index.m3u8
+
+#EXTINF:-1,S**y Sport 2 HD
+http://185.234.217.26:8007/play/a02u/index.m3u8
+
+#EXTINF:-1,S**y Sport 3 HD
+http://185.234.217.26:8007/play/a02p/index.m3u8
+
+#EXTINF:-1,S**y Sport 4 HD
+http://185.234.217.26:8007/play/a031/index.m3u8
+
+#EXTINF:-1,S**y Sport 7 HD
+http://185.234.217.26:8007/play/a02z/index.m3u8
+
+#EXTINF:-1,S**y Sport 8 HD
+http://185.234.217.26:8007/play/a029/index.m3u8
+
+#EXTINF:-1,S**y Sport 9 HD
+http://185.234.217.26:8007/play/a02c/index.m3u8
+
+#EXTINF:-1,02-L'EQUIPE
+http://185.234.217.27:8001/play/a03d/index.m3u8
+
+#EXTINF:-1,C-02-L'EQUIPE
+http://185.234.217.27:8002/play/a02w/index.m3u8
+
+#EXTINF:-1,03-FOOT+ 24/24
+http://185.234.217.27:8001/play/a04z/index.m3u8
+
+#EXTINF:-1,06-CANAL+SPORT
+http://185.234.217.27:8001/play/a046/index.m3u8
+
+#EXTINF:-1,E-06-CANAL+SPORT
+http://185.234.217.27:8002/play/a03m/index.m3u8
+
+#EXTINF:-1,06-BEIN SPORTS 1
+http://185.234.217.27:8001/play/a05e/index.m3u8
+
+#EXTINF:-1,G-06-BEIN SPORTS 1
+http://185.234.217.27:8002/play/a04a/index.m3u8
+
+#EXTINF:-1, BEIN SPORTS 2
+http://185.234.217.27:8002/play/a02j/index.m3u8
+
+#EXTINF:-1,05-BEIN SPORTS 3
+http://185.234.217.27:8001/play/a02x/index.m3u8
+
+#EXTINF:-1,B-05-BEIN SPORTS 3
+http://185.234.217.27:8002/play/a02k/index.m3u8
+
+#EXTINF:-1,B-05-BEIN SPORTS 3
+http://185.234.217.27:8002/play/a02k/index.m3u8
+
+#EXTINF:-1,06-BEIN SPORTS MAX 4
+http://185.234.217.27:8001/play/a02n/index.m3u8
+
+#EXTINF:-1,07-BEIN SPORTS MAX 5
+http://185.234.217.27:8001/play/a02o/index.m3u8
+
+#EXTINF:-1,08-BEIN SPORTS MAX 6
+http://185.234.217.27:8001/play/a02p/index.m3u8
+
+#EXTINF:-1,09-BEIN SPORTS MAX 7
+http://185.234.217.27:8001/play/a038/index.m3u8
+
+#EXTINF:-1,C-09-BEIN SPORTS MAX 7
+http://185.234.217.27:8002/play/a033/index.m3u8
+
+#EXTINF:-1,10-BEIN SPORTS MAX 8
+http://185.234.217.27:8001/play/a039/index.m3u8
+
+#EXTINF:-1,C-10-BEIN SPORTS MAX 8
+http://185.234.217.27:8002/play/a034/index.m3u8
+
+#EXTINF:-1,11-BEIN SPORTS MAX 9
+http://185.234.217.27:8001/play/a03a/index.m3u8
+
+#EXTINF:-1,C-11-BEIN SPORTS MAX 9
+http://185.234.217.27:8002/play/a035/index.m3u8
+
+#EXTINF:-1,12-BEIN SPORTS MAX 10
+http://185.234.217.27:8001/play/a03b/index.m3u8
+
+#EXTINF:-1,C-12-BEIN SPORTS MAX 10
+http://185.234.217.27:8002/play/a036/index.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
