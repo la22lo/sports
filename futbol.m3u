@@ -543,6 +543,27 @@ http://77.247.109.109:8008/a/willene/live/1221862347.ts
 #EXTINF:-1, SUPERSPORT 4 🇦🇱
 http://77.247.109.109:8008/a/willene/live/3923795525.ts 
 
+#EXTINF:-1, KUJTESA 1 🇦🇱
+http://77.247.109.109:8008/a/willene/live/2711778750.ts
+
+#EXTINF:-1, KUJTESA 2 🇦🇱
+http://77.247.109.109:8008/a/willene/live/3858894702.ts
+
+#EXTINF:-1, KUJTESA 3 🇦🇱
+http://77.247.109.109:8008/a/willene/live/3680642782.ts
+
+#EXTINF:-1, OVERSPORT 1 🇦🇱
+http://77.247.109.109:8008/a/willene/live/4113485470.ts
+
+#EXTINF:-1, OVERSPORT 2 🇦🇱
+http://77.247.109.109:8008/a/willene/live/2074200445.ts
+
+#EXTINF:-1, OVERSPORT 3 🇦🇱
+http://77.247.109.109:8008/a/willene/live/3071003107.ts
+
+#EXTINF:-1, OVERSPORT 4 🇦🇱
+http://77.247.109.109:8008/a/willene/live/3184443642.ts
+
 #EXTINF:-1, ELEVEN SPORT 1 POLONIA 🇵🇱
 http://185.205.201.44:8019/play/a04c/index.m3u8
 
@@ -842,6 +863,9 @@ http://212.102.60.80/Eurosport2/index.m3u8
 
 #EXTINF:-1, RUSH HD 🇬🇧
 http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+
+#EXTINF:-1, RUSH SPORTS 🇬🇧
+http://38.127.211.18/live/c2eds/RushHD/HLS/RushHD-mp4a_128000_eng=4.m3u8 
 
 #EXTINF:-1,Setanta Sports 1 HD 🇷🇺
 http://194.58.42.152:8000/play/setantasports1hd/index.m3u8
