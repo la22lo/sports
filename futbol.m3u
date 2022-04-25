@@ -90,6 +90,9 @@ http://62.182.80.87:8081/Test22/Test22/907
 #EXTINF:-1, DAZN 2 🇩🇪
 http://62.182.80.87:8081/Test22/Test22/908
 
+#EXTINF:-1,DAZN 2 HD 🇩🇪
+http://185.234.217.26:8007/play/a02e/index.m3u8
+
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://admin:admin@185.4.34.93:9981/stream/channelid/1586464194?profile=pass
 
@@ -377,6 +380,45 @@ http://185.184.192.166/RMC1/mpegts
 
 #EXTINF:-1 ,RMC 2 🇫🇷
 http://185.184.192.166/RMC2/mpegts
+
+#EXTINF:-1,C-02-L'EQUIPE 🇫🇷
+http://185.234.217.27:8002/play/a02w/index.m3u8
+
+#EXTINF:-1,E-06-CANAL+SPORT 🇫🇷
+http://185.234.217.27:8002/play/a03m/index.m3u8
+
+#EXTINF:-1,F-03-FOOT+ 24/24 🇫🇷
+http://185.234.217.27:8002/play/a03w/index.m3u8
+
+#EXTINF:-1,G-06-BEIN SPORTS 1 🇫🇷
+http://185.234.217.27:8002/play/a04a/index.m3u8
+
+#EXTINF:-1, BEIN SPORTS 2 🇫🇷
+http://185.234.217.27:8002/play/a02j/index.m3u8
+
+#EXTINF:-1,B-05-BEIN SPORTS 3 🇫🇷
+http://185.234.217.27:8002/play/a02k/index.m3u8
+
+#EXTINF:-1,B-06-BEIN SPORTS MAX 4 🇫🇷
+http://185.234.217.27:8002/play/a02l/index.m3u8
+
+#EXTINF:-1,B-07-BEIN SPORTS MAX 5 🇫🇷
+http://185.234.217.27:8002/play/a02m/index.m3u8
+
+#EXTINF:-1,B-08-BEIN SPORTS MAX 6 🇫🇷
+http://185.234.217.27:8002/play/a02n/index.m3u8
+
+#EXTINF:-1,C-09-BEIN SPORTS MAX 7 🇫🇷
+http://185.234.217.27:8002/play/a033/index.m3u8
+
+#EXTINF:-1,C-10-BEIN SPORTS MAX 8 🇫🇷
+http://185.234.217.27:8002/play/a034/index.m3u8
+
+#EXTINF:-1,C-11-BEIN SPORTS MAX 9 🇫🇷
+http://185.234.217.27:8002/play/a035/index.m3u8
+
+#EXTINF:-1,C-12-BEIN SPORTS MAX 10 🇫🇷
+http://185.234.217.27:8002/play/a036/index.m3u8
 
 #EXTINF:-1, BEIN SPORT 1 ENGLISH 🇬🇧
 http://grl.dream-tv.org:2082/live/ikram_286249/GkYqOAh8/151566.m3u8
@@ -924,6 +966,15 @@ http://62.182.80.87:8081/Test22/Test22/875
 #EXTINF:-1 , ORF SPORT + 🇦🇹
 http://62.182.80.87:8081/Test22/Test22/2926
 
+#EXTINF:-1,S**y Sport 1 HD 🇩🇪
+http://185.234.217.26:8007/play/a02l/index.m3u8
+
+#EXTINF:-1,S**y Sport F1 HD 🇩🇪
+http://185.234.217.26:8007/play/a027/index.m3u8
+
+#EXTINF:-1,S**y Sport 2 HD 🇩🇪
+http://185.234.217.26:8007/play/a02u/index.m3u8
+
 #EXTINF:-1 , SAN MARINO SPORT 🇸🇲
 http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
 
@@ -1352,57 +1403,6 @@ http://new-pro.tv:8080/Fernando/123321/33300
 
 #EXTINF:-1 , Duhok Sports HD
 http://new-pro.tv:8080/Fernando/123321/296790
-
-#EXTINF:-1,DAZN 2 HD
-http://185.234.217.26:8007/play/a02e/index.m3u8
-
-#EXTINF:-1,S**y Sport 1 HD
-http://185.234.217.26:8007/play/a02l/index.m3u8
-
-#EXTINF:-1,S**y Sport F1 HD
-http://185.234.217.26:8007/play/a027/index.m3u8
-
-#EXTINF:-1,S**y Sport 2 HD
-http://185.234.217.26:8007/play/a02u/index.m3u8
-
-#EXTINF:-1,C-02-L'EQUIPE
-http://185.234.217.27:8002/play/a02w/index.m3u8
-
-#EXTINF:-1,E-06-CANAL+SPORT
-http://185.234.217.27:8002/play/a03m/index.m3u8
-
-#EXTINF:-1,F-03-FOOT+ 24/24
-http://185.234.217.27:8002/play/a03w/index.m3u8
-
-#EXTINF:-1,G-06-BEIN SPORTS 1
-http://185.234.217.27:8002/play/a04a/index.m3u8
-
-#EXTINF:-1, BEIN SPORTS 2
-http://185.234.217.27:8002/play/a02j/index.m3u8
-
-#EXTINF:-1,B-05-BEIN SPORTS 3
-http://185.234.217.27:8002/play/a02k/index.m3u8
-
-#EXTINF:-1,B-06-BEIN SPORTS MAX 4
-http://185.234.217.27:8002/play/a02l/index.m3u8
-
-#EXTINF:-1,B-07-BEIN SPORTS MAX 5
-http://185.234.217.27:8002/play/a02m/index.m3u8
-
-#EXTINF:-1,B-08-BEIN SPORTS MAX 6
-http://185.234.217.27:8002/play/a02n/index.m3u8
-
-#EXTINF:-1,C-09-BEIN SPORTS MAX 7
-http://185.234.217.27:8002/play/a033/index.m3u8
-
-#EXTINF:-1,C-10-BEIN SPORTS MAX 8
-http://185.234.217.27:8002/play/a034/index.m3u8
-
-#EXTINF:-1,C-11-BEIN SPORTS MAX 9
-http://185.234.217.27:8002/play/a035/index.m3u8
-
-#EXTINF:-1,C-12-BEIN SPORTS MAX 10
-http://185.234.217.27:8002/play/a036/index.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
