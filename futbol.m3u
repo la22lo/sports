@@ -339,6 +339,9 @@ http://93.152.174.144:4000/play/bein2fr/index.m3u8
 #EXTINF:-1, beIN Sports 3 French 🇫🇷
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
 
+#EXTINF:-1, beIN Sports 1 French 🇫🇷
+http://revteam2.offshorerev.cc/SPIDER_F2lOt6/pg0lOTBRwa/100694
+
 #EXTINF:-1 ,RMC 1 🇫🇷
 http://185.184.192.166/RMC1/mpegts
 
