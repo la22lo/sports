@@ -9,6 +9,9 @@ http://149.62.177.105:8001/play/a00e/index.m3u8
 #EXTINF:-1, BT Sport 2 🇬🇧
 https://f62522e7b594.us-west-2.playback.live-video.net/api/video/v1/us-west-2.392623997366.channel.xvKDvDt4WpvM.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIyIDY6MDg6MzAgUE0maGFzaF92YWx1ZT13Qi8ra29jWGMyWDMyZGYyU2U4b1h3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xNjIuMTU4LjE3OC4xNzcmc3RybV9sZW49NQ==
 
+#EXTINF:-1, BT Sport 2 🇬🇧
+https://drgm6e1wwd6xk.cloudfront.net/hls/bt2/chunks.m3u8
+
 #EXTINF:-1 , Duhok Sports HD 🇪🇬
 http://duhoktvstream.top:1935/live/Duhok--Sports--HD/chunklist_w2080602545.m3u8
 
@@ -20,6 +23,12 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 
 #EXTINF:-1,BEIN SPORTS PREMIUM 01 HD 🇶🇦
 https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/stsRVzPEPEFSUGQNk5ju1losqg12yrPM4GDJoWj8cMdMyvTQa1XVRZCbrojYU1GCGygxxHQe1Z5boXgA6euyYg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+
+#EXTINF:-1,YAYA LIVE 🇶🇦
+https://tx.hls.nimo.tv/live/su2049511958288rf05d5a02921c4d40403bc80d259ec7fe.m3u8
+
+#EXTINF:-1,BEIN SPORTS PREMIUM 01 HD 🇶🇦
+https://c75a7e79204e539d.mediapackage.us-east-1.amazonaws.com/out/v1/d3361074508e40de84bc38237c6a881f/index.m3u8
 
 #EXTINF:-1,BEIN SPORTS PREMIUM 01 HD 🇶🇦
 http://revteam2.offshorerev.cc/SPIDER_F2lOt6/pg0lOTBRwa/86613
