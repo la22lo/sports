@@ -1434,9 +1434,14 @@ http://new-pro.tv:8080/Fernando/123321/296790
 #EXTINF:-1, ADJARASPORT 1
 http://5.178.129.16/adjarasport_live/LiveTV/mono.m3u8?shareext.ts
 
+#EXTINF:-1, ADJARASPORT 1
+https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
 
 #EXTINF:-1, ADJARASPORT 2
 http://5.178.129.16/adjarasport_live/LiveTV2/mono.m3u8?shareext.ts
+
+#EXTINF:-1, ADJARASPORT 2
+https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
