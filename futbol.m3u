@@ -16,6 +16,9 @@ https://f62522e7b594.us-west-2.playback.live-video.net/api/video/v1/us-west-2.39
 https://drgm6e1wwd6xk.cloudfront.net/hls/bt2/chunks.m3u8
 
 #EXTINF:-1, BT Sport 2 🇬🇧
+http://d3fux4819m73bb.cloudfront.net/stream/NDA1NQ==/1080p.m3u8
+
+#EXTINF:-1, BT Sport 2 🇬🇧
 https://ppv.gcdn.co:443/FOOT1/tracks-v1a1/mono.m3u8?justin
 
 #EXTINF:-1, CBS Sport 🇺🇸
