@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, BT Sport 2
+https://zz@iptv.lancartech.co.id:8443/topan/54637/86857
+
 #EXTINF:-1,Eleven Sports 1 🇵🇹
 http://161.230.155.157:8000/play/a02u
 
@@ -368,6 +371,12 @@ http://grl.dream-tv.org:2082/live/ikram_286249/GkYqOAh8/151567.m3u8
 
 #EXTINF:-1, BEIN SPORT 3 ENGLISH 🇬🇧
 http://grl.dream-tv.org:2082/live/ikram_286249/GkYqOAh8/151568.m3u8
+
+#EXTINF:-1, BT Sport 2
+https://zz@iptv.lancartech.co.id:8443/topan/54637/86857
+
+#EXTINF:-1, BT Sport 3
+https://zz@iptv.lancartech.co.id:8443/topan/54637/86858
 
 #EXTINF:-1, BT SPORT 1 🇬🇧
 http://93.152.174.144:4000/play/btsport1/index.m3u8
@@ -1373,15 +1382,6 @@ http://new-pro.tv:8080/Fernando/123321/33300
 
 #EXTINF:-1 , Duhok Sports HD
 http://new-pro.tv:8080/Fernando/123321/296790
-
-#EXTINF:-1, BT Sport 1
-https://zz@iptv.lancartech.co.id:8443/topan/54637/86856
-
-#EXTINF:-1, BT Sport 2
-https://zz@iptv.lancartech.co.id:8443/topan/54637/86857
-
-#EXTINF:-1, BT Sport 3
-https://zz@iptv.lancartech.co.id:8443/topan/54637/86858
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
