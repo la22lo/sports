@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, BT Sport 2
+#EXTINF:-1, BT Sport 2 🇬🇧
 https://zz@iptv.lancartech.co.id:8443/topan/54637/86857
 
 #EXTINF:-1,Eleven Sports 1 🇵🇹
@@ -363,19 +363,10 @@ http://185.234.217.27:8002/play/a035/index.m3u8
 #EXTINF:-1,C-12-BEIN SPORTS MAX 10 🇫🇷
 http://185.234.217.27:8002/play/a036/index.m3u8
 
-#EXTINF:-1, BEIN SPORT 1 ENGLISH 🇬🇧
-http://grl.dream-tv.org:2082/live/ikram_286249/GkYqOAh8/151566.m3u8
-
-#EXTINF:-1, BEIN SPORT 2 ENGLISH 🇬🇧
-http://grl.dream-tv.org:2082/live/ikram_286249/GkYqOAh8/151567.m3u8
-
-#EXTINF:-1, BEIN SPORT 3 ENGLISH 🇬🇧
-http://grl.dream-tv.org:2082/live/ikram_286249/GkYqOAh8/151568.m3u8
-
-#EXTINF:-1, BT Sport 2
+#EXTINF:-1, BT Sport 2 🇬🇧
 https://zz@iptv.lancartech.co.id:8443/topan/54637/86857
 
-#EXTINF:-1, BT Sport 3
+#EXTINF:-1, BT Sport 3 🇬🇧
 https://zz@iptv.lancartech.co.id:8443/topan/54637/86858
 
 #EXTINF:-1, BT SPORT 1 🇬🇧
@@ -390,32 +381,11 @@ http://line.uhd-ott.com/AzamBala/A86744/103146
 #EXTINF:-1, BT SPORT 3 🇬🇧
 http://93.152.174.144:4000/play/btsport3/index.m3u8
 
-#EXTINF:-1, BT SPORT 1 🇬🇧
-http://urtv.cc:80/444386/444386/6610
-
-#EXTINF:-1, BT SPORT 2 🇬🇧
-http://urtv.cc:80/444386/444386/6611
-
-#EXTINF:-1, BT SPORT 3 🇬🇧
-http://urtv.cc:80/444386/444386/6612
-
 #EXTINF:-1, BT SPORT ESPNHD 🇬🇧
 http://45.153.35.224:8000/play/a008
 
 #EXTINF:-1, BT SPORT ESPNHD 🇬🇧
 http://93.152.174.144:4000/play/btsportespn/index.m3u8
-
-#EXTINF:-1,BT SPORT 1 🇬🇧
-http://supportstreams.net:80/Awsa9Fa9M/g3dmDyFK4/649381
-
-#EXTINF:-1,BT SPORT 2 🇬🇧
-http://supportstreams.net:80/Awsa9Fa9M/g3dmDyFK4/649382
-
-#EXTINF:-1,BT SPORT 3 🇬🇧
-http://supportstreams.net:80/Awsa9Fa9M/g3dmDyFK4/649383
-
-#EXTINF:-1,BT SPORT ESPN 🇬🇧
-http://supportstreams.net:80/Awsa9Fa9M/g3dmDyFK4/649385
 
 #EXTINF:-1, SUPER GRANDSTAND 🇬🇧
 http://mykingtv.net:2082/Yapang98/Dragon98/12747
