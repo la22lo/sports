@@ -1374,5 +1374,35 @@ http://95.107.132.106/out/u/865_4.m3u8
 #EXTINF:-1,Tring sport 3 
 http://95.107.132.106/out/u/867_4.m3u8
 
+#EXTINF:-1,ArtSport 4 HD 
+http://185.222.138.163:9000/play/a0up 
+
+#EXTINF:-1,ArtSport 5 HD 
+http://185.222.138.163:9000/play/a0uq 
+
+#EXTINF:-1,ArtSport 6 HD 
+http://185.222.138.163:9000/play/a0ur 
+
+#EXTINF:-1,K Sport 1 HD 
+http://185.222.138.163:9000/play/a0ts 
+
+#EXTINF:-1,K Sport 2 HD 
+http://185.222.138.163:9000/play/a0tt 
+
+#EXTINF:-1,K Sport 3 HD 
+http://185.222.138.163:9000/play/a0tu 
+
+#EXTINF:-1,K Sport 4 HD 
+http://185.222.138.163:9000/play/a0k3 
+
+#EXTINF:-1,Match 1 
+http://88.151.248.36:9999/udp/224.0.223.123:1234 
+
+#EXTINF:-1,Match 2 
+http://88.151.248.36:9999/udp/224.0.223.125:1234 
+
+#EXTINF:-1,Match 3 
+http://88.151.248.36:9999/udp/224.0.223.127:1234
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
