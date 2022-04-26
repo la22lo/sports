@@ -15,6 +15,9 @@ https://zz@iptv.lancartech.co.id:8443/topan/54637/129402
 #EXTINF:-1,BEIN SPORTS PREMIUM 01 HD 🇶🇦
 http://revteam2.offshorerev.cc/SPIDER_F2lOt6/pg0lOTBRwa/86613
 
+#EXTINF:-1, PRIMA SPORT 1 🇷🇴
+http://149.62.177.105:8001/play/a00e/index.m3u8
+
 #EXTINF:-1,Eleven Sports 1 🇵🇹
 http://161.230.155.157:8000/play/a02u
 
@@ -605,12 +608,6 @@ http://62.182.80.87:8081/Test22/Test22/7050
 
 #EXTINF:-1, PRIMA SPORT 1 🇷🇴
 http://149.62.177.105:8001/play/a00e/index.m3u8
-
-#EXTINF:-1,PRIMA SPORT 1 🇷🇴
-http://79.118.90.182:8000/play/a01i
-
-#EXTINF:-1,PRIMA SPORT 1 🇷🇴
-http://79.118.90.182:8000/play/a079
 
 #EXTINF:-1,PRIMA SPORT 2 🇷🇴
 http://79.118.90.182:8000/play/a055
