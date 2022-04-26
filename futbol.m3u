@@ -1407,14 +1407,5 @@ http://new-pro.tv:8080/Fernando/123321/33300
 #EXTINF:-1 , Duhok Sports HD
 http://new-pro.tv:8080/Fernando/123321/296790
 
-#EXTINF:-1, beIN Sports 1 PREMIUM
-http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=111599&extension=ts
-
-#EXTINF:-1, beIN Sports 2 PREMIUM
-http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=111604&extension=ts
-
-#EXTINF:-1, beIN Sports 3 PREMIUM
-http://skipbox.org/play/live.php?mac=00:1A:79:00:1E:B8&stream=111609&extension=ts
-
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
