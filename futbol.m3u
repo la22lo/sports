@@ -1368,14 +1368,26 @@ http://new-pro.tv:8080/Fernando/123321/296790
 #EXTINF:-1,Tring sport 1 
 http://95.107.132.106/out/u/864_4.m3u8 
 
+#EXTINF:-1,Tring sport 1 
+http://95.107.132.106/out/u/683_2.m3u8
+
 #EXTINF:-1,Tring sport 2 
 http://95.107.132.106/out/u/865_4.m3u8 
+
+#EXTINF:-1,Tring sport 2 
+http://95.107.132.106/out/u/692_2.m3u8
 
 #EXTINF:-1,Tring sport 3 
 http://95.107.132.106/out/u/867_4.m3u8
 
+#EXTINF:-1,Tring sport 3 
+http://95.107.132.106/out/u/699_2.m3u8
+
 #EXTINF:-1,ArtSport 4 HD 
 http://185.222.138.163:9000/play/a0up 
+
+#EXTINF:-1,Tring sport 4 
+http://95.107.132.106/out/u/713_4.m3u8
 
 #EXTINF:-1,ArtSport 5 HD 
 http://185.222.138.163:9000/play/a0uq 
