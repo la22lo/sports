@@ -1368,11 +1368,13 @@ http://new-pro.tv:8080/Fernando/123321/33300
 #EXTINF:-1 , Duhok Sports HD
 http://new-pro.tv:8080/Fernando/123321/296790
 
-#EXTINF:-1 tvg-logo="" group-title="SportGroup", SonyTeen1
+#EXTINF:-1, Sony Ten 1
 https://zz@iptv.lancartech.co.id:8443/topan/54637/129401
-#EXTINF:-1 tvg-logo="" group-title="SportGroup", SonyTeen2
+
+#EXTINF:-1, Sony Ten 2
 https://zz@iptv.lancartech.co.id:8443/topan/54637/129402
-#EXTINF:-1 tvg-logo="" group-title="SportGroup", SonyTeen3
+
+#EXTINF:-1, Sony Ten 3
 https://zz@iptv.lancartech.co.id:8443/topan/54637/129403
 
 #EXTINF:-1, REAL MADRID TV
