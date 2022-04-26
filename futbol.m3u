@@ -18,6 +18,9 @@ https://drgm6e1wwd6xk.cloudfront.net/hls/bt2/chunks.m3u8
 #EXTINF:-1, BT Sport 2 🇬🇧
 https://ppv.gcdn.co:443/FOOT1/tracks-v1a1/mono.m3u8?justin
 
+#EXTINF:-1, CBS Sport 🇺🇸
+https://d2utc06h8oduhb.cloudfront.net/out/v1/49a7b355ef57498782e03f76f4975a79/index_4.m3u8
+
 #EXTINF:-1 , Duhok Sports HD 🇪🇬
 http://duhoktvstream.top:1935/live/Duhok--Sports--HD/chunklist_w2080602545.m3u8
 
