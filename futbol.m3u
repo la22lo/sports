@@ -3,6 +3,9 @@
 #EXTINF:-1,ESPN HD 🇦🇷
 http://170.83.242.153:5150/play/a05h
 
+#EXTINF:-1, M LIGA DE CAMPEONES 🇪🇸
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/29OnWJvgJzbLXDpJr2PTY6LvGu49vE1aB6BcLZzeycOXdma7UQQrv7hET6oM_inTFx2JWyv8Tid8NuDVmFSwig/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwNjBfMTAiLCJIZWlnaHQiOjcyMCwiSGlnaEZyYW1lUmF0ZSI6dHJ1ZSwiS2JwcyI6NDUwMCwiV2lkdGgiOjEyODB9.stuYmPPT9-xV9TCzbYuSxDgDPioKBbwtYnXdCaqBQNo/dynamic_highlatency.m3u8?type=live
+
 #EXTINF:-1, PRIMA SPORT 1 🇷🇴
 http://149.62.177.105:8001/play/a00e/index.m3u8
 
