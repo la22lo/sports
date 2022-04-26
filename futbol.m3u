@@ -1374,11 +1374,13 @@ http://new-pro.tv:8080/Fernando/123321/33300
 #EXTINF:-1 , Duhok Sports HD
 http://new-pro.tv:8080/Fernando/123321/296790
 
-#EXTINF:-1 tvg-logo="" group-title="SportGroup", BT Sport 1
+#EXTINF:-1, BT Sport 1
 https://zz@iptv.lancartech.co.id:8443/topan/54637/86856
-#EXTINF:-1 tvg-logo="" group-title="SportGroup", BT Sport 2
+
+#EXTINF:-1, BT Sport 2
 https://zz@iptv.lancartech.co.id:8443/topan/54637/86857
-#EXTINF:-1 tvg-logo="" group-title="SportGroup", BT Sport 3
+
+#EXTINF:-1, BT Sport 3
 https://zz@iptv.lancartech.co.id:8443/topan/54637/86858
 
 #EXTINF:-1, REAL MADRID TV
