@@ -294,11 +294,26 @@ http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJFGRezPP_E_YrLaVH7MB7KE/ts
 #EXTINF:-1, SPORTV 1 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.173:7073/spt1
 
+#EXTINF:-1, SPORTV 1 🇵🇹
+http://Eonlinebio.com:8000/Goranmarkovicfb929229/bM3eEDYSgB/113998
+
 #EXTINF:-1, SPORTV 2 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.173:7073/spt2
 
+#EXTINF:-1, SPORTV 2 🇵🇹
+http://Eonlinebio.com:8000/Goranmarkovicfb929229/bM3eEDYSgB/113999
+
 #EXTINF:-1, SPORTV 3 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.173:7073/spt3
+
+#EXTINF:-1, SPORTV 3 🇵🇹
+http://Eonlinebio.com:8000/Goranmarkovicfb929229/bM3eEDYSgB/114000
+
+#EXTINF:-1, SPORTV 4 🇵🇹
+http://Eonlinebio.com:8000/Goranmarkovicfb929229/bM3eEDYSgB/114001
+
+#EXTINF:-1, SPORTV 5 🇵🇹
+http://Eonlinebio.com:8000/Goranmarkovicfb929229/bM3eEDYSgB/114002
 
 #EXTINF:-1, SPORTV + 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
@@ -678,14 +693,26 @@ http://149.62.177.105:8001/play/a00f/index.m3u8
 #EXTINF:-1, DIGI SPORT 1 🇷🇴
 http://62.182.80.87:8081/Test22/Test22/7014
 
+#EXTINF:-1, DIGI SPORT 1 🇷🇴
+http://Eonlinebio.com:8000/Goranmarkovicfb929229/bM3eEDYSgB/113994
+
 #EXTINF:-1, DIGI SPORT 2 🇷🇴
 http://62.182.80.87:8081/Test22/Test22/7016
+
+#EXTINF:-1, DIGI SPORT 2 🇷🇴
+http://Eonlinebio.com:8000/Goranmarkovicfb929229/bM3eEDYSgB/113995
 
 #EXTINF:-1, DIGI SPORT 3 🇷🇴
 http://62.182.80.87:8081/Test22/Test22/7018
 
+#EXTINF:-1, DIGI SPORT 3 🇷🇴
+http://Eonlinebio.com:8000/Goranmarkovicfb929229/bM3eEDYSgB/113996
+
 #EXTINF:-1, DIGI SPORT 4 🇷🇴
 http://62.182.80.87:8081/Test22/Test22/7020
+
+#EXTINF:-1, DIGI SPORT 4 🇷🇴
+http://Eonlinebio.com:8000/Goranmarkovicfb929229/bM3eEDYSgB/113997
 
 #EXTINF:-1, ORANGE SPORT 1 🇷🇴
 http://62.182.80.87:8081/Test22/Test22/7068
