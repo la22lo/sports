@@ -1533,35 +1533,5 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 , MMN Sport 4K
-http://new-pro.tv:8080/Fernando/123321/298894
-
-#EXTINF:-1 , Astera Sport HD
-http://new-pro.tv:8080/Fernando/123321/90970
-
-#EXTINF:-1 , Reng Sport HD
-http://new-pro.tv:8080/Fernando/123321/106139
-
-#EXTINF:-1 , Aro Sport HD
-http://new-pro.tv:8080/Fernando/123321/151677
-
-#EXTINF:-1 , 4sport HD
-http://new-pro.tv:8080/Fernando/123321/176299
-
-#EXTINF:-1 , Kurdistan Sport HD
-http://new-pro.tv:8080/Fernando/123321/176507
-
-#EXTINF:-1 , ASO Sport HD
-http://new-pro.tv:8080/Fernando/123321/106144
-
-#EXTINF:-1 , MMN Sport HD
-http://new-pro.tv:8080/Fernando/123321/33300
-
-#EXTINF:-1 , Duhok Sports HD
-http://new-pro.tv:8080/Fernando/123321/296790
-
-#EXTINF:-1 , CHAMP 
-https://live-ak.vimeocdn.com/exp=1650999244~acl=%2F062c89a1-56a2-467b-b438-4a121e9f56c8%2F%2A~hmac=55c46eae59cf2980924779b00650e71793d5652785c307e12de3b48a9ce64b7d/062c89a1-56a2-467b-b438-4a121e9f56c8/chunklist_b6256000.m3u8?P135
-
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
