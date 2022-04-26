@@ -24,6 +24,9 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 #EXTINF:-1,SBT 🇧🇷
 https://dubr2rz6c5qdz.cloudfront.net/live-stream/61c21f28fa354108218ed3a3/publish/media_1800.m3u8
 
+#EXTINF:-1, TNT 🇧🇷
+https://cdnapisec.kaltura.com/p/4611563/sp/461156300/playManifest/entryId/1_uo8utet9/format/applehttp/protocol/https/uiConfId/49985163/a.m3u8?referrer=aHR0cHM6Ly9rbWMua2FsdHVyYS5jb20=&playSessionId=1a1886ca-07f3-8c58-5eee-1658115b17d9&ks=djJ8NDYxMTU2M3zBG239qZvoO5qSOy8a-UI0lv1-_zw8ZP_KI2KX5KjgrC9jwxPQHG6MxCZufBiaeeEaed8zelvlkr7O20hJH1ieA2ZBaiGoY_T-DauclkLPnMJUZ5hF9TMO4uIKssnLSTdxBylKmTT_HrWbQ6auzxRTrTC81LdsIWoU2W5iITMSmw==
+
 #EXTINF:-1,BEIN SPORTS PREMIUM 01 HD 🇶🇦
 https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/stsRVzPEPEFSUGQNk5ju1losqg12yrPM4GDJoWj8cMdMyvTQa1XVRZCbrojYU1GCGygxxHQe1Z5boXgA6euyYg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
 
