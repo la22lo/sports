@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1, PRIMA SPORT 1 🇷🇴
+http://149.62.177.105:8001/play/a00e/index.m3u8
+
+#EXTINF:-1,BEIN SPORTS PREMIUM 01 HD 🇶🇦
+http://revteam2.offshorerev.cc/SPIDER_F2lOt6/pg0lOTBRwa/86613
+
+#EXTINF:-1,BEIN SPORTS PREMIUM 1 HD 🇶🇦
+http://Eonlinebio.com:8000/Goranmarkovicfb929229/bM3eEDYSgB/113985
+
 #EXTINF:-1, BT Sport 2 🇬🇧
 https://zz@iptv.lancartech.co.id:8443/topan/54637/86857
 
@@ -14,15 +23,6 @@ https://zz@iptv.lancartech.co.id:8443/topan/54637/129402
 
 #EXTINF:-1, Sony Ten 2 🇲🇾
 http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34491?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
-
-#EXTINF:-1,BEIN SPORTS PREMIUM 01 HD 🇶🇦
-http://revteam2.offshorerev.cc/SPIDER_F2lOt6/pg0lOTBRwa/86613
-
-#EXTINF:-1,BEIN SPORTS PREMIUM 1 HD 🇶🇦
-http://Eonlinebio.com:8000/Goranmarkovicfb929229/bM3eEDYSgB/113985
-
-#EXTINF:-1, PRIMA SPORT 1 🇷🇴
-http://149.62.177.105:8001/play/a00e/index.m3u8
 
 #EXTINF:-1,MEGOGO 1 HD 🇺🇦
 http://lb.wisp.cat/lb0/DMEGO1_HD/video.m3u8?token=FREETVUKRAINE
