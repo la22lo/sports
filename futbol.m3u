@@ -3,6 +3,9 @@
 #EXTINF:-1, BT Sport 2 🇬🇧
 https://zz@iptv.lancartech.co.id:8443/topan/54637/86857
 
+#EXTINF:-1,Tring sport 1 🇦🇱
+http://95.107.132.106/out/u/864_4.m3u8 
+
 #EXTINF:-1,Eleven Sports 1 🇵🇹
 http://161.230.155.157:8000/play/a02u
 
@@ -458,6 +461,15 @@ http://77.247.109.109:8008/a/willene/live/1221862347.ts
 
 #EXTINF:-1, SUPERSPORT 4 🇦🇱
 http://77.247.109.109:8008/a/willene/live/3923795525.ts 
+
+#EXTINF:-1,Tring sport 1 🇦🇱
+http://95.107.132.106/out/u/864_4.m3u8 
+
+#EXTINF:-1,Tring sport 2 🇦🇱
+http://95.107.132.106/out/u/865_4.m3u8 
+
+#EXTINF:-1,Tring sport 3 🇦🇱
+http://95.107.132.106/out/u/867_4.m3u8
 
 #EXTINF:-1, KUJTESA 1 🇦🇱
 http://77.247.109.109:8008/a/willene/live/2711778750.ts
@@ -1353,13 +1365,13 @@ http://new-pro.tv:8080/Fernando/123321/33300
 #EXTINF:-1 , Duhok Sports HD
 http://new-pro.tv:8080/Fernando/123321/296790
 
-#EXTINF:-1,tring sport 1 
+#EXTINF:-1,Tring sport 1 
 http://95.107.132.106/out/u/864_4.m3u8 
 
-#EXTINF:-1,tring sport 2 
+#EXTINF:-1,Tring sport 2 
 http://95.107.132.106/out/u/865_4.m3u8 
 
-#EXTINF:-1,tring sport 3 
+#EXTINF:-1,Tring sport 3 
 http://95.107.132.106/out/u/867_4.m3u8
 
 #EXTINF:-1, REAL MADRID TV
