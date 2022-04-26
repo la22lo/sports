@@ -1407,17 +1407,5 @@ http://new-pro.tv:8080/Fernando/123321/33300
 #EXTINF:-1 , Duhok Sports HD
 http://new-pro.tv:8080/Fernando/123321/296790
 
-#EXTINF:-1, beIN 1 PREMIUM HD
-http://1tv1.net:8080/aziz10/123456/15563
-
-#EXTINF:-1, beIN 2 PREMIUM HD
-http://1tv1.net:8080/aziz10/123456/15562
-
-#EXTINF:-1, beIN 3 PREMIUM HD
-http://1tv1.net:8080/aziz10/123456/15561
-
-#EXTINF:-1, beIN 1 HD
-http://1tv1.net:8080/aziz10/123456/15560
-
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
