@@ -21,6 +21,9 @@ http://161.230.155.157:8000/play/a02u
 #EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 
+#EXTINF:-1,SBT 🇧🇷
+https://dubr2rz6c5qdz.cloudfront.net/live-stream/61c21f28fa354108218ed3a3/publish/media_1800.m3u8
+
 #EXTINF:-1,BEIN SPORTS PREMIUM 01 HD 🇶🇦
 https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/stsRVzPEPEFSUGQNk5ju1losqg12yrPM4GDJoWj8cMdMyvTQa1XVRZCbrojYU1GCGygxxHQe1Z5boXgA6euyYg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
 
