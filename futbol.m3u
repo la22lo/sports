@@ -1395,5 +1395,17 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,gol tv HD
 http://212.121.249.34:8080/goltvhd/playlist.m3u8
 
+#EXTINF:-1, BT SPORT 1 HD
+http://beams-tv.stream:80/jonhunt28.2.602.22@gmail.com/3196071162/246
+
+#EXTINF:-1, BT SPORT 2 HD
+http://beams-tv.stream:80/jonhunt28.2.602.22@gmail.com/3196071162/243
+
+#EXTINF:-1, BT SPORT 3 HD
+http://beams-tv.stream:80/jonhunt28.2.602.22@gmail.com/3196071162/240
+
+#EXTINF:-1, BT SPORT ESPN HD
+http://beams-tv.stream:80/jonhunt28.2.602.22@gmail.com/3196071162/236
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
