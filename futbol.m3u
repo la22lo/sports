@@ -27,6 +27,12 @@ http://161.230.155.157:8000/play/a02u
 #EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 
+#EXTINF:-1, TNT SPORTS 🇧🇷
+https://klive.kaltura.com/s/env/cluster-1-a.live.nvp1/live/hls/p/4612873/e/1_5gwx5pns/tl/main/st/0/t/DGMtBqWiqPu13YBthrdWAg/index-s32.m3u8?__hdnea__=st=1651081895~exp=1651168295~acl=/s/env/cluster-1-a.live.nvp1/live/hls/p/4612873/e/1_5gwx5pns/tl/main/st/0/t/DGMtBqWiqPu13YBthrdWAg/index-s3*~hmac=89e86480906faca757556e05d6798a9032f4b458252c5b04feca4f3248e1f6d8
+
+#EXTINF:-1, CLARO 🇧🇷
+https://klive.kaltura.com/s/env/cluster-1-a.live.nvp1/live/hls/p/4611563/e/1_4n6jbof5/tl/main/st/0/t/Sxc64uNuKgYeIDiKnwN9_g/index-s32.m3u8?__hdnea__=st=1651068196~exp=1651154596~acl=/s/env/cluster-1-a.live.nvp1/live/hls/p/4611563/e/1_4n6jbof5/tl/main/st/0/t/Sxc64uNuKgYeIDiKnwN9_g/index-s32.m3u8*~hmac=48ad9c5012924ea344cdc1f55781d2513993e55c96d01d37f3a07adfa1d74872
+
 #EXTINF:-1,SBT 🇧🇷
 https://dubr2rz6c5qdz.cloudfront.net/live-stream/61c21f28fa354108218ed3a3/publish/media_1800.m3u8
 
