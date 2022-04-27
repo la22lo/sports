@@ -18,6 +18,9 @@ https://d2utc06h8oduhb.cloudfront.net/out/v1/49a7b355ef57498782e03f76f4975a79/in
 #EXTINF:-1 , Duhok Sports HD 🇪🇬
 http://duhoktvstream.top:1935/live/Duhok--Sports--HD/chunklist_w2080602545.m3u8
 
+#EXTINF:-1,MEGOGO 1 HD 🇺🇦
+http://lb.wisp.cat/lb0/DMEGO1_HD/video.m3u8?token=FREETVUKRAINE
+
 #EXTINF:-1,Eleven Sports 1 🇵🇹
 http://161.230.155.157:8000/play/a02u
 
@@ -39,17 +42,11 @@ https://zz@iptv.lancartech.co.id:8443/topan/54637/86857
 #EXTINF:-1,Tring sport 1 🇦🇱
 http://95.107.132.106/out/u/864_4.m3u8 
 
-#EXTINF:-1 ,RMC 1 🇫🇷
-http://185.184.192.166/RMC1/mpegts
-
 #EXTINF:-1, Sony Ten 2 🇲🇾
 https://zz@iptv.lancartech.co.id:8443/topan/54637/129402
 
 #EXTINF:-1, Sony Ten 2 🇲🇾
 http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34491?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
-
-#EXTINF:-1,MEGOGO 1 HD 🇺🇦
-http://lb.wisp.cat/lb0/DMEGO1_HD/video.m3u8?token=FREETVUKRAINE
 
 #EXTINF:-1,Eleven Sports 1 🇵🇹
 http://161.230.155.157:8000/play/a02u
