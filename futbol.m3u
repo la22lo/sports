@@ -6,6 +6,9 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
 #EXTINF:-1, TV MAX 🇦🇷
 https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/playlist_dvr.m3u8
 
+#EXTINF:-1, TV MAX 🇦🇷
+https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/963e14317afb436484576a46b28c8fd7/playlist_dvr_ssaiM.m3u8
+
 #EXTINF:-1,M CHAMPIONS 🇪🇸
 http://188.34.177.35/xls/champions/index.m3u8
 
@@ -257,6 +260,9 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
 
 #EXTINF:-1, TV MAX 🇦🇷
 https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/playlist_dvr.m3u8
+
+#EXTINF:-1, TV MAX 🇦🇷
+https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/963e14317afb436484576a46b28c8fd7/playlist_dvr_ssaiM.m3u8
 
 #EXTINF:-1,TYC SPORTS HD 🇦🇷
 http://170.83.242.153:5150/play/a04t
