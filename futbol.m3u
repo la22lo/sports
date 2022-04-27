@@ -1386,30 +1386,8 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,ELEVEN SPORTS 1 HD
-http://clientend.prx2.xyz:80/claud123/claud123/138421
-#EXTINF:-1,ELEVEN SPORTS 1 SD
-http://clientend.prx2.xyz:80/claud123/claud123/138420
-#EXTINF:-1,ELEVEN SPORTS 2 HD
-http://clientend.prx2.xyz:80/claud123/claud123/138423
-#EXTINF:-1,ELEVEN SPORTS 2 SD
-http://clientend.prx2.xyz:80/claud123/claud123/138422
-#EXTINF:-1,ELEVEN SPORTS 3 HD
-http://clientend.prx2.xyz:80/claud123/claud123/138425
-#EXTINF:-1,ELEVEN SPORTS 3 SD
-http://clientend.prx2.xyz:80/claud123/claud123/138424
-#EXTINF:-1,ELEVEN SPORTS 4
-http://clientend.prx2.xyz:80/claud123/claud123/138426
-#EXTINF:-1,ELEVEN SPORTS 4 HD
-http://clientend.prx2.xyz:80/claud123/claud123/138427
-#EXTINF:-1,ELEVEN SPORTS 5
-http://clientend.prx2.xyz:80/claud123/claud123/138428
-#EXTINF:-1,ELEVEN SPORTS 5 HD
-http://clientend.prx2.xyz:80/claud123/claud123/138429
-#EXTINF:-1,ELEVEN SPORTS 6
-http://clientend.prx2.xyz:80/claud123/claud123/138430
-#EXTINF:-1,ELEVEN SPORTS 6 HD
-http://clientend.prx2.xyz:80/claud123/claud123/138431
+#EXTINF:-1 ,gol tv HD
+http://212.121.249.34:8080/goltvhd/playlist.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
