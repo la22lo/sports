@@ -24,6 +24,9 @@ http://d3pkil6wp1amn5.cloudfront.net:80/stream/NDA1Ng==/1080p.m3u8
 #EXTINF:-1, BT SPORT 2 HD 🇬🇧
 https://djwjf11yzd2i2.cloudfront.net:443/hls/btsport/chunks.m3u8
 
+#EXTINF:-1, BT SPORT 2 HD 🇬🇧
+https://1fdd483b2dde.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.781001535613.channel.QbhdYoH7da2u.m3u8?SBN
+
 #EXTINF:-1, CBS Sport 🇺🇸
 https://d2utc06h8oduhb.cloudfront.net/out/v1/49a7b355ef57498782e03f76f4975a79/index_4.m3u8
 
