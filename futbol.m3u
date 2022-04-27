@@ -51,9 +51,6 @@ http://161.230.155.157:8000/play/a02u
 #EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 
-#EXTINF:-1,SUPERSPORT LIGA 🇬🇧
-http://mykingtv.net:2082/Yapang98/Dragon98/12741
-
 #EXTINF:-1, LALIGA TV 🇬🇧
 https://hostcloud.network/live/aD8C1ETPQU28/842373/71325.ts
 
@@ -62,18 +59,6 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/102245.ts
 
 #EXTINF:-1,BEIN SPORTS 01 HD 🇶🇦
 http://revteam2.offshorerev.cc/SPIDER_F2lOt6/pg0lOTBRwa/86607
-
-#EXTINF:-1,beIN 1 MY 🇲🇾
-http://mykingtv.net:2082/Yapang98/Dragon98/8414
-
-#EXTINF:-1, bEIN MAX MALASIA 🇲🇾
-http://mykingtv.net:2082/Yapang98/Dragon98/8413
-
-#EXTINF:-1, BeIN Sport 1 ID 🇮🇩
-http://mykingtv.net:2082/Yapang98/Dragon98/8651
-
-#EXTINF:-1, BeIN Sport 2 ID 🇮🇩
-http://mykingtv.net:2082/Yapang98/Dragon98/8652
 
 #EXTINF:-1, beIN Sports 1 ID 🇮🇩
 https://zz@iptv.lancartech.co.id:8443/topan/54637/25
@@ -1358,9 +1343,6 @@ https://kpuae@01cc1947c0d3.eu-central-1.playback.live-video.net/api/video/v1/eu-
 
 #EXTINF:-1,3
 https://tx.hls.nimo.tv/live/su2039514083155r4e33ce3af689de7d1f5518a7dee8d31a.m3u8
-
-#EXTINF:-1, SUPERSPORT TENNIS 🇬🇧
-http://mykingtv.net:2082/Yapang98/Dragon98/12753
 
 #EXTINF:-1, SUPERSPORT TENNIS 🇬🇧
 https://hostcloud.network/live/aD8C1ETPQU28/842373/104135.ts
