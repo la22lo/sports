@@ -12,6 +12,9 @@ http://149.62.177.105:8001/play/a00e/index.m3u8
 #EXTINF:-1, BT Sport 2 🇬🇧
 https://f62522e7b594.us-west-2.playback.live-video.net/api/video/v1/us-west-2.392623997366.channel.xvKDvDt4WpvM.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIyIDY6MDg6MzAgUE0maGFzaF92YWx1ZT13Qi8ra29jWGMyWDMyZGYyU2U4b1h3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xNjIuMTU4LjE3OC4xNzcmc3RybV9sZW49NQ==
 
+#EXTINF:-1, BT SPORT 2 HD 🇬🇧
+http://beams-tv.stream:80/jonhunt28.2.602.22@gmail.com/3196071162/243
+
 #EXTINF:-1, CBS Sport 🇺🇸
 https://d2utc06h8oduhb.cloudfront.net/out/v1/49a7b355ef57498782e03f76f4975a79/index_4.m3u8
 
@@ -464,6 +467,18 @@ http://45.153.35.224:8000/play/a008
 
 #EXTINF:-1, BT SPORT ESPNHD 🇬🇧
 http://93.152.174.144:4000/play/btsportespn/index.m3u8
+
+#EXTINF:-1, BT SPORT 1 HD 🇬🇧
+http://beams-tv.stream:80/jonhunt28.2.602.22@gmail.com/3196071162/246
+
+#EXTINF:-1, BT SPORT 2 HD 🇬🇧
+http://beams-tv.stream:80/jonhunt28.2.602.22@gmail.com/3196071162/243
+
+#EXTINF:-1, BT SPORT 3 HD 🇬🇧
+http://beams-tv.stream:80/jonhunt28.2.602.22@gmail.com/3196071162/240
+ 
+#EXTINF:-1, BT SPORT ESPN HD 🇬🇧
+http://beams-tv.stream:80/jonhunt28.2.602.22@gmail.com/3196071162/236
 
 #EXTINF:-1, SUPER GRANDSTAND 🇬🇧
 http://mykingtv.net:2082/Yapang98/Dragon98/12747
@@ -1266,6 +1281,9 @@ https://directes-tv-cat.ccma.cat:443/cat/ngrp:es3_web/chunklist_b4128000.m3u8
 #EXTINF:-1, CICLISMO ESUKERA (EITB) 🇪🇸
 https://live-dvr.eitb-fastly.cross-media.es/live-content/oka2hd-hls/bitrate_4.m3u8
 
+#EXTINF:-1 ,Gol tv HD 🇪🇸
+http://212.121.249.34:8080/goltvhd/playlist.m3u8
+
 #EXTINF:-1, TELEDEPORTE 🇪🇸
 https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8
 
@@ -1391,21 +1409,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 ,gol tv HD
-http://212.121.249.34:8080/goltvhd/playlist.m3u8
-
-#EXTINF:-1, BT SPORT 1 HD
-http://beams-tv.stream:80/jonhunt28.2.602.22@gmail.com/3196071162/246
-
-#EXTINF:-1, BT SPORT 2 HD
-http://beams-tv.stream:80/jonhunt28.2.602.22@gmail.com/3196071162/243
-
-#EXTINF:-1, BT SPORT 3 HD
-http://beams-tv.stream:80/jonhunt28.2.602.22@gmail.com/3196071162/240
-
-#EXTINF:-1, BT SPORT ESPN HD
-http://beams-tv.stream:80/jonhunt28.2.602.22@gmail.com/3196071162/236
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
