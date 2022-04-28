@@ -1293,41 +1293,14 @@ https://events1-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1, PALY UD SPORT ESP 🇪🇸
 https://ccdn.fractalmedia.es:9443/live015/stream/live/cudtv/high/index.m3u8
 
-#EXTINF:-1, EVENTS
-http://init.cheches.info:80/hls/109.m3u8
-
-#EXTINF:-1, EVENTS
-http://init.cheches.info:80/hls/108.m3u8
-
-#EXTINF:-1, EVENTS
-http://init.cheches.info:80/hls/107.m3u8
-
-#EXTINF:-1, EVENTS
-http://init.cheches.info:80/hls/105.m3u8
-
-#EXTINF:-1, EVENTS
-http://init.cheches.info/hls/113.m3u8
-
-#EXTINF:-1, EVENTS
-https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/KKWHM9qqwdaklUPK85Rcrg==,1649975071/channels/cme-ro-prox/playlist.m3u8
-
 #EXTINF:-1, SUPERSPORT EVENTS 🇬🇧
 http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8
-
-#EXTINF:-1, EVENT
-http://77.247.109.116/live/abr_b-2/live/b-2/chunks.m3u8
-
-#EXTINF:-1, EVENT
-http://194.67.196.19/hls/102.m3u8
 
 #EXTINF:-1, Channel 1
 https://alplay.zhengyaning.com/xoilac/channel-1.m3u8?auth_key=1650270384-0-0-48c6ca8a63158bfe5e9a6a038b0676e2
 
 #EXTINF:-1, Channel 2
 https://alplay.zhengyaning.com/xoilac/channel-2.m3u8?auth_key=1650270470-0-0-8fccdc7f7bc8c0794d340d1e16371658
-
-#EXTINF:-1, Channel 3
-https://alplay.zhengyaning.com/xoilac/channel-3.m3u8?auth_key=1650270470-0-0-8fccdc7f7bc8c0794d340d1e16371658
 
 #EXTINF:-1, Channel 3
 https://alplay.zhengyaning.com/xoilac/channel-3.m3u8?auth_key=1650270558-0-0-cbb563d4f1f3b8cc89aa7d3466bd4b47
@@ -1355,15 +1328,6 @@ https://acdn.zhengyaning.com/xoilac/channel-10.m3u8?auth_key=1645859460-0-0-b702
 
 #EXTINF:-1, Channel 11
 https://acdn.zhengyaning.com/xoilac/channel-11.m3u8?auth_key=1645859482-0-0-6bc23936151f20c56d90cec933fb17d3
-
-#EXTINF:-1,1
-https://kpUAEikickyourasshole@76ab8856ff65.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.506002325759.channel.nWmEqjtphD26.m3u8?LANUNMATASEPETJILAKE.m3u8
-
-#EXTINF:-1,2
-https://kpuae@01cc1947c0d3.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.506002325759.channel.cl1YWrsbuhYm.m3u8?Curikusepankkang2barutahuhahaha.m3u8
-
-#EXTINF:-1,3
-https://tx.hls.nimo.tv/live/su2039514083155r4e33ce3af689de7d1f5518a7dee8d31a.m3u8
 
 #EXTINF:-1, SUPERSPORT TENNIS 🇬🇧
 https://hostcloud.network/live/aD8C1ETPQU28/842373/104135.ts
