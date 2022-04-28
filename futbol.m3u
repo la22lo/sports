@@ -603,6 +603,9 @@ http://62.182.80.87:8081/Test22/Test22/7414
 #EXTINF:-1, POLSAT SPORT 🇵🇱
 http://62.182.80.87:8081/Test22/Test22/7314
 
+#EXTINF:-1,Polsat_Sport_HD 🇵🇱
+http://194.76.186.151:20001/play/Polsat_Sport_HD
+
 #EXTINF:-1, POLSAT SPORT PREMIUM 1 🇵🇱
 http://62.182.80.87:8081/Test22/Test22/7311
 
@@ -614,6 +617,9 @@ http://62.182.80.87:8081/Test22/Test22/7309
 
 #EXTINF:-1, POLSAT SPORT PREMIUM 4 🇵🇱
 http://62.182.80.87:8081/Test22/Test22/7308
+
+#EXTINF:-1,Polsat_Sport_Extra_HD 🇵🇱
+http://194.76.186.151:20001/play/Polsat_Sport_Extra_HD
 
 #EXTINF:-1, SUPERSPORT 🇽🇰
 http://62.182.80.87:8081/Test22/Test22/1037
@@ -1400,12 +1406,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,Polsat_Sport_Extra_HD
-http://194.76.186.151:20001/play/Polsat_Sport_Extra_HD
-
-#EXTINF:-1,Polsat_Sport_HD
-http://194.76.186.151:20001/play/Polsat_Sport_HD
 
 #EXTINF:-1,ESPN +
 http://190.83.2.51:8000/play/a027/index.m3u8
