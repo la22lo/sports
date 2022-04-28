@@ -1038,6 +1038,9 @@ http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1, CANAL CHINO 6 CCTV5+Sport 🇨🇳
 http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 
+#EXTINF:-1, TVRI SPORTS INDONESIA
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
 #EXTINF:-1, STAR SPORTS 🇮🇳
 http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/868
 
