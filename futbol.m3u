@@ -1,74 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, ATV VIVO 🇵🇪
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
-
-#EXTINF:-1, TV MAX 🇦🇷
-https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/playlist_dvr.m3u8
-
-#EXTINF:-1, TV MAX 🇦🇷
-https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/963e14317afb436484576a46b28c8fd7/playlist_dvr_ssaiM.m3u8
-
-#EXTINF:-1,M CHAMPIONS 🇪🇸
-http://188.34.177.35/xls/champions/index.m3u8
-
-#EXTINF:-1, PRIMA SPORT 1 🇷🇴
-http://149.62.177.105:8001/play/a00e/index.m3u8
-
-#EXTINF:-1, BT Sport 2 🇬🇧
-https://f62522e7b594.us-west-2.playback.live-video.net/api/video/v1/us-west-2.392623997366.channel.xvKDvDt4WpvM.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIyIDY6MDg6MzAgUE0maGFzaF92YWx1ZT13Qi8ra29jWGMyWDMyZGYyU2U4b1h3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xNjIuMTU4LjE3OC4xNzcmc3RybV9sZW49NQ==
-
-#EXTINF:-1, BT Sport 2 🇬🇧
-https://djwjf11yzd2i2.cloudfront.net/hls/btsport/playlist.m3u8
-
-#EXTINF:-1, BT Sport 2 🇬🇧
-http://d3pkil6wp1amn5.cloudfront.net:80/stream/NDA1Ng==/1080p.m3u8
-
-#EXTINF:-1, BT SPORT 2 HD 🇬🇧
-https://djwjf11yzd2i2.cloudfront.net:443/hls/btsport/chunks.m3u8
-
-#EXTINF:-1, BT SPORT 2 HD 🇬🇧
-https://1fdd483b2dde.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.781001535613.channel.QbhdYoH7da2u.m3u8?SBN
-
-#EXTINF:-1, CBS Sport 🇺🇸
-https://d2utc06h8oduhb.cloudfront.net/out/v1/49a7b355ef57498782e03f76f4975a79/index_4.m3u8
-
-#EXTINF:-1 , Duhok Sports HD 🇪🇬
-http://duhoktvstream.top:1935/live/Duhok--Sports--HD/chunklist_w2080602545.m3u8
-
-#EXTINF:-1,MEGOGO 1 HD 🇺🇦
-http://lb.wisp.cat/lb0/DMEGO1_HD/video.m3u8?token=FREETVUKRAINE
-
-#EXTINF:-1,Eleven Sports 1 🇵🇹
-http://161.230.155.157:8000/play/a02u
-
-#EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
-
-#EXTINF:-1, TNT SPORTS 🇧🇷
-https://klive.kaltura.com/s/env/cluster-1-a.live.nvp1/live/hls/p/4612873/e/1_5gwx5pns/tl/main/st/0/t/DGMtBqWiqPu13YBthrdWAg/index-s32.m3u8?__hdnea__=st=1651081895~exp=1651168295~acl=/s/env/cluster-1-a.live.nvp1/live/hls/p/4612873/e/1_5gwx5pns/tl/main/st/0/t/DGMtBqWiqPu13YBthrdWAg/index-s3*~hmac=89e86480906faca757556e05d6798a9032f4b458252c5b04feca4f3248e1f6d8
-
-#EXTINF:-1, CLARO 🇧🇷
-https://klive.kaltura.com/s/env/cluster-1-a.live.nvp1/live/hls/p/4611563/e/1_4n6jbof5/tl/main/st/0/t/Sxc64uNuKgYeIDiKnwN9_g/index-s32.m3u8?__hdnea__=st=1651068196~exp=1651154596~acl=/s/env/cluster-1-a.live.nvp1/live/hls/p/4611563/e/1_4n6jbof5/tl/main/st/0/t/Sxc64uNuKgYeIDiKnwN9_g/index-s32.m3u8*~hmac=48ad9c5012924ea344cdc1f55781d2513993e55c96d01d37f3a07adfa1d74872
-
-#EXTINF:-1,SBT 🇧🇷
-https://dubr2rz6c5qdz.cloudfront.net/live-stream/61c21f28fa354108218ed3a3/publish/media_1800.m3u8
-
-#EXTINF:-1,BEIN SPORTS PREMIUM 01 HD 🇶🇦
-http://revteam2.offshorerev.cc/SPIDER_F2lOt6/pg0lOTBRwa/86613
-
-#EXTINF:-1, BT Sport 2 🇬🇧
-https://zz@iptv.lancartech.co.id:8443/topan/54637/86857
-
-#EXTINF:-1,Tring sport 1 🇦🇱
-http://95.107.132.106/out/u/864_4.m3u8 
-
-#EXTINF:-1, Sony Ten 2 🇲🇾
-https://zz@iptv.lancartech.co.id:8443/topan/54637/129402
-
-#EXTINF:-1, Sony Ten 2 🇲🇾
-http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34491?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
-
 #EXTINF:-1,Eleven Sports 1 🇵🇹
 http://161.230.155.157:8000/play/a02u
 
@@ -479,6 +410,9 @@ http://93.152.174.144:4000/play/btsport2/index.m3u8
 
 #EXTINF:-1, BT SPORT 2 🇬🇧
 http://line.uhd-ott.com/AzamBala/A86744/103146
+
+#EXTINF:-1, BT Sport 2 🇬🇧
+https://f62522e7b594.us-west-2.playback.live-video.net/api/video/v1/us-west-2.392623997366.channel.xvKDvDt4WpvM.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIyIDY6MDg6MzAgUE0maGFzaF92YWx1ZT13Qi8ra29jWGMyWDMyZGYyU2U4b1h3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xNjIuMTU4LjE3OC4xNzcmc3RybV9sZW49NQ==
 
 #EXTINF:-1, BT SPORT 3 🇬🇧
 http://93.152.174.144:4000/play/btsport3/index.m3u8
