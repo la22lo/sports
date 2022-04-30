@@ -1215,6 +1215,22 @@ http://62.73.127.98:9797/play/a00c/index.m3u8
 http://62.73.127.98:9797/play/a002/index.m3u8
 #EXTINF:-1,bTV-2
 http://62.73.127.98:9797/play/a004/index.m3u8
+#EXTINF:-1,Diema Sport HD
+http://46.40.90.163:13001/play/a04i
+#EXTINF:-1,Diema Sport 2 HD
+http://46.40.90.163:13001/play/a04j
+#EXTINF:-1,Diema Sport 3 HD
+http://46.40.90.163:13001/play/a03q
+#EXTINF:-1,MAX Sport 1 HD
+http://46.40.90.163:13001/play/a04k
+#EXTINF:-1,MAX Sport 2 HD
+http://46.40.90.163:13001/play/a04l
+#EXTINF:-1,MAX Sport 3 HD
+http://46.40.90.163:13001/play/a04m
+#EXTINF:-1,MAX Sport 4 HD
+http://46.40.90.163:13001/play/a04o
+#EXTINF:-1,Nova Sport
+http://46.40.90.163:13001/play/a05p
 #EXTINF:-1, Claro Sports
 http://51.222.241.122:8000/play/a03q
 #EXTINF:-1, DIRECTV Sports 2
