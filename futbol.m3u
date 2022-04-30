@@ -1086,5 +1086,112 @@ http://212.18.115.177:3549/play/a04u
 #EXTINF:-1,DAZN 2 BAR HD
 http://212.18.115.177:3549/play/a04v
 
+#EXTINF:-1,ORF Sport+
+http://212.18.115.177:3549/play/a05f
+
+#EXTINF:-1,SKY Sport 1
+http://212.18.115.177:3549/play/a04d
+
+#EXTINF:-1,SPORT1+ FHD
+http://212.18.115.177:3549/play/a04t
+
+#EXTINF:-1,SPORTDIGITAL FUSSBALL FHD
+http://212.18.115.177:3549/play/a05e
+
+#EXTINF:-1,SPORTDIGITAL FUSSBALL HD
+http://212.18.115.177:3549/play/a05d
+
+#EXTINF:-1,Sky Sport Austria 1 FHD
+http://212.18.115.177:3549/play/a058
+
+#EXTINF:-1,Sky Sport Austria 2 FHD
+http://212.18.115.177:3549/play/a059
+
+#EXTINF:-1,Sky Sport Austria 3 FHD
+http://212.18.115.177:3549/play/a05a
+
+#EXTINF:-1,Sky Sport Austria 4 FHD
+http://212.18.115.177:3549/play/a05b
+
+#EXTINF:-1,Sport 1
+http://212.18.115.177:3549/play/a04r
+
+#EXTINF:-1,ELEVENSPORT 1 🇧🇪
+http://212.18.115.177:4042/play/a00y/index.m3u8
+
+#EXTINF:-1,ELEVENSPORT 2 🇧🇪
+http://212.18.115.177:4042/play/a00z/index.m3u8
+
+#EXTINF:-1,ELEVENSPORT 3 🇧🇪
+http://212.18.115.177:4042/play/a010/index.m3u8
+
+#EXTINF:-1,Eleven Pro League 1 HD
+http://212.18.115.177:4042/play/a011/index.m3u8
+
+#EXTINF:-1,Eleven Pro League 2 HD
+http://212.18.115.177:4042/play/a015/index.m3u8
+
+#EXTINF:-1,PLAY SPORTS 1
+http://212.18.115.177:4042/play/a00s/index.m3u8
+
+#EXTINF:-1,PLAY SPORTS 2
+http://212.18.115.177:4042/play/a00t/index.m3u8
+
+#EXTINF:-1,PLAY SPORTS 3
+http://212.18.115.177:4042/play/a00u/index.m3u8
+
+#EXTINF:-1,PLAY SPORTS 4
+http://212.18.115.177:4042/play/a00v/index.m3u8
+
+#EXTINF:-1,Play Sports 5
+http://212.18.115.177:4042/play/a00w/index.m3u8
+
+#EXTINF:-1,VOOSport 1 HD
+http://212.18.115.177:4042/play/a013/index.m3u8
+
+#EXTINF:-1,VOOSport 2 HD
+http://212.18.115.177:4042/play/a014/index.m3u8
+
+#EXTINF:-1,K Sport 1
+http://212.18.115.177:8030/play/a03j
+#EXTINF:-1,K Sport 2
+http://212.18.115.177:8030/play/a03k
+#EXTINF:-1,K Sport 3
+http://212.18.115.177:8030/play/a03l
+#EXTINF:-1,K Sport 4
+http://212.18.115.177:8030/play/a03m
+#EXTINF:-1,Super Sport 1 FHD
+http://212.18.115.177:8030/play/a03w
+#EXTINF:-1,Super Sport 2 FHD
+http://212.18.115.177:8030/play/a03x
+#EXTINF:-1,Super Sport 3 FHD
+http://212.18.115.177:8030/play/a03y
+#EXTINF:-1,Super Sport 4 FHD
+http://212.18.115.177:8030/play/a03z
+#EXTINF:-1,Super Sport 5 FHD
+http://212.18.115.177:8030/play/a040
+#EXTINF:-1,Super Sport 6 FHD
+http://212.18.115.177:8030/play/a041
+#EXTINF:-1,Super Sport Kosova 1
+http://212.18.115.177:8030/play/a03n
+#EXTINF:-1,Super Sport Kosova 1 FHD
+http://212.18.115.177:8030/play/a03t
+#EXTINF:-1,Super Sport Kosova 2
+http://212.18.115.177:8030/play/a03o
+#EXTINF:-1,Super Sport Kosova 2 FHD
+http://212.18.115.177:8030/play/a03u
+#EXTINF:-1,Super Sport Kosova 3 FHD
+http://212.18.115.177:8030/play/a03v
+#EXTINF:-1,Super Sport News
+http://212.18.115.177:8030/play/a020
+#EXTINF:-1,Tring Sport 1 FHD
+http://212.18.115.177:8030/play/a03p
+#EXTINF:-1,Tring Sport 2 FHD
+http://212.18.115.177:8030/play/a03q
+#EXTINF:-1,Tring Sport 3 FHD
+http://212.18.115.177:8030/play/a03r
+#EXTINF:-1,Tring Sport 4 FHD
+http://212.18.115.177:8030/play/a03s
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
