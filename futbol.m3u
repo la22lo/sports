@@ -3,6 +3,9 @@
 #EXTINF:-1, PRIMA SPORT 1 🇷🇴
 http://149.62.177.105:8001/play/a00e/index.m3u8
 
+#EXTINF:-1,ESPN
+https://klive.kaltura.com/s/env/cluster-1-a.live.nvp1/live/hls/p/4611563/e/1_hz795xeq/tl/main/st/0/t/X76ST_J1ww_wXNavzw6IxQ/index-s32.m3u8?__hdnea__=st=1651321779~exp=1651408179~acl=/s/env/cluster-1-a.live.nvp1/live/hls/p/4611563/e/1_hz795xeq/tl/main/st/0/t/X76ST_J1ww_wXNavzw6IxQ/index-s32.m3u8*~hmac=7ec492b1fe35b3c0880c9de453c9f9b81a63059dce8fcc24c66549c65112b125
+
 #EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 
