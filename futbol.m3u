@@ -303,12 +303,6 @@ http://revteam2.offshorerev.cc/SPIDER_F2lOt6/pg0lOTBRwa/100694
 #EXTINF:-1, beIN Sports 2 French 🇫🇷
 http://revteam2.offshorerev.cc/_JxV8Dq/0wiwPzWeCU/100695
 
-#EXTINF:-1 ,RMC 1 🇫🇷
-http://185.184.192.166/RMC1/mpegts
-
-#EXTINF:-1 ,RMC 2 🇫🇷
-http://185.184.192.166/RMC2/mpegts
-
 #EXTINF:-1,C-02-L'EQUIPE 🇫🇷
 http://185.234.217.27:8002/play/a02w/index.m3u8
 
@@ -376,70 +370,10 @@ https://f62522e7b594.us-west-2.playback.live-video.net/api/video/v1/us-west-2.39
 http://93.152.174.144:4000/play/btsport3/index.m3u8
 
 #EXTINF:-1, BT SPORT ESPNHD 🇬🇧
-http://45.153.35.224:8000/play/a008
-
-#EXTINF:-1, BT SPORT ESPNHD 🇬🇧
 http://93.152.174.144:4000/play/btsportespn/index.m3u8
-
-#EXTINF:-1, BT SPORT 1 HD 🇬🇧
-http://beams-tv.stream:80/jonhunt28.2.602.22@gmail.com/3196071162/246
-
-#EXTINF:-1, BT SPORT 2 HD 🇬🇧
-http://beams-tv.stream:80/jonhunt28.2.602.22@gmail.com/3196071162/243
-
-#EXTINF:-1, BT SPORT 3 HD 🇬🇧
-http://beams-tv.stream:80/jonhunt28.2.602.22@gmail.com/3196071162/240
- 
-#EXTINF:-1, BT SPORT ESPN HD 🇬🇧
-http://beams-tv.stream:80/jonhunt28.2.602.22@gmail.com/3196071162/236
 
 #EXTINF:-1, SUPER GRANDSTAND 🇬🇧
 http://mykingtv.net:2082/Yapang98/Dragon98/12747
-
-#EXTINF:-1, SUPER MAXIMO 🇬🇧
-https://hostcloud.network/live/aD8C1ETPQU28/842373/102807.ts
-
-#EXTINF:-1, SUPERSPORT PSL 🇬🇧
-https://hostcloud.network/live/aD8C1ETPQU28/842373/102244.ts
-
-#EXTINF:-1, S VARIETY 1 🇬🇧
-https://hostcloud.network/live/aD8C1ETPQU28/842373/102240.ts
-
-#EXTINF:-1, S VARIETY 2 🇬🇧
-https://hostcloud.network/live/aD8C1ETPQU28/842373/102241.ts
-
-#EXTINF:-1, S VARIETY 3 🇬🇧
-https://hostcloud.network/live/aD8C1ETPQU28/842373/102236.ts
-
-#EXTINF:-1, S VARIETY 4 🇬🇧
-https://hostcloud.network/live/aD8C1ETPQU28/842373/102237.ts
-
-#EXTINF:-1, PREMIER SPORT 1 🇬🇧
-https://hostcloud.network/live/aD8C1ETPQU28/842373/266.ts
-
-#EXTINF:-1, PREMIER SPORT 2 🇬🇧
-https://hostcloud.network/live/aD8C1ETPQU28/842373/71129.ts
-
-#EXTINF:-1, SuperSport Football 🇬🇧
-http://beams-tv.stream:80/jonhunt28.2.602.22@gmail.com/3196071162/14189
-
-#EXTINF:-1, SuperSport MaXimo 🇬🇧
-http://beams-tv.stream:80/jonhunt28.2.602.22@gmail.com/3196071162/14986
-
-#EXTINF:-1, SuperSport Grandstand 🇬🇧
-http://beams-tv.stream:80/jonhunt28.2.602.22@gmail.com/3196071162/14193
-
-#EXTINF:-1, SuperSport LaLiga 🇬🇧
-http://beams-tv.stream:80/jonhunt28.2.602.22@gmail.com/3196071162/14196
-
-#EXTINF:-1, SuperSport Variety 1 🇬🇧
-http://beams-tv.stream:80/jonhunt28.2.602.22@gmail.com/3196071162/14191
-
-#EXTINF:-1, SuperSport Variety 2 🇬🇧
-http://beams-tv.stream:80/jonhunt28.2.602.22@gmail.com/3196071162/14192
-
-#EXTINF:-1, SuperSport Variety 3 🇬🇧
-http://beams-tv.stream:80/jonhunt28.2.602.22@gmail.com/3196071162/14187
 
 #EXTINF:-1, ESPN USA 🇺🇸
 http://69.164.224.53:80/ESPN/mpegts
@@ -450,18 +384,6 @@ http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8
 #EXTINF:-1, ESPN 2 USA 🇺🇸
 http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8
  
-#EXTINF:-1, SUPER SPORT 1HD 🇦🇱
-http://45.58.122.106:8081/live/ss1/playlist.m3u8
-
-#EXTINF:-1, SUPER SPORT 2HD 🇦🇱 
-http://45.58.122.106:8081/live/ss2/playlist.m3u8
-
-#EXTINF:-1, SUPER SPORT 3HD 🇦🇱
-http://45.58.122.106:8081/live/ss3/playlist.m3u8
-
-#EXTINF:-1, SUPER SPORT 4HD 🇦🇱
-http://45.58.122.106:8081/live/ss4/playlist.m3u8
-
 #EXTINF:-1, SUPERSPORT 1 🇦🇱
 http://62.182.80.87:8081/Test22/Test22/1018
 
@@ -474,18 +396,6 @@ http://62.182.80.87:8081/Test22/Test22/1020
 #EXTINF:-1, SUPERSPORT 4 🇦🇱
 http://62.182.80.87:8081/Test22/Test22/1021
 
-#EXTINF:-1, SUPERSPORT 1 🇦🇱
-http://77.247.109.109:8008/a/willene/live/1974733435.ts
-
-#EXTINF:-1, SUPERSPORT 2 🇦🇱
-http://77.247.109.109:8008/a/willene/live/840200363.ts
-
-#EXTINF:-1, SUPERSPORT 3 🇦🇱
-http://77.247.109.109:8008/a/willene/live/1221862347.ts
-
-#EXTINF:-1, SUPERSPORT 4 🇦🇱
-http://77.247.109.109:8008/a/willene/live/3923795525.ts 
-
 #EXTINF:-1,Tring sport 1 🇦🇱
 http://95.107.132.106/out/u/864_4.m3u8 
 
@@ -494,36 +404,6 @@ http://95.107.132.106/out/u/865_4.m3u8
 
 #EXTINF:-1,Tring sport 3 🇦🇱
 http://95.107.132.106/out/u/867_4.m3u8
-
-#EXTINF:-1, KUJTESA 1 🇦🇱
-http://77.247.109.109:8008/a/willene/live/2711778750.ts
-
-#EXTINF:-1, KUJTESA 2 🇦🇱
-http://77.247.109.109:8008/a/willene/live/3858894702.ts
-
-#EXTINF:-1, KUJTESA 3 🇦🇱
-http://77.247.109.109:8008/a/willene/live/3680642782.ts
-
-#EXTINF:-1, OVERSPORT 1 🇦🇱
-http://77.247.109.109:8008/a/willene/live/4113485470.ts
-
-#EXTINF:-1, OVERSPORT 2 🇦🇱
-http://77.247.109.109:8008/a/willene/live/2074200445.ts
-
-#EXTINF:-1, OVERSPORT 3 🇦🇱
-http://77.247.109.109:8008/a/willene/live/3071003107.ts
-
-#EXTINF:-1, OVERSPORT 4 🇦🇱
-http://77.247.109.109:8008/a/willene/live/3184443642.ts
-
-#EXTINF:-1, ELEVEN SPORT 1 POLONIA 🇵🇱
-http://185.205.201.44:8019/play/a04c/index.m3u8
-
-#EXTINF:-1, ELEVEN SPORT 2 POLONIA 🇵🇱
-http://185.205.201.44:8019/play/a04d/index.m3u8
-
-#EXTINF:-1, ELEVEN SPORT 3 POLONIA 🇵🇱
-http://185.205.201.44:8019/play/a04e/index.m3u8
 
 #EXTINF:-1, ELEVEN SPORT 1 POLONIA 🇵🇱
 http://62.182.80.87:8081/Test22/Test22/7389
