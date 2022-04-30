@@ -618,9 +618,6 @@ http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
 #EXTINF:-1,SPORTSKA TV 🇭🇷
 http://62.182.80.87:8081/Test22/Test22/1139
 
-#EXTINF:-1,SPORTSKA TV 🇭🇷
-http://eonlinebio.com:8000/get.php?username=Goranmarkovicfb929229&password=bM3eEDYSgB&type=m3u
-
 #EXTINF:-1,SPORT TV 1 🇸🇰
 http://62.182.80.87:8081/Test22/Test22/1140
 
@@ -657,9 +654,6 @@ http://panel.ooguy.com:9002/Sport2.m3u8
 #EXTINF:-1, JOJ Sport 🇨🇿 
 https://nn.geo.joj.sk/live/hls/rik-540.m3u8
 
-#EXTINF:-1, NOVA Sport 1 🇨🇿 
-http://77.247.225.101:9186/stream/channelid/781580623&profile=test
-
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
 
@@ -668,9 +662,6 @@ https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 
 #EXTINF:-1, EUROSPORT 1 🇬🇧
 http://185.204.32.4:9981/stream/channelid/577840136
-
-#EXTINF:-1, EUROSPORT 2 🇬🇧
-http://212.102.60.80/Eurosport2/index.m3u8
 
 #EXTINF:-1, RUSH HD 🇬🇧
 http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
