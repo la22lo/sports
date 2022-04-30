@@ -682,16 +682,10 @@ http://134.0.113.120:8000/play/setantasports1hd/index.m3u8
 http://134.0.113.120:8000/play/setantasports2hd/index.m3u8
 
 #EXTINF:-1, MATH 🇷🇺
-https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
-
-#EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
 #EXTINF:-1, MATH 🇷🇺
 http://62.182.80.87:8081/Test22/Test22/8205
-
-#EXTINF:-1, Футбол 1 🇷🇺
-http://myott.tv/stream/MEITIIUJNS/130.m3u8
 
 #EXTINF:-1, Футбол 1 🇷🇺
 http://62.182.80.87:8081/Test22/Test22/8206
@@ -708,12 +702,6 @@ http:/146.158.30.190:8000/futbol1
 #EXTINF:-1, ФУТБOЛ 2HD 🇷🇺
 http:/146.158.30.190:8000/futbol2
 
-#EXTINF:-1,FOOTBALL 1 SD 🇷🇺
-http://188.239.125.3:6351/play/a01i
-
-#EXTINF:-1,FOOTBALL 2 SD 🇷🇺
-http://188.239.125.3:6351/play/a012
-
 #EXTINF:-1,MEGOGO 1 HD 🇺🇦
 http://lb.wisp.cat/lb0/DMEGO1_HD/video.m3u8?token=FREETVUKRAINE
 
@@ -729,35 +717,11 @@ http://195.189.60.252:3109/play/a039
 #EXTINF:-1,setanta_sports_plus 🇺🇦
 http://195.189.60.252:3109/play/a03a
 
-#EXTINF:-1, Setanta Sports Ukraine 🇺🇦
-http://188.239.125.3:6351/play/a00k
-
-#EXTINF:-1, Setanta Sports + 🇺🇦
-http://188.239.125.3:6351/play/kjhgf
-
-#EXTINF:-1, порт 1 🇺🇦
-http://212.115.255.196/Jfd85Hf/sport1.m3u8
-
-#EXTINF:-1, порт 2 🇺🇦
-http://212.115.255.196/Jfd85Hf/sport2.m3u8
-
 #EXTINF:-1, VIASAT SPORT 🇸🇪
 https://sc.id-tv.kz:443/ViasatSport_34_35.m3u8
 
 #EXTINF:-1, VIASAT SPORT 🇸🇪
 http://bl.uma.media/live/485548/HLS/4614144_2,2883584/2/1/playlist.m3u8
-
-#EXTINF:-1, Спорт 1 🇷🇺
-http://212.115.255.196/Jfd85Hf/sport1.m3u8
-
-#EXTINF:-1,sport 1 🇷🇺
-http://188.239.125.3:6351/play/a2g7nj
-
-#EXTINF:-1,sport 2 🇷🇺
-http://188.239.125.3:6351/play/cn2wwa
-
-#EXTINF:-1, MATH CTPAHA 🇷🇺
-https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 
 #EXTINF:-1, SPORT 1+1 🇷🇺
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
@@ -783,9 +747,6 @@ http://193.228.193.179:8000/play/a01k
 #EXTINF:-1,YES Sport5 + FHD 🇮🇱
 http://193.228.193.179:8000/play/a04t
 
-#EXTINF:-1,Sport 2 HD 🇭🇺
-http://84.2.112.86:8001/play/a04h
-
 #EXTINF:-1, Digi Sport 1 HD 🇭🇺
 http://new-pro.tv:8080/Fernando/123321/62880
 
@@ -806,15 +767,6 @@ http://62.182.80.87:8081/Test22/Test22/875
 
 #EXTINF:-1 , ORF SPORT + 🇦🇹
 http://62.182.80.87:8081/Test22/Test22/2926
-
-#EXTINF:-1,S**y Sport 1 HD 🇩🇪
-http://185.234.217.26:8007/play/a02l/index.m3u8
-
-#EXTINF:-1,S**y Sport F1 HD 🇩🇪
-http://185.234.217.26:8007/play/a027/index.m3u8
-
-#EXTINF:-1,S**y Sport 2 HD 🇩🇪
-http://185.234.217.26:8007/play/a02u/index.m3u8
 
 #EXTINF:-1 , SAN MARINO SPORT 🇸🇲
 http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
@@ -864,17 +816,8 @@ http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1, CANAL CHINO 6 CCTV5+Sport 🇨🇳
 http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 
-#EXTINF:-1, TVRI SPORTS INDONESIA
+#EXTINF:-1, TVRI SPORTS INDONESIA 🇮🇩
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-
-#EXTINF:-1, STAR SPORTS 🇮🇳
-http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/868
-
-#EXTINF:-1,SPOTV 1 🇲🇾
-https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=koceng&channel=spotv
-
-#EXTINF:-1,SPOTV 2 🇲🇾
-https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=koceng&channel=spotv2
 
 #EXTINF:-1,SPOTV 🇲🇾
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
@@ -888,29 +831,8 @@ http://210.210.155.35/session/f5cd353c-0131-11ec-b286-abca8519aa62/qwr9ew/s/s105
 #EXTINF:-1, SMARTSPOR HD  🇹🇷
 http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/48242.ts
 
-#EXTINF:-1,A SPOR HD 🇹🇷
-http://46.29.169.27:8000/play/a01o
-
-#EXTINF:-1,S SPORT 🇹🇷
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6825/index.m3u8
-
 #EXTINF:-1,S SPORT 2 🇹🇷
 http://nx4545.xyz:80/live/ademgumus/ademgumus/35.ts
-
-#EXTINF:-1,TİVİBU SPOR HD 🇹🇷
-http://46.29.169.27:8000/play/a04f
-
-#EXTINF:-1,beIN SPORTS HABER 🇹🇷
-http://46.29.169.27:8000/play/a045
-
-#EXTINF:-1,beIN SPORTS HABER HD 🇹🇷
-http://46.29.169.27:8000/play/a044
-
-#EXTINF:-1, TURKMENISTAN SPORTS 🇹🇷
-http://217.174.225.146/hls/ch004_720/index.m3u8
-
-#EXTINF:-1, TVRI SPORT 🇹🇷
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:-1,TRT 1 🇹🇷
 https://mn-nl.mncdn.com/blutv_trt1_dvr/live.m3u8
@@ -957,21 +879,6 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
 #EXTINF:-1,GOL TV 🇧🇷
 http://45.71.185.142:8500/play/a03b
 
-#EXTINF:-1,TIGO SPORTS HD 🇵🇾
-http://170.83.242.153:5150/play/a036 
-
-#EXTINF:-1,TIGO SPORTS+ HD 🇵🇾
-http://170.83.242.153:5150/play/a0a1 
-
-#EXTINF:-1,TIGO SPORTS+ HD CARD00 🇵🇾
-http://170.83.242.153:5150/play/a02q 
-
-#EXTINF:-1,TIGO SPORTS+ HD CARD01 🇵🇾
-http://170.83.242.153:5150/play/a0e7 
-
-#EXTINF:-1,Rai Sport + HD 🇮🇹
-http://185.234.217.24:8018/play/a06i
-
 #EXTINF:-1, SKY SPORTS 24 🇮🇹
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 
@@ -1008,14 +915,11 @@ http://45.94.31.203:7002/play/a0gu
 #EXTINF:-1, DUBAI SPORTS 🇸🇦
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 
+#EXTINF:-1,DUBAI SPORTS 3 FHD 🇸🇦
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby
+
 #EXTINF:-1, SHARJJAH SPORT 🇸🇦
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-
-#EXTINF:-1, ON Sport 1 🇪🇬
-http://89.105.221.115:8080/livesport/shahid_sport/21
-
-#EXTINF:-1, ON Sport 2 🇪🇬
-http://89.105.221.115:8080/livesport/shahid_sport/22
 
 #EXTINF:-1, 4 SPORT 🇪🇬
 http://80.24.75.92:5555/udp/239.111.2.8:1234
@@ -1025,9 +929,6 @@ https://streamx.realitatea.net/realitatea/sportiva_hd/playlist.m3u8
 
 #EXTINF:-1, OMAN SPORT 🇴🇲
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
-
-#EXTINF:-1,DUBAI SPORTS 3 FHD 🇸🇦
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby
 
 #EXTINF:-1,CID 1 🇸🇦
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8 
