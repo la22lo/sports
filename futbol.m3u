@@ -1215,6 +1215,12 @@ http://62.73.127.98:9797/play/a00c/index.m3u8
 http://62.73.127.98:9797/play/a002/index.m3u8
 #EXTINF:-1,bTV-2
 http://62.73.127.98:9797/play/a004/index.m3u8
+#EXTINF:-1, Claro Sports
+http://51.222.241.122:8000/play/a03q
+#EXTINF:-1, DIRECTV Sports 2
+http://51.222.241.122:8000/play/a03s
+#EXTINF:-1, DirecTV Sports
+http://51.222.241.122:8000/play/a03r
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
