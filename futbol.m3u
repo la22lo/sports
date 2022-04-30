@@ -96,6 +96,12 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
 #EXTINF:-1 , Duhok Sports HD 🇪🇬
 http://duhoktvstream.top:1935/live/Duhok--Sports--HD/chunklist_w2080602545.m3u8
 
+#EXTINF:-1, DIRECTV Sports 2 🇦🇷
+http://51.222.241.122:8000/play/a03s
+
+#EXTINF:-1, DirecTV Sports 🇦🇷
+http://51.222.241.122:8000/play/a03r
+
 #EXTINF:-1, Directv 🇦🇷
 http://ytv.plus:25461/live/Maria/1234/17319.m3u8
 
@@ -1239,10 +1245,6 @@ http://46.40.90.163:13001/play/a04o
 http://46.40.90.163:13001/play/a05p
 #EXTINF:-1, Claro Sports
 http://51.222.241.122:8000/play/a03q
-#EXTINF:-1, DIRECTV Sports 2
-http://51.222.241.122:8000/play/a03s
-#EXTINF:-1, DirecTV Sports
-http://51.222.241.122:8000/play/a03r
 #EXTINF:-1,Arena Sport 1 SR
 http://46.40.90.163:13001/play/a076
 #EXTINF:-1,Arena Sport 2 SR
