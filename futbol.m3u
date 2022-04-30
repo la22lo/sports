@@ -1195,6 +1195,26 @@ http://212.18.115.177:8030/play/a03q
 http://212.18.115.177:8030/play/a03r
 #EXTINF:-1,Tring Sport 4 FHD
 http://212.18.115.177:8030/play/a03s
+#EXTINF:-1,D Sport -1
+http://62.73.127.98:9797/play/a007/index.m3u8
+#EXTINF:-1,D Sport -2
+http://62.73.127.98:9797/play/a008/index.m3u8
+#EXTINF:-1,D Sport 2 -2
+http://62.73.127.98:9797/play/a00a/index.m3u8
+#EXTINF:-1,D Sport 2 -1
+http://62.73.127.98:9797/play/a009/index.m3u8
+#EXTINF:-1,Diema Sport 3 -1
+http://62.73.127.98:9797/play/a00d/index.m3u8
+#EXTINF:-1,Diema Sport 3 -2
+http://62.73.127.98:9797/play/a00e/index.m3u8
+#EXTINF:-1,Nova Sp -1
+http://62.73.127.98:9797/play/a00b/index.m3u8
+#EXTINF:-1,Nova Sp -2
+http://62.73.127.98:9797/play/a00c/index.m3u8
+#EXTINF:-1,bTV-1
+http://62.73.127.98:9797/play/a002/index.m3u8
+#EXTINF:-1,bTV-2
+http://62.73.127.98:9797/play/a004/index.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
