@@ -765,6 +765,9 @@ http://37.17.14.149:8910/play/a009
 #EXTINF:-1, CBC Sport 🇦🇿
 http://193.228.193.179:8000/play/a01k
 
+#EXTINF:-1,Ziggo Sport Select HD 🇳🇱
+http://82.197.214.59:4000/play/a01v/index.m3u8
+
 #EXTINF:-1,YES Sport5 + FHD 🇮🇱
 http://193.228.193.179:8000/play/a04t
 
@@ -1359,16 +1362,6 @@ http://45.92.69.203:1983/play/a0oz
 http://45.92.69.203:1983/play/a0ox
 #EXTINF:-1,Polsat Sport HD
 http://45.92.69.203:1983/play/a0rb
-#EXTINF:-1,ERT1
-http://84.54.149.199:46000/play/a00v
-#EXTINF:-1,ESPN
-http://84.54.149.199:46000/play/a00z
-#EXTINF:-1,ESPN 2
-http://84.54.149.199:46000/play/a031
-#EXTINF:-1,Elevan Sport 1 HD
-http://84.54.149.199:46000/play/a014
-#EXTINF:-1,Ziggo Sport Select HD
-http://82.197.214.59:4000/play/a01v/index.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
