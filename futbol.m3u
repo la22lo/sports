@@ -21,9 +21,6 @@ http://84.42.140.147:8890/hdmi
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
-#EXTINF:-1, SPORT PLUS LS
-http://217.174.225.146/hls/ch004_720/index.m3u8?token=
-
 #EXTINF:-1,SUPERSPORT LIGA 🇬🇧
 http://194.67.196.19/hls/103.m3u8?mvk
 
