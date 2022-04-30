@@ -852,6 +852,36 @@ http://193.228.193.179:8000/play/a01k
 #EXTINF:-1,Ziggo Sport Select HD 🇳🇱
 http://82.197.214.59:4000/play/a01v/index.m3u8
 
+#EXTINF:-1,ELEVENSPORT 1 🇧🇪
+http://212.18.115.177:4042/play/a00y/index.m3u8
+
+#EXTINF:-1,ELEVENSPORT 2 🇧🇪
+http://212.18.115.177:4042/play/a00z/index.m3u8
+
+#EXTINF:-1,ELEVENSPORT 3 🇧🇪
+http://212.18.115.177:4042/play/a010/index.m3u8
+
+#EXTINF:-1,Eleven Pro League 1 HD 🇧🇪
+http://212.18.115.177:4042/play/a011/index.m3u8
+
+#EXTINF:-1,Eleven Pro League 2 HD 🇧🇪
+http://212.18.115.177:4042/play/a015/index.m3u8
+
+#EXTINF:-1,PLAY SPORTS 1 🇧🇪
+http://212.18.115.177:4042/play/a00s/index.m3u8
+
+#EXTINF:-1,PLAY SPORTS 2 🇧🇪
+http://212.18.115.177:4042/play/a00t/index.m3u8
+
+#EXTINF:-1,PLAY SPORTS 3 🇧🇪
+http://212.18.115.177:4042/play/a00u/index.m3u8
+
+#EXTINF:-1,PLAY SPORTS 4 🇧🇪
+http://212.18.115.177:4042/play/a00v/index.m3u8
+
+#EXTINF:-1,Play Sports 5 🇧🇪
+http://212.18.115.177:4042/play/a00w/index.m3u8
+
 #EXTINF:-1,YES Sport5 + FHD 🇮🇱
 http://193.228.193.179:8000/play/a04t
 
@@ -1217,43 +1247,6 @@ http://212.18.115.177:3549/play/a058
 
 #EXTINF:-1,Sport 1
 http://212.18.115.177:3549/play/a04r
-
-#EXTINF:-1,ELEVENSPORT 1 🇧🇪
-http://212.18.115.177:4042/play/a00y/index.m3u8
-
-#EXTINF:-1,ELEVENSPORT 2 🇧🇪
-http://212.18.115.177:4042/play/a00z/index.m3u8
-
-#EXTINF:-1,ELEVENSPORT 3 🇧🇪
-http://212.18.115.177:4042/play/a010/index.m3u8
-
-#EXTINF:-1,Eleven Pro League 1 HD
-http://212.18.115.177:4042/play/a011/index.m3u8
-
-#EXTINF:-1,Eleven Pro League 2 HD
-http://212.18.115.177:4042/play/a015/index.m3u8
-
-#EXTINF:-1,PLAY SPORTS 1
-http://212.18.115.177:4042/play/a00s/index.m3u8
-
-#EXTINF:-1,PLAY SPORTS 2
-http://212.18.115.177:4042/play/a00t/index.m3u8
-
-#EXTINF:-1,PLAY SPORTS 3
-http://212.18.115.177:4042/play/a00u/index.m3u8
-
-#EXTINF:-1,PLAY SPORTS 4
-http://212.18.115.177:4042/play/a00v/index.m3u8
-
-#EXTINF:-1,Play Sports 5
-http://212.18.115.177:4042/play/a00w/index.m3u8
-
-#EXTINF:-1,VOOSport 1 HD
-http://212.18.115.177:4042/play/a013/index.m3u8
-
-#EXTINF:-1,VOOSport 2 HD
-http://212.18.115.177:4042/play/a014/index.m3u8
-
 #EXTINF:-1,K Sport 1
 http://212.18.115.177:8030/play/a03j
 #EXTINF:-1,K Sport 2
