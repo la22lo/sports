@@ -24,6 +24,9 @@ http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 #EXTINF:-1, MTV+ HD 🇮🇳
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, ESPN 2
+https://klive.kaltura.com/s/env/cluster-1-a.live.nvp1/live/hls/p/4616963/e/1_z9oykyz8/tl/main/st/0/t/PP4HudvxdGep7tkLYPc1Gw/index-s32.m3u8?__hdnea__=st=1651315950~exp=1651402350~acl=/s/env/cluster-1-a.live.nvp1/live/hls/p/4616963/e/1_z9oykyz8/tl/main/st/0/t/PP4HudvxdGep7tkLYPc1Gw/index-s32.m3u8*~hmac=67bf9366515de16b9328e5f41310bb52ac96f4c5e5cc533b0cb2739791c006f1
+
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
 
