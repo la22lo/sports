@@ -882,6 +882,12 @@ http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
 #EXTINF:-1, NOVA SPORT 🇧🇬
 http://62.182.80.87:8081/Test22/Test22/7849
 
+#EXTINF:-1,Nova Sport 🇧🇬
+http://88.213.209.230:6060/play/Nova_Sport
+
+#EXTINF:-1,Nova Sport 🇧🇬
+http://46.40.90.163:13001/play/a05p
+
 #EXTINF:-1, MAX SPORT 3 🇧🇬
 http://62.182.80.87:8081/Test22/Test22/7868
 
@@ -944,9 +950,6 @@ http://46.40.90.163:13001/play/a04j
 
 #EXTINF:-1,Diema Sport 3 HD 🇧🇬
 http://46.40.90.163:13001/play/a03q
-
-#EXTINF:-1,Nova Sport 🇧🇬
-http://46.40.90.163:13001/play/a05p
 
 #EXTINF:-1, Sport 1 🇨🇿 
 http://panel.ooguy.com:9002/Sport1.m3u8
@@ -1479,8 +1482,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,Nova Sport
-http://88.213.209.230:6060/play/Nova_Sport
 
 #EXTINF:-1,MAX Sport 1 HD
 http://88.213.209.230:6060/play/MAX_Sport_1_HD
