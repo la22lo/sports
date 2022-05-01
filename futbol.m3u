@@ -579,6 +579,18 @@ http://149.62.177.105:8001/play/a00m/index.m3u8
 #EXTINF:-1, PRIMA SPORT 4 🇷🇴
 http://149.62.177.105:8001/play/a00f/index.m3u8
 
+#EXTINF:-1,Prima Sport 1 🇷🇴
+http://91.242.118.7:90/play/a0a5
+
+#EXTINF:-1,Prima Sport 2 🇷🇴
+http://91.242.118.7:90/play/a0d5
+
+#EXTINF:-1,Prima Sport 3 🇷🇴
+http://91.242.118.7:90/play/Prima_Sport_3
+
+#EXTINF:-1,Prima Sport 4 🇷🇴
+http://91.242.118.7:90/play/Prima_Sport_4
+
 #EXTINF:-1, DIGI SPORT 1 🇷🇴
 http://62.182.80.87:8081/Test22/Test22/7014
 
@@ -602,6 +614,30 @@ http://62.182.80.87:8081/Test22/Test22/7070
 
 #EXTINF:-1, ORANGE SPORT 4 🇷🇴
 http://62.182.80.87:8081/Test22/Test22/7071
+
+#EXTINF:-1,Orange Sport 1 🇷🇴
+http://91.242.118.7:90/play/TelekomSport1
+
+#EXTINF:-1,Orange Sport 1 HD 🇷🇴
+http://91.242.118.7:90/play/TelekomSport1HD
+
+#EXTINF:-1,Orange Sport 2 🇷🇴
+http://91.242.118.7:90/play/TelekomSport2
+
+#EXTINF:-1,Orange Sport 2 HD 🇷🇴
+http://91.242.118.7:90/play/TelekomSport2HD
+
+#EXTINF:-1,Orange Sport 3 🇷🇴
+http://91.242.118.7:90/play/TelekomSport3
+
+#EXTINF:-1,Orange Sport 3 HD 🇷🇴
+http://91.242.118.7:90/play/TelekomSport3HD
+
+#EXTINF:-1,Orange Sport 4 🇷🇴
+http://91.242.118.7:90/play/TelekomSport4
+
+#EXTINF:-1,Orange Sport 4 HD 🇷🇴
+http://91.242.118.7:90/play/TelekomSport4HD
 
 #EXTINF:-1, ARENA SPORT 1 PREMIUM 🇷🇸
 http://46.29.169.15:4001/play/a00g/index.m3u8
@@ -1353,30 +1389,7 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,Prima Sport 1
-http://91.242.118.7:90/play/a0a5
-#EXTINF:-1,Prima Sport 2
-http://91.242.118.7:90/play/a0d5
-#EXTINF:-1,Prima Sport 3
-http://91.242.118.7:90/play/Prima_Sport_3
-#EXTINF:-1,Prima Sport 4
-http://91.242.118.7:90/play/Prima_Sport_4
-#EXTINF:-1,Orange Sport 1
-http://91.242.118.7:90/play/TelekomSport1
-#EXTINF:-1,Orange Sport 1 HD
-http://91.242.118.7:90/play/TelekomSport1HD
-#EXTINF:-1,Orange Sport 2
-http://91.242.118.7:90/play/TelekomSport2
-#EXTINF:-1,Orange Sport 2 HD
-http://91.242.118.7:90/play/TelekomSport2HD
-#EXTINF:-1,Orange Sport 3
-http://91.242.118.7:90/play/TelekomSport3
-#EXTINF:-1,Orange Sport 3 HD
-http://91.242.118.7:90/play/TelekomSport3HD
-#EXTINF:-1,Orange Sport 4
-http://91.242.118.7:90/play/TelekomSport4
-#EXTINF:-1,Orange Sport 4 HD
-http://91.242.118.7:90/play/TelekomSport4HD
+
 #EXTINF:-1,03 МАТЧ!
 http://91.234.255.242:8000/play/a011/index.m3u8
 #EXTINF:-1,Матч Футбол 1
