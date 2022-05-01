@@ -240,6 +240,9 @@ http://62.28.71.186:45678/http/192.168.150.173:7073/spt3
 #EXTINF:-1, SPORTV + 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
 
+#EXTINF:-1,SPORT TV + 🇵🇹
+http://84.74.130.156:8585/play/a03w
+
 #EXTINF:-1,BEIN SPORTS PREMIUM 01 HD 🇶🇦
 http://revteam2.offshorerev.cc/SPIDER_F2lOt6/pg0lOTBRwa/86613
 
@@ -786,6 +789,9 @@ http://134.0.113.120:8000/play/setantasports2hd/index.m3u8
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
+#EXTINF:-1,[1] Матч ТВ 🇷🇺
+http://85.92.123.108:6060/play/matchtv/index.m3u8
+
 #EXTINF:-1, MATH 🇷🇺
 http://62.182.80.87:8081/Test22/Test22/8205
 
@@ -843,11 +849,26 @@ http://82.209.197.187:8080/udp/239.0.100.9:1234
 #EXTINF:-1, Беларусь 5 🇧🇾
 http://37.17.14.149:8910/play/a009
 
+#EXTINF:-1,[2] Qazsport
+http://85.92.123.108:6060/play/qazsport/index.m3u8
+
 #EXTINF:-1, CBC Sport 🇦🇿
 http://193.228.193.179:8000/play/a01k
 
 #EXTINF:-1,Ziggo Sport Select HD 🇳🇱
 http://82.197.214.59:4000/play/a01v/index.m3u8
+
+#EXTINF:-1,Ziggo Sport 🇳🇱
+http://87.212.248.23:8080/play/a0ek
+
+#EXTINF:-1,Ziggo Sport HD 🇳🇱
+http://87.212.248.23:8080/play/z067
+
+#EXTINF:-1,Ziggo Sport Select HD 🇳🇱
+http://87.212.248.23:8080/play/a0c3
+
+#EXTINF:-1,Ziggo Sport Voetbal HD 🇳🇱
+http://87.212.248.23:8080/play/a0c2
 
 #EXTINF:-1,ELEVENSPORT 1 🇧🇪
 http://212.18.115.177:4042/play/a00y/index.m3u8
@@ -878,6 +899,12 @@ http://212.18.115.177:4042/play/a00v/index.m3u8
 
 #EXTINF:-1,Play Sports 5 🇧🇪
 http://212.18.115.177:4042/play/a00w/index.m3u8
+
+#EXTINF:-1,TV 2 Sport dk
+http://87.104.30.134:6040/play/a00q/index.m3u8
+
+#EXTINF:-1,TV3 Sport dk
+http://87.104.30.134:6040/play/a02g/index.m3u8
 
 #EXTINF:-1,YES Sport5 + FHD 🇮🇱
 http://193.228.193.179:8000/play/a04t
@@ -1182,6 +1209,9 @@ https://acdn.zhengyaning.com/xoilac/channel-10.m3u8?auth_key=1645859460-0-0-b702
 #EXTINF:-1, Channel 11
 https://acdn.zhengyaning.com/xoilac/channel-11.m3u8?auth_key=1645859482-0-0-6bc23936151f20c56d90cec933fb17d3
 
+#EXTINF:-1,Ziggo Sport Tennis
+http://87.212.248.23:8080/play/a0bu
+
 #EXTINF:-1, TENNIS 🇭🇷
 http://46.29.169.15:4001/play/a00e/index.m3u8
 
@@ -1323,39 +1353,6 @@ http://46.29.169.15:4001/play/a00x/index.m3u8
 http://46.29.169.15:4001/play/a007/index.m3u8
 #EXTINF:-1,Arena 6 - HD - IP
 http://46.29.169.15:4001/play/a00y/index.m3u8
-
-#EXTINF:-1,Ziggo Sport
-http://87.212.248.23:8080/play/a0ek
-
-#EXTINF:-1,Ziggo Sport HD
-http://87.212.248.23:8080/play/z067
-
-#EXTINF:-1,Ziggo Sport Select HD
-http://87.212.248.23:8080/play/a0c3
-
-#EXTINF:-1,Ziggo Sport Tennis
-http://87.212.248.23:8080/play/a0bu
-
-#EXTINF:-1,Ziggo Sport Voetbal HD
-http://87.212.248.23:8080/play/a0c2
-
-#EXTINF:-1,TV 2 Sport
-http://87.104.30.134:6040/play/a00q/index.m3u8
-
-#EXTINF:-1,TV3 Sport
-http://87.104.30.134:6040/play/a02g/index.m3u8
-
-#EXTINF:-1,[1] Матч ТВ
-http://85.92.123.108:6060/play/matchtv/index.m3u8
-
-#EXTINF:-1,[2] Qazsport
-http://85.92.123.108:6060/play/qazsport/index.m3u8
-
-#EXTINF:-1,SPORT TV +
-http://84.74.130.156:8585/play/a03w
-
-#EXTINF:-1,SPORT TV 5
-http://84.74.130.156:8585/play/a03x
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
