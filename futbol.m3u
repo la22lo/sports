@@ -12,6 +12,9 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 #EXTINF:-1,BEIN SPORTS 01 HD 🇶🇦
 http://revteam2.offshorerev.cc/SPIDER_F2lOt6/pg0lOTBRwa/86607
 
+#EXTINF:-1,K Sport 1 🇦🇱
+http://212.18.115.177:8030/play/a03j
+
 #EXTINF:-1, SUPERSPORT 2 🇦🇱
 http://62.182.80.87:8081/Test22/Test22/1019
 
@@ -65,6 +68,12 @@ http://62.182.80.87:8081/Test22/Test22/907
 
 #EXTINF:-1, DAZN 2 🇩🇪
 http://62.182.80.87:8081/Test22/Test22/908
+
+#EXTINF:-1,DAZN 1 BAR HD 🇩🇪
+http://212.18.115.177:3549/play/a04u
+
+#EXTINF:-1,DAZN 2 BAR HD 🇩🇪
+http://212.18.115.177:3549/play/a04v
 
 #EXTINF:-1, M+ LaLiga HD 🇪🇸
 http://45.92.69.203:1980/play/a01l
@@ -416,6 +425,18 @@ http://62.182.80.87:8081/Test22/Test22/1020
 
 #EXTINF:-1, SUPERSPORT 4 🇦🇱
 http://62.182.80.87:8081/Test22/Test22/1021
+
+#EXTINF:-1,K Sport 1 🇦🇱
+http://212.18.115.177:8030/play/a03j
+
+#EXTINF:-1,K Sport 2 🇦🇱
+http://212.18.115.177:8030/play/a03k
+
+#EXTINF:-1,K Sport 3 🇦🇱
+http://212.18.115.177:8030/play/a03l
+
+#EXTINF:-1,K Sport 4 🇦🇱
+http://212.18.115.177:8030/play/a03m
 
 #EXTINF:-1,Tring sport 1 🇦🇱
 http://95.107.132.106/out/u/864_4.m3u8 
@@ -930,6 +951,24 @@ http://62.182.80.87:8081/Test22/Test22/875
 #EXTINF:-1 , ORF SPORT + 🇦🇹
 http://62.182.80.87:8081/Test22/Test22/2926
 
+#EXTINF:-1,ORF Sport+ 🇦🇹
+http://212.18.115.177:3549/play/a05f
+
+#EXTINF:-1,SPORT1+ FHD 🇩🇪
+http://212.18.115.177:3549/play/a04t
+
+#EXTINF:-1,SPORTDIGITAL FUSSBALL FHD 🇩🇪
+http://212.18.115.177:3549/play/a05e
+
+#EXTINF:-1,SPORTDIGITAL FUSSBALL HD 🇩🇪
+http://212.18.115.177:3549/play/a05d
+
+#EXTINF:-1,Sky Sport Austria 1 FHD 🇦🇹
+http://212.18.115.177:3549/play/a058
+
+#EXTINF:-1,Sport 1 🇩🇪
+http://212.18.115.177:3549/play/a04r
+
 #EXTINF:-1 , SAN MARINO SPORT 🇸🇲
 http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
 
@@ -1248,40 +1287,11 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,DAZN 1 BAR HD
-http://212.18.115.177:3549/play/a04u
 
-#EXTINF:-1,DAZN 2 BAR HD
-http://212.18.115.177:3549/play/a04v
 
-#EXTINF:-1,ORF Sport+
-http://212.18.115.177:3549/play/a05f
 
-#EXTINF:-1,SKY Sport 1
-http://212.18.115.177:3549/play/a04d
 
-#EXTINF:-1,SPORT1+ FHD
-http://212.18.115.177:3549/play/a04t
 
-#EXTINF:-1,SPORTDIGITAL FUSSBALL FHD
-http://212.18.115.177:3549/play/a05e
-
-#EXTINF:-1,SPORTDIGITAL FUSSBALL HD
-http://212.18.115.177:3549/play/a05d
-
-#EXTINF:-1,Sky Sport Austria 1 FHD
-http://212.18.115.177:3549/play/a058
-
-#EXTINF:-1,Sport 1
-http://212.18.115.177:3549/play/a04r
-#EXTINF:-1,K Sport 1
-http://212.18.115.177:8030/play/a03j
-#EXTINF:-1,K Sport 2
-http://212.18.115.177:8030/play/a03k
-#EXTINF:-1,K Sport 3
-http://212.18.115.177:8030/play/a03l
-#EXTINF:-1,K Sport 4
-http://212.18.115.177:8030/play/a03m
 #EXTINF:-1,Super Sport 1 FHD
 http://212.18.115.177:8030/play/a03w
 #EXTINF:-1,Super Sport 2 FHD
