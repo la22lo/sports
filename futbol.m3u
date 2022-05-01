@@ -1347,5 +1347,8 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1, segunda 
+http://198.144.159.43/wknuleO__etHDAInrNoZvA/1651451245/3138382e32362e3139372e3231/ff74/playlist.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
