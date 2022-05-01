@@ -1479,36 +1479,36 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
-
-
 #EXTINF:-1,Nova Sport
 http://88.213.209.230:6060/play/Nova_Sport
-#EXTINF:-1,MAX Sport 4 HD
-http://88.213.209.230:6060/play/MAX_Sport_4_HD
-#EXTINF:-1,MAX sport 4
-http://88.213.209.230:6060/play/MAX_sport_4
-#EXTINF:-1,Diema Sport 2
-http://88.213.209.230:6060/play/Diema_Sport_2
-#EXTINF:-1,Diema Sport
-http://88.213.209.230:6060/play/Diema_Sport
-#EXTINF:-1,Diema Sport HD
-http://88.213.209.230:6060/play/Diema_Sport_HD
-#EXTINF:-1,MAX Sport 2 HD
-http://88.213.209.230:6060/play/MAX_Sport_2_HD
-#EXTINF:-1,Diema Sport 3
-http://88.213.209.230:6060/play/Diema_Sport_3
-#EXTINF:-1,Diema Sport 3 HD
-http://88.213.209.230:6060/play/Diema_Sport_3_HD
-#EXTINF:-1,Diema Sport 2 HD
-http://88.213.209.230:6060/play/Diema_Sport_2_HD
-#EXTINF:-1,MAX sport 3
-http://88.213.209.230:6060/play/MAX_sport_3
+
 #EXTINF:-1,MAX Sport 1 HD
 http://88.213.209.230:6060/play/MAX_Sport_1_HD
 #EXTINF:-1,MAX sport 1
 http://88.213.209.230:6060/play/MAX_sport_1
 #EXTINF:-1,MAX sport 2
 http://88.213.209.230:6060/play/MAX_sport_2
+#EXTINF:-1,MAX Sport 2 HD
+http://88.213.209.230:6060/play/MAX_Sport_2_HD
+#EXTINF:-1,MAX sport 3
+http://88.213.209.230:6060/play/MAX_sport_3
+#EXTINF:-1,MAX Sport 4 HD
+http://88.213.209.230:6060/play/MAX_Sport_4_HD
+#EXTINF:-1,MAX sport 4
+http://88.213.209.230:6060/play/MAX_sport_4
+
+#EXTINF:-1,Diema Sport
+http://88.213.209.230:6060/play/Diema_Sport
+#EXTINF:-1,Diema Sport HD
+http://88.213.209.230:6060/play/Diema_Sport_HD
+#EXTINF:-1,Diema Sport 2
+http://88.213.209.230:6060/play/Diema_Sport_2
+#EXTINF:-1,Diema Sport 2 HD
+http://88.213.209.230:6060/play/Diema_Sport_2_HD
+#EXTINF:-1,Diema Sport 3
+http://88.213.209.230:6060/play/Diema_Sport_3
+#EXTINF:-1,Diema Sport 3 HD
+http://88.213.209.230:6060/play/Diema_Sport_3_HD
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
