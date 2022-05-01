@@ -612,6 +612,9 @@ http://91.242.118.7:90/play/a0a5
 #EXTINF:-1,Prima Sport 2 🇷🇴
 http://91.242.118.7:90/play/a0d5
 
+#EXTINF:-1,Prima Sport 2 🇷🇴
+http://89.40.98.69:8523/play/a07k/index.m3u8
+
 #EXTINF:-1,Prima Sport 3 🇷🇴
 http://91.242.118.7:90/play/Prima_Sport_3
 
@@ -623,6 +626,9 @@ http://62.182.80.87:8081/Test22/Test22/7014
 
 #EXTINF:-1, DIGI SPORT 2 🇷🇴
 http://62.182.80.87:8081/Test22/Test22/7016
+
+#EXTINF:-1,#202 DIGISPORT 2 HD 🇷🇴
+http://89.40.196.6:8004/play/a002
 
 #EXTINF:-1, DIGI SPORT 3 🇷🇴
 http://62.182.80.87:8081/Test22/Test22/7018
@@ -1436,12 +1442,7 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1, M4 Sport+
-http://89.40.98.69:8523/play/a00f/index.m3u8
-#EXTINF:-1, LookSport
-http://89.40.98.69:8523/play/a07k/index.m3u8
-#EXTINF:-1,#202 DIGISPORT 2 HD
-http://89.40.196.6:8004/play/a002
+
 #EXTINF:-1,Eleven 1 HD
 http://89.114.126.46:4000/play/a01s
 #EXTINF:-1,Eleven 2 HD
