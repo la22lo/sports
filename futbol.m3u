@@ -240,8 +240,14 @@ http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJFGRezPP_E_YrLaVH7MB7KE/ts
 #EXTINF:-1, SPORTV 1 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.173:7073/spt1
 
+#EXTINF:-1,Sport TV 1 HD 🇵🇹
+http://91.132.172.169:8000/play/a032/index.m3u8
+
 #EXTINF:-1, SPORTV 2 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.173:7073/spt2
+
+#EXTINF:-1,Sport TV 2 HD 🇵🇹
+http://91.132.172.169:8000/play/a033/index.m3u8
 
 #EXTINF:-1, SPORTV 3 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.173:7073/spt3
@@ -1430,13 +1436,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 
 
-
-#EXTINF:-1,Sport TV 1 HD
-http://91.132.172.169:8000/play/a032/index.m3u8
-#EXTINF:-1,Sport TV 2 HD
-http://91.132.172.169:8000/play/a033/index.m3u8
-#EXTINF:-1,Sport TV 3 HD
-http://91.132.172.169:8000/play/a034/index.m3u8
 #EXTINF:-1, M4 Sport+
 http://89.40.98.69:8523/play/a00f/index.m3u8
 #EXTINF:-1, LookSport
