@@ -1419,6 +1419,66 @@ http://91.132.172.169:8000/play/a032/index.m3u8
 http://91.132.172.169:8000/play/a033/index.m3u8
 #EXTINF:-1,Sport TV 3 HD
 http://91.132.172.169:8000/play/a034/index.m3u8
+#EXTINF:-1, M4 Sport+
+http://89.40.98.69:8523/play/a00f/index.m3u8
+#EXTINF:-1, LookSport
+http://89.40.98.69:8523/play/a07k/index.m3u8
+#EXTINF:-1,#202 DIGISPORT 2 HD
+http://89.40.196.6:8004/play/a002
+#EXTINF:-1,Eleven 1 HD
+http://89.114.126.46:4000/play/a01s
+#EXTINF:-1,Eleven 2 HD
+http://89.114.126.46:4000/play/a01p
+#EXTINF:-1,Eleven 3
+http://89.114.126.46:4000/play/a01q
+#EXTINF:-1,Eleven 4
+http://89.114.126.46:4000/play/a01t
+#EXTINF:-1,Eleven 5
+http://89.114.126.46:4000/play/a01u
+#EXTINF:-1,Eleven 6
+http://89.114.126.46:4000/play/a01r
+#EXTINF:-1,SPORT TV +
+http://89.114.126.46:4000/play/a00f
+#EXTINF:-1,SPORT TV 1 HD
+http://89.114.126.46:4000/play/a003
+#EXTINF:-1,SPORT TV 2 HD
+http://89.114.126.46:4000/play/a004
+#EXTINF:-1,SPORT TV 3 HD
+http://89.114.126.46:4000/play/a005
+#EXTINF:-1,SPORT TV 4 HD
+http://89.114.126.46:4000/play/a008
+#EXTINF:-1,Sport TV 5 HD
+http://89.114.126.46:4000/play/a00a
+#EXTINF:-1,Sport TV 6 HD
+http://89.114.126.46:4000/play/a00b
+#EXTINF:-1,Nova Sport
+http://88.213.209.230:6060/play/Nova_Sport
+#EXTINF:-1,MAX Sport 4 HD
+http://88.213.209.230:6060/play/MAX_Sport_4_HD
+#EXTINF:-1,MAX sport 4
+http://88.213.209.230:6060/play/MAX_sport_4
+#EXTINF:-1,Diema Sport 2
+http://88.213.209.230:6060/play/Diema_Sport_2
+#EXTINF:-1,Diema Sport
+http://88.213.209.230:6060/play/Diema_Sport
+#EXTINF:-1,Diema Sport HD
+http://88.213.209.230:6060/play/Diema_Sport_HD
+#EXTINF:-1,MAX Sport 2 HD
+http://88.213.209.230:6060/play/MAX_Sport_2_HD
+#EXTINF:-1,Diema Sport 3
+http://88.213.209.230:6060/play/Diema_Sport_3
+#EXTINF:-1,Diema Sport 3 HD
+http://88.213.209.230:6060/play/Diema_Sport_3_HD
+#EXTINF:-1,Diema Sport 2 HD
+http://88.213.209.230:6060/play/Diema_Sport_2_HD
+#EXTINF:-1,MAX sport 3
+http://88.213.209.230:6060/play/MAX_sport_3
+#EXTINF:-1,MAX Sport 1 HD
+http://88.213.209.230:6060/play/MAX_Sport_1_HD
+#EXTINF:-1,MAX sport 1
+http://88.213.209.230:6060/play/MAX_sport_1
+#EXTINF:-1,MAX sport 2
+http://88.213.209.230:6060/play/MAX_sport_2
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
