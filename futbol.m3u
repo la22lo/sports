@@ -474,6 +474,18 @@ http://212.18.115.177:8030/play/a03p
 #EXTINF:-1,Tring Sport 2 FHD 🇦🇱
 http://212.18.115.177:8030/play/a03q
 
+#EXTINF:-1,SPORT 1 HD 🇦🇱
+http://91.132.172.169:8000/play/a01q/index.m3u8
+
+#EXTINF:-1,SPORT1 🇦🇱
+http://91.132.172.169:8000/play/a02s/index.m3u8
+
+#EXTINF:-1,SPORT 2 HD 🇦🇱
+http://91.132.172.169:8000/play/a01r/index.m3u8
+
+#EXTINF:-1,SPORT 3 HD 🇦🇱
+http://91.132.172.169:8000/play/a01s/index.m3u8
+
 #EXTINF:-1, ELEVEN SPORT 1 POLONIA 🇵🇱
 http://62.182.80.87:8081/Test22/Test22/7389
 
@@ -863,6 +875,15 @@ http://62.73.127.98:9797/play/a002/index.m3u8
 
 #EXTINF:-1,bTV-2 🇧🇬
 http://62.73.127.98:9797/play/a004/index.m3u8
+
+#EXTINF:-1,NOVA 1 Sport 🇧🇬
+http://91.132.172.169:8000/play/a02z/index.m3u8
+
+#EXTINF:-1,NOVA 2 Sport 🇧🇬
+http://91.132.172.169:8000/play/a030/index.m3u8
+
+#EXTINF:-1,OTE Sport 🇧🇬
+http://91.132.172.169:8000/play/a031/index.m3u8
 
 #EXTINF:-1,Diema Sport HD 🇧🇬
 http://46.40.90.163:13001/play/a04i
@@ -1410,24 +1431,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1,NOVA 1 Sport
-http://91.132.172.169:8000/play/a02z/index.m3u8
-#EXTINF:-1,NOVA 2 Sport
-http://91.132.172.169:8000/play/a030/index.m3u8
-#EXTINF:-1,OTE Sport
-http://91.132.172.169:8000/play/a031/index.m3u8
-#EXTINF:-1,SPORT 1 HD
-http://91.132.172.169:8000/play/a01q/index.m3u8
-#EXTINF:-1,SPORT 2 HD
-http://91.132.172.169:8000/play/a01r/index.m3u8
-#EXTINF:-1,SPORT 3 HD
-http://91.132.172.169:8000/play/a01s/index.m3u8
-#EXTINF:-1,SPORT 4 HD
-http://91.132.172.169:8000/play/a01t/index.m3u8
-#EXTINF:-1,SPORT1
-http://91.132.172.169:8000/play/a02s/index.m3u8
-#EXTINF:-1,SPORT2
-http://91.132.172.169:8000/play/a02t/index.m3u8
 #EXTINF:-1,Sport TV 1 HD
 http://91.132.172.169:8000/play/a032/index.m3u8
 #EXTINF:-1,Sport TV 2 HD
