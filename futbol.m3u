@@ -888,11 +888,29 @@ http://88.213.209.230:6060/play/Nova_Sport
 #EXTINF:-1,Nova Sport 🇧🇬
 http://46.40.90.163:13001/play/a05p
 
+#EXTINF:-1,MAX Sport 1 HD 🇧🇬
+http://88.213.209.230:6060/play/MAX_Sport_1_HD
+
+#EXTINF:-1,MAX sport 1 🇧🇬
+http://88.213.209.230:6060/play/MAX_sport_1
+
+#EXTINF:-1,MAX sport 2 🇧🇬
+http://88.213.209.230:6060/play/MAX_sport_2
+
+#EXTINF:-1,MAX Sport 2 HD 🇧🇬
+http://88.213.209.230:6060/play/MAX_Sport_2_HD
+
+#EXTINF:-1,MAX sport 3 🇧🇬
+http://88.213.209.230:6060/play/MAX_sport_3
+
 #EXTINF:-1, MAX SPORT 3 🇧🇬
 http://62.182.80.87:8081/Test22/Test22/7868
 
 #EXTINF:-1,MAX sport 3 🇧🇬
 http://46.40.90.163:13001/play/a04a
+
+#EXTINF:-1,MAX sport 4 🇧🇬
+http://88.213.209.230:6060/play/MAX_sport_4
 
 #EXTINF:-1,MAX sport 4 🇧🇬
 http://46.40.90.163:13001/play/a02i
@@ -1483,20 +1501,7 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1,MAX Sport 1 HD
-http://88.213.209.230:6060/play/MAX_Sport_1_HD
-#EXTINF:-1,MAX sport 1
-http://88.213.209.230:6060/play/MAX_sport_1
-#EXTINF:-1,MAX sport 2
-http://88.213.209.230:6060/play/MAX_sport_2
-#EXTINF:-1,MAX Sport 2 HD
-http://88.213.209.230:6060/play/MAX_Sport_2_HD
-#EXTINF:-1,MAX sport 3
-http://88.213.209.230:6060/play/MAX_sport_3
-#EXTINF:-1,MAX Sport 4 HD
-http://88.213.209.230:6060/play/MAX_Sport_4_HD
-#EXTINF:-1,MAX sport 4
-http://88.213.209.230:6060/play/MAX_sport_4
+
 
 #EXTINF:-1,Diema Sport
 http://88.213.209.230:6060/play/Diema_Sport
