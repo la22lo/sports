@@ -21,12 +21,6 @@ http://212.18.115.177:8030/play/a03j
 #EXTINF:-1,Super Sport 2 FHD 🇦🇱
 http://212.18.115.177:8030/play/a03x
 
-#EXTINF:-1, ZHENG
-https://alplay.zhengyaning.com/xoilac/channel-1.m3u8?auth_key=1650270384-0-0-48c6ca8a63158bfe5e9a6a038b0676e2
-
-#EXTINF:-1, CANAL+ Polonia 🇮🇩
-https://alplay.zhengyaning.com/xoilac/channel-7.m3u8?auth_key=1650270660-0-0-7fc1765f80325a79ba7c47bc03cd3cc7
-
 #EXTINF:-1, MTV+ HD 🇮🇳
 http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 
@@ -1313,6 +1307,12 @@ https://acdn.zhengyaning.com/xoilac/channel-10.m3u8?auth_key=1645859460-0-0-b702
 
 #EXTINF:-1, Channel 11
 https://acdn.zhengyaning.com/xoilac/channel-11.m3u8?auth_key=1645859482-0-0-6bc23936151f20c56d90cec933fb17d3
+
+#EXTINF:-1, ZHENG 1
+https://alplay.zhengyaning.com/xoilac/channel-1.m3u8?auth_key=1650270384-0-0-48c6ca8a63158bfe5e9a6a038b0676e2
+
+#EXTINF:-1, ZHENG 7
+https://alplay.zhengyaning.com/xoilac/channel-7.m3u8?auth_key=1650270660-0-0-7fc1765f80325a79ba7c47bc03cd3cc7
 
 #EXTINF:-1,Ziggo Sport Tennis
 http://87.212.248.23:8080/play/a0bu
