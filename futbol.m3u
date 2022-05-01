@@ -1345,5 +1345,17 @@ http://87.104.30.134:6040/play/a00q/index.m3u8
 #EXTINF:-1,TV3 Sport
 http://87.104.30.134:6040/play/a02g/index.m3u8
 
+#EXTINF:-1,[1] Матч ТВ
+http://85.92.123.108:6060/play/matchtv/index.m3u8
+
+#EXTINF:-1,[2] Qazsport
+http://85.92.123.108:6060/play/qazsport/index.m3u8
+
+#EXTINF:-1,SPORT TV +
+http://84.74.130.156:8585/play/a03w
+
+#EXTINF:-1,SPORT TV 5
+http://84.74.130.156:8585/play/a03x
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
