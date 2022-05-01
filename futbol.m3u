@@ -1353,8 +1353,22 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, segunda 
-http://198.144.159.43/wknuleO__etHDAInrNoZvA/1651451245/3138382e32362e3139372e3231/ff74/playlist.m3u8
+#EXTINF:-1,Orange Sport 1
+http://91.242.118.7:90/play/TelekomSport1
+#EXTINF:-1,Orange Sport 1 HD
+http://91.242.118.7:90/play/TelekomSport1HD
+#EXTINF:-1,Orange Sport 2
+http://91.242.118.7:90/play/TelekomSport2
+#EXTINF:-1,Orange Sport 2 HD
+http://91.242.118.7:90/play/TelekomSport2HD
+#EXTINF:-1,Orange Sport 3
+http://91.242.118.7:90/play/TelekomSport3
+#EXTINF:-1,Orange Sport 3 HD
+http://91.242.118.7:90/play/TelekomSport3HD
+#EXTINF:-1,Orange Sport 4
+http://91.242.118.7:90/play/TelekomSport4
+#EXTINF:-1,Orange Sport 4 HD
+http://91.242.118.7:90/play/TelekomSport4HD
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
