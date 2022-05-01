@@ -1353,6 +1353,14 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1,Prima Sport 1
+http://91.242.118.7:90/play/a0a5
+#EXTINF:-1,Prima Sport 2
+http://91.242.118.7:90/play/a0d5
+#EXTINF:-1,Prima Sport 3
+http://91.242.118.7:90/play/Prima_Sport_3
+#EXTINF:-1,Prima Sport 4
+http://91.242.118.7:90/play/Prima_Sport_4
 #EXTINF:-1,Orange Sport 1
 http://91.242.118.7:90/play/TelekomSport1
 #EXTINF:-1,Orange Sport 1 HD
@@ -1369,6 +1377,48 @@ http://91.242.118.7:90/play/TelekomSport3HD
 http://91.242.118.7:90/play/TelekomSport4
 #EXTINF:-1,Orange Sport 4 HD
 http://91.242.118.7:90/play/TelekomSport4HD
+#EXTINF:-1,03 МАТЧ!
+http://91.234.255.242:8000/play/a011/index.m3u8
+#EXTINF:-1,Матч Футбол 1
+http://91.242.118.7:90/play/a0da
+#EXTINF:-1,Матч Футбол 2
+http://91.242.118.7:90/play/a0db
+#EXTINF:-1,Матч Футбол 3
+http://91.242.118.7:90/play/a0dc
+#EXTINF:-1,QAZSPORT
+http://91.185.3.218:8000/play/204
+#EXTINF:-1,QAZSPORT HD
+http://91.185.3.218:8000/play/529
+#EXTINF:-1,EL-Sport 1 HD
+http://91.132.172.169:8000/play/a02o/index.m3u8
+#EXTINF:-1,EL-Sport 2 HD
+http://91.132.172.169:8000/play/a02p/index.m3u8
+#EXTINF:-1,EL-Sport 3 HD
+http://91.132.172.169:8000/play/a02q/index.m3u8
+#EXTINF:-1,NOVA 1 Sport
+http://91.132.172.169:8000/play/a02z/index.m3u8
+#EXTINF:-1,NOVA 2 Sport
+http://91.132.172.169:8000/play/a030/index.m3u8
+#EXTINF:-1,OTE Sport
+http://91.132.172.169:8000/play/a031/index.m3u8
+#EXTINF:-1,SPORT 1 HD
+http://91.132.172.169:8000/play/a01q/index.m3u8
+#EXTINF:-1,SPORT 2 HD
+http://91.132.172.169:8000/play/a01r/index.m3u8
+#EXTINF:-1,SPORT 3 HD
+http://91.132.172.169:8000/play/a01s/index.m3u8
+#EXTINF:-1,SPORT 4 HD
+http://91.132.172.169:8000/play/a01t/index.m3u8
+#EXTINF:-1,SPORT1
+http://91.132.172.169:8000/play/a02s/index.m3u8
+#EXTINF:-1,SPORT2
+http://91.132.172.169:8000/play/a02t/index.m3u8
+#EXTINF:-1,Sport TV 1 HD
+http://91.132.172.169:8000/play/a032/index.m3u8
+#EXTINF:-1,Sport TV 2 HD
+http://91.132.172.169:8000/play/a033/index.m3u8
+#EXTINF:-1,Sport TV 3 HD
+http://91.132.172.169:8000/play/a034/index.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
