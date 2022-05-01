@@ -15,8 +15,8 @@ http://revteam2.offshorerev.cc/SPIDER_F2lOt6/pg0lOTBRwa/86607
 #EXTINF:-1,K Sport 1 🇦🇱
 http://212.18.115.177:8030/play/a03j
 
-#EXTINF:-1, SUPERSPORT 2 🇦🇱
-http://62.182.80.87:8081/Test22/Test22/1019
+#EXTINF:-1,Super Sport 2 FHD 🇦🇱
+http://212.18.115.177:8030/play/a03x
 
 #EXTINF:-1, CANAL+ Polonia 🇮🇩
 https://alplay.zhengyaning.com/xoilac/channel-7.m3u8?auth_key=1650270660-0-0-7fc1765f80325a79ba7c47bc03cd3cc7
@@ -426,6 +426,27 @@ http://62.182.80.87:8081/Test22/Test22/1020
 #EXTINF:-1, SUPERSPORT 4 🇦🇱
 http://62.182.80.87:8081/Test22/Test22/1021
 
+#EXTINF:-1,Super Sport 1 FHD 🇦🇱
+http://212.18.115.177:8030/play/a03w
+
+#EXTINF:-1,Super Sport 2 FHD 🇦🇱
+http://212.18.115.177:8030/play/a03x
+
+#EXTINF:-1,Super Sport 3 FHD 🇦🇱
+http://212.18.115.177:8030/play/a03y
+
+#EXTINF:-1,Super Sport 4 FHD 🇦🇱
+http://212.18.115.177:8030/play/a03z
+
+#EXTINF:-1,Super Sport 5 FHD 🇦🇱
+http://212.18.115.177:8030/play/a040
+
+#EXTINF:-1,Super Sport 6 FHD 🇦🇱
+http://212.18.115.177:8030/play/a041
+
+#EXTINF:-1,Super Sport News 🇦🇱
+http://212.18.115.177:8030/play/a020
+
 #EXTINF:-1,K Sport 1 🇦🇱
 http://212.18.115.177:8030/play/a03j
 
@@ -446,6 +467,12 @@ http://95.107.132.106/out/u/865_4.m3u8
 
 #EXTINF:-1,Tring sport 3 🇦🇱
 http://95.107.132.106/out/u/867_4.m3u8
+
+#EXTINF:-1,Tring Sport 1 FHD 🇦🇱
+http://212.18.115.177:8030/play/a03p
+
+#EXTINF:-1,Tring Sport 2 FHD 🇦🇱
+http://212.18.115.177:8030/play/a03q
 
 #EXTINF:-1, ELEVEN SPORT 1 POLONIA 🇵🇱
 http://62.182.80.87:8081/Test22/Test22/7389
@@ -518,6 +545,21 @@ http://45.92.69.203:1983/play/a0rb
 
 #EXTINF:-1, SUPERSPORT 🇽🇰
 http://62.182.80.87:8081/Test22/Test22/1037
+
+#EXTINF:-1,Super Sport Kosova 1 🇽🇰
+http://212.18.115.177:8030/play/a03n
+
+#EXTINF:-1,Super Sport Kosova 1 FHD 🇽🇰
+http://212.18.115.177:8030/play/a03t
+ 
+#EXTINF:-1,Super Sport Kosova 2 🇽🇰
+http://212.18.115.177:8030/play/a03o
+
+#EXTINF:-1,Super Sport Kosova 2 FHD 🇽🇰
+http://212.18.115.177:8030/play/a03u
+
+#EXTINF:-1,Super Sport Kosova 3 FHD 🇽🇰
+http://212.18.115.177:8030/play/a03v
 
 #EXTINF:-1, PRIMA SPORT 1 🇷🇴
 http://62.182.80.87:8081/Test22/Test22/7050
@@ -1288,42 +1330,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 
-
-
-
-
-#EXTINF:-1,Super Sport 1 FHD
-http://212.18.115.177:8030/play/a03w
-#EXTINF:-1,Super Sport 2 FHD
-http://212.18.115.177:8030/play/a03x
-#EXTINF:-1,Super Sport 3 FHD
-http://212.18.115.177:8030/play/a03y
-#EXTINF:-1,Super Sport 4 FHD
-http://212.18.115.177:8030/play/a03z
-#EXTINF:-1,Super Sport 5 FHD
-http://212.18.115.177:8030/play/a040
-#EXTINF:-1,Super Sport 6 FHD
-http://212.18.115.177:8030/play/a041
-#EXTINF:-1,Super Sport Kosova 1
-http://212.18.115.177:8030/play/a03n
-#EXTINF:-1,Super Sport Kosova 1 FHD
-http://212.18.115.177:8030/play/a03t
-#EXTINF:-1,Super Sport Kosova 2
-http://212.18.115.177:8030/play/a03o
-#EXTINF:-1,Super Sport Kosova 2 FHD
-http://212.18.115.177:8030/play/a03u
-#EXTINF:-1,Super Sport Kosova 3 FHD
-http://212.18.115.177:8030/play/a03v
-#EXTINF:-1,Super Sport News
-http://212.18.115.177:8030/play/a020
-#EXTINF:-1,Tring Sport 1 FHD
-http://212.18.115.177:8030/play/a03p
-#EXTINF:-1,Tring Sport 2 FHD
-http://212.18.115.177:8030/play/a03q
-#EXTINF:-1,Tring Sport 3 FHD
-http://212.18.115.177:8030/play/a03r
-#EXTINF:-1,Tring Sport 4 FHD
-http://212.18.115.177:8030/play/a03s
 
 
 #EXTINF:-1, Claro Sports
