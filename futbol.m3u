@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, PUCELA
+http://loga.ultratotal.ml/xls/ligota/index.m3u8
+
 #EXTINF:-1, DirecTV Sports 🇦🇷
 http://ytv.plus:25461/live/Maria/1234/17318.m3u8
 
