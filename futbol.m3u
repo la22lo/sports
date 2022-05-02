@@ -99,6 +99,9 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
 #EXTINF:-1 , Duhok Sports HD 🇪🇬
 http://duhoktvstream.top:1935/live/Duhok--Sports--HD/chunklist_w2080602545.m3u8
 
+#EXTINF:-1, DirecTV Sports 🇦🇷
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+
 #EXTINF:-1, DIRECTV Sports 2 🇦🇷
 http://51.222.241.122:8000/play/a03s
 
