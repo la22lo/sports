@@ -1518,5 +1518,20 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1, DIRECTV 
+http://compitv.info:8080/supertv700/9hZcpLdgqQ/88642
+
+#EXTINF:-1, DIRECTV SPORT
+http://compitv.info:8080/supertv700/9hZcpLdgqQ/81982
+
+#EXTINF:-1, DIRECTV 1
+http://compitv.info:8080/supertv700/9hZcpLdgqQ/183011
+
+#EXTINF:-1, DIRECTV 2
+http://latinosiptv.online:8090/notocar/xmauc84bx1/2289
+
+#EXTINF:-1, DIRECTV +
+http://smartstalker-raid-play.com:8080/marcos1/marcos1/112098
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
