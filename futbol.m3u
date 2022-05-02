@@ -132,6 +132,9 @@ http://ytv.plus:25461/live/Maria/1234/17318.m3u8
 #EXTINF:-1, Directv 2 🇦🇷
 http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/957.m3u8
 
+#EXTINF:-1, DIRECTV + 🇪🇨
+http://smartstalker-raid-play.com:8080/marcos1/marcos1/112098
+
 #EXTINF:-1,TELECOSTA 🇬🇹
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
@@ -1517,9 +1520,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1, DIRECTV + 🇪🇨
-http://smartstalker-raid-play.com:8080/marcos1/marcos1/112098
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
