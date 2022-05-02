@@ -9,6 +9,9 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
 
+#EXTINF:-1,beIN SP 1 🇶🇦
+http://4kfhd.xyz:80/musab/2021/6
+
 #EXTINF:-1,SUPERSPORT LIGA 🇬🇧
 https://40b79950e62d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.392623997366.channel.DqQL0QV701DI.m3u8?SBN
 
@@ -299,6 +302,29 @@ http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
 
 #EXTINF:-1,SPORT TV + 🇵🇹
 http://84.74.130.156:8585/play/a03w
+
+#EXTINF:-1,beIN SP 🇶🇦
+http://4kfhd.xyz:80/musab/2021/2
+#EXTINF:-1,beIN Premium 1 🇶🇦
+http://4kfhd.xyz:80/musab/2021/3
+#EXTINF:-1,beIN Premium 2 🇶🇦
+http://4kfhd.xyz:80/musab/2021/4
+#EXTINF:-1,beIN Premium 3 🇶🇦
+http://4kfhd.xyz:80/musab/2021/5
+#EXTINF:-1,beIN SP 1 🇶🇦
+http://4kfhd.xyz:80/musab/2021/6
+#EXTINF:-1,beIN SP 2 🇶🇦
+http://4kfhd.xyz:80/musab/2021/7
+#EXTINF:-1,beIN SP 3 🇶🇦
+http://4kfhd.xyz:80/musab/2021/8
+#EXTINF:-1,beIN SP 4 🇶🇦
+http://4kfhd.xyz:80/musab/2021/9
+#EXTINF:-1,beIN SP 5 🇶🇦
+http://4kfhd.xyz:80/musab/2021/10
+#EXTINF:-1,beIN SP 6 🇶🇦
+http://4kfhd.xyz:80/musab/2021/11
+#EXTINF:-1,beIN SP 7 🇶🇦
+http://4kfhd.xyz:80/musab/2021/12
 
 #EXTINF:-1,BEIN SPORTS PREMIUM 01 HD 🇶🇦
 http://revteam2.offshorerev.cc/SPIDER_F2lOt6/pg0lOTBRwa/86613
