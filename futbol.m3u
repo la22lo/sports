@@ -311,6 +311,12 @@ http://4kfhd.xyz:80/musab/2021/3
 http://4kfhd.xyz:80/musab/2021/4
 #EXTINF:-1,beIN Premium 3 🇶🇦
 http://4kfhd.xyz:80/musab/2021/5
+#EXTINF:-1,beIN Premium 1 🇶🇦
+http://4kfhd.xyz:80/musab/2021/28
+#EXTINF:-1,beIN Premium 2 🇶🇦
+http://4kfhd.xyz:80/musab/2021/29
+#EXTINF:-1,beIN Premium 3 🇶🇦
+http://4kfhd.xyz:80/musab/2021/30
 #EXTINF:-1,beIN SP 1 🇶🇦
 http://4kfhd.xyz:80/musab/2021/6
 #EXTINF:-1,beIN SP 2 🇶🇦
@@ -448,6 +454,12 @@ http://185.234.217.27:8002/play/a036/index.m3u8
 
 #EXTINF:-1,BEIN SPORTS 01 HD EN 🇬🇧
 http://revteam2.offshorerev.cc/_JxV8Dq/0wiwPzWeCU/86606
+
+#EXTINF:-1,beIN SP EN 1 🇬🇧
+http://4kfhd.xyz:80/musab/2021/15
+
+#EXTINF:-1,beIN SP EN 1 🇬🇧
+http://4kfhd.xyz:80/musab/2021/33
 
 #EXTINF:-1,BEIN SPORTS 02 HD EN 🇬🇧
 http://revteam2.offshorerev.cc/_JxV8Dq/0wiwPzWeCU/86603
@@ -1375,6 +1387,27 @@ http://ott-cdn.ucom.am/s83/03.m3u8
 
 #EXTINF:-1,Iraqia Sport HD 🇮🇶
 http://45.94.31.203:7002/play/a0gu
+
+#EXTINF:-1,ONTIME Sport 1 HD
+http://4kfhd.xyz:80/musab/2021/94
+
+#EXTINF:-1,ONTIME Sport 1 SD
+http://4kfhd.xyz:80/musab/2021/95
+
+#EXTINF:-1,ONTIME Sport 2 HD
+http://4kfhd.xyz:80/musab/2021/96
+
+#EXTINF:-1,ONTIME Sport 3 HD
+http://4kfhd.xyz:80/musab/2021/97
+
+#EXTINF:-1,Nile Sport
+http://4kfhd.xyz:80/musab/2021/98
+
+#EXTINF:-1,Al Ahly Sport
+http://4kfhd.xyz:80/musab/2021/99
+
+#EXTINF:-1,Zamalek Sport
+http://4kfhd.xyz:80/musab/2021/100
 
 #EXTINF:-1, DUBAI SPORTS 🇸🇦
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
