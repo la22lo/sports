@@ -1232,6 +1232,12 @@ https://livestream-2.socialstreaming.tv/live/626f86a6ece01d001cf0b9f7/626f86a6ec
 #EXTINF:-1, K+ Sport 1 VTN 🇻🇳
 https://raw.githubusercontent.com/cdn-free/bookish-giggle/main/file.m3u8
 
+#EXTINF:-1, ON Sports+ 🇻🇳
+https://api.vthanhtivii.xyz/v1/getlink/vtvgo/196
+
+#EXTINF:-1, ON Sports 🇻🇳
+http://cdn.socolacdn.online:8080/onsporttv/mpegts
+
 #EXTINF:-1, SMARTSPOR HD  🇹🇷
 http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/48242.ts
 
