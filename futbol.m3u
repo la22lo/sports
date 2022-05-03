@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, PUCELA
-http://loga.ultratotal.ml/xls/ligota/index.m3u8
-
-#EXTINF:-1, PUCELA
-https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/TSdfFU1m6tbKdPAMMcOTIMLMpAAxEFjyddh7YfcDCr8YC-4Xibqlfc9ExRzM248zKFnm5JuAepmnwyT1pUi-_g/transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live
-
 #EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 
