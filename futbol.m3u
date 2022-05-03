@@ -12,6 +12,12 @@ https://1fdd483b2dde.eu-central-1.playback.live-video.net/api/video/v1/eu-centra
 #EXTINF:-1, BT SPORT 2 🇬🇧
 https://ppv.gcdn.co/FOOT1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, BT SPORT 2 🇬🇧
+http://d1td4hzh042thn.cloudfront.net:80/stream/NDEzMg==/1080p.m3u8
+
+#EXTINF:-1, BT SPORT 2 🇬🇧
+http://d1td4hzh042thn.cloudfront.net/stream/NDEzMg==/NDEzMg==.m3u8
+
 #EXTINF:-1,TNTSPORTS 🇧🇷
 https://klive.kaltura.com/s/env/cluster-1-a.live.nvp1/live/hls/p/4610853/e/1_fj934unp/tl/main/st/0/t/qyKEgCl-uOWpcvLReIAynA/index-s32.m3u8?__hdnea__=st=1651599981~exp=1651686381~acl=/s/env/cluster-1-a.live.nvp1/live/hls/p/4610853/e/1_fj934unp/tl/main/st/0/t/qyKEgCl-uOWpcvLReIAynA/index-s3*~hmac=966371345837d716a3be88a97293ce72f4b3d2a92825eacb9bdbed27a2e567b2
 
