@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, Arena Sport 1 HR 🇭🇷
+http://46.29.169.15:4001/play/a002/index.m3u8|User-Agent=stream
+
 #EXTINF:-1,Tring Sport 1 FHD 🇦🇱
 http://212.18.115.177:8030/play/a03p
 
