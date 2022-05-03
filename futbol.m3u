@@ -6,11 +6,11 @@ https://1fdd483b2dde.eu-central-1.playback.live-video.net/api/video/v1/eu-centra
 #EXTINF:-1, BT SPORT 2 🇬🇧
 https://ppv.gcdn.co/FOOT1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, BT SPORT 2 🇬🇧
-https://cdnapisec.kaltura.com/p/4610853/sp/461085300/playManifest/entryId/1_fj934unp/format/applehttp/protocol/https/uiConfId/50050313/a.m3u8?referrer=aHR0cHM6Ly93d3cua2FsdHVyYS5jb20=&playSessionId=888cc679-cd06-e2dd-0061-8119acaab7c6
-
 #EXTINF:-1,TNTSPORTS 🇧🇷
 https://klive.kaltura.com/s/env/cluster-1-a.live.nvp1/live/hls/p/4610853/e/1_fj934unp/tl/main/st/0/t/qyKEgCl-uOWpcvLReIAynA/index-s32.m3u8?__hdnea__=st=1651599981~exp=1651686381~acl=/s/env/cluster-1-a.live.nvp1/live/hls/p/4610853/e/1_fj934unp/tl/main/st/0/t/qyKEgCl-uOWpcvLReIAynA/index-s3*~hmac=966371345837d716a3be88a97293ce72f4b3d2a92825eacb9bdbed27a2e567b2
+
+#EXTINF:-1,TNTSPORTS 🇧🇷
+https://cdnapisec.kaltura.com/p/4610853/sp/461085300/playManifest/entryId/1_fj934unp/format/applehttp/protocol/https/uiConfId/50050313/a.m3u8?referrer=aHR0cHM6Ly93d3cua2FsdHVyYS5jb20=&playSessionId=888cc679-cd06-e2dd-0061-8119acaab7c6
 
 #EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
