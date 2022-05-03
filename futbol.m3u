@@ -1106,20 +1106,8 @@ http://91.185.3.218:8000/play/529
 #EXTINF:-1, CBC Sport 🇦🇿
 http://193.228.193.179:8000/play/a01k
 
-#EXTINF:-1,Ziggo Sport Select HD 🇳🇱
+#EXTINF:-1, Ziggo Select HD 🇳🇱
 http://82.197.214.59:4000/play/a01v/index.m3u8
-
-#EXTINF:-1,Ziggo Sport 🇳🇱
-http://87.212.248.23:8080/play/a0ek
-
-#EXTINF:-1,Ziggo Sport HD 🇳🇱
-http://87.212.248.23:8080/play/z067
-
-#EXTINF:-1,Ziggo Sport Select HD 🇳🇱
-http://87.212.248.23:8080/play/a0c3
-
-#EXTINF:-1,Ziggo Sport Voetbal HD 🇳🇱
-http://87.212.248.23:8080/play/a0c2
 
 #EXTINF:-1,ELEVENSPORT 1 🇧🇪
 http://212.18.115.177:4042/play/a00y/index.m3u8
