@@ -3,6 +3,9 @@
 #EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 
+#EXTINF:-1, BEIN SPORT 3 MALASIA
+http://139.99.56.106:2082/sakinah1/sakinah1/8413
+
 #EXTINF:-1, Arena Sport 1 HR 🇭🇷
 http://46.29.169.15:4001/play/a002/index.m3u8|User-Agent=stream
 
@@ -104,6 +107,9 @@ http://4kfhd.xyz:80/musab/2021/2436
 
 #EXTINF:-1, DAZN BAR 2 HD 🇩🇪
 http://4kfhd.xyz:80/musab/2021/2437
+
+#EXTINF:-1, BEIN SPORT 3 MALASIA
+http://139.99.56.106:2082/sakinah1/sakinah1/8413
 
 #EXTINF:-1, M+ LaLiga HD 🇪🇸
 http://45.92.69.203:1980/play/a01l
