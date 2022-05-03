@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, MOVISTAR LIGA CAMPEONES 🇪🇸
-https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/TxA2iBsRloIzkyMG4S2KiNuGWnKOI3aosQ_L174uk6C5g2_zme11ToTJHBezqTGvHjQYaZJj0otZSoNBpwaZUA/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwNjBfMTAiLCJIZWlnaHQiOjcyMCwiSGlnaEZyYW1lUmF0ZSI6dHJ1ZSwiS2JwcyI6NDUwMCwiV2lkdGgiOjEyODB9.stuYmPPT9-xV9TCzbYuSxDgDPioKBbwtYnXdCaqBQNo/dynamic_highlatency.m3u8?type=live
-
 #EXTINF:-1, BT SPORT 2 🇬🇧
 https://1fdd483b2dde.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.781001535613.channel.QbhdYoH7da2u.m3u8
 
