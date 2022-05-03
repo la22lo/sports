@@ -18,6 +18,9 @@ https://klive.kaltura.com/s/env/cluster-1-a.live.nvp1/live/hls/p/4610853/e/1_fj9
 #EXTINF:-1, BEIN 1 ENGLISH 🇬🇧
 https://2ce27c6cc186.us-east-1.playback.live-video.net/api/video/v1/us-east-1.392623997366.channel.pxtEsi0TUfrU.m3u8?SBN
 
+#EXTINF:-1, BEIN 1 ENGLISH 🇬🇧
+https://M100@d3twtqhnzwkaug.cloudfront.net/out/v1/f0c07063f30b47d1892cfd7f03ac3ffe/index.m3u8?M100
+
 #EXTINF:-1,TNTSPORTS 🇧🇷
 https://cdnapisec.kaltura.com/p/4610853/sp/461085300/playManifest/entryId/1_fj934unp/format/applehttp/protocol/https/uiConfId/50050313/a.m3u8?referrer=aHR0cHM6Ly93d3cua2FsdHVyYS5jb20=&playSessionId=888cc679-cd06-e2dd-0061-8119acaab7c6
 
