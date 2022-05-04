@@ -1535,5 +1535,14 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
+#EXTINF: -1, Jio Football 1 HD
+https://node98384-tmjo16.in1.bitmana.io/live.php?c=Jio_Football_1&q=1200&e=junk.m3u8
+
+#EXTINF: -1, Jio Football 2 HD
+https://node98384-tmjo16.in1.bitmana.io/live.php?c=Jio_Football_2&q=1200&e=junk.m3u8
+
+#EXTINF: -1, Jio Football 3 HD
+https://node98384-tmjo16.in1.bitmana.io/live.php?c=Jio_Football_3&q=1200&e=junk.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
