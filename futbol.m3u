@@ -27,6 +27,9 @@ https://d4e6999e0485.eu-central-1.playback.live-video.net/api/video/v1/eu-centra
 #EXTINF:-1, DAZN 1 🇩🇪
 http://79.143.17.78:2085/play/a0a0/index.m3u8
 
+#EXTINF:-1, HRT
+http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
+
 #EXTINF:-1,SBT AO VIVO 🇧🇷
 https://evpp.mm.uol.com.br/ne10/smil:ne10.smil/chunklist_w42448997_b216000_sleng.m3u8
 
