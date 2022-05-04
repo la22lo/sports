@@ -1535,5 +1535,26 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1,BeinSport 1
+http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/52269.ts
+
+#EXTINF:-1,BeinSport 2
+http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/48878.ts
+
+#EXTINF:-1,BeinSport 3
+http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/3.ts
+
+#EXTINF:-1,BeinSport 4
+http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/4.ts
+
+#EXTINF:-1,BeinSport 5
+http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/5.ts
+
+#EXTINF:-1,BeinSport 6
+http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/6.ts
+
+#EXTINF:-1,BeinSport 7
+http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/7.ts
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
