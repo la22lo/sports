@@ -9,6 +9,9 @@ https://dlx1rvhnuclfo.cloudfront.net/hls/230/index.m3u8?SBN
 #EXTINF:-1, BT SPORT 2 🇬🇧
 https://djwjf11yzd2i2.cloudfront.net:443/hls/btsport/chunks.m3u8
 
+#EXTINF:-1, BT SPORT 2 🇬🇧
+https://ppv.gcdn.co/FOOT1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,SBT AO VIVO 🇧🇷
 https://evpp.mm.uol.com.br/ne10/smil:ne10.smil/chunklist_w42448997_b216000_sleng.m3u8
 
