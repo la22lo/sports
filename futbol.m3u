@@ -1556,5 +1556,14 @@ http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/6.ts
 #EXTINF:-1,BeinSport 7
 http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/7.ts
 
+#EXTINF:-1,match 1hd
+http://212.122.80.182:38167/play/a01h/index.m3u8
+
+#EXTINF:-1,match 2hd
+http://212.122.80.182:38167/play/a00v/index.m3u8
+
+#EXTINF:-1,match 3hd
+http://212.122.80.182:38167/play/a00w/index.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
