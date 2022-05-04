@@ -1589,5 +1589,20 @@ https://srv1.iptviliria.com/Supersport6/index.m3u8?token=undefined
 #EXTINF:-1,Super Sport7
 https://srv1.iptviliria.com/Supersport7/index.m3u8?token=undefined
 
+#EXTINF:-1,ss1
+http://93.157.62.180/Supersport1/tracks-v1a1/mono.m3u8?SBN
+
+#EXTINF:-1,ss2
+http://93.157.62.180/Supersport2/tracks-v1a1/mono.m3u8?SBN
+
+#EXTINF:-1,ss3
+http://93.157.62.180/Supersport3/tracks-v1a1/mono.m3u8?SBN
+
+#EXTINF:-1,ss4
+http://93.157.62.180/Supersport4/tracks-v1a1/mono.m3u8?SBN
+
+#EXTINF:-1,ss5
+http://93.157.62.180/Supersport5/tracks-v1a1/mono.m3u8?SBN
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
