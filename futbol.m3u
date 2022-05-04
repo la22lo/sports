@@ -1565,5 +1565,8 @@ http://212.122.80.182:38167/play/a00v/index.m3u8
 #EXTINF:-1,match 3hd
 http://212.122.80.182:38167/play/a00w/index.m3u8
 
+#EXTINF:-1,Klan Sport
+http://185.204.32.4:9981/stream/channelid/77571236?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
