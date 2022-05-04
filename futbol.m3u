@@ -1535,11 +1535,5 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, adjaraSports tv 1
-https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8?checkedby
-
-#EXTINF:-1, adjaraSports tv 2
-https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8?checkedby
-
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
