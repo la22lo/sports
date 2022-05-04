@@ -1556,41 +1556,5 @@ http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/6.ts
 #EXTINF:-1,BeinSport 7
 http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/7.ts
 
-#EXTINF:-1,Super Sport1
-https://srv1.iptviliria.com/Supersport1/index.m3u8?token=undefined
-
-#EXTINF:-1,Super Sport2
-https://srv1.iptviliria.com/Supersport2/index.m3u8?token=undefined
-
-#EXTINF:-1,Super Sport3
-https://srv1.iptviliria.com/Supersport3/index.m3u8?token=undefined
-
-#EXTINF:-1,Super Sport4
-https://srv1.iptviliria.com/Supersport4/index.m3u8?token=undefined
-
-#EXTINF:-1,Super Sport5
-https://srv1.iptviliria.com/Supersport5/index.m3u8?token=undefined
-
-#EXTINF:-1,Super Sport6
-https://srv1.iptviliria.com/Supersport6/index.m3u8?token=undefined
-
-#EXTINF:-1,Super Sport7
-https://srv1.iptviliria.com/Supersport7/index.m3u8?token=undefined
-
-#EXTINF:-1,ss1
-http://93.157.62.180/Supersport1/tracks-v1a1/mono.m3u8?SBN
-
-#EXTINF:-1,ss2
-http://93.157.62.180/Supersport2/tracks-v1a1/mono.m3u8?SBN
-
-#EXTINF:-1,ss3
-http://93.157.62.180/Supersport3/tracks-v1a1/mono.m3u8?SBN
-
-#EXTINF:-1,ss4
-http://93.157.62.180/Supersport4/tracks-v1a1/mono.m3u8?SBN
-
-#EXTINF:-1,ss5
-http://93.157.62.180/Supersport5/tracks-v1a1/mono.m3u8?SBN
-
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
