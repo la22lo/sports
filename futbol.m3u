@@ -630,39 +630,6 @@ http://62.182.80.87:8081/Test22/Test22/7308
 #EXTINF:-1,Polsat_Sport_Extra_HD 🇵🇱
 http://194.76.186.151:20001/play/Polsat_Sport_Extra_HD
 
-#EXTINF:-1,Polsat Sport Premium 1 🇵🇱
-http://45.92.69.203:1982/play/a06d
-
-#EXTINF:-1,Polsat Sport Premium 2 🇵🇱
-http://45.92.69.203:1982/play/a06e
-
-#EXTINF:-1, Eleven Sports 1 HD 🇵🇱
-http://45.92.69.203:1983/play/a0ou
-
-#EXTINF:-1,ELEVEN Sport 1 HD 🇵🇱
-http://91.132.172.169:8000/play/a02o/index.m3u8
-
-#EXTINF:-1, Eleven Sports 2 HD 🇵🇱
-http://45.92.69.203:1983/play/a0p1
-
-#EXTINF:-1, Eleven Sports 2 HD 🇵🇱
-http://45.92.69.203:1983/play/a0om
-
-#EXTINF:-1,ELEVEN Sport 2 HD 🇵🇱
-http://91.132.172.169:8000/play/a02p/index.m3u8
-
-#EXTINF:-1, Eleven Sports 3 HD 🇵🇱
-http://45.92.69.203:1983/play/a0oz
-
-#EXTINF:-1, Eleven Sports 3 HD 🇵🇱
-http://45.92.69.203:1983/play/a0ox
-
-#EXTINF:-1,ELEVEN Sport 3 HD 🇵🇱
-http://91.132.172.169:8000/play/a02q/index.m3u8
-
-#EXTINF:-1,Polsat Sport HD 🇵🇱
-http://45.92.69.203:1983/play/a0rb
-
 #EXTINF:-1, SUPERSPORT 🇽🇰
 http://62.182.80.87:8081/Test22/Test22/1037
 
