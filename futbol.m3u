@@ -1530,29 +1530,5 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, beIN Sports 1 premium
-http://62.210.170.186:8080/live/TVSHQIP/FAKTESHQIP/322.m3u8
-
-#EXTINF:-1, beIN Sports 1 ID
-http://server.sibfungold.info:8080/pacha-man1/81CWlT7aD5/3244
-
-#EXTINF:-1, beIN Sports 3 ID
-https://zz@iptv.lancartech.co.id:8443/topan/54637/26
-
-#EXTINF:-1, BeIn Sports 1 Premium LT
-https://iptv.lancartech.co.id:8443/live/topan/54637/54421.ts
-
-#EXTINF:-1, BeIn Sports 1 Premium HD
-http://server.sibfungold.info:8080/pacha-man1/81CWlT7aD5/49685
-
-#EXTINF:-1, BeIn Sports 1 Premium HQ
-http://stariptv.org:8080/basma2022/123456/2762
-
-#EXTINF:-1, BeIn Sports 2 Premium HD
-http://server.sibfungold.info:8080/pacha-man1/81CWlT7aD5/49386
-
-#EXTINF:-1, BeIn Sports 3 Premium HD
-http://server.sibfungold.info:8080/pacha-man1/81CWlT7aD5/49686
-
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
