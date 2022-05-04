@@ -12,6 +12,9 @@ https://dlx1rvhnuclfo.cloudfront.net/hls/230/index.m3u8?SBN
 #EXTINF:-1, TV MAX 🇦🇷
 https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/playlist_dvr.m3u8?fbclid=IwAR2i_B1bNbjfinksiN_GAzLzRqee5FDSguDp2uVkPmDit3CJ2eiUCx2-9Fc
 
+#EXTINF:-1, CRTV 1 🇦🇷
+https://www.dailymotion.com/cdn/live/video/x84zx30.m3u8?sec=t4aWFmqT_gwzV9tIl1h8vqeglERGuhVbWcfV79JO2CMS4b7NY_-sXnI8NF2FkOPoHvx-NqIvVg845LdXgP9dCg&dmTs=347651&dmV1st=9BB2D7CD23544BB144426A16207D4F3B
+
 #EXTINF:-1, BT SPORT 2 🇬🇧
 https://djwjf11yzd2i2.cloudfront.net:443/hls/btsport/chunks.m3u8
 
