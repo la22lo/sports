@@ -24,6 +24,9 @@ http://cdn5-bongakamai.xyz/live/adaptive_bong-1/live/bong-1/chunks.m3u8
 #EXTINF:-1, BT SPORT 2 🇬🇧
 https://d4e6999e0485.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.529707182583.channel.pSQTBHdjoRXH.m3u8
 
+#EXTINF:-1, BT SPORT 2 🇬🇧
+https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/LM0IZeXWU1Ow93HSKpBJxIS_jMb5p0jXuhh9uOZhFRxRZmJx_dc6s1Cpj2gxlOadF38o1SLnUYMUrWXHX2zcOQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live&justin=
+
 #EXTINF:-1, DAZN 1 🇩🇪
 http://79.143.17.78:2085/play/a0a0/index.m3u8
 
