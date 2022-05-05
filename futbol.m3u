@@ -1,38 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,SBT AO VIVO 🇧🇷
-https://evpp.mm.uol.com.br/ne10/smil:ne10.smil/chunklist_w42448997_b216000_sleng.m3u8
-
-#EXTINF:-1,TNT SPORTS 🇧🇷
-https://klive.kaltura.com/s/env/cluster-1-a.live.nvp1/live/hls/p/4611563/e/1_hz795xeq/tl/main/st/0/t/X76ST_J1ww_wXNavzw6IxQ/index-s32.m3u8?__hdnea__=st=1651685304~exp=1651771704~acl=/s/env/cluster-1-a.live.nvp1/live/hls/p/4611563/e/1_hz795xeq/tl/main/st/0/t/X76ST_J1ww_wXNavzw6IxQ/index-s32.m3u8*~hmac=77b48afee9066c2ac7f07bd1c8b9eccd6a219ee38eb365335bc2e939b157db18
-
-#EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
-
-#EXTINF:-1, Arena Sport 1 HR 🇭🇷
-http://46.29.169.15:4001/play/a002/index.m3u8|User-Agent=stream
-
-#EXTINF:-1, PRIMA SPORT 1 🇷🇴
-http://149.62.177.105:8001/play/a00e/index.m3u8
-
-#EXTINF:-1, ARENA SPORT 1 HD PREMIUM SERBIA 🇷🇸
-http://46.29.169.15:4001/play/a00g/index.m3u8?mvk
-
-#EXTINF:-1,Tring Sport 1 FHD 🇦🇱
-http://212.18.115.177:8030/play/a03p
-
-#EXTINF:-1,Sky Sport Austria 1 FHD 🇦🇹
-http://212.18.115.177:3549/play/a058
-
-#EXTINF:-1,beIN Premium 1 🇶🇦
-http://4kfhd.xyz:80/musab/2021/28
-
-#EXTINF:-1, CBC Sport 🇦🇿
-http://193.228.193.179:8000/play/a01k
-
-#EXTINF:-1, Беларусь 5 🇧🇾
-http://37.17.14.149:8910/play/a009
-
 #EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 
@@ -221,6 +188,9 @@ https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIl
 
 #EXTINF:-1,TYC SPORTS HD 🇦🇷
 http://170.83.242.153:5150/play/a04t
+
+#EXTINF:-1,SBT AO VIVO 🇧🇷
+https://evpp.mm.uol.com.br/ne10/smil:ne10.smil/chunklist_w42448997_b216000_sleng.m3u8
 
 #EXTINF:-1, TNT SPORTS 🇧🇷
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
