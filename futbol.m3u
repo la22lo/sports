@@ -1381,6 +1381,9 @@ http://212.121.249.34:8080/goltvhd/playlist.m3u8
 https://ztnr.rtve.es/ztnr/1712295.m3u8?by
 
 #EXTINF:-1, TELEDEPORTE 🇪🇸
+https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr_576.m3u8
+
+#EXTINF:-1, TELEDEPORTE 🇪🇸
 https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8
 
 #EXTINF:-1, TELEDEPORTE 🇪🇸
