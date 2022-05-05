@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, BT SPORT 2 🇬🇧
-https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/LM0IZeXWU1Ow93HSKpBJxIS_jMb5p0jXuhh9uOZhFRxRZmJx_dc6s1Cpj2gxlOadF38o1SLnUYMUrWXHX2zcOQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live&justin=
-
-#EXTINF:-1, DAZN 1 🇩🇪
-http://79.143.17.78:2085/play/a0a0/index.m3u8
-
 #EXTINF:-1,Sky Sport Austria 1 FHD 🇦🇹
 https://alplay.zhengyaning.com/xoilac/channel-1.m3u8?auth_key=1650270384-0-0-48c6ca8a63158bfe5e9a6a038b0676e2
 
@@ -473,9 +467,6 @@ http://93.152.174.144:4000/play/btsport2/index.m3u8
 
 #EXTINF:-1, BT SPORT 2 🇬🇧
 http://line.uhd-ott.com/AzamBala/A86744/103146
-
-#EXTINF:-1, BT Sport 2 🇬🇧
-https://f62522e7b594.us-west-2.playback.live-video.net/api/video/v1/us-west-2.392623997366.channel.xvKDvDt4WpvM.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIyIDY6MDg6MzAgUE0maGFzaF92YWx1ZT13Qi8ra29jWGMyWDMyZGYyU2U4b1h3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xNjIuMTU4LjE3OC4xNzcmc3RybV9sZW49NQ==
 
 #EXTINF:-1, BT SPORT 2 🇬🇧
 http://cdn5-bongakamai.xyz/live/adaptive_bong-1/live/bong-1/chunks.m3u8
