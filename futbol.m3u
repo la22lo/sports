@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,Sky Sport Austria 1 FHD 🇦🇹
-https://alplay.zhengyaning.com/xoilac/channel-1.m3u8?auth_key=1650270384-0-0-48c6ca8a63158bfe5e9a6a038b0676e2
-
-#EXTINF:-1, HRT 2 🇭🇷
-http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
-
 #EXTINF:-1,SBT AO VIVO 🇧🇷
 https://evpp.mm.uol.com.br/ne10/smil:ne10.smil/chunklist_w42448997_b216000_sleng.m3u8
 
@@ -821,6 +815,9 @@ http://46.29.169.15:4001/play/a00s/index.m3u8
 
 #EXTINF:-1,HRT2 🇭🇷
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
+
+#EXTINF:-1, HRT 2 🇭🇷
+http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
 
 #EXTINF:-1,SPORTSKA TV 🇭🇷
 http://62.182.80.87:8081/Test22/Test22/1139
