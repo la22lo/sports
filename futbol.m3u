@@ -1,29 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, UNIVISION 🇦🇷
-https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
-
-#EXTINF:-1, ATV VIVO 🇵🇪
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
-
-#EXTINF:-1, FOX SPORTS VIVO 🇦🇷
-https://dlx1rvhnuclfo.cloudfront.net/hls/230/index.m3u8?SBN
-
-#EXTINF:-1, TV MAX 🇦🇷
-https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/playlist_dvr.m3u8?fbclid=IwAR2i_B1bNbjfinksiN_GAzLzRqee5FDSguDp2uVkPmDit3CJ2eiUCx2-9Fc
-
-#EXTINF:-1, BT SPORT 2 🇬🇧
-https://djwjf11yzd2i2.cloudfront.net:443/hls/btsport/chunks.m3u8
-
-#EXTINF:-1, BT SPORT 2 🇬🇧
-https://ppv.gcdn.co/FOOT1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, BT SPORT 2 🇬🇧
-http://cdn5-bongakamai.xyz/live/adaptive_bong-1/live/bong-1/chunks.m3u8
-
-#EXTINF:-1, BT SPORT 2 🇬🇧
-https://d4e6999e0485.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.529707182583.channel.pSQTBHdjoRXH.m3u8
-
 #EXTINF:-1, BT SPORT 2 🇬🇧
 https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/LM0IZeXWU1Ow93HSKpBJxIS_jMb5p0jXuhh9uOZhFRxRZmJx_dc6s1Cpj2gxlOadF38o1SLnUYMUrWXHX2zcOQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live&justin=
 
@@ -248,6 +224,12 @@ https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/60580
 
 #EXTINF:-1, TV MAX 🇦🇷
 https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/963e14317afb436484576a46b28c8fd7/playlist_dvr_ssaiM.m3u8
+
+#EXTINF:-1, TV MAX 🇦🇷
+https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/playlist_dvr.m3u8?fbclid=IwAR2i_B1bNbjfinksiN_GAzLzRqee5FDSguDp2uVkPmDit3CJ2eiUCx2-9Fc
+
+#EXTINF:-1, UNIVISION 🇦🇷
+https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
 
 #EXTINF:-1,TYC SPORTS HD 🇦🇷
 http://170.83.242.153:5150/play/a04t
@@ -494,6 +476,9 @@ http://line.uhd-ott.com/AzamBala/A86744/103146
 
 #EXTINF:-1, BT Sport 2 🇬🇧
 https://f62522e7b594.us-west-2.playback.live-video.net/api/video/v1/us-west-2.392623997366.channel.xvKDvDt4WpvM.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIyIDY6MDg6MzAgUE0maGFzaF92YWx1ZT13Qi8ra29jWGMyWDMyZGYyU2U4b1h3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xNjIuMTU4LjE3OC4xNzcmc3RybV9sZW49NQ==
+
+#EXTINF:-1, BT SPORT 2 🇬🇧
+http://cdn5-bongakamai.xyz/live/adaptive_bong-1/live/bong-1/chunks.m3u8
 
 #EXTINF:-1, BT SPORT 3 🇬🇧
 http://93.152.174.144:4000/play/btsport3/index.m3u8
