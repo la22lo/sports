@@ -1491,5 +1491,8 @@ http://iptv.tvmalaysia.cc:80/136915/136915/6748
 #EXTINF:-1, beIN MAX 2 MAL
 http://iptv.tvmalaysia.cc:80/136915/136915/7195
 
+#EXTINF:-1, SuperSport La Liga
+http://iptv.tvmalaysia.cc:80/136915/136915/6575
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
