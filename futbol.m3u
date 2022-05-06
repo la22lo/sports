@@ -516,6 +516,9 @@ http://pakiptv.top:8880/8767/8767/9667
 #EXTINF:-1, ZQ SPORTS 🇬🇧
 https://cdn.underfront.org/zqsport/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, ZQ SPORTS LIVE 🇬🇧
+https://cdn.underfront.org/zqfb/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, ESPN USA 🇺🇸
 http://69.164.224.53:80/ESPN/mpegts
 
