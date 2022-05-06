@@ -1029,6 +1029,18 @@ http://84.42.140.147:8890/hdmi
 #EXTINF:-1, SPORT PREMIUM 🇨🇿 
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 
+#EXTINF:-1, TV3 SPORT 🇱🇹
+http://psaoju7q.megatv.fun/iptv/4YM3MS42ZQ6DKP/6417/index.m3u8
+
+#EXTINF:-1, TV3 SPORT 2 🇱🇹
+http://psaoju7q.megatv.fun/iptv/4YM3MS42ZQ6DKP/6418/index.m3u8
+
+#EXTINF:-1,SPORT 1 🇱🇹
+http://psaoju7q.megatv.fun/iptv/4YM3MS42ZQ6DKP/6366/index.m3u8
+
+#EXTINF:-1, TV3 SPORT 3 🇱🇹
+http://psaoju7q.megatv.fun/iptv/4YM3MS42ZQ6DKP/6408/index.m3u8
+
 #EXTINF:-1, EUROSPORT 1 🇬🇧
 http://185.204.32.4:9981/stream/channelid/577840136
 
