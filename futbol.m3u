@@ -1302,6 +1302,9 @@ http://cdn.socolacdn.online:8080/onsporttv/mpegts
 #EXTINF:-1, SMARTSPOR HD  🇹🇷
 http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/48242.ts
 
+#EXTINF:-1, TURMEKISTAN SPORT  🇹🇷
+http://217.174.225.146/hls/ch004_720/index.m3u8?shareext.ts
+
 #EXTINF:-1,S SPORT 2 🇹🇷
 http://nx4545.xyz:80/live/ademgumus/ademgumus/35.ts
 
