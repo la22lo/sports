@@ -6,6 +6,9 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 #EXTINF:-1,ELEVEN SPORTS 2 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
 
+#EXTINF:-1, Supersport LaLiga 🇬🇧
+http://185.145.43.244:8000/play/a00d/index.m3u8
+
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
 
@@ -411,6 +414,12 @@ http://revteam2.offshorerev.cc/SPIDER_F2lOt6/pg0lOTBRwa/100694
 #EXTINF:-1, beIN Sports 2 French 🇫🇷
 http://revteam2.offshorerev.cc/_JxV8Dq/0wiwPzWeCU/100695
 
+#EXTINF:-1, RMC SPORT_1 HD 🇫🇷
+http://pakiptv.top:8880/8767/8767/86720
+
+#EXTINF:-1, beinSports_English_1 🇬🇧
+http://185.145.43.244:8000/play/a00l/index.m3u8
+
 #EXTINF:-1,BEIN SPORTS 01 HD EN 🇬🇧
 http://revteam2.offshorerev.cc/_JxV8Dq/0wiwPzWeCU/86606
 
@@ -423,11 +432,14 @@ http://4kfhd.xyz:80/musab/2021/33
 #EXTINF:-1,BEIN SPORTS 02 HD EN 🇬🇧
 http://revteam2.offshorerev.cc/_JxV8Dq/0wiwPzWeCU/86603
 
+#EXTINF:-1, BT Sport 1 🇬🇧
+http://pakiptv.top:8880/8767/8767/90205
+
 #EXTINF:-1, BT Sport 2 🇬🇧
-https://zz@iptv.lancartech.co.id:8443/topan/54637/86857
+http://pakiptv.top:8880/8767/8767/9641
 
 #EXTINF:-1, BT Sport 3 🇬🇧
-https://zz@iptv.lancartech.co.id:8443/topan/54637/86858
+http://pakiptv.top:8880/8767/8767/97273
 
 #EXTINF:-1, BT SPORT 1 🇬🇧
 http://93.152.174.144:4000/play/btsport1/index.m3u8
@@ -447,8 +459,11 @@ http://93.152.174.144:4000/play/btsport3/index.m3u8
 #EXTINF:-1, BT SPORT ESPNHD 🇬🇧
 http://93.152.174.144:4000/play/btsportespn/index.m3u8
 
+#EXTINF:-1, BT SPORT ESPNHD 🇬🇧
+http://pakiptv.top:8880/8767/8767/9643
+
 #EXTINF:-1, SUPER GRANDSTAND 🇬🇧
-http://mykingtv.net:2082/Yapang98/Dragon98/12747
+http://185.145.43.244:8000/play/a008/index.m3u8
  
 #EXTINF:-1, Supersport_PremierLeague 🇬🇧
 http://pakiptv.top:8880/8767/8767/57009
@@ -473,6 +488,12 @@ http://pakiptv.top:8880/8767/8767/57026
 
 #EXTINF:-1, Supersport_Variety 4 🇬🇧
 http://pakiptv.top:8880/8767/8767/57027
+
+#EXTINF:-1, PREMIER_SPORTS_1 HD 🇬🇧
+http://pakiptv.top:8880/8767/8767/7589
+
+#EXTINF:-1, PREMIER_SPORTS_2 HD 🇬🇧
+http://pakiptv.top:8880/8767/8767/9667
 
 #EXTINF:-1, ESPN USA 🇺🇸
 http://69.164.224.53:80/ESPN/mpegts
@@ -1187,6 +1208,18 @@ http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 
 #EXTINF:-1, CANAL CHINO 6 CCTV5+Sport 🇨🇳
 http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+
+#EXTINF:-1, J_sport_1 🇨🇳
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1, J_sport_2 🇨🇳
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1, J_sport_3 🇨🇳
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1, J_sport_4 🇨🇳
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1, TVRI SPORTS INDONESIA 🇮🇩
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
