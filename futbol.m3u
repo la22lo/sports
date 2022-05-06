@@ -1482,5 +1482,11 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1, BeinLiga1
+http://203.159.95.172:8081/live/bein01/chunks.m3u8
+
+#EXTINF:-1, BeinLiga2
+http://203.159.95.172:8081/live/bein02/chunks.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
