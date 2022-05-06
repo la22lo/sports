@@ -142,6 +142,18 @@ http://ytv.plus:25461/live/Maria/1234/17318.m3u8
 http://smartstalker-raid-play.com:8080/marcos1/marcos1/112098
 
 #EXTINF:-1,ESPN HD 🇦🇷
+http://45.225.95.170:8000/play/a0mg/index.m3u8
+
+#EXTINF:-1,ESPN 2 HD 🇦🇷
+http://45.225.95.170:8000/play/a0j9/index.m3u8
+
+#EXTINF:-1,ESPN 3 HD 🇦🇷
+http://45.225.95.170:8000/play/a0kx/index.m3u8
+
+#EXTINF:-1,ESPN 4 HD 🇦🇷
+http://45.225.95.170:8000/play/a0ob/index.m3u8
+
+#EXTINF:-1,ESPN HD 🇦🇷
 http://170.83.242.153:5150/play/a05h
 
 #EXTINF:-1,ESPN 2 HD 🇦🇷
