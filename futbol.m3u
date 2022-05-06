@@ -114,6 +114,9 @@ http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJOM9-HqsaWnxwL_OyUXGh1I/ts
 #EXTINF:-1, VAMOS 🇪🇸
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJPAjWOIDxuxDjnIofO3MYFA/ts
 
+#EXTINF:-1, M liga Campeones 🇪🇸
+http://psaoju7q.megatv.fun/iptv/4YM3MS42ZQ6DKP/2543/index.m3u8
+
 #EXTINF:-1, MMN HD SPORT 🇮🇶
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
 
@@ -1236,11 +1239,17 @@ http://212.18.115.177:4042/play/a00v/index.m3u8
 #EXTINF:-1,Play Sports 5 🇧🇪
 http://212.18.115.177:4042/play/a00w/index.m3u8
 
-#EXTINF:-1,TV 2 Sport dk
+#EXTINF:-1,TV 2 Sport 🇩🇰
 http://87.104.30.134:6040/play/a00q/index.m3u8
 
-#EXTINF:-1,TV3 Sport dk
+#EXTINF:-1,TV3 Sport 🇩🇰
 http://87.104.30.134:6040/play/a02g/index.m3u8
+
+#EXTINF:-1,TV 2 Sport 🇳🇴
+http://psaoju7q.megatv.fun/iptv/4YM3MS42ZQ6DKP/2540/index.m3u8
+
+#EXTINF:-1,C MORE Sport 🇫🇮
+http://psaoju7q.megatv.fun/iptv/4YM3MS42ZQ6DKP/2541/index.m3u8
 
 #EXTINF:-1,YES Sport5 + FHD 🇮🇱
 http://193.228.193.179:8000/play/a04t
