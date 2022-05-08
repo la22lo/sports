@@ -15,11 +15,17 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
 #EXTINF:-1, Supersport LaLiga 🇬🇧
 http://185.145.43.244:8000/play/a00d/index.m3u8
 
+#EXTINF:-1, Supersport LaLiga 🇬🇧
+http://uoa5r057a.ovocloud.site/live/abr_s-4/live/s-4/chunks.m3u8
+
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
 
 #EXTINF:-1, Supersport_LaLiga 🇬🇧
 http://pakiptv.top:8880/8767/8767/57011
+
+#EXTINF:-1, CANAL + SPORT
+https://rmue2hq1pcliv.vcdn.cloud/1938c8c59121dbfd2fe47018f6f2debf/1652053504441/en7hf6r/index.m3u8
 
 #EXTINF:-1,BEIN 1 K 🇶🇦
 http://revteam2.offshorerev.cc/SPIDER_F2lOt6/pg0lOTBRwa/86608
