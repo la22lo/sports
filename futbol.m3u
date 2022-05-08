@@ -1,5 +1,26 @@
 #EXTM3U
 
+#EXTINF:-1, DirecTV Sports 🇦🇷
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+
+#EXTINF:-1, DIRECTV Sports 2 🇦🇷
+http://51.222.241.122:8000/play/a03s
+
+#EXTINF:-1, DirecTV Sports 🇦🇷
+http://51.222.241.122:8000/play/a03r
+
+#EXTINF:-1, Directv 🇦🇷
+http://ytv.plus:25461/live/Maria/1234/17319.m3u8
+
+#EXTINF:-1, Directv 🇦🇷
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+
+#EXTINF:-1, Directv + 🇦🇷
+http://ytv.plus:25461/live/Maria/1234/17318.m3u8
+
+#EXTINF:-1, DIRECTV + 🇪🇨
+http://smartstalker-raid-play.com:8080/marcos1/marcos1/112098
+
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://psaoju7q.megatv.fun/iptv/4YM3MS42ZQ6DKP/6073/index.m3u8
 
