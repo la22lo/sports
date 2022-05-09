@@ -1464,5 +1464,11 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1, Матч! Футбол 2
+http://95.47.98.99:5000/play/a005/index.m3u8
+
+#EXTINF:-1, Матч! Футбол 3
+http://95.47.98.99:5000/play/a004/index.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
