@@ -27,6 +27,9 @@ http://cdn5-bongakamai.xyz/live/adaptive_bong-2/live/bong-2/chunks.m3u8
 #EXTINF:-1, LaLiga TV 🇬🇧
 https://d3joajxwrc3ti2.cloudfront.net/stream/NDIyOA==/1080p.m3u8
 
+#EXTINF:-1, LaLiga TV 🇬🇧
+http://stream.pizztv.com:8000/live/6cmK6b6KUcZk/Pwvjzr8mArsW/284.m3u8
+
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
 
