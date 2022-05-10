@@ -3,14 +3,14 @@
 #EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 
+#EXTINF:-1,ELEVEN SPORTS 2 🇵🇹
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
+
 #EXTINF:-1, Eleven Sport 1 HD PT 🇵🇹
 http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/51927
 
 #EXTINF:-1, Eleven Sport 2 HD PT 🇵🇹
 http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/51926
-
-#EXTINF:-1,ELEVEN SPORTS 2 🇵🇹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
 
 #EXTINF:-1, Supersport LaLiga 🇬🇧
 http://185.145.43.244:8000/play/a00d/index.m3u8
@@ -405,6 +405,18 @@ http://93.152.174.144:4000/play/bein3fr/index.m3u8
 #EXTINF:-1, RMC SPORT_1 HD 🇫🇷
 http://pakiptv.top:8880/8767/8767/86720
 
+#EXTINF:-1, RMC SPORT_1 HD 🇫🇷
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/625226
+
+#EXTINF:-1, RMC SPORT_2 HD 🇫🇷
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/682955
+
+#EXTINF:-1, RMC SPORT_3 HD 🇫🇷
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/625233
+
+#EXTINF:-1, RMC SPORT_4 HD 🇫🇷
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/682961
+
 #EXTINF:-1, beinSports_English_1 🇬🇧
 http://185.145.43.244:8000/play/a00l/index.m3u8
 
@@ -437,6 +449,9 @@ http://pakiptv.top:8880/8767/8767/9643
 
 #EXTINF:-1, SUPER GRANDSTAND 🇬🇧
 http://185.145.43.244:8000/play/a008/index.m3u8
+
+#EXTINF:-1, SUPER GRANDSTAND 🇬🇧
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/678031
  
 #EXTINF:-1, Supersport_PremierLeague 🇬🇧
 http://pakiptv.top:8880/8767/8767/57009
