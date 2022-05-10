@@ -3,6 +3,12 @@
 #EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 
+#EXTINF:-1, Eleven Sport 1 HD PT 🇵🇹
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/51927
+
+#EXTINF:-1, Eleven Sport 2 HD PT 🇵🇹
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/51926
+
 #EXTINF:-1,ELEVEN SPORTS 2 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
 
@@ -245,6 +251,24 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 
 #EXTINF:-1,ELEVEN SPORTS 6 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6
+
+#EXTINF:-1, Eleven Sport 1 HD PT 🇵🇹
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/51927
+
+#EXTINF:-1, Eleven Sport 2 HD PT 🇵🇹
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/51926
+
+#EXTINF:-1, Eleven Sport 3 HD PT 🇵🇹
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/691332
+
+#EXTINF:-1, Eleven Sport 4 HD PT 🇵🇹
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/51924
+
+#EXTINF:-1, Eleven Sport 5 HD PT 🇵🇹
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/51923
+
+#EXTINF:-1, Eleven Sport 6 HD PT 🇵🇹
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/51922
 
 #EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJIlbAuux2Qjgom4M0Y1VZBc/ts
