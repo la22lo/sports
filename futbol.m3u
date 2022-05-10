@@ -306,6 +306,24 @@ http://89.114.126.46:4000/play/a00a
 #EXTINF:-1,Sport TV 6 HD 🇵🇹
 http://89.114.126.46:4000/play/a00b
 
+#EXTINF:-1, beIN Sports 1 Premium 🇶🇦
+http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/index.m3u8
+
+#EXTINF:-1, beIN Sports 2 Premium 🇶🇦
+http://217.74.16.155:8082/local/ar-s/B-S-pre-2-stop/index.m3u8
+
+#EXTINF:-1, beIN Sports 3 Premium 🇶🇦
+http://217.74.16.155:8082/local/ar-s/B-S-pre-3-stop/index.m3u8
+
+#EXTINF:-1, beIN Sports AFC 1 🇶🇦
+http://217.74.16.155:8082/local/ar-s/bein-afc-1/index.m3u8
+
+#EXTINF:-1, beIN Sports AFC 2 🇶🇦
+http://217.74.16.155:8082/local/ar-s/bein-afc-2/index.m3u8
+
+#EXTINF:-1, beIN Sports AFC 3 🇶🇦
+http://217.74.16.155:8082/local/ar-s/bein-afc-3/index.m3u8
+
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
