@@ -426,8 +426,14 @@ http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8
 #EXTINF:-1,Super Sport 1 FHD 🇦🇱
 http://212.18.115.177:8030/play/a03w
 
+#EXTINF:-1,Super Sport 1 🇦🇱
+http://45.58.122.106:8081/live/ss1/playlist.m3u8
+
 #EXTINF:-1,Super Sport 2 FHD 🇦🇱
 http://212.18.115.177:8030/play/a03x
+
+#EXTINF:-1,Super Sport 2 🇦🇱
+http://45.58.122.106:8081/live/ss2/playlist.m3u8
 
 #EXTINF:-1,Super Sport 2 🇦🇱
 http://212.18.115.177:8030/play/a020
@@ -435,8 +441,14 @@ http://212.18.115.177:8030/play/a020
 #EXTINF:-1,Super Sport 3 FHD 🇦🇱
 http://212.18.115.177:8030/play/a03y
 
+#EXTINF:-1,Super Sport 3 🇦🇱
+http://45.58.122.106:8081/live/ss3/playlist.m3u8
+
 #EXTINF:-1,Super Sport 4 FHD 🇦🇱
 http://212.18.115.177:8030/play/a03z
+
+#EXTINF:-1,Super Sport 4 🇦🇱
+http://45.58.122.106:8081/live/ss4/playlist.m3u8
 
 #EXTINF:-1,Super Sport 5 FHD 🇦🇱
 http://212.18.115.177:8030/play/a040
