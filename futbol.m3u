@@ -6,8 +6,14 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 #EXTINF:-1,ELEVEN SPORTS 2 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
 
+#EXTINF:-1,ESPN 4 HD 🇦🇷
+https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/3KV1fErA8aJ7KxrAr9f-crL0J2VyKpumz-SiV7F4Ot12dH-bWQBrGFVtjEXR6_6q8ZY9O3qo4KE_lQJg4erqJA/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
+
 #EXTINF:-1, Supersport LaLiga 🇬🇧
 http://185.145.43.244:8000/play/a00d/index.m3u8
+
+#EXTINF:-1, S LaLiga 🇬🇧
+http://cdn5-bongakamai.xyz/live/adaptive_bong-2/live/bong-2/chunks.m3u8
 
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
