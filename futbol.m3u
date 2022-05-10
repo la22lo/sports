@@ -15,6 +15,9 @@ http://185.145.43.244:8000/play/a00d/index.m3u8
 #EXTINF:-1, SuperSport Football HD 🇬🇧
 http://stream.pizztv.com:8000/live/6cmK6b6KUcZk/Pwvjzr8mArsW/15.m3u8
 
+#EXTINF:-1, beIN Sports 1 🇶🇦
+http://stream.pizztv.com:8000/live/6cmK6b6KUcZk/Pwvjzr8mArsW/1.m3u8
+
 #EXTINF:-1, BEIN SPORT 1 TRUE VISIONS 🇲🇾
 http://4digital.ddns.net:11222/ts/0
 
@@ -489,8 +492,14 @@ http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/683001
 #EXTINF:-1, SuperSport_MaXimo 🇬🇧
 http://pakiptv.top:8880/8767/8767/57016
 
+#EXTINF:-1, SuperSport_MaXimo 🇬🇧
+http://stream.pizztv.com:8000/live/6cmK6b6KUcZk/Pwvjzr8mArsW/304.m3u8
+
 #EXTINF:-1, Supersport_Motorsport 🇬🇧
 http://pakiptv.top:8880/8767/8767/57020
+
+#EXTINF:-1, Supersport_Motorsport 🇬🇧
+http://stream.pizztv.com:8000/live/6cmK6b6KUcZk/Pwvjzr8mArsW/306.m3u8
 
 #EXTINF:-1, Supersport_PSL 🇬🇧
 http://pakiptv.top:8880/8767/8767/57021
@@ -500,6 +509,18 @@ http://pakiptv.top:8880/8767/8767/57026
 
 #EXTINF:-1, Supersport_Variety 4 🇬🇧
 http://pakiptv.top:8880/8767/8767/57027
+
+#EXTINF:-1, SuperSport Variety 1 HD 🇬🇧
+http://stream.pizztv.com:8000/live/6cmK6b6KUcZk/Pwvjzr8mArsW/20.m3u8
+
+#EXTINF:-1, SuperSport Variety 2 HD 🇬🇧
+http://stream.pizztv.com:8000/live/6cmK6b6KUcZk/Pwvjzr8mArsW/21.m3u8
+
+#EXTINF:-1, SuperSport Variety 3 HD 🇬🇧
+http://stream.pizztv.com:8000/live/6cmK6b6KUcZk/Pwvjzr8mArsW/22.m3u8
+
+#EXTINF:-1, SuperSport Variety 4 HD 🇬🇧
+http://stream.pizztv.com:8000/live/6cmK6b6KUcZk/Pwvjzr8mArsW/23.m3u8
 
 #EXTINF:-1, PREMIER_SPORTS_1 HD 🇬🇧
 http://pakiptv.top:8880/8767/8767/7589
@@ -1482,8 +1503,11 @@ https://alplay.zhengyaning.com/xoilac/channel-1.m3u8?auth_key=1650270384-0-0-48c
 #EXTINF:-1, ZHENG 7
 https://alplay.zhengyaning.com/xoilac/channel-7.m3u8?auth_key=1650270660-0-0-7fc1765f80325a79ba7c47bc03cd3cc7
 
-#EXTINF:-1, O2 TV Tennis HD
+#EXTINF:-1, O2 TV Tennis HD 🇨🇿 
 http://84.42.140.148:8880/hdmi
+
+#EXTINF:-1, SUPERSPORT TENNIS 🇬🇧
+http://stream.pizztv.com:8000/live/6cmK6b6KUcZk/Pwvjzr8mArsW/206.m3u8
 
 #EXTINF:-1, TENNIS SK1 🇭🇷
 http://46.29.169.15:4001/play/a001/index.m3u8?shareext.ts
