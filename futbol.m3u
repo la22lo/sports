@@ -327,6 +327,21 @@ http://89.114.126.46:4000/play/a00a
 #EXTINF:-1,Sport TV 6 HD 🇵🇹
 http://89.114.126.46:4000/play/a00b
 
+#EXTINF:-1, Sport TV 1 HD PT 🇵🇹
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/13096
+
+#EXTINF:-1, Sport TV 2 HD PT 🇵🇹
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/8814
+
+#EXTINF:-1, Sport TV 3 HD PT 🇵🇹
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/8813
+
+#EXTINF:-1, Sport TV 4 HD PT 🇵🇹
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7479
+
+#EXTINF:-1, Sport TV 5 HD PT 🇵🇹
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/8812
+
 #EXTINF:-1, beIN Sports 1 Premium 🇶🇦
 http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/index.m3u8
 
