@@ -72,12 +72,6 @@ http://195.189.60.252:3109/play/a03a
 #EXTINF:-1, DAZN 1 🇩🇪
 http://79.143.17.78:2085/play/a0a0/index.m3u8
 
-#EXTINF:-1, DAZN 1 🇩🇪
-http://62.182.80.87:8081/Test22/Test22/907
-
-#EXTINF:-1, DAZN 2 🇩🇪
-http://62.182.80.87:8081/Test22/Test22/908
-
 #EXTINF:-1,DAZN 1 BAR HD 🇩🇪
 http://212.18.115.177:3549/play/a04u
 
@@ -428,18 +422,6 @@ http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8
 
 #EXTINF:-1, ESPN 2 USA 🇺🇸
 http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8
- 
-#EXTINF:-1, SUPERSPORT 1 🇦🇱
-http://62.182.80.87:8081/Test22/Test22/1018
-
-#EXTINF:-1, SUPERSPORT 2 🇦🇱
-http://62.182.80.87:8081/Test22/Test22/1019
-
-#EXTINF:-1, SUPERSPORT 3 🇦🇱
-http://62.182.80.87:8081/Test22/Test22/1020
-
-#EXTINF:-1, SUPERSPORT 4 🇦🇱
-http://62.182.80.87:8081/Test22/Test22/1021
 
 #EXTINF:-1,Super Sport 1 FHD 🇦🇱
 http://212.18.115.177:8030/play/a03w
@@ -501,59 +483,14 @@ http://91.132.172.169:8000/play/a01r/index.m3u8
 #EXTINF:-1,SPORT 3 HD 🇦🇱
 http://91.132.172.169:8000/play/a01s/index.m3u8
 
-#EXTINF:-1, ELEVEN SPORT 1 POLONIA 🇵🇱
-http://62.182.80.87:8081/Test22/Test22/7389
-
-#EXTINF:-1, ELEVEN SPORT 2 POLONIA 🇵🇱
-http://62.182.80.87:8081/Test22/Test22/7388
-
-#EXTINF:-1, ELEVEN SPORT 3 POLONIA 🇵🇱
-http://62.182.80.87:8081/Test22/Test22/7387
-
-#EXTINF:-1, ELEVEN SPORT 4 POLONIA 🇵🇱
-http://62.182.80.87:8081/Test22/Test22/7386
-
-#EXTINF:-1, POLSAT + SPORT 1 🇵🇱
-http://62.182.80.87:8081/Test22/Test22/7413
-
-#EXTINF:-1, POLSAT + SPORT 2 🇵🇱
-http://62.182.80.87:8081/Test22/Test22/7416
-
-#EXTINF:-1, POLSAT + SPORT 3 🇵🇱
-http://62.182.80.87:8081/Test22/Test22/7415
-
-#EXTINF:-1, POLSAT + SPORT 4 🇵🇱
-http://62.182.80.87:8081/Test22/Test22/7414
-
-#EXTINF:-1, POLSAT SPORT 🇵🇱
-http://62.182.80.87:8081/Test22/Test22/7314
-
 #EXTINF:-1,Polsat_Sport_HD 🇵🇱
 http://194.76.186.151:20001/play/Polsat_Sport_HD
-
-#EXTINF:-1, POLSAT SPORT PREMIUM 1 🇵🇱
-http://62.182.80.87:8081/Test22/Test22/7311
-
-#EXTINF:-1, POLSAT SPORT PREMIUM 2 🇵🇱
-http://62.182.80.87:8081/Test22/Test22/7310
-
-#EXTINF:-1, POLSAT SPORT PREMIUM 3 🇵🇱
-http://62.182.80.87:8081/Test22/Test22/7309
-
-#EXTINF:-1, POLSAT SPORT PREMIUM 4 🇵🇱
-http://62.182.80.87:8081/Test22/Test22/7308
 
 #EXTINF:-1,Polsat_Sport_Extra_HD 🇵🇱
 http://194.76.186.151:20001/play/Polsat_Sport_Extra_HD
 
 #EXTINF:-1, PRIMA SPORT 1 🇷🇴
-http://62.182.80.87:8081/Test22/Test22/7050
-
-#EXTINF:-1, PRIMA SPORT 1 🇷🇴
 http://149.62.177.105:8001/play/a00e/index.m3u8
-
-#EXTINF:-1, PRIMA SPORT 2 🇷🇴
-http://62.182.80.87:8081/Test22/Test22/7051
 
 #EXTINF:-1,Prima Sport 2 🇷🇴
 http://89.40.98.69:8523/play/a07k/index.m3u8
@@ -567,32 +504,8 @@ http://149.62.177.105:8001/play/a00m/index.m3u8
 #EXTINF:-1, PRIMA SPORT 4 🇷🇴
 http://149.62.177.105:8001/play/a00f/index.m3u8
 
-#EXTINF:-1, DIGI SPORT 1 🇷🇴
-http://62.182.80.87:8081/Test22/Test22/7014
-
-#EXTINF:-1, DIGI SPORT 2 🇷🇴
-http://62.182.80.87:8081/Test22/Test22/7016
-
 #EXTINF:-1,#202 DIGISPORT 2 HD 🇷🇴
 http://89.40.196.6:8004/play/a002
-
-#EXTINF:-1, DIGI SPORT 3 🇷🇴
-http://62.182.80.87:8081/Test22/Test22/7018
-
-#EXTINF:-1, DIGI SPORT 4 🇷🇴
-http://62.182.80.87:8081/Test22/Test22/7020
-
-#EXTINF:-1, ORANGE SPORT 1 🇷🇴
-http://62.182.80.87:8081/Test22/Test22/7068
-
-#EXTINF:-1, ORANGE SPORT 2 🇷🇴
-http://62.182.80.87:8081/Test22/Test22/7069
-
-#EXTINF:-1, ORANGE SPORT 3 🇷🇴
-http://62.182.80.87:8081/Test22/Test22/7070
-
-#EXTINF:-1, ORANGE SPORT 4 🇷🇴
-http://62.182.80.87:8081/Test22/Test22/7071
 
 #EXTINF:-1, ARENA SPORT 1 PREMIUM 🇷🇸
 http://46.29.169.15:4001/play/a00g/index.m3u8
@@ -687,9 +600,6 @@ http://194.15.225.98:8000/play/a2qt
 #EXTINF:-1,SportKlub Start 🇷🇸
 http://185.205.201.101:8024/play/a05o
 
-#EXTINF:-1,NOVA SPORT 🇷🇸
-http://62.182.80.87:8081/Test22/Test22/1248
-
 #EXTINF:-1,RTSH SPORT 🇦🇱
 http://185.204.32.4:9981/stream/channelid/1261192802|User-Agent=stream
 
@@ -771,29 +681,14 @@ http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
 #EXTINF:-1, HRT 2 🇭🇷
 http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
 
-#EXTINF:-1,SPORTSKA TV 🇭🇷
-http://62.182.80.87:8081/Test22/Test22/1139
-
 #EXTINF:-1,Nova Bosnia HD
 http://91.132.74.194:7374/play/a00f/index.m3u8
-
-#EXTINF:-1,SPORT TV 1 🇸🇰
-http://62.182.80.87:8081/Test22/Test22/1140
-
-#EXTINF:-1,SPORT TV 2 🇸🇰
-http://62.182.80.87:8081/Test22/Test22/1141
-
-#EXTINF:-1,SPORT TV 3 🇸🇰
-http://62.182.80.87:8081/Test22/Test22/1142
 
 #EXTINF:-1, RTK1 KOSOVO 🇽🇰
 http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8?
 
 #EXTINF:-1, RTK1 ALBANIA 🇦🇱
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
-
-#EXTINF:-1, NOVA SPORT 🇧🇬
-http://62.182.80.87:8081/Test22/Test22/7849
 
 #EXTINF:-1,Nova Sport 🇧🇬
 http://88.213.209.230:6060/play/Nova_Sport
@@ -815,9 +710,6 @@ http://88.213.209.230:6060/play/MAX_Sport_2_HD
 
 #EXTINF:-1,MAX sport 3 🇧🇬
 http://88.213.209.230:6060/play/MAX_sport_3
-
-#EXTINF:-1, MAX SPORT 3 🇧🇬
-http://62.182.80.87:8081/Test22/Test22/7868
 
 #EXTINF:-1,MAX sport 3 🇧🇬
 http://46.40.90.163:13001/play/a04a
@@ -858,9 +750,6 @@ http://88.213.209.230:6060/play/Diema_Sport
 #EXTINF:-1,Diema Sport HD 🇧🇬
 http://88.213.209.230:6060/play/Diema_Sport_HD
 
-#EXTINF:-1, DIEMA SPORT 1 🇧🇬
-http://62.182.80.87:8081/Test22/Test22/7900
-
 #EXTINF:-1,Diema Sport 1 🇧🇬
 http://62.73.127.98:9797/play/a007/index.m3u8
 
@@ -872,9 +761,6 @@ http://62.73.127.98:9797/play/a00a/index.m3u8
 
 #EXTINF:-1,Diema Sport 2 🇧🇬
 http://62.73.127.98:9797/play/a009/index.m3u8
-
-#EXTINF:-1, DIEMA SPORT 2 🇧🇬
-http://62.182.80.87:8081/Test22/Test22/7899
 
 #EXTINF:-1,Diema Sport 2 HD 🇧🇬
 http://46.40.90.163:13001/play/a04j
@@ -969,29 +855,17 @@ https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 #EXTINF:-1, Матч ТВ 🇷🇺
 http://85.92.123.108:6060/play/matchtv/index.m3u8
 
-#EXTINF:-1, MATH 🇷🇺
-http://62.182.80.87:8081/Test22/Test22/8205
-
 #EXTINF:-1, Матч! 🇷🇺
 http://95.47.98.99:4000/play/a01j/index.m3u8
 
 #EXTINF:-1,03 МАТЧ!🇷🇺
 http://91.234.255.242:8000/play/a011/index.m3u8
 
-#EXTINF:-1, Футбол 1 🇷🇺
-http://62.182.80.87:8081/Test22/Test22/8206
-
 #EXTINF:-1, Матч! Футбол 1 🇷🇺
 http://95.47.98.99:5300/play/a02e/index.m3u8
 
 #EXTINF:-1, Матч! Футбол 1 🇷🇺
 http://95.47.98.222:5300/play/a02e/index.m3u8
-
-#EXTINF:-1, Футбол 2 🇷🇺
-http://62.182.80.87:8081/Test22/Test22/8207
-
-#EXTINF:-1, Футбол 3 🇷🇺
-http://62.182.80.87:8081/Test22/Test22/8208
 
 #EXTINF:-1, Матч! Футбол 2 🇷🇺
 http://95.47.98.99:5000/play/a005/index.m3u8
@@ -1019,15 +893,6 @@ http://95.47.98.99:5300/play/a02l/index.m3u8
 
 #EXTINF:-1, Футбол 🇷🇺
 http://95.47.98.222:5300/play/a02l/index.m3u8
-
-#EXTINF:-1,MEGOGO 1 HD 🇺🇦
-http://lb.wisp.cat/lb0/DMEGO1_HD/video.m3u8?token=FREETVUKRAINE
-
-#EXTINF:-1,MEGOGO 2 HD 🇺🇦
-http://lb.wisp.cat/lb0/DMEGO2_HD/video.m3u8?token=FREETVUKRAINE
-
-#EXTINF:-1,MEGOGO 3 HD 🇺🇦
-http://lb.wisp.cat/lb0/DMEGO3_HD/video.m3u8?token=FREETVUKRAINE
 
 #EXTINF:-1,setanta_sports 🇺🇦
 http://195.189.60.252:3109/play/a039
@@ -1124,15 +989,6 @@ https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 
 #EXTINF:-1 , LIVE SPORT HD 🇭🇺
 http://195.222.7.26:7001/play/a00t
-
-#EXTINF:-1 , TVP SPORT 🇵🇱
-http://62.182.80.87:8081/Test22/Test22/7259
-
-#EXTINF:-1 , SKY SPORT 🇦🇹
-http://62.182.80.87:8081/Test22/Test22/875
-
-#EXTINF:-1 , ORF SPORT + 🇦🇹
-http://62.182.80.87:8081/Test22/Test22/2926
 
 #EXTINF:-1,ORF Sport+ 🇦🇹
 http://212.18.115.177:3549/play/a05f
