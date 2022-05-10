@@ -1,13 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
-http://psaoju7q.megatv.fun/iptv/4YM3MS42ZQ6DKP/6073/index.m3u8
-
 #EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
-
-#EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
-http://psaoju7q.megatv.fun/iptv/4YM3MS42ZQ6DKP/2531/index.m3u8
 
 #EXTINF:-1,ELEVEN SPORTS 2 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
@@ -32,9 +26,6 @@ http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 
 #EXTINF:-1, MTV+ HD 🇮🇳
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, MTV+ HD 🇮🇳
-http://psaoju7q.megatv.fun/iptv/4YM3MS42ZQ6DKP/6582/index.m3u8
 
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
@@ -72,32 +63,11 @@ http://134.0.113.120:8000/play/setantasports1hd/index.m3u8
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
 http://134.0.113.120:8000/play/setantasports2hd/index.m3u8
 
-#EXTINF:-1,Setanta Sports 1 HD 🇷🇺
-http://psaoju7q.megatv.fun/iptv/4YM3MS42ZQ6DKP/271/index.m3u8
-
-#EXTINF:-1,Setanta Sports 2 HD 🇷🇺
-http://psaoju7q.megatv.fun/iptv/4YM3MS42ZQ6DKP/270/index.m3u8
-
-#EXTINF:-1,setanta_sports 🇺🇦
-http://psaoju7q.megatv.fun/iptv/4YM3MS42ZQ6DKP/272/index.m3u8
-
 #EXTINF:-1,setanta_sports 🇺🇦
 http://195.189.60.252:3109/play/a039
 
 #EXTINF:-1,setanta_sports_plus 🇺🇦
 http://195.189.60.252:3109/play/a03a
-
-#EXTINF:-1,setanta_sports 🇺🇦
-http://psaoju7q.megatv.fun/iptv/4YM3MS42ZQ6DKP/5068/index.m3u8
-
-#EXTINF:-1,setanta_sports 🇺🇦
-http://psaoju7q.megatv.fun/iptv/4YM3MS42ZQ6DKP/5069/index.m3u8
-
-#EXTINF:-1,setanta_sports 2 🇺🇦
-http://psaoju7q.megatv.fun/iptv/4YM3MS42ZQ6DKP/5070/index.m3u8
-
-#EXTINF:-1,Setanta Sports 🇰🇿
-http://psaoju7q.megatv.fun/iptv/4YM3MS42ZQ6DKP/2399/index.m3u8
 
 #EXTINF:-1, DAZN 1 🇩🇪
 http://79.143.17.78:2085/play/a0a0/index.m3u8
@@ -122,9 +92,6 @@ http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJOM9-HqsaWnxwL_OyUXGh1I/ts
 
 #EXTINF:-1, VAMOS 🇪🇸
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJPAjWOIDxuxDjnIofO3MYFA/ts
-
-#EXTINF:-1, M liga Campeones 🇪🇸
-http://psaoju7q.megatv.fun/iptv/4YM3MS42ZQ6DKP/2543/index.m3u8
 
 #EXTINF:-1, MMN HD SPORT 🇮🇶
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
