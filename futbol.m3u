@@ -52,6 +52,12 @@ http://shareext@urtv.cc:80/live/104595/104595/7195.ts?shareext.ts
 http://139.99.56.106:2082/sakinah1/sakinah1/8413
 
 #EXTINF:-1,Setanta Sports 1 HD 🇷🇺
+https://livetv.mylifeisgood.ml/channels/setantahd
+
+#EXTINF:-1,Setanta Sports 2 HD 🇷🇺
+https://livetv.mylifeisgood.ml/channels/setantaplus
+
+#EXTINF:-1,Setanta Sports 1 HD 🇷🇺
 http://194.58.42.152:8000/play/setantasports1hd/index.m3u8
 
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
@@ -877,6 +883,12 @@ http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
 http://38.127.211.18/live/c2eds/RushHD/HLS/RushHD-mp4a_128000_eng=4.m3u8 
 
 #EXTINF:-1,Setanta Sports 1 HD 🇷🇺
+https://livetv.mylifeisgood.ml/channels/setantahd
+
+#EXTINF:-1,Setanta Sports 2 HD 🇷🇺
+https://livetv.mylifeisgood.ml/channels/setantaplus
+
+#EXTINF:-1,Setanta Sports 1 HD 🇷🇺
 http://194.58.42.152:8000/play/setantasports1hd/index.m3u8
 
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
@@ -890,6 +902,9 @@ http://134.0.113.120:8000/play/setantasports2hd/index.m3u8
 
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+
+#EXTINF:-1, MATH HD 🇷🇺
+http://46.174.83.66/MatchTV/index.m3u8?
 
 #EXTINF:-1, Матч ТВ 🇷🇺
 http://85.92.123.108:6060/play/matchtv/index.m3u8
