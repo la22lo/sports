@@ -39,6 +39,9 @@ http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
+#EXTINF:-1, beIN Sports 1 🇶🇦
+http://api.magiaiptv.com/live/800328/755275/m1_b3LqtPcVf80FH9zmjuIKYaSdNW4_720p
+
 #EXTINF:-1,SUPERSPORT LIGA 🇬🇧
 http://194.67.196.19/hls/103.m3u8?mvk
 
@@ -336,6 +339,12 @@ http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7479
 #EXTINF:-1, Sport TV 5 HD PT 🇵🇹
 http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/8812
 
+#EXTINF:-1,SPORT TV 1 HD 🇵🇹
+http://axcestv.vip:8080/freeview/axcestv/797
+
+#EXTINF:-1,SPORT TV 2 HD 🇵🇹
+http://axcestv.vip:8080/freeview/axcestv/798
+
 #EXTINF:-1, beIN Sports 1 Premium 🇶🇦
 http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/index.m3u8
 
@@ -414,6 +423,9 @@ http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/682961
 #EXTINF:-1, beinSports_English_1 🇬🇧
 http://185.145.43.244:8000/play/a00l/index.m3u8
 
+#EXTINF:-1, beinSports_English_1 🇬🇧
+http://103.124.110.34:8082/BEIN-SPORTS-1-HD/index.m3u8
+
 #EXTINF:-1, BT Sport 1 🇬🇧
 http://pakiptv.top:8880/8767/8767/90205
 
@@ -422,6 +434,12 @@ http://pakiptv.top:8880/8767/8767/9641
 
 #EXTINF:-1, BT Sport 3 🇬🇧
 http://pakiptv.top:8880/8767/8767/97273
+
+#EXTINF:-1, BT Sport 1 🇬🇧
+http://axcestv.vip:8080/freeview/axcestv/801
+
+#EXTINF:-1, BT Sport 2 🇬🇧
+http://axcestv.vip:8080/freeview/axcestv/802
 
 #EXTINF:-1, BT SPORT 1 🇬🇧
 http://93.152.174.144:4000/play/btsport1/index.m3u8
