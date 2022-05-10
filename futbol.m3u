@@ -1545,17 +1545,8 @@ http://stream.pizztv.com:8000/live/6cmK6b6KUcZk/Pwvjzr8mArsW/206.m3u8
 #EXTINF:-1, TENNIS SK1 🇭🇷
 http://46.29.169.15:4001/play/a001/index.m3u8?shareext.ts
 
-#EXTINF:-1, SUPERTENNIS ITALIA
+#EXTINF:-1, SUPERTENNIS ITALIA 🇮🇹
 http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686282
-
-#EXTINF:-1, TENNIS 1 PLUS 🇬🇧
-https://70.32.30.155/proxy.php/https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/f.m3u8
-
-#EXTINF:-1, TENNIS 2 PLUS 🇬🇧
-https://70.32.30.155:443/proxy.php/https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/f.m3u8
-
-#EXTINF:-1, TENNIS 3 PLUS 🇬🇧
-https://70.32.30.155/proxy.php/https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/f.m3u8
 
 #EXTINF:-1, TENNIS LIVE 2 🇬🇧
 http://Richi@stream2.grandma.fit/acc.m3u8
