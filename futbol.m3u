@@ -12,6 +12,9 @@ http://stream.pizztv.com:8000/live/6cmK6b6KUcZk/Pwvjzr8mArsW/17.m3u8
 #EXTINF:-1, Supersport LaLiga 🇬🇧
 http://185.145.43.244:8000/play/a00d/index.m3u8
 
+#EXTINF:-1, SuperSport Football HD 🇬🇧
+http://stream.pizztv.com:8000/live/6cmK6b6KUcZk/Pwvjzr8mArsW/15.m3u8
+
 #EXTINF:-1, BEIN SPORT 1 TRUE VISIONS 🇲🇾
 http://4digital.ddns.net:11222/ts/0
 
@@ -473,6 +476,9 @@ http://pakiptv.top:8880/8767/8767/57009
 
 #EXTINF:-1, Supersport_Football 🇬🇧
 http://pakiptv.top:8880/8767/8767/57010
+
+#EXTINF:-1, SuperSport Football HD 🇬🇧
+http://stream.pizztv.com:8000/live/6cmK6b6KUcZk/Pwvjzr8mArsW/15.m3u8
 
 #EXTINF:-1, Supersport_LaLiga 🇬🇧
 http://pakiptv.top:8880/8767/8767/57011
