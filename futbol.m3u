@@ -492,6 +492,9 @@ http://95.107.132.106/out/u/683_7.m3u8
 #EXTINF:-1,SPORT1 🇦🇱
 http://91.132.172.169:8000/play/a02s/index.m3u8
 
+#EXTINF:-1,SPORT 1 🇦🇱
+http://45.58.122.106:8081/live/ts1/playlist.m3u8
+
 #EXTINF:-1,SPORT 2 HD 🇦🇱
 http://91.132.172.169:8000/play/a01r/index.m3u8
 
