@@ -474,14 +474,26 @@ http://212.18.115.177:8030/play/a03q
 #EXTINF:-1,SPORT 1 HD 🇦🇱
 http://91.132.172.169:8000/play/a01q/index.m3u8
 
+#EXTINF:-1,SPORT 1 HD 🇦🇱
+http://95.107.132.106/out/u/683_7.m3u8
+
 #EXTINF:-1,SPORT1 🇦🇱
 http://91.132.172.169:8000/play/a02s/index.m3u8
 
 #EXTINF:-1,SPORT 2 HD 🇦🇱
 http://91.132.172.169:8000/play/a01r/index.m3u8
 
+#EXTINF:-1,SPORT 2 HD 🇦🇱
+http://95.107.132.106/out/u/692_7.m3u8
+
 #EXTINF:-1,SPORT 3 HD 🇦🇱
 http://91.132.172.169:8000/play/a01s/index.m3u8
+
+#EXTINF:-1,SPORT 3 HD 🇦🇱
+http://95.107.132.106/out/u/700_2.m3u8
+
+#EXTINF:-1,SPORT 4 HD 🇦🇱
+http://95.107.132.106/out/u/710_3.m3u8
 
 #EXTINF:-1,Polsat_Sport_HD 🇵🇱
 http://194.76.186.151:20001/play/Polsat_Sport_HD
