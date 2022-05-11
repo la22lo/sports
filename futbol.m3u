@@ -1545,9 +1545,6 @@ http://stream.pizztv.com:8000/live/6cmK6b6KUcZk/Pwvjzr8mArsW/206.m3u8
 #EXTINF:-1, TENNIS SK1 🇭🇷
 http://46.29.169.15:4001/play/a001/index.m3u8?shareext.ts
 
-#EXTINF:-1, SUPERTENNIS ITALIA 🇮🇹
-http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686282
-
 #EXTINF:-1, TENNIS 1 PLUS 🇬🇧
 http://stream.x10.mx/n4ie/mp.php/https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f/f.m3u8
 
