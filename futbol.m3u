@@ -810,7 +810,7 @@ http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
 #EXTINF:-1, HRT 2 🇭🇷
 http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
 
-#EXTINF:-1,Nova Bosnia HD
+#EXTINF:-1,Nova Bosnia HD 🇧🇦
 http://91.132.74.194:7374/play/a00f/index.m3u8
 
 #EXTINF:-1, RTK1 KOSOVO 🇽🇰
@@ -1053,16 +1053,16 @@ http://91.185.3.218:8000/play/204
 #EXTINF:-1,QAZSPORT HD 🇰🇿
 http://91.185.3.218:8000/play/529
 
-#EXTINF:-1, 3 SPORTS LITUANIA
+#EXTINF:-1, 3 SPORTS 🇱🇹
 http://185.44.75.203:38171/play/a00f/index.m3u8
 
-#EXTINF:-1, 3 SPORTS LITUANIA
+#EXTINF:-1, 3 SPORTS 🇱🇹
 http://185.44.75.203:38171/play/a00h/index.m3u8
 
-#EXTINF:-1, 3 SPORTS 2 LITUANIA
+#EXTINF:-1, 3 SPORTS 2 🇱🇹
 http://185.44.75.203:38171/play/a00g/index.m3u8
 
-#EXTINF:-1, 3 SPORT OPEN LITUANIA
+#EXTINF:-1, 3 SPORT OPEN 🇱🇹
 http://185.44.75.203:38171/play/a00k/index.m3u8
 
 #EXTINF:-1, CBC Sport 🇦🇿
