@@ -540,14 +540,8 @@ http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8
 #EXTINF:-1,Super Sport 1 FHD 🇦🇱
 http://212.18.115.177:8030/play/a03w
 
-#EXTINF:-1,Super Sport 1 🇦🇱
-http://45.58.122.106:8081/live/ss1/playlist.m3u8
-
 #EXTINF:-1,Super Sport 2 FHD 🇦🇱
 http://212.18.115.177:8030/play/a03x
-
-#EXTINF:-1,Super Sport 2 🇦🇱
-http://45.58.122.106:8081/live/ss2/playlist.m3u8
 
 #EXTINF:-1,Super Sport 2 🇦🇱
 http://212.18.115.177:8030/play/a020
@@ -555,14 +549,8 @@ http://212.18.115.177:8030/play/a020
 #EXTINF:-1,Super Sport 3 FHD 🇦🇱
 http://212.18.115.177:8030/play/a03y
 
-#EXTINF:-1,Super Sport 3 🇦🇱
-http://45.58.122.106:8081/live/ss3/playlist.m3u8
-
 #EXTINF:-1,Super Sport 4 FHD 🇦🇱
 http://212.18.115.177:8030/play/a03z
-
-#EXTINF:-1,Super Sport 4 🇦🇱
-http://45.58.122.106:8081/live/ss4/playlist.m3u8
 
 #EXTINF:-1,Super Sport 5 FHD 🇦🇱
 http://212.18.115.177:8030/play/a040
@@ -584,9 +572,6 @@ http://185.222.138.163:9000/play/a0tt
 
 #EXTINF:-1,K Sport 3 🇦🇱
 http://212.18.115.177:8030/play/a03l
-
-#EXTINF:-1, KUJTESA SPORT 3HD 🇦🇱
-http://185.222.138.163:9000/play/a0tu
 
 #EXTINF:-1,K Sport 4 🇦🇱
 http://212.18.115.177:8030/play/a03m
@@ -645,12 +630,6 @@ http://194.76.186.151:20001/play/Polsat_Sport_Extra_HD
 #EXTINF:-1, PRIMA SPORT 1 🇷🇴
 http://149.62.177.105:8001/play/a00e/index.m3u8
 
-#EXTINF:-1, PRIMA SPORT 1 🇷🇴
-https://rmue2hq1pcliv.vcdn.cloud/d82887142c36b0d31126b9fef399c28a/1652234737732/z9nbpht/index.m3u8?P135
-
-#EXTINF:-1,Prima Sport 2 🇷🇴
-http://89.40.98.69:8523/play/a07k/index.m3u8
-
 #EXTINF:-1, PRIMA SPORT 2 🇷🇴
 http://149.62.177.105:8001/play/a00n/index.m3u8
 
@@ -659,9 +638,6 @@ http://149.62.177.105:8001/play/a00m/index.m3u8
 
 #EXTINF:-1, PRIMA SPORT 4 🇷🇴
 http://149.62.177.105:8001/play/a00f/index.m3u8
-
-#EXTINF:-1,#202 DIGISPORT 2 HD 🇷🇴
-http://89.40.196.6:8004/play/a002
 
 #EXTINF:-1, ARENA SPORT 1 PREMIUM 🇷🇸
 http://46.29.169.15:4001/play/a00g/index.m3u8
@@ -690,7 +666,7 @@ http://46.29.169.15:4001/play/a00t/index.m3u8
 #EXTINF:-1, ARENA SPORT 2 🇷🇸
 http://46.29.169.15:4001/play/a00u/index.m3u8
 
-#EXTINF:-1,Arena 3 🇷🇸
+#EXTINF:-1,Arena Sport 3 🇷🇸
 http://46.29.169.15:4001/play/a004/index.m3u8
 
 #EXTINF:-1,Arena Sport 3 HD 🇷🇸
@@ -753,15 +729,6 @@ http://185.205.201.101:8024/play/a05l
 #EXTINF:-1, SPORT KLUB HD 3 🇷🇸
 http://194.15.225.98:8000/play/a2qt
 
-#EXTINF:-1,SportKlub Start 🇷🇸
-http://185.205.201.101:8024/play/a05o
-
-#EXTINF:-1,RTSH SPORT 🇦🇱
-http://185.204.32.4:9981/stream/channelid/1261192802|User-Agent=stream
-
-#EXTINF:-1,RTSH SPORT 🇦🇱
-http://185.204.32.4:9981/stream/channelid/1261192802?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
-
 #EXTINF:-1, Arena 1 PREMIUM HR 🇭🇷
 http://46.29.169.15:4001/play/a00g/index.m3u8|User-Agent=stream
 
@@ -805,9 +772,6 @@ http://46.29.169.15:4001/play/a00x/index.m3u8
 http://46.29.169.15:4001/play/a00y/index.m3u8
 
 #EXTINF:-1, SK 1 Croacia 🇭🇷
-http://46.29.169.15:4001/play/a001/index.m3u8
-
-#EXTINF:-1, SK 1 Croacia 🇭🇷
 http://46.29.169.15:4001/play/a00e/index.m3u8
 
 #EXTINF:-1, SK 1 Croacia 🇭🇷
@@ -843,36 +807,6 @@ http://91.132.74.194:7374/play/a00f/index.m3u8
 #EXTINF:-1, RTK1 KOSOVO 🇽🇰
 http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8?
 
-#EXTINF:-1, RTK1 ALBANIA 🇦🇱
-http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
-
-#EXTINF:-1,Nova Sport 🇧🇬
-http://88.213.209.230:6060/play/Nova_Sport
-
-#EXTINF:-1,Nova Sport 🇧🇬
-http://46.40.90.163:13001/play/a05p
-
-#EXTINF:-1,MAX Sport 1 HD 🇧🇬
-http://88.213.209.230:6060/play/MAX_Sport_1_HD
-
-#EXTINF:-1,MAX sport 1 🇧🇬
-http://88.213.209.230:6060/play/MAX_sport_1
-
-#EXTINF:-1,MAX sport 2 🇧🇬
-http://88.213.209.230:6060/play/MAX_sport_2
-
-#EXTINF:-1,MAX Sport 2 HD 🇧🇬
-http://88.213.209.230:6060/play/MAX_Sport_2_HD
-
-#EXTINF:-1,MAX sport 3 🇧🇬
-http://88.213.209.230:6060/play/MAX_sport_3
-
-#EXTINF:-1,MAX sport 3 🇧🇬
-http://46.40.90.163:13001/play/a04a
-
-#EXTINF:-1,MAX sport 4 🇧🇬
-http://88.213.209.230:6060/play/MAX_sport_4
-
 #EXTINF:-1,MAX sport 4 🇧🇬
 http://46.40.90.163:13001/play/a02i
 
@@ -900,12 +834,6 @@ http://91.132.172.169:8000/play/a031/index.m3u8
 #EXTINF:-1,Diema Sport HD 🇧🇬
 http://46.40.90.163:13001/play/a04i
 
-#EXTINF:-1,Diema Sport 🇧🇬
-http://88.213.209.230:6060/play/Diema_Sport
-
-#EXTINF:-1,Diema Sport HD 🇧🇬
-http://88.213.209.230:6060/play/Diema_Sport_HD
-
 #EXTINF:-1,Diema Sport 1 🇧🇬
 http://62.73.127.98:9797/play/a007/index.m3u8
 
@@ -921,20 +849,8 @@ http://62.73.127.98:9797/play/a009/index.m3u8
 #EXTINF:-1,Diema Sport 2 HD 🇧🇬
 http://46.40.90.163:13001/play/a04j
 
-#EXTINF:-1,Diema Sport 2 🇧🇬
-http://88.213.209.230:6060/play/Diema_Sport_2
-
-#EXTINF:-1,Diema Sport 2 HD 🇧🇬
-http://88.213.209.230:6060/play/Diema_Sport_2_HD
-
 #EXTINF:-1,Diema Sport 3 HD 🇧🇬
 http://46.40.90.163:13001/play/a03q
-
-#EXTINF:-1,Diema Sport 3 🇧🇬
-http://88.213.209.230:6060/play/Diema_Sport_3
-
-#EXTINF:-1,Diema Sport 3 HD 🇧🇬
-http://88.213.209.230:6060/play/Diema_Sport_3_HD
 
 #EXTINF:-1,Diema Sport 3 🇧🇬
 http://62.73.127.98:9797/play/a00d/index.m3u8
@@ -983,9 +899,6 @@ http://84.42.140.147:8890/hdmi
 
 #EXTINF:-1, SPORT PREMIUM 🇨🇿 
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
-
-#EXTINF:-1, EUROSPORT 1 🇬🇧
-http://185.204.32.4:9981/stream/channelid/577840136
 
 #EXTINF:-1, RUSH HD 🇬🇧
 http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
