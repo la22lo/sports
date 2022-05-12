@@ -1032,6 +1032,18 @@ http://91.185.3.218:8000/play/204
 #EXTINF:-1,QAZSPORT HD 🇰🇿
 http://91.185.3.218:8000/play/529
 
+#EXTINF:-1, 3 SPORTS LITUANIA
+http://185.44.75.203:38171/play/a00f/index.m3u8
+
+#EXTINF:-1, 3 SPORTS LITUANIA
+http://185.44.75.203:38171/play/a00h/index.m3u8
+
+#EXTINF:-1, 3 SPORTS 2 LITUANIA
+http://185.44.75.203:38171/play/a00g/index.m3u8
+
+#EXTINF:-1, 3 SPORT OPEN LITUANIA
+http://185.44.75.203:38171/play/a00k/index.m3u8
+
 #EXTINF:-1, CBC Sport 🇦🇿
 http://193.228.193.179:8000/play/a01k
 
