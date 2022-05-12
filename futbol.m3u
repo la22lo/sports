@@ -1356,6 +1356,12 @@ http://stream.x10.mx/n4ie/mp.php/https://playoutengine.sinclairstoryline.com/pla
 #EXTINF:-1, TENNIS 4 PLUS 🇬🇧
 http://stream.x10.mx/n4ie/mp.php/https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/f.m3u8
 
+#EXTINF:-1, TENNIS 5 PLUS 🇬🇧
+http://stream.x10.mx:80/n4ie/mp.php/https://playoutengine.sinclairstoryline.com/playout/c05b21c0-e574-4b34-a26e-c6637dbd0fa5/f.m3u8
+
+#EXTINF:-1, TENNIS 6 PLUS 🇬🇧
+http://stream.x10.mx:80/n4ie/mp.php/https://playoutengine.sinclairstoryline.com/playout/735dea87-2128-40b7-8eaa-4252092c6dae/f.m3u8
+
 #EXTINF:-1, TENNIS LIVE 2 🇬🇧
 http://Richi@stream2.grandma.fit/acc.m3u8
 
