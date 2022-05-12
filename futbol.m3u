@@ -930,11 +930,17 @@ http://95.47.98.99:4000/play/a01j/index.m3u8
 #EXTINF:-1,03 МАТЧ!🇷🇺
 http://91.234.255.242:8000/play/a011/index.m3u8
 
+#EXTINF:-1, Матч! HD 🇷🇺
+http://50.7.188.186/Match_TV_HD/mono.m3u8
+
 #EXTINF:-1, Матч! Футбол 1 🇷🇺
 http://95.47.98.99:5300/play/a02e/index.m3u8
 
 #EXTINF:-1, Матч! Футбол 1 🇷🇺
 http://95.47.98.222:5300/play/a02e/index.m3u8
+
+#EXTINF:-1, Матч! Футбол 1 🇷🇺
+http://50.7.92.90/Match_Futbol_1_HD/mono.m3u8
 
 #EXTINF:-1, Матч! Футбол 2 🇷🇺
 http://95.47.98.99:5000/play/a005/index.m3u8
@@ -942,11 +948,17 @@ http://95.47.98.99:5000/play/a005/index.m3u8
 #EXTINF:-1, Матч! Футбол 2 🇷🇺
 http://95.47.98.222:5000/play/a005/index.m3u8
 
+#EXTINF:-1, Матч! Футбол 2 🇷🇺
+http://50.7.92.90/Match_Futbol_2_HD/mono.m3u8
+
 #EXTINF:-1, Матч! Футбол 3 🇷🇺
 http://95.47.98.99:5000/play/a004/index.m3u8
 
 #EXTINF:-1, Матч! Футбол 3 🇷🇺
 http://95.47.98.222:5000/play/a004/index.m3u8
+
+#EXTINF:-1, Матч! Футбол 3 🇷🇺
+http://50.7.92.90/Match_Futbol_3_HD/mono.m3u8
 
 #EXTINF:-1,МАТЧ! ФУТБОЛ 1 🇷🇺
 http://79.124.72.70:8000/play/a02r
@@ -957,6 +969,15 @@ http://79.124.72.70:8000/play/a02s
 #EXTINF:-1,МАТЧ! ФУТБОЛ 3 🇷🇺
 http://79.124.72.70:8000/play/a02t
 
+#EXTINF:-1, Футбол 1 HD 🇷🇺
+http://50.7.188.186/Futbol1HDUA/mono.m3u8
+
+#EXTINF:-1, Футбол 2 HD 🇷🇺
+http://50.7.188.186/Futbol2HDUA/mono.m3u8
+
+#EXTINF:-1, Футбол 3 HD 🇷🇺
+http://50.7.188.186/Futbol3HDUA/mono.m3u8
+
 #EXTINF:-1, Футбол 🇷🇺
 http://95.47.98.99:5300/play/a02l/index.m3u8
 
@@ -965,6 +986,9 @@ http://95.47.98.222:5300/play/a02l/index.m3u8
 
 #EXTINF:-1,setanta_sports 🇺🇦
 http://195.189.60.252:3109/play/a039
+
+#EXTINF:-1,setanta_sports 🇺🇦
+http://50.7.188.186/Setanta_SportsHD_UA/mono.m3u8
 
 #EXTINF:-1,setanta_sports_plus 🇺🇦
 http://195.189.60.252:3109/play/a03a
@@ -995,6 +1019,9 @@ http://82.209.197.187:8080/udp/239.0.100.9:1234
 
 #EXTINF:-1, Беларусь 5 🇧🇾
 http://37.17.14.149:8910/play/a009
+
+#EXTINF:-1, Беларусь 5 🇧🇾
+http://50.7.188.186/belarus_5/mono.m3u8
 
 #EXTINF:-1, Qazsport 🇰🇿
 http://85.92.123.108:6060/play/qazsport/index.m3u8
