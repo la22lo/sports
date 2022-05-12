@@ -1461,5 +1461,23 @@ http://50.7.188.186/Setanta_SportsHD_UA/mono.m3u8
 #EXTINF:-1,Setanta Eurasia HD
 http://50.7.92.90/SetantaEurasia/mono.m3u8
 
+#EXTINF:-1,Матч! Футбол 1
+http://foreign-default.persik.by:82/live/Ch39/index.m3u8
+
+#EXTINF:-1,Матч! Футбол 1 HD
+http://50.7.92.90/Match_Futbol_1_HD/mono.m3u8
+
+#EXTINF:-1,Матч! Футбол 2
+http://foreign-default.persik.by:82/live/Ch217/index.m3u8
+
+#EXTINF:-1,Матч! Футбол 2 HD
+http://50.7.92.90/Match_Futbol_2_HD/mono.m3u8
+
+#EXTINF:-1,Матч! Футбол 3
+http://foreign-default.persik.by:82/live/Ch218/index.m3u8
+
+#EXTINF:-1,Матч! Футбол 3 HD
+http://50.7.92.90/Match_Futbol_3_HD/mono.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
