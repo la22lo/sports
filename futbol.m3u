@@ -942,6 +942,9 @@ http://95.47.98.222:5300/play/a02e/index.m3u8
 #EXTINF:-1, Матч! Футбол 1 🇷🇺
 http://50.7.92.90/Match_Futbol_1_HD/mono.m3u8
 
+#EXTINF:-1,Матч! Футбол 1 🇷🇺
+http://foreign-default.persik.by:82/live/Ch39/index.m3u8
+
 #EXTINF:-1, Матч! Футбол 2 🇷🇺
 http://95.47.98.99:5000/play/a005/index.m3u8
 
@@ -951,6 +954,9 @@ http://95.47.98.222:5000/play/a005/index.m3u8
 #EXTINF:-1, Матч! Футбол 2 🇷🇺
 http://50.7.92.90/Match_Futbol_2_HD/mono.m3u8
 
+#EXTINF:-1,Матч! Футбол 2 🇷🇺
+http://foreign-default.persik.by:82/live/Ch217/index.m3u8
+
 #EXTINF:-1, Матч! Футбол 3 🇷🇺
 http://95.47.98.99:5000/play/a004/index.m3u8
 
@@ -959,6 +965,9 @@ http://95.47.98.222:5000/play/a004/index.m3u8
 
 #EXTINF:-1, Матч! Футбол 3 🇷🇺
 http://50.7.92.90/Match_Futbol_3_HD/mono.m3u8
+
+#EXTINF:-1,Матч! Футбол 3 🇷🇺
+http://foreign-default.persik.by:82/live/Ch218/index.m3u8
 
 #EXTINF:-1,МАТЧ! ФУТБОЛ 1 🇷🇺
 http://79.124.72.70:8000/play/a02r
@@ -992,6 +1001,9 @@ http://50.7.188.186/Setanta_SportsHD_UA/mono.m3u8
 
 #EXTINF:-1,setanta_sports_plus 🇺🇦
 http://195.189.60.252:3109/play/a03a
+
+#EXTINF:-1,Setanta Eurasia HD 🇺🇦
+http://50.7.92.90/SetantaEurasia/mono.m3u8
 
 #EXTINF:-1, VIASAT SPORT 🇷🇺
 https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
@@ -1436,42 +1448,6 @@ https://kumi.tube/static/streaming-playlists/hls/3f4e670c-1c3e-4d87-8b0f-f3f66b5
 
 #EXTINF:-1, Giro d'Italia 
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
-
-#EXTINF:-1, Setanta Sports 1 HD
-http://194.58.42.152:8000/play/setantasports1hd/index.m3u8
-
-#EXTINF:-1,Setanta Sports 1 HD
-http://134.0.113.120:8000/play/setantasports1hd/index.m3u8
-
-#EXTINF:-1,Setanta Sports 2
-http://134.0.113.120:8000/play/setantasports2hd/index.m3u8
-
-#EXTINF:-1,Setanta Sports 2 HD
-http://194.58.42.152:8000/play/setantasports2hd/index.m3u8
-
-#EXTINF:-1,Setanta Sports Ukraine HD
-http://50.7.188.186/Setanta_SportsHD_UA/mono.m3u8
-
-#EXTINF:-1,Setanta Eurasia HD
-http://50.7.92.90/SetantaEurasia/mono.m3u8
-
-#EXTINF:-1,Матч! Футбол 1
-http://foreign-default.persik.by:82/live/Ch39/index.m3u8
-
-#EXTINF:-1,Матч! Футбол 1 HD
-http://50.7.92.90/Match_Futbol_1_HD/mono.m3u8
-
-#EXTINF:-1,Матч! Футбол 2
-http://foreign-default.persik.by:82/live/Ch217/index.m3u8
-
-#EXTINF:-1,Матч! Футбол 2 HD
-http://50.7.92.90/Match_Futbol_2_HD/mono.m3u8
-
-#EXTINF:-1,Матч! Футбол 3
-http://foreign-default.persik.by:82/live/Ch218/index.m3u8
-
-#EXTINF:-1,Матч! Футбол 3 HD
-http://50.7.92.90/Match_Futbol_3_HD/mono.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
