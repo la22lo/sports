@@ -1015,6 +1015,9 @@ http://iptv.prosto.tv:7000/ch109/video.m3u8
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 #EXTINF:-1, Беларусь 5 🇧🇾
+http://foreign-default.persik.by:82/livehq/Ch323hd/index.m3u8
+
+#EXTINF:-1, Беларусь 5 🇧🇾
 http://82.209.197.187:8080/udp/239.0.100.9:1234
 
 #EXTINF:-1, Беларусь 5 🇧🇾
