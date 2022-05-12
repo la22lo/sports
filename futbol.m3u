@@ -1389,5 +1389,14 @@ https://kumi.tube/static/streaming-playlists/hls/3f4e670c-1c3e-4d87-8b0f-f3f66b5
 #EXTINF:-1, Giro d'Italia 
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 
+#EXTINF:1, beIN SPORTS1 HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/444
+
+#EXTINF:1, beINS PORTS 2HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/445
+
+#EXTINF:1, beIN SPORTS 3HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/446
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
