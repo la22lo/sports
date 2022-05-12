@@ -1443,5 +1443,23 @@ http://212.0.215.115/Setanta/mpegts
 #EXTINF: -1,Sport1
 http://212.0.215.115/Sport1/mpegts
 
+#EXTINF:-1, Setanta Sports 1 HD
+http://194.58.42.152:8000/play/setantasports1hd/index.m3u8
+
+#EXTINF:-1,Setanta Sports 1 HD
+http://134.0.113.120:8000/play/setantasports1hd/index.m3u8
+
+#EXTINF:-1,Setanta Sports 2
+http://134.0.113.120:8000/play/setantasports2hd/index.m3u8
+
+#EXTINF:-1,Setanta Sports 2 HD
+http://194.58.42.152:8000/play/setantasports2hd/index.m3u8
+
+#EXTINF:-1,Setanta Sports Ukraine HD
+http://50.7.188.186/Setanta_SportsHD_UA/mono.m3u8
+
+#EXTINF:-1,Setanta Eurasia HD
+http://50.7.92.90/SetantaEurasia/mono.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
