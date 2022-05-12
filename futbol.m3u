@@ -6,9 +6,6 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 #EXTINF:-1,ELEVEN SPORTS 2 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
 
-#EXTINF:-1,ELEVEN SPORTS 3 🇵🇹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
-
 #EXTINF:-1, Supersport LaLiga 🇬🇧
 http://stream.pizztv.com:8000/live/6cmK6b6KUcZk/Pwvjzr8mArsW/17.m3u8
 
@@ -129,6 +126,18 @@ http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 #EXTINF:-1, Directv + 🇦🇷
 http://ytv.plus:25461/live/Maria/1234/17318.m3u8
 
+#EXTINF:-1,ESPN VIVO 🇦🇷
+http://45.189.117.99:8000/play/a01p/index.m3u8
+
+#EXTINF:-1,ESPN 2 🇦🇷
+http://45.189.117.99:8000/play/a017/index.m3u8
+
+#EXTINF:-1,ESPN 3 🇦🇷
+http://45.189.117.99:8000/play/a03d/index.m3u8
+
+#EXTINF:-1,ESPN 4 🇦🇷
+http://45.189.117.99:8000/play/a051/index.m3u8
+
 #EXTINF:-1,ESPN HD 🇦🇷
 http://45.225.95.170:8000/play/a0mg/index.m3u8
 
@@ -141,32 +150,17 @@ http://45.225.95.170:8000/play/a0kx/index.m3u8
 #EXTINF:-1,ESPN 4 HD 🇦🇷
 http://45.225.95.170:8000/play/a0ob/index.m3u8
 
-#EXTINF:-1,ESPN HD 🇦🇷
-http://170.83.242.153:5150/play/a05h
-
-#EXTINF:-1,ESPN 2 HD 🇦🇷
-http://170.83.242.153:5150/play/a05i 
-
-#EXTINF:-1,ESPN 3 HD 🇦🇷
-http://170.83.242.153:5150/play/a0dh 
-
-#EXTINF:-1,ESPN 4 HD 🇦🇷
-http://170.83.242.153:5150/play/a057 
-
-#EXTINF:-1,ESPN EXTRA HD 🇦🇷
-http://170.83.242.153:5150/play/a03k 
-
 #EXTINF:-1, ESPN VIVO 🇦🇷
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 
 #EXTINF:-1,ESPN 🇦🇷
 http://45.71.185.142:8500/play/a01e
 
-#EXTINF:-1,ESPN 3 HD 🇦🇷
-http://200.24.132.99:8000/play/a02w
-
 #EXTINF:-1,ESPN 2 🇦🇷
 http://45.71.185.142:8500/play/a015
+
+#EXTINF:-1,ESPN 3 HD 🇦🇷
+http://200.24.132.99:8000/play/a02w
 
 #EXTINF:-1,ESPN 4 🇦🇷
 http://45.71.185.142:8500/play/a021
@@ -179,18 +173,6 @@ http://45.236.175.93:9600/play/a00n
 
 #EXTINF:-1,ESPN 3 🇦🇷
 http://45.236.175.93:9600/play/a02t
-
-#EXTINF:-1,ESPN VIVO 🇦🇷
-http://45.189.117.99:8000/play/a01p/index.m3u8
-
-#EXTINF:-1,ESPN 2 🇦🇷
-http://45.189.117.99:8000/play/a017/index.m3u8
-
-#EXTINF:-1,ESPN 3 🇦🇷
-http://45.189.117.99:8000/play/a03d/index.m3u8
-
-#EXTINF:-1,ESPN 4 🇦🇷
-http://45.189.117.99:8000/play/a051/index.m3u8
 
 #EXTINF:-1,Fox Sports 🇦🇷
 http://45.236.175.93:9600/play/a00v
@@ -218,9 +200,6 @@ https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/60580
 
 #EXTINF:-1, UNIVISION 🇦🇷
 https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
-
-#EXTINF:-1,TYC SPORTS HD 🇦🇷
-http://170.83.242.153:5150/play/a04t
 
 #EXTINF:-1,SBT AO VIVO 🇧🇷
 https://evpp.mm.uol.com.br/ne10/smil:ne10.smil/chunklist_w42448997_b216000_sleng.m3u8
@@ -453,9 +432,6 @@ http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/682961
 #EXTINF:-1, beinSports_English_1 🇬🇧
 http://185.145.43.244:8000/play/a00l/index.m3u8
 
-#EXTINF:-1, beinSports_English_1 🇬🇧
-http://103.124.110.34:8082/BEIN-SPORTS-1-HD/index.m3u8
-
 #EXTINF:-1, beinSports_English_2 🇬🇧
 http://stream.pizztv.com:8000/live/6cmK6b6KUcZk/Pwvjzr8mArsW/64.m3u8
 
@@ -473,12 +449,6 @@ http://axcestv.vip:8080/freeview/axcestv/801
 
 #EXTINF:-1, BT Sport 2 🇬🇧
 http://axcestv.vip:8080/freeview/axcestv/802
-
-#EXTINF:-1, BT SPORT 1 🇬🇧
-http://93.152.174.144:4000/play/btsport1/index.m3u8
-
-#EXTINF:-1, BT SPORT 2 🇬🇧
-http://93.152.174.144:4000/play/btsport2/index.m3u8
 
 #EXTINF:-1, BT SPORT 2 🇬🇧
 http://shareext@urtv.cc:80/live/104595/104595/6748.ts?shareext.ts
