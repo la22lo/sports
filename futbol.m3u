@@ -1521,5 +1521,88 @@ https://kumi.tube/static/streaming-playlists/hls/3f4e670c-1c3e-4d87-8b0f-f3f66b5
 #EXTINF:-1, Giro d'Italia 
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 
+#EXTINF:-1,ESPN
+http://45.153.165.13:8081/play/a0gl/index.m3u8
+#EXTINF:-1,ESPN +
+http://45.153.165.13:8081/play/a0e5/index.m3u8
+#EXTINF:-1,ESPN HD
+http://45.153.165.13:8081/play/a0lq/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://45.153.165.13:8081/play/a0lo/index.m3u8
+#EXTINF:-1,ESPN 3
+http://45.153.165.13:8081/play/a0f8/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://45.153.165.13:8081/play/a0lp/index.m3u8
+#EXTINF:-1,ESPN 4
+http://45.153.165.13:8081/play/a0h4/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://45.153.165.13:8081/play/a0hm/index.m3u8
+#EXTINF:-1,FOX SPORTS 2 HD
+http://45.153.165.13:8081/play/a0kg/index.m3u8
+#EXTINF:-1,FOX SPORTS 3 HD
+http://45.153.165.13:8081/play/a0lr/index.m3u8
+#EXTINF:-1,Tigo Sports HD
+http://201.108.227.250:8000/play/a04y/index.m3u8
+#EXTINF:-1,TIGO SPORTS HD
+http://181.78.27.189:5150/play/a036
+#EXTINF:-1,TIGO SPORTS+ HD
+http://181.78.27.189:5150/play/a0a1
+#EXTINF:-1,BEIN SPORT 1
+http://20.255.51.57:8000/play/a007
+#EXTINF:-1,beIN SPORT 1 HD
+http://193.252.43.21:10200/play/a0c5
+#EXTINF:-1,BEIN SPORT 2
+http://20.255.51.57:8000/play/a008
+#EXTINF:-1,BEIN SPORT 3
+http://20.255.51.57:8000/play/a009
+#EXTINF:-1,SUPER SPORT 4
+http://20.255.51.57:8000/play/13
+#EXTINF:-1,Super Sport3
+http://20.255.51.57:8000/play/12
+#EXTINF:-1,SuperSport2
+http://20.255.51.57:8000/play/11
+#EXTINF:-1,RMC SPORT 1
+http://193.252.43.21:10200/play/a08l
+#EXTINF:-1,RMC SPORT 2
+http://193.252.43.21:10200/play/a08n
+#EXTINF:-1,Eleven 2 HD
+http://149.62.183.203:8002/play/a00b/index.m3u8
+#EXTINF:-1,Eleven 3
+http://149.62.183.203:8002/play/a00d/index.m3u8
+#EXTINF:-1,Eleven 6
+http://149.62.183.203:8002/play/a00e/index.m3u8
+#EXTINF:-1,SPORT TV 1 HD
+http://149.62.183.203:8002/play/a005/index.m3u8
+#EXTINF:-1,SPORT TV 2 HD
+http://149.62.183.203:8002/play/a006/index.m3u8
+#EXTINF:-1,SPORT TV 3 HD
+http://149.62.183.203:8002/play/a007/index.m3u8
+#EXTINF:-1,Nova Sport HD
+http://141.95.52.206:6565/play/a05g
+#EXTINF:-1,Sport Klub 1 FHD Hr
+http://141.95.52.206:6565/play/a060
+#EXTINF:-1,Sport Klub 1 FHD Sr
+http://141.95.52.206:6565/play/a066
+#EXTINF:-1,Sport Klub 2 FHD Hr
+http://141.95.52.206:6565/play/a061
+#EXTINF:-1,Sport Klub 2 FHD Sr
+http://141.95.52.206:6565/play/a067
+#EXTINF:-1,Sport Klub 3 FHD Hr
+http://141.95.52.206:6565/play/a062
+#EXTINF:-1,Sport Klub 3 FHD Sr
+http://141.95.52.206:6565/play/a068
+#EXTINF:-1,Sport Klub 4 Hr
+http://141.95.52.206:6565/play/a063
+#EXTINF:-1,Sport Klub 4 Sr
+http://141.95.52.206:6565/play/a069
+#EXTINF:-1,Sport Klub 5 Hr
+http://141.95.52.206:6565/play/a064
+#EXTINF:-1,Sport Klub 5 Sr
+http://141.95.52.206:6565/play/a06a
+#EXTINF:-1,Sport Klub 6 Hr
+http://141.95.52.206:6565/play/a065
+#EXTINF:-1,Sport Klub 6 Sr
+http://141.95.52.206:6565/play/a06b
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
