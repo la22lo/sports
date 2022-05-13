@@ -345,6 +345,9 @@ http://axcestv.vip:8080/freeview/axcestv/798
 #EXTINF:-1, beIN Sports 1 Premium 🇶🇦
 http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/index.m3u8
 
+#EXTINF:-1, beIN Sports 1 Premium 🇶🇦
+http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, beIN Sports 2 Premium 🇶🇦
 http://217.74.16.155:8082/local/ar-s/B-S-pre-2-stop/index.m3u8
 
