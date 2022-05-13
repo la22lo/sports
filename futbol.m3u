@@ -1541,30 +1541,6 @@ http://45.153.165.13:8081/play/a0hm/index.m3u8
 http://45.153.165.13:8081/play/a0kg/index.m3u8
 #EXTINF:-1,FOX SPORTS 3 HD
 http://45.153.165.13:8081/play/a0lr/index.m3u8
-#EXTINF:-1,Tigo Sports HD
-http://201.108.227.250:8000/play/a04y/index.m3u8
-#EXTINF:-1,TIGO SPORTS HD
-http://181.78.27.189:5150/play/a036
-#EXTINF:-1,TIGO SPORTS+ HD
-http://181.78.27.189:5150/play/a0a1
-#EXTINF:-1,BEIN SPORT 1
-http://20.255.51.57:8000/play/a007
-#EXTINF:-1,beIN SPORT 1 HD
-http://193.252.43.21:10200/play/a0c5
-#EXTINF:-1,BEIN SPORT 2
-http://20.255.51.57:8000/play/a008
-#EXTINF:-1,BEIN SPORT 3
-http://20.255.51.57:8000/play/a009
-#EXTINF:-1,SUPER SPORT 4
-http://20.255.51.57:8000/play/13
-#EXTINF:-1,Super Sport3
-http://20.255.51.57:8000/play/12
-#EXTINF:-1,SuperSport2
-http://20.255.51.57:8000/play/11
-#EXTINF:-1,RMC SPORT 1
-http://193.252.43.21:10200/play/a08l
-#EXTINF:-1,RMC SPORT 2
-http://193.252.43.21:10200/play/a08n
 #EXTINF:-1,Eleven 2 HD
 http://149.62.183.203:8002/play/a00b/index.m3u8
 #EXTINF:-1,Eleven 3
