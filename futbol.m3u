@@ -345,6 +345,9 @@ http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/8812
 #EXTINF:-1,SPORT TV 1 HD 🇵🇹
 http://axcestv.vip:8080/freeview/axcestv/797
 
+#EXTINF:-1,SPORT TV 1 HD 🇵🇹
+http://85.245.237.73:8082/play/a001
+
 #EXTINF:-1,SPORT TV 2 HD 🇵🇹
 http://axcestv.vip:8080/freeview/axcestv/798
 
@@ -479,6 +482,9 @@ http://185.145.43.244:8000/play/a00l/index.m3u8
 
 #EXTINF:-1, beinSports_English_2 🇬🇧
 http://stream.pizztv.com:8000/live/6cmK6b6KUcZk/Pwvjzr8mArsW/64.m3u8
+
+#EXTINF:-1, beinSports_English_3 🇬🇧
+http://85.245.237.73:8082/play/a00e
 
 #EXTINF:-1, BT Sport 1 🇬🇧
 http://pakiptv.top:8880/8767/8767/90205
@@ -1102,7 +1108,13 @@ http://185.44.75.203:38171/play/a00g/index.m3u8
 http://185.44.75.203:38171/play/a00k/index.m3u8
 
 #EXTINF:-1, CBC Sport 🇦🇿
+http://193.228.193.179:8000/play/a01l
+
+#EXTINF:-1, CBC Sport 🇦🇿
 http://193.228.193.179:8000/play/a01k
+
+#EXTINF:-1, IDMAN TV 🇦🇿
+http://193.228.193.179:8000/play/a013
 
 #EXTINF:-1, Ziggo Select HD 🇳🇱
 http://82.197.214.59:4000/play/a01v/index.m3u8
@@ -1223,6 +1235,9 @@ https://api.vthanhtivii.xyz/v1/getlink/vtvgo/196
 
 #EXTINF:-1, ON Sports 🇻🇳
 http://cdn.socolacdn.online:8080/onsporttv/mpegts
+
+#EXTINF:-1, TURMEKISTAN SPORT  🇹🇷
+http://217.174.225.146/hls/ch004_720/index.m3u8?token=
 
 #EXTINF:-1, TURMEKISTAN SPORT  🇹🇷
 http://217.174.225.146/hls/ch004_720/index.m3u8?shareext.ts
