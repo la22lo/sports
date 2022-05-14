@@ -18,6 +18,9 @@ http://dontuse.offshorerev.cc:80/SPIDER_F175Sd/422pl9z2/105114
 #EXTINF:-1, VAMOS 🇪🇸
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJPAjWOIDxuxDjnIofO3MYFA/ts
 
+#EXTINF:-1, LALIGA TV 🇪🇸
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/387.m3u8
+
 #EXTINF:-1, DirecTV Sports 🇦🇷
 http://51.222.241.122:8000/play/a04y
 
@@ -38,6 +41,15 @@ http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2287.m3u8
 
 #EXTINF:-1, DIRECTV Sports + ECU 🇪🇨
 http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2285.m3u8
+
+#EXTINF:-1, DirecTV Sports 🇦🇷
+http://gratis.shortgod.com/nomerobesweon8/tv6.php?c=12220
+
+#EXTINF:-1, DirecTV Sports 2 🇦🇷
+http://gratis.shortgod.com/nomerobesweon8/tv6.php?c=12221
+
+#EXTINF:-1, DirecTV Sports + 🇦🇷
+http://gratis.shortgod.com/nomerobesweon8/tv6.php?c=12222
 
 #EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
