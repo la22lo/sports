@@ -21,10 +21,10 @@ http://51.222.241.122:8000/play/a050
 #EXTINF:-1, DIRECTV Sports 2 🇦🇷
 http://51.222.241.122:8000/play/a03s
 
-#EXTINF:-1, DIRECTV Sports 1 ECU
+#EXTINF:-1, DIRECTV Sports 1 ECU 🇪🇨
 http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2287.m3u8
 
-#EXTINF:-1, DIRECTV Sports + ECU
+#EXTINF:-1, DIRECTV Sports + ECU 🇪🇨
 http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2285.m3u8
 
 #EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
@@ -174,10 +174,10 @@ http://51.222.241.122:8000/play/a03r
 #EXTINF:-1, Directv 🇦🇷
 http://ytv.plus:25461/live/Maria/1234/17319.m3u8
 
-#EXTINF:-1, DIRECTV Sports 1 ECU
+#EXTINF:-1, DIRECTV Sports 1 ECU 🇪🇨
 http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2287.m3u8
 
-#EXTINF:-1, DIRECTV Sports + ECU
+#EXTINF:-1, DIRECTV Sports + ECU 🇪🇨
 http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2285.m3u8
 
 #EXTINF:-1,ESPN VIVO 🇦🇷
