@@ -31,6 +31,9 @@ http://stream.pizztv.com:8000/live/6cmK6b6KUcZk/Pwvjzr8mArsW/15.m3u8
 http://217.74.16.155:8082/local//ar-s/bein-1-stop/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, beIN Sports 1 🇶🇦
+http://stariptv.org:8080/nour2020/123456/141548
+
+#EXTINF:-1, beIN Sports 1 🇶🇦
 http://stream.pizztv.com:8000/live/6cmK6b6KUcZk/Pwvjzr8mArsW/1.m3u8
 
 #EXTINF:-1, LaLiga TV 🇬🇧
@@ -387,11 +390,20 @@ http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/index.m3u8
 #EXTINF:-1, beIN Sports 1 Premium 🇶🇦
 http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, beIN Sports 1 Premium 🇶🇦
+http://stariptv.org:8080/nour2020/123456/141545
+
 #EXTINF:-1, beIN Sports 2 Premium 🇶🇦
 http://217.74.16.155:8082/local/ar-s/B-S-pre-2-stop/index.m3u8
 
+#EXTINF:-1, beIN Sports 2 Premium 🇶🇦
+http://stariptv.org:8080/nour2020/123456/141546
+
 #EXTINF:-1, beIN Sports 3 Premium 🇶🇦
 http://217.74.16.155:8082/local/ar-s/B-S-pre-3-stop/index.m3u8
+
+#EXTINF:-1, beIN Sports 3 Premium 🇶🇦
+http://stariptv.org:8080/nour2020/123456/141547
 
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://217.74.16.155:8082/local//ar-s/bein-1-stop/tracks-v1a1/mono.m3u8
@@ -413,6 +425,27 @@ http://217.74.16.155:8082/local//ar-s/bein-6-stop/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Bein Sports 7 🇶🇦
 http://217.74.16.155:8082/local//ar-s/bein-7-stop/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, beIN Sports 1 🇶🇦
+http://stariptv.org:8080/nour2020/123456/141548
+
+#EXTINF:-1, beIN Sports 2 🇶🇦
+http://stariptv.org:8080/nour2020/123456/141549
+
+#EXTINF:-1, beIN Sports 3 🇶🇦
+http://stariptv.org:8080/nour2020/123456/141550
+
+#EXTINF:-1, beIN Sports 4 🇶🇦
+http://stariptv.org:8080/nour2020/123456/141551
+
+#EXTINF:-1, beIN Sports 5 🇶🇦
+http://stariptv.org:8080/nour2020/123456/141552
+
+#EXTINF:-1, beIN Sports 6 🇶🇦
+http://stariptv.org:8080/nour2020/123456/141553
+
+#EXTINF:-1, beIN Sports 7 🇶🇦
+http://stariptv.org:8080/nour2020/123456/141554
 
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
