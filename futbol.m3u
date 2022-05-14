@@ -318,6 +318,15 @@ http://89.114.126.46:4000/play/a01u
 #EXTINF:-1,Eleven 6 🇵🇹
 http://89.114.126.46:4000/play/a01r
 
+#EXTINF:-1,Eleven 2 HD 🇵🇹
+http://149.62.183.203:8002/play/a00b/index.m3u8
+
+#EXTINF:-1,Eleven 3 🇵🇹
+http://149.62.183.203:8002/play/a00d/index.m3u8
+
+#EXTINF:-1,Eleven 6 🇵🇹
+http://149.62.183.203:8002/play/a00e/index.m3u8
+
 #EXTINF:-1,SPORT TV + 🇵🇹
 http://89.114.126.46:4000/play/a00f
 
@@ -353,6 +362,15 @@ http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/7479
 
 #EXTINF:-1, Sport TV 5 HD PT 🇵🇹
 http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/8812
+
+#EXTINF:-1,SPORT TV 1 HD 🇵🇹
+http://149.62.183.203:8002/play/a005/index.m3u8
+
+#EXTINF:-1,SPORT TV 2 HD 🇵🇹
+http://149.62.183.203:8002/play/a006/index.m3u8
+
+#EXTINF:-1,SPORT TV 3 HD 🇵🇹
+http://149.62.183.203:8002/play/a007/index.m3u8
 
 #EXTINF:-1,SPORT TV 1 HD 🇵🇹
 http://axcestv.vip:8080/freeview/axcestv/797
@@ -774,6 +792,24 @@ http://46.29.169.15:4001/play/a00r/index.m3u8
 #EXTINF:-1,Sport Klub 6 🇷🇸
 http://46.29.169.15:4001/play/a00s/index.m3u8
 
+#EXTINF:-1,Sport Klub 1 FHD Sr 🇷🇸
+http://141.95.52.206:6565/play/a066
+
+#EXTINF:-1,Sport Klub 2 FHD Sr 🇷🇸
+http://141.95.52.206:6565/play/a067
+
+#EXTINF:-1,Sport Klub 3 FHD Sr 🇷🇸
+http://141.95.52.206:6565/play/a068
+
+#EXTINF:-1,Sport Klub 4 Sr 🇷🇸
+http://141.95.52.206:6565/play/a069
+
+#EXTINF:-1,Sport Klub 5 Sr 🇷🇸
+http://141.95.52.206:6565/play/a06a
+
+#EXTINF:-1,Sport Klub 6 Sr 🇷🇸
+http://141.95.52.206:6565/play/a06b
+
 #EXTINF:-1, SPORT KLUB HD 1 🇷🇸
 http://194.15.225.98:8000/play/a2qu
 
@@ -857,6 +893,27 @@ http://46.29.169.15:4001/play/a00r/index.m3u8
 
 #EXTINF:-1,Sport Klub 6 🇭🇷
 http://46.29.169.15:4001/play/a00s/index.m3u8
+
+#EXTINF:-1,Sport Klub 1 FHD Hr 🇭🇷
+http://141.95.52.206:6565/play/a060
+
+#EXTINF:-1,Sport Klub 2 FHD Hr 🇭🇷
+http://141.95.52.206:6565/play/a061
+
+#EXTINF:-1,Sport Klub 3 FHD Hr 🇭🇷
+http://141.95.52.206:6565/play/a062
+
+#EXTINF:-1,Sport Klub 4 Hr 🇭🇷
+http://141.95.52.206:6565/play/a063
+
+#EXTINF:-1,Sport Klub 5 Hr 🇭🇷
+http://141.95.52.206:6565/play/a064
+
+#EXTINF:-1,Sport Klub 6 Hr 🇭🇷
+http://141.95.52.206:6565/play/a065
+
+#EXTINF:-1,Nova Sport HD 🇭🇷
+http://141.95.52.206:6565/play/a05g
 
 #EXTINF:-1,HRT2 🇭🇷
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
@@ -1532,65 +1589,6 @@ https://kumi.tube/static/streaming-playlists/hls/3f4e670c-1c3e-4d87-8b0f-f3f66b5
 
 #EXTINF:-1, Giro d'Italia 
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
-
-#EXTINF:-1,ESPN
-http://45.153.165.13:8081/play/a0gl/index.m3u8
-#EXTINF:-1,ESPN +
-http://45.153.165.13:8081/play/a0e5/index.m3u8
-#EXTINF:-1,ESPN HD
-http://45.153.165.13:8081/play/a0lq/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://45.153.165.13:8081/play/a0lo/index.m3u8
-#EXTINF:-1,ESPN 3
-http://45.153.165.13:8081/play/a0f8/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://45.153.165.13:8081/play/a0lp/index.m3u8
-#EXTINF:-1,ESPN 4
-http://45.153.165.13:8081/play/a0h4/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://45.153.165.13:8081/play/a0hm/index.m3u8
-#EXTINF:-1,FOX SPORTS 2 HD
-http://45.153.165.13:8081/play/a0kg/index.m3u8
-#EXTINF:-1,FOX SPORTS 3 HD
-http://45.153.165.13:8081/play/a0lr/index.m3u8
-#EXTINF:-1,Eleven 2 HD
-http://149.62.183.203:8002/play/a00b/index.m3u8
-#EXTINF:-1,Eleven 3
-http://149.62.183.203:8002/play/a00d/index.m3u8
-#EXTINF:-1,Eleven 6
-http://149.62.183.203:8002/play/a00e/index.m3u8
-#EXTINF:-1,SPORT TV 1 HD
-http://149.62.183.203:8002/play/a005/index.m3u8
-#EXTINF:-1,SPORT TV 2 HD
-http://149.62.183.203:8002/play/a006/index.m3u8
-#EXTINF:-1,SPORT TV 3 HD
-http://149.62.183.203:8002/play/a007/index.m3u8
-#EXTINF:-1,Nova Sport HD
-http://141.95.52.206:6565/play/a05g
-#EXTINF:-1,Sport Klub 1 FHD Hr
-http://141.95.52.206:6565/play/a060
-#EXTINF:-1,Sport Klub 1 FHD Sr
-http://141.95.52.206:6565/play/a066
-#EXTINF:-1,Sport Klub 2 FHD Hr
-http://141.95.52.206:6565/play/a061
-#EXTINF:-1,Sport Klub 2 FHD Sr
-http://141.95.52.206:6565/play/a067
-#EXTINF:-1,Sport Klub 3 FHD Hr
-http://141.95.52.206:6565/play/a062
-#EXTINF:-1,Sport Klub 3 FHD Sr
-http://141.95.52.206:6565/play/a068
-#EXTINF:-1,Sport Klub 4 Hr
-http://141.95.52.206:6565/play/a063
-#EXTINF:-1,Sport Klub 4 Sr
-http://141.95.52.206:6565/play/a069
-#EXTINF:-1,Sport Klub 5 Hr
-http://141.95.52.206:6565/play/a064
-#EXTINF:-1,Sport Klub 5 Sr
-http://141.95.52.206:6565/play/a06a
-#EXTINF:-1,Sport Klub 6 Hr
-http://141.95.52.206:6565/play/a065
-#EXTINF:-1,Sport Klub 6 Sr
-http://141.95.52.206:6565/play/a06b
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
