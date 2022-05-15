@@ -36,9 +36,6 @@ http://89.114.126.46:4000/play/a01u
 #EXTINF:-1,Eleven 6 🇵🇹
 http://149.62.183.203:8002/play/a00e/index.m3u8
 
-#EXTINF:-1, S LaLiga TV 🇬🇧
-https://cdn2.bestvideostudio.workers.dev/cdn/sabrouch2/chunks.m3u8
-
 #EXTINF:-1, LaLiga TV 🇬🇧
 http://starshare.live:8080/live/Shoaibkhan/Yazan786/23346.ts
 
