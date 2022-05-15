@@ -1296,5 +1296,47 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1, Giro d'Italia 
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 
+#EXTINF:-1,DAZN 1 HD
+http://149.62.183.209:4549/play/a04h/index.m3u8
+
+#EXTINF:-1,DAZN 2 HD
+http://149.62.183.209:4549/play/a02w/index.m3u8
+
+#EXTINF:-1,SPORT1 HD
+http://149.62.183.209:4549/play/a050/index.m3u8
+
+#EXTINF:-1,SPORT1+
+http://149.62.183.209:4549/play/a06m/index.m3u8
+
+#EXTINF:-1,Sky Sport Austria 1 HD
+http://149.62.183.209:4549/play/a04i/index.m3u8
+
+#EXTINF:-1,Sky Sport Austria 2 HD
+http://149.62.183.209:4549/play/a029/index.m3u8
+
+#EXTINF:-1,Sky Sport Austria 3 HD
+http://149.62.183.209:4549/play/a04m/index.m3u8
+
+#EXTINF:-1,168_MAX Sport 1 HD
+http://78.83.191.18:8000/play/a073
+
+#EXTINF:-1,169_MAX Sport 2 HD
+http://78.83.191.18:8000/play/a074
+
+#EXTINF:-1,170_MAX Sport 3 HD
+http://78.83.191.18:8000/play/a075
+
+#EXTINF:-1,175_MAX Sport 4 HD
+http://78.83.191.18:8000/play/a07f
+
+#EXTINF:-1,180_Nova Sport
+http://78.83.191.18:8000/play/a04a
+
+#EXTINF:-1,203_Diema Sport HD
+http://78.83.191.18:8000/play/a076
+
+#EXTINF:-1,204_Diema Sport 2 HD
+http://78.83.191.18:8000/play/a077
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
