@@ -162,6 +162,12 @@ http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/382.m3u8
 #EXTINF:-1, Directv Sports 2 🇨🇴
 http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/383.m3u8
 
+#EXTINF:-1, DirecTV Sports 🇦🇷
+http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/140576.m3u8
+
+#EXTINF:-1, DirecTV Sports 2 🇦🇷
+http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/957.m3u8
+
 #EXTINF:-1,ESPN VIVO 🇦🇷
 http://45.189.117.99:8000/play/a01p/index.m3u8
 
