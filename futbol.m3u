@@ -783,6 +783,9 @@ http://panel.ooguy.com:9002/Sport2.m3u8
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
 
+#EXTINF:-1, O2 TV SPORT HD 🇨🇿 
+http://84.42.140.148:8880/hdmi
+
 #EXTINF:-1, JOJ Sport 🇨🇿 
 https://nn.geo.joj.sk/live/hls/rik-540.m3u8
 
@@ -957,17 +960,8 @@ http://195.222.7.26:7001/play/a00t
 #EXTINF:-1 , SAN MARINO SPORT 🇸🇲
 http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
 
-#EXTINF:-1, Sony Ten 1 🇲🇾
-http://pakiptv.top:8880/8767/8767/93
-
-#EXTINF:-1, Sony Ten 2 🇲🇾
-http://pakiptv.top:8880/8767/8767/26334
-
 #EXTINF:-1, Sony Ten 2 🇲🇾
 http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34491?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
-
-#EXTINF:-1, Sony Ten 3 🇲🇾
-http://pakiptv.top:8880/8767/8767/95
 
 #EXTINF:-1,Astro Super Sport 2 🇲🇾
 http://203.154.243.89:21202/nakhon
@@ -1022,9 +1016,6 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 
 #EXTINF:-1,SPOTV 🇲🇾
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1650553339~exp=9007200905294330~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=03539604195d0d0f8533982d94a512fd5592f7a4a2ecca5608615ef2b0d3248d
-
-#EXTINF:-1,TVONE 🇲🇾
-http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
 
 #EXTINF:-1,TVONE 🇲🇾
 http://210.210.155.35/session/f5cd353c-0131-11ec-b286-abca8519aa62/qwr9ew/s/s105/01.m3u8
@@ -1101,7 +1092,7 @@ http://cdn.connectbr.com.br/BandSports/tracks-v1a1/mono.m3u8
 #EXTINF:-1, STADIUM 🇧🇷
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
 
-#EXTINF:-1,GOL TV 🇧🇷
+#EXTINF:-1,GOL TV PERU
 http://45.71.185.142:8500/play/a03b
 
 #EXTINF:-1, SKY SPORTS 24 🇮🇹
@@ -1115,9 +1106,6 @@ https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w192207
 
 #EXTINF:-1, EUROSPORT
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
-
-#EXTINF:-1,RTA SPORTS 🇦🇫
-http://193.228.193.179:8000/play/a00z
 
 #EXTINF:-1, A SPORTS 🇮🇳
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
@@ -1142,9 +1130,6 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
 #EXTINF:-1, 4 SPORT 🇪🇬
 http://80.24.75.92:5555/udp/239.111.2.8:1234
-
-#EXTINF:-1,Realitatea Sportiva 🇷🇴
-https://streamx.realitatea.net/realitatea/sportiva_hd/playlist.m3u8
 
 #EXTINF:-1, OMAN SPORT 🇴🇲
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
@@ -1266,9 +1251,6 @@ https://alplay.zhengyaning.com/xoilac/channel-7.m3u8?auth_key=1650270660-0-0-7fc
 #EXTINF:-1, O2 TV Tennis HD 🇨🇿 
 http://84.42.140.148:8880/hdmi
 
-#EXTINF:-1, SUPERSPORT TENNIS 🇬🇧
-http://stream.pizztv.com:8000/live/6cmK6b6KUcZk/Pwvjzr8mArsW/206.m3u8
-
 #EXTINF:-1, TENNIS SK1 🇭🇷
 http://194.15.225.98:8000/play/a2qu
 
@@ -1302,9 +1284,6 @@ http://stream2.grandma.fit/acc.m3u8
 #EXTINF:-1, TENNIS 3 🇬🇧 
 https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
 
-#EXTINF:-1, TENNIS TV 
-https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8?shareext.ts
-
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 1 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
@@ -1313,9 +1292,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1, Giro d'Italia 
-https://kumi.tube/static/streaming-playlists/hls/3f4e670c-1c3e-4d87-8b0f-f3f66b5ce630/master.m3u8
 
 #EXTINF:-1, Giro d'Italia 
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
