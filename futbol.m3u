@@ -1134,6 +1134,12 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
 #EXTINF:-1,GOL TV PERU 🇵🇪
 http://45.71.185.142:8500/play/a03b
 
+#EXTINF:-1,PRENDETV LIGA MX 🇲🇽
+https://dip0m6wuccbi7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2d8j5h422463p-prod/dist/samsungtv/193/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1,TIGO SPORTS 🇲🇽
+http://latinosiptv.online:8090/notocar/xmauc84bx1/2110?index.m3u8
+
 #EXTINF:-1, SKY SPORTS 24 🇮🇹
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 
