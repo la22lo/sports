@@ -963,13 +963,13 @@ https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 #EXTINF:-1 , LIVE SPORT HD 🇭🇺
 http://195.222.7.26:7001/play/a00t
 
-#EXTINF:-1,SPORT1 HD
+#EXTINF:-1,SPORT1 HD 🇩🇪
 http://149.62.183.209:4549/play/a050/index.m3u8
 
-#EXTINF:-1,SPORT1+
+#EXTINF:-1,SPORT1+ 🇩🇪
 http://149.62.183.209:4549/play/a06m/index.m3u8
 
-#EXTINF:-1,Sky Sport Austria 1 HD
+#EXTINF:-1,Sky Sport Austria 1 HD 🇦🇹
 http://149.62.183.209:4549/play/a04i/index.m3u8
 
 #EXTINF:-1 , SAN MARINO SPORT 🇸🇲
@@ -1107,7 +1107,7 @@ http://cdn.connectbr.com.br/BandSports/tracks-v1a1/mono.m3u8
 #EXTINF:-1, STADIUM 🇧🇷
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
 
-#EXTINF:-1,GOL TV PERU
+#EXTINF:-1,GOL TV PERU 🇵🇪
 http://45.71.185.142:8500/play/a03b
 
 #EXTINF:-1, SKY SPORTS 24 🇮🇹
