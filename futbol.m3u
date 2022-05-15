@@ -6,6 +6,9 @@ https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/HEuuvTDnpBizudLnDgP-P
 #EXTINF:-1, PARTIDO MADRID ESPN 4 🇧🇷
 https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/HEuuvTDnpBizudLnDgP-P8ODhmvxGflgS9ZRoI6New6j_QegpVM1TiDRMT-C_bkPrRkjFPytEnQ1tcZepa3mZw/non_transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/master_dynamic_highlatency.m3u8?type=live
 
+#EXTINF:-1, PARTIDO BARÇA 🇧🇷
+https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/akE55fO3qpWqexY6qFCYuMAS4YGX3KK58u2VwNd2rc85EYik1hdmLwz6IGCi1cmlohGTSrdBS_hSV9hrMaicQg/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live
+
 #EXTINF:-1, LALIGA TV BAR 🇪🇸
 http://51.222.241.122:8000/play/a05p
 
