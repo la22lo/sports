@@ -153,11 +153,17 @@ http://51.222.241.122:8000/play/a03r
 #EXTINF:-1, DIRECTV Sports 1 ECU 🇪🇨
 http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2287.m3u8
 
+#EXTINF:-1, DirecTV Sports 🇪🇨
+http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/989.m3u8
+
 #EXTINF:-1, Directv Sports 🇨🇴
 http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/382.m3u8
 
 #EXTINF:-1, Directv Sports 2 🇨🇴
 http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/383.m3u8
+
+#EXTINF:-1, Directv Sports 🇺🇾
+http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/125192.m3u8
 
 #EXTINF:-1, DirecTV Sports 🇦🇷
 http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/140576.m3u8
