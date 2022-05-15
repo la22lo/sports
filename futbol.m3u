@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, PARTIDO MADRID 🇵🇹
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
+
 #EXTINF:-1, PARTIDO MADRID 🇧🇷
 https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/HEuuvTDnpBizudLnDgP-P8ODhmvxGflgS9ZRoI6New6j_QegpVM1TiDRMT-C_bkPrRkjFPytEnQ1tcZepa3mZw/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
 
@@ -11,6 +14,9 @@ https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/akE55fO3qpWqexY6qFCYu
 
 #EXTINF:-1, PARTIDO ATLETICO 🇧🇷
 https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/hRNvcQjNtz1QKFyEjYqClhoBkQKzQxkJ6YuG5LwSLHbOJIrdihGuFYIwth-4C6P6EkOkSwDqRRibchqshxSI7g/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
+
+#EXTINF:-1, PARTIDO VILLARREAL 🇦🇷
+https://cdnapisec.kaltura.com/p/4618003/sp/461800300/playManifest/entryId/1_qib6phba/format/applehttp/protocol/https/uiConfId/50195093/a.m3u8
 
 #EXTINF:-1, LALIGA TV BAR 🇪🇸
 http://51.222.241.122:8000/play/a05p
