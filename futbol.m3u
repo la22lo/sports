@@ -9,6 +9,9 @@ http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/620686
 #EXTINF:-1, M LIGA CAMPEONES 🇪🇸
 http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/620685
 
+#EXTINF:-1,SPORT TV 1 HD 🇵🇹
+http://149.62.183.203:8002/play/a005/index.m3u8
+
 #EXTINF:-1, LALIGA TV BAR 🇪🇸
 http://51.222.241.122:8000/play/a05p
 
