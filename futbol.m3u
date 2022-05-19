@@ -1,25 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1, DAZN 1SD 🇪🇸
-https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/Aiht628FIRmL7fIbl7paeNxXXAdViTXKuwJOHEb42-ldOLvQAQv4ONZJhU9pz__C3c9tyBpqwq1JP-LtE0Y0BQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1, DAZN 1HD 🇪🇸
-http://venomtt.com:8000/50568166938023/51353855007829/149074
-
-#EXTINF:-1, DAZN 1HD 🇪🇸
-http://venomtt.com:8000/50568166938023/51353855007829/149075
-
-#EXTINF:-1, DAZN 1HD 🇪🇸
-http://venomtt.com:8000/50568166938023/51353855007829/149068
-
-#EXTINF:-1, DAZN 1HD 🇪🇸
-https://www.webcsn.ru.com/cdn/premium445/chunks.m3u8?|Referer=https://player.licenses4.me/
-
-#EXTINF:-1, DAZN 2HD 🇪🇸
-https://www.webcsn.ru.com/cdn/premium446/chunks.m3u8?|Referer=https://player.licenses4.me/
-
-#EXTINF:-1, DAZN 3HD 🇪🇸
-https://www.webcsn.ru.com/cdn/premium447/chunks.m3u8?|Referer=https://player.licenses4.me/
+#EXTINF:-1,Setanta Sports 1 HD 🇷🇺
+https://livetv.mylifeisgood.ml/channels/setantahd
 
 #EXTINF:-1,SPORT TV 1 HD 🇵🇹
 http://149.62.183.203:8002/play/a005/index.m3u8
