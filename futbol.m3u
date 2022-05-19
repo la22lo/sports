@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,SPORT TV 2 HD 🇵🇹
+http://149.62.183.203:8002/play/a006/index.m3u8
+
 #EXTINF:-1,Setanta Sports 1 HD 🇷🇺
 https://livetv.mylifeisgood.ml/channels/setantahd
 
