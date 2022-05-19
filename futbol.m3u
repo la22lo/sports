@@ -105,6 +105,9 @@ http://79.143.17.78:2085/play/a0a0/index.m3u8
 #EXTINF:-1,DAZN 1 HD 🇩🇪
 http://149.62.183.209:4549/play/a04h/index.m3u8
 
+#EXTINF:-1,DAZN 1 HD 🇩🇪
+http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/557
+
 #EXTINF:-1,DAZN 2 HD 🇩🇪
 http://149.62.183.209:4549/play/a02w/index.m3u8
 
