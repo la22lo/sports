@@ -480,6 +480,18 @@ http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8
 #EXTINF:-1, ESPN 2 USA 🇺🇸
 http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8
 
+#EXTINF:-1,SUPERSPORT 1 HD 🇦🇱
+http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/208
+
+#EXTINF:-1,SUPERSPORT 2 HD 🇦🇱
+http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/209
+
+#EXTINF:-1,SUPERSPORT 3 HD 🇦🇱
+http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/210
+
+#EXTINF:-1,SUPERSPORT 4 HD 🇦🇱
+http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/211
+
 #EXTINF:-1, KUJTESA SPORT 1HD 🇦🇱
 http://185.222.138.163:9000/play/a0ts
 
