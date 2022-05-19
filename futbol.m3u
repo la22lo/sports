@@ -510,6 +510,15 @@ http://95.107.132.106/out/u/865_4.m3u8
 #EXTINF:-1,Tring sport 3 🇦🇱
 http://95.107.132.106/out/u/867_4.m3u8
 
+#EXTINF:-1,OVERSPORT 1 HD 🇦🇱
+http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/229
+
+#EXTINF:-1,OVERSPORT 2 HD 🇦🇱
+http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/230
+
+#EXTINF:-1,OVERSPORT 3 HD 🇦🇱
+http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/231
+
 #EXTINF:-1,SPORT 1 HD 🇦🇱
 http://91.132.172.169:8000/play/a01q/index.m3u8
 
