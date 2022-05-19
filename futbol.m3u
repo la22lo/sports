@@ -6,18 +6,6 @@ http://149.62.183.203:8002/play/a005/index.m3u8
 #EXTINF:-1, LALIGA TV BAR 🇪🇸
 http://51.222.241.122:8000/play/a05p
 
-#EXTINF:-1, M LALIGA 🇪🇸
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7797:424:1:C00000:0:0:
-
-#EXTINF:-1, M LALIGA 1 🇪🇸
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:769D:41E:1:C00000:0:0:0:
-
-#EXTINF:-1, M LALIGA 2 🇪🇸
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:77BD:40A:1:C00000:0:0:0:
-
-#EXTINF:-1, VAMOS TV 🇪🇸
-http://root:teretoor@fuengirola.asuscomm.com:2580/1:0:1:7733:416:1:C00000:0:0:0:
-
 #EXTINF:-1, LALIGA TV 🇪🇸
 http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/387.m3u8
 
