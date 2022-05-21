@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
+http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/603
+
+#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
+http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/604
+
 #EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 
