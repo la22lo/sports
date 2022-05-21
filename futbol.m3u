@@ -1428,5 +1428,10 @@ http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 #EXTINF:-1,M. Liga de Campeones HD
 http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/3062
 
+#EXTINF:-1,Football-1 
+http://185.223.125.141:8888/play/a00c/index.m3u8 
+
+#EXTINF:-1,Football-2 
+http://185.223.125.141:8888/play/a00i/index.m3u8
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
