@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, GIRO ITALIA
+https://multimedia.eitb.eus/live-content/oka2hd-hls/master.m3u8
+
 #EXTINF:-1,M. Liga de Campeones HD 🇪🇸
 http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/597
 
