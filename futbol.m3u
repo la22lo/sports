@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1, GIRO ITALIA 🇦🇷
-http://144.126.128.123:25461/manoapoyanos/shortgod.com/11665
-
 #EXTINF:-1, GIRO ITALIA 🇪🇸
 http://mytv.fun:8080/mbg958k19/m2858nffk4/13531
 
-#EXTINF:-1, TENIS 🇪🇸
+#EXTINF:-1, TENIS 🇬🇧
 https://streams.x10.bz/k3gf/mp.php/https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f/f.m3u8
 
+#EXTINF:-1, TENNIS LIVE 2 🇬🇧
+http://Richi@stream2.grandma.fit/acc.m3u8
+
 #EXTINF:-1, GIRO ITALIA 🇮🇹
-http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/657
+http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/343
 
 #EXTINF:-1, GIRO ITALIA
 https://multimedia.eitb.eus/live-content/oka2hd-hls/bitrate_4.m3u8?Pericopalote135
@@ -1394,27 +1394,6 @@ http://84.42.140.148:8880/hdmi
 
 #EXTINF:-1, TENNIS SK1 🇭🇷
 http://194.15.225.98:8000/play/a2qu
-
-#EXTINF:-1, TENNIS 1 PLUS 🇬🇧
-http://stream.x10.mx/n4ie/mp.php/https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f/f.m3u8
-
-#EXTINF:-1, TENNIS 2 PLUS 🇬🇧
-http://stream.x10.mx/n4ie/mp.php/https://playoutengine.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd/f.m3u8
-
-#EXTINF:-1, TENNIS 3 PLUS 🇬🇧
-http://stream.x10.mx/n4ie/mp.php/https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/f.m3u8
-
-#EXTINF:-1, TENNIS 4 PLUS 🇬🇧
-http://stream.x10.mx/n4ie/mp.php/https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/f.m3u8
-
-#EXTINF:-1, TENNIS 5 PLUS 🇬🇧
-http://stream.x10.mx:80/n4ie/mp.php/https://playoutengine.sinclairstoryline.com/playout/c05b21c0-e574-4b34-a26e-c6637dbd0fa5/f.m3u8
-
-#EXTINF:-1, TENNIS 6 PLUS 🇬🇧
-http://stream.x10.mx:80/n4ie/mp.php/https://playoutengine.sinclairstoryline.com/playout/735dea87-2128-40b7-8eaa-4252092c6dae/f.m3u8
-
-#EXTINF:-1, TENNIS 7 PLUS 🇬🇧
-http://stream.x10.mx/n4ie/mp.php/https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 
 #EXTINF:-1, TENNIS LIVE 2 🇬🇧
 http://Richi@stream2.grandma.fit/acc.m3u8
