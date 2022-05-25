@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, FINAL CONFERENCE LEAGUE 🇵🇹
+http://149.62.183.203:8002/play/a005/index.m3u8
+
 #EXTINF:-1, TENNIS LIVE 3 🇺🇸
 http://stream2.grandma.fit/acc.m3u8
 
