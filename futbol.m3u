@@ -6,15 +6,6 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/28_.m3u8?token=51eb8PZAwoxDi
 #EXTINF:-1, TENNIS 🇶🇦
 http://217.74.16.155:8082/local/ar-s/bein-5-stop/tracks-v1a1/mono.m3u8?SBN
 
-#EXTINF:-1,ELEVEN SPORTS 2 🇵🇹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
-
-#EXTINF:-1,ELEVEN SPORTS 2 🇵🇹
-http://89.114.126.46:4000/play/a01p
-
-#EXTINF:-1,ELEVEN SPORTS 2 🇵🇹
-http://149.62.183.203:8002/play/a00b/index.m3u8
-
 #EXTINF:-1, EUROSPORT 1 TENNIS 
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4000v105.m3u8
 
@@ -26,33 +17,6 @@ http://Richi@stream2.grandma.fit/acc.m3u8
 
 #EXTINF:-1, TENIS 🇬🇧
 https://streams.x10.bz/k3gf/mp.php/https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f/f.m3u8
-
-#EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
-
-#EXTINF:-1,ELEVEN SPORTS 2 🇵🇹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
-
-#EXTINF:-1,ELEVEN SPORTS 3 🇵🇹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
-
-#EXTINF:-1,ELEVEN SPORTS 4 🇵🇹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
-
-#EXTINF:-1,Eleven 5 🇵🇹
-http://89.114.126.46:4000/play/a01u
-
-#EXTINF:-1,Eleven 6 🇵🇹
-http://149.62.183.203:8002/play/a00e/index.m3u8
-
-#EXTINF:-1, GIRO ITALIA 🇮🇹
-http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/343
-
-#EXTINF:-1, GIRO ITALIA
-https://multimedia.eitb.eus/live-content/oka2hd-hls/bitrate_4.m3u8?Pericopalote135
-
-#EXTINF:-1, GIRO ITALIA
-https://multimedia.eitb.eus/live-content/oka2hd-hls/master.m3u8
 
 #EXTINF:-1,M. Liga de Campeones HD 🇪🇸
 http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/597
