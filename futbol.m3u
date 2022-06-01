@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, PLAYOFF 🇨🇿 
+http://84.42.140.147:8890/hdmi
+
 #EXTINF:-1, TENNIS 🇦🇷
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/28_.m3u8?token=51eb8PZAwoxDiESEksALWg&expires=1654039736
 
