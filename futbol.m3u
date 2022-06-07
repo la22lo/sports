@@ -147,14 +147,29 @@ http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 #EXTINF:-1,ESPN 🇦🇷
 http://45.71.185.142:8500/play/a01e
 
+#EXTINF:-1,ESPN 🇦🇷
+http://45.181.121.57:8111/play/212
+
 #EXTINF:-1,ESPN 2 🇦🇷
 http://45.71.185.142:8500/play/a015
+
+#EXTINF:-1,ESPN 2 🇦🇷
+http://45.181.121.57:8111/play/214
 
 #EXTINF:-1,ESPN 3 HD 🇦🇷
 http://200.24.132.99:8000/play/a02w
 
+#EXTINF:-1,ESPN 3 HD 🇦🇷
+http://45.181.121.57:8111/play/216
+
 #EXTINF:-1,ESPN 4 🇦🇷
 http://45.71.185.142:8500/play/a021
+
+#EXTINF:-1,ESPN 4 🇦🇷
+http://45.181.121.57:8111/play/218
+
+#EXTINF:-1,ESPN 2 LAT 🇦🇷
+http://45.181.121.57:8111/play/219
 
 #EXTINF:-1,SKY SPORTS 🇦🇷
 http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/60373.m3u8
@@ -182,6 +197,15 @@ https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/60580
 
 #EXTINF:-1, UNIVISION 🇦🇷
 https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
+
+#EXTINF:-1, TNT SPORTS 1 🇦🇷
+http://45.181.121.57:8111/play/233
+
+#EXTINF:-1, TNT SPORTS 2 🇦🇷
+http://45.181.121.57:8111/play/234
+
+#EXTINF:-1, TNT SPORTS 3 🇦🇷
+http://45.181.121.57:8111/play/235
 
 #EXTINF:-1,SBT AO VIVO 🇧🇷
 https://evpp.mm.uol.com.br/ne10/smil:ne10.smil/chunklist_w42448997_b216000_sleng.m3u8
