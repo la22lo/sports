@@ -3,8 +3,17 @@
 #EXTINF:-1, PLAYOFF 🇪🇸
 http://line.thesmartiptv.com:900/4297836676/9573024070/165970
 
-#EXTINF:-1, VAMOS TV 🇪🇸
+#EXTINF:-1, VAMOS HD TV 🇪🇸
 http://185.79.153.9:6500/play/a00j
+
+#EXTINF:-1, EUROSPORT 1 🇪🇸
+http://185.79.153.9:6500/play/a011
+
+#EXTINF:-1, EUROSPORT 2 🇪🇸
+http://45.92.69.203:1980/play/a013
+
+#EXTINF:-1, M FORMULA 1 🇪🇸
+http://45.92.69.203:1980/play/a020
 
 #EXTINF:-1, PLAYOFF 🇭🇷 
 http://46.29.169.15:4001/play/a00v/index.m3u8
