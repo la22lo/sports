@@ -48,11 +48,8 @@ http://217.74.16.155:8082/local//ar-s/bein-4-stop/tracks-v1a1/mono.m3u8
 #EXTINF:-1, TENIS
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8?mvk
 
-#EXTINF:-1, ELEVEN SPORT 1
+#EXTINF:-1, ELEVEN SPORT 1 🇵🇹
 http://89.114.126.46:4000/play/a01s
-
-#EXTINF:-1, ELEVEN SPORT 2
-http://89.114.126.46:4000/play/a01p
 
 #EXTINF:-1, LaLiga TV 🇬🇧
 http://line.thesmartiptv.com:900/4297836676/9573024070/153728
@@ -194,6 +191,24 @@ http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8?token=rk%F0%9F%8F%8F
 
 #EXTINF:-1, GEO SUPER 🇮🇳
 http://221.120.204.4:80/geo-super-LOCKLE/tracks-v1a1/mono.m3u8?shareext.m3u8
+
+#EXTINF:-1, ELEVEN SPORT 1 🇵🇹
+http://89.114.126.46:4000/play/a01s
+
+#EXTINF:-1, ELEVEN SPORT 2 🇵🇹
+http://89.114.126.46:4000/play/a01p
+
+#EXTINF:-1, ELEVEN SPORT 3 🇵🇹
+http://89.114.126.46:4000/play/a01q
+
+#EXTINF:-1, ELEVEN SPORT 4 🇵🇹
+http://89.114.126.46:4000/play/a01t
+
+#EXTINF:-1, ELEVEN SPORT 5 🇵🇹
+http://89.114.126.46:4000/play/a01u
+
+#EXTINF:-1, ELEVEN SPORT 6 🇵🇹
+http://89.114.126.46:4000/play/a01r
 
 #EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJIlbAuux2Qjgom4M0Y1VZBc/ts
