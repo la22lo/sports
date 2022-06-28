@@ -1065,5 +1065,17 @@ http://144.76.60.133:8000/play/a08j
 #EXTINF:-1,DIGI Sport 4
 http://144.76.60.133:8000/play/a08k
 
+#EXTINF:-1,PRIMA SPORT 1 HD
+http://144.76.60.133:8000/play/a0a2
+
+#EXTINF:-1,PRIMA SPORT 2 HD
+http://144.76.60.133:8000/play/a0a3
+
+#EXTINF:-1,PRIMA SPORT 3 HD
+http://144.76.60.133:8000/play/a0a4
+
+#EXTINF:-1,PRIMA SPORT 4 HD
+http://144.76.60.133:8000/play/a0a5
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
