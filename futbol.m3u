@@ -27,6 +27,12 @@ http://213.183.47.50:2085/play/a0ce/index.m3u8
 #EXTINF:-1, SKY SPORT 4 TENIS ALE
 http://213.183.47.50:2085/play/a0cd/index.m3u8
 
+#EXTINF:-1, SPORT 1 CANLI TENIS TUR
+http://213.183.47.50:2085/play/a00a/index.m3u8
+
+#EXTINF:-1, SPORT 2 CANLI TENIS TUR
+http://213.183.47.50:2085/play/a017/index.m3u8
+
 #EXTINF:-1, SPORT SELECT TENNIS
 http://103.137.75.73:1932/tvapp/starsportsselect-2/chunks.m3u8
 
@@ -905,6 +911,24 @@ https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 
 #EXTINF:-1,SPORTS TV 🇹🇷
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+#EXTINF:-1, SPORTS SMART HD 🇹🇷
+http://213.183.47.50:2085/play/a01h/index.m3u8
+
+#EXTINF:-1, SPORTS SMART HD 2 🇹🇷
+http://213.183.47.50:2085/play/a0dr/index.m3u8
+
+#EXTINF:-1, TIVIBU SPORT 1 🇹🇷
+http://213.183.47.50:2085/play/a00q/index.m3u8
+
+#EXTINF:-1, TIVIBU SPORT 2 🇹🇷
+http://213.183.47.50:2085/play/a0ds/index.m3u8
+
+#EXTINF:-1, TIVIBU SPORT 3 🇹🇷
+http://213.183.47.50:2085/play/a0dt/index.m3u8
+
+#EXTINF:-1, TIVIBU SPORT 4 🇹🇷
+http://213.183.47.50:2085/play/a0du/index.m3u8
 
 #EXTINF:-1, TNT SPORTS 🇧🇷
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
