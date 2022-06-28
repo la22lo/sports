@@ -15,6 +15,18 @@ http://212.18.115.193:3531/play/a04g/index.m3u8
 #EXTINF:-1,YES Sport5 + FHD tennis
 http://212.18.115.193:9087/play/a018/index.m3u8
 
+#EXTINF:-1, SKY SPORT 1 TENIS ALE
+http://213.183.47.50:2085/play/a0ao/index.m3u8
+
+#EXTINF:-1, SKY SPORT 2 TENIS ALE
+http://213.183.47.50:2085/play/a0ap/index.m3u8
+
+#EXTINF:-1, SKY SPORT 3 TENIS ALE
+http://213.183.47.50:2085/play/a0ce/index.m3u8
+
+#EXTINF:-1, SKY SPORT 4 TENIS ALE
+http://213.183.47.50:2085/play/a0cd/index.m3u8
+
 #EXTINF:-1, SPORT SELECT TENNIS
 http://103.137.75.73:1932/tvapp/starsportsselect-2/chunks.m3u8
 
@@ -26,6 +38,12 @@ http://ccdn.ai:80/live/Jose7382/Nunes7492/74962.m3u8
 
 #EXTINF:-1, VAMOS TENNIS 🇪🇸
 http://z.puertazona.net:9966/tacos67/vBndBhTkq3/56848
+
+#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
+http://213.183.47.50:2085/play/a04t/index.m3u8
+
+#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
+http://213.183.47.50:2085/play/a04s/index.m3u8
 
 #EXTINF:-1, PLAYOFF 🇭🇷 
 http://46.29.169.15:4001/play/a00v/index.m3u8
@@ -134,6 +152,9 @@ http://195.189.60.252:3109/play/a039
 
 #EXTINF:-1,setanta_sports_plus 🇺🇦
 http://195.189.60.252:3109/play/a03a
+
+#EXTINF:-1, DAZN 1 ALEMANIA
+http://213.183.47.50:2085/play/a0a0/index.m3u8
 
 #EXTINF:-1, TURMEKISTAN SPORT  🇹🇷
 http://217.174.225.146/hls/ch004_720/index.m3u8
