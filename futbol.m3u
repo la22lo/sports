@@ -6,9 +6,6 @@ http://93.152.174.144:4000/play/sporttv1/index.m3u8
 #EXTINF:-1, sportv1 TENNIS
 http://ccdn.ai:80/live/Jose7382/Nunes7492/74962.m3u8
 
-#EXTINF:-1, sportv1 TENNIS
-http://cloudcdn.tk:80/ZgD95l6nsu/tLlaGL888/27817
-
 #EXTINF:-1, SPORT SELECT TENNIS
 http://103.137.75.73:1932/tvapp/starsportsselect-2/chunks.m3u8
 
@@ -761,6 +758,9 @@ http://185.44.75.203:38171/play/a00g/index.m3u8
 
 #EXTINF:-1, 3 SPORT OPEN 🇱🇹
 http://185.44.75.203:38171/play/a00k/index.m3u8
+
+#EXTINF:-1, SK 1 SLOVENIA
+http://cloudcdn.tk:80/ZgD95l6nsu/tLlaGL888/27817
 
 #EXTINF:-1, Ziggo Select HD 🇳🇱
 http://82.197.214.59:4000/play/a01v/index.m3u8
