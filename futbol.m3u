@@ -1059,5 +1059,26 @@ http://144.76.60.133:8000/play/a0a4
 #EXTINF:-1,PRIMA SPORT 4 HD
 http://144.76.60.133:8000/play/a0a5
 
+#EXTINF:-1,C More MAX 2 HD
+http://84.17.61.200:4001/play/a00c
+
+#EXTINF:-1,ESPN +
+http://190.61.37.9:8000/play/a02t/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://190.61.37.9:8000/play/a07t/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://190.61.37.9:8000/play/a07s/index.m3u8
+#EXTINF:-1,ESPN HD
+http://190.61.37.9:8000/play/a07r/index.m3u8
+#EXTINF:-1,FOX SPORTS 2 HD
+http://190.61.37.9:8000/play/a04k/index.m3u8
+#EXTINF:-1,FOX SPORTS 3 HD
+http://190.61.37.9:8000/play/a07u/index.m3u8
+#EXTINF:-1,Eleven Sports Pro League 1 FR
+http://185.205.201.104:8009/play/a02a/index.m3u8
+#EXTINF:-1,Eurosport 1 Deutschland
+http://185.205.201.104:8008/play/a027/index.m3u8
+
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
