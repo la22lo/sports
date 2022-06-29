@@ -924,6 +924,12 @@ http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1, BAHRAIN SPORTS 🇧🇭
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
 
+#EXTINF:-1, Unifi Sports 1 🇧🇭
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.m3u8
+
+#EXTINF:-1, Unifi Sports 2 🇧🇭
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.m3u8
+
 #EXTINF:-1, ARMENIA TV 🇦🇲
 http://ott-cdn.ucom.am/s4/04.m3u8
 
