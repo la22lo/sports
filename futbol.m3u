@@ -528,11 +528,50 @@ http://82.209.197.187:8080/udp/239.0.100.9:1234
 #EXTINF:-1, Qazsport 🇰🇿
 http://85.92.123.108:6060/play/qazsport/index.m3u8
 
+#EXTINF:-1,CBC Sport HD
+http://212.18.115.194:3599/play/a00l/index.m3u8
+
 #EXTINF:-1, S1 SLOVAKIA
 http://cloudcdn.tk:80/ZgD95l6nsu/tLlaGL888/27817
 
 #EXTINF:-1, Ziggo Select HD 🇳🇱
 http://82.197.214.59:4000/play/a01v/index.m3u8
+
+#EXTINF:-1,Ziggo Sport Extra 1 🇳🇱
+http://212.18.115.193:3531/play/a04j/index.m3u8
+
+#EXTINF:-1,Ziggo Sport Select HD 🇳🇱
+http://212.18.115.193:3531/play/a04g/index.m3u8
+
+#EXTINF:-1,Ziggo Sport Voetbal HD 🇳🇱
+http://212.18.115.193:3531/play/a04h/index.m3u8
+
+#EXTINF:-1,YES Sport 1 FHD
+http://212.18.115.193:9087/play/a013/index.m3u8
+
+#EXTINF:-1,YES Sport 2 FHD
+http://212.18.115.193:9087/play/a014/index.m3u8
+
+#EXTINF:-1,YES Sport 3 FHD
+http://212.18.115.193:9087/play/a015/index.m3u8
+
+#EXTINF:-1,YES Sport 4 FHD
+http://212.18.115.193:9087/play/a016/index.m3u8
+
+#EXTINF:-1,YES Sport5
+http://212.18.115.193:9087/play/a017/index.m3u8
+
+#EXTINF:-1,YES Sport5 + FHD
+http://212.18.115.193:9087/play/a018/index.m3u8
+
+#EXTINF:-1,YES Sport5 Gold FHD
+http://212.18.115.193:9087/play/a01b/index.m3u8
+
+#EXTINF:-1,YES Sport5 Live FHD
+http://212.18.115.193:9087/play/a01a/index.m3u8
+
+#EXTINF:-1,YES Sport5 Stars FHD
+http://212.18.115.193:9087/play/a019/index.m3u8
 
 #EXTINF:-1 ,2 SPORT HUNGRIA 🇭🇺
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
@@ -771,37 +810,8 @@ http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 #EXTINF:-1, EUROSPORT
 http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 
-
-
 #EXTINF:-1,Eurosport 1 Deutschland
 http://185.205.201.104:8008/play/a027/index.m3u8
-
-#EXTINF:-1,CBC Sport HD
-http://212.18.115.194:3599/play/a00l/index.m3u8
-#EXTINF:-1,Ziggo Sport Extra 1
-http://212.18.115.193:3531/play/a04j/index.m3u8
-#EXTINF:-1,Ziggo Sport Select HD
-http://212.18.115.193:3531/play/a04g/index.m3u8
-#EXTINF:-1,Ziggo Sport Voetbal HD
-http://212.18.115.193:3531/play/a04h/index.m3u8
-#EXTINF:-1,YES Sport 1 FHD
-http://212.18.115.193:9087/play/a013/index.m3u8
-#EXTINF:-1,YES Sport 2 FHD
-http://212.18.115.193:9087/play/a014/index.m3u8
-#EXTINF:-1,YES Sport 3 FHD
-http://212.18.115.193:9087/play/a015/index.m3u8
-#EXTINF:-1,YES Sport 4 FHD
-http://212.18.115.193:9087/play/a016/index.m3u8
-#EXTINF:-1,YES Sport5
-http://212.18.115.193:9087/play/a017/index.m3u8
-#EXTINF:-1,YES Sport5 + FHD
-http://212.18.115.193:9087/play/a018/index.m3u8
-#EXTINF:-1,YES Sport5 Gold FHD
-http://212.18.115.193:9087/play/a01b/index.m3u8
-#EXTINF:-1,YES Sport5 Live FHD
-http://212.18.115.193:9087/play/a01a/index.m3u8
-#EXTINF:-1,YES Sport5 Stars FHD
-http://212.18.115.193:9087/play/a019/index.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
