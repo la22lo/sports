@@ -48,6 +48,9 @@ http://103.137.75.73:1932/tvapp/starsportsselect-2/chunks.m3u8
 #EXTINF:-1,SPORT TV 1 TENIS 🇵🇹
 http://85.245.237.73:8082/play/a001
 
+#EXTINF:-1,PTV LIVE TENIS
+http://watch.emasti.pk/stream/ptvsports/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, VAMOS TENNIS 🇪🇸
 http://z.puertazona.net:9966/tacos67/vBndBhTkq3/56848
 
