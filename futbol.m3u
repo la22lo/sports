@@ -12,6 +12,9 @@ https://bcovlive-a.akamaihd.net:443/99545824f51f4c1592b35314c6ece3b0/ap-northeas
 #EXTINF:-1, SPOTV TENNIS
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 
+#EXTINF:-1, FORMULA 1
+https://bcb2c6b9497e.us-east-1.playback.live-video.net/api/video/v1/us-east-1.312836954023.channel.pQwJKLfrOc9e.m3u8?mvk
+
 #EXTINF:-1, sk 1 TENNIS
 http://46.29.169.15:4001/play/a00e/index.m3u8
 
