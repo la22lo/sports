@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,TOUR FRANCIA EUROSPORT
-http://admin:admin@185.4.34.93:9981/stream/channelid/810543241?profile=pass
-
 #EXTINF:-1,ESPN 2 tenis 🇦🇷
 http://45.71.185.142:8500/play/a015
 
