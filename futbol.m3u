@@ -102,6 +102,12 @@ http://85.245.237.73:8082/play/a001
 #EXTINF:-1,SPORT TV 4 HD 🇵🇹
 http://85.245.237.73:8082/play/a00e
 
+#EXTINF:-1, BeINSports 1 HD[THAI]
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115807
+
+#EXTINF:-1, BeINSports 2 HD[THAI]
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115809
+
 #EXTINF:-1,beIN SPORTS EXTRA Ñ 🇪🇸
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
@@ -551,15 +557,6 @@ http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 
 #EXTINF:-1,Eurosport 1 Deutschland
 http://185.205.201.104:8008/play/a027/index.m3u8
-
-#EXTINF:-1, BeINSports 1 HD[THAI]
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115807
-
-#EXTINF:-1, BeINSports 2 HD[THAI]
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115809
-
-#EXTINF:-1, SuperSport La Liga
-https://flextv.io:443/eddyjboy/qwe123qwe/171556.ts
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
