@@ -579,11 +579,230 @@ http://190.60.37.69:8015/play/a02n/index.m3u8
 #EXTINF:-1, ESPN CO
 http://190.60.37.69:8015/play/a037/index.m3u8
 
+#EXTINF:-1,ESPN 2 HD
+http://45.225.95.170:8005/play/a02n
+
+#EXTINF:-1,ESPN 3 HD
+http://45.225.95.170:8005/play/a038
+
+#EXTINF:-1,ESPN EXTRA HD
+http://45.225.95.170:8005/play/a00u
+
+#EXTINF:-1,ESPN HD
+http://45.225.95.170:8005/play/a04g
+
+#EXTINF:-1,ESPN HD
+http://45.225.95.170:8005/play/a00g
+
+#EXTINF:-1,FOX Sports 2 HD
+http://45.225.95.170:8005/play/a00a
+
+#EXTINF:-1,Fox Sports 1 HD
+http://45.225.95.170:8005/play/a01n
+
+#EXTINF:-1,Fox Sports 3 HD
+http://45.225.95.170:8005/play/a039
+
+#EXTINF:-1,Fox Sports HD
+http://45.225.95.170:8005/play/a009
+
+#EXTINF:-1,GOLPERU HD
+http://45.225.95.170:8005/play/a04p
+
+#EXTINF:-1,GolTV HD
+http://45.225.95.170:8005/play/a04j
+
 #EXTINF:-1,SPORT1 HD
 http://178.251.29.83:7242/play/a01y
 
+#EXTINF:-1,SPORT1+
+http://45.153.33.195:8003/play/a00c
+
+#EXTINF:-1,SPORTDIGITAL FUSSBALL HD
+http://45.153.33.195:8003/play/a00b
+
 #EXTINF:-1,110_Max sport 1
 http://83.228.88.114:8000/play/a04c
+
+#EXTINF:-1,Arena Sport 1
+http://188.124.211.121:8557/play/a021
+
+#EXTINF:-1,Arena Sport 2
+http://188.124.211.121:8557/play/a022
+
+#EXTINF:-1,Arena Sport 3
+http://188.124.211.121:8557/play/a023
+
+#EXTINF:-1,Arena Sport 4
+http://188.124.211.121:8557/play/a024
+
+#EXTINF:-1,3017 Arena 1 PREMIUM
+http://5.206.237.66:9000/play/a06z
+
+#EXTINF:-1,3018 Arena 2 PREMIUM
+http://5.206.237.66:9000/play/a071
+
+#EXTINF:-1,3019 Arena 3 PREMIUM
+http://5.206.237.66:9000/play/a072
+
+#EXTINF:-1,Arena Sport 1
+http://5.206.237.66:9000/play/a075
+
+#EXTINF:-1,Arena Sport 2
+http://5.206.237.66:9000/play/a076
+
+#EXTINF:-1,Arena Sport 3
+http://5.206.237.66:9000/play/a077
+
+#EXTINF:-1,3020 Arena Sport 4
+http://5.206.237.66:9000/play/a073
+
+#EXTINF:-1,3021 Arena Sport 5
+http://5.206.237.66:9000/play/a074
+
+#EXTINF:-1,136_Nova Sport
+http://83.228.75.166:8000/play/a0bn
+
+#EXTINF:-1,141_MAX Sport 1
+http://83.228.75.166:8000/play/a0be
+
+#EXTINF:-1,142_MAX Sport 2
+http://83.228.75.166:8000/play/a0bf
+
+#EXTINF:-1,143_MAX Sport 3
+http://83.228.75.166:8000/play/a0bg
+
+#EXTINF:-1,144_MAX sport 4
+http://83.228.75.166:8000/play/a0e7
+
+#EXTINF:-1,146_Diema Sport
+http://83.228.75.166:8000/play/a0bc
+
+#EXTINF:-1,147_Diema Sport 2
+http://83.228.75.166:8000/play/a0bd
+
+#EXTINF:-1,148_Diema Sport 3
+http://83.228.75.166:8000/play/a0e8
+
+#EXTINF:-1,168_MAX Sport 1 HD
+http://78.83.191.18:8000/play/a073
+
+#EXTINF:-1,169_MAX Sport 2 HD
+http://78.83.191.18:8000/play/a074
+
+#EXTINF:-1,170_MAX Sport 3 HD
+http://78.83.191.18:8000/play/a075
+
+#EXTINF:-1,175_MAX Sport 4 HD
+http://78.83.191.18:8000/play/a07f
+
+#EXTINF:-1,180_Nova Sport
+http://78.83.191.18:8000/play/a04a
+
+#EXTINF:-1,203_Diema Sport HD
+http://78.83.191.18:8000/play/a076
+
+#EXTINF:-1,204_Diema Sport 2 HD
+http://78.83.191.18:8000/play/a077
+
+#EXTINF:-1,214_Diema Sport 3 HD
+http://78.83.191.18:8000/play/a07e
+
+#EXTINF:-1,RMC SPORT 1
+http://193.252.43.21:10200/play/a08l
+
+#EXTINF:-1,RMC SPORT 2
+http://193.252.43.21:10200/play/a08n
+
+#EXTINF:-1,beIN SPORT 1 HD
+http://193.252.43.21:10200/play/a0c5
+
+#EXTINF:-1,SPOTV
+http://123.143.230.150:9981/stream/channelid/16?ticket=5CE5473AFC8479B6C973EE4DE6EC3BF8C1C2B3F0
+
+#EXTINF:-1,SPOTV2
+http://123.143.230.150:9981/stream/channelid/17?ticket=44CD52C720E61D3BDE0E70904A6FF3328F718C09
+
+#EXTINF:-1,DIGI Sport 1
+http://144.76.60.133:8000/play/a08f
+
+#EXTINF:-1,DIGI Sport 1 HD RO
+http://144.76.60.133:8000/play/a08g
+
+#EXTINF:-1,DIGI Sport 2
+http://144.76.60.133:8000/play/a08h
+
+#EXTINF:-1,DIGI Sport 2 HD RO
+http://144.76.60.133:8000/play/a08i
+
+#EXTINF:-1,DIGI Sport 3
+http://144.76.60.133:8000/play/a08j
+
+#EXTINF:-1,DIGI Sport 4
+http://144.76.60.133:8000/play/a08k
+
+#EXTINF:-1,Orange Sport 3 HD
+http://144.76.60.133:8000/play/a07c
+
+#EXTINF:-1,Orange Sport 4 Net Slab
+http://144.76.60.133:8000/play/a07d
+
+#EXTINF:-1,PRIMA SPORT 1 HD
+http://144.76.60.133:8000/play/a0a2
+
+#EXTINF:-1,PRIMA SPORT 2 HD
+http://144.76.60.133:8000/play/a0a3
+
+#EXTINF:-1,PRIMA SPORT 3 HD
+http://144.76.60.133:8000/play/a0a4
+
+#EXTINF:-1,PRIMA SPORT 4 HD
+http://144.76.60.133:8000/play/a0a5
+
+#EXTINF:-1,Prima Sport 1
+http://144.76.60.133:8000/play/a0b2
+
+#EXTINF:-1,Prima Sport 2
+http://144.76.60.133:8000/play/a0b5
+
+#EXTINF:-1,Prima Sport 3
+http://144.76.60.133:8000/play/a0b6
+
+#EXTINF:-1,Prima Sport 4
+http://144.76.60.133:8000/play/a0b7
+
+#EXTINF:-1,Nova Sport GS mace
+http://185.244.240.33:8000/play/a01e
+
+#EXTINF:-1,Sport 1 HD hun
+http://5.38.198.105:8001/play/a02o
+
+#EXTINF:-1,Sport 1 HD hun
+http://5.38.198.105:8001/play/sport1hd
+
+#EXTINF:-1,Sport 2 HD hun
+http://5.38.198.105:8001/play/a04h
+
+#EXTINF:-1,Sport 2 HD hun
+http://5.38.198.105:8001/play/a02q
+
+#EXTINF:-1,ELEVEN SPORTS 1
+http://cdnrede.com:80/Teste2021/2021teste/207189
+
+#EXTINF:-1, ELEVEN SPORTS 2
+http://cdnrede.com:80/Teste2021/2021teste/207190
+
+#EXTINF:-1, ELEVEN SPORTS 3
+http://cdnrede.com:80/Teste2021/2021teste/207191
+
+#EXTINF:-1, ELEVEN SPORTS 4
+http://cdnrede.com:80/Teste2021/2021teste/207192
+
+#EXTINF:-1, ELEVEN SPORTS 5
+http://cdnrede.com:80/Teste2021/2021teste/207193
+
+#EXTINF:-1, ELEVEN SPORTS 6
+http://cdnrede.com:80/Teste2021/2021teste/207194
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
