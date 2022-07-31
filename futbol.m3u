@@ -552,5 +552,26 @@ http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 #EXTINF:-1,Eurosport 1 Deutschland
 http://185.205.201.104:8008/play/a027/index.m3u8
 
+#EXTINF: -1, SuperSport La Liga
+https://m3u-editor.com/serve/2da70ec0-1076-11ed-8c6b-c9e08e60b25f/606616179
+
+#EXTINF: -1, Eleven Sports 1
+https://m3u-editor.com/serve/2da70ec0-1076-11ed-8c6b-c9e08e60b25f/606616190
+
+#EXTINF: -1, Eleven Sports 2
+https://m3u-editor.com/serve/2da70ec0-1076-11ed-8c6b-c9e08e60b25f/606616191
+
+#EXTINF: -1, Eleven Sports 3
+https://m3u-editor.com/serve/2da70ec0-1076-11ed-8c6b-c9e08e60b25f/606616192
+
+#EXTINF: -1, Eleven Sports 4
+https://m3u-editor.com/serve/2da70ec0-1076-11ed-8c6b-c9e08e60b25f/606616193
+
+#EXTINF: -1, Eleven Sports 5
+https://m3u-editor.com/serve/2da70ec0-1076-11ed-8c6b-c9e08e60b25f/606616194
+
+#EXTINF: -1, Eleven Sports 6
+https://m3u-editor.com/serve/2da70ec0-1076-11ed-8c6b-c9e08e60b25f/606616195
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
