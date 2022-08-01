@@ -192,6 +192,9 @@ http://185.222.138.163:9000/play/a0tt
 #EXTINF:-1, KUJTESA SPORT 4HD 🇦🇱
 http://185.222.138.163:9000/play/a0uv
 
+#EXTINF:-1, RTSH Sport HD 🇦🇱
+http://109.104.129.195:8001/play/s25
+
 #EXTINF:-1, ARENA SPORT 1 PREMIUM 🇷🇸
 http://46.29.169.15:4001/play/a00g/index.m3u8
 
@@ -683,18 +686,6 @@ http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 
 #EXTINF:-1,Eurosport 1 Deutschland
 http://185.205.201.104:8008/play/a027/index.m3u8
-
-#EXTINF:-1, RTSH Sport HD
-http://109.104.129.195:8001/play/s25
-
-#EXTINF:-1,beIN SPORTS 1 premium HD
-http://185.9.2.18/c1/index.m3u8
-
-#EXTINF:-1,beIN SPORTS 1 HD
-http://185.9.2.18/c2/index.m3u8
-
-#EXTINF:-1,beIN SPORTS 2 HD
-http://185.9.2.18/c3/index.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
