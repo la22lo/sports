@@ -435,6 +435,18 @@ http://82.209.197.187:8080/udp/239.0.100.9:1234
 #EXTINF:-1, S1 SLOVAKIA
 http://cloudcdn.tk:80/ZgD95l6nsu/tLlaGL888/27817
 
+#EXTINF:-1,Nova HD slovakia
+http://213.81.133.130:8000/play/NovaHD
+
+#EXTINF:-1,Nova Sport 2 HD slovakia
+http://213.81.133.130:8000/play/NovaSport2
+
+#EXTINF:-1,RTVS SPORT HD slovakia
+http://213.81.133.130:8000/play/rtvssport
+
+#EXTINF:-1,Sport 1 HD slovakia
+http://213.81.133.130:8000/play/Sport1
+
 #EXTINF:-1, Ziggo Select HD 🇳🇱
 http://82.197.214.59:4000/play/a01v/index.m3u8
 
@@ -641,33 +653,6 @@ http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 
 #EXTINF:-1,Eurosport 1 Deutschland
 http://185.205.201.104:8008/play/a027/index.m3u8
-
-#EXTINF:-1,Nova HD slovakia
-http://213.81.133.130:8000/play/NovaHD
-
-#EXTINF:-1,Nova Sport 2 HD slovakia
-http://213.81.133.130:8000/play/NovaSport2
-
-#EXTINF:-1,RTVS SPORT HD slovakia
-http://213.81.133.130:8000/play/rtvssport
-
-#EXTINF:-1,Sport 1 HD slovakia
-http://213.81.133.130:8000/play/Sport1
-
-#EXTINF:-1, Футбол 1
-http://91.213.59.156/play/7/index.m3u8
-
-#EXTINF:-1, Футбол 2
-http://91.213.59.156/play/8/index.m3u8
-
-#EXTINF:-1, Футбол 3
-http://91.213.59.156/play/15/index.m3u8
-
-#EXTINF:-1,th-football1
-http://45.136.255.129:8022/play/a013/index.m3u8
-
-#EXTINF:-1,th-football2
-http://45.136.255.129:8022/play/a014/index.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
