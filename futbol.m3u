@@ -159,6 +159,24 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115807
 #EXTINF:-1, BeINSports 2 HD[THAI] 🇹🇭
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115809
 
+#EXTINF:-2022, BT SPORT 1 HD 🇬🇧
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+
+#EXTINF:-2022, BT SPORT 2 HD 🇬🇧
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+
+#EXTINF:-2022, BT SPORT 3 HD 🇬🇧
+http://93.152.174.144:4000/play/btsport3/index.m3u8
+
+#EXTINF:-2022, beIN SPORTS 1 HD 🇫🇷
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
+
+#EXTINF:-2022, beIN SPORTS 2 HD 🇫🇷
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+
+#EXTINF:-2022, beIN SPORTS 3 HD 🇫🇷
+http://93.152.174.144:4000/play/bein3fr/index.m3u8
+
 #EXTINF:-1,RMC SPORT 1 🇫🇷
 http://193.252.43.21:10200/play/a08l
 
@@ -483,6 +501,15 @@ https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 #EXTINF:-1 , LIVE SPORT HD 🇭🇺
 http://195.222.7.26:7001/play/a00t
 
+#EXTINF:-1,Eurosport 1 Deutschland 🇩🇪
+http://185.205.201.104:8008/play/a027/index.m3u8
+
+#EXTINF:-1,DAZN 1 🇩🇪
+http://185.205.201.91:8003/play/a02d
+
+#EXTINF:-1,DAZN 2 🇩🇪
+http://185.205.201.91:8004/play/a02h
+
 #EXTINF:-1,SPORT1 HD ALE 🇩🇪
 http://178.251.29.83:7242/play/a01y
 
@@ -491,6 +518,12 @@ http://45.153.33.195:8003/play/a00c
 
 #EXTINF:-1,SPORTDIGITAL FUSSBALL HD 🇩🇪
 http://45.153.33.195:8003/play/a00b
+
+#EXTINF:-2022, SKY SPORTS 1 HD
+http://93.152.174.144:4000/play/ssports1/index.m3u8
+
+#EXTINF:-2022, SKY SPORTS PREMIER LEAGUE
+http://93.152.174.144:4000/play/skysports5/index.m3u8
 
 #EXTINF:-1, CCTV5 + 🇨🇳
 http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
@@ -588,6 +621,21 @@ https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w192207
 #EXTINF:-1, EUROSPORT
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 
+#EXTINF:-1,Star Sports 1 HD 🇵🇰
+http://103.174.4.171:8000/play/a07j/index.m3u8
+
+#EXTINF:-1,Star Sports 2 HD 🇵🇰
+http://103.174.4.171:8000/play/a07m/index.m3u8
+
+#EXTINF:-1,Star Sports 3 🇵🇰
+http://103.174.4.171:8000/play/a07n/index.m3u8
+
+#EXTINF:-1,Star Sports Select 1 HD 🇵🇰
+http://103.174.4.171:8000/play/a07i/index.m3u8
+
+#EXTINF:-1,Star Sports Select 2 HD 🇵🇰
+http://103.174.4.171:8000/play/a07o/index.m3u8
+
 #EXTINF:-1, BAHRAIN SPORTS 🇧🇭
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
 
@@ -683,132 +731,6 @@ http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 
 #EXTINF:-1, EUROSPORT
 http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
-
-#EXTINF:-1,Eurosport 1 Deutschland
-http://185.205.201.104:8008/play/a027/index.m3u8
-
-#EXTINF:-1,ORF SPORT+
-http://45.92.69.155:9091/play/a01w
-
-#EXTINF:-1,ORF SPORT+ HD
-http://45.92.69.155:9091/play/a026
-
-#EXTINF:-1, VAMOSHD
-http://188.26.31.251:8000/play/a095
-
-#EXTINF:-1, VAMOSHD
-http://188.26.31.251:8000/play/a093
-
-#EXTINF:-1,DAZN 1 HD
-http://188.26.31.251:8000/play/a08u
-
-#EXTINF:-1,DAZN 2 HD
-http://188.26.31.251:8000/play/a08y
-
-#EXTINF:-1,DAZN 3 HD
-http://188.26.31.251:8000/play/a0af
-
-#EXTINF:-1,DAZN 4 HD
-http://188.26.31.251:8000/play/a0ae
-
-#EXTINF:-1,DAZN F1 HD
-http://188.26.31.251:8000/play/a09b
-
-#EXTINF:-1,EUROSPORT1HD
-http://188.26.31.251:8000/play/a09o
-
-#EXTINF:-1,LALIGATV BAR
-http://188.26.31.251:8000/play/a08x
-
-#EXTINF:-1,M. DEPORTES1HD
-http://188.26.31.251:8000/play/a09c
-
-#EXTINF:-1,M. DEPORTESHD
-http://188.26.31.251:8000/play/a09p
-
-#EXTINF:-1,M. LaLiga 1 HD
-http://188.26.31.251:8000/play/a091
-
-#EXTINF:-1,M. LaLiga 2 HD
-http://188.26.31.251:8000/play/a0ab
-
-#EXTINF:-1,M. LaLiga 3 HD
-http://188.26.31.251:8000/play/a0ac
-
-#EXTINF:-1,M. LaLiga HD
-http://188.26.31.251:8000/play/a099
-
-#EXTINF:-1,M.LCAMPEON1
-http://188.26.31.251:8000/play/a0ad
-
-#EXTINF:-1,M.LCAMPEON2
-http://188.26.31.251:8000/play/a0ag
-
-#EXTINF:-1,M.LCAMPEONES
-http://188.26.31.251:8000/play/a0a2
-
-#EXTINF:-1,M.LCAMPEONES HD
-http://188.26.31.251:8000/play/a044
-
-#EXTINF:-1,Prime Video Sportsbar
-http://185.205.201.91:8001/play/a03i
-
-#EXTINF:-1,DAZN 1
-http://185.205.201.91:8003/play/a02d
-
-#EXTINF:-1,DAZN 2
-http://185.205.201.91:8004/play/a02h
-
-#EXTINF:-1,A SPORTS ASIASAT
-http://111.119.160.229:8000/play/a01f/index.m3u8
-
-#EXTINF:-1,A SPORTS HD PAKSAT
-http://111.119.160.229:8000/play/a02b/index.m3u8
-
-#EXTINF:-1,FAST SPORTS HD
-http://103.174.4.170:8000/play/a045/index.m3u8
-
-#EXTINF:-1,PTV SPORTS HD
-http://103.174.4.170:8000/play/a056/index.m3u8
-
-#EXTINF:-1,Sports18 Khel
-http://103.174.4.170:8000/play/a01f/index.m3u8
-
-#EXTINF:-1,Star Sports 1 HD (videocon d2h)
-http://103.174.4.171:8000/play/a07j/index.m3u8
-
-#EXTINF:-1,Star Sports 2 HD (videocon d2h)
-http://103.174.4.171:8000/play/a07m/index.m3u8
-
-#EXTINF:-1,Star Sports 3 (videocon d2h)
-http://103.174.4.171:8000/play/a07n/index.m3u8
-
-#EXTINF:-1,Star Sports Select 1 HD (videocon d2h)
-http://103.174.4.171:8000/play/a07i/index.m3u8
-
-#EXTINF:-1,Star Sports Select 2 HD (videocon d2h)
-http://103.174.4.171:8000/play/a07o/index.m3u8
-
-#EXTINF:-2022, BT SPORT 2 HD
-http://93.152.174.144:4000/play/btsport2/index.m3u8
-
-#EXTINF:-2022, BT SPORT 3 HD
-http://93.152.174.144:4000/play/btsport3/index.m3u8
-
-#EXTINF:-2022, beIN SPORTS 1 HD
-http://93.152.174.144:4000/play/bein1fr/index.m3u8
-
-#EXTINF:-2022, beIN SPORTS 2 HD
-http://93.152.174.144:4000/play/bein2fr/index.m3u8
-
-#EXTINF:-2022, beIN SPORTS 3 HD
-http://93.152.174.144:4000/play/bein3fr/index.m3u8
-
-#EXTINF:-2022, SKY SPORTS 1 HD
-http://93.152.174.144:4000/play/ssports1/index.m3u8
-
-#EXTINF:-2022, SKY SPORTS PREMIER LEAGUE
-http://93.152.174.144:4000/play/skysports5/index.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
