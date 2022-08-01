@@ -687,5 +687,107 @@ http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 #EXTINF:-1,Eurosport 1 Deutschland
 http://185.205.201.104:8008/play/a027/index.m3u8
 
+#EXTINF:-1,ORF SPORT+
+http://45.92.69.155:9091/play/a01w
+
+#EXTINF:-1,ORF SPORT+ HD
+http://45.92.69.155:9091/play/a026
+
+#EXTINF:-1, VAMOSHD
+http://188.26.31.251:8000/play/a095
+
+#EXTINF:-1, VAMOSHD
+http://188.26.31.251:8000/play/a093
+
+#EXTINF:-1,DAZN 1 HD
+http://188.26.31.251:8000/play/a08u
+
+#EXTINF:-1,DAZN 2 HD
+http://188.26.31.251:8000/play/a08y
+
+#EXTINF:-1,DAZN 3 HD
+http://188.26.31.251:8000/play/a0af
+
+#EXTINF:-1,DAZN 4 HD
+http://188.26.31.251:8000/play/a0ae
+
+#EXTINF:-1,DAZN F1 HD
+http://188.26.31.251:8000/play/a09b
+
+#EXTINF:-1,EUROSPORT1HD
+http://188.26.31.251:8000/play/a09o
+
+#EXTINF:-1,LALIGATV BAR
+http://188.26.31.251:8000/play/a08x
+
+#EXTINF:-1,M. DEPORTES1HD
+http://188.26.31.251:8000/play/a09c
+
+#EXTINF:-1,M. DEPORTESHD
+http://188.26.31.251:8000/play/a09p
+
+#EXTINF:-1,M. LaLiga 1 HD
+http://188.26.31.251:8000/play/a091
+
+#EXTINF:-1,M. LaLiga 2 HD
+http://188.26.31.251:8000/play/a0ab
+
+#EXTINF:-1,M. LaLiga 3 HD
+http://188.26.31.251:8000/play/a0ac
+
+#EXTINF:-1,M. LaLiga HD
+http://188.26.31.251:8000/play/a099
+
+#EXTINF:-1,M.LCAMPEON1
+http://188.26.31.251:8000/play/a0ad
+
+#EXTINF:-1,M.LCAMPEON2
+http://188.26.31.251:8000/play/a0ag
+
+#EXTINF:-1,M.LCAMPEONES
+http://188.26.31.251:8000/play/a0a2
+
+#EXTINF:-1,M.LCAMPEONES HD
+http://188.26.31.251:8000/play/a044
+
+#EXTINF:-1,Prime Video Sportsbar
+http://185.205.201.91:8001/play/a03i
+
+#EXTINF:-1,DAZN 1
+http://185.205.201.91:8003/play/a02d
+
+#EXTINF:-1,DAZN 2
+http://185.205.201.91:8004/play/a02h
+
+#EXTINF:-1,A SPORTS ASIASAT
+http://111.119.160.229:8000/play/a01f/index.m3u8
+
+#EXTINF:-1,A SPORTS HD PAKSAT
+http://111.119.160.229:8000/play/a02b/index.m3u8
+
+#EXTINF:-1,FAST SPORTS HD
+http://103.174.4.170:8000/play/a045/index.m3u8
+
+#EXTINF:-1,PTV SPORTS HD
+http://103.174.4.170:8000/play/a056/index.m3u8
+
+#EXTINF:-1,Sports18 Khel
+http://103.174.4.170:8000/play/a01f/index.m3u8
+
+#EXTINF:-1,Star Sports 1 HD (videocon d2h)
+http://103.174.4.171:8000/play/a07j/index.m3u8
+
+#EXTINF:-1,Star Sports 2 HD (videocon d2h)
+http://103.174.4.171:8000/play/a07m/index.m3u8
+
+#EXTINF:-1,Star Sports 3 (videocon d2h)
+http://103.174.4.171:8000/play/a07n/index.m3u8
+
+#EXTINF:-1,Star Sports Select 1 HD (videocon d2h)
+http://103.174.4.171:8000/play/a07i/index.m3u8
+
+#EXTINF:-1,Star Sports Select 2 HD (videocon d2h)
+http://103.174.4.171:8000/play/a07o/index.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
