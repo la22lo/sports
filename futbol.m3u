@@ -789,5 +789,26 @@ http://103.174.4.171:8000/play/a07i/index.m3u8
 #EXTINF:-1,Star Sports Select 2 HD (videocon d2h)
 http://103.174.4.171:8000/play/a07o/index.m3u8
 
+#EXTINF:-2022, BT SPORT 2 HD
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+
+#EXTINF:-2022, BT SPORT 3 HD
+http://93.152.174.144:4000/play/btsport3/index.m3u8
+
+#EXTINF:-2022, beIN SPORTS 1 HD
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
+
+#EXTINF:-2022, beIN SPORTS 2 HD
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+
+#EXTINF:-2022, beIN SPORTS 3 HD
+http://93.152.174.144:4000/play/bein3fr/index.m3u8
+
+#EXTINF:-2022, SKY SPORTS 1 HD
+http://93.152.174.144:4000/play/ssports1/index.m3u8
+
+#EXTINF:-2022, SKY SPORTS PREMIER LEAGUE
+http://93.152.174.144:4000/play/skysports5/index.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
