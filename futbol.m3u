@@ -654,5 +654,80 @@ http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 #EXTINF:-1,Eurosport 1 Deutschland
 http://185.205.201.104:8008/play/a027/index.m3u8
 
+#EXTINF:-1, Match! Football 1
+http://185.32.44.186:8004/play/a00x/index.m3u8
+
+#EXTINF:-1,0582.Match! Football 1
+http://185.32.44.186:8004/play/a00l/index.m3u8
+
+#EXTINF:-1, Match! Football 2
+http://185.32.44.186:8004/play/a012/index.m3u8
+
+#EXTINF:-1, Match! Football 3
+http://185.32.44.186:8004/play/a017/index.m3u8
+
+#EXTINF:-1, МАТЧ! БОЕЦ HD
+http://185.32.44.186:8004/play/a01l/index.m3u8
+
+#EXTINF:-1, МАТЧ! ИГРА HD
+http://185.32.44.186:8004/play/a03x/index.m3u8
+
+#EXTINF:-1, МАТЧ! АРЕНА HD
+http://185.32.44.186:8004/play/a057/index.m3u8
+
+#EXTINF:-1, МАТЧ! СТРАНА HD
+http://185.32.44.186:8004/play/a058/index.m3u8
+
+#EXTINF:-1,TRT SPOR HD tur
+http://185.205.201.44:8035/play/a00b/index.m3u8
+
+#EXTINF:-1,TRT SPOR HD tur
+http://31.177.62.182:8000/play/s1
+
+#EXTINF:-1,4Sport
+http://185.166.24.214:8000/play/a070
+
+#EXTINF:-1,Aro Sport
+http://185.166.24.214:8000/play/a05z
+
+#EXTINF:-1,Aso Sport
+http://185.166.24.214:8000/play/a06i
+
+#EXTINF:-1,Astera Sport
+http://185.166.24.214:8000/play/a05y
+
+#EXTINF:-1,Dasinya Sport
+http://185.166.24.214:8000/play/a08t
+
+#EXTINF:-1,Duhok Sport
+http://185.166.24.214:8000/play/a08g
+
+#EXTINF:-1,GK Sport
+http://185.166.24.214:8000/play/a095
+
+#EXTINF:-1,Kurdistan Sport
+http://185.166.24.214:8000/play/a093
+
+#EXTINF:-1,LD Sport
+http://185.166.24.214:8000/play/a08o
+
+#EXTINF:-1,NRT Sport
+http://185.166.24.214:8000/play/a06p
+
+#EXTINF:-1,Reng
+http://185.166.24.214:8000/play/a05l
+
+#EXTINF:-1,See Sport 1
+http://185.166.24.214:8000/play/a08l
+
+#EXTINF:-1,See Sport 2
+http://185.166.24.214:8000/play/a08m
+
+#EXTINF:-1,Sima Sport HD
+http://185.166.24.214:8000/play/a07u
+
+#EXTINF:-1,Zaxo Sport
+http://185.166.24.214:8000/play/a05i
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
