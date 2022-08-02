@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, TE
+https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/QiPjfDakpFvuJgmmRXRBcOOsvDY-Z0jOuZ27aXU7aoDLbxc9UFZm4z2HPrTacYnFRqdet0D0ko-LtynMWTg8cA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8
+
 #EXTINF:-1, TENNIS
 https://tennis.x10.mx/f2wr/mp.php/https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/f.m3u8
 
