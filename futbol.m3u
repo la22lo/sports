@@ -735,5 +735,23 @@ http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 #EXTINF:-1, EUROSPORT
 http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 
+#EXTINF:-1,beIN SPORT 1 HD
+http://193.252.43.21:10200/play/a0c5
+
+#EXTINF:-1,beIN SPORT 1 HD
+http://193.252.43.21:10200/play/a0c6
+
+#EXTINF:-1,BEIN SPORTS  3 HD
+http://193.252.43.21:10200/play/a0c7
+
+#EXTINF:-1,RMC SPORT 1
+http://193.252.43.21:10200/play/a08l
+
+#EXTINF:-1,RMC SPORT 2
+http://193.252.43.21:10200/play/a08n
+
+#EXTINF:-1,CANAL+ SPORT HD
+http://193.252.43.21:10200/play/a0b4
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
