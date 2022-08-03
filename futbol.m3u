@@ -1,41 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇹
-http://dcsport.xyz:8080/NfruMD7aPb/VFwC2wcnjn/158069
-
-#EXTINF:-1, ELEVEN SPORTS 2 HD 🇵🇹
-http://dcsport.xyz:8080/NfruMD7aPb/VFwC2wcnjn/158902
-
-#EXTINF:-1, ELEVEN SPORTS 3 HD 🇵🇹
-http://dcsport.xyz:8080/NfruMD7aPb/VFwC2wcnjn/159765
-
-#EXTINF:-1, ELEVEN SPORT 4 HD 🇵🇹
-http://dcsport.xyz:8080/NfruMD7aPb/VFwC2wcnjn/159766
-
-#EXTINF:-1, ELEVENSPORT 5 HD 🇵🇹
-http://dcsport.xyz:8080/NfruMD7aPb/VFwC2wcnjn/159767
-
-#EXTINF:-1, ELEVENSPORT 6 HD 🇵🇹
-http://dcsport.xyz:8080/NfruMD7aPb/VFwC2wcnjn/159768
-
-#EXTINF:-1, SPORT TV 1 HD 🇵🇹
-http://dcsport.xyz:8080/NfruMD7aPb/VFwC2wcnjn/302761
-
-#EXTINF:-1, SPORT TV 2 HD 🇵🇹
-http://dcsport.xyz:8080/NfruMD7aPb/VFwC2wcnjn/205667
-
-#EXTINF:-1, SPORT TV 3 HD 🇵🇹
-http://dcsport.xyz:8080/NfruMD7aPb/VFwC2wcnjn/205668
-
-#EXTINF:-1, SPORT TV 4 HD 🇵🇹
-http://dcsport.xyz:8080/NfruMD7aPb/VFwC2wcnjn/1458
-
-#EXTINF:-1, SPORT TV 5 HD 🇵🇹
-http://dcsport.xyz:8080/NfruMD7aPb/VFwC2wcnjn/1459
-
-#EXTINF:-1, SPORT TV 6 HD 🇵🇹
-http://dcsport.xyz:8080/NfruMD7aPb/VFwC2wcnjn/367634
-
 #EXTINF:-1, TENNIS
 https://tennis.x10.mx/f2wr/mp.php/https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/f.m3u8
 
@@ -191,6 +155,42 @@ http://cdnrede.com:80/Teste2021/2021teste/207193
 
 #EXTINF:-1, ELEVEN SPORTS 6 🇵🇹
 http://cdnrede.com:80/Teste2021/2021teste/207194
+
+#EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇹
+http://dcsport.xyz:8080/NfruMD7aPb/VFwC2wcnjn/158069
+
+#EXTINF:-1, ELEVEN SPORTS 2 HD 🇵🇹
+http://dcsport.xyz:8080/NfruMD7aPb/VFwC2wcnjn/158902
+
+#EXTINF:-1, ELEVEN SPORTS 3 HD 🇵🇹
+http://dcsport.xyz:8080/NfruMD7aPb/VFwC2wcnjn/159765
+
+#EXTINF:-1, ELEVEN SPORT 4 HD 🇵🇹
+http://dcsport.xyz:8080/NfruMD7aPb/VFwC2wcnjn/159766
+
+#EXTINF:-1, ELEVENSPORT 5 HD 🇵🇹
+http://dcsport.xyz:8080/NfruMD7aPb/VFwC2wcnjn/159767
+
+#EXTINF:-1, ELEVENSPORT 6 HD 🇵🇹
+http://dcsport.xyz:8080/NfruMD7aPb/VFwC2wcnjn/159768
+
+#EXTINF:-1, SPORT TV 1 HD 🇵🇹
+http://dcsport.xyz:8080/NfruMD7aPb/VFwC2wcnjn/302761
+
+#EXTINF:-1, SPORT TV 2 HD 🇵🇹
+http://dcsport.xyz:8080/NfruMD7aPb/VFwC2wcnjn/205667
+
+#EXTINF:-1, SPORT TV 3 HD 🇵🇹
+http://dcsport.xyz:8080/NfruMD7aPb/VFwC2wcnjn/205668
+
+#EXTINF:-1, SPORT TV 4 HD 🇵🇹
+http://dcsport.xyz:8080/NfruMD7aPb/VFwC2wcnjn/1458
+
+#EXTINF:-1, SPORT TV 5 HD 🇵🇹
+http://dcsport.xyz:8080/NfruMD7aPb/VFwC2wcnjn/1459
+
+#EXTINF:-1, SPORT TV 6 HD 🇵🇹
+http://dcsport.xyz:8080/NfruMD7aPb/VFwC2wcnjn/367634
 
 #EXTINF:-1,SPORT TV 1 HD 🇵🇹
 http://85.245.237.73:8082/play/a001
