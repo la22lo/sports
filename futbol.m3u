@@ -1,35 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, BEIN SPORT 1 HD
-http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/361
-
-#EXTINF:-1, BEIN SPORT 2 HD
-http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/362
-
-#EXTINF:-1, BEIN SPORT 3 HD
-http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/363
-
-#EXTINF:-1, BEIN SPORTS MAX 4 HD
-http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/8565
-
-#EXTINF:-1, BEIN SPORTS MAX  HD 5
-http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/187746
-
-#EXTINF:-1, BEIN SPORT MAX HD 6
-http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/8567
-
-#EXTINF:-1, BEIN SPORT MAX HD 7
-http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/73482
-
-#EXTINF:-1, BEIN SPORT MAX HD 8
-http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/73483
-
-#EXTINF:-1, BEIN SPORT MAX HD 9
-http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/73484
-
-#EXTINF:-1, BEIN SPORTS MAX  HD 10
-http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/187741
-
 #EXTINF:-1, TENNIS
 https://tennis.x10.mx/f2wr/mp.php/https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/f.m3u8
 
@@ -260,6 +230,36 @@ http://93.152.174.144:4000/play/bein2fr/index.m3u8
 
 #EXTINF:-2022, beIN SPORTS 3 HD 🇫🇷
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
+
+#EXTINF:-1, BEIN SPORT 1 HD 🇫🇷
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/361
+
+#EXTINF:-1, BEIN SPORT 2 HD 🇫🇷
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/362
+
+#EXTINF:-1, BEIN SPORT 3 HD 🇫🇷
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/363
+
+#EXTINF:-1, BEIN SPORTS MAX 4 HD 🇫🇷
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/8565
+
+#EXTINF:-1, BEIN SPORTS MAX  HD 5 🇫🇷
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/187746
+
+#EXTINF:-1, BEIN SPORT MAX HD 6 🇫🇷
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/8567
+
+#EXTINF:-1, BEIN SPORT MAX HD 7 🇫🇷
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/73482
+
+#EXTINF:-1, BEIN SPORT MAX HD 8 🇫🇷
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/73483
+
+#EXTINF:-1, BEIN SPORT MAX HD 9 🇫🇷
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/73484
+
+#EXTINF:-1, BEIN SPORTS MAX  HD 10 🇫🇷
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/187741
 
 #EXTINF:-1,Eleven Sports Pro League 1 FR 🇫🇷
 http://185.205.201.104:8009/play/a02a/index.m3u8
