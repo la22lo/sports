@@ -171,6 +171,21 @@ http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-2022, BT SPORT 3 HD 🇬🇧
 http://93.152.174.144:4000/play/btsport3/index.m3u8
 
+#EXTINF:-1,beIN SPORT 1 HD 🇫🇷
+http://193.252.43.21:10200/play/a0c5
+
+#EXTINF:-1,BEIN SPORTS  3 HD 🇫🇷
+http://193.252.43.21:10200/play/a0c7
+
+#EXTINF:-1,RMC SPORT 1 🇫🇷
+http://193.252.43.21:10200/play/a08l
+
+#EXTINF:-1,RMC SPORT 2 🇫🇷
+http://193.252.43.21:10200/play/a08n
+
+#EXTINF:-1,CANAL+ SPORT HD 🇫🇷
+http://193.252.43.21:10200/play/a0b4
+
 #EXTINF:-2022, beIN SPORTS 1 HD 🇫🇷
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
 
@@ -180,8 +195,8 @@ http://93.152.174.144:4000/play/bein2fr/index.m3u8
 #EXTINF:-2022, beIN SPORTS 3 HD 🇫🇷
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
 
-#EXTINF:-1,RMC SPORT 1 🇫🇷
-http://193.252.43.21:10200/play/a08l
+#EXTINF:-1,Eleven Sports Pro League 1 FR 🇫🇷
+http://185.205.201.104:8009/play/a02a/index.m3u8
 
 #EXTINF:-1,beIN SPORTS EXTRA Ñ 🇪🇸
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
@@ -194,9 +209,6 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
 
 #EXTINF:-1, BEIN SPORT EXTRA Ñ 🇪🇸
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
-
-#EXTINF:-1,Eleven Sports Pro League 1 FR 🇫🇷
-http://185.205.201.104:8009/play/a02a/index.m3u8
 
 #EXTINF:-1, SUPER GRANDSTAND 🇬🇧
 http://185.145.43.244:8000/play/a008/index.m3u8
@@ -734,24 +746,6 @@ http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 
 #EXTINF:-1, EUROSPORT
 http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
-
-#EXTINF:-1,beIN SPORT 1 HD
-http://193.252.43.21:10200/play/a0c5
-
-#EXTINF:-1,beIN SPORT 1 HD
-http://193.252.43.21:10200/play/a0c6
-
-#EXTINF:-1,BEIN SPORTS  3 HD
-http://193.252.43.21:10200/play/a0c7
-
-#EXTINF:-1,RMC SPORT 1
-http://193.252.43.21:10200/play/a08l
-
-#EXTINF:-1,RMC SPORT 2
-http://193.252.43.21:10200/play/a08n
-
-#EXTINF:-1,CANAL+ SPORT HD
-http://193.252.43.21:10200/play/a0b4
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
