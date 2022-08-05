@@ -858,5 +858,8 @@ http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
+extinf:-1,DANZ Italia 🇮🇹
+https://hls1.yuanzhi.org.cn/live/H8406850.m3u8?txSecret=bec8558c278f7f4ee826c0c2db2c92d2&txTime=62EE9F0B&_s=stream
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
