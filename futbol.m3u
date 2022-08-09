@@ -846,15 +846,6 @@ http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
-#EXTINF:-1,DANZ Italia 🇮🇹
-https://hls1.yuanzhi.org.cn/live/H8406850.m3u8?txSecret=bec8558c278f7f4ee826c0c2db2c92d2&txTime=62EE9F0B&_s=stream
-
-#EXTINF:-1,SKY SPORTS 🇬🇧
-https://45507e4904e7.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.174422803327.channel.TB3eoZAMELBe.m3u8
-
-#EXTINF:-1,5 LIVE 🇮🇱
-https://hls1.yuanzhi.org.cn/live/H629272.m3u8?txSecret=69914bac779a46773f863caf064532b9&txTime=62EE9F0B&_s=stream
-
 #EXTINF:-1,5 bein 1
 http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27099
 
