@@ -27,6 +27,9 @@ https://dje6yassknq8t.cloudfront.net/playlist.m3u8?Pericopalotes135
 #EXTINF:-1, MADRID
 http://77.89.204.105:8003/play/a017/index.m3u8
 
+#EXTINF:-1, MADRID
+https://203c24c33fcd.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.572289218728.channel.rhIEgrJYvSgU.m3u8
+
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
 
