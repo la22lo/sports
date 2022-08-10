@@ -12,6 +12,9 @@ http://77.89.204.105:8003/play/a017/index.m3u8?Pericopalotes135
 #EXTINF:-1, MADRID
 https://bl.uma.media/live/LIVE/1054/HLS/SD/A7Tofp2hfShgiVO5ooBEaw/1660172660/S-VzhhV3R1dlJqQWJ0ZlBCbVpPZmExOGhaRXJiR2ZiaFYvUVZyS2Q3LzQxU3k2WEk1ZnNxUkxSU2ZaLzU3T1EzSUZlalN0eEFHbHlhNzJLckNrNzhsdXc9PQ==/playlist_v2.m3u8?Pericopalotes135
 
+#EXTINF:-1, MADRID
+https://dje6yassknq8t.cloudfront.net/playlist.m3u8?Pericopalotes135
+
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
 
