@@ -1,6 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1, MADRID
+https://dcs-live-ue1.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/rendition.m3u8?track=video-3&anvsid=m177618710-n54b0ed191595b001120a56079a0b32e6&ts=1660154722&anvtrid=46bbf88e408526838f4e6fd17adaad8a
+
+#EXTINF:-1, MADRID
 https://ingest4-2474.boxcast.com/nondescript-moon/lnsp5pqnypsprmlcxipf/480p-ext.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9pbmdlc3Q0LTI0NzQuYm94Y2FzdC5jb20vbm9uZGVzY3JpcHQtbW9vbi9sbnNwNXBxbnlwc3BybWxjeGlwZi80ODBwLWV4dC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjYwMjcxNTg3fX19XX0_&Signature=d9Myo~8WVEVWKkWlqgtbEgnByxYRUSAPlViOpn8zhH7kd7bJzriZ449eu1sX1cYc68yC3~bUVo91gl~9pT9vO43KIx6m8Mf0OiG5R3lYBNgrp-JyCjSLSk41~2I3-K~y5dwZhDavRTBmIOjRsKeMUXeVeCPmbioNEkNLutadwe7-cm~kjjMtzILKVkEckSjlV~zzQ13NV5yHgajLqeJFHGOElSCh8miRLLAF7GbjK4S1Rzuslfxqcn64vLOpLtbHkw3EZWWZiF4ZOzwOtw~St~iUHIX1A4Pg2or9eErbgkAXkT-br8oOEILMpEdqYJAmiZfQ7m-Uj0~N5erlhI1vtg__&Key-Pair-Id=APKAJ7GUCBQUK6NTWZCA
 
 #EXTINF:-1, MADRID
