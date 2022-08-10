@@ -544,19 +544,13 @@ http://109.200.130.124:9100/play/a03p/index.m3u8
 http://109.200.130.124:9100/play/a03q/index.m3u8
 
 #EXTINF:-1, Match! Football 1 🇷🇺
-http://185.32.44.186:8004/play/a00x/index.m3u8
-
-#EXTINF:-1, Match! Football 1 🇷🇺
-http://185.32.44.186:8004/play/a00l/index.m3u8
-
-#EXTINF:-1, Match! Football 2 🇷🇺
-http://185.32.44.186:8004/play/a012/index.m3u8
+http://50.7.92.90/Match_Futbol_1_HD/mono.m3u8
 
 #EXTINF:-1, Match! Football 2 🇷🇺
 http://50.7.92.90/Match_Futbol_2_HD/mono.m3u8
 
 #EXTINF:-1, Match! Football 3 🇷🇺
-http://185.32.44.186:8004/play/a017/index.m3u8
+http://50.7.92.90/Match_Futbol_3_HD/mono.m3u8
 
 #EXTINF:-1, МАТЧ! БОЕЦ HD 🇷🇺
 http://185.32.44.186:8004/play/a01l/index.m3u8
