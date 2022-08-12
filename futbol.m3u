@@ -657,6 +657,9 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 #EXTINF:-1, Беларусь 5 🇧🇾
 http://82.209.197.187:8080/udp/239.0.100.9:1234
 
+#EXTINF:-1, Беларусь 5 🇧🇾
+http://50.7.188.186/belarus_5/mono.m3u8
+
 #EXTINF:-1, S1 🇸🇰 
 http://cloudcdn.tk:80/ZgD95l6nsu/tLlaGL888/27817
 
