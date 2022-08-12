@@ -3,9 +3,6 @@
 #EXTINF:-1, TUDN
 https://dcs-live-ue1.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/rendition.m3u8?track=video-3&anvsid=m177618710-n54b0ed191595b001120a56079a0b32e6&ts=1660154722&anvtrid=46bbf88e408526838f4e6fd17adaad8a
 
-#EXTINF:-1, BT SPORT 1 🇬🇧
-https://203c24c33fcd.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.572289218728.channel.rhIEgrJYvSgU.m3u8
-
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
 
@@ -239,6 +236,9 @@ http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/295925
 
 #EXTINF:-1, BEIN ENGLISH 3 HD 🇬🇧
 http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/295926
+
+#EXTINF:-1, BT SPORT 1 🇬🇧
+https://203c24c33fcd.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.572289218728.channel.rhIEgrJYvSgU.m3u8
 
 #EXTINF:-2022, BT SPORT 1 HD 🇬🇧
 http://93.152.174.144:4000/play/btsport1/index.m3u8
