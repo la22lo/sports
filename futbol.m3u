@@ -705,6 +705,12 @@ http://82.209.197.187:8080/udp/239.0.100.9:1234
 #EXTINF:-1, Беларусь 5 🇧🇾
 http://50.7.188.186/belarus_5/mono.m3u8
 
+#EXTINF:-1, VIVARO SPORTS 🇦🇲
+http://212.73.81.237:8088/play/a004/index.m3u8
+
+#EXTINF:-1, VIVARO SPORTS + 🇦🇲
+http://212.73.81.237:8088/play/a005/index.m3u8
+
 #EXTINF:-1, SETANTA SPORT QAZ 🇰🇿
 http://he11o.akadatel.com/iptv/D9LY75H8AM9GMN/2399/index.m3u8
 
