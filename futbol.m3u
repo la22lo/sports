@@ -27,6 +27,9 @@ https://live-ak.vimeocdn.com/exp=1660405960~acl=%2Fae9e7616-6ff8-4a14-8c3f-46e6f
 #EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 
+#EXTINF:-1, DAZN 
+https://eu-london-cache-origin-1.onestream.studio/content/hls/live/live_1392667_nqq46wu0y/hls.m3u8
+
 #EXTINF:-1, MTV+ HD 🇮🇳
 http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 
