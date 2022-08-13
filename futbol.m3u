@@ -186,14 +186,17 @@ http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/211439
 #EXTINF:-1, BEIN PREMIUM 3 HD 🇶🇦
 http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/211440
 
-#EXTINF:-1, GEO SUPER 🇮🇳
-http://221.120.204.4/geo-super-LOCKLE/index.m3u8
+#EXTINF:-1, DAZN SPORT 🇩🇪
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/122968.m3u8
 
-#EXTINF:-1, GEO SUPER 🇮🇳
-http://221.120.204.4:8080/geo-super-LOCKLE/index.m3u8
+#EXTINF:-1, DAZN SPORT 2 🇩🇪
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/122970.m3u8
 
-#EXTINF:-1, GEO SUPER 🇮🇳
-http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8?token=rk%F0%9F%8F%8F
+#EXTINF:-1, DAZN SPORT 🇩🇪
+http://platin4k.eu:80/live/kralkerim/8TKLyJivVEA/13863.m3u8
+
+#EXTINF:-1, DAZN SPORT 2 🇩🇪
+http://platin4k.eu:80/live/kralkerim/8TKLyJivVEA/13864.m3u8
 
 #EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
@@ -303,6 +306,24 @@ http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-2022, BT SPORT 3 HD 🇬🇧
 http://93.152.174.144:4000/play/btsport3/index.m3u8
 
+#EXTINF:-2022, BT SPORT 1 HD 🇬🇧
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/116667.m3u8
+
+#EXTINF:-2022, BT SPORT 2 HD 🇬🇧
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/116668.m3u8
+
+#EXTINF:-2022, BT SPORT 3 HD 🇬🇧
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/116669.m3u8
+
+#EXTINF:-1,beIN SPORT 1 HD 🇫🇷
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/67163.m3u8
+
+#EXTINF:-1,beIN SPORT 2 HD 🇫🇷
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/67164.m3u8
+
+#EXTINF:-1,beIN SPORT 3 HD 🇫🇷
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/67165.m3u8
+
 #EXTINF:-1,beIN SPORT 1 HD 🇫🇷
 http://193.252.43.21:10200/play/a0c5
 
@@ -323,6 +344,12 @@ http://193.252.43.21:10200/play/a08l
 
 #EXTINF:-1,RMC SPORT 2 🇫🇷
 http://193.252.43.21:10200/play/a08n
+
+#EXTINF:-1,RMC SPORT 1 🇫🇷
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/67159.m3u8
+
+#EXTINF:-1,RMC SPORT 2 🇫🇷
+http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/67160.m3u8
 
 #EXTINF:-1,CANAL+ SPORT HD 🇫🇷
 http://193.252.43.21:10200/play/a0b4
