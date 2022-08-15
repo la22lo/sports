@@ -1,17 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,CANAL CHINO 🇨🇳
-https://play.zhuafan.tech/live/live_1570780349524.m3u8?auth_key=1660602449-37329726-0-152f2348b38fe00bcea24ce2a686df84&uid=live_1570780349524
-
-#EXTINF:-1,CANAL CHINO 🇨🇳
-https://hls1.yuanzhi.org.cn/live/H670293.m3u8?txSecret=a5cc546dfed7f52a13a53256518b1153&txTime=62FBB3CC&_s=stream
-
-#EXTINF:-1,LALIGA SPORTS televisión 🇨🇳
-https://hls1.yuanzhi.org.cn/live/L8772720.m3u8?txSecret=9703a6f9d9896babbbf86f2e5aa98c90&txTime=62FBB3CC&_s=stream
-
-#EXTINF:-1,LALIGA SPORTS televisión 🇨🇳
-https://live.football-master.net/live/sd-1-3758048.m3u8?auth_key=1660596149-0-0-f5537d94fc72cea02b6e905a733cf6bc
-
 #EXTINF:-1,SUPERSPORT LALIGA 🇬🇧
 https://1efca8120fa8.us-west-2.playback.live-video.net/api/video/v1/us-west-2.572289218728.channel.GSDaUmqf0eaQ.m3u8
 
