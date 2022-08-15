@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,PREMIERE SPORTS 🇬🇧
+https://99acccf47e2c.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.572289218728.channel.Bhi9qMBtw3Uo.m3u8?Pericopalotes135
+
 #EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 
@@ -8,9 +11,6 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
 
 #EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
-
-#EXTINF:-1, YUANZHI
-https://hls1.yuanzhi.org.cn/live/H670286.m3u8?txSecret=b111124e1a798c886b16c99c8b9c923b&txTime=62F93A89&_s=stream
 
 #EXTINF:-1, BEIN SPORTS MAX  HD 5 🇫🇷
 http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/187746
@@ -1037,9 +1037,6 @@ http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
-
-#EXTINF:-1,PREMIERE SPORTS
-https://99acccf47e2c.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.572289218728.channel.Bhi9qMBtw3Uo.m3u8?Pericopalotes135
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
