@@ -195,13 +195,13 @@ http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/211439
 #EXTINF:-1, BEIN PREMIUM 3 HD 🇶🇦
 http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/211440
 
-#EXTINF:-1, DAZN SPORT 🇩🇪
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/122968.m3u8
+#EXTINF:-1, DAZN 1 HD 🇩🇪
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/161313
 
-#EXTINF:-1, DAZN SPORT 2 🇩🇪
-http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/122970.m3u8
+#EXTINF:-1, DAZN 2 HD 🇩🇪
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/161314
 
-#EXTINF:-1, DAZN SPORT 🇩🇪
+#EXTINF:-1, DAZN 1 SPORT 🇩🇪
 http://platin4k.eu:80/live/kralkerim/8TKLyJivVEA/13863.m3u8
 
 #EXTINF:-1, DAZN SPORT 2 🇩🇪
@@ -368,6 +368,9 @@ http://vicic.eu:8080/live/Gokceaydemir/d94R82M3uhAB/67160.m3u8
 
 #EXTINF:-1,CANAL+ SPORT HD 🇫🇷
 http://193.252.43.21:10200/play/a0b4
+
+#EXTINF:-1, L EQUIPE 🇫🇷
+http://satelliteiptv.xyz:8080/8r7ixagcs6/000mkLou87cd/5674
 
 #EXTINF:-2022, beIN SPORTS 1 HD 🇫🇷
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
@@ -812,18 +815,6 @@ http://195.222.7.26:7001/play/a00t
 
 #EXTINF:-1,Eurosport 1 Deutschland 🇩🇪
 http://185.205.201.104:8008/play/a027/index.m3u8
-
-#EXTINF:-1,DAZN 1 🇩🇪
-http://185.205.201.91:8003/play/a02d
-
-#EXTINF:-1,DAZN 2 🇩🇪
-http://185.205.201.91:8004/play/a02h
-
-#EXTINF:-1, DAZN 1 HD 🇩🇪
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/161313
-
-#EXTINF:-1, DAZN 2 HD 🇩🇪
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/161314
 
 #EXTINF:-1,SPORT1 HD ALE 🇩🇪
 http://178.251.29.83:7242/play/a01y
