@@ -651,29 +651,11 @@ https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 #EXTINF:-1,Setanta Sports 🇷🇺
 http://132.145.254.128:8070/channel/1ca9897c/index.m3u8?q=7b4f7952b7746f9e2679349fb1547bee
 
-#EXTINF:-1,Setanta Sports 🇷🇺
-http://he11o.akadatel.com/iptv/D9LY75H8AM9GMN/5069/index.m3u8
-
 #EXTINF:-1,Setanta Sports 1 HD 🇷🇺
 https://livetv.mylifeisgood.ml/channels/setantahd
 
-#EXTINF:-1,Setanta Sports 1 HD 🇷🇺
-http://he11o.akadatel.com/iptv/D9LY75H8AM9GMN/271/index.m3u8
-
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
 https://livetv.mylifeisgood.ml/channels/setantaplus
-
-#EXTINF:-1,Setanta Sports 2 HD 🇷🇺
-http://he11o.akadatel.com/iptv/D9LY75H8AM9GMN/5070/index.m3u8
-
-#EXTINF:-1,Setanta Sports 2 HD 🇷🇺
-http://he11o.akadatel.com/iptv/D9LY75H8AM9GMN/270/index.m3u8
-
-#EXTINF:-1,Setanta Sports 1 EUROASIA 🇷🇺
-http://he11o.akadatel.com/iptv/D9LY75H8AM9GMN/15183/index.m3u8
-
-#EXTINF:-1,Setanta Sports 1 EUROASIA + 🇷🇺
-http://he11o.akadatel.com/iptv/D9LY75H8AM9GMN/15184/index.m3u8
 
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
@@ -761,15 +743,6 @@ http://iptv.prosto.tv:7000/ch109/video.m3u8
 
 #EXTINF:-1, KBP SPORT 🇷🇺
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-
-#EXTINF:-1, SETANTA SPORT UKR 🇺🇦
-http://he11o.akadatel.com/iptv/D9LY75H8AM9GMN/272/index.m3u8
-
-#EXTINF:-1, SETANTA SPORT UKR 🇺🇦
-http://he11o.akadatel.com/iptv/D9LY75H8AM9GMN/5068/index.m3u8
-
-#EXTINF:-1, SETANTA SPORT UKR HD 🇺🇦
-http://he11o.akadatel.com/iptv/D9LY75H8AM9GMN/10040/index.m3u8
 
 #EXTINF:-1, Беларусь 5 🇧🇾
 http://82.209.197.187:8080/udp/239.0.100.9:1234
