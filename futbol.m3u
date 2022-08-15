@@ -1,10 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1,CANAL CHINO 🇨🇳
+https://play.zhuafan.tech/live/live_1570780349524.m3u8?auth_key=1660602449-37329726-0-152f2348b38fe00bcea24ce2a686df84&uid=live_1570780349524
+
 #EXTINF:-1,SUPERSPORT LALIGA 🇬🇧
 https://1efca8120fa8.us-west-2.playback.live-video.net/api/video/v1/us-west-2.572289218728.channel.GSDaUmqf0eaQ.m3u8
-
-#EXTINF:-1,GOL TV
-https://photocall.tv/ks5g/hls/gol.m3u8
 
 #EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
@@ -980,6 +980,9 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
 #EXTINF:-1, ATG1
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+
+#EXTINF:-1,GOL TV
+https://photocall.tv/ks5g/hls/gol.m3u8
 
 #EXTINF:-1, LA 7 CYL 🇪🇸
 http://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
