@@ -36,9 +36,6 @@ http://79.124.72.70:8000/play/a07n
 #EXTINF:-1,ESPN 🇦🇷
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 
-#EXTINF:-1, DAZN 
-https://eu-london-cache-origin-1.onestream.studio/content/hls/live/live_1392667_nqq46wu0y/hls.m3u8
-
 #EXTINF:-1, MTV+ HD 🇮🇳
 http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 
