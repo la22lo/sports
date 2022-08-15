@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,CANAL CHINO
+https://pull.xingliju.com/leisu/1117966602369462.m3u8?auth_key=1660608211-0-0-e509a1feae8395a8df1ed6bed2022a11
+
 #EXTINF:-1,SUPERSPORT LALIGA 🇬🇧
 https://1efca8120fa8.us-west-2.playback.live-video.net/api/video/v1/us-west-2.572289218728.channel.GSDaUmqf0eaQ.m3u8
 
