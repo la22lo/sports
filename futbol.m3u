@@ -3,9 +3,6 @@
 #EXTINF:-1,PREMIERE SPORTS 🇬🇧
 https://99acccf47e2c.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.572289218728.channel.Bhi9qMBtw3Uo.m3u8?Pericopalotes135
 
-#EXTINF:-1, SUPERSPORT LALIGA 🇬🇧
-http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/4432.m3u8
-
 #EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 
@@ -20,9 +17,6 @@ http://txm.flysat.live:80/152093114094098/152040562961701/205741
 
 #EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
-http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/2310.m3u8
 
 #EXTINF:-1, BEIN SPORTS MAX  HD 5 🇫🇷
 http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/187746
@@ -293,9 +287,6 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115807
 
 #EXTINF:-1, BeINSports 2 HD[THAI] 🇹🇭
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115809
-
-#EXTINF:-1, SUPERSPORT LALIGA 🇬🇧
-http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/4432.m3u8
 
 #EXTINF:-1, BEIN ENGLISH 1 HD 🇬🇧
 http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/295924
