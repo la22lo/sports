@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,SUPERSPORT LALIGA 🇬🇧
+https://1efca8120fa8.us-west-2.playback.live-video.net/api/video/v1/us-west-2.572289218728.channel.GSDaUmqf0eaQ.m3u8
+
 #EXTINF:-1,GOL TV
 https://photocall.tv/ks5g/hls/gol.m3u8
 
