@@ -12,6 +12,12 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 #EXTINF:-1,ELEVEN SPORTS 2 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
 
+#EXTINF:-1,ELEVEN SPORTS 1 HD 🇵🇹
+http://txm.flysat.live:80/152093114094098/152040562961701/205742
+
+#EXTINF:-1,ELEVEN SPORTS 2 HD 🇵🇹
+http://txm.flysat.live:80/152093114094098/152040562961701/205741
+
 #EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
@@ -219,23 +225,23 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 #EXTINF:-1,ELEVEN SPORTS 6 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6
 
-#EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
-http://legendtvs.com:80/anwar123/12345/381450
+#EXTINF:-1,ELEVEN SPORTS 1 HD 🇵🇹
+http://txm.flysat.live:80/152093114094098/152040562961701/205742
 
-#EXTINF:-1,ELEVEN SPORTS 2 🇵🇹
-http://legendtvs.com:80/anwar123/12345/381449
+#EXTINF:-1,ELEVEN SPORTS 2 HD 🇵🇹
+http://txm.flysat.live:80/152093114094098/152040562961701/205741
 
-#EXTINF:-1,ELEVEN SPORTS 3 🇵🇹
-http://legendtvs.com:80/anwar123/12345/381448
+#EXTINF:-1,ELEVEN SPORTS 3 HD 🇵🇹
+http://txm.flysat.live:80/152093114094098/152040562961701/205740
 
-#EXTINF:-1,ELEVEN SPORTS 4 🇵🇹
-http://legendtvs.com:80/anwar123/12345/381447
+#EXTINF:-1,ELEVEN SPORTS 4 HD 🇵🇹
+http://txm.flysat.live:80/152093114094098/152040562961701/205739
 
-#EXTINF:-1,ELEVEN SPORTS 5 🇵🇹
-http://legendtvs.com:80/anwar123/12345/381446
+#EXTINF:-1,ELEVEN SPORTS 5 HD 🇵🇹
+http://txm.flysat.live:80/152093114094098/152040562961701/205738
 
-#EXTINF:-1,ELEVEN SPORTS 6 🇵🇹
-http://legendtvs.com:80/anwar123/12345/381445
+#EXTINF:-1,ELEVEN SPORTS 6 HD 🇵🇹
+http://txm.flysat.live:80/152093114094098/152040562961701/205737
 
 #EXTINF:-1, SPORT TV 1 HD 🇵🇹
 http://93.152.174.144:4000/play/sporttv1/index.m3u8
