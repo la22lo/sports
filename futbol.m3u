@@ -1095,5 +1095,29 @@ http://119.59.101.124:8410/play/a00x/index.m3u8
 #EXTINF:-1, truesport2
 http://119.59.101.124:8410/play/a00u/index.m3u8
 
+#EXTINF:-1, COSMOTE Sport 1 HD
+http://103.82.20.104:8000/play/cmt1
+
+#EXTINF:-1, COSMOTE Sport 2 HD
+http://103.82.20.104:8000/play/cmt2
+
+#EXTINF:-1, COSMOTE Sport 4 HD
+http://103.82.20.104:8000/play/cmt4
+
+#EXTINF:-1, COSMOTE Sport 6 HD
+http://103.82.20.104:8000/play/cmt6
+
+#EXTINF:-1, NOVA SPORTS 1
+http://103.82.20.104:8000/play/ns1
+
+#EXTINF:-1, NOVA SPORTS 2
+http://103.82.20.104:8000/play/ns1b
+
+#EXTINF:-1, Nova Sports 5
+http://103.82.20.104:8000/play/ns5
+
+#EXTINF:-1, Nova Sports 6
+http://103.82.20.104:8000/play/cmt6
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
