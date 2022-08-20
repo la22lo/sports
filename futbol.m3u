@@ -1032,35 +1032,24 @@ http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
-#EXTINF:-1,PT_ELEVEN1_HD
+#EXTINF:-1, ELEVEN Sports 1 HD
 http://80.78.128.1:65437/play/PT_ELEVEN1_HD
-#EXTINF:-1,Eleven Sports 1
-http://81.196.164.194:40000/play/a03r
-#EXTINF:-1,Eleven Sports 1 HD--
-http://81.196.164.194:40000/play/a03u
-#EXTINF:-1,Eleven Sports 2 HD
-http://81.196.164.194:40000/play/a03w
-#EXTINF:-1,Eleven Sports 3
-http://81.196.164.194:40000/play/a0av
-#EXTINF:-1,Eleven Sports 4
-http://81.196.164.194:40000/play/a088
-#EXTINF:-1,Eleven Sports 5
-http://81.196.164.194:40000/play/a03y
-#EXTINF:-1,Eleven 6
-http://81.196.164.194:40000/play/a0au
 
-#EXTINF:-1,SPORT TV 1 HD-1814
-http://81.196.164.194:40000/play/a0b7
-#EXTINF:-1,SPORT TV+
-http://81.196.164.194:40000/play/a02m
-#EXTINF:-1,Sport TV 1 HD
-http://81.196.164.194:40000/play/a0b8
-#EXTINF:-1,Sport TV 1 HD 1802
-http://81.196.164.194:40000/play/a0b6
-#EXTINF:-1,Sport TV 2 HD
-http://81.196.164.194:40000/play/a006
-#EXTINF:-1,Sport TV 3 HD
-http://81.196.164.194:40000/play/a007
+#EXTINF:-1,Eleven Sports 2 HD
+http://80.78.128.1:65437/play/PT_ELEVEN2_HD
+
+#EXTINF:-1,Eleven Sports 3 HD
+http://80.78.128.1:65437/play/PT_ELEVEN3_HD
+
+#EXTINF:-1,Eleven Sports 4 HD
+http://80.78.128.1:65437/play/PT_ELEVEN4_HD
+
+#EXTINF:-1,Eleven Sports 5 HD
+http://80.78.128.1:65437/play/PT_ELEVEN5_HD
+
+#EXTINF:-1,Eleven Sports 6 HD
+http://80.78.128.1:65437/play/PT_ELEVEN6_HD
+
 
 #EXTINF:-1,TurkenistanSports_HD
 http://80.78.128.1:65437/play/TurkenistanSports_HD
