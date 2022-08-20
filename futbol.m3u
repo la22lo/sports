@@ -3,17 +3,11 @@
 #EXTINF:-1,DIRECTV 🇦🇷
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/20_.m3u8?token=QyAydF6ALLdCAWv1CY8n2w&expires=1661030688
 
-#EXTINF:-1,DAZN 🇪🇸
-https://mvk@cp.zabexin.com/hls/115679d0a013d1e98730c72c91dd0123/chunklist.m3u8?mvk
-
 #EXTINF:-1,CANAL CHINO 🇨🇳
 http://play.cluxsd.cn/tianxiatv/stream-e33e1cbe247e47eabc0eab34896d3966.m3u8
 
-#EXTINF:-1,CHEMBD
+#EXTINF:-1,CHEMBD 🇹🇭
 https://sun.meta-scores.com/2dc0dfd28d/index.m3u8
-
-#EXTINF:-1,CANAL+2 🇫🇷
-https://hls.lbs.pw/hls/canalplus2/playlist.m3u8?token=254193a9784a5743072d8d9880015a3aeb15778d-0.07597355017851792-1661060779-1661024779
 
 #EXTINF:-1,SuperSportLaLiga 🇬🇧
 http://80.78.128.1:65437/play/UK-SuperSportLaLiga
