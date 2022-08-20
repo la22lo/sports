@@ -1068,5 +1068,32 @@ http://2.57.217.197:8080/play/a001/index.m3u8
 #EXTINF:-1,0ri-adchara sport 2
 http://2.57.217.197:8080/play/a004/index.m3u8
 
+#EXTINF:-1, bein1
+http://119.59.101.124:8410/play/a00y/index.m3u8
+
+#EXTINF:-1, bein3
+http://119.59.101.124:8410/play/a00z/index.m3u8
+
+#EXTINF:-1, football1
+http://119.59.101.124:8410/play/a01a/index.m3u8
+
+#EXTINF:-1, football2
+http://119.59.101.124:8410/play/a00w/index.m3u8
+
+#EXTINF:-1, football3
+http://119.59.101.124:8410/play/a017/index.m3u8
+
+#EXTINF:-1, football4
+http://119.59.101.124:8410/play/a00p/index.m3u8
+
+#EXTINF:-1, football5
+http://119.59.101.124:8410/play/a00q/index.m3u8
+
+#EXTINF:-1, truesport-1
+http://119.59.101.124:8410/play/a00x/index.m3u8
+
+#EXTINF:-1, truesport2
+http://119.59.101.124:8410/play/a00u/index.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
