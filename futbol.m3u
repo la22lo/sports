@@ -1119,5 +1119,185 @@ http://103.82.20.104:8000/play/ns5
 #EXTINF:-1, Nova Sports 6
 http://103.82.20.104:8000/play/cmt6
 
+#EXTINF:-1, Eleven Sports 1 HD
+http://103.82.20.104:8000/play/eleven1
+
+#EXTINF:-1, Eleven Sports 2 HD
+http://103.82.20.104:8000/play/eleven2
+
+#EXTINF:-1, Eleven Sports 3 HD
+http://103.82.20.104:8000/play/eleven3
+
+#EXTINF:-1, Eleven Sports 4 HD
+http://103.82.20.104:8000/play/eleven4
+
+#EXTINF:-1, Sport TV 1 HD
+http://103.82.20.104:8000/play/sporttv1
+
+#EXTINF:-1,Setanta Sport 1
+http://103.82.20.104:8000/play/setanta2
+
+#EXTINF:-1,Setanta Ukraine
+http://103.82.20.104:8000/play/setantaua
+
+#EXTINF:-1,SPORT KLUB 1 HD 
+http://178.148.77.174:8000/play/a001/index.m3u8
+
+#EXTINF:-1,SPORT KLUB 2 HD 
+http://178.148.77.174:8000/play/a002/index.m3u8
+
+#EXTINF:-1,Look Sport + HD
+http://90.95.33.182:48000/play/a04r
+
+#EXTINF:-1,Look Sport 2
+http://90.95.33.182:48000/play/a03x
+
+#EXTINF:-1,Look Sport 2 HD
+http://90.95.33.182:48000/play/a021
+
+#EXTINF:-1,Look Sport 3
+http://90.95.33.182:48000/play/a03y
+
+#EXTINF:-1,Look Sport 3 HD
+http://90.95.33.182:48000/play/a04s
+
+#EXTINF:-1,Look Sport HD
+http://90.95.33.182:48000/play/a024
+
+#EXTINF:-1,LookPlus
+http://90.95.33.182:48000/play/a03a
+
+#EXTINF:-1,LookSport
+http://90.95.33.182:48000/play/a03g
+
+#EXTINF:-1,PRIMA SPORT 3
+http://90.95.33.182:48000/play/a06n
+
+#EXTINF:-1,PRIMA SPORT 4
+http://90.95.33.182:48000/play/a06m
+
+#EXTINF:-1,DIGI Sport 1 HD RO
+http://90.95.33.182:48000/play/a02f
+
+#EXTINF:-1,DIGI Sport 2 HD RO
+http://90.95.33.182:48000/play/a02g
+
+#EXTINF:-1,DIGI Sport 1 HD HU
+http://90.95.33.182:48000/play/a02a
+
+#EXTINF:-1,DIGI Sport 1 HU
+http://90.95.33.182:48000/play/a051
+
+#EXTINF:-1,DIGI Sport 2
+http://90.95.33.182:48000/play/a05j
+
+#EXTINF:-1,DIGI Sport 2 HD HU
+http://90.95.33.182:48000/play/a02e
+
+#EXTINF:-1,DIGI Sport 2 HU
+http://90.95.33.182:48000/play/a052
+
+#EXTINF:-1,DIGI Sport 3
+http://90.95.33.182:48000/play/a030
+
+#EXTINF:-1,DIGI Sport 3 HU
+http://90.95.33.182:48000/play/a04y
+
+#EXTINF:-1,DIGI Sport 4
+http://90.95.33.182:48000/play/a05i
+
+#EXTINF:-1,Arena Sport 1
+http://82.114.70.227:8881/play/a0be/index.m3u8
+
+#EXTINF:-1,Arena Sport 2
+http://82.114.70.227:8881/play/a0bf/index.m3u8
+
+#EXTINF:-1,Arena Sport 3
+http://82.114.70.227:8881/play/a0bg/index.m3u8
+
+#EXTINF:-1,Arena Sport 4
+http://82.114.70.227:8881/play/a0bh/index.m3u8
+
+#EXTINF:-1,Arena Sport 5
+http://82.114.70.227:8881/play/a0bi/index.m3u8
+
+#EXTINF:-1,Arena Sport Premium 1
+http://82.114.70.227:8881/play/a0c9/index.m3u8
+
+#EXTINF:-1,Arena Sport Premium 2
+http://82.114.70.227:8881/play/a0ca/index.m3u8
+
+#EXTINF:-1,Arena Sport Premium 3
+http://82.114.70.227:8881/play/a0cb/index.m3u8
+
+#EXTINF:-1,K Sport 1 HD
+http://82.114.70.227:8881/play/a0co/index.m3u8
+
+#EXTINF:-1,K Sport 1 HD
+http://82.114.70.227:8881/play/a0al/index.m3u8
+
+#EXTINF:-1,K Sport 2 HD
+http://82.114.70.227:8881/play/a0am/index.m3u8
+
+#EXTINF:-1,K Sport 2 HD
+http://82.114.70.227:8881/play/a0cp/index.m3u8
+
+#EXTINF:-1,K Sport 3 HD
+http://82.114.70.227:8881/play/a0cq/index.m3u8
+
+#EXTINF:-1,K Sport 3 HD
+http://82.114.70.227:8881/play/a0an/index.m3u8
+
+#EXTINF:-1,K Sport 3 HD
+http://82.114.70.227:8881/play/a0ag/index.m3u8
+
+#EXTINF:-1,K Sport 4 HD
+http://82.114.70.227:8881/play/a0ao/index.m3u8
+
+#EXTINF:-1,K Sport 4 HD
+http://82.114.70.227:8881/play/a0cr/index.m3u8
+
+#EXTINF:-1,Sport 1
+http://82.114.70.227:8881/play/a0cw/index.m3u8
+
+#EXTINF:-1,Sport 2
+http://82.114.70.227:8881/play/a0cx/index.m3u8
+
+#EXTINF:-1,Sport 3
+http://82.114.70.227:8881/play/a0cy/index.m3u8
+
+#EXTINF:-1,Sport 4
+http://82.114.70.227:8881/play/a0cz/index.m3u8
+
+#EXTINF:-1,Sport 5
+http://82.114.70.227:8881/play/a0d0/index.m3u8
+
+#EXTINF:-1,Super Sport 1
+http://82.114.70.227:8881/play/a0d3/index.m3u8
+
+#EXTINF:-1,Super Sport 2
+http://82.114.70.227:8881/play/a0d5/index.m3u8
+
+#EXTINF:-1,Super Sport 3
+http://82.114.70.227:8881/play/a0db/index.m3u8
+
+#EXTINF:-1,Super Sport 4
+http://82.114.70.227:8881/play/a0dc/index.m3u8
+
+#EXTINF:-1,Super Sport 6
+http://82.114.70.227:8881/play/a0cs/index.m3u8
+
+#EXTINF:-1,Super Sport 7
+http://82.114.70.227:8881/play/a0dp/index.m3u8
+
+#EXTINF:-1,Super Sport Kosova 1
+http://82.114.70.227:8881/play/a0d4/index.m3u8
+
+#EXTINF:-1,Super Sport Kosova 2
+http://82.114.70.227:8881/play/a0d6/index.m3u8
+
+#EXTINF:-1,Super Sport Kosova 3
+http://82.114.70.227:8881/play/a0d1/index.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
