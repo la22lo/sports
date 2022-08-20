@@ -1029,5 +1029,38 @@ http://80.145.127.202:8001/play/a0gf
 #EXTINF:-1,beIN SPORTS 1
 http://45.12.54.77:8000/play/a002/index.m3u8
 
+#EXTINF:-1, beIN SPORTS 1 
+http://31.14.40.50:8000/play/2101
+
+#EXTINF:-1, beIN SPORTS 1 
+http://31.14.40.50:8000/play/2001
+
+#EXTINF:-1, beIN SPORTS 2
+http://31.14.40.50:8000/play/2002
+
+#EXTINF:-1, beIN SPORTS 3
+http://31.14.40.50:8000/play/a001
+
+#EXTINF:-1, beIN SPORTS 4
+http://31.14.40.50:8000/play/2004
+
+#EXTINF:-1, beIN SPORTS 5
+http://31.14.40.50:8000/play/2005
+
+#EXTINF:-1, beIN SPORTS 6
+http://31.14.40.50:8000/play/2006
+
+#EXTINF:-1, beIN SPORTS 7
+http://31.14.40.50:8000/play/2007
+
+#EXTINF:-1, beIN SPORTS Prem 1
+http://31.14.40.50:8000/play/2008
+
+#EXTINF:-1, beIN SPORTS Prem 2
+http://31.14.40.50:8000/play/2009
+
+#EXTINF:-1, beIN SPORTS Prem 3
+http://31.14.40.50:8000/play/2010
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
