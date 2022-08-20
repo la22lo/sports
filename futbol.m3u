@@ -3,6 +3,9 @@
 #EXTINF:-1,DIRECTV 🇦🇷
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/20_.m3u8?token=QyAydF6ALLdCAWv1CY8n2w&expires=1661030688
 
+#EXTINF:-1,DAZN 🇪🇸
+https://mvk@cp.zabexin.com/hls/115679d0a013d1e98730c72c91dd0123/chunklist.m3u8?mvk
+
 #EXTINF:-1,CANAL CHINO 🇨🇳
 http://play.cluxsd.cn/tianxiatv/stream-e33e1cbe247e47eabc0eab34896d3966.m3u8
 
