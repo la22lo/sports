@@ -1044,5 +1044,26 @@ http://187.14.238.19:4000/play/a061
 #EXTINF:-1,SPORT TV2 PT CLUB
 http://187.14.238.19:4000/play/a05j
 
+#EXTINF:-1,MAX sport 1
+http://79.124.72.70:8000/play/a01j
+
+#EXTINF:-1,MAX sport 2
+http://79.124.72.70:8000/play/a00x
+
+#EXTINF:-1,MAX sport 4
+http://79.124.72.70:8000/play/a07n
+
+#EXTINF:-1,Diema Sport
+http://79.124.72.70:8000/play/a004
+
+#EXTINF:-1,Diema Sport 2
+http://79.124.72.70:8000/play/a01l
+
+#EXTINF:-1,Diema Sport 3
+http://79.124.72.70:8000/play/a07o
+
+#EXTINF:-1,Polsat Sport
+http://79.124.72.70:8000/play/a07z
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
