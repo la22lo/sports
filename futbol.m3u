@@ -1050,5 +1050,18 @@ http://81.196.164.194:40000/play/a03y
 #EXTINF:-1,Eleven 6
 http://81.196.164.194:40000/play/a0au
 
+#EXTINF:-1,SPORT TV 1 HD-1814
+http://81.196.164.194:40000/play/a0b7
+#EXTINF:-1,SPORT TV+
+http://81.196.164.194:40000/play/a02m
+#EXTINF:-1,Sport TV 1 HD
+http://81.196.164.194:40000/play/a0b8
+#EXTINF:-1,Sport TV 1 HD 1802
+http://81.196.164.194:40000/play/a0b6
+#EXTINF:-1,Sport TV 2 HD
+http://81.196.164.194:40000/play/a006
+#EXTINF:-1,Sport TV 3 HD
+http://81.196.164.194:40000/play/a007
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
