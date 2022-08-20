@@ -237,6 +237,21 @@ http://txm.flysat.live:80/152093114094098/152040562961701/205738
 #EXTINF:-1,ELEVEN SPORTS 6 HD 🇵🇹
 http://txm.flysat.live:80/152093114094098/152040562961701/205737
 
+#EXTINF:-1,ELEVEN1 CLUB 🇵🇹
+http://187.14.238.19:4000/play/a055
+
+#EXTINF:-1,ELEVEN2 CLUB 🇵🇹
+http://187.14.238.19:4000/play/a04y
+
+#EXTINF:-1,ELVEN3 CLUB 🇵🇹
+http://187.14.238.19:4000/play/a05g
+
+#EXTINF:-1,SPORT TV1 PT CLUB 🇵🇹
+http://187.14.238.19:4000/play/a061
+
+#EXTINF:-1,SPORT TV2 PT CLUB 🇵🇹
+http://187.14.238.19:4000/play/a05j
+
 #EXTINF:-1, SPORT TV 1 HD 🇵🇹
 http://93.152.174.144:4000/play/sporttv1/index.m3u8
 
@@ -1028,42 +1043,6 @@ http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C783
 
 #EXTINF:-1,PREMIERE SPORTS 🇬🇧
 https://99acccf47e2c.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.572289218728.channel.Bhi9qMBtw3Uo.m3u8?Pericopalotes135
-
-#EXTINF:-1,ELEVEN1 CLUB
-http://187.14.238.19:4000/play/a055
-
-#EXTINF:-1,ELEVEN2 CLUB
-http://187.14.238.19:4000/play/a04y
-
-#EXTINF:-1,ELVEN3 CLUB
-http://187.14.238.19:4000/play/a05g
-
-#EXTINF:-1,SPORT TV1 PT CLUB
-http://187.14.238.19:4000/play/a061
-
-#EXTINF:-1,SPORT TV2 PT CLUB
-http://187.14.238.19:4000/play/a05j
-
-#EXTINF:-1,MAX sport 1
-http://79.124.72.70:8000/play/a01j
-
-#EXTINF:-1,MAX sport 2
-http://79.124.72.70:8000/play/a00x
-
-#EXTINF:-1,MAX sport 4
-http://79.124.72.70:8000/play/a07n
-
-#EXTINF:-1,Diema Sport
-http://79.124.72.70:8000/play/a004
-
-#EXTINF:-1,Diema Sport 2
-http://79.124.72.70:8000/play/a01l
-
-#EXTINF:-1,Diema Sport 3
-http://79.124.72.70:8000/play/a07o
-
-#EXTINF:-1,Polsat Sport
-http://79.124.72.70:8000/play/a07z
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
