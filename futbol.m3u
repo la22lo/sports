@@ -1035,5 +1035,20 @@ http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
+#EXTINF:-1,Eleven Sports 1
+http://81.196.164.194:40000/play/a03r
+#EXTINF:-1,Eleven Sports 1 HD--
+http://81.196.164.194:40000/play/a03u
+#EXTINF:-1,Eleven Sports 2 HD
+http://81.196.164.194:40000/play/a03w
+#EXTINF:-1,Eleven Sports 3
+http://81.196.164.194:40000/play/a0av
+#EXTINF:-1,Eleven Sports 4
+http://81.196.164.194:40000/play/a088
+#EXTINF:-1,Eleven Sports 5
+http://81.196.164.194:40000/play/a03y
+#EXTINF:-1,Eleven 6
+http://81.196.164.194:40000/play/a0au
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
