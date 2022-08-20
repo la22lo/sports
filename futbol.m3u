@@ -3,6 +3,12 @@
 #EXTINF:-1,FUTBOL
 https://live.football-master.net/live/sd-1-3755033.m3u8?auth_key=1661020349-0-0-87dca1b47b5b94e3499cf705d95a1fd8
 
+#EXTINF:-1,SuperSportLaLiga 🇬🇧
+http://80.78.128.1:65437/play/UK-SuperSportLaLiga
+
+#EXTINF:-1,LALIGA_HD 🇬🇧
+http://80.78.128.1:65437/play/UK_LALIGA_HD
+
 #EXTINF:-1, MTV+ HD 🇮🇳
 http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 
@@ -1053,10 +1059,6 @@ http://80.78.128.1:65437/play/PT_ELEVEN6_HD
 
 #EXTINF:-1,TurkenistanSports_HD
 http://80.78.128.1:65437/play/TurkenistanSports_HD
-#EXTINF:-1,SuperSportLaLiga
-http://80.78.128.1:65437/play/UK-SuperSportLaLiga
-#EXTINF:-1,LALIGA_HD
-http://80.78.128.1:65437/play/UK_LALIGA_HD
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
