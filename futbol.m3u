@@ -3,8 +3,8 @@
 #EXTINF:-1,FUTBOL
 https://live.football-master.net/live/sd-1-3755033.m3u8?auth_key=1661020349-0-0-87dca1b47b5b94e3499cf705d95a1fd8
 
-#EXTINF:-1,FUTBOL
-https://live-ak.vimeocdn.com/exp=1661011352~acl=%2F1fcc2572-0518-4330-86d5-cd6949aabea6%2F%2A~hmac=0f6597bbc34ecc6f9e26dc0f77e0aec87e18af608ff0d6714f6e36f9a773a27e/1fcc2572-0518-4330-86d5-cd6949aabea6/chunklist_b728000.m3u8?Pericopalotes135
+#EXTINF:-1, MTV+ HD 🇮🇳
+http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 
 #EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
@@ -29,9 +29,6 @@ https://livetv.mylifeisgood.ml/channels/setantaplus
 
 #EXTINF:-1,ESPN 🇦🇷
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
-
-#EXTINF:-1, MTV+ HD 🇮🇳
-http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 
 #EXTINF:-1,BEIN SPORTS 2 🇫🇷
 http://37.235.38.139:4000/play/a0cc
