@@ -1029,5 +1029,20 @@ http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C783
 #EXTINF:-1,PREMIERE SPORTS 🇬🇧
 https://99acccf47e2c.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.572289218728.channel.Bhi9qMBtw3Uo.m3u8?Pericopalotes135
 
+#EXTINF:-1,ELEVEN1 CLUB
+http://187.14.238.19:4000/play/a055
+
+#EXTINF:-1,ELEVEN2 CLUB
+http://187.14.238.19:4000/play/a04y
+
+#EXTINF:-1,ELVEN3 CLUB
+http://187.14.238.19:4000/play/a05g
+
+#EXTINF:-1,SPORT TV1 PT CLUB
+http://187.14.238.19:4000/play/a061
+
+#EXTINF:-1,SPORT TV2 PT CLUB
+http://187.14.238.19:4000/play/a05j
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
