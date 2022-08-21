@@ -12,6 +12,9 @@ http://jk23@tslower.rfdte99.com:2082/live/ritv5_007647/aEeWWGqF/252723.m3u8
 #EXTINF:-1,LA LIGA 🇪🇸
 https://mvk@cp.zabexin.com/hls/115679d0a013d1e98730c72c91dd0123/chunklist.m3u8?mvk
 
+#EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
+http://pablotv.us:8080/Abdo22/12341234/58854
+
 #EXTINF:-1, MTV+ HD 🇮🇳
 http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 
@@ -185,6 +188,33 @@ http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/211439
 
 #EXTINF:-1, BEIN PREMIUM 3 HD 🇶🇦
 http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/211440
+
+#EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
+http://pablotv.us:8080/Abdo22/12341234/58854
+
+#EXTINF:-1, BEIN SPORT 2 HD 🇶🇦
+http://pablotv.us:8080/Abdo22/12341234/58855
+
+#EXTINF:-1, BEIN SPORT 3 HD 🇶🇦
+http://pablotv.us:8080/Abdo22/12341234/58856
+
+#EXTINF:-1, BEIN SPORT 4 HD 🇶🇦
+http://pablotv.us:8080/Abdo22/12341234/58857
+
+#EXTINF:-1, BEIN SPORT 5 HD 🇶🇦
+http://pablotv.us:8080/Abdo22/12341234/58858
+
+#EXTINF:-1, BEIN SPORT 6 HD 🇶🇦
+http://pablotv.us:8080/Abdo22/12341234/58859
+
+#EXTINF:-1, BEIN PREMIUM 1 HD 🇶🇦
+http://pablotv.us:8080/Abdo22/12341234/58860
+
+#EXTINF:-1, BEIN PREMIUM 2 HD 🇶🇦
+http://pablotv.us:8080/Abdo22/12341234/58861
+
+#EXTINF:-1, BEIN PREMIUM 3 HD 🇶🇦
+http://pablotv.us:8080/Abdo22/12341234/58862
 
 #EXTINF:-1, DAZN 1 HD 🇩🇪
 http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/161313
