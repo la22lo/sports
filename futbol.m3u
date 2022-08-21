@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1,DAZN LA LIGA 🇪🇸
+http://jk23@tslower.rfdte99.com:2082/live/ritv5_007647/aEeWWGqF/252723.m3u8
+
+#EXTINF:-1,DAZN LA LIGA 🇪🇸
+https://cloud.odysee.live/live/a5377cd359b22b7cb687ef5fc4c3285781b68091.m3u8?Pericopalotes135
+
+#EXTINF:-1, DirecTV Sports 🇦🇷
+https://b7i4j3n3.stackpathcdn.com/dlive/transcode-65-213/gnrjkgmfdmfdw/1661102422/src/live.m3u8?Pericopalotes135
+
 #EXTINF:-1,CANAL CHINO 🇨🇳
 https://hls1.yuanzhi.org.cn/live/H686179.m3u8?txSecret=05f496df81a503a8c8c539edc4a171f8&txTime=63038E47&_s=stream
 
@@ -11,9 +20,6 @@ http://80.78.128.1:65437/play/UK-SuperSportLaLiga
 
 #EXTINF:-1,LALIGA_HD 🇬🇧
 http://80.78.128.1:65437/play/UK_LALIGA_HD
-
-#EXTINF:-1,DAZN LA LIGA 🇪🇸
-http://jk23@tslower.rfdte99.com:2082/live/ritv5_007647/aEeWWGqF/252723.m3u8
 
 #EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
 http://pablotv.us:8080/Abdo22/12341234/58854
