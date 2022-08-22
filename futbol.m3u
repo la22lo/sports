@@ -93,12 +93,6 @@ http://200.24.132.99:8000/play/a02w
 #EXTINF:-1,ESPN 3 HD 🇦🇷
 http://45.224.23.212:8000/play/a047/index.m3u8
 
-#EXTINF:-1, SPOTV TENNIS
-https://bcovlive-a.akamaihd.net:443/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1653639471~exp=9007200908380462~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=bc671be8dc7fce56a5b0e5c31b3488be73621830bc48cba95c6c968364988ecf
-
-#EXTINF:-1, SPOTV TENNIS
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
-
 #EXTINF:-1, sk 1 TENNIS
 http://46.29.169.15:4001/play/a00e/index.m3u8
 
@@ -647,6 +641,15 @@ http://93.152.174.144:4000/play/skysports5/index.m3u8
 
 #EXTINF:-2022, SPORT UZB 🇺🇿
 http://mhd109.iptv2022.com/p/G6trc3GSJq8DgwF5fdWHew,1659423377/streaming/sport_uz/324/1/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1, SPOTV 1 🇮🇩
+https://bcovlive-a.akamaihd.net:443/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1653639471~exp=9007200908380462~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=bc671be8dc7fce56a5b0e5c31b3488be73621830bc48cba95c6c968364988ecf
+
+#EXTINF:-1, SPOTV 1 🇮🇩
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+
+#EXTINF:-1, SPOTV 2 🇮🇩
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 
 #EXTINF:-1, CCTV5 + 🇨🇳
 http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
