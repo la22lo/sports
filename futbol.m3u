@@ -279,12 +279,6 @@ http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/1580
 #EXTINF:-1,SPORT-TV 5HD 🇵🇹
 http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/3788
 
-#EXTINF:-1,SPORT TV1 PT CLUB 🇵🇹
-http://187.14.238.19:4000/play/a061
-
-#EXTINF:-1,SPORT TV2 PT CLUB 🇵🇹
-http://187.14.238.19:4000/play/a05j
-
 #EXTINF:-1, SPORT TV 1 HD 🇵🇹
 http://93.152.174.144:4000/play/sporttv1/index.m3u8
 
@@ -302,33 +296,6 @@ http://comag.rip:8000/50149782847964/57228675682258/79122
 
 #EXTINF:-1, SPORT TV 6 HD 🇵🇹
 http://dcsport.xyz:8080/NfruMD7aPb/VFwC2wcnjn/367634
-
-#EXTINF:-1,SPORT TV 1 HD 🇵🇹
-http://85.245.237.73:8082/play/a001
-
-#EXTINF:-1, SPORT TV 🇵🇹
-http://cdnrede.com:80/Teste2021/2021teste/207264
-
-#EXTINF:-1, SPORT TV + 🇵🇹
-http://cdnrede.com:80/Teste2021/2021teste/207263
-
-#EXTINF:-1, SPORT TV 2 🇵🇹
-http://cdnrede.com:80/Teste2021/2021teste/207265
-
-#EXTINF:-1, SPORT TV 3 🇵🇹
-http://cdnrede.com:80/Teste2021/2021teste/207266
-
-#EXTINF:-1, SPORT TV 4 🇵🇹
-http://cdnrede.com:80/Teste2021/2021teste/207267
-
-#EXTINF:-1, SPORT TV 5 🇵🇹
-http://cdnrede.com:80/Teste2021/2021teste/207268
-
-#EXTINF:-1, SPORT TV 6 🇵🇹
-http://cdnrede.com:80/Teste2021/2021teste/207210
-
-#EXTINF:-1,SPORT TV 4 HD 🇵🇹
-http://85.245.237.73:8082/play/a00e
 
 #EXTINF:-1, BeINSports 1 HD[THAI] 🇹🇭
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115807
