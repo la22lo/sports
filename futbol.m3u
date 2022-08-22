@@ -594,29 +594,11 @@ http://212.73.81.237:8088/play/a004/index.m3u8
 #EXTINF:-1, VIVARO SPORTS + 🇦🇲
 http://212.73.81.237:8088/play/a005/index.m3u8
 
-#EXTINF:-1, SETANTA SPORT QAZ 🇰🇿
-http://he11o.akadatel.com/iptv/D9LY75H8AM9GMN/2399/index.m3u8
-
 #EXTINF:-1, SETANTA SPORT 1 GEO 🇬🇪
 http://188.93.94.140/setanta_georgia/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
 
 #EXTINF:-1, SETANTA SPORT 2 GEO 🇬🇪
 http://188.93.94.140/setanta_sports_plus_georgia/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
-
-#EXTINF:-1, S1 🇸🇰 
-http://cloudcdn.tk:80/ZgD95l6nsu/tLlaGL888/27817
-
-#EXTINF:-1,Nova HD 🇸🇰
-http://213.81.133.130:8000/play/NovaHD
-
-#EXTINF:-1,Nova Sport 2 HD 🇸🇰
-http://213.81.133.130:8000/play/NovaSport2
-
-#EXTINF:-1,RTVS SPORT HD 🇸🇰
-http://213.81.133.130:8000/play/rtvssport
-
-#EXTINF:-1,Sport 1 HD 🇸🇰
-http://213.81.133.130:8000/play/Sport1
 
 #EXTINF:-1, Ziggo Select HD 🇳🇱
 http://82.197.214.59:4000/play/a01v/index.m3u8
