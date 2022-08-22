@@ -510,29 +510,8 @@ http://91.132.74.194:7374/play/a00f/index.m3u8
 #EXTINF:-1, RTK1 KOSOVO 🇽🇰
 http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8?
 
-#EXTINF:-1,110_Max sport 1 🇧🇬
+#EXTINF:-1,Max sport 1 🇧🇬
 http://83.228.88.114:8000/play/a04c
-
-#EXTINF:-1,MAX sport 1 🇧🇬
-http://79.124.72.70:8000/play/a01j
-
-#EXTINF:-1,MAX sport 2 🇧🇬
-http://79.124.72.70:8000/play/a00x
-
-#EXTINF:-1,MAX sport 4 🇧🇬
-http://79.124.72.70:8000/play/a07n
-
-#EXTINF:-1,Diema Sport 🇧🇬
-http://79.124.72.70:8000/play/a004
-
-#EXTINF:-1,Diema Sport 2 🇧🇬
-http://79.124.72.70:8000/play/a01l
-
-#EXTINF:-1,Diema Sport 3 🇧🇬
-http://79.124.72.70:8000/play/a07o
-
-#EXTINF:-1, NOVA SPORT 🇧🇬
-http://79.124.72.70:8000/play/a015
 
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
