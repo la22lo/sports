@@ -6,6 +6,9 @@ http://wlash.dimapro.xyz:8080/live/2912292207/wn6gbmy6/89117.m3u8
 #EXTINF:-1,BEIN SPORTS MAX 4 🇫🇷
 http://37.235.38.139:4000/play/a085
 
+#EXTINF:-1 ,KUJTESA SPORT 2HD 🇦🇱
+http://dganews.com:8080/live/V9qbPfuWL8/mYGQj3zBC6/1113.ts
+
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
 https://est04.varcdn.top/setanta2/index.m3u8?SBN
 
@@ -471,14 +474,41 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:-1, ESPN USA 🇺🇸
 http://69.164.224.53:80/ESPN/mpegts
 
-#EXTINF:-1, KUJTESA SPORT 1HD 🇦🇱
-http://185.222.138.163:9000/play/a0ts
+#EXTINF:-1,SuperSport 1 HD VIP 🇦🇱
+http://storeiptv.net:2095/FCrSCNMZPFy5/NsyR3fgtqWNF/401
 
-#EXTINF:-1, KUJTESA SPORT 2HD 🇦🇱
-http://185.222.138.163:9000/play/a0tt
+#EXTINF:-1,SuperSport 2 HD VIP 🇦🇱
+http://storeiptv.net:2095/FCrSCNMZPFy5/NsyR3fgtqWNF/406
 
-#EXTINF:-1, KUJTESA SPORT 4HD 🇦🇱
-http://185.222.138.163:9000/play/a0uv
+#EXTINF:-1,SuperSport 3 HD VIP 🇦🇱
+http://storeiptv.net:2095/FCrSCNMZPFy5/NsyR3fgtqWNF/405
+
+#EXTINF:-1,SuperSport 5 HD VIP 🇦🇱
+http://storeiptv.net:2095/FCrSCNMZPFy5/NsyR3fgtqWNF/403
+
+#EXTINF:-1,SuperSport 1 HD VIP 🇦🇱
+http://dganews.com:8080/live/V9qbPfuWL8/mYGQj3zBC6/9103.ts
+
+#EXTINF:-1,SuperSport 2 HD VIP 🇦🇱
+http://dganews.com:8080/live/V9qbPfuWL8/mYGQj3zBC6/9104.ts
+
+#EXTINF:-1,SuperSport 3 HD VIP 🇦🇱
+http://dganews.com:8080/live/V9qbPfuWL8/mYGQj3zBC6/9105.ts
+
+#EXTINF:-1 ,KUJTESA SPORT 1HD 🇦🇱
+http://dganews.com:8080/live/V9qbPfuWL8/mYGQj3zBC6/1112.ts
+
+#EXTINF:-1 ,KUJTESA SPORT 2HD 🇦🇱
+http://dganews.com:8080/live/V9qbPfuWL8/mYGQj3zBC6/1113.ts
+
+#EXTINF:-1 ,KUJTESA SPORT 3HD 🇦🇱
+http://dganews.com:8080/live/V9qbPfuWL8/mYGQj3zBC6/1114.ts
+
+#EXTINF:-1 ,KUJTESA SPORT 4HD 🇦🇱
+http://dganews.com:8080/live/V9qbPfuWL8/mYGQj3zBC6/1115.ts
+
+#EXTINF:-1 ,KUJTESA SPORT 5HD 🇦🇱
+http://dganews.com:8080/live/V9qbPfuWL8/mYGQj3zBC6/1116.ts
 
 #EXTINF:-1, RTSH Sport HD 🇦🇱
 http://109.104.129.195:8001/play/s25
