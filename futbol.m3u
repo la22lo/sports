@@ -159,17 +159,23 @@ http://190.60.37.69:8015/play/a02n/index.m3u8
 #EXTINF:-1, ESPN CO 🇦🇷
 http://190.60.37.69:8015/play/a037/index.m3u8
 
+#EXTINF:-1,Fox Sports 1 🇦🇷
+http://45.224.23.212:8000/play/a0pi/index.m3u8
+
 #EXTINF:-1,Fox Sports 2 🇦🇷
 http://45.71.185.142:8500/play/a01n
+
+#EXTINF:-1,Fox Sports 2 🇦🇷
+http://45.224.23.212:8000/play/a049/index.m3u8
 
 #EXTINF:-1,Fox Sports 3 🇦🇷
 http://45.71.185.142:8500/play/a01o
 
+#EXTINF:-1,Fox Sports 3 🇦🇷
+http://45.224.23.212:8000/play/a050/index.m3u8
+
 #EXTINF:-1, TUDN 🇲🇽
 https://dcs-live-ue1.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/rendition.m3u8?track=video-3&anvsid=m177618710-n54b0ed191595b001120a56079a0b32e6&ts=1660154722&anvtrid=46bbf88e408526838f4e6fd17adaad8a
-
-#EXTINF:-1, TELECOSTA LALIGA 🇪🇨
-https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
 #EXTINF:-1, UNIVISION 🇦🇷
 https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
