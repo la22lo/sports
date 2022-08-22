@@ -9,6 +9,9 @@ http://37.235.38.139:4000/play/a085
 #EXTINF:-1 ,KUJTESA SPORT 2HD 🇦🇱
 http://dganews.com:8080/live/V9qbPfuWL8/mYGQj3zBC6/1113.ts
 
+#EXTINF:-1, SPORT 1HD 🇽🇰
+http://dganews.com:8080/live/V9qbPfuWL8/mYGQj3zBC6/3311.ts
+
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
 https://est04.varcdn.top/setanta2/index.m3u8?SBN
 
@@ -512,6 +515,24 @@ http://dganews.com:8080/live/V9qbPfuWL8/mYGQj3zBC6/1116.ts
 
 #EXTINF:-1, RTSH Sport HD 🇦🇱
 http://109.104.129.195:8001/play/s25
+
+#EXTINF:-1, SPORT 1HD 🇽🇰
+http://dganews.com:8080/live/V9qbPfuWL8/mYGQj3zBC6/3311.ts
+
+#EXTINF:-1, SPORT 2HD 🇽🇰
+http://dganews.com:8080/live/V9qbPfuWL8/mYGQj3zBC6/3312.ts
+
+#EXTINF:-1, SPORT 3HD 🇽🇰
+http://dganews.com:8080/live/V9qbPfuWL8/mYGQj3zBC6/3313.ts
+
+#EXTINF:-1, SPORT 4HD 🇽🇰
+http://dganews.com:8080/live/V9qbPfuWL8/mYGQj3zBC6/7731.ts
+
+#EXTINF:-1, SPORT 5HD 🇽🇰
+http://dganews.com:8080/live/V9qbPfuWL8/mYGQj3zBC6/8466.ts
+
+#EXTINF:-1, SPORT 6HD 🇽🇰
+http://dganews.com:8080/live/V9qbPfuWL8/mYGQj3zBC6/8467.ts
 
 #EXTINF:-1, ARENA SPORT 1 PREMIUM 🇷🇸
 http://46.29.169.15:4001/play/a00g/index.m3u8
