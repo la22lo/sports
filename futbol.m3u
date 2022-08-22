@@ -9,23 +9,11 @@ https://hls1.yuanzhi.org.cn/live/H686181.m3u8?txSecret=eb4da7e09838b46a57d2028ec
 #EXTINF:-1,ESPN 3 🇦🇷
 https://sun.meta-scores.com/c377d481c7/index.m3u8
 
-#EXTINF:-1, YAYA LIVE 🇶🇦
-https://live-ak.vimeocdn.com/exp=1661193235~acl=%2F30f878b2-923f-4ce0-ae4b-fde037d60101%2F%2A~hmac=c283b2ed75be5d5e42f234ba9a380d8d632979fd907aed5f33fed2dce8632c59/30f878b2-923f-4ce0-ae4b-fde037d60101/chunklist_b2056000.m3u8?Pericopalotes135
-
 #EXTINF:-1,M LA LIGA 🇪🇸
 http://wlash.dimapro.xyz:8080/live/2912292207/wn6gbmy6/89117.m3u8
 
 #EXTINF:-1,M LA LIGA 🇪🇸
 http://185.234.217.179:8080/live/2912292207/wn6gbmy6/89117.m3u8?token=GRpcVkdeQANDUglSD19TBl0IU1NQVgYFWFJSXgBXUA4HXQUFAVBSDFFGFRNLTUVXBVQ9X1JBWVkAUFRRSRRERQdKa15QFFgbVFYNAA0MFR5GTQtbU0FZURVDFQ8BFAsUUw8MABYaQFwZEFxDVlhbbQBcFF9VBkFbVxQJCkkUXlg9XFFaVVgGG1tGCRMUG15BFBtYWEMPD00bAwwSF1dFU0ACFgQNAlIbTUZaXk1XQ0AdG1gUYzBBTRsEHRIAWEJfDVYWDRZbUUxZRhUTUUpoQAFKFkRTAg4ES0NfRFUUHRQPWUxoV1kMVwQHTVhXV0QQXhtTFBpBDg5XCBEJF2lBXwYaDhUBB1sMQxk=
-
-#EXTINF:-1,BEIN SPORTS MAX 4 🇫🇷
-http://37.235.38.139:4000/play/a085
-
-#EXTINF:-1 ,KUJTESA SPORT 2HD 🇦🇱
-http://dganews.com:8080/live/V9qbPfuWL8/mYGQj3zBC6/1113.ts
-
-#EXTINF:-1, SPORT 1HD 🇽🇰
-http://dganews.com:8080/live/V9qbPfuWL8/mYGQj3zBC6/3311.ts
 
 #EXTINF:-1,Sport Voetbal HD 🇳🇱
 http://87.212.248.23:8080/play/a0c2
