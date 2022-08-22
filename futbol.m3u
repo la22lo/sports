@@ -6,6 +6,9 @@ http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6235
 #EXTINF:-1, CANAL CHINO 🇨🇳
 https://hls1.yuanzhi.org.cn/live/H686181.m3u8?txSecret=eb4da7e09838b46a57d2028ecc198546&txTime=6304E561&_s=stream
 
+#EXTINF:-1,ESPN 3 🇦🇷
+https://sun.meta-scores.com/c377d481c7/index.m3u8
+
 #EXTINF:-1, YAYA LIVE 🇶🇦
 https://live-ak.vimeocdn.com/exp=1661193235~acl=%2F30f878b2-923f-4ce0-ae4b-fde037d60101%2F%2A~hmac=c283b2ed75be5d5e42f234ba9a380d8d632979fd907aed5f33fed2dce8632c59/30f878b2-923f-4ce0-ae4b-fde037d60101/chunklist_b2056000.m3u8?Pericopalotes135
 
