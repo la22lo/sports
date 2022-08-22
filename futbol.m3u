@@ -546,15 +546,6 @@ http://46.174.83.66/MatchTV/index.m3u8?
 #EXTINF:-1, Матч ТВ 🇷🇺
 http://85.92.123.108:6060/play/matchtv/index.m3u8
 
-#EXTINF:-1,МАТЧ! ФУТБОЛ 1 🇷🇺
-http://79.124.72.70:8000/play/a02r
-
-#EXTINF:-1,МАТЧ! ФУТБОЛ 2 🇷🇺
-http://79.124.72.70:8000/play/a02s
-
-#EXTINF:-1,МАТЧ! ФУТБОЛ 3 🇷🇺
-http://79.124.72.70:8000/play/a02t
-
 #EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
 http://109.200.130.124:9100/play/a026/index.m3u8
 
@@ -563,27 +554,6 @@ http://109.200.130.124:9100/play/a03p/index.m3u8
 
 #EXTINF:-1,Матч Футбол 3 HD 🇷🇺
 http://109.200.130.124:9100/play/a03q/index.m3u8
-
-#EXTINF:-1,Матч 🇷🇺
-http://93.179.69.225:8000/play/152
-
-#EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
-http://93.179.69.225:8000/play/a00e
-
-#EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
-http://93.179.69.225:8000/play/a00d
-
-#EXTINF:-1,МАТЧ Футбол 3 HD 🇷🇺
-http://93.179.69.225:8000/play/a00f
-
-#EXTINF:-1, Match! Football 1 🇷🇺
-http://50.7.92.90/Match_Futbol_1_HD/mono.m3u8
-
-#EXTINF:-1, Match! Football 2 🇷🇺
-http://50.7.92.90/Match_Futbol_2_HD/mono.m3u8
-
-#EXTINF:-1, Match! Football 3 🇷🇺
-http://50.7.92.90/Match_Futbol_3_HD/mono.m3u8
 
 #EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
 http://132.145.254.128:8070/channel/4d7f1abf/index.m3u8?q=7b4f7952b7746f9e2679349fb1547bee
