@@ -1053,5 +1053,11 @@ http://31.14.40.50:8000/play/2009
 #EXTINF:-1, beIN SPORTS Prem 3
 http://31.14.40.50:8000/play/2010
 
+#EXTINF:-1, SuperSport  LaLiga
+http://lemon.catchmeifyo.com:8000/459209632503/063735371335/37620
+
+#EXTINF:-1,NL: Ziggo Sport Voetbal
+http://lemon.catchmeifyo.com:8000/459209632503/063735371335/16335
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
