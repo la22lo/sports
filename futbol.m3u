@@ -846,6 +846,9 @@ https://events1-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1, PALY UD SPORT ESP 🇪🇸
 https://ccdn.fractalmedia.es:9443/live015/stream/live/cudtv/high/index.m3u8
 
+#EXTINF:-1, TENNIS CHANNEL 🇬🇧
+https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
+
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 1 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
