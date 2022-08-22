@@ -600,9 +600,6 @@ http://188.93.94.140/setanta_georgia/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%8
 #EXTINF:-1, SETANTA SPORT 2 GEO 🇬🇪
 http://188.93.94.140/setanta_sports_plus_georgia/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
 
-#EXTINF:-1, Ziggo Select HD 🇳🇱
-http://82.197.214.59:4000/play/a01v/index.m3u8
-
 #EXTINF:-1,Ziggo Sport HD 🇳🇱
 http://87.212.248.23:8080/play/z067
 
@@ -624,17 +621,8 @@ https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 #EXTINF:-1 , LIVE SPORT HD 🇭🇺
 http://195.222.7.26:7001/play/a00t
 
-#EXTINF:-1,Eurosport 1 Deutschland 🇩🇪
-http://185.205.201.104:8008/play/a027/index.m3u8
-
 #EXTINF:-1,SPORT1 HD ALE 🇩🇪
 http://178.251.29.83:7242/play/a01y
-
-#EXTINF:-1,SPORT1+ ALE 🇩🇪
-http://45.153.33.195:8003/play/a00c
-
-#EXTINF:-1,SPORTDIGITAL FUSSBALL HD 🇩🇪
-http://45.153.33.195:8003/play/a00b
 
 #EXTINF:-2022, SKY SPORTS 1 HD
 http://93.152.174.144:4000/play/ssports1/index.m3u8
