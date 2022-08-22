@@ -78,11 +78,20 @@ https://tennis.x10.mx/f2wr/mp.php/https://playoutengine.sinclairstoryline.com/pl
 #EXTINF:-1,ESPN 🇦🇷
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 
-#EXTINF:-1,ESPN 2 tenis 🇦🇷
+#EXTINF:-1,ESPN 🇦🇷
+http://45.224.23.212:8000/play/a045/index.m3u8
+
+#EXTINF:-1,ESPN 2 🇦🇷
 http://45.71.185.142:8500/play/a015
 
-#EXTINF:-1,ESPN 3 HD tenis 🇦🇷
+#EXTINF:-1,ESPN 2 🇦🇷
+http://45.224.23.212:8000/play/a046/index.m3u8
+
+#EXTINF:-1,ESPN 3 HD 🇦🇷
 http://200.24.132.99:8000/play/a02w
+
+#EXTINF:-1,ESPN 3 HD 🇦🇷
+http://45.224.23.212:8000/play/a047/index.m3u8
 
 #EXTINF:-1, SPOTV TENNIS
 https://bcovlive-a.akamaihd.net:443/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1653639471~exp=9007200908380462~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=bc671be8dc7fce56a5b0e5c31b3488be73621830bc48cba95c6c968364988ecf
