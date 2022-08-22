@@ -3,6 +3,9 @@
 #EXTINF:-1,M LA LIGA 🇪🇸
 http://wlash.dimapro.xyz:8080/live/2912292207/wn6gbmy6/89117.m3u8
 
+#EXTINF:-1,BEIN SPORTS MAX 4 🇫🇷
+http://37.235.38.139:4000/play/a085
+
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
 https://est04.varcdn.top/setanta2/index.m3u8?SBN
 
@@ -188,6 +191,33 @@ http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/211439
 
 #EXTINF:-1, BEIN PREMIUM 3 HD 🇶🇦
 http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/211440
+
+#EXTINF:-1, beIN SPORTS 2 🇶🇦
+http://31.14.40.50:8000/play/2002
+
+#EXTINF:-1, beIN SPORTS 3 🇶🇦
+http://31.14.40.50:8000/play/a001
+
+#EXTINF:-1, beIN SPORTS 4 🇶🇦
+http://31.14.40.50:8000/play/2004
+
+#EXTINF:-1, beIN SPORTS 5 🇶🇦
+http://31.14.40.50:8000/play/2005
+
+#EXTINF:-1, beIN SPORTS 6 🇶🇦
+http://31.14.40.50:8000/play/2006
+
+#EXTINF:-1, beIN SPORTS 7 🇶🇦
+http://31.14.40.50:8000/play/2007
+
+#EXTINF:-1, beIN SPORTS Prem 1 🇶🇦
+http://31.14.40.50:8000/play/2008
+
+#EXTINF:-1, beIN SPORTS Prem 2 🇶🇦
+http://31.14.40.50:8000/play/2009
+
+#EXTINF:-1, beIN SPORTS Prem 3 🇶🇦
+http://31.14.40.50:8000/play/2010
 
 #EXTINF:-1, DAZN 1 HD 🇩🇪
 http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/161313
@@ -1025,39 +1055,6 @@ http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
-
-#EXTINF:-1, beIN SPORTS 2
-http://31.14.40.50:8000/play/2002
-
-#EXTINF:-1, beIN SPORTS 3
-http://31.14.40.50:8000/play/a001
-
-#EXTINF:-1, beIN SPORTS 4
-http://31.14.40.50:8000/play/2004
-
-#EXTINF:-1, beIN SPORTS 5
-http://31.14.40.50:8000/play/2005
-
-#EXTINF:-1, beIN SPORTS 6
-http://31.14.40.50:8000/play/2006
-
-#EXTINF:-1, beIN SPORTS 7
-http://31.14.40.50:8000/play/2007
-
-#EXTINF:-1, beIN SPORTS Prem 1
-http://31.14.40.50:8000/play/2008
-
-#EXTINF:-1, beIN SPORTS Prem 2
-http://31.14.40.50:8000/play/2009
-
-#EXTINF:-1, beIN SPORTS Prem 3
-http://31.14.40.50:8000/play/2010
-
-#EXTINF:-1, SuperSport  LaLiga
-http://lemon.catchmeifyo.com:8000/459209632503/063735371335/37620
-
-#EXTINF:-1,NL: Ziggo Sport Voetbal
-http://lemon.catchmeifyo.com:8000/459209632503/063735371335/16335
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
