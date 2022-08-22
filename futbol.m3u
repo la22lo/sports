@@ -573,12 +573,6 @@ http://213.172.73.170:8081/nimble_live/1065__Mat4_Futbol_2/playlist.m3u8
 #EXTINF:-1,МАТЧ Футбол 3 HD 🇷🇺
 http://213.172.73.171:8081/nimble_live/1159__Mat4_Futbol_3/playlist.m3u8
 
-#EXTINF:-1, VIASAT SPORT 🇷🇺
-https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
-
-#EXTINF:-1, VIASAT SPORT 🇸🇪
-http://bl.uma.media/live/485548/HLS/4614144_2,2883584/2/1/playlist.m3u8
-
 #EXTINF:-1, SPORT RU 🇷🇺
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
 
@@ -590,9 +584,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 #EXTINF:-1, Беларусь 5 🇧🇾
 http://82.209.197.187:8080/udp/239.0.100.9:1234
-
-#EXTINF:-1, Беларусь 5 🇧🇾
-http://50.7.188.186/belarus_5/mono.m3u8
 
 #EXTINF:-1, Беларусь 5 🇧🇾
 http://persik.by/stream/1234/3/932.m3u8
