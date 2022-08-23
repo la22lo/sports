@@ -522,6 +522,9 @@ https://livetv.mylifeisgood.ml/channels/setantaplus
 #EXTINF:-1, MATH HD 🇷🇺
 http://185.235.187.10:8888/play/match/index.m3u8
 
+#EXTINF:-1, MATH HD 🇷🇺
+http://cdntv.online/hls/2acyu4x537/3.m3u8
+
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
@@ -555,6 +558,9 @@ http://132.145.254.128:8070/channel/4d80037d/index.m3u8?q=7b4f7952b7746f9e267934
 #EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
 http://82.194.1.2:8016/play/E36_11785R_SID1305/index.m3u8
 
+#EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
+http://cdntv.online/hls/2acyu4x537/981.m3u8
+
 #EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
 http://213.172.73.170:8081/nimble_live/1065__Mat4_Futbol_2/playlist.m3u8
 
@@ -569,6 +575,9 @@ http://iptv.prosto.tv:7000/ch109/video.m3u8
 
 #EXTINF:-1, KBP SPORT 🇷🇺
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
+#EXTINF:-1,Setanta Sports UKR
+http://cdntv.online/hls/2acyu4x537/1065.m3u8
 
 #EXTINF:-1, Беларусь 5 🇧🇾
 http://82.209.197.187:8080/udp/239.0.100.9:1234
@@ -587,6 +596,9 @@ http://188.93.94.140/setanta_georgia/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%8
 
 #EXTINF:-1, SETANTA SPORT 2 GEO 🇬🇪
 http://188.93.94.140/setanta_sports_plus_georgia/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+
+#EXTINF:-1, SETANTA SPORT QAZ
+http://cdntv.online/hls/2acyu4x537/1187.m3u8
 
 #EXTINF:-1,Ziggo Sport HD 🇳🇱
 http://87.212.248.23:8080/play/z067
