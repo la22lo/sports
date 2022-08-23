@@ -57,6 +57,15 @@ http://46.29.169.15:4001/play/a00t/index.m3u8
 #EXTINF:-1, DAZN 2 🇩🇪
 http://clientportal.link:80/SvenAkeDK/6KoUBk6610/89581
 
+#EXTINF:-1,BEIN SPORT 1 THAI
+http://135.181.1.143:8085/live/bein1/mpegts
+
+#EXTINF:-1,BEIN SPORT 2 THAI
+http://51.178.65.238:80/Bein2/mpegts
+
+#EXTINF:-1,BEIN SPORT THAI
+http://135.181.1.143:8085/live/bein2/mpegts
+
 #EXTINF:-1,ESPN 🇦🇷
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 
