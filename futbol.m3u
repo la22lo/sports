@@ -579,8 +579,11 @@ http://iptv.prosto.tv:7000/ch109/video.m3u8
 #EXTINF:-1, KBP SPORT 🇷🇺
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-#EXTINF:-1,Setanta Sports UKR
+#EXTINF:-1,Setanta Sports 🇺🇦
 http://cdntv.online/hls/2acyu4x537/1065.m3u8
+
+#EXTINF:-1, Спорт 1 🇺🇦
+http://178.175.173.250:19000/play/a00i
 
 #EXTINF:-1, Беларусь 5 🇧🇾
 http://82.209.197.187:8080/udp/239.0.100.9:1234
@@ -863,9 +866,6 @@ http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
-
-#EXTINF:-1, Спорт 1 🇺🇦
-http://178.175.173.250:19000/play/a00i
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
