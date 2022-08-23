@@ -72,6 +72,12 @@ http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 #EXTINF:-1,ESPN 🇦🇷
 http://45.224.23.212:8000/play/a045/index.m3u8
 
+#EXTINF:-1,ESPN 🇦🇷
+http://222.255.117.230/espnar/mpegts
+
+#EXTINF:-1,ESPN 2 🇦🇷
+http://222.255.117.230/espn2ar/mpegts
+
 #EXTINF:-1,ESPN 2 🇦🇷
 http://45.71.185.142:8500/play/a015
 
@@ -83,6 +89,9 @@ http://200.24.132.99:8000/play/a02w
 
 #EXTINF:-1,ESPN 3 HD 🇦🇷
 http://45.224.23.212:8000/play/a047/index.m3u8
+
+#EXTINF:-1,ESPN 3 HD 🇦🇷
+http://222.255.117.230/espn3ar/mpegts
 
 #EXTINF:-1, sk 1 TENNIS
 http://46.29.169.15:4001/play/a00e/index.m3u8
@@ -141,7 +150,10 @@ http://190.60.37.69:8015/play/a04i/index.m3u8
 #EXTINF:-1, ESPN 4 🇦🇷
 http://190.60.37.69:8015/play/a02n/index.m3u8
 
-#EXTINF:-1, ESPN CO 🇦🇷
+#EXTINF:-1, ESPN 4 🇦🇷
+http://222.255.117.230/espnextraar/mpegts
+
+#EXTINF:-1, ESPN EXTRA 🇦🇷
 http://190.60.37.69:8015/play/a037/index.m3u8
 
 #EXTINF:-1,Fox Sports 1 🇦🇷
