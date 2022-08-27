@@ -1,14 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, ARENA SPORT 2 🇭🇷
-https://sun.meta-scores.com/f62c02cf57/index.m3u8
-
-#EXTINF:-1, CANAL CHINO 🇨🇳
-https://hls1.yuanzhi.org.cn/live/H712006.m3u8?txSecret=ca3b30fe92649a566db5a23dd9c26ba3&txTime=630B7D5D&_s=stream
-
-#EXTINF:-1, CANAL CHINO 🇨🇳
-https://play.zhuafan.tech/live/live_1543815644495.m3u8?auth_key=1661632863-3859680-0-af0a3241bb68036fc718dc7dcc44b2bb&uid=live_1543815644495
-
 #EXTINF:-1, ELEVEN 2HD 🇵🇹
 http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6235
 
