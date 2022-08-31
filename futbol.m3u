@@ -369,6 +369,9 @@ http://37.235.38.139:4000/play/a093
 #EXTINF:-1,CANAL+ SPORT 🇫🇷
 http://37.235.38.139:4000/play/a005
 
+#EXTINF:-1, PRIME VIDEO 🇫🇷
+https://lshstream.xyz/hls/allsportsicu07/index.m3u8?Pericopalotes135
+
 #EXTINF:-1,beIN SPORTS EXTRA Ñ 🇪🇸
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
