@@ -189,6 +189,27 @@ https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIl
 #EXTINF:-1, TNT SPORTS 🇧🇷
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
+#EXTINF:-1,beIN Sports HD 🇶🇦
+http://195.154.242.24:8009/play/a062/index.m3u8
+
+#EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
+http://195.154.242.24:8009/play/a05n/index.m3u8
+
+#EXTINF:-1, BEIN SPORT 2 HD 🇶🇦
+http://195.154.242.24:8009/play/a05o/index.m3u8
+
+#EXTINF:-1, BEIN SPORT 3 HD 🇶🇦
+http://195.154.242.24:8009/play/a05p/index.m3u8
+
+#EXTINF:-1, BEIN SPORT 4 HD 🇶🇦
+http://195.154.242.24:8009/play/a05q/index.m3u8
+
+#EXTINF:-1, BEIN SPORT 5 HD 🇶🇦
+http://195.154.242.24:8009/play/a05r/index.m3u8
+
+#EXTINF:-1, BEIN SPORT 6 HD 🇶🇦
+http://195.154.242.24:8009/play/a05s/index.m3u8
+
 #EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
@@ -209,6 +230,15 @@ http://93.152.174.144:4000/play/bein6ar/index.m3u8
 
 #EXTINF:-1, BEIN SPORT 7 HD 🇶🇦
 http://93.152.174.144:4000/play/bein7ar/index.m3u8
+
+#EXTINF:-1,beIN Sports Premium 1 🇶🇦
+http://195.154.242.24:8009/play/a05u/index.m3u8
+
+#EXTINF:-1,beIN Sports Premium 2 🇶🇦
+http://195.154.242.24:8009/play/a05v/index.m3u8
+
+#EXTINF:-1,beIN Sports Premium 3 🇶🇦
+http://195.154.242.24:8009/play/a05w/index.m3u8
 
 #EXTINF:-1, BEIN PREMIUM 1 HD 🇶🇦
 http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/211438
@@ -309,6 +339,12 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115807
 #EXTINF:-1, BeINSports 2 HD[THAI] 🇹🇭
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115809
 
+#EXTINF:-1,beIN Sports English 1 🇬🇧
+http://195.154.242.24:8009/play/a05x/index.m3u8
+
+#EXTINF:-1,beIN Sports English 2 🇬🇧
+http://195.154.242.24:8009/play/a05y/index.m3u8
+
 #EXTINF:-2022, BT SPORT 1 HD 🇬🇧
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 
@@ -320,6 +356,12 @@ http://93.152.174.144:4000/play/btsport3/index.m3u8
 
 #EXTINF:-1, SUPER GRANDSTAND 🇬🇧
 http://185.145.43.244:8000/play/a008/index.m3u8
+
+#EXTINF:-1,beIN Sports French 1 🇫🇷
+http://195.154.242.24:8009/play/a05z/index.m3u8
+
+#EXTINF:-1,beIN Sports French 2 🇫🇷
+http://195.154.242.24:8009/play/a060/index.m3u8
 
 #EXTINF:-1,beIN SPORT 1 HD 🇫🇷
 http://193.252.43.21:10200/play/a0c5
