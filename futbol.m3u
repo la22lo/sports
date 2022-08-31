@@ -606,6 +606,9 @@ http://213.172.73.170:8081/nimble_live/1065__Mat4_Futbol_2/playlist.m3u8
 #EXTINF:-1,МАТЧ Футбол 3 HD 🇷🇺
 http://213.172.73.171:8081/nimble_live/1159__Mat4_Futbol_3/playlist.m3u8
 
+#EXTINF:-1, Футбол 3 HD 🇷🇺
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5458
+
 #EXTINF:-1, SPORT RU 🇷🇺
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
 
