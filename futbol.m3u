@@ -429,6 +429,18 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:-1, ESPN USA 🇺🇸
 http://69.164.224.53:80/ESPN/mpegts
 
+#EXTINF:-1,SuperSport 1 HD 🇦🇱
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=3629&extension=m3u8
+
+#EXTINF:-1,SuperSport 2 HD 🇦🇱
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=3630&extension=m3u8
+
+#EXTINF:-1,SuperSport 2 HD 🇦🇱
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=3631&extension=m3u8
+
+#EXTINF:-1,SuperSport 3 HD 🇦🇱
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=3632&extension=m3u8
+
 #EXTINF:-1,SuperSport 1 HD VIP 🇦🇱
 http://storeiptv.net:2095/FCrSCNMZPFy5/NsyR3fgtqWNF/401
 
@@ -710,6 +722,12 @@ http://178.251.29.83:7242/play/a01r
 
 #EXTINF:-1, ESPN 4 🇳🇱
 http://178.251.29.83:7242/play/a01b
+
+#EXTINF:-1, POLSAT SPORTS PREMIUM 1
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=3628&extension=m3u8
+
+#EXTINF:-1, POLSAT SPORTS PREMIUM 2
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=3629&extension=m3u8
 
 #EXTINF:-1 ,2 SPORT HUNGRIA 🇭🇺
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
