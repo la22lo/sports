@@ -192,42 +192,6 @@ http://195.154.242.24:8009/play/a05v/index.m3u8
 #EXTINF:-1,beIN Sports Premium 3 🇶🇦
 http://195.154.242.24:8009/play/a05w/index.m3u8
 
-#EXTINF:-1, BEIN PREMIUM 1 HD 🇶🇦
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/211438
-
-#EXTINF:-1, BEIN PREMIUM 2 HD 🇶🇦
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/211439
-
-#EXTINF:-1, BEIN PREMIUM 3 HD 🇶🇦
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/211440
-
-#EXTINF:-1, beIN SPORTS 2 🇶🇦
-http://31.14.40.50:8000/play/2002
-
-#EXTINF:-1, beIN SPORTS 3 🇶🇦
-http://31.14.40.50:8000/play/a001
-
-#EXTINF:-1, beIN SPORTS 4 🇶🇦
-http://31.14.40.50:8000/play/2004
-
-#EXTINF:-1, beIN SPORTS 5 🇶🇦
-http://31.14.40.50:8000/play/2005
-
-#EXTINF:-1, beIN SPORTS 6 🇶🇦
-http://31.14.40.50:8000/play/2006
-
-#EXTINF:-1, beIN SPORTS 7 🇶🇦
-http://31.14.40.50:8000/play/2007
-
-#EXTINF:-1, beIN SPORTS Prem 1 🇶🇦
-http://31.14.40.50:8000/play/2008
-
-#EXTINF:-1, beIN SPORTS Prem 2 🇶🇦
-http://31.14.40.50:8000/play/2009
-
-#EXTINF:-1, beIN SPORTS Prem 3 🇶🇦
-http://31.14.40.50:8000/play/2010
-
 #EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 
@@ -281,9 +245,6 @@ http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/1580
 
 #EXTINF:-1,SPORT-TV 5HD 🇵🇹
 http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/3788
-
-#EXTINF:-1, SPORT TV 1 HD 🇵🇹
-http://93.152.174.144:4000/play/sporttv1/index.m3u8
 
 #EXTINF:-1, BeINSports 1 HD[THAI] 🇹🇭
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115807
@@ -359,9 +320,6 @@ http://37.235.38.139:4000/play/a092
 
 #EXTINF:-1,BEIN SPORTS MAX 10 🇫🇷
 http://37.235.38.139:4000/play/a093
-
-#EXTINF:-1,CANAL+ SPORT 🇫🇷
-http://37.235.38.139:4000/play/a005
 
 #EXTINF:-1, PRIME VIDEO 🇫🇷
 https://lshstream.xyz/hls/allsportsicu07/index.m3u8?Pericopalotes135
