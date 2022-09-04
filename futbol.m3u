@@ -843,6 +843,9 @@ https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/
 #EXTINF:-1,GOL TV
 https://photocall.tv/ks5g/hls/gol.m3u8
 
+#EXTINF:-1,GOL TV
+https://d2hmr5y60yah0e.cloudfront.net/GolT_24h/golt_24h/golt_24hhigh.m3u8?Expires=1662315694&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMmhtcjV5NjB5YWgwZS5jbG91ZGZyb250Lm5ldC9Hb2xUXzI0aC9nb2x0XzI0aC9nb2x0XzI0aGhpZ2gubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY2MjMxNTY5NH19fV19&Signature=H21k5~lHiwHgxP7l6zMUigdJ5eEYQfhCbrfrP8ZwCWbFrZSZ1TYJ2Sz12AbOPKDgUeOktiJq4ENNpGyHcMDUpYmA8ucFN2ptekcTlKKdB8~o6trvrauZKKnFfFxjuv-PvKguBMJpBrXe9sg244E2funt5umEzplB0a2xB10iprzkQZ4TURL00yZkinIMQU1d8YszeEi3D~mZa1W4PvjoM-93sjRNfnY9h4I4qrH3a8N8MTagRmGJ52Lir~gmXh2H3pMuJ1E22aNtCha~kJt3BTvMLTtVU0CuR9CC6EOdfYxNo0owRDq0DRydJ6LxvaUHkIHEXhPYw15ntrz~5fptgw__&Key-Pair-Id=APKAIKNFKJT4M3NREZWQ
+
 #EXTINF:-1, LA 7 CYL 🇪🇸
 http://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
 
