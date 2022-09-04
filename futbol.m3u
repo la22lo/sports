@@ -18,6 +18,9 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 #EXTINF:-1, ELEVEN 2HD 🇵🇹
 http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6235
 
+#EXTINF:-1, DIRECTV SPORT 🇪🇨
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3293
+
 #EXTINF:-1,SuperSportLaLiga 🇬🇧
 http://80.78.128.1:65437/play/UK-SuperSportLaLiga
 
@@ -26,9 +29,6 @@ http://80.78.128.1:65437/play/UK_LALIGA_HD
 
 #EXTINF:-1,SuperSportLaLiga 🇬🇧
 http://legendtvs.com:80/anwar123/12345/391157
-
-#EXTINF:-1, MTV+ HD 🇮🇳
-http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 
 #EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
