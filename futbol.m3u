@@ -969,5 +969,30 @@ http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
+#EXTINF:-1,Polsat Sport Extra HD
+http://185.234.217.19:8020/play/a07i
+
+#EXTINF:-1,Polsat Sport HD
+http://185.234.217.19:8020/play/a07d
+
+#EXTINF:-1,DAZN 1 HD
+http://154.54.220.247:51323/play/a03a/index.m3u8
+#EXTINF:-1,DAZN 2 HD
+http://154.54.220.247:51323/play/a03b/index.m3u8
+#EXTINF:-1,DAZN F1 HD
+http://154.54.220.247:51323/play/a03d/index.m3u8
+#EXTINF:-1,DAZN LaLiga2 HD
+http://154.54.220.247:51323/play/a034/index.m3u8
+#EXTINF:-1,DAZN LaLigaHD
+http://154.54.220.247:51323/play/a030/index.m3u8
+#EXTINF:-1,LigaSmartBank2HD
+http://154.54.220.247:51323/play/a037/index.m3u8
+#EXTINF:-1,LigaSmartBankHD
+http://154.54.220.247:51323/play/a036/index.m3u8
+#EXTINF:-1,M+ LaLiga HD
+http://154.54.220.247:51323/play/a032/index.m3u8
+#EXTINF:-1,M+LCAMPEONES
+http://154.54.220.247:51323/play/a03c/index.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
