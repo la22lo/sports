@@ -897,5 +897,65 @@ http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
+#EXTINF:-1,Arena Sport 1 slk
+http://92.240.225.4:9999/play/65-64-slk
+
+#EXTINF:-1,Arena Sport 2 HD slk
+http://92.240.225.4:9999/play/77-1-slk
+
+#EXTINF:-1,Arena Sport 2 HD slk
+http://92.240.225.4:9999/play/64-223-slk
+
+#EXTINF:-1,CT sport HD cze
+http://92.240.225.4:9999/play/75-132-cze
+
+#EXTINF:-1,CT sport HD cze
+http://92.240.225.4:9999/play/64-101-cze
+
+#EXTINF:-1,CT sport cze
+http://92.240.225.4:9999/play/64-62-cze
+
+#EXTINF:-1,Sport1 CZE cze
+http://92.240.225.4:9999/play/69-1-cze
+
+#EXTINF:-1,Sport1 CZE slo
+http://92.240.225.4:9999/play/69-1-slo
+
+#EXTINF:-1,Sport1 Cz Sk HD cze
+http://92.240.225.4:9999/play/64-174-cze
+
+#EXTINF:-1,Sport1 Cz Sk HD slo
+http://92.240.225.4:9999/play/64-174-slo
+
+#EXTINF:-1,Sport2 CZE cze
+http://92.240.225.4:9999/play/65-26-cze
+
+#EXTINF:-1,Sport2 CZE slo
+http://92.240.225.4:9999/play/65-26-slo
+
+#EXTINF:-1,Sport2 Cz Sk HD cze
+http://92.240.225.4:9999/play/65-74-cze
+
+#EXTINF:-1,Sport2 Cz Sk HD slo
+http://92.240.225.4:9999/play/65-74-slo
+
+#EXTINF:-1,TVP Sport HD pol
+http://92.240.225.4:9999/play/67-106-pol
+
+#EXTINF:-1,Nova Sport 1 HD cze
+http://92.240.225.4:9999/play/65-72-cze
+
+#EXTINF:-1,Nova Sport 1 HD eng
+http://92.240.225.4:9999/play/65-72-eng
+
+#EXTINF:-1,Nova Sport 2 HD cze
+http://92.240.225.4:9999/play/64-16-cze
+
+#EXTINF:-1,Nova Sport 2 HD eng
+http://92.240.225.4:9999/play/64-16-eng
+
+#EXTINF:-1,Nova Sport 4 HD cze
+http://92.240.225.4:9999/play/77-9-cze
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
