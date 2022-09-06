@@ -18,6 +18,12 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3321
 #EXTINF:-1,M+ LaLiga HD 🇪🇸
 http://154.54.220.247:51323/play/a032/index.m3u8
 
+#EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
+https://P135@aws02.varcdn.top/m1/tracks-v1a1/mono.m3u8?P135
+
+#EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
+https://P135@bal.varcdn.top/app/m1/index.m3u8?P135
+
 #EXTINF:-1, BEIN SPORT CONNECT 🇶🇦
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live13-1080FHD.m3u8?SBN
 
