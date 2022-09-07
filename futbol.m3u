@@ -732,6 +732,12 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 #EXTINF:-1, Now Sports Prime 🇹🇭
 http://livetv.dnsfor.me/channel.12.m3u8
 
+#EXTINF:-1,ELEVEN SPORT 1 🇹🇼
+rtmp://59.124.75.138/sat/tv731
+
+#EXTINF:-1,ELEVEN SPORT 2 🇹🇼
+rtmp://59.124.75.138/sat/tv741
+
 #EXTINF:-1, ON Sports 🇻🇳
 http://cdn.socolacdn.online:8080/onsporttv/mpegts
 
