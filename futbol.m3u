@@ -12,6 +12,9 @@ http://45.224.23.212:8000/play/a047/index.m3u8
 #EXTINF:-1, МАТЧ Футбол 2 HD 🇷🇺
 http://213.172.73.170:8081/nimble_live/1065__Mat4_Futbol_2/playlist.m3u8
 
+#EXTINF:-1, МАТЧ Футбол 2 HD 🇷🇺
+http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/211/index.m3u8
+
 #EXTINF:-1, MOVISTAR L. CAMPEONES 🇪🇸
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/57
 
@@ -668,6 +671,15 @@ http://46.174.83.66/MatchTV/index.m3u8?
 
 #EXTINF:-1, Матч ТВ 🇷🇺
 http://85.92.123.108:6060/play/matchtv/index.m3u8
+
+#EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
+http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/124/index.m3u8
+
+#EXTINF:-1, МАТЧ Футбол 2 HD 🇷🇺
+http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/211/index.m3u8
+
+#EXTINF:-1,Матч Футбол 3 HD 🇷🇺
+http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/206/index.m3u8
 
 #EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
 http://90.188.227.251:4022/udp/233.7.70.29:5000
