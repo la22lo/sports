@@ -660,6 +660,9 @@ http://188.93.94.140/setanta_sports_plus_georgia/playlist.m3u8?token=%E3%82%B8%E
 #EXTINF:-1, SETANTA SPORT QAZ
 http://cdntv.online/hls/2acyu4x537/1187.m3u8
 
+#EXTINF:-1, TV2 SPORTEN 🇳🇴
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
+
 #EXTINF:-1, ESPN 🇳🇱
 http://178.251.29.83:7242/play/a01e
 
