@@ -9,6 +9,9 @@ http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6237
 #EXTINF:-1,ESPN 3 HD 🇦🇷
 http://45.224.23.212:8000/play/a047/index.m3u8
 
+#EXTINF:-1, МАТЧ Футбол 2 HD 🇷🇺
+http://213.172.73.170:8081/nimble_live/1065__Mat4_Futbol_2/playlist.m3u8
+
 #EXTINF:-1, MOVISTAR L. CAMPEONES 🇪🇸
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/57
 
