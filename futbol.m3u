@@ -663,6 +663,12 @@ http://cdntv.online/hls/2acyu4x537/1187.m3u8
 #EXTINF:-1, TV2 SPORTEN 🇳🇴
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 
+#EXTINF:-1, POLSAT SPORT PREMIUM 1 🇵🇱
+http://live-vn.cvacetv.ga:8080/PolsatPre1
+
+#EXTINF:-1, POLSAT SPORT PREMIUM 2 🇵🇱
+http://live-vn.cvacetv.ga:8080/PolsatPre2
+
 #EXTINF:-1, ESPN 🇳🇱
 http://178.251.29.83:7242/play/a01e
 
