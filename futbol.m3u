@@ -15,6 +15,9 @@ http://154.54.220.247:51323/play/a03c/index.m3u8
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3321
 
+#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
+http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/99456.ts
+
 #EXTINF:-1,M+ LaLiga HD 🇪🇸
 http://154.54.220.247:51323/play/a032/index.m3u8
 
@@ -1022,9 +1025,6 @@ http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C783
 
 #EXTINF:-1, ALB
 http://5.254.89.106/8798/index.m3u8
-
-#EXTINF:-1, lig
-http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/99456.ts
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
