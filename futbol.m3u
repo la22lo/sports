@@ -468,21 +468,6 @@ http://46.29.169.15:4001/play/a00w/index.m3u8
 #EXTINF:-1,Arena 5 - HD 🇷🇸
 http://46.29.169.15:4001/play/a00x/index.m3u8
 
-#EXTINF:-1,Arena 6 - HD 🇷🇸
-http://46.29.169.15:4001/play/a00y/index.m3u8
-
-#EXTINF:-1,Arena Sport 1 🇷🇸
-http://188.124.211.121:8557/play/a021
-
-#EXTINF:-1,Arena Sport 2 🇷🇸
-http://188.124.211.121:8557/play/a022
-
-#EXTINF:-1,Arena Sport 3 🇷🇸
-http://188.124.211.121:8557/play/a023
-
-#EXTINF:-1,Arena Sport 4 🇷🇸
-http://188.124.211.121:8557/play/a024
-
 #EXTINF:-1,SK1 - HD - 🇷🇸
 http://46.29.169.15:4001/play/a00e/index.m3u8
 
@@ -675,12 +660,6 @@ http://cdntv.online/hls/2acyu4x537/1065.m3u8
 #EXTINF:-1, Спорт 1 🇺🇦
 http://178.175.173.250:19000/play/a00i
 
-#EXTINF:-1, Беларусь 5 🇧🇾
-http://82.209.197.187:8080/udp/239.0.100.9:1234
-
-#EXTINF:-1, Беларусь 5 🇧🇾
-http://persik.by/stream/1234/3/932.m3u8
-
 #EXTINF:-1, SETANTA SPORT 1 GEO 🇬🇪
 http://188.93.94.140/setanta_georgia/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
 
@@ -698,15 +677,6 @@ http://178.251.29.83:7242/play/a01r
 
 #EXTINF:-1, ESPN 4 🇳🇱
 http://178.251.29.83:7242/play/a01b
-
-#EXTINF:-1,Polsat Sport Extra HD 🇵🇱
-http://185.234.217.19:8020/play/a07i
-
-#EXTINF:-1,Polsat Sport HD 🇵🇱
-http://185.234.217.19:8020/play/a07d
-
-#EXTINF:-1, BEIN SPORT 1 AUSTRALIA
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/141846
 
 #EXTINF:-1 ,2 SPORT HUNGRIA 🇭🇺
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
@@ -781,9 +751,6 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 #EXTINF:-1,TRT SPOR HD 🇹🇷
-http://185.205.201.44:8035/play/a00b/index.m3u8
-
-#EXTINF:-1,TRT SPOR HD 🇹🇷
 http://31.177.62.182:8000/play/s1
 
 #EXTINF:-1, SPORTV TUR 🇹🇷
@@ -815,9 +782,6 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 #EXTINF:-1, ESPORTE INTERACTIVO 🇧🇷
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-
-#EXTINF:-1,GOL TV PERU 🇵🇪
-http://45.71.185.142:8500/play/a03b
 
 #EXTINF:-1,PRENDETV LIGA MX 🇲🇽
 https://dip0m6wuccbi7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2d8j5h422463p-prod/dist/samsungtv/193/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
