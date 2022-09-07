@@ -438,6 +438,9 @@ http://5.254.89.106/8798/index.m3u8
 #EXTINF:-1, OVERSPORT 1 🇦🇱
 http://5.254.89.106/8799/index.m3u8
 
+#EXTINF:-1, OVERSPORT 4 🇦🇱
+http://5.254.89.106/8761/index.m3u8
+
 #EXTINF:-1, RTSH Sport HD 🇦🇱
 http://109.104.129.195:8001/play/s25
 
