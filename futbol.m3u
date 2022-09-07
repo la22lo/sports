@@ -195,27 +195,6 @@ https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIl
 #EXTINF:-1, TNT SPORTS 🇧🇷
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
-#EXTINF:-1,beIN Sports HD 🇶🇦
-http://195.154.242.24:8009/play/a062/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
-http://195.154.242.24:8009/play/a05n/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 2 HD 🇶🇦
-http://195.154.242.24:8009/play/a05o/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 3 HD 🇶🇦
-http://195.154.242.24:8009/play/a05p/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 4 HD 🇶🇦
-http://195.154.242.24:8009/play/a05q/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 5 HD 🇶🇦
-http://195.154.242.24:8009/play/a05r/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 6 HD 🇶🇦
-http://195.154.242.24:8009/play/a05s/index.m3u8
-
 #EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
@@ -236,15 +215,6 @@ http://93.152.174.144:4000/play/bein6ar/index.m3u8
 
 #EXTINF:-1, BEIN SPORT 7 HD 🇶🇦
 http://93.152.174.144:4000/play/bein7ar/index.m3u8
-
-#EXTINF:-1,beIN Sports Premium 1 🇶🇦
-http://195.154.242.24:8009/play/a05u/index.m3u8
-
-#EXTINF:-1,beIN Sports Premium 2 🇶🇦
-http://195.154.242.24:8009/play/a05v/index.m3u8
-
-#EXTINF:-1,beIN Sports Premium 3 🇶🇦
-http://195.154.242.24:8009/play/a05w/index.m3u8
 
 #EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
@@ -612,45 +582,6 @@ http://84.42.140.147:8890/hdmi
 #EXTINF:-1, O2 TV SPORT HD 🇨🇿 
 http://84.42.140.148:8880/hdmi
 
-#EXTINF:-1,CT sport HD cze 🇨🇿
-http://92.240.225.4:9999/play/75-132-cze
-
-#EXTINF:-1,CT sport HD cze 🇨🇿
-http://92.240.225.4:9999/play/64-101-cze
-
-#EXTINF:-1,CT sport cze 🇨🇿
-http://92.240.225.4:9999/play/64-62-cze
-
-#EXTINF:-1,Sport1 CZE cze 🇨🇿
-http://92.240.225.4:9999/play/69-1-cze
-
-#EXTINF:-1,Sport1 Cz Sk HD cze 🇨🇿
-http://92.240.225.4:9999/play/64-174-cze
-
-#EXTINF:-1,Sport2 CZE cze 🇨🇿
-http://92.240.225.4:9999/play/65-26-cze
-
-#EXTINF:-1,Sport2 Cz Sk HD cze 🇨🇿
-http://92.240.225.4:9999/play/65-74-cze
-
-#EXTINF:-1,Sport2 Cz Sk HD slo 🇨🇿
-http://92.240.225.4:9999/play/65-74-slo
-
-#EXTINF:-1,Nova Sport 1 HD cze 🇨🇿
-http://92.240.225.4:9999/play/65-72-cze
-
-#EXTINF:-1,Nova Sport 1 HD cze 🇨🇿
-http://92.240.225.4:9999/play/65-72-eng
-
-#EXTINF:-1,Nova Sport 2 HD cze 🇨🇿
-http://92.240.225.4:9999/play/64-16-cze
-
-#EXTINF:-1,Nova Sport 2 HD cze 🇨🇿
-http://92.240.225.4:9999/play/64-16-eng
-
-#EXTINF:-1,Nova Sport 4 HD cze 🇨🇿
-http://92.240.225.4:9999/play/77-9-cze
-
 #EXTINF:-1, SPORT PREMIUM 🇨🇿 
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 
@@ -759,21 +690,6 @@ http://188.93.94.140/setanta_sports_plus_georgia/playlist.m3u8?token=%E3%82%B8%E
 #EXTINF:-1, SETANTA SPORT QAZ
 http://cdntv.online/hls/2acyu4x537/1187.m3u8
 
-#EXTINF:-1,Ziggo Sport HD 🇳🇱
-http://87.212.248.23:8080/play/z067
-
-#EXTINF:-1,Ziggo Sport Racing HD 🇳🇱
-http://87.212.248.23:8080/play/a0c1
-
-#EXTINF:-1,Ziggo Sport Select HD 🇳🇱
-http://87.212.248.23:8080/play/a0c3
-
-#EXTINF:-1,Ziggo Sport Tennis 🇳🇱
-http://87.212.248.23:8080/play/a0bu
-
-#EXTINF:-1,Ziggo Sport Voetbal HD 🇳🇱
-http://87.212.248.23:8080/play/a0c2
-
 #EXTINF:-1, ESPN 🇳🇱
 http://178.251.29.83:7242/play/a01e
 
@@ -783,38 +699,11 @@ http://178.251.29.83:7242/play/a01r
 #EXTINF:-1, ESPN 4 🇳🇱
 http://178.251.29.83:7242/play/a01b
 
-#EXTINF:-1, POLSAT SPORTS PREMIUM 1 🇵🇱
-http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=3628&extension=m3u8
-
-#EXTINF:-1, POLSAT SPORTS PREMIUM 2 🇵🇱
-http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=3629&extension=m3u8
-
 #EXTINF:-1,Polsat Sport Extra HD 🇵🇱
 http://185.234.217.19:8020/play/a07i
 
 #EXTINF:-1,Polsat Sport HD 🇵🇱
 http://185.234.217.19:8020/play/a07d
-
-#EXTINF:-1,TVP Sport HD pol 🇵🇱
-http://92.240.225.4:9999/play/67-106-pol
-
-#EXTINF:-1, Sport 1 slk 🇸🇰
-http://92.240.225.4:9999/play/65-64-slk
-
-#EXTINF:-1, Sport 2 HD slk 🇸🇰
-http://92.240.225.4:9999/play/77-1-slk
-
-#EXTINF:-1, Sport 2 HD slk 🇸🇰
-http://92.240.225.4:9999/play/64-223-slk
-
-#EXTINF:-1,Sport1 slo 🇸🇮
-http://92.240.225.4:9999/play/69-1-slo
-
-#EXTINF:-1,Sport1 Sk HD slo 🇸🇮
-http://92.240.225.4:9999/play/64-174-slo
-
-#EXTINF:-1,Sport2 slo 🇸🇮
-http://92.240.225.4:9999/play/65-26-slo
 
 #EXTINF:-1, BEIN SPORT 1 AUSTRALIA
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/141846
@@ -891,12 +780,6 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1, TURMEKISTAN SPORT  🇹🇷
 http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
-#EXTINF:-1,TRT 1 🇹🇷
-https://mn-nl.mncdn.com/blutv_trt1_dvr/live.m3u8
-
-#EXTINF:-1,TRT 2 🇹🇷
-https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
-
 #EXTINF:-1,TRT SPOR HD 🇹🇷
 http://185.205.201.44:8035/play/a00b/index.m3u8
 
@@ -947,21 +830,6 @@ https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w192207
 
 #EXTINF:-1, EUROSPORT
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
-
-#EXTINF:-1,Star Sports 1 HD 🇵🇰
-http://103.174.4.171:8000/play/a07j/index.m3u8
-
-#EXTINF:-1,Star Sports 2 HD 🇵🇰
-http://103.174.4.171:8000/play/a07m/index.m3u8
-
-#EXTINF:-1,Star Sports 3 🇵🇰
-http://103.174.4.171:8000/play/a07n/index.m3u8
-
-#EXTINF:-1,Star Sports Select 1 HD 🇵🇰
-http://103.174.4.171:8000/play/a07i/index.m3u8
-
-#EXTINF:-1,Star Sports Select 2 HD 🇵🇰
-http://103.174.4.171:8000/play/a07o/index.m3u8
 
 #EXTINF:-1, BAHRAIN SPORTS 🇧🇭
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
