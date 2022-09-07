@@ -36,6 +36,9 @@ http://45.224.23.212:8000/play/a049/index.m3u8
 #EXTINF:-1,Fox Sports 2 🇦🇷
 https://streamcdneu.loco.gg/ONEX5JQWM2_148c9e23-19d5-4291-8f00-6bb7d4a21f84/ONEX5JQWM2_148c9e23-19d5-4291-8f00-6bb7d4a21f84_hi/manifest.m3u8
 
+#EXTINF:-1,ARENA
+https://sun.meta-scores.com/9678aa2a80/index.m3u8
+
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3321
 
