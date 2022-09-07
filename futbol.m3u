@@ -45,6 +45,9 @@ http://154.54.220.247:51323/play/a032/index.m3u8
 #EXTINF:-1, BEIN SPORT CONNECT 🇶🇦
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live13-1080FHD.m3u8?SBN
 
+#EXTINF:-1, SUPERSPORT LALIGA 🇬🇧
+http://109.169.15.33:8080/catena-19-191-streamer-supersport_laliga/video.m3u8?token=d3a5b2d8c2d7ac5e4a6e0ce335ad97de
+
 #EXTINF:-1, S LALIGA 🇬🇧
 https://lshstream.xyz/hls/allsportsicu02/index.m3u8
 
