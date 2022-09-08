@@ -1,37 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1,ELEVEN SPORTS 4 🇵🇹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
+#EXTINF:-1,ELEVEN SPORTS 2 🇵🇹
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
 
-#EXTINF:-1, ELEVEN 4HD 🇵🇹
-http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6237
-
-#EXTINF:-1,ESPN 3 HD 🇦🇷
-http://45.224.23.212:8000/play/a047/index.m3u8
-
-#EXTINF:-1,ESPN 3 HD 🇦🇷
-https://streamcdneu.loco.gg/B5I4VBUEVK_ae2c06b2-98c7-4ea1-b78a-87259debd2a5/B5I4VBUEVK_ae2c06b2-98c7-4ea1-b78a-87259debd2a5_hi/manifest.m3u8
-
-#EXTINF:-1, МАТЧ Футбол 2 HD 🇷🇺
-http://213.172.73.170:8081/nimble_live/1065__Mat4_Futbol_2/playlist.m3u8
-
-#EXTINF:-1, МАТЧ Футбол 2 HD 🇷🇺
-http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/211/index.m3u8
-
-#EXTINF:-1, MOVISTAR L. CAMPEONES 🇪🇸
-http://51.222.25.50:25461/N0P3RR0/n0r0b3s/57
-
-#EXTINF:-1,M+LCAMPEONES 🇪🇸
-http://154.54.220.247:51323/play/a03c/index.m3u8
-
-#EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
-
-#EXTINF:-1,Fox Sports 2 🇦🇷
-http://45.224.23.212:8000/play/a049/index.m3u8
-
-#EXTINF:-1,Fox Sports 2 🇦🇷
-https://streamcdneu.loco.gg/ONEX5JQWM2_148c9e23-19d5-4291-8f00-6bb7d4a21f84/ONEX5JQWM2_148c9e23-19d5-4291-8f00-6bb7d4a21f84_hi/manifest.m3u8
+#EXTINF:-1, ELEVEN 2HD 🇵🇹
+http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6235
 
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3321
@@ -188,6 +161,12 @@ https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/60580
 
 #EXTINF:-1, UNIVISION 🇦🇷
 https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
+
+#EXTINF:-1,ESPN HD 🇦🇷
+https://streamcdneu.loco.gg/B5I4VBUEVK_ae2c06b2-98c7-4ea1-b78a-87259debd2a5/B5I4VBUEVK_ae2c06b2-98c7-4ea1-b78a-87259debd2a5_hi/manifest.m3u8
+
+#EXTINF:-1,Fox Sports 🇦🇷
+https://streamcdneu.loco.gg/ONEX5JQWM2_148c9e23-19d5-4291-8f00-6bb7d4a21f84/ONEX5JQWM2_148c9e23-19d5-4291-8f00-6bb7d4a21f84_hi/manifest.m3u8
 
 #EXTINF:-1, TNT SPORTS 🇧🇷
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
