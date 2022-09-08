@@ -15,6 +15,12 @@ http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/99
 #EXTINF:-1,M+ LaLiga HD 🇪🇸
 http://154.54.220.247:51323/play/a032/index.m3u8
 
+#EXTINF:-1,Беларусь 5 HD
+http://176.9.48.60:23055/play/a02b
+
+#EXTINF:-1,Беларусь 5 SD
+http://176.9.48.60:23055/play/a02c
+
 #EXTINF:-1, BEIN SPORT CONNECT 🇶🇦
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live13-1080FHD.m3u8?SBN
 
