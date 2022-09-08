@@ -636,6 +636,12 @@ http://cdntv.online/hls/2acyu4x537/1065.m3u8
 #EXTINF:-1, Спорт 1 🇺🇦
 http://178.175.173.250:19000/play/a00i
 
+#EXTINF:-1,Беларусь 5 HD 🇧🇾
+http://176.9.48.60:23055/play/a02b
+
+#EXTINF:-1,Беларусь 5 SD 🇧🇾
+http://176.9.48.60:23055/play/a02c
+
 #EXTINF:-1, SETANTA SPORT 1 GEO 🇬🇪
 http://188.93.94.140/setanta_georgia/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
 
