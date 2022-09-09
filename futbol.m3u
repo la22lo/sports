@@ -21,6 +21,15 @@ http://109.169.15.33:8080/catena-19-191-streamer-supersport_laliga/video.m3u8?to
 #EXTINF:-1, S LALIGA 🇬🇧
 https://lshstream.xyz/hls/allsportsicu02/index.m3u8
 
+#EXTINF:-1, BEVO TV 🇨🇳 
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may8/playlist.m3u8?SBN
+
+#EXTINF:-1, CANAL CHINO 1 🇨🇳 
+https://hls1.yuanzhi.org.cn/live/H820280.m3u8?txSecret=6bf74257eb91db119018d0e5656afd42&txTime=631CD031&_s=stream
+
+#EXTINF:-1, CANAL CHINO 2 🇨🇳
+http://s@play.2kanzu.com/tianxiatv/stream-e33e1cbe247e47eabc0eab34896d3966.m3u8
+
 #EXTINF:-1,Беларусь 5 HD 🇧🇾
 http://176.9.48.60:23055/play/a02b
 
