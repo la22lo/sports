@@ -27,6 +27,9 @@ http://176.9.48.60:23055/play/a02b
 #EXTINF:-1,Беларусь 5 SD 🇧🇾
 http://176.9.48.60:23055/play/a02c
 
+#EXTINF:-1,Беларусь 5 SD 🇧🇾
+http://cz.iptv.monster/play/1467/E26628ABD45E345/video.m3u8
+
 #EXTINF:-1, BEIN SPORT CONNECT 🇶🇦
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live13-1080FHD.m3u8?SBN
 
@@ -659,6 +662,9 @@ http://176.9.48.60:23055/play/a02b
 
 #EXTINF:-1,Беларусь 5 SD 🇧🇾
 http://176.9.48.60:23055/play/a02c
+
+#EXTINF:-1,Беларусь 5 SD 🇧🇾
+http://cz.iptv.monster/play/1467/E26628ABD45E345/video.m3u8
 
 #EXTINF:-1, SETANTA SPORT 1 GEO 🇬🇪
 http://188.93.94.140/setanta_georgia/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
