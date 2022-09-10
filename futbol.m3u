@@ -18,15 +18,6 @@ http://109.169.15.33:8080/catena-19-191-streamer-supersport_laliga/video.m3u8?to
 #EXTINF:-1, S LALIGA 🇬🇧
 https://lshstream.xyz/hls/allsportsicu02/index.m3u8
 
-#EXTINF:-1,Беларусь 5 HD 🇧🇾
-http://176.9.48.60:23055/play/a02b
-
-#EXTINF:-1,Беларусь 5 SD 🇧🇾
-http://176.9.48.60:23055/play/a02c
-
-#EXTINF:-1,Беларусь 5 SD 🇧🇾
-http://cz.iptv.monster/play/1467/E26628ABD45E345/video.m3u8
-
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3321
 
