@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, DAZN LALIGA 🇪🇸
-http://dorothy.solanaflix.com:8080/play/r5e6OkJhyQuiuJTb8eYLE-rO6Z20Al2_f3fuxwC8632vd09qT79wPMmMt1K-UqyR
-
 #EXTINF:-1, S LALIGA 🇬🇧
 https://P135@lshstream.xyz/hls/allsportsicu02/index.m3u8?P135
 
@@ -21,15 +18,6 @@ http://109.169.15.33:8080/catena-19-191-streamer-supersport_laliga/video.m3u8?to
 #EXTINF:-1, S LALIGA 🇬🇧
 https://lshstream.xyz/hls/allsportsicu02/index.m3u8
 
-#EXTINF:-1, BEVO TV 🇨🇳 
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may8/playlist.m3u8?SBN
-
-#EXTINF:-1, CANAL CHINO 1 🇨🇳 
-https://hls1.yuanzhi.org.cn/live/H820280.m3u8?txSecret=6bf74257eb91db119018d0e5656afd42&txTime=631CD031&_s=stream
-
-#EXTINF:-1, CANAL CHINO 2 🇨🇳
-http://s@play.2kanzu.com/tianxiatv/stream-e33e1cbe247e47eabc0eab34896d3966.m3u8
-
 #EXTINF:-1,Беларусь 5 HD 🇧🇾
 http://176.9.48.60:23055/play/a02b
 
@@ -47,6 +35,9 @@ http://luctv.net:8080/live/vizyon.restream.300/65CSCb2QJ0ttCjU24PGySS6d893nh4/99
 
 #EXTINF:-1,M+ LaLiga HD 🇪🇸
 http://154.54.220.247:51323/play/a032/index.m3u8
+
+#EXTINF:-1, DAZN LALIGA 🇪🇸
+http://dorothy.solanaflix.com:8080/play/r5e6OkJhyQuiuJTb8eYLE-rO6Z20Al2_f3fuxwC8632vd09qT79wPMmMt1K-UqyR
 
 #EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
