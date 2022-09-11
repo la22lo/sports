@@ -9,6 +9,9 @@ https://3f85a0487d63.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.66
 #EXTINF:-1, S LALIGA 🇬🇧
 https://P135@lshstream.xyz/hls/allsportsicu02/index.m3u8?P135
 
+#EXTINF:-1, S LALIGA 🇬🇧
+https://P135@4b50658c756a.us-west-2.playback.live-video.net/api/video/v1/us-west-2.785341126206.channel.e5kEOYRP82OY.m3u8?ap135
+
 #EXTINF:-1,ELEVEN SPORTS 2 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
 
