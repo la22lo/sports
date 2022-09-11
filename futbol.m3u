@@ -1,16 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1, CANAL CHINO 🇨🇳
-https://hls1.yuanzhi.org.cn/live/H820284.m3u8?txSecret=5d451c8b8b4239be531276809daf4b2b&txTime=631EFA3E&_s=stream
-
 #EXTINF:-1, PREMIERE LALIGA 🇬🇧
 https://3f85a0487d63.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.665154753853.channel.ocwKaGgENGAN.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czpldS13ZXN0LTE6NjY1MTU0NzUzODUzOmNoYW5uZWwvb2N3S2FHZ0VOR0FOIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHA6Ly93d3cubXlzcG9ydHMudG8iLCJpYXQiOjE2NjI4NDgwMDUsImV4cCI6MTY2MzAyMDgwNX0.xXjoiA3Nu-wlq7JqIMDhm3RvJo-0hs9cvy27b8S_Zdn3HIyAXnht6z56x9TUrz3_518Vr1ScyLEN9P6xgtT0PIkm5QRE55byUmCEkPuyK3itLw5urCNtBLRzDklgbK5a
 
 #EXTINF:-1, S LALIGA 🇬🇧
 https://P135@lshstream.xyz/hls/allsportsicu02/index.m3u8?P135
-
-#EXTINF:-1, S LALIGA 🇬🇧
-https://P135@4b50658c756a.us-west-2.playback.live-video.net/api/video/v1/us-west-2.785341126206.channel.e5kEOYRP82OY.m3u8?ap135
 
 #EXTINF:-1,ELEVEN SPORTS 2 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
