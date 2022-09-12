@@ -738,5 +738,44 @@ http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C783
 #EXTINF:-1,31 RTSH Sport HD
 http://109.104.129.195:8001/play/s25
 
+#EXTINF:-1,Sport TV 1 HD
+http://45.92.69.71:8000/play/a04k
+
+#EXTINF:-1,Sport TV 2 HD
+http://45.92.69.71:8000/play/a04l
+
+#EXTINF:-1,Sport TV 3 HD
+http://45.92.69.71:8000/play/a05m
+
+#EXTINF:-1,Sport TV 4 HD
+http://45.92.69.71:8000/play/a04n
+
+#EXTINF:-1,Sport TV 5 HD
+http://45.92.69.71:8000/play/a00a
+
+#EXTINF:-1,Sport TV 6 HD
+http://45.92.69.71:8000/play/a00c
+
+#EXTINF:-1,M+ LaLiga HD
+http://45.92.69.204:1982/play/a0dw
+
+#EXTINF:-1,M+ LaLiga HD
+http://45.135.194.113:8001/play/a025
+
+#EXTINF:-1,Liga SmartBank
+http://45.135.194.113:8006/play/a026
+
+#EXTINF:-1,Liga SmartBank 2
+http://45.135.194.113:8006/play/a024
+
+#EXTINF:-1,Liga SmartBank 3
+http://45.135.194.113:8006/play/a025
+
+#EXTINF:-1,M+LCAMPEONES
+http://45.135.194.113:8004/play/a024
+
+#EXTINF:-1,DAZN LaLigaHD
+http://45.135.194.113:8003/play/a024
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
