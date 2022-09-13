@@ -100,6 +100,12 @@ http://84.42.140.147:8890/hdmi
 #EXTINF:-1, ARENA SPORT 1 🇭🇷
 http://46.29.169.15:4001/play/a00t/index.m3u8
 
+#EXTINF:-1,DAZN 1 BAR 🇩🇪
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
+
+#EXTINF:-1,DAZN 2 BAR 🇩🇪
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sl4PR2-6eZEHuOmWnlPbYOc
+
 #EXTINF:-1,DAZN 1 🇩🇪
 http://45.135.194.241:8003/play/a03v
 
@@ -636,6 +642,18 @@ http://live-vn.cvacetv.ga:8080/PolsatPre1
 
 #EXTINF:-1, POLSAT SPORT PREMIUM 2 🇵🇱
 http://live-vn.cvacetv.ga:8080/PolsatPre2
+
+#EXTINF:-1, POLSAT SPORT HD 🇵🇱
+http://95.211.250.58/POLSAT_SPORT/mono.m3u8
+
+#EXTINF:-1, POLSAT SPORT NEWS HD 🇵🇱
+http://95.211.250.58/POLSAT_SPORT_NEWS/mono.m3u8
+
+#EXTINF:-1, POLSAT SPORT EXTRA HD 🇵🇱
+http://95.211.250.58/POLSAT_SPORT_EXTRA/mono.m3u8
+
+#EXTINF:-1, TVP SPORT 🇵🇱
+http://95.211.250.58/TVP_SPORT/mono.m3u8
 
 #EXTINF:-1 ,2 SPORT HUNGRIA 🇭🇺
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
