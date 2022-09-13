@@ -172,6 +172,36 @@ https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIl
 #EXTINF:-1, TNT SPORTS 🇧🇷
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
+#EXTINF:-1, BEIN SPORTS PREMIUM 1HD 🇶🇦
+https://bit.ly/premium1bein
+
+#EXTINF:-1, BEIN SPORTS PREMIUM 2HD 🇶🇦
+https://bit.ly/premium2bein
+
+#EXTINF:-1, BEIN SPORTS PREMIUM 3HD 🇶🇦
+https://bit.ly/premium3bein
+
+#EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
+https://bit.ly/sportbein1
+
+#EXTINF:-1, BEIN SPORT 2 HD 🇶🇦
+https://bit.ly/sportbein22
+
+#EXTINF:-1, BEIN SPORT 3 HD 🇶🇦
+https://bit.ly/sportbein3
+
+#EXTINF:-1, BEIN SPORT 4 HD 🇶🇦
+https://bit.ly/sportbein4
+
+#EXTINF:-1, BEIN SPORT 5 HD 🇶🇦
+https://bit.ly/sportbein5
+
+#EXTINF:-1, BEIN SPORT 6 HD 🇶🇦
+https://bit.ly/sportbein6
+
+#EXTINF:-1, BEIN SPORT 7 HD 🇶🇦
+https://bit.ly/sportbein7
+
 #EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
@@ -246,6 +276,12 @@ http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/1580
 
 #EXTINF:-1,SPORT-TV 5HD 🇵🇹
 http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/3788
+
+#EXTINF:-1, EUROSPORT 1HD 🇵🇹
+http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/1543
+
+#EXTINF:-1, EUROSPORT 2HD 🇵🇹
+http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/1542
 
 #EXTINF:-1, BeINSports 1 HD[THAI] 🇹🇭
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115807
