@@ -18,6 +18,12 @@ http://65.21.196.155/azerbaijan/cbc_sport2/playlist.m3u8
 #EXTINF:-1, BEIN SPORTS PREMIUM 1HD 🇶🇦
 https://bit.ly/premium1bein
 
+#EXTINF:-1, CANAL RUSO
+https://P135@bal.varcdn.top/app/match/index.m3u8?P135
+
+#EXTINF:-1, CANAL RUSO
+https://P135@aws01.varcdn.top/match/tracks-v1a1/mono.m3u8?P135
+
 #EXTINF:-1, TNT 🇧🇷
 https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/CI6ufUyB49VI9FQwPDP6eFgCZjL_DX57918UiCJhX4hX8LFbsISiqbBA0CNi8PkeWrHdYLW0QEJYsDhdzzg1qg/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
 
