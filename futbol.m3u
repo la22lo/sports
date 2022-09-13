@@ -21,12 +21,6 @@ http://65.21.196.155/azerbaijan/cbc_sport2/playlist.m3u8
 #EXTINF:-1, BEIN SPORTS PREMIUM 1HD 🇶🇦
 https://bit.ly/premium1bein
 
-#EXTINF:-1, CANAL RUSO
-https://P135@bal.varcdn.top/app/match/index.m3u8?P135
-
-#EXTINF:-1, CANAL RUSO
-https://P135@aws01.varcdn.top/match/tracks-v1a1/mono.m3u8?P135
-
 #EXTINF:-1, SBT 🇧🇷
 https://evpp.mm.uol.com.br/ne10/smil:ne10.smil/chunklist_w1510844446_b216000_sleng.m3u8
 
@@ -48,15 +42,8 @@ https://P135@play.zhuafan.tech/live/live_1585628146598.m3u8?auth_key=1663113312-
 #EXTINF:-1, CANAL CHINO
 https://460598949f82.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.726782747956.channel.EXavFEgnl5qF.m3u8
 
-#EXTINF:-1, CANAL RUSO
-https://P135@bal.varcdn.top/app/m3/index.m3u8?P135
-
 #EXTINF:-1, CANAL CHINO ELEV
 https://pull.xingliju.com/leisu/1119650558674108.m3u8?auth_key=1663112100-0-0-1b9cc409d95d0f9298dddd44af3842d6
-
-#EXTINF:-1, CANAL RUSO
-https://P135@aws02.varcdn.top/m3/tracks-v1a1/mono.m3u8?P135
-
 
 
 #EXTINF:-1,M+ LaLiga HD 🇪🇸
