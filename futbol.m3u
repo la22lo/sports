@@ -34,6 +34,9 @@ https://evpp.mm.uol.com.br/ne10/smil:ne10.smil/chunklist_w1510844446_b216000_sle
 https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/CI6ufUyB49VI9FQwPDP6eFgCZjL_DX57918UiCJhX4hX8LFbsISiqbBA0CNi8PkeWrHdYLW0QEJYsDhdzzg1qg/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1, CANAL CHINO
+http://s@play.2kanzu.com/tianxiatv/stream-4482d2ef169845a5ab7c107d4de58f86.m3u8
+
+#EXTINF:-1, CANAL CHINO
 https://play.zhuafan.tech/live/live_1562038748682.m3u8?auth_key=1663113133-86800981-0-6df73fead8e14dc4234bbfd2ce24739b&uid=live_1562038748682
 
 #EXTINF:-1, CANAL CHINO
