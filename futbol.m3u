@@ -27,6 +27,9 @@ https://P135@play.zhuafan.tech/live/live_1562038748682.m3u8?auth_key=1663113133-
 #EXTINF:-1, CANAL CHINO
 https://P135@play.zhuafan.tech/live/live_1585628146598.m3u8?auth_key=1663113312-17843044-0-4570bce85f672c462966193b8931600b&uid=live_1585628146598
 
+#EXTINF:-1, CANAL RUSO
+https://P135@bal.varcdn.top/app/m3/index.m3u8?P135
+
 
 #EXTINF:-1,M+ LaLiga HD 🇪🇸
 http://45.135.194.113:8001/play/a025
