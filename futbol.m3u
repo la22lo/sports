@@ -187,6 +187,9 @@ http://160.20.164.171:8001/play/a055/index.m3u8
 #EXTINF:-1, FOX SPORTS 3 🇦🇷
 http://45.71.185.142:8500/play/a01o
 
+#EXTINF:-1, FOX SPORTS 3 🇦🇷
+http://160.20.164.171:8001/play/a056/index.m3u8
+
 #EXTINF:-1, TV MAX 🇦🇷
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
 
