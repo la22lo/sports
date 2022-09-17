@@ -3,6 +3,9 @@
 #EXTINF:-1,M+ LaLiga HD 🇪🇸
 http://45.135.194.113:8001/play/a025
 
+#EXTINF:-1,DAZN LaLigaHD  🇪🇸
+http://45.135.194.113:8003/play/a024
+
 #EXTINF:-1, SUPERSPORT LALIGA 🇬🇧
 http://109.169.15.33:8080/catena-19-191-streamer-supersport_laliga/video.m3u8?token=d3a5b2d8c2d7ac5e4a6e0ce335ad97de
 
