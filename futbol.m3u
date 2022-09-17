@@ -18,6 +18,9 @@ https://P135@play.zhuafan.tech/live/live_1658719003171.m3u8?auth_key=1663442014-
 #EXTINF:-1, SUPERSPORT LALIGA 🇬🇧
 http://109.169.15.33:8080/catena-19-191-streamer-supersport_laliga/video.m3u8?token=d3a5b2d8c2d7ac5e4a6e0ce335ad97de
 
+#EXTINF:-1, SUPERSPORT LALIGA 🇬🇧
+http://P135@45.86.191.47:8081/live/ch2/chunks.m3u8
+
 #EXTINF:-1, PREMIERE LALIGA 🇬🇧
 http://185.209.15.245:8081/live/ch5/chunks.m3u8
 
