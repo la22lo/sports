@@ -6,15 +6,6 @@ http://45.135.194.113:8001/play/a025
 #EXTINF:-1,DAZN LaLigaHD  🇪🇸
 http://45.135.194.113:8003/play/a024
 
-#EXTINF:-1, CANAL CHINO 🇨🇳
-https://P135@play.zhuafan.tech/live/live_1649580438676.m3u8?auth_key=1663441927-13040376-0-0234b868e158329f68c9d419efa1883b&uid=live_1649580438676
-
-#EXTINF:-1, CANAL CHINO 🇨🇳
-https://P135@play.zhuafan.tech/live/live_1661828818319.m3u8?auth_key=1663441915-94405098-0-655b654846d4d5a8d5e3b973f65a050c&uid=live_1661828818319
-
-#EXTINF:-1, CANAL CHINO 🇨🇳
-https://P135@play.zhuafan.tech/live/live_1658719003171.m3u8?auth_key=1663442014-95645613-0-0cc0b8e615eb7322e2d14a67829f2015&uid=live_1658719003171
-
 #EXTINF:-1, SUPERSPORT LALIGA 🇬🇧
 http://109.169.15.33:8080/catena-19-191-streamer-supersport_laliga/video.m3u8?token=d3a5b2d8c2d7ac5e4a6e0ce335ad97de
 
