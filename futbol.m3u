@@ -342,14 +342,8 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3321
 #EXTINF:-1,M+ LaLiga HD 🇪🇸
 http://154.54.220.247:51323/play/a032/index.m3u8
 
-#EXTINF:-1,M+ LaLiga HD 🇪🇸
-http://45.135.194.113:8001/play/a025
-
 #EXTINF:-1,DAZN LaLigaHD 🇪🇸
 http://154.54.220.247:51323/play/a030/index.m3u8
-
-#EXTINF:-1,DAZN LaLigaHD  🇪🇸
-http://45.135.194.113:8003/play/a024
 
 #EXTINF:-1,DAZN LaLiga2 HD 🇪🇸
 http://154.54.220.247:51323/play/a034/index.m3u8
@@ -360,26 +354,14 @@ http://154.54.220.247:51323/play/a036/index.m3u8
 #EXTINF:-1,LigaSmartBankHD 🇪🇸
 http://128.199.253.215/smart/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Liga SmartBank 🇪🇸
-http://45.135.194.113:8006/play/a026
-
 #EXTINF:-1,LigaSmartBank2HD 🇪🇸
 http://154.54.220.247:51323/play/a037/index.m3u8
-
-#EXTINF:-1,Liga SmartBank 2 🇪🇸
-http://45.135.194.113:8006/play/a024
-
-#EXTINF:-1,Liga SmartBank 3 🇪🇸
-http://45.135.194.113:8006/play/a025
 
 #EXTINF:-1, MOVISTAR L. CAMPEONES 🇪🇸
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/57
 
 #EXTINF:-1,M+LCAMPEONES 🇪🇸
 http://154.54.220.247:51323/play/a03c/index.m3u8
-
-#EXTINF:-1,M+LCAMPEONES 🇪🇸
-http://45.135.194.113:8004/play/a024
 
 #EXTINF:-1,DAZN 1 HD 🇪🇸
 http://154.54.220.247:51323/play/a03a/index.m3u8
@@ -389,6 +371,9 @@ http://154.54.220.247:51323/play/a03b/index.m3u8
 
 #EXTINF:-1,DAZN F1 HD 🇪🇸
 http://154.54.220.247:51323/play/a03d/index.m3u8
+
+#EXTINF:-1,VAMOS 🇪🇸
+http://l3d.us:25461/live/restreamiptv/EYTbwgHD8K/2100772.m3u8
 
 #EXTINF:-1,beIN SPORTS EXTRA Ñ 🇪🇸
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
