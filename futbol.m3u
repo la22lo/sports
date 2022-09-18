@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1,M+ LaLiga HD 🇪🇸
-http://45.135.194.113:8001/play/a025
+#EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 
-#EXTINF:-1,DAZN LaLigaHD  🇪🇸
-http://45.135.194.113:8003/play/a024
+#EXTINF:-1, ELEVEN 1HD 🇵🇹
+http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6234
 
 #EXTINF:-1, SUPERSPORT LALIGA 🇬🇧
 http://P135@45.86.191.47:8081/live/ch2/chunks.m3u8
@@ -12,23 +12,14 @@ http://P135@45.86.191.47:8081/live/ch2/chunks.m3u8
 #EXTINF:-1, S LALIGA 🇬🇧
 https://P135@lshstream.xyz/hls/allsportsicu02/index.m3u8?P135
 
+#EXTINF:-1, S LALIGA 🇬🇧
+https://lshstream.xyz/hls/allsportsicu02/index.m3u8
+
 #EXTINF:-1,ELEVEN SPORTS 2 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
 
 #EXTINF:-1, ELEVEN 2HD 🇵🇹
 http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6235
-
-#EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
-
-#EXTINF:-1, ELEVEN 1HD 🇵🇹
-http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6234
-
-#EXTINF:-1, BEIN SPORT CONNECT 🇶🇦
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live13-1080FHD.m3u8?SBN
-
-#EXTINF:-1, S LALIGA 🇬🇧
-https://lshstream.xyz/hls/allsportsicu02/index.m3u8
 
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3321
