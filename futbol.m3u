@@ -9,9 +9,6 @@ http://45.135.194.113:8003/play/a024
 #EXTINF:-1, SUPERSPORT LALIGA 🇬🇧
 http://P135@45.86.191.47:8081/live/ch2/chunks.m3u8
 
-#EXTINF:-1, PREMIERE LALIGA 🇬🇧
-http://185.209.15.245:8081/live/ch5/chunks.m3u8
-
 #EXTINF:-1, S LALIGA 🇬🇧
 https://P135@lshstream.xyz/hls/allsportsicu02/index.m3u8?P135
 
@@ -305,6 +302,9 @@ http://185.209.15.245:8081/live/ch6/chunks.m3u8
 
 #EXTINF:-2022, BT SPORT 3 HD 🇬🇧
 http://185.209.15.245:8081/live/ch7/chunks.m3u8
+
+#EXTINF:-1, PREMIERE LALIGA 🇬🇧
+http://185.209.15.245:8081/live/ch5/chunks.m3u8
 
 #EXTINF:-1, SUPER GRANDSTAND 🇬🇧
 http://185.145.43.244:8000/play/a008/index.m3u8
