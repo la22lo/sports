@@ -765,6 +765,12 @@ https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 #EXTINF:-1,SPORTS TV 🇹🇷
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
+#EXTINF:-1, A SPORT 🇹🇷
+https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
+
+#EXTINF:-1, NTV SPORT 🇹🇷
+http://37.221.121.137:8585/hls/ntvspor/index.m3u8
+
 #EXTINF:-1, TNT SPORTS 🇧🇷
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 
