@@ -690,8 +690,41 @@ http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1, CANAL CHINO 5 新视觉 🇨🇳
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 
+#EXTINF:-1, GEO SUPER 🇮🇳
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/16088
+
 #EXTINF:-1, Sony Ten 1 🇮🇳
 http://jupiter.bdcabletv.com/ten_1-enc/video.m3u8
+
+#EXTINF:-1, Sony Ten 2 🇮🇳
+http://jupiter.bdcabletv.com/ten_2-enc/video.m3u8
+
+#EXTINF:-1, Sony Ten 3 🇮🇳
+http://103.162.136.235:4500/play/a01d/index.m3u8
+
+#EXTINF:-1, Sony Ten 6 🇮🇳
+http://103.16.24.54:8080/channel7/index.m3u8
+
+#EXTINF:-1, STAR SPORT 1 🇮🇳
+http://streams.sarkernet.com/hls/stream3.m3u8
+
+#EXTINF:-1, STAR SPORT 2 🇮🇳
+http://208.86.19.13:81/715.stream/index.m3u8
+
+#EXTINF:-1, STAR SPORT 3 🇮🇳
+http://103.162.136.235:4500/play/a013/index.m3u8
+
+#EXTINF:-1, STAR SPORT SELECT 1 🇮🇳
+http://103.162.136.235:4500/play/a00v/index.m3u8
+
+#EXTINF:-1, STAR SPORT SELECT 2 🇮🇳
+http://103.162.136.235:4500/play/a00w/index.m3u8
+
+#EXTINF:-1, T SPORT HD 🇮🇳
+http://jupiter.bdcabletv.com/T-sp/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, TEN SPORT HD 🇮🇳
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136667
 
 #EXTINF:-1, TVRI SPORTS INDONESIA 🇮🇩
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
