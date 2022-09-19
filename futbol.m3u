@@ -831,5 +831,41 @@ http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C783
 #EXTINF:-1,CHINO
 https://standard-pull.jpami.com/sm/10021_428419_lhd.m3u8?auth_key=1663172286-0-0-557dceb36aa25fb29aa591890bdce12b
 
+#EXTINF:-1,beIN Sports HD
+http://194.127.172.154:8000/play/a06n
+
+#EXTINF:-1,beIN Sports 4 HD
+http://194.127.172.154:8000/play/a06r
+
+#EXTINF:-1,beIN Sports 5 HD
+http://194.127.172.154:8000/play/a06s
+
+#EXTINF:-1,beIN Sports 6 HD
+http://194.127.172.154:8000/play/a06t
+
+#EXTINF:-1,beIN Sports 7 HD
+http://194.127.172.154:8000/play/a06u
+
+#EXTINF:-1, BT Sport 1
+http://194.127.172.154:8000/play/a09u
+
+#EXTINF:-1, BT Sport 1 HD
+http://194.127.172.154:8000/play/a09t
+
+#EXTINF:-1, BT Sport 2
+http://194.127.172.154:8000/play/a09w
+
+#EXTINF:-1, BT Sport 2 HD
+http://194.127.172.154:8000/play/a09v
+
+#EXTINF:-1, BT Sport 3
+http://194.127.172.154:8000/play/a09x
+
+#EXTINF:-1, BT Sport 4
+http://194.127.172.154:8000/play/a09y
+
+#EXTINF:-1, Eir Sport 1
+http://194.127.172.154:8000/play/a09z
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
