@@ -672,6 +672,15 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 #EXTINF:-1, SPOTV 2 🇮🇩
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 
+#EXTINF:-1, ELEVEN 1 🇨🇳
+http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
+
+#EXTINF:-1, CANAL CHINO 2 魅力足球 🇨🇳
+http://50.7.220.74:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
+
+#EXTINF:-1, CANAL CHINO 3 魅力足球 🇨🇳
+http://50.7.220.74:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
+
 #EXTINF:-1, CANAL CHINO 4 魅力足球 🇨🇳
 http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 
