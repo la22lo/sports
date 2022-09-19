@@ -3,12 +3,6 @@
 #EXTINF:-1,LALIGA_HD 🇪🇸
 http://80.78.128.1:65437/play/UK_LALIGA_HD
 
-#EXTINF:-1,PREMIERLIGA 2
-https://75c0b57fc376.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.052442960378.channel.l2ZIZ2BhnhsU.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1zb3V0aC0xOjA1MjQ0Mjk2MDM3ODpjaGFubmVsL2wyWklaMkJobmhzVSIsImF3czphY2Nlc3MtY29udHJvbC1hbGxvdy1vcmlnaW4iOiJodHRwczovL3d3dy5teXNwb3J0cy50byIsImlhdCI6MTY2MzQwNTcwMywiZXhwIjoxNjYzNTc4NTAzfQ.nXExigyMjOe2V1aVU1Ycd2BE1neCBgCgxwplsy530Zes0MDxFxRdqUDpzvO8saLW7G89sI2_9P680mt_Dc5a1l-08KcwSLUc0EuzzrnoMfSI-YmOHINarkAM4lZfAb4O
-
-#EXTINF:-1,ESPN
-https://P135@play.zhuafan.tech/live/live_1660130779860.m3u8?auth_key=1663545047-2402754-0-1b59fd237de579fd1cb54a92a4c276d5&uid=live_1660130779860
-
 #EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 
