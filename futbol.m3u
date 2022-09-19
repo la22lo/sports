@@ -54,6 +54,9 @@ http://93.152.174.144:4000/play/bein1ar/index.m3u8
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
 https://livetv.mylifeisgood.ml/channels/setantaplus
 
+#EXTINF:-1,Setanta Sports 2 HD 🇷🇺
+http://176.9.48.60:23055/play/a023
+
 #EXTINF:-1,ESPN 🇦🇷
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 
