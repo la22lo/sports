@@ -297,21 +297,6 @@ http://185.209.15.245:8081/live/ch5/chunks.m3u8
 #EXTINF:-1, SUPER GRANDSTAND 🇬🇧
 http://185.145.43.244:8000/play/a008/index.m3u8
 
-#EXTINF:-1,beIN SPORT 1 HD 🇫🇷
-http://193.252.43.21:10200/play/a0c5
-
-#EXTINF:-1,BEIN SPORTS  3 HD 🇫🇷
-http://193.252.43.21:10200/play/a0c7
-
-#EXTINF:-1,BEIN SPORTS 1 🇫🇷
-http://37.235.38.139:4000/play/a054
-
-#EXTINF:-1,BEIN SPORTS 2 🇫🇷
-http://37.235.38.139:4000/play/a0cc
-
-#EXTINF:-1,BEIN SPORTS 3 🇫🇷
-http://37.235.38.139:4000/play/a056
-
 #EXTINF:-2022, beIN SPORTS 1 HD 🇫🇷
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
 
@@ -320,27 +305,6 @@ http://93.152.174.144:4000/play/bein2fr/index.m3u8
 
 #EXTINF:-2022, beIN SPORTS 3 HD 🇫🇷
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
-
-#EXTINF:-1,BEIN SPORTS MAX 4 🇫🇷
-http://37.235.38.139:4000/play/a085
-
-#EXTINF:-1,BEIN SPORTS MAX 5 🇫🇷
-http://37.235.38.139:4000/play/a086
-
-#EXTINF:-1,BEIN SPORTS MAX 6 🇫🇷
-http://37.235.38.139:4000/play/a087
-
-#EXTINF:-1,BEIN SPORTS MAX 7 🇫🇷
-http://37.235.38.139:4000/play/a090
-
-#EXTINF:-1,BEIN SPORTS MAX 8 🇫🇷
-http://37.235.38.139:4000/play/a091
-
-#EXTINF:-1,BEIN SPORTS MAX 9 🇫🇷
-http://37.235.38.139:4000/play/a092
-
-#EXTINF:-1,BEIN SPORTS MAX 10 🇫🇷
-http://37.235.38.139:4000/play/a093
 
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3321
