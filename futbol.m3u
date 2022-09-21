@@ -327,6 +327,12 @@ http://154.54.220.247:51323/play/a036/index.m3u8
 #EXTINF:-1,LigaSmartBankHD 🇪🇸
 http://128.199.253.215/smart/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,LigaSmartBankHD 🇪🇸
+http://128.199.253.215/adscev/index.m3u8
+
+#EXTINF:-1,LigaSmartBankHD 🇪🇸
+http://128.199.253.215:80/adscev/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,LigaSmartBank2HD 🇪🇸
 http://154.54.220.247:51323/play/a037/index.m3u8
 
