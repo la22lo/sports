@@ -309,6 +309,12 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115809
 #EXTINF:-2022, BT SPORT 1 HD 🇬🇧
 http://185.209.15.245:8081/live/ch6/chunks.m3u8
 
+#EXTINF:-2022, BT SPORT 1 HD 🇬🇧
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+
+#EXTINF:-2022, BT SPORT 2 HD 🇬🇧
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+
 #EXTINF:-2022, BT SPORT 3 HD 🇬🇧
 http://185.209.15.245:8081/live/ch7/chunks.m3u8
 
