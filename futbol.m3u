@@ -492,6 +492,42 @@ http://91.132.74.194:7374/play/a00f/index.m3u8
 #EXTINF:-1, RTK1 KOSOVO 🇽🇰
 http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8?
 
+#EXTINF:-1, DIGI SPORT 1
+http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/19363
+
+#EXTINF:-1, DIGI SPORT 2
+http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/19364
+
+#EXTINF:-1, DIGI SPORT 3
+http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/19365
+
+#EXTINF:-1, DIGI SPORT 4
+http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/19366
+
+#EXTINF:-1, PRIMA SPORT 1
+http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15088
+
+#EXTINF:-1, PRIMA SPORT 2
+http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15095
+
+#EXTINF:-1, PRIMA SPORT 3
+http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15096
+
+#EXTINF:-1, PRIMA SPORT 4
+http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1252
+
+#EXTINF:-1, ORANGE SPORT 1
+http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1246
+
+#EXTINF:-1, ORANGE SPORT 2
+http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1247
+
+#EXTINF:-1, ORANGE SPORT 3
+http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1248
+
+#EXTINF:-1, ORANGE SPORT 4
+http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1249
+
 #EXTINF:-1, 3 SPORT LIVE 1 🇱🇹
 http://176.9.48.60:23055/play/a03g
 
@@ -503,6 +539,15 @@ http://176.9.48.60:23055/play/a03h
 
 #EXTINF:-1,Max sport 1 🇧🇬
 http://83.228.88.114:8000/play/a04c
+
+#EXTINF:-1,Max sport 1 🇧🇬
+http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/3664
+
+#EXTINF:-1,Max sport 2 🇧🇬
+http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/3665
+
+#EXTINF:-1,Max sport 3 🇧🇬
+http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/3666
 
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
