@@ -732,6 +732,9 @@ http://95.211.250.58/CANAL+_SPORT_4/mono.m3u8
 #EXTINF:-1, CANAL+ SPORT 5 🇵🇱
 http://95.211.250.58/NSPORT+/mono.m3u8
 
+#EXTINF:-1, ORF SPORT + 🇦🇹
+http://tchaikovsky.af-stream.com:1600/s/na8i60tp/orf-sport-plus-hd-de/video.m3u8
+
 #EXTINF:-1 ,2 SPORT HUNGRIA 🇭🇺
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 
