@@ -96,8 +96,20 @@ http://45.135.194.241:8004/play/a02d
 #EXTINF:-1,ESPN 🇦🇷
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 
+#EXTINF:-1,ESPN 🇦🇷
+http://160.20.164.171:8001/play/a09c/index.m3u8
+
+#EXTINF:-1,ESPN 2 🇦🇷
+http://160.20.164.171:8001/play/a010/index.m3u8
+
 #EXTINF:-1,ESPN 3 HD 🇦🇷
 http://200.24.132.99:8000/play/a02w
+
+#EXTINF:-1,ESPN 3 HD 🇦🇷
+http://160.20.164.171:8001/play/a04l/index.m3u8
+
+#EXTINF:-1,ESPN Extra VIVO HD 🇦🇷
+http://160.20.164.171:8001/play/a00o/index.m3u8
 
 #EXTINF:-1, ARENA SPORT 1 HD PREMIUM SERBIA 🇷🇸
 http://46.29.169.15:4001/play/a00g/index.m3u8?mvk
