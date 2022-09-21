@@ -519,40 +519,40 @@ http://91.132.74.194:7374/play/a00f/index.m3u8
 #EXTINF:-1, RTK1 KOSOVO 🇽🇰
 http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8?
 
-#EXTINF:-1, DIGI SPORT 1
+#EXTINF:-1, DIGI SPORT 1 🇷🇴
 http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/19363
 
-#EXTINF:-1, DIGI SPORT 2
+#EXTINF:-1, DIGI SPORT 2 🇷🇴
 http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/19364
 
-#EXTINF:-1, DIGI SPORT 3
+#EXTINF:-1, DIGI SPORT 3 🇷🇴
 http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/19365
 
-#EXTINF:-1, DIGI SPORT 4
+#EXTINF:-1, DIGI SPORT 4 🇷🇴
 http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/19366
 
-#EXTINF:-1, PRIMA SPORT 1
+#EXTINF:-1, PRIMA SPORT 1 🇷🇴
 http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15088
 
-#EXTINF:-1, PRIMA SPORT 2
+#EXTINF:-1, PRIMA SPORT 2 🇷🇴
 http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15095
 
-#EXTINF:-1, PRIMA SPORT 3
+#EXTINF:-1, PRIMA SPORT 3 🇷🇴
 http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15096
 
-#EXTINF:-1, PRIMA SPORT 4
+#EXTINF:-1, PRIMA SPORT 4 🇷🇴
 http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1252
 
-#EXTINF:-1, ORANGE SPORT 1
+#EXTINF:-1, ORANGE SPORT 1 🇷🇴
 http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1246
 
-#EXTINF:-1, ORANGE SPORT 2
+#EXTINF:-1, ORANGE SPORT 2 🇷🇴
 http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1247
 
-#EXTINF:-1, ORANGE SPORT 3
+#EXTINF:-1, ORANGE SPORT 3 🇷🇴
 http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1248
 
-#EXTINF:-1, ORANGE SPORT 4
+#EXTINF:-1, ORANGE SPORT 4 🇷🇴
 http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1249
 
 #EXTINF:-1, 3 SPORT LIVE 1 🇱🇹
@@ -836,6 +836,9 @@ https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
 #EXTINF:-1,PRENDETV LIGA MX 🇲🇽
 https://dip0m6wuccbi7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2d8j5h422463p-prod/dist/samsungtv/193/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1,FUTHD 🇨🇷
+http://160.20.164.171:8001/play/a00x/index.m3u8
 
 #EXTINF:-1, 11 INTERNACIONAL PORTUGAL 🇵🇹
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
