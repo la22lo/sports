@@ -684,6 +684,21 @@ http://95.211.250.58/POLSAT_SPORT_EXTRA/mono.m3u8
 #EXTINF:-1, TVP SPORT 🇵🇱
 http://95.211.250.58/TVP_SPORT/mono.m3u8
 
+#EXTINF:-1, CANAL+ SPORT 🇵🇱
+http://95.211.250.58/CANAL+_SPORT/mono.m3u8
+
+#EXTINF:-1, CANAL+ SPORT 2 🇵🇱
+http://95.211.250.58/CANAL+_SPORT_2/mono.m3u8
+
+#EXTINF:-1, CANAL+ SPORT 3 🇵🇱
+http://95.211.250.58/CANAL+_SPORT_3/mono.m3u8
+
+#EXTINF:-1, CANAL+ SPORT 4 🇵🇱
+http://95.211.250.58/CANAL+_SPORT_4/mono.m3u8
+
+#EXTINF:-1, CANAL+ SPORT 5 🇵🇱
+http://95.211.250.58/NSPORT+/mono.m3u8
+
 #EXTINF:-1 ,2 SPORT HUNGRIA 🇭🇺
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 
