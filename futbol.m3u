@@ -3,6 +3,12 @@
 #EXTINF:-1,LALIGA_HD 🇪🇸
 http://80.78.128.1:65437/play/UK_LALIGA_HD
 
+#EXTINF:-1, M. LALIGA_HD 🇪🇸
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/343.ts
+
+#EXTINF:-1, DAZN LALIGA 🇪🇸
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/370.ts
+
 #EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 
@@ -138,8 +144,17 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1, MMN HD SPORT 🇮🇶
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
 
-#EXTINF:-1, DirecTV Sports 🇦🇷
+#EXTINF:-1, DirecTV Sports 1 🇦🇷
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+
+#EXTINF:-1, DirecTV Sports 1 🇦🇷
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/11149.ts
+
+#EXTINF:-1, DirecTV Sports 2 🇦🇷
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/11148.ts
+
+#EXTINF:-1, DirecTV Sports + 🇦🇷
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/4851.ts
 
 #EXTINF:-1, ESPN VIVO 🇦🇷
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
@@ -355,6 +370,9 @@ http://154.54.220.247:51323/play/a030/index.m3u8
 http://154.54.220.247:51323/play/a034/index.m3u8
 
 #EXTINF:-1,LigaSmartBankHD 🇪🇸
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/865.ts
+
+#EXTINF:-1,LigaSmartBankHD 🇪🇸
 http://154.54.220.247:51323/play/a036/index.m3u8
 
 #EXTINF:-1,LigaSmartBankHD 🇪🇸
@@ -368,6 +386,15 @@ http://128.199.253.215:80/adscev/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,LigaSmartBank2HD 🇪🇸
 http://154.54.220.247:51323/play/a037/index.m3u8
+
+#EXTINF:-1, MOVISTAR L. CAMPEONES 🇪🇸
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/327.ts
+
+#EXTINF:-1, MOVISTAR L. CAMPEONES 2 🇪🇸
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/324.ts
+
+#EXTINF:-1, MOVISTAR L. CAMPEONES 3 🇪🇸
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/321.ts
 
 #EXTINF:-1, MOVISTAR L. CAMPEONES 🇪🇸
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/57
