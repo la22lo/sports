@@ -948,6 +948,9 @@ https://dip0m6wuccbi7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1,FUTHD 🇨🇷
 http://160.20.164.171:8001/play/a00x/index.m3u8
 
+#EXTINF:-1,5 EN VIVO 🇨🇱
+https://qiniu.dlivecdn.com/dlive/transcode-83-243/dlive-zyxenfqayx/1663419757/src/live.m3u8
+
 #EXTINF:-1, 11 INTERNACIONAL PORTUGAL 🇵🇹
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
 
