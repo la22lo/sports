@@ -1,13 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,LigaSmartBankHD 🇪🇸
-http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/865.ts
-
-#EXTINF:-1,LigaSmartBankHD 🇪🇸
 http://154.54.220.247:51323/play/a036/index.m3u8
-
-#EXTINF:-1,LigaSmartBankHD 🇪🇸
-http://128.199.253.215/smart/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,LALIGA_HD 🇪🇸
 http://80.78.128.1:65437/play/UK_LALIGA_HD
