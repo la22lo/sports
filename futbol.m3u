@@ -1035,5 +1035,17 @@ http://tchaikovsky.af-stream.com:1600/s/na8i60tp/super-tennis-hd/video.m3u8
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
+#EXTINF:-1, ,DIRECTV ARGENTINA
+http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/56416
+
+#EXTINF:-1, DIRECTV SPORT
+http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3281
+
+#EXTINF:-1, DIRECTV SPORT 2
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/72239
+
+#EXTINF:-1, DIRECTV SPORT + 
+http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/1046
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
