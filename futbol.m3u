@@ -1056,5 +1056,14 @@ http://198.255.5.106:25461/gambauserdirect/xsndjufhdhddjskdsjd/1123
 #EXTINF:-1,DIRECTV SPORTS 1
 http://198.255.5.106:25461/gambauserdirect/xsndjufhdhddjskdsjd/1104
 
+#EXTINF:-1, DIRECTV SPORTS 2
+http://bulltv.us:2999/darlin/darlin/350
+
+#EXTINF:-1, DIRECTV SPORTS 1
+http://bulltv.us:2999/darlin/darlin/351
+
+#EXTINF:-1, DIRECTV SPORTS +
+http://bulltv.us:2999/darlin/darlin/352
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
