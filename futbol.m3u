@@ -1,29 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, GRANADA 🇪🇸
-https://s@s2.livemodo.click/-BuiSv-9M_FDEB6tHzO1Vg/1664249116/36322e39392e3130392e313538/ff31/playlist.m3u8
-
-#EXTINF:-1,VAMOS 🇪🇸
-https://lshstream.xyz/hls/allsportsicu21/index.m3u8
-
-#EXTINF:-1,VAMOS 🇪🇸
-http://l3d.us:25461/live/restreamiptv/EYTbwgHD8K/2100772.m3u8
-
-#EXTINF:-1,VAMOS 🇪🇸
-http://dorothy.solanaflix.com:8080/play/r5e6OkJhyQuiuJTb8eYLE3Db3eVF0pNFZcTbnNKlrE0J1kL-IFoLFSzlWrWbGioh
-
-#EXTINF:-1,LigaSmartBankHD 🇪🇸
-http://dorothy.solanaflix.com:8080/play/r5e6OkJhyQuiuJTb8eYLE-rO6Z20Al2_f3fuxwC8632hHE6mLfcbSDYLE1g75II1
-
-#EXTINF:-1,LigaSmartBankHD 🇪🇸
-http://154.54.220.247:51323/play/a036/index.m3u8
-
-#EXTINF:-1,LigaSmartBankHD 1 🇪🇸
-http://dorothy.solanaflix.com:8080/play/r5e6OkJhyQuiuJTb8eYLE-rO6Z20Al2_f3fuxwC8633cBxkqyTbG2MxPJJINNuvG
-
-#EXTINF:-1, ARENA SPORT 1 🇭🇷 
-https://lshstream.xyz/hls/allsportsicu23/index.m3u8
-
 #EXTINF:-1,LALIGA_HD 🇪🇸
 http://80.78.128.1:65437/play/UK_LALIGA_HD
 
@@ -385,6 +361,9 @@ http://154.54.220.247:51323/play/a034/index.m3u8
 http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/865.ts
 
 #EXTINF:-1,LigaSmartBankHD 🇪🇸
+http://dorothy.solanaflix.com:8080/play/r5e6OkJhyQuiuJTb8eYLE-rO6Z20Al2_f3fuxwC8632hHE6mLfcbSDYLE1g75II1
+
+#EXTINF:-1,LigaSmartBankHD 🇪🇸
 http://154.54.220.247:51323/play/a036/index.m3u8
 
 #EXTINF:-1,LigaSmartBankHD 🇪🇸
@@ -398,6 +377,9 @@ http://128.199.253.215:80/adscev/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,LigaSmartBank2HD 🇪🇸
 http://154.54.220.247:51323/play/a037/index.m3u8
+
+#EXTINF:-1,LigaSmartBankHD 1 🇪🇸
+http://dorothy.solanaflix.com:8080/play/r5e6OkJhyQuiuJTb8eYLE-rO6Z20Al2_f3fuxwC8633cBxkqyTbG2MxPJJINNuvG
 
 #EXTINF:-1, MOVISTAR L. CAMPEONES 🇪🇸
 http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/327.ts
@@ -425,6 +407,9 @@ http://154.54.220.247:51323/play/a03d/index.m3u8
 
 #EXTINF:-1,VAMOS 🇪🇸
 http://l3d.us:25461/live/restreamiptv/EYTbwgHD8K/2100772.m3u8
+
+#EXTINF:-1,VAMOS 🇪🇸
+http://dorothy.solanaflix.com:8080/play/r5e6OkJhyQuiuJTb8eYLE3Db3eVF0pNFZcTbnNKlrE0J1kL-IFoLFSzlWrWbGioh
 
 #EXTINF:-1,beIN SPORTS EXTRA Ñ 🇪🇸
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
