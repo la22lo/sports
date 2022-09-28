@@ -81,12 +81,6 @@ http://84.42.140.147:8890/hdmi
 #EXTINF:-1, ARENA SPORT 1 🇭🇷
 http://46.29.169.15:4001/play/a00t/index.m3u8
 
-#EXTINF:-1,DAZN 1 BAR 🇩🇪
-http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
-
-#EXTINF:-1,DAZN 2 BAR 🇩🇪
-http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sl4PR2-6eZEHuOmWnlPbYOc
-
 #EXTINF:-1,DAZN 1 🇩🇪
 http://45.135.194.241:8003/play/a03v
 
@@ -95,12 +89,6 @@ http://45.135.194.241:8003/play/a03o
 
 #EXTINF:-1,DAZN 1 🇩🇪
 http://45.135.194.241:8003/play/a02c
-
-#EXTINF:-1,DAZN 1 🇩🇪
-http://tchaikovsky.af-stream.com:1600/s/na8i60tp/dazn1-hd-orig-de/video.m3u8
-
-#EXTINF:-1,DAZN 2 🇩🇪
-http://tchaikovsky.af-stream.com:1600/s/na8i60tp/dazn2-hd-orig-de/video.m3u8
 
 #EXTINF:-1,ESPN 🇦🇷
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
@@ -319,19 +307,10 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115807
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115809
 
 #EXTINF:-2022, BT SPORT 1 HD 🇬🇧
-http://185.209.15.245:8081/live/ch6/chunks.m3u8
-
-#EXTINF:-2022, BT SPORT 1 HD 🇬🇧
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 
 #EXTINF:-2022, BT SPORT 2 HD 🇬🇧
 http://93.152.174.144:4000/play/btsport2/index.m3u8
-
-#EXTINF:-2022, BT SPORT 3 HD 🇬🇧
-http://185.209.15.245:8081/live/ch7/chunks.m3u8
-
-#EXTINF:-1, PREMIERE LALIGA 🇬🇧
-http://185.209.15.245:8081/live/ch5/chunks.m3u8
 
 #EXTINF:-1, SUPER GRANDSTAND 🇬🇧
 http://185.145.43.244:8000/play/a008/index.m3u8
@@ -345,9 +324,6 @@ http://93.152.174.144:4000/play/bein2fr/index.m3u8
 #EXTINF:-2022, beIN SPORTS 3 HD 🇫🇷
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
 
-#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
-http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3321
-
 #EXTINF:-1,M+ LaLiga HD 🇪🇸
 http://154.54.220.247:51323/play/a032/index.m3u8
 
@@ -358,40 +334,16 @@ http://154.54.220.247:51323/play/a030/index.m3u8
 http://154.54.220.247:51323/play/a034/index.m3u8
 
 #EXTINF:-1,LigaSmartBankHD 🇪🇸
-http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/865.ts
-
-#EXTINF:-1,LigaSmartBankHD 🇪🇸
 http://dorothy.solanaflix.com:8080/play/r5e6OkJhyQuiuJTb8eYLE-rO6Z20Al2_f3fuxwC8632hHE6mLfcbSDYLE1g75II1
 
 #EXTINF:-1,LigaSmartBankHD 🇪🇸
 http://154.54.220.247:51323/play/a036/index.m3u8
-
-#EXTINF:-1,LigaSmartBankHD 🇪🇸
-http://128.199.253.215/smart/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,LigaSmartBankHD 🇪🇸
-http://128.199.253.215/adscev/index.m3u8
-
-#EXTINF:-1,LigaSmartBankHD 🇪🇸
-http://128.199.253.215:80/adscev/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,LigaSmartBank2HD 🇪🇸
 http://154.54.220.247:51323/play/a037/index.m3u8
 
 #EXTINF:-1,LigaSmartBankHD 1 🇪🇸
 http://dorothy.solanaflix.com:8080/play/r5e6OkJhyQuiuJTb8eYLE-rO6Z20Al2_f3fuxwC8633cBxkqyTbG2MxPJJINNuvG
-
-#EXTINF:-1, MOVISTAR L. CAMPEONES 🇪🇸
-http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/327.ts
-
-#EXTINF:-1, MOVISTAR L. CAMPEONES 2 🇪🇸
-http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/324.ts
-
-#EXTINF:-1, MOVISTAR L. CAMPEONES 3 🇪🇸
-http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/321.ts
-
-#EXTINF:-1, MOVISTAR L. CAMPEONES 🇪🇸
-http://51.222.25.50:25461/N0P3RR0/n0r0b3s/57
 
 #EXTINF:-1,M+LCAMPEONES 🇪🇸
 http://154.54.220.247:51323/play/a03c/index.m3u8
