@@ -474,45 +474,6 @@ http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8?Pericopalotes135
 #EXTINF:-1, HRT 2 🇭🇷
 http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
 
-#EXTINF:-1, RTK1 KOSOVO 🇽🇰
-http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8?
-
-#EXTINF:-1, DIGI SPORT 1 🇷🇴
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/19363
-
-#EXTINF:-1, DIGI SPORT 2 🇷🇴
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/19364
-
-#EXTINF:-1, DIGI SPORT 3 🇷🇴
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/19365
-
-#EXTINF:-1, DIGI SPORT 4 🇷🇴
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/19366
-
-#EXTINF:-1, PRIMA SPORT 1 🇷🇴
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15088
-
-#EXTINF:-1, PRIMA SPORT 2 🇷🇴
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15095
-
-#EXTINF:-1, PRIMA SPORT 3 🇷🇴
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/15096
-
-#EXTINF:-1, PRIMA SPORT 4 🇷🇴
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1252
-
-#EXTINF:-1, ORANGE SPORT 1 🇷🇴
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1246
-
-#EXTINF:-1, ORANGE SPORT 2 🇷🇴
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1247
-
-#EXTINF:-1, ORANGE SPORT 3 🇷🇴
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1248
-
-#EXTINF:-1, ORANGE SPORT 4 🇷🇴
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1249
-
 #EXTINF:-1, 3 SPORT LIVE 1 🇱🇹
 http://176.9.48.60:23055/play/a03g
 
@@ -524,15 +485,6 @@ http://176.9.48.60:23055/play/a03h
 
 #EXTINF:-1,Max sport 1 🇧🇬
 http://83.228.88.114:8000/play/a04c
-
-#EXTINF:-1,Max sport 1 🇧🇬
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/3664
-
-#EXTINF:-1,Max sport 2 🇧🇬
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/3665
-
-#EXTINF:-1,Max sport 3 🇧🇬
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/3666
 
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
@@ -609,17 +561,8 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 #EXTINF:-1,Беларусь 5 HD 🇧🇾
 http://176.9.48.60:23055/play/a02b
 
-#EXTINF:-1,Беларусь 5 SD 🇧🇾
-http://176.9.48.60:23055/play/a02c
-
 #EXTINF:-1, CBC SPORT 🇦🇿
 http://65.21.196.155/azerbaijan/cbc_sport2/playlist.m3u8
-
-#EXTINF:-1, CBC SPORT 🇦🇿
-http://tchaikovsky.af-stream.com:1600/s/na8i60tp/cbc-sport-hd-az/video.m3u8
-
-#EXTINF:-1, Q SPORT ARENA 🇰🇬
-http://tchaikovsky.af-stream.com:1600/s/na8i60tp/qsport-hd/video.m3u8
 
 #EXTINF:-1, NOVA SPORTS START 🇬🇷
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-GjqT3a75ko46LKD1eben_
@@ -669,12 +612,6 @@ http://bigteisti3.cdn.lifeyosso.fun:8080/SPORT_5_GOLD_IL/video.m3u8?token=bW1tfH
 #EXTINF:-1, TV2 SPORTEN 🇳🇴
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 
-#EXTINF:-1, POLSAT SPORT PREMIUM 1 🇵🇱
-http://live-vn.cvacetv.ga:8080/PolsatPre1
-
-#EXTINF:-1, POLSAT SPORT PREMIUM 2 🇵🇱
-http://live-vn.cvacetv.ga:8080/PolsatPre2
-
 #EXTINF:-1, POLSAT SPORT HD 🇵🇱
 http://95.211.250.58/POLSAT_SPORT/mono.m3u8
 
@@ -701,9 +638,6 @@ http://95.211.250.58/CANAL+_SPORT_4/mono.m3u8
 
 #EXTINF:-1, CANAL+ SPORT 5 🇵🇱
 http://95.211.250.58/NSPORT+/mono.m3u8
-
-#EXTINF:-1, ORF SPORT + 🇦🇹
-http://tchaikovsky.af-stream.com:1600/s/na8i60tp/orf-sport-plus-hd-de/video.m3u8
 
 #EXTINF:-1 ,2 SPORT HUNGRIA 🇭🇺
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
