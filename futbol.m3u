@@ -672,15 +672,6 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 #EXTINF:-1, SPOTV 2 🇮🇩
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 
-#EXTINF:-1, ELEVEN 1 🇨🇳
-http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
-
-#EXTINF:-1, CANAL CHINO 2 魅力足球 🇨🇳
-http://50.7.220.74:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
-
-#EXTINF:-1, CANAL CHINO 3 魅力足球 🇨🇳
-http://50.7.220.74:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
-
 #EXTINF:-1, CANAL CHINO 4 魅力足球 🇨🇳
 http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 
@@ -690,18 +681,6 @@ http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1, GEO SUPER 🇮🇳
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/16088
 
-#EXTINF:-1, Sony Ten 1 🇮🇳
-http://jupiter.bdcabletv.com/ten_1-enc/video.m3u8
-
-#EXTINF:-1, Sony Ten 2 🇮🇳
-http://jupiter.bdcabletv.com/ten_2-enc/video.m3u8
-
-#EXTINF:-1, Sony Ten 3 🇮🇳
-http://103.162.136.235:4500/play/a01d/index.m3u8
-
-#EXTINF:-1, Sony Ten 6 🇮🇳
-http://103.16.24.54:8080/channel7/index.m3u8
-
 #EXTINF:-1, STAR SPORT 1 🇮🇳
 http://streams.sarkernet.com/hls/stream3.m3u8
 
@@ -710,18 +689,6 @@ http://208.86.19.13:81/715.stream/index.m3u8
 
 #EXTINF:-1, STAR SPORT 3 🇮🇳
 http://103.162.136.235:4500/play/a013/index.m3u8
-
-#EXTINF:-1, STAR SPORT SELECT 1 🇮🇳
-http://103.162.136.235:4500/play/a00v/index.m3u8
-
-#EXTINF:-1, STAR SPORT SELECT 2 🇮🇳
-http://103.162.136.235:4500/play/a00w/index.m3u8
-
-#EXTINF:-1, T SPORT HD 🇮🇳
-http://jupiter.bdcabletv.com/T-sp/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, TEN SPORT HD 🇮🇳
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136667
 
 #EXTINF:-1, TVRI SPORTS INDONESIA 🇮🇩
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
@@ -744,14 +711,8 @@ rtmp://59.124.75.138/sat/tv741
 #EXTINF:-1, ON Sports 🇻🇳
 http://cdn.socolacdn.online:8080/onsporttv/mpegts
 
-#EXTINF:-1, EXXEN SPORT  🇹🇷
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/20918
-
 #EXTINF:-1, TURMEKISTAN SPORT  🇹🇷
 http://217.174.225.146/hls/ch004_720/index.m3u8?shareext.ts
-
-#EXTINF:-1, TURMEKISTAN SPORT  🇹🇷
-http://217.174.225.146/hls/ch004_720/index.m3u8
 
 #EXTINF:-1, TURMEKISTAN SPORT  🇹🇷
 http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
@@ -800,9 +761,6 @@ https://dip0m6wuccbi7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 #EXTINF:-1,FUTHD 🇨🇷
 http://160.20.164.171:8001/play/a00x/index.m3u8
-
-#EXTINF:-1,5 EN VIVO 🇨🇱
-https://qiniu.dlivecdn.com/dlive/transcode-83-243/dlive-zyxenfqayx/1663419757/src/live.m3u8
 
 #EXTINF:-1, 11 INTERNACIONAL PORTUGAL 🇵🇹
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
