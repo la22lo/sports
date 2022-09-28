@@ -358,9 +358,6 @@ http://154.54.220.247:51323/play/a03b/index.m3u8
 http://154.54.220.247:51323/play/a03d/index.m3u8
 
 #EXTINF:-1,VAMOS 🇪🇸
-http://l3d.us:25461/live/restreamiptv/EYTbwgHD8K/2100772.m3u8
-
-#EXTINF:-1,VAMOS 🇪🇸
 http://dorothy.solanaflix.com:8080/play/r5e6OkJhyQuiuJTb8eYLE3Db3eVF0pNFZcTbnNKlrE0J1kL-IFoLFSzlWrWbGioh
 
 #EXTINF:-1,beIN SPORTS EXTRA Ñ 🇪🇸
@@ -458,24 +455,6 @@ http://46.29.169.15:4001/play/a004/index.m3u8|User-Agent=stream
 
 #EXTINF:-1, Arena Sport 4 HR 🇭🇷
 http://46.29.169.15:4001/play/a005/index.m3u8|User-Agent=stream
-
-#EXTINF:-1,Arena 1 - HD - IP 🇭🇷 
-http://46.29.169.15:4001/play/a00t/index.m3u8
-
-#EXTINF:-1,Arena 2 - HD - IP 🇭🇷 
-http://46.29.169.15:4001/play/a00u/index.m3u8
-
-#EXTINF:-1,Arena 3 - HD - IP 🇭🇷 
-http://46.29.169.15:4001/play/a00v/index.m3u8
-
-#EXTINF:-1,Arena 4 - HD - IP 🇭🇷 
-http://46.29.169.15:4001/play/a00w/index.m3u8
-
-#EXTINF:-1,Arena 5 - HD - IP 🇭🇷 
-http://46.29.169.15:4001/play/a00x/index.m3u8
-
-#EXTINF:-1,Arena 6 - HD - IP 🇭🇷 
-http://46.29.169.15:4001/play/a00y/index.m3u8
 
 #EXTINF:-1, SK 1 Croacia 🇭🇷
 http://46.29.169.15:4001/play/a00e/index.m3u8
