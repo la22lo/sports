@@ -192,6 +192,9 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1, UNIVISION 🇲🇽
 https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1
 
+#EXTINF:-1, TUDN 🇲🇽
+http://54.39.19.162:8081/live/dream1/playlist.m3u8
+
 #EXTINF:-1, SBT 🇧🇷
 https://evpp.mm.uol.com.br/ne10/smil:ne10.smil/chunklist_w1510844446_b216000_sleng.m3u8
 
