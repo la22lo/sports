@@ -912,24 +912,5 @@ http://tchaikovsky.af-stream.com:1600/s/na8i60tp/super-tennis-hd/video.m3u8
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
-#EXTINF:-1,军旅谍战
-http://125.43.42.208:4000/play/a009
-#EXTINF:-1,武汉1
-http://125.43.42.208:4000/play/a00c
-#EXTINF:-1,武汉2套
-http://125.43.42.208:4000/play/a004
-#EXTINF:-1,武汉5套
-http://125.43.42.208:4000/play/a005
-#EXTINF:-1,淘剧场
-http://125.43.42.208:4000/play/a008
-#EXTINF:-1,淘电影
-http://125.43.42.208:4000/play/a007
-#EXTINF:-1,湖北经视
-http://125.43.42.208:4000/play/a006
-#EXTINF:-1,经典再现
-http://125.43.42.208:4000/play/a00b
-#EXTINF:-1,高清影院
-http://125.43.42.208:4000/play/a00a
-
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
