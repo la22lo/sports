@@ -909,6 +909,9 @@ http://tchaikovsky.af-stream.com:1600/s/na8i60tp/super-tennis-hd/video.m3u8
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
+#EXTINF:-1,Arena Sport 7
+http://193.221.199.253:8000/play/a05r
+
 #EXTINF:-1,Arena Sport 8
 http://193.221.199.253:8000/play/a05s
 
