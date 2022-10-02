@@ -876,5 +876,68 @@ http://tchaikovsky.af-stream.com:1600/s/na8i60tp/super-tennis-hd/video.m3u8
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
+#EXTINF:-1,ESPN 4 HD
+http://84.32.32.53:1103/play/a02s
+
+#EXTINF:-1,FOX Sports 2 HD
+http://84.32.32.53:1103/play/a02t
+
+#EXTINF:-1,ESPN
+http://82.197.214.59:4000/play/a02m/index.m3u8
+
+#EXTINF:-1,ESPN 2
+http://82.197.214.59:4000/play/a033/index.m3u8
+
+#EXTINF:-1,ESPN 4
+http://82.197.214.59:4000/play/a034/index.m3u8
+
+#EXTINF:-1,Win Sports HD
+http://8.243.127.178:8000/play/a01i
+
+#EXTINF:-1,Win Sports+ HD
+http://8.243.127.178:8000/play/a02z
+
+#EXTINF:-1,DAZN F1
+http://79.116.48.107:8000/play/a0kr
+
+#EXTINF:-1,DAZN F1 HD
+http://79.116.48.107:8000/play/a0iv
+
+#EXTINF:-1,DAZN LaLiga2 HD
+http://79.116.48.107:8000/play/a0l8
+
+#EXTINF:-1,DAZN LaLigaHD
+http://79.116.48.107:8000/play/a0l7
+
+#EXTINF:-1,GOL
+http://79.116.48.107:8000/play/a0k9
+
+#EXTINF:-1,EUROSPORT1HD
+http://79.116.48.107:8000/play/a0j7
+
+#EXTINF:-1,EUROSPORT2HD
+http://79.116.48.107:8000/play/a0ju
+
+#EXTINF:-1,EUROSPORT3HD
+http://79.116.48.107:8000/play/a0jl
+
+#EXTINF:-1,M+ LaLiga HD
+http://79.116.48.107:8000/play/a0it
+
+#EXTINF:-1,LigaSmartBank1HD
+http://79.116.48.107:8000/play/a0lb
+
+#EXTINF:-1,LigaSmartBankHD
+http://79.116.48.107:8000/play/a0la
+
+#EXTINF:-1,M+LCAMPEONES
+http://79.116.48.107:8000/play/a0jk
+
+#EXTINF:-1,M+LCAMPEONES1
+http://79.116.48.107:8000/play/a0jx
+
+#EXTINF:-1,M+LCAMPEONES2
+http://79.116.48.107:8000/play/a0k0
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
