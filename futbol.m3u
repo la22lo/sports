@@ -30,6 +30,9 @@ http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6234
 #EXTINF:-1, ELEVEN Sports 1 HD 🇵🇹
 http://80.78.128.1:65437/play/PT_ELEVEN1_HD
 
+#EXTINF:-1,19.5 ELEVEN1 🇵🇹
+http://187.14.110.79:4000/play/a062
+
 #EXTINF:-1, SUPERSPORT LALIGA 🇬🇧
 http://P135@45.86.191.47:8081/live/ch2/chunks.m3u8
 
@@ -435,6 +438,15 @@ http://46.29.169.15:4001/play/a00h/index.m3u8
 #EXTINF:-1, ARENA SPORT 3 PREMIUM 🇷🇸
 http://46.29.169.15:4001/play/a00i/index.m3u8
 
+#EXTINF:-1,Arena 1 Premium 🇷🇸
+http://193.221.199.253:8000/play/a05t
+
+#EXTINF:-1,Arena 2 Premium 🇷🇸
+http://193.221.199.253:8000/play/a05u
+
+#EXTINF:-1,Arena 3 Premium 🇷🇸
+http://193.221.199.253:8000/play/a05v
+
 #EXTINF:-1, ARENA SPORT 1 🇷🇸
 http://46.29.169.15:4001/play/a002/index.m3u8
 
@@ -648,6 +660,12 @@ http://95.211.250.58/POLSAT_SPORT_NEWS/mono.m3u8
 #EXTINF:-1, POLSAT SPORT EXTRA HD 🇵🇱
 http://95.211.250.58/POLSAT_SPORT_EXTRA/mono.m3u8
 
+#EXTINF:-1,Polsat_Sport_Premium_PPV3 🇵🇱
+http://194.76.186.150:10005/play/Polsat_Sport_Premium_PPV3
+
+#EXTINF:-1,Polsat_Sport_Premium_PPV4 🇵🇱
+http://194.76.186.150:10005/play/Polsat_Sport_Premium_PPV4
+
 #EXTINF:-1, TVP SPORT 🇵🇱
 http://95.211.250.58/TVP_SPORT/mono.m3u8
 
@@ -783,6 +801,12 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1, ESPORTE INTERACTIVO 🇧🇷
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
+#EXTINF:-1,Win Sports+ HD 🇨🇴
+http://8.243.127.178:8000/play/a02z
+
+#EXTINF:-1,Tigo Sports HD 🇧🇴
+http://200.6.227.230:8000/play/a0eo/index.m3u8
+
 #EXTINF:-1,PRENDETV LIGA MX 🇲🇽
 https://dip0m6wuccbi7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2d8j5h422463p-prod/dist/samsungtv/193/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
@@ -885,40 +909,8 @@ http://82.197.214.59:4000/play/a033/index.m3u8
 #EXTINF:-1,ESPN 4
 http://82.197.214.59:4000/play/a034/index.m3u8
 
-#EXTINF:-1,Win Sports+ HD
-http://8.243.127.178:8000/play/a02z
-
-#EXTINF:-1,Tigo Sports HD
-http://200.6.227.230:8000/play/a0eo/index.m3u8
-
-#EXTINF:-1,Polsat_Sport_Premium_PPV3
-http://194.76.186.150:10005/play/Polsat_Sport_Premium_PPV3
-
-#EXTINF:-1,Polsat_Sport_Premium_PPV4
-http://194.76.186.150:10005/play/Polsat_Sport_Premium_PPV4
-
-
-
-#EXTINF:-1,114 Arena Sport 8
+#EXTINF:-1,Arena Sport 8
 http://193.221.199.253:8000/play/a05s
-
-#EXTINF:-1,115 Arena 1 Premium
-http://193.221.199.253:8000/play/a05t
-
-#EXTINF:-1,116 Arena 2 Premium
-http://193.221.199.253:8000/play/a05u
-
-#EXTINF:-1,117 Arena 3 Premium
-http://193.221.199.253:8000/play/a05v
-
-#EXTINF:-1,19.5 ELEVEN1
-http://187.14.110.79:4000/play/a062
-
-#EXTINF:-1,19.5 ELEVEN2
-http://187.14.110.79:4000/play/a063
-
-#EXTINF:-1,19.5 ELEVEN3 
-http://187.14.110.79:4000/play/a064
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
