@@ -15,6 +15,9 @@ http://154.54.220.247:51323/play/a032/index.m3u8
 #EXTINF:-1, DAZN LALIGA 🇪🇸
 http://154.54.220.247:51323/play/a030/index.m3u8
 
+#EXTINF:-1, DAZN LALIGA 🇪🇸
+https://live-server-2.splitstream.io/f0f98b91-28e9-47ac-9beb-f1f7045206eb/tracks-v1a1/mono.m3u8?sportmania
+
 #EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 
