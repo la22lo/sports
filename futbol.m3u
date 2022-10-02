@@ -888,5 +888,56 @@ http://82.197.214.59:4000/play/a034/index.m3u8
 #EXTINF:-1,Win Sports+ HD
 http://8.243.127.178:8000/play/a02z
 
+#EXTINF:-1,LaLigaTV HD
+http://62.131.92.221:60130/play/a075
+
+#EXTINF:-1,BT Sport 1
+http://62.131.92.221:60230/play/a04x/index.m3u8
+
+#EXTINF:-1,BT Sport 3
+http://62.131.92.221:60230/play/a04z/index.m3u8
+
+#EXTINF:-1,Tigo Sports HD
+http://200.6.227.230:8000/play/a0eo/index.m3u8
+
+#EXTINF:-1,Polsat_Sport_Premium_PPV3
+http://194.76.186.150:10005/play/Polsat_Sport_Premium_PPV3
+
+#EXTINF:-1,Polsat_Sport_Premium_PPV4
+http://194.76.186.150:10005/play/Polsat_Sport_Premium_PPV4
+
+#EXTINF:-1, Bein 1 IND
+http://194.233.71.141:5566/play/Bein1ID
+
+#EXTINF:-1,Sony TEN 1
+http://194.233.71.141:5566/play/STen1
+
+#EXTINF:-1,Sony TEN 2
+http://194.233.71.141:5566/play/STen2
+
+#EXTINF:-1,Sony TEN 3
+http://194.233.71.141:5566/play/STen3
+
+#EXTINF:-1,spotv2
+http://194.233.71.141:5566/play/spotv2
+
+#EXTINF:-1,114 Arena Sport 8
+http://193.221.199.253:8000/play/a05s
+
+#EXTINF:-1,115 Arena 1 Premium
+http://193.221.199.253:8000/play/a05t
+
+#EXTINF:-1,116 Arena 2 Premium
+http://193.221.199.253:8000/play/a05u
+
+#EXTINF:-1,117 Arena 3 Premium
+http://193.221.199.253:8000/play/a05v
+
+#EXTINF:-1,19.5 ELEVEN1
+http://187.14.110.79:4000/play/a062
+
+#EXTINF:-1,19.6 ELEVEN6
+http://187.14.110.79:4000/play/a05i
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
