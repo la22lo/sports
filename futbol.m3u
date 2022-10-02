@@ -876,12 +876,6 @@ http://tchaikovsky.af-stream.com:1600/s/na8i60tp/super-tennis-hd/video.m3u8
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
-#EXTINF:-1,ESPN 4 HD
-http://84.32.32.53:1103/play/a02s
-
-#EXTINF:-1,FOX Sports 2 HD
-http://84.32.32.53:1103/play/a02t
-
 #EXTINF:-1,ESPN
 http://82.197.214.59:4000/play/a02m/index.m3u8
 
@@ -890,9 +884,6 @@ http://82.197.214.59:4000/play/a033/index.m3u8
 
 #EXTINF:-1,ESPN 4
 http://82.197.214.59:4000/play/a034/index.m3u8
-
-#EXTINF:-1,Win Sports HD
-http://8.243.127.178:8000/play/a01i
 
 #EXTINF:-1,Win Sports+ HD
 http://8.243.127.178:8000/play/a02z
