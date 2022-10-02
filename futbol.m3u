@@ -40,6 +40,9 @@ http://P135@45.86.191.47:8081/live/ch2/chunks.m3u8
 http://golive.yn.lt/live/laliga/03.m3u8
 
 #EXTINF:-1, S LALIGA 🇬🇧
+http://golive.yn.lt/live/bola/04.m3u8
+
+#EXTINF:-1, S LALIGA 🇬🇧
 https://P135@lshstream.xyz/hls/allsportsicu02/index.m3u8?P135
 
 #EXTINF:-1, S LALIGA 🇬🇧
