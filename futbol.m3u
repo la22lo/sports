@@ -933,20 +933,5 @@ http://tchaikovsky.af-stream.com:1600/s/na8i60tp/super-tennis-hd/video.m3u8
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
-#EXTINF:-1, BEIN SPORT 1 (Pháp)
-http://51.178.65.238:80/Bein1/mpegts
-
-#EXTINF:-1, BEIN SPORT 2 (Pháp)
-http://51.178.65.238:80/Bein2/mpegts
-
-#EXTINF:-1, BEIN SPORT 1 (Thổ Nhĩ Kì)
-http://135.181.1.143:8085/live/bein1/mpegts
-
-#EXTINF:-1, BEIN SPORT  (Thổ Nhĩ Kì)
-http://135.181.1.143:8085/live/bein2/mpegts
-
-#EXTINF:-1, ESPN US
-http://69.164.224.53:80/ESPN/mpegts
-
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
