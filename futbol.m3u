@@ -18,6 +18,12 @@ https://P135@estx04.varcdn.top/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1, ZHUAFAN 🇨🇳
 https://play.zhuafan.tech/live/live_1560164724870.m3u8?auth_key=1664928039-14540720-0-39b85ed4682bd2f27326b87f8b25116e&uid=live_1560164724870
 
+#EXTINF:-1, KANZU 🇨🇳
+http://play.2kanzu.com/tianxiatv/stream-4482d2ef169845a5ab7c107d4de58f86.m3u8
+
+#EXTINF:-1, KANZU 🇨🇳
+http://play.2kanzu.com/tianxiatv/stream-6f2045f2490b4c088d81703627071796.m3u8
+
 #EXTINF:-1, SBT 🇧🇷
 https://evpp.mm.uol.com.br/ne10/smil:ne10.smil/chunklist_w1510844446_b216000_sleng.m3u8
 
