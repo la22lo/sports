@@ -9,6 +9,12 @@ http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6235
 #EXTINF:-1, BT SPORT 4
 http://37.49.224.162:8081/live/ch2/chunks.m3u8
 
+#EXTINF:-1, MATH
+https://P135@bal.varcdn.top/app/match/index.m3u8
+
+#EXTINF:-1, MATH
+https://P135@estx04.varcdn.top/match/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, SBT 🇧🇷
 https://evpp.mm.uol.com.br/ne10/smil:ne10.smil/chunklist_w1510844446_b216000_sleng.m3u8
 
