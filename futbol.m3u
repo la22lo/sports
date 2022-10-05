@@ -372,6 +372,15 @@ http://93.152.174.144:4000/play/btsport1/index.m3u8
 #EXTINF:-1, BT SPORT 2 HD 🇬🇧
 http://93.152.174.144:4000/play/btsport2/index.m3u8
 
+#EXTINF:-1, SUPERSPORT VARIETY 1 🇬🇧
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/39411
+
+#EXTINF:-1, SUPERSPORT VARIETY 2 🇬🇧
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/39410
+
+#EXTINF:-1, SUPERSPORT VARIETY 3 🇬🇧
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/39415
+
 #EXTINF:-1, SUPER GRANDSTAND 🇬🇧
 http://185.145.43.244:8000/play/a008/index.m3u8
 
