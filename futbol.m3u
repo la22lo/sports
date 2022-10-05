@@ -363,27 +363,6 @@ http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1, SUPER GRANDSTAND 🇬🇧
 http://185.145.43.244:8000/play/a008/index.m3u8
 
-#EXTINF:-1,BEIN SPORTS 1 🇫🇷
-http://90.166.42.17:8182/play/a020
-
-#EXTINF:-1,BEIN SPORTS 2 🇫🇷
-http://90.166.42.17:8182/play/a00i
-
-#EXTINF:-1,BEIN SPORTS 3 🇫🇷
-http://90.166.42.17:8182/play/a00j
-
-#EXTINF:-1,CANAL+SPORT 🇫🇷
-http://90.166.42.17:8182/play/a016
-
-#EXTINF:-1,CANAL+SPORT360 🇫🇷
-http://90.166.42.17:8182/play/a01s
-
-#EXTINF:-1,EUROSPORT 1 🇫🇷
-http://90.166.42.17:8182/play/a01z
-
-#EXTINF:-1,EUROSPORT 2 🇫🇷
-http://90.166.42.17:8182/play/a01j
-
 #EXTINF:-1,M+ LaLiga HD 🇪🇸
 http://154.54.220.247:51323/play/a032/index.m3u8
 
