@@ -30,6 +30,9 @@ http://181.78.22.214:8000/play/a01w
 #EXTINF:-1, FOX SPORTS 3 🇦🇷
 http://170.83.242.155:5350/play/a014
 
+#EXTINF:-1, ZHUAFAN 🇨🇳
+https://P135@play.zhuafan.tech/live/live_1622777403554.m3u8?auth_key=1665014558-4923757-0-4bbca7fe5a34ab0eb825a9be3ab10743&uid=live_1622777403554
+
 #EXTINF:-1, S CHAMPIONS 🇬🇧
 http://golive.yn.lt/live/bola/08.m3u8
 
