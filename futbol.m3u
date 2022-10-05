@@ -12,6 +12,12 @@ http://golive.yn.lt/live/bola/08.m3u8
 #EXTINF:-1, S CHAMPIONS 🇬🇧
 http://golive.yn.lt/live/champions/01.m3u8
 
+#EXTINF:-1, S CHAMPIONS 🇬🇧
+http://golive.yn.lt/live/unl/01.m3u8
+
+#EXTINF:-1, S CHAMPIONS 🇬🇧
+http://golive.yn.lt/live/unl/02.m3u8
+
 #EXTINF:-1, BT SPORT 1 🇬🇧
 http://37.49.224.162:8081/live/ch1/chunks.m3u8
 
@@ -65,6 +71,9 @@ https://P135@lshstream.xyz/hls/allsportsicu02/index.m3u8?P135
 
 #EXTINF:-1, S LALIGA 🇬🇧
 https://lshstream.xyz/hls/allsportsicu02/index.m3u8
+
+#EXTINF:-1, S LALIGA 🇬🇧
+http://golive.yn.lt/live/unl/08.m3u8
 
 #EXTINF:-1,SuperSportLaLiga 🇬🇧
 http://golive.yn.lt/live/champions/04.m3u8
@@ -401,6 +410,12 @@ http://golive.yn.lt/live/champions/07.m3u8
 
 #EXTINF:-1, BT SPORT 4 HD 🇬🇧
 http://golive.yn.lt/live/champions/06.m3u8
+
+#EXTINF:-1, BT SPORT 4 HD 🇬🇧
+http://golive.yn.lt/live/unl/03.m3u8
+
+#EXTINF:-1, PREMIERE SPORT 1 HD 🇬🇧
+http://golive.yn.lt/live/unl/07.m3u8
 
 #EXTINF:-1, SUPERSPORT VARIETY 1 🇬🇧
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/39411
