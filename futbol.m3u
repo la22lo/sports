@@ -234,6 +234,9 @@ http://54.39.19.162:8081/live/dream1/playlist.m3u8
 #EXTINF:-1, SBT 🇧🇷
 https://evpp.mm.uol.com.br/ne10/smil:ne10.smil/chunklist_w1510844446_b216000_sleng.m3u8
 
+#EXTINF:-1, SBT 🇧🇷
+http://189.91.128.146:4444/udp/227.10.20.120:1234
+
 #EXTINF:-1, BEIN SPORTS PREMIUM 1HD 🇶🇦
 https://bit.ly/premium1bein
 
@@ -359,6 +362,9 @@ http://golive.yn.lt/live/bola/07.m3u8
 
 #EXTINF:-1, BEIN SPORT 3 🇬🇧
 http://102.222.232.18:9981/stream/channelid/2100170847?ticket=5CC008508EA4755ED1EF71AF84E018D45AD5E286&profile=matroska
+
+#EXTINF:-1, BEIN SPORT 3 🇬🇧
+http://102.222.232.18:9981/stream/channelid/2100170847?ticket=206EE47921F25EE1A5AF97E218B33DA299AACA12&profile=matroska
 
 #EXTINF:-1, BT SPORT 1 HD 🇬🇧
 http://93.152.174.144:4000/play/btsport1/index.m3u8
@@ -794,6 +800,21 @@ https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
 
 #EXTINF:-1, NTV SPORT 🇹🇷
 http://37.221.121.137:8585/hls/ntvspor/index.m3u8
+
+#EXTINF:-1, ESPN 🇧🇷
+http://189.91.128.146:4444/udp/227.10.20.81:1234
+
+#EXTINF:-1, ESPN 2 🇧🇷
+http://189.91.128.146:4444/udp/227.10.20.128:1234
+
+#EXTINF:-1, ESPN 2 🇧🇷
+http://189.91.128.146:4444/udp/227.10.20.86:1234
+
+#EXTINF:-1, ESPN 4 🇧🇷
+http://189.91.128.146:4444/udp/227.10.20.116:1234
+
+#EXTINF:-1, BAND SPORTS 🇧🇷
+http://189.91.128.146:4444/udp/227.10.20.119:1234
 
 #EXTINF:-1, TNT SPORTS 🇧🇷
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
