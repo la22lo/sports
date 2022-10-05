@@ -354,10 +354,16 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115807
 #EXTINF:-1, BeINSports 2 HD[THAI] 🇹🇭
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115809
 
-#EXTINF:-2022, BT SPORT 1 HD 🇬🇧
+#EXTINF:-1, BEIN SPORT 1 🇬🇧
+http://golive.yn.lt/live/laliga/03.m3u8
+
+#EXTINF:-1, BEIN SPORT 3 🇬🇧
+http://102.222.232.18:9981/stream/channelid/2100170847?ticket=5CC008508EA4755ED1EF71AF84E018D45AD5E286&profile=matroska
+
+#EXTINF:-1, BT SPORT 1 HD 🇬🇧
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 
-#EXTINF:-2022, BT SPORT 2 HD 🇬🇧
+#EXTINF:-1, BT SPORT 2 HD 🇬🇧
 http://93.152.174.144:4000/play/btsport2/index.m3u8
 
 #EXTINF:-1, SUPER GRANDSTAND 🇬🇧
