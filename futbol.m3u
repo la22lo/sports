@@ -9,8 +9,14 @@ http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6236
 #EXTINF:-1, ELEVEN 3HD 🇵🇹
 https://P135@460598949f82.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.726782747956.channel.aSYxk8sxKXMF.m3u8
 
+#EXTINF:-1, BT SPORT 6 🇬🇧
+http://s@37.49.224.246:8081/live/ch6/chunks.m3u8
+
 #EXTINF:-1, ZHUAFAN 🇨🇳
 https://P135@play.zhuafan.tech/live/live_1660984246436.m3u8?auth_key=1665014218-45972357-0-3429832759490d91766b2d945059048a&uid=live_1660984246436
+
+#EXTINF:-1, KANZU 🇨🇳
+http://play.2kanzu.com/tianxiatv/stream-aa8c4b94505141738625e0b2fe477a8a.m3u8
 
 #EXTINF:-1, BeIN SPORT 3 🇫🇷
 http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/126937
