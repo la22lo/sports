@@ -21,6 +21,9 @@ http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/126937
 #EXTINF:-1,Polsat Sport Premium 2  🇵🇱
 http://95.211.250.58/POLSAT_SPORT_PREMIUM_2/mono.m3u8
 
+#EXTINF:-1, TRING SPORT 4 🇦🇱
+http://storeiptv.net:2095/FCrSCNMZPFy5/NsyR3fgtqWNF/396
+
 #EXTINF:-1, S CHAMPIONS 🇬🇧
 http://golive.yn.lt/live/bola/08.m3u8
 
@@ -546,8 +549,20 @@ http://storeiptv.net:2095/FCrSCNMZPFy5/NsyR3fgtqWNF/403
 #EXTINF:-1, TRING SPORT 1 🇦🇱
 http://146.59.19.1:80/5031/index.m3u8
 
+#EXTINF:-1, TRING SPORT 1 🇦🇱
+http://storeiptv.net:2095/FCrSCNMZPFy5/NsyR3fgtqWNF/399
+
 #EXTINF:-1, TRING SPORT 2 🇦🇱
 http://146.59.19.1:80/5030/index.m3u8
+
+#EXTINF:-1, TRING SPORT 2 🇦🇱
+http://storeiptv.net:2095/FCrSCNMZPFy5/NsyR3fgtqWNF/398
+
+#EXTINF:-1, TRING SPORT 3 🇦🇱
+http://storeiptv.net:2095/FCrSCNMZPFy5/NsyR3fgtqWNF/397
+
+#EXTINF:-1, TRING SPORT 4 🇦🇱
+http://storeiptv.net:2095/FCrSCNMZPFy5/NsyR3fgtqWNF/396
 
 #EXTINF:-1, RTSH Sport HD 🇦🇱
 http://109.104.129.195:8001/play/s25
