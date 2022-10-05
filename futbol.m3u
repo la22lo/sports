@@ -534,6 +534,12 @@ http://storeiptv.net:2095/FCrSCNMZPFy5/NsyR3fgtqWNF/405
 #EXTINF:-1,SuperSport 5 HD VIP 🇦🇱
 http://storeiptv.net:2095/FCrSCNMZPFy5/NsyR3fgtqWNF/403
 
+#EXTINF:-1, TRING SPORT 1 🇦🇱
+http://146.59.19.1:80/5031/index.m3u8
+
+#EXTINF:-1, TRING SPORT 2 🇦🇱
+http://146.59.19.1:80/5030/index.m3u8
+
 #EXTINF:-1, RTSH Sport HD 🇦🇱
 http://109.104.129.195:8001/play/s25
 
