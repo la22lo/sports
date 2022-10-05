@@ -6,6 +6,9 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
 #EXTINF:-1, ELEVEN 3HD 🇵🇹
 http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6236
 
+#EXTINF:-1, ELEVEN 3HD 🇵🇹
+https://P135@460598949f82.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.726782747956.channel.aSYxk8sxKXMF.m3u8
+
 #EXTINF:-1, S CHAMPIONS 🇬🇧
 http://golive.yn.lt/live/bola/08.m3u8
 
@@ -17,6 +20,12 @@ http://golive.yn.lt/live/unl/01.m3u8
 
 #EXTINF:-1, S CHAMPIONS 🇬🇧
 http://golive.yn.lt/live/unl/02.m3u8
+
+#EXTINF:-1, RBM DEPORTES EN VIVO 2 🇦🇷
+https://P135@stmv.streamingvip.click/rbmtv2/rbmtv2/playlist.m3u8
+
+#EXTINF:-1, RBM DEPORTES EN VIVO 2 🇦🇷
+https://P135@stmv.streamingvip.click:443/rbmtv2/rbmtv2/chunklist_w1985099180.m3u8
 
 #EXTINF:-1, BT SPORT 1 🇬🇧
 http://37.49.224.162:8081/live/ch1/chunks.m3u8
