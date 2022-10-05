@@ -9,6 +9,9 @@ http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6236
 #EXTINF:-1, S CHAMPIONS 🇬🇧
 http://golive.yn.lt/live/bola/08.m3u8
 
+#EXTINF:-1, S CHAMPIONS 🇬🇧
+http://golive.yn.lt/live/champions/01.m3u8
+
 #EXTINF:-1, BT SPORT 1 🇬🇧
 http://37.49.224.162:8081/live/ch1/chunks.m3u8
 
@@ -55,13 +58,16 @@ http://golive.yn.lt/live/bola/04.m3u8
 http://golive.yn.lt/live/bola/05.m3u8
 
 #EXTINF:-1, S LALIGA 🇬🇧
+http://golive.yn.lt/live/ucl/09.m3u8
+
+#EXTINF:-1, S LALIGA 🇬🇧
 https://P135@lshstream.xyz/hls/allsportsicu02/index.m3u8?P135
 
 #EXTINF:-1, S LALIGA 🇬🇧
 https://lshstream.xyz/hls/allsportsicu02/index.m3u8
 
 #EXTINF:-1,SuperSportLaLiga 🇬🇧
-http://80.78.128.1:65437/play/UK-SuperSportLaLiga
+http://golive.yn.lt/live/champions/04.m3u8
 
 #EXTINF:-1, Super Sport LaLiga 🇬🇧
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39406&extension=ts&play_token=TQ6cftyhX8
@@ -246,6 +252,9 @@ https://bit.ly/premium2bein
 #EXTINF:-1, BEIN SPORTS PREMIUM 3HD 🇶🇦
 https://bit.ly/premium3bein
 
+#EXTINF:-1, BEIN SPORTS PREMIUM 3HD 🇶🇦
+http://golive.yn.lt/live/ucl/06.m3u8
+
 #EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
 https://bit.ly/sportbein1
 
@@ -284,6 +293,9 @@ http://93.152.174.144:4000/play/bein5ar/index.m3u8
 
 #EXTINF:-1, BEIN SPORT 6 HD 🇶🇦
 http://93.152.174.144:4000/play/bein6ar/index.m3u8
+
+#EXTINF:-1, BEIN SPORT EXTRA 1 🇶🇦
+http://golive.yn.lt/live/ucl/08.m3u8
 
 #EXTINF:-1, BEIN SPORT 7 HD 🇶🇦
 http://93.152.174.144:4000/play/bein7ar/index.m3u8
@@ -360,6 +372,12 @@ http://golive.yn.lt/live/laliga/03.m3u8
 #EXTINF:-1, BEIN SPORT 1 🇬🇧
 http://golive.yn.lt/live/bola/07.m3u8
 
+#EXTINF:-1, BEIN SPORT 1 🇬🇧
+http://golive.yn.lt/live/champions/02.m3u8
+
+#EXTINF:-1, BEIN SPORT 2 🇬🇧
+http://golive.yn.lt/live/ucl/02.m3u8
+
 #EXTINF:-1, BEIN SPORT 3 🇬🇧
 http://102.222.232.18:9981/stream/channelid/2100170847?ticket=5CC008508EA4755ED1EF71AF84E018D45AD5E286&profile=matroska
 
@@ -369,8 +387,20 @@ http://102.222.232.18:9981/stream/channelid/2100170847?ticket=206EE47921F25EE1A5
 #EXTINF:-1, BT SPORT 1 HD 🇬🇧
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 
+#EXTINF:-1, BT SPORT 1 HD 🇬🇧
+http://golive.yn.lt/live/champions/03.m3u8
+
 #EXTINF:-1, BT SPORT 2 HD 🇬🇧
 http://93.152.174.144:4000/play/btsport2/index.m3u8
+
+#EXTINF:-1, BT SPORT 2 HD 🇬🇧
+http://golive.yn.lt/live/champions/05.m3u8
+
+#EXTINF:-1, BT SPORT 3 HD 🇬🇧
+http://golive.yn.lt/live/champions/07.m3u8
+
+#EXTINF:-1, BT SPORT 4 HD 🇬🇧
+http://golive.yn.lt/live/champions/06.m3u8
 
 #EXTINF:-1, SUPERSPORT VARIETY 1 🇬🇧
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/39411
