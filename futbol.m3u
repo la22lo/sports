@@ -6,11 +6,8 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
 #EXTINF:-1, ELEVEN 3HD 🇵🇹
 http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6236
 
-#EXTINF:-1, SBT 🇧🇷
-https://evpp.mm.uol.com.br/ne10/smil:ne10.smil/chunklist_w1510844446_b216000_sleng.m3u8
-
-#EXTINF:-1, ESPN VIVO 🇦🇷
-https://lshstream.xyz/hls/ga14/index.m3u8?st=fGnpJSmHADWvX4BJQg9Ehw&e=1664681402
+#EXTINF:-1, S CHAMPIONS 🇬🇧
+http://golive.yn.lt/live/bola/08.m3u8
 
 #EXTINF:-1, BT SPORT 1 🇬🇧
 http://37.49.224.162:8081/live/ch1/chunks.m3u8
