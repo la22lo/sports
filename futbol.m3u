@@ -675,6 +675,9 @@ http://bigteisti3.cdn.lifeyosso.fun:8080/SPORT_5_GOLD_IL/video.m3u8?token=bW1tfH
 #EXTINF:-1, TV2 SPORTEN 🇳🇴
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 
+#EXTINF:-1, POLSAT PREMIUM 1 HD 🇵🇱
+http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/27677.m3u8
+
 #EXTINF:-1, POLSAT SPORT HD 🇵🇱
 http://95.211.250.58/POLSAT_SPORT/mono.m3u8
 
