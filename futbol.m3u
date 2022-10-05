@@ -9,6 +9,9 @@ http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6236
 #EXTINF:-1, ELEVEN 3HD 🇵🇹
 https://P135@460598949f82.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.726782747956.channel.aSYxk8sxKXMF.m3u8
 
+#EXTINF:-1, BeIN SPORT 3 FRA
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/126937
+
 #EXTINF:-1, S CHAMPIONS 🇬🇧
 http://golive.yn.lt/live/bola/08.m3u8
 
@@ -384,6 +387,15 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115807
 #EXTINF:-1, BeINSports 2 HD[THAI] 🇹🇭
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115809
 
+#EXTINF:-1, BeIN SPORT 1 FRA
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/126935
+
+#EXTINF:-1, BeIN SPORT 2 FRA
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/126936
+
+#EXTINF:-1, BeIN SPORT 3 FRA
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/126937
+
 #EXTINF:-1, BEIN SPORT 1 🇬🇧
 http://golive.yn.lt/live/laliga/03.m3u8
 
@@ -737,6 +749,18 @@ http://bigteisti3.cdn.lifeyosso.fun:8080/SPORT_5_GOLD_IL/video.m3u8?token=bW1tfH
 
 #EXTINF:-1, TV2 SPORTEN 🇳🇴
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
+
+#EXTINF:-1, ELEVEN SPORT 1 🇵🇱
+http://cdn.spmr.tv:8080/s2bqur/video.m3u8?token=TLKJAXPMV3
+
+#EXTINF:-1, ELEVEN SPORT 2 🇵🇱
+http://cdn.spmr.tv:8080/rtjs8r/video.m3u8?token=TLKJAXPMV3
+
+#EXTINF:-1, ELEVEN SPORT 3 🇵🇱
+http://cdn.spmr.tv:8080/54elmn/video.m3u8?token=TLKJAXPMV3
+
+#EXTINF:-1, ELEVEN SPORT 4 🇵🇱
+http://cdn.spmr.tv:8080/iu7xd5/video.m3u8?token=TLKJAXPMV3
 
 #EXTINF:-1, POLSAT PREMIUM 1 HD 🇵🇱
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/27677.m3u8
