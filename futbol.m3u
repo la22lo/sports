@@ -148,6 +148,12 @@ http://84.42.140.147:8890/hdmi
 http://46.29.169.15:4001/play/a00t/index.m3u8
 
 #EXTINF:-1,DAZN 1 🇩🇪
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
+
+#EXTINF:-1,DAZN 2 🇩🇪
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sl4PR2-6eZEHuOmWnlPbYOc
+
+#EXTINF:-1,DAZN 1 🇩🇪
 http://45.135.194.241:8003/play/a03v
 
 #EXTINF:-1,DAZN 1 🇩🇪
