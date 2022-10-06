@@ -6,18 +6,6 @@ https://bit.ly/sportbein1
 #EXTINF:-1, NOVA SPORTS 1 🇬🇷
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9esxppA5BEooxeg3onklIL
 
-#EXTINF:-1,LALIGA_HD 🇪🇸
-http://80.78.128.1:65437/play/UK_LALIGA_HD
-
-#EXTINF:-1,MOVISTAR LALIGA  🇪🇸
-http://154.54.220.247:51323/play/a032/index.m3u8
-
-#EXTINF:-1, DAZN LALIGA 🇪🇸
-http://154.54.220.247:51323/play/a030/index.m3u8
-
-#EXTINF:-1, DAZN LALIGA 🇪🇸
-https://live-server-2.splitstream.io/f0f98b91-28e9-47ac-9beb-f1f7045206eb/tracks-v1a1/mono.m3u8?sportmania
-
 #EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 
@@ -65,9 +53,6 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
 
 #EXTINF:-1, ELEVEN 2HD 🇵🇹
 http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6235
-
-#EXTINF:-1,M+ LaLiga HD 🇪🇸
-http://154.54.220.247:51323/play/a032/index.m3u8
 
 #EXTINF:-1, DAZN LALIGA 🇪🇸
 http://dorothy.solanaflix.com:8080/play/r5e6OkJhyQuiuJTb8eYLE-rO6Z20Al2_f3fuxwC8632vd09qT79wPMmMt1K-UqyR
