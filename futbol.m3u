@@ -639,6 +639,9 @@ http://176.9.48.60:23055/play/a03h
 #EXTINF:-1,Max sport 1 🇧🇬
 http://83.228.88.114:8000/play/a04c
 
+#EXTINF:-1, NOVA SPORT 3HD 🇧🇬
+http://84.42.140.147:8890/hdmi
+
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
 
@@ -1046,36 +1049,6 @@ http://tchaikovsky.af-stream.com:1600/s/na8i60tp/super-tennis-hd/video.m3u8
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
-
-#EXTINF:-1, NOVA SPORT 3HD BUL
-http://84.42.140.147:8890/hdmi
-
-#EXTINF:-1, DIEMA SPORT HD
-http://79.124.72.70:8000/play/a004
-
-#EXTINF:-1, DIEMA SPORT 2HD
-http://79.124.72.70:8000/play/a01l
-
-#EXTINF:-1, DIEMA SPORT 3HD
-http://79.124.72.70:8000/play/a07o
-
-#EXTINF:-1, NOVA SPORT HD
-http://79.124.72.70:8000/play/a015
-
-#EXTINF:-1, MAX SPORT 1HD
-http://79.124.72.70:8000/play/a01j
-
-#EXTINF:-1, MAX SPORT 2HD
-http://79.124.72.70:8000/play/a00x
-
-#EXTINF:-1, MAX SPORT 4HD
-http://79.124.72.70:8000/play/a07n
-
-#EXTINF:-1, RING SPORT HD
-http://79.124.72.70:8000/play/a01o
-
-#EXTINF:-1, JOJ SPORT HD
-https://nn.geo.joj.sk/live/hls/rik-540.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
