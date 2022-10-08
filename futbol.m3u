@@ -9,15 +9,6 @@ http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/59306
 #EXTINF:-1, NOVA SPORTS 1 🇬🇷
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9esxppA5BEooxeg3onklIL
 
-#EXTINF:-1,ELEVEN SPORTS 3 🇵🇹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
-
-#EXTINF:-1, ELEVEN 3HD 🇵🇹
-http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6236
-
-#EXTINF:-1,Eleven 3 🇵🇹
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95420
-
 #EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 
@@ -26,6 +17,15 @@ http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6234
 
 #EXTINF:-1,Eleven 1 🇵🇹
 http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95418
+
+#EXTINF:-1,ELEVEN SPORTS 3 🇵🇹
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
+
+#EXTINF:-1, ELEVEN 3HD 🇵🇹
+http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6236
+
+#EXTINF:-1,Eleven 3 🇵🇹
+http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95420
 
 #EXTINF:-1, S LALIGA 🇬🇧
 http://103.99.249.107:81/play/a05h
