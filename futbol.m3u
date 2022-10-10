@@ -702,9 +702,6 @@ http://93.152.174.144:4000/play/ssports1/index.m3u8
 #EXTINF:-2022, SPORT UZB 🇺🇿
 http://mhd109.iptv2022.com/p/G6trc3GSJq8DgwF5fdWHew,1659423377/streaming/sport_uz/324/1/tracks-v3a1/mono.m3u8
 
-#EXTINF:-2022, FUTBOL TV 🇺🇿
-https://tv.tas-ix.tv/hls/token_60.m3u8
-
 #EXTINF:-1, SPOTV 1 🇮🇩
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1659773379~exp=9007200914514370~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=c1868bb91988c2e4b3b4bb98e8f73689c5d85c672bd3d857446521cad5228e11
 
@@ -738,41 +735,11 @@ http://103.99.249.107:81/play/a05l
 #EXTINF:-1,M- SONY TEN 3 HD 🇮🇳
 http://103.99.249.107:81/play/a05m
 
-#EXTINF:-1, STAR SPORT 1 🇮🇳
-http://streams.sarkernet.com/hls/stream3.m3u8
-
-#EXTINF:-1, STAR SPORT 2 🇮🇳
-http://208.86.19.13:81/715.stream/index.m3u8
-
 #EXTINF:-1, STAR SPORT 3 🇮🇳
 http://103.162.136.235:4500/play/a013/index.m3u8
 
 #EXTINF:-1, TVRI SPORTS INDONESIA 🇮🇩
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-
-#EXTINF:-1, VIDIO Champions TV 1 🇮🇩
-http://tv.zonanime.my.id/vidio/championstv1.m3u8
-
-#EXTINF:-1, VIDIO Champions TV 2 🇮🇩
-http://tv.zonanime.my.id/vidio/championstv2.m3u8
-
-#EXTINF:-1, VIDIO Champions TV 3 🇮🇩
-http://tv.zonanime.my.id/vidio/championstv3.m3u8
-
-#EXTINF:-1,ELEVEN SPORT 1 🇹🇼
-rtmp://59.124.75.138/sat/tv731
-
-#EXTINF:-1,ELEVEN SPORT 2 🇹🇼
-rtmp://59.124.75.138/sat/tv741
-
-#EXTINF:-1, ON Sports 🇻🇳
-http://cdn.socolacdn.online:8080/onsporttv/mpegts
-
-#EXTINF:-1, TURMEKISTAN SPORT  🇹🇷
-http://217.174.225.146/hls/ch004_720/index.m3u8?shareext.ts
-
-#EXTINF:-1, TURMEKISTAN SPORT  🇹🇷
-http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 #EXTINF:-1,TRT SPOR HD 🇹🇷
 http://31.177.62.182:8000/play/s1
