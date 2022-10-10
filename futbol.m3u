@@ -885,5 +885,58 @@ http://tchaikovsky.af-stream.com:1600/s/na8i60tp/super-tennis-hd/video.m3u8
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
+#EXTINF:-1,ArtSport 1 HD
+http://46.19.226.152:4000/play/a08n
+#EXTINF:-1,ArtSport 2 HD
+http://46.19.226.152:4000/play/a08o
+#EXTINF:-1,ArtSport 3 HD
+http://46.19.226.152:4000/play/a08p
+#EXTINF:-1,ArtSport 4 HD
+http://46.19.226.152:4000/play/a099
+#EXTINF:-1,ArtSport 5 HD
+http://46.19.226.152:4000/play/a09a
+#EXTINF:-1,Super Sport 1
+http://46.19.226.152:4000/play/a09l
+#EXTINF:-1,Super Sport 2
+http://46.19.226.151:4000/play/a0cb
+#EXTINF:-1,Super Sport 3
+http://46.19.226.151:4000/play/a0cd
+#EXTINF:-1,Super Sport 4
+http://46.19.226.151:4000/play/a0ce
+#EXTINF:-1,Super Sport 5
+http://46.19.226.152:4000/play/a09n
+#EXTINF:-1,Super Sport 6
+http://46.19.226.151:4000/play/a0bx
+#EXTINF:-1,Super Sport 7
+http://46.19.226.151:4000/play/a0c2
+#EXTINF:-1,Super Sport Kosova 1
+http://46.19.226.152:4000/play/a09m
+#EXTINF:-1,Super Sport Kosova 2
+http://46.19.226.151:4000/play/a0cc
+#EXTINF:-1,Super Sport Kosova 3
+http://46.19.226.152:4000/play/a09o
+#EXTINF:-1,Arena Sport 1
+http://46.19.226.151:4000/play/a0b5
+#EXTINF:-1,Arena Sport 2
+http://46.19.226.151:4000/play/a0b6
+#EXTINF:-1,Arena Sport 3
+http://46.19.226.151:4000/play/a0b7
+#EXTINF:-1,Arena Sport 4
+http://46.19.226.151:4000/play/a0b8
+#EXTINF:-1,Arena Sport 5
+http://46.19.226.151:4000/play/a0b9
+#EXTINF:-1,ArtSport 6 HD
+http://46.19.226.151:4000/play/a0bs
+#EXTINF:-1,K Sport 1 HD
+http://46.19.226.151:4000/play/a0ba
+#EXTINF:-1,K Sport 2 HD
+http://46.19.226.151:4000/play/a0bb
+#EXTINF:-1,K Sport 3
+http://46.19.226.151:4000/play/a0be
+#EXTINF:-1,K Sport 3 HD
+http://46.19.226.151:4000/play/a0bc
+#EXTINF:-1,K Sport 4 HD
+http://46.19.226.151:4000/play/a0bd
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
