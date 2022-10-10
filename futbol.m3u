@@ -682,7 +682,7 @@ http://iptv.prosto.tv:7000/ch109/video.m3u8
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 #EXTINF:-1,Беларусь 5 HD 🇧🇾
-http://176.9.48.60:23055/play/a02b
+http://86.57.225.245:7002/play/a00k
 
 #EXTINF:-1, CBC SPORT 🇦🇿
 http://65.21.196.155/azerbaijan/cbc_sport2/playlist.m3u8
@@ -962,9 +962,6 @@ http://tchaikovsky.af-stream.com:1600/s/na8i60tp/super-tennis-hd/video.m3u8
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
-
-#EXTINF:-1,Беларусь 5
-http://86.57.225.245:7002/play/a00k
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
