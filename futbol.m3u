@@ -753,9 +753,6 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1, A SPORT 🇹🇷
 https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
 
-#EXTINF:-1, NTV SPORT 🇹🇷
-http://37.221.121.137:8585/hls/ntvspor/index.m3u8
-
 #EXTINF:-1, ESPN 🇧🇷
 http://189.91.128.146:4444/udp/227.10.20.81:1234
 
@@ -794,12 +791,6 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 #EXTINF:-1, ESPORTE INTERACTIVO 🇧🇷
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-
-#EXTINF:-1,Win Sports+ HD 🇨🇴
-http://8.243.127.178:8000/play/a02z
-
-#EXTINF:-1,Tigo Sports HD 🇧🇴
-http://200.6.227.230:8000/play/a0eo/index.m3u8
 
 #EXTINF:-1,PRENDETV LIGA MX 🇲🇽
 https://dip0m6wuccbi7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2d8j5h422463p-prod/dist/samsungtv/193/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
