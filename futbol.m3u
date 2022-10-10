@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,Directv Sports HD ARG 🇦🇷
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37817
+
 #EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
 https://bit.ly/sportbein1
 
@@ -131,6 +134,15 @@ http://duhoksport.badinan.xyz:1935/live/Duhok--Sports--HD/playlist.m3u8
 
 #EXTINF:-1, MMN HD SPORT 🇮🇶
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
+
+#EXTINF:-1,Directv Sports HD ARG 🇦🇷
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37817
+
+#EXTINF:-1,Directv Sports 2 HD ARG 🇦🇷
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37810
+
+#EXTINF:-1,Directv Sports plus HD ARG 🇦🇷
+http://gameplay.p2sweb.me:80/3091894/4952970/251375
 
 #EXTINF:-1, DirecTV Sports 1 🇦🇷
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
@@ -831,6 +843,12 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1, A SPORT 🇹🇷
 https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
 
+#EXTINF:-1,Directv Sports plus HD COl 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37807
+
+#EXTINF:-1,Directv Sports SD COL 
+http://gameplay.p2sweb.me:80/3091894/4952970/251374
+
 #EXTINF:-1, ESPN 🇧🇷
 http://189.91.128.146:4444/udp/227.10.20.81:1234
 
@@ -962,24 +980,6 @@ http://tchaikovsky.af-stream.com:1600/s/na8i60tp/super-tennis-hd/video.m3u8
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
-
-#EXTINF:-1,Directv Sports plus HD ARG 
-http://gameplay.p2sweb.me:80/3091894/4952970/251375
-
-#EXTINF:-1,Directv Sports plus HD COl 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37807
-
-#EXTINF:-1,Directv Sports 2 HD ARG 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37810
-
-#EXTINF:-1,Directv Sports 2 HD COL 
-http://gameplay.p2sweb.me:80/3091894/4952970/251376
-
-#EXTINF:-1,Directv Sports HD ARG 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37817
-
-#EXTINF:-1,Directv Sports SD COL 
-http://gameplay.p2sweb.me:80/3091894/4952970/251374
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
