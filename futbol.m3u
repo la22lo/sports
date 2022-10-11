@@ -1,34 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1, ESPN 2 🇦🇷
-https://P135@cdn3.wowza.com/1/ZnU5M3I4N25XTmZH/cXNmWDF2/hls/live/playlist.m3u8
+#EXTINF:-1,ELEVEN SPORTS 3 🇵🇹
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
 
-#EXTINF:-1, ZHUAFAN 🇨🇳
-https://play.zhuafan.tech/live/live_1585133114305.m3u8?auth_key=1665532506-27430030-0-0161b942fdd7756d47f034e80274575c&uid=live_1585133114305
+#EXTINF:-1, ELEVEN 3HD 🇵🇹
+http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6236
 
-#EXTINF:-1, CHAMPIONS 🇬🇧
-https://P135@460598949f82.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.726782747956.channel.MGgJbk4gB7vf.m3u8
-
-#EXTINF:-1, BEIN SPORTS PREMIUM 2HD 🇶🇦
-http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/192757
-
-#EXTINF:-1,ELEVEN SPORTS 4 🇵🇹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
-
-#EXTINF:-1, ELEVEN 4HD 🇵🇹
-http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6237
-
-#EXTINF:-1,Eleven 4 🇵🇹
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95421
+#EXTINF:-1,Eleven 3 🇵🇹
+http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95420
 
 #EXTINF:-1,DAZN 2 🇩🇪
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sl4PR2-6eZEHuOmWnlPbYOc
 
-#EXTINF:-1, SBT 🇧🇷
-https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/gVHl5IARKO1CBnmpztCd48CNTu0xOkKjopSWHWoHV6bRwjIvR6WuhpOt7suhixbo2EYpNyymYkJB6A0Cx7hUHw/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8
-
-#EXTINF:-1, BeIN SPORT 3 🇫🇷
-http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/126937
+#EXTINF:-1, BeIN SPORT 1 🇫🇷
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/126935
 
 #EXTINF:-1, POLSAT PREMIUM 1 HD 🇵🇱
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/27677.m3u8
