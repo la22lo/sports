@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, FOX SPORTS 2 🇦🇷
-http://181.78.22.214:8000/play/a01v
-
 #EXTINF:-1, TUDN 🇲🇽
 http://54.39.19.162:8081/live/dream1/playlist.m3u8
 
@@ -26,6 +23,9 @@ http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/126937
 
 #EXTINF:-1, POLSAT PREMIUM 1 HD 🇵🇱
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/27677.m3u8
+
+#EXTINF:-1, FOX SPORTS 2 🇦🇷
+http://181.78.22.214:8000/play/a01v
 
 #EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
 https://bit.ly/sportbein1
