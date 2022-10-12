@@ -795,6 +795,15 @@ http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-zSIvQVCNzM6P
 #EXTINF:-1, NOVA SPORTS 6 🇬🇷
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8knmYox6b33BuDPJjeF2_K
 
+#EXTINF:-1, Ziggo Sport HD
+http://178.251.29.82:7250/play/a002
+
+#EXTINF:-1, Ziggo Sport Select HD
+http://178.251.29.82:7250/play/a00s
+
+#EXTINF:-1, Ziggo Sport Voetbal HD
+http://178.251.29.82:7250/play/a00l
+
 #EXTINF:-1, TV2 SPORTEN 🇳🇴
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 
