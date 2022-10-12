@@ -132,6 +132,9 @@ http://93.152.174.144:4000/play/bein1ar/index.m3u8
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
 http://92.119.88.58:8080/270/index.m3u8
 
+#EXTINF:-1,Setanta Sports 1 UKR
+http://89.254.128.5:22280/setanta_sports_hd/mono.m3u8
+
 #EXTINF:-1,ESPN 🇦🇷
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 
