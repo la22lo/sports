@@ -804,6 +804,9 @@ http://178.251.29.82:7250/play/a00s
 #EXTINF:-1, Ziggo Sport Voetbal HD 🇳🇱
 http://178.251.29.82:7250/play/a00l
 
+#EXTINF:-1, Ziggo Racing HD 🇳🇱
+http://31.220.41.88:8081/live/nl-ziggoracing.stream/chunks.m3u8
+
 #EXTINF:-1, TV2 SPORTEN 🇳🇴
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 
