@@ -726,6 +726,9 @@ http://90.188.227.251:4022/udp/233.7.70.29:5000
 #EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
 http://90.188.227.251:4022/udp/233.7.70.31:5000
 
+#EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
+http://213.172.73.170:8081/nimble_live/1111__Mat4_Futbol_1/playlist.m3u8
+
 #EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
 http://213.172.73.170:8081/nimble_live/1065__Mat4_Futbol_2/playlist.m3u8
 
@@ -738,8 +741,14 @@ https://s04.watcher.uz/21/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
 #EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
 https://s04.watcher.uz/22/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjU2NTgyNjM3fQ.HdbB38SH334gdWdWE-14cxVbu_45rmWlp59lfu6TZ60:6
 
+#EXTINF:-1, Футбол 🇷🇺
+http://185.23.80.26:8080/Football/index.m3u8
+
 #EXTINF:-1,FUTBOL TV  🇷🇺
 https://s03.watcher.uz/74/tracks-v2a1a2/mono.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjU4MDU3NzYyfQ.bbQ0Yy_g9q3f4g2D8N3uHt-oHebXmjX7EhD2qxRDxDI:72
+
+#EXTINF:-1, Футбольный HD 🇷🇺
+http://158.101.197.217:2134/channel/n3fb3760e/index.m3u8?q=f34b3d2dc463990f4fd3e79b5c5fe4a5
 
 #EXTINF:-1, SPORT RU 🇷🇺
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
@@ -749,6 +758,9 @@ http://iptv.prosto.tv:7000/ch109/video.m3u8
 
 #EXTINF:-1, KBP SPORT 🇷🇺
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
+#EXTINF:-1, Старт 🇷🇺
+http://185.23.80.26:8080/lb/START/video.m3u8?token1=c18b404b3150d2e216835a2801030df7&token2=c68c3f53dddfa33c89db8df2d5ea01ab&domain=ts-vrn&key=k1&token=8f30842b86c744a69cffdea5a442d884
 
 #EXTINF:-1,Беларусь 5 HD 🇧🇾
 http://86.57.225.245:7002/play/a00k
@@ -848,6 +860,9 @@ http://93.152.174.144:4000/play/ssports1/index.m3u8
 
 #EXTINF:-2022, SPORT UZB 🇺🇿
 http://mhd109.iptv2022.com/p/G6trc3GSJq8DgwF5fdWHew,1659423377/streaming/sport_uz/324/1/tracks-v3a1/mono.m3u8
+
+#EXTINF:-2022, SPORT UZB 🇺🇿
+https://mhd116.iptv2022.com/p/IPm1tsy1zSzh1lzQQvQ7eQ,1660676345/streaming/sport_uz/324/1/index.m3u8
 
 #EXTINF:-1, SPOTV 1 🇮🇩
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1659773379~exp=9007200914514370~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=c1868bb91988c2e4b3b4bb98e8f73689c5d85c672bd3d857446521cad5228e11
