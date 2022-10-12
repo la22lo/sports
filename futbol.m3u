@@ -130,10 +130,7 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
-https://livetv.mylifeisgood.ml/channels/setantaplus
-
-#EXTINF:-1,Setanta Sports 2 HD 🇷🇺
-http://176.9.48.60:23055/play/a023
+http://92.119.88.58:8080/270/index.m3u8
 
 #EXTINF:-1,ESPN 🇦🇷
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
@@ -163,10 +160,10 @@ http://160.20.164.171:8001/play/a04l/index.m3u8
 http://160.20.164.171:8001/play/a00o/index.m3u8
 
 #EXTINF:-1,Setanta Sports 1 HD 🇷🇺
-https://livetv.mylifeisgood.ml/channels/setantahd
+http://92.119.88.58:8080/271/index.m3u8
 
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
-https://livetv.mylifeisgood.ml/channels/setantaplus
+http://92.119.88.58:8080/270/index.m3u8
 
 #EXTINF:-1, DUHOK SPORT 🇮🇶
 http://duhoksport.badinan.xyz:1935/live/Duhok--Sports--HD/playlist.m3u8
@@ -704,6 +701,12 @@ http://176.9.48.60:23055/play/a022
 
 #EXTINF:-1,Setanta Sports 2 🇷🇺
 http://176.9.48.60:23055/play/a023
+
+#EXTINF:-1,Setanta Sports 1 HD 🇷🇺
+http://92.119.88.58:8080/271/index.m3u8
+
+#EXTINF:-1,Setanta Sports 2 HD 🇷🇺
+http://92.119.88.58:8080/270/index.m3u8
 
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
