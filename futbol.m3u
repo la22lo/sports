@@ -6,48 +6,6 @@ http://restreamicos.com:8080/treip93nhsdasa/cUbQB4UXEXpR/3061
 #EXTINF:-1, MOVISTAR LIGA CAMPEONES 🇪🇸
 http://restreamicos.com:8080/treip93nhsdasa/cUbQB4UXEXpR/3062
 
-#EXTINF:-1, TV MAX 🇦🇷
-https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
-
-#EXTINF:-1,ELEVEN SPORTS 3 🇵🇹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
-
-#EXTINF:-1, ELEVEN 3HD 🇵🇹
-http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6236
-
-#EXTINF:-1,Eleven 3 🇵🇹
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95420
-
-#EXTINF:-1, CBC SPORT 🇦🇿
-http://65.21.196.155/azerbaijan/cbc_sport2/playlist.m3u8
-
-#EXTINF:-1, MATH 🇷🇺
-https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
-
-#EXTINF:-1, BEIN SPORTS PREMIUM 1HD 🇶🇦
-http://w4.12all.tv:4000/play/bein1ar/index.m3u8
-
-#EXTINF:-1,DAZN 2 🇩🇪
-http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sl4PR2-6eZEHuOmWnlPbYOc
-
-#EXTINF:-1, BeIN SPORT 1 🇫🇷
-http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/126935
-
-#EXTINF:-1,Bein Sport 1 FR 🇫🇷
-http://w4.12all.tv:4000/play/bein1fr/index.m3u8
-
-#EXTINF:-1, POLSAT PREMIUM 1 HD 🇵🇱
-http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/27677.m3u8
-
-#EXTINF:-1, BT SPORT 4 HD 🇬🇧
-http://golive.yn.lt/live/champions/06.m3u8
-
-#EXTINF:-1, CANAL CHINO
-https://P135@play.zhuafan.tech/live/live_1573124869396.m3u8?auth_key=1665602815-83625203-0-b71565ac169f228df385c5cf25d94973&uid=live_1573124869396
-
-#EXTINF:-1, FOX SPORTS 2 🇦🇷
-http://181.78.22.214:8000/play/a01v
-
 #EXTINF:-1, MOVISTAR LALIGA 2 🇪🇸
 http://restreamicos.com:8080/treip93nhsdasa/cUbQB4UXEXpR/114
 
@@ -278,6 +236,9 @@ https://bit.ly/premium2bein
 
 #EXTINF:-1, BEIN SPORTS PREMIUM 3HD 🇶🇦
 https://bit.ly/premium3bein
+
+#EXTINF:-1, BEIN SPORTS PREMIUM 1HD 🇶🇦
+http://w4.12all.tv:4000/play/bein1ar/index.m3u8
 
 #EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
 https://bit.ly/sportbein1
