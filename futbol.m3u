@@ -420,6 +420,9 @@ http://w4.12all.tv:4000/play/bein3fr/index.m3u8
 #EXTINF:-1, RMC Sports 1 🇫🇷
 http://51.178.65.238:80/RMC1/index.m3u8
 
+#EXTINF:-1, RMC Sports 1 🇫🇷
+http://stream.tvtap.live:8081/live/fr-sfr1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMiA3OjMyOjE0IFBNJmhhc2hfdmFsdWU9c3I5MEdZdEMzMG54MU1VZGtDczJEZz09JnZhbGlkbWludXRlcz0yMA==
+
 #EXTINF:-1, RMC Sports 2 🇫🇷
 http://51.178.65.238:80/RMC2/index.m3u8
 
