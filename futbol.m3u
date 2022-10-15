@@ -357,41 +357,20 @@ http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/1543
 #EXTINF:-1, EUROSPORT 2HD 🇵🇹
 http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/1542
 
-#EXTINF:-1, BeINSports 1 HD[THAI] 🇹🇭
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115807
-
-#EXTINF:-1, BeINSports 2 HD[THAI] 🇹🇭
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115809
-
 #EXTINF:-1,ES Bein Sports LaLiga 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
-
-#EXTINF:-1, BeIN SPORT 1 🇫🇷
-http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/126935
 
 #EXTINF:-1,Bein Sport 1 FR 🇫🇷
 http://w4.12all.tv:4000/play/bein1fr/index.m3u8
 
-#EXTINF:-1,Bein Sport 1 FR 🇫🇷
-http://stream.tvtap.live:8081/live/fr-beinsport1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMiA3OjQ4OjQwIFBNJmhhc2hfdmFsdWU9SmFnM2xXUlV0bVFMUEk3MmN6SlJWdz09JnZhbGlkbWludXRlcz0yMA==
-
-#EXTINF:-1, BeIN SPORT 2 🇫🇷
-http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/126936
-
 #EXTINF:-1,Bein Sports 2 FR 🇫🇷
 http://w4.12all.tv:4000/play/bein2fr/index.m3u8
-
-#EXTINF:-1, BeIN SPORT 3 🇫🇷
-http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/126937
 
 #EXTINF:-1,Bein Sports 3 FR 🇫🇷
 http://w4.12all.tv:4000/play/bein3fr/index.m3u8
 
 #EXTINF:-1, RMC Sports 1 🇫🇷
 http://51.178.65.238:80/RMC1/index.m3u8
-
-#EXTINF:-1, RMC Sports 1 🇫🇷
-http://stream.tvtap.live:8081/live/fr-sfr1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMiA3OjMyOjE0IFBNJmhhc2hfdmFsdWU9c3I5MEdZdEMzMG54MU1VZGtDczJEZz09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTINF:-1, RMC Sports 2 🇫🇷
 http://51.178.65.238:80/RMC2/index.m3u8
@@ -402,32 +381,11 @@ http://51.178.65.238:80/RMC3/index.m3u8
 #EXTINF:-1, RMC Sports 4 🇫🇷
 http://51.178.65.238:80/RMC4/index.m3u8
 
-#EXTINF:-1, BEIN SPORT 1 🇬🇧
-http://golive.yn.lt/live/laliga/03.m3u8
-
-#EXTINF:-1, BEIN SPORT 1 🇬🇧
-http://103.99.249.107:81/play/a07q
-
-#EXTINF:-1, BEIN SPORT 1 🇬🇧
-http://golive.yn.lt/live/bola/07.m3u8
-
-#EXTINF:-1, BEIN SPORT 1 🇬🇧
-http://golive.yn.lt/live/champions/02.m3u8
-
-#EXTINF:-1, BEIN SPORT 2 🇬🇧
-http://golive.yn.lt/live/ucl/02.m3u8
-
 #EXTINF:-1, BEIN SPORT 3 🇬🇧
 http://102.222.232.18:9981/stream/channelid/2100170847?ticket=5CC008508EA4755ED1EF71AF84E018D45AD5E286&profile=matroska
 
 #EXTINF:-1, BEIN SPORT 3 🇬🇧
 http://102.222.232.18:9981/stream/channelid/2100170847?ticket=206EE47921F25EE1A5AF97E218B33DA299AACA12&profile=matroska
-
-#EXTINF:-1, BEIN SPORT 3 🇬🇧
-http://103.99.249.107:81/play/a02d
-
-#EXTINF:-1, BT SPORT 1 HD 🇬🇧
-http://golive.yn.lt/live/champions/03.m3u8
 
 #EXTINF:-1, BT SPORT 1 🇬🇧
 http://37.49.224.162:8081/live/ch1/chunks.m3u8
@@ -435,26 +393,11 @@ http://37.49.224.162:8081/live/ch1/chunks.m3u8
 #EXTINF:-1, BT SPORT 2 HD 🇬🇧
 http://93.152.174.144:4000/play/btsport2/index.m3u8
 
-#EXTINF:-1, BT SPORT 2 HD 🇬🇧
-http://golive.yn.lt/live/champions/05.m3u8
-
 #EXTINF:-1,BT SPORT 2 🇬🇧
 http://w4.12all.tv:4000/play/btsport2/index.m3u8
 
 #EXTINF:-1,BT SPORT 3 🇬🇧
 http://w4.12all.tv:4000/play/btsport3/index.m3u8
-
-#EXTINF:-1, BT SPORT 3 HD 🇬🇧
-http://golive.yn.lt/live/champions/07.m3u8
-
-#EXTINF:-1, BT SPORT 4 HD 🇬🇧
-http://golive.yn.lt/live/champions/06.m3u8
-
-#EXTINF:-1, BT SPORT 4 🇬🇧
-http://37.49.224.162:8081/live/ch2/chunks.m3u8
-
-#EXTINF:-1, BT SPORT 4 HD 🇬🇧
-http://golive.yn.lt/live/unl/03.m3u8
 
 #EXTINF:-1, S CHAMPIONS 🇬🇧
 http://golive.yn.lt/live/bola/08.m3u8
@@ -468,29 +411,8 @@ http://golive.yn.lt/live/unl/01.m3u8
 #EXTINF:-1, S CHAMPIONS 🇬🇧
 http://golive.yn.lt/live/unl/02.m3u8
 
-#EXTINF:-1, PREMIERE SPORT 1 HD 🇬🇧
-http://golive.yn.lt/live/unl/07.m3u8
-
-#EXTINF:-1, SUPERSPORT VARIETY 1 🇬🇧
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/39411
-
-#EXTINF:-1, SUPERSPORT VARIETY 2 🇬🇧
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/39410
-
-#EXTINF:-1, SUPERSPORT VARIETY 3 🇬🇧
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/39415
-
 #EXTINF:-1, SUPER GRANDSTAND 🇬🇧
 http://185.145.43.244:8000/play/a008/index.m3u8
-
-#EXTINF:-1,LigaSmartBankHD 🇪🇸
-http://dorothy.solanaflix.com:8080/play/r5e6OkJhyQuiuJTb8eYLE-rO6Z20Al2_f3fuxwC8632hHE6mLfcbSDYLE1g75II1
-
-#EXTINF:-1,LigaSmartBankHD 1 🇪🇸
-http://dorothy.solanaflix.com:8080/play/r5e6OkJhyQuiuJTb8eYLE-rO6Z20Al2_f3fuxwC8633cBxkqyTbG2MxPJJINNuvG
-
-#EXTINF:-1,VAMOS 🇪🇸
-http://dorothy.solanaflix.com:8080/play/r5e6OkJhyQuiuJTb8eYLE3Db3eVF0pNFZcTbnNKlrE0J1kL-IFoLFSzlWrWbGioh
 
 #EXTINF:-1,SuperSport 1 HD 🇦🇱
 http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=3629&extension=m3u8
@@ -503,9 +425,6 @@ http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=3631&exte
 
 #EXTINF:-1,SuperSport 3 HD 🇦🇱
 http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=3632&extension=m3u8
-
-#EXTINF:-1,SuperSport 1 HD VIP 🇦🇱
-http://storeiptv.net:2095/FCrSCNMZPFy5/NsyR3fgtqWNF/401
 
 #EXTINF:-1,SuperSport 2 HD VIP 🇦🇱
 http://storeiptv.net:2095/FCrSCNMZPFy5/NsyR3fgtqWNF/406
@@ -555,20 +474,11 @@ http://46.19.226.151:4000/play/a0bd
 #EXTINF:-1, TRING SPORT 1 🇦🇱
 http://146.59.19.1:80/5031/index.m3u8
 
-#EXTINF:-1, TRING SPORT 1 🇦🇱
-http://storeiptv.net:2095/FCrSCNMZPFy5/NsyR3fgtqWNF/399
-
 #EXTINF:-1, TRING SPORT 2 🇦🇱
 http://146.59.19.1:80/5030/index.m3u8
 
-#EXTINF:-1, TRING SPORT 2 🇦🇱
-http://storeiptv.net:2095/FCrSCNMZPFy5/NsyR3fgtqWNF/398
-
 #EXTINF:-1, TRING SPORT 3 🇦🇱
 http://storeiptv.net:2095/FCrSCNMZPFy5/NsyR3fgtqWNF/397
-
-#EXTINF:-1, TRING SPORT 4 🇦🇱
-http://storeiptv.net:2095/FCrSCNMZPFy5/NsyR3fgtqWNF/396
 
 #EXTINF:-1, RTSH Sport HD 🇦🇱
 http://109.104.129.195:8001/play/s25
