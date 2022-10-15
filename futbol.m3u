@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
+https://bit.ly/sportbein1
+
+#EXTINF:-1, NOVA SPORTS 1 🇬🇷
+http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9esxppA5BEooxeg3onklIL
+
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://restreamicos.com:8080/treip93nhsdasa/cUbQB4UXEXpR/3061
 
@@ -9,23 +15,11 @@ https://1093384063.cdn.khmer-hd.com/live/playlist.m3u8
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://16508383676165393.nicesun.xyz/live/9PNN7OL6MR/1577654921/165393.m3u8
 
-#EXTINF:-1, MOVISTAR LIGA CAMPEONES 🇪🇸
-http://restreamicos.com:8080/treip93nhsdasa/cUbQB4UXEXpR/3062
-
-#EXTINF:-1, MOVISTAR LALIGA 2 🇪🇸
-http://restreamicos.com:8080/treip93nhsdasa/cUbQB4UXEXpR/114
-
-#EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
-https://bit.ly/sportbein1
-
 #EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
 http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/59306
 
 #EXTINF:-1, BEIN SPORT 4 HD 🇶🇦
 https://bit.ly/sportbein4
-
-#EXTINF:-1, NOVA SPORTS 1 🇬🇷
-http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9esxppA5BEooxeg3onklIL
 
 #EXTINF:-1,ESPN 🇦🇷
 http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35059.ts
@@ -392,6 +386,12 @@ http://golive.yn.lt/live/unl/02.m3u8
 
 #EXTINF:-1, SUPER GRANDSTAND 🇬🇧
 http://185.145.43.244:8000/play/a008/index.m3u8
+
+#EXTINF:-1, MOVISTAR LIGA CAMPEONES 🇪🇸
+http://restreamicos.com:8080/treip93nhsdasa/cUbQB4UXEXpR/3062
+
+#EXTINF:-1, MOVISTAR LALIGA 2 🇪🇸
+http://restreamicos.com:8080/treip93nhsdasa/cUbQB4UXEXpR/114
 
 #EXTINF:-1,SuperSport 1 HD 🇦🇱
 http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=3629&extension=m3u8
