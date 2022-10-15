@@ -45,6 +45,9 @@ http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95418
 #EXTINF:-1, SUPERSPORT LALIGA 🇬🇧
 http://P135@45.86.191.47:8081/live/ch2/chunks.m3u8
 
+#EXTINF:-1, Super Sport LaLiga 🇬🇧
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39406&extension=ts&play_token=TQ6cftyhX8
+
 #EXTINF:-1, S LALIGA 🇬🇧
 http://golive.yn.lt/live/laliga/03.m3u8
 
@@ -68,9 +71,6 @@ http://golive.yn.lt/live/unl/08.m3u8
 
 #EXTINF:-1,SuperSportLaLiga 🇬🇧
 http://golive.yn.lt/live/champions/04.m3u8
-
-#EXTINF:-1, Super Sport LaLiga 🇬🇧
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39406&extension=ts&play_token=TQ6cftyhX8
 
 #EXTINF:-1, S LALIGA 🇬🇧
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/39406
