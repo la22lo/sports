@@ -18,6 +18,9 @@ http://65.21.196.155/azerbaijan/cbc_sport2/playlist.m3u8
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇱
 http://cdn.spmr.tv:8080/s2bqur/video.m3u8?token=TLKJAXPMV3
 
+#EXTINF:-1,Беларусь 5 HD 🇧🇾
+http://86.57.225.245:7002/play/a00k
+
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://restreamicos.com:8080/treip93nhsdasa/cUbQB4UXEXpR/3061
 
