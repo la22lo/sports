@@ -3,6 +3,12 @@
 #EXTINF:-1,Eleven 2 🇵🇹
 http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95419
 
+#EXTINF:-1, ELEVEN SPORT 4 🇵🇱
+http://cdn.spmr.tv:8080/iu7xd5/video.m3u8?token=TLKJAXPMV3
+
+#EXTINF:-1, NOVA SPORTS 1 🇬🇷
+http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9esxppA5BEooxeg3onklIL
+
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇱
 http://cdn.spmr.tv:8080/s2bqur/video.m3u8?token=TLKJAXPMV3
 
@@ -53,12 +59,6 @@ http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/59306
 
 #EXTINF:-1, BEIN SPORT 4 HD 🇶🇦
 https://bit.ly/sportbein4
-
-#EXTINF:-1, NOVA SPORTS 1 🇬🇷
-http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9esxppA5BEooxeg3onklIL
-
-#EXTINF:-1, ELEVEN SPORT 4 🇵🇱
-http://cdn.spmr.tv:8080/iu7xd5/video.m3u8?token=TLKJAXPMV3
 
 #EXTINF:-1,ESPN 🇦🇷
 http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35059.ts
