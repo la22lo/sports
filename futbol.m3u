@@ -18,9 +18,6 @@ http://65.21.196.155/azerbaijan/cbc_sport2/playlist.m3u8
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇱
 http://cdn.spmr.tv:8080/s2bqur/video.m3u8?token=TLKJAXPMV3
 
-#EXTINF:-1,SuperSport 1 HD 🇦🇱
-http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:57:87:3A&stream=3629&extension=m3u8
-
 #EXTINF:-1,DAZN 1 🇩🇪
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
 
