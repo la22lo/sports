@@ -12,6 +12,9 @@ http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9esxppA5BEoox
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇱
 http://cdn.spmr.tv:8080/s2bqur/video.m3u8?token=TLKJAXPMV3
 
+#EXTINF:-1, SUPERSPORT LALIGA 🇬🇧
+https://s@cdn7.footballstreams.top/live/ch5/playlist.m3u8
+
 #EXTINF:-1, LAT 2
 https://P135@stream.mux.com/6dKnuQczZm5QQ01tN5BJmhIScoe99O9eApybzJiiSWOI.m3u8
 
@@ -35,9 +38,6 @@ https://P135@pull.quhaipin.com/live/10021620379060_720hp.m3u8
 
 #EXTINF:-1,DAZN 1 🇩🇪
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
-
-#EXTINF:-1, SUPERSPORT LALIGA 🇬🇧
-https://s@cdn7.footballstreams.top/live/ch5/playlist.m3u8
 
 #EXTINF:-1,Беларусь 5 HD 🇧🇾
 http://86.57.225.245:7002/play/a00k
