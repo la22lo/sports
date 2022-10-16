@@ -3,9 +3,6 @@
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇱
 http://cdn.spmr.tv:8080/s2bqur/video.m3u8?token=TLKJAXPMV3
 
-#EXTINF:-1, LAT 1
-https://P135@manifest-gcp-us-east1-vop1.fastly.mux.com/nCIyP1pxZR7Gqz15xd8BP67P2EXoUO3CAGd4gw5dPhn8WgPOR02LXLmlOwtQjfXN1dL4ihNUoek01BVx9Y4VK7jF5BC8hSCTJk/rendition.m3u8?cdn=fastly&exclude_pdt=false&expires=1666537200&live=1&skid=default&signature=NjM1NTU2ZjBfMmRmM2MxODJjNmVlMDBjYjA4NDgxYzE4YjBiNWUxODk1ZjMwZmNmMzE2MWJhZmU2MzEzYjIxNjc0ZTFmMzI5Nw==
-
 #EXTINF:-1, LAT 2
 https://P135@stream.mux.com/6dKnuQczZm5QQ01tN5BJmhIScoe99O9eApybzJiiSWOI.m3u8
 
