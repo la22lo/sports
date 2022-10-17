@@ -3,32 +3,11 @@
 #EXTINF:-1,Eleven 2 🇵🇹
 http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95419
 
-#EXTINF:-1,ESPN 🇦🇷
-http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35059.ts
-
-#EXTINF:-1, ELEVEN SPORT 4 🇵🇱
-http://cdn.spmr.tv:8080/iu7xd5/video.m3u8?token=TLKJAXPMV3
-
 #EXTINF:-1, NOVA SPORTS 1 🇬🇷
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9esxppA5BEooxeg3onklIL
 
-#EXTINF:-1, ELEVEN SPORT 1 🇵🇱
-http://cdn.spmr.tv:8080/s2bqur/video.m3u8?token=TLKJAXPMV3
-
 #EXTINF:-1, SUPERSPORT LALIGA 🇬🇧
 https://s@cdn7.footballstreams.top/live/ch5/playlist.m3u8
-
-#EXTINF:-1,DAZN 1 🇩🇪
-http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
-
-#EXTINF:-1,Беларусь 5 HD 🇧🇾
-http://86.57.225.245:7002/play/a00k
-
-#EXTINF:-1,ELEVEN SPORTS 2 🇵🇹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
-
-#EXTINF:-1, ELEVEN 2HD 🇵🇹
-http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6235
 
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://restreamicos.com:8080/treip93nhsdasa/cUbQB4UXEXpR/3061
@@ -38,18 +17,6 @@ http://16508383676165393.nicesun.xyz/live/9PNN7OL6MR/1577654921/165393.m3u8
 
 #EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
 http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/59306
-
-#EXTINF:-1, BEIN SPORT 4 HD 🇶🇦
-https://bit.ly/sportbein4
-
-#EXTINF:-1, ELEVEN SPORT 2 🇵🇱
-http://cdn.spmr.tv:8080/rtjs8r/video.m3u8?token=TLKJAXPMV3
-
-#EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
-
-#EXTINF:-1, ELEVEN 1HD 🇵🇹
-http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6234
 
 #EXTINF:-1,Eleven 1 🇵🇹
 http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95418
@@ -66,15 +33,6 @@ http://w4.12all.tv:4000/play/beinlaliga/index.m3u8
 #EXTINF:-1, MTV INDIA 🇮🇳
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
 
-#EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
-
-#EXTINF:-1,ELEVEN SPORTS 2 🇵🇹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
-
-#EXTINF:-1,ELEVEN SPORTS 3 🇵🇹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
-
 #EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
@@ -89,6 +47,9 @@ http://92.119.88.58:8080/270/index.m3u8
 
 #EXTINF:-1,Setanta Sports 1 🇺🇦
 http://89.254.128.5:22280/setanta_sports_hd/mono.m3u8
+
+#EXTINF:-1,ESPN 🇦🇷
+http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35059.ts
 
 #EXTINF:-1,ESPN 🇦🇷
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
@@ -190,39 +151,6 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 http://54.39.19.162:8081/live/dream1/playlist.m3u8
 
 #EXTINF:-1, BEIN SPORTS PREMIUM 1HD 🇶🇦
-https://bit.ly/premium1bein
-
-#EXTINF:-1, BEIN SPORTS PREMIUM 2HD 🇶🇦
-https://bit.ly/premium2bein
-
-#EXTINF:-1, BEIN SPORTS PREMIUM 3HD 🇶🇦
-https://bit.ly/premium3bein
-
-#EXTINF:-1, BEIN SPORTS PREMIUM 1HD 🇶🇦
-http://w4.12all.tv:4000/play/bein1ar/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
-https://bit.ly/sportbein1
-
-#EXTINF:-1, BEIN SPORT 2 HD 🇶🇦
-https://bit.ly/sportbein22
-
-#EXTINF:-1, BEIN SPORT 3 HD 🇶🇦
-https://bit.ly/sportbein3
-
-#EXTINF:-1, BEIN SPORT 4 HD 🇶🇦
-https://bit.ly/sportbein4
-
-#EXTINF:-1, BEIN SPORT 5 HD 🇶🇦
-https://bit.ly/sportbein5
-
-#EXTINF:-1, BEIN SPORT 6 HD 🇶🇦
-https://bit.ly/sportbein6
-
-#EXTINF:-1, BEIN SPORT 7 HD 🇶🇦
-https://bit.ly/sportbein7
-
-#EXTINF:-1, BEIN SPORTS PREMIUM 1HD 🇶🇦
 http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/192758
 
 #EXTINF:-1, BEIN SPORTS PREMIUM 2HD 🇶🇦
@@ -252,42 +180,6 @@ http://93.152.174.144:4000/play/bein6ar/index.m3u8
 #EXTINF:-1, BEIN SPORT 7 HD 🇶🇦
 http://93.152.174.144:4000/play/bein7ar/index.m3u8
 
-#EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
-
-#EXTINF:-1,ELEVEN SPORTS 2 🇵🇹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
-
-#EXTINF:-1,ELEVEN SPORTS 3 🇵🇹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
-
-#EXTINF:-1,ELEVEN SPORTS 4 🇵🇹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
-
-#EXTINF:-1,ELEVEN SPORTS 5 🇵🇹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
-
-#EXTINF:-1,ELEVEN SPORTS 6 🇵🇹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6
-
-#EXTINF:-1, ELEVEN 1HD 🇵🇹
-http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6234
-
-#EXTINF:-1, ELEVEN 2HD 🇵🇹
-http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6235
-
-#EXTINF:-1, ELEVEN 3HD 🇵🇹
-http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6236
-
-#EXTINF:-1, ELEVEN 4HD 🇵🇹
-http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6237
-
-#EXTINF:-1, ELEVEN 5HD 🇵🇹
-http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6238
-
-#EXTINF:-1, ELEVEN 6HD 🇵🇹
-http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6239
-
 #EXTINF:-1,Eleven 1 🇵🇹
 http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95418
 
@@ -303,21 +195,6 @@ http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95421
 #EXTINF:-1,Eleven 5 🇵🇹
 http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95422
 
-#EXTINF:-1,SPORT-TV 1HD 🇵🇹
-http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/1575
-
-#EXTINF:-1,SPORT-TV 2HD 🇵🇹
-http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/1581
-
-#EXTINF:-1,SPORT-TV 3HD 🇵🇹
-http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/1585
-
-#EXTINF:-1,SPORT-TV 4HD 🇵🇹
-http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/1580
-
-#EXTINF:-1,SPORT-TV 5HD 🇵🇹
-http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/3788
-
 #EXTINF:-1,SPORT.TV1 🇵🇹
 http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95408
 
@@ -332,12 +209,6 @@ http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95415
 
 #EXTINF:-1,SPORT.TV5 🇵🇹
 http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95416
-
-#EXTINF:-1, EUROSPORT 1HD 🇵🇹
-http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/1543
-
-#EXTINF:-1, EUROSPORT 2HD 🇵🇹
-http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/1542
 
 #EXTINF:-1,ES Bein Sports LaLiga 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
