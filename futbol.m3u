@@ -3,9 +3,6 @@
 #EXTINF:-1,Eleven 1 🇵🇹
 http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95418
 
-#EXTINF:-1,Eleven 2 🇵🇹
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95419
-
 #EXTINF:-1, NOVA SPORTS 1 🇬🇷
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9esxppA5BEooxeg3onklIL
 
@@ -26,6 +23,9 @@ http://P135@45.86.191.47:8081/live/ch2/chunks.m3u8
 
 #EXTINF:-1, Super Sport LaLiga 🇬🇧
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39406&extension=ts&play_token=TQ6cftyhX8
+
+#EXTINF:-1,Eleven 2 🇵🇹
+http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95419
 
 #EXTINF:-1, DAZN LALIGA 🇪🇸
 http://w4.12all.tv:4000/play/beinlaliga/index.m3u8
