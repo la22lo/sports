@@ -840,5 +840,35 @@ http://tchaikovsky.af-stream.com:1600/s/na8i60tp/super-tennis-hd/video.m3u8
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
+#EXTINF:-1, BEIN PREMUIM 1 SD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/524
+
+#EXTINF:-1, BEIN PREMUIM 2 SD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/526
+
+#EXTINF:-1, BEIN PREMUIM 3 SD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/528
+
+#EXTINF:-1, BEINSPORT 1 SD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/510
+
+#EXTINF:-1, BEINSPORT 2 SD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/512
+
+#EXTINF:-1, BEINSPORT 3 SD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/514
+
+#EXTINF:-1, BEINSPORT 4 SD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/516
+
+#EXTINF:-1, BEINSPORT 5 SD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/518
+
+#EXTINF:-1, BEINSPORT 6 SD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/520
+
+#EXTINF:-1, BEINSPORT 7 SD
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/522
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
