@@ -45,6 +45,9 @@ http://89.254.128.5:22280/setanta_sports_hd/mono.m3u8
 #EXTINF:-1,ESPN 🇦🇷
 http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35059.ts
 
+#EXTINF:-1,DIRECTV 🇦🇷
+https://josemedia.sermon.net/live/22040550.m3u8
+
 #EXTINF:-1,ESPN 🇦🇷
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 
