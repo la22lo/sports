@@ -843,14 +843,50 @@ http://tchaikovsky.af-stream.com:1600/s/na8i60tp/super-tennis-hd/video.m3u8
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
-#EXTINF:-1,Tring Sport 2 HD
-http://146.59.19.1/5032/mpegts
+#EXTINF:-1,ESPN 🇦🇷
+http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35055.ts
+
+#EXTINF:-1,ESPN 🇦🇷
+http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35056.ts
+
+#EXTINF:-1,ESPN 🇦🇷
+http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35057.ts
+
+#EXTINF:-1,ESPN 🇦🇷
+http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35058.ts
 
 #EXTINF:-1,ESPN 🇦🇷
 http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35060.ts
 
 #EXTINF:-1,ESPN 🇦🇷
 http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35061.ts
+
+#EXTINF:-1,ESPN 🇦🇷
+http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35062.ts
+
+#EXTINF:-1,ESPN 🇦🇷
+http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35063.ts
+
+#EXTINF:-1,ESPN 🇦🇷
+http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35064.ts
+
+#EXTINF:-1,ESPN 🇦🇷
+http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35065.ts
+
+#EXTINF:-1,ESPN 🇦🇷
+http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35066.ts
+
+#EXTINF:-1,ESPN 🇦🇷
+http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35067.ts
+
+#EXTINF:-1,ESPN 🇦🇷
+http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35068.ts
+
+#EXTINF:-1,ESPN 🇦🇷
+http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35069.ts
+
+#EXTINF:-1,ESPN 🇦🇷
+http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35070.ts
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
