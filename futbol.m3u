@@ -837,5 +837,11 @@ http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C783
 #EXTINF:-1,Tring Sport 2 HD
 http://146.59.19.1/5032/mpegts
 
+#EXTINF:-1,ESPN 🇦🇷
+http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35060.ts
+
+#EXTINF:-1,ESPN 🇦🇷
+http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35061.ts
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
