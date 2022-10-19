@@ -867,5 +867,14 @@ http://103.99.249.107:81/play/a05h
 #EXTINF:-1,IPTV- BeiN Sports 1 EN
 http://103.99.249.107:81/play/a07q
 
+#EXTINF:-1, beiN Sport 1
+https://bit.ly/3CJeGf8
+
+#EXTINF:-1, beiN Sport 2
+https://bit.ly/3eDDVHX
+
+#EXTINF:-1, beiN Sport 3
+https://bit.ly/3EOTcQI
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
