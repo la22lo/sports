@@ -15,6 +15,9 @@ http://86.57.225.245:7002/play/a00k
 #EXTINF:-1, Canal Chino
 https://P135@play.zhuafan.tech/live/live_1665796780964.m3u8?auth_key=1666216336-45598588-0-9f7d7031b667b43d9eefd3a239bb4870&uid=live_1665796780964
 
+#EXTINF:-1, DIRECTV SPORTS 🇦🇷
+https://P135@954b5418d1bd.us-west-2.playback.live-video.net/api/video/v1/us-west-2.067246364203.channel.frgwWazhhoiU.m3u8
+
 #EXTINF:-1, NOVA SPORTS 1 🇬🇷
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9esxppA5BEooxeg3onklIL
 
