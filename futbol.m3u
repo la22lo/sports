@@ -21,6 +21,12 @@ https://bit.ly/3CJeGf8
 #EXTINF:-1,Беларусь 5 HD 🇧🇾
 http://86.57.225.245:7002/play/a00k
 
+#EXTINF:-1, ELEVEN SPORT 1 🇵🇱
+http://cdn.spmr.tv:8080/s2bqur/video.m3u8?token=TLKJAXPMV3
+
+#EXTINF:-1, ELEVEN SPORT 2 🇵🇱
+http://cdn.spmr.tv:8080/rtjs8r/video.m3u8?token=TLKJAXPMV3
+
 #EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/90154
 
