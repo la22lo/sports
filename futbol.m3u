@@ -18,6 +18,9 @@ http://w4.12all.tv:4000/play/bein1fr/index.m3u8
 #EXTINF:-1, beiN Sport 1 🇫🇷
 https://bit.ly/3CJeGf8
 
+#EXTINF:-1, beiN Sport 1 🇫🇷
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/3071
+
 #EXTINF:-1,Беларусь 5 HD 🇧🇾
 http://86.57.225.245:7002/play/a00k
 
@@ -326,6 +329,15 @@ https://bit.ly/3eDDVHX
 
 #EXTINF:-1, beiN Sport 3 🇫🇷
 https://bit.ly/3EOTcQI
+
+#EXTINF:-1, beiN Sport 1 🇫🇷
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/3071
+
+#EXTINF:-1, beiN Sport 2 🇫🇷
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/3072
+
+#EXTINF:-1, beiN Sport 3 🇫🇷
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/3078
 
 #EXTINF:-1, RMC Sports 1 🇫🇷
 http://51.178.65.238:80/RMC1/index.m3u8
