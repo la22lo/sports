@@ -1,14 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,Eleven 1 🇵🇹
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95418
-
-#EXTINF:-1,Eleven 1 🇵🇹
-http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2531/index.m3u8
-
-#EXTINF:-1,Eleven 1 🇵🇹
-http://fastrunner.live:8080/Mitch2/MxsWhZK7LR/22713
-
 #EXTINF:-1,ESPN 🇦🇷
 http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35059.ts
 
@@ -44,6 +35,15 @@ http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/1285
 
 #EXTINF:-1, SUPERSPORT LALIGA 🇬🇧
 https://s@cdn1.footballstreams.top:443/live/ch3/chunks.m3u8
+
+#EXTINF:-1,Eleven 1 🇵🇹
+http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95418
+
+#EXTINF:-1,Eleven 1 🇵🇹
+http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2531/index.m3u8
+
+#EXTINF:-1,Eleven 1 🇵🇹
+http://fastrunner.live:8080/Mitch2/MxsWhZK7LR/22713
 
 #EXTINF:-1,Eleven 3 🇵🇹
 http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95420
