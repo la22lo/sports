@@ -12,17 +12,17 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10347.ts
 #EXTINF:-1, DAZN LALIGA 🇪🇸
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10345.ts
 
-#EXTINF:-1,Eleven 2 🇵🇹
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95419
+#EXTINF:-1,Eleven 1 🇵🇹
+http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95418
 
-#EXTINF:-1,Eleven 2 🇵🇹
-http://red.ipfox.org:8080/osama2022/osama2023/49367
+#EXTINF:-1,Eleven 1 🇵🇹
+http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2531/index.m3u8
 
-#EXTINF:-1,Eleven 2 🇵🇹
-http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2532/index.m3u8
+#EXTINF:-1,Eleven 1 🇵🇹
+http://red.ipfox.org:8080/osama2022/osama2023/49368
 
-#EXTINF:-1,Eleven 2 🇵🇹
-http://venomtt.com:8000/kdcxxD1U/543545/22519
+#EXTINF:-1,Setanta Sports 2 HD 🇷🇺
+http://92.119.88.58:8080/270/index.m3u8
 
 #EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/90154
@@ -53,6 +53,12 @@ http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
 
 #EXTINF:-1, NOVA SPORTS 1 🇬🇷
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9esxppA5BEooxeg3onklIL
+
+#EXTINF:-1, Ziggo Sport Select HD 🇳🇱
+http://178.251.29.82:7250/play/a00s
+
+#EXTINF:-1, Ziggo Sport Select HD 🇳🇱
+http://red.ipfox.org:8080/osama2022/osama2023/49185
 
 #EXTINF:-1,BEIN 1 THA 🇹🇭
 http://ku03.wanicelife.com:8880/12m0322/772227687/71104
@@ -971,24 +977,6 @@ http://tchaikovsky.af-stream.com:1600/s/na8i60tp/super-tennis-hd/video.m3u8
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
-
-#EXTINF:-1,Eleven 1 🇵🇹
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95418
-
-#EXTINF:-1,Eleven 1 🇵🇹
-http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2531/index.m3u8
-
-#EXTINF:-1,Eleven 1 🇵🇹
-http://red.ipfox.org:8080/osama2022/osama2023/49368
-
-#EXTINF:-1,Setanta Sports 2 HD 🇷🇺
-http://92.119.88.58:8080/270/index.m3u8
-
-#EXTINF:-1, Ziggo Sport Select HD 🇳🇱
-http://178.251.29.82:7250/play/a00s
-
-#EXTINF:-1, Ziggo Sport Select HD 🇳🇱
-http://red.ipfox.org:8080/osama2022/osama2023/49185
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
