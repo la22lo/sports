@@ -624,6 +624,9 @@ http://86.57.225.245:7002/play/a00k
 #EXTINF:-1, CBC SPORT 🇦🇿
 http://65.21.196.155/azerbaijan/cbc_sport2/playlist.m3u8
 
+#EXTINF:-1, SB SPORT 3
+http://vtsstr4.tv24.vn:1935/live/btv5_HD_new.smil/playlist.m3u8
+
 #EXTINF:-1, NOVA SPORTS START 🇬🇷
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-GjqT3a75ko46LKD1eben_
 
