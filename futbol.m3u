@@ -669,8 +669,14 @@ http://178.251.29.82:7250/play/a002
 #EXTINF:-1, Ziggo Sport Select HD 🇳🇱
 http://178.251.29.82:7250/play/a00s
 
+#EXTINF:-1, Ziggo Sport Select HD 🇳🇱
+http://red.ipfox.org:8080/osama2022/osama2023/49185
+
 #EXTINF:-1, Ziggo Sport Voetbal HD 🇳🇱
 http://178.251.29.82:7250/play/a00l
+
+#EXTINF:-1, Ziggo Sport Voetbal HD 🇳🇱
+http://red.ipfox.org:8080/osama2022/osama2023/49184
 
 #EXTINF:-1, Ziggo Racing HD 🇳🇱
 http://31.220.41.88:8081/live/nl-ziggoracing.stream/chunks.m3u8
@@ -980,6 +986,9 @@ http://92.119.88.58:8080/270/index.m3u8
 
 #EXTINF:-1, Ziggo Sport Select HD 🇳🇱
 http://178.251.29.82:7250/play/a00s
+
+#EXTINF:-1, Ziggo Sport Select HD 🇳🇱
+http://red.ipfox.org:8080/osama2022/osama2023/49185
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
