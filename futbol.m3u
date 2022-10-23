@@ -387,33 +387,6 @@ http://146.59.19.1/5031/mpegts
 #EXTINF:-1, TRING SPORT 2 🇦🇱
 http://146.59.19.1:80/5030/index.m3u8
 
-#EXTINF:-1,Arena Sport 1 Premium 🇷🇸
-http://46.19.226.151:4000/play/a0b5
-
-#EXTINF:-1,Arena Sport 2 Premium 🇷🇸
-http://46.19.226.151:4000/play/a0b6
-
-#EXTINF:-1,Arena Sport 3 🇷🇸
-http://46.19.226.151:4000/play/a0b7
-
-#EXTINF:-1,Arena Sport 4 🇷🇸
-http://46.19.226.151:4000/play/a0b8
-
-#EXTINF:-1,Arena Sport 5 🇷🇸
-http://46.19.226.151:4000/play/a0b9
-
-#EXTINF:-1,Arena 1 Premium 🇷🇸
-http://193.221.199.253:8000/play/a05t
-
-#EXTINF:-1,Arena 2 Premium 🇷🇸
-http://193.221.199.253:8000/play/a05u
-
-#EXTINF:-1,Arena 3 Premium 🇷🇸
-http://193.221.199.253:8000/play/a05v
-
-#EXTINF:-1,Arena Sport 8 🇷🇸
-http://193.221.199.253:8000/play/a05s
-
 #EXTINF:-1,HRT2 🇭🇷
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
 
