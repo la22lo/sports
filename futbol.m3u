@@ -582,9 +582,6 @@ https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 #EXTINF:-1 , LIVE SPORT HD 🇭🇺
 http://195.222.7.26:7001/play/a00t
 
-#EXTINF:-2022, SKY SPORTS 1 HD
-http://93.152.174.144:4000/play/ssports1/index.m3u8
-
 #EXTINF:-1, SPOTV 1 🇮🇩
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1659773379~exp=9007200914514370~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=c1868bb91988c2e4b3b4bb98e8f73689c5d85c672bd3d857446521cad5228e11
 
@@ -611,18 +608,6 @@ http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 
 #EXTINF:-1, GEO SUPER 🇮🇳
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/16088
-
-#EXTINF:-1,M- SONY TEN 1 HD 🇮🇳
-http://103.99.249.107:81/play/a05k
-
-#EXTINF:-1,M- SONY TEN 2 HD 🇮🇳
-http://103.99.249.107:81/play/a05l
-
-#EXTINF:-1,M- SONY TEN 3 HD 🇮🇳
-http://103.99.249.107:81/play/a05m
-
-#EXTINF:-1, STAR SPORT 3 🇮🇳
-http://103.162.136.235:4500/play/a013/index.m3u8
 
 #EXTINF:-1, TVRI SPORTS INDONESIA 🇮🇩
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
