@@ -606,18 +606,6 @@ http://31.220.41.88:8081/live/nl-ziggoracing.stream/chunks.m3u8
 #EXTINF:-1, TV2 SPORTEN 🇳🇴
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 
-#EXTINF:-1, ELEVEN SPORT 1 🇵🇱
-http://cdn.spmr.tv:8080/s2bqur/video.m3u8?token=TLKJAXPMV3
-
-#EXTINF:-1, ELEVEN SPORT 2 🇵🇱
-http://cdn.spmr.tv:8080/rtjs8r/video.m3u8?token=TLKJAXPMV3
-
-#EXTINF:-1, ELEVEN SPORT 3 🇵🇱
-http://cdn.spmr.tv:8080/54elmn/video.m3u8?token=TLKJAXPMV3
-
-#EXTINF:-1, ELEVEN SPORT 4 🇵🇱
-http://cdn.spmr.tv:8080/iu7xd5/video.m3u8?token=TLKJAXPMV3
-
 #EXTINF:-1, POLSAT PREMIUM 1 HD 🇵🇱
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/27677.m3u8
 
