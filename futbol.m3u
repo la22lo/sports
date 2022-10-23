@@ -609,41 +609,11 @@ https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 #EXTINF:-1, POLSAT PREMIUM 1 HD 🇵🇱
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/27677.m3u8
 
-#EXTINF:-1,Polsat Sport Premium 2  🇵🇱
-http://95.211.250.58/POLSAT_SPORT_PREMIUM_2/mono.m3u8
-
-#EXTINF:-1, POLSAT SPORT HD 🇵🇱
-http://95.211.250.58/POLSAT_SPORT/mono.m3u8
-
-#EXTINF:-1, POLSAT SPORT NEWS HD 🇵🇱
-http://95.211.250.58/POLSAT_SPORT_NEWS/mono.m3u8
-
-#EXTINF:-1, POLSAT SPORT EXTRA HD 🇵🇱
-http://95.211.250.58/POLSAT_SPORT_EXTRA/mono.m3u8
-
 #EXTINF:-1,Polsat_Sport_Premium_PPV3 🇵🇱
 http://194.76.186.150:10005/play/Polsat_Sport_Premium_PPV3
 
 #EXTINF:-1,Polsat_Sport_Premium_PPV4 🇵🇱
 http://194.76.186.150:10005/play/Polsat_Sport_Premium_PPV4
-
-#EXTINF:-1, TVP SPORT 🇵🇱
-http://95.211.250.58/TVP_SPORT/mono.m3u8
-
-#EXTINF:-1, CANAL+ SPORT 🇵🇱
-http://95.211.250.58/CANAL+_SPORT/mono.m3u8
-
-#EXTINF:-1, CANAL+ SPORT 2 🇵🇱
-http://95.211.250.58/CANAL+_SPORT_2/mono.m3u8
-
-#EXTINF:-1, CANAL+ SPORT 3 🇵🇱
-http://95.211.250.58/CANAL+_SPORT_3/mono.m3u8
-
-#EXTINF:-1, CANAL+ SPORT 4 🇵🇱
-http://95.211.250.58/CANAL+_SPORT_4/mono.m3u8
-
-#EXTINF:-1, CANAL+ SPORT 5 🇵🇱
-http://95.211.250.58/NSPORT+/mono.m3u8
 
 #EXTINF:-1, SPORT 1 🇮🇱
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38711
