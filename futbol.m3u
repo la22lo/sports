@@ -369,18 +369,6 @@ http://102.222.232.18:9981/stream/channelid/2100170847?ticket=5CC008508EA4755ED1
 #EXTINF:-1, BEIN SPORT 3 🇬🇧
 http://102.222.232.18:9981/stream/channelid/2100170847?ticket=206EE47921F25EE1A5AF97E218B33DA299AACA12&profile=matroska
 
-#EXTINF:-1, BT SPORT 1 🇬🇧
-http://37.49.224.162:8081/live/ch1/chunks.m3u8
-
-#EXTINF:-1, BT SPORT 2 HD 🇬🇧
-http://93.152.174.144:4000/play/btsport2/index.m3u8
-
-#EXTINF:-1,BT SPORT 2 🇬🇧
-http://w4.12all.tv:4000/play/btsport2/index.m3u8
-
-#EXTINF:-1,BT SPORT 3 🇬🇧
-http://w4.12all.tv:4000/play/btsport3/index.m3u8
-
 #EXTINF:-1, SUPER GRANDSTAND 🇬🇧
 http://185.145.43.244:8000/play/a008/index.m3u8
 
