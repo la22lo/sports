@@ -708,12 +708,6 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1, A SPORT 🇹🇷
 https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
 
-#EXTINF:-1,Directv Sports plus HD 🇨🇴 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37807
-
-#EXTINF:-1,Directv Sports SD 🇨🇴 
-http://gameplay.p2sweb.me:80/3091894/4952970/251374
-
 #EXTINF:-1, ESPN 🇧🇷
 http://189.91.128.146:4444/udp/227.10.20.81:1234
 
