@@ -405,6 +405,27 @@ http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
 #EXTINF:-1, HRT 2 🇭🇷
 http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
 
+#EXTINF:-1,DigiSport 1
+http://193.33.39.108:38111/1013
+
+#EXTINF:-1,Orange Sport 1 HD
+http://188.173.213.166:25463/play/a051/index.m3u8
+
+#EXTINF:-1,PRIMA SPORT 1 HD
+http://188.173.213.166:25463/play/a04b/index.m3u8
+
+#EXTINF:-1,Prima Sport 1 HD
+http://188.173.213.166:25463/play/a04u/index.m3u8
+
+#EXTINF:-1,Prima Sport 3 HD
+http://188.173.213.166:25463/play/a04r/index.m3u8
+
+#EXTINF:-1,PRIMA SPORT 3 HD
+http://188.173.213.166:25463/play/a04c/index.m3u8
+
+#EXTINF:-1,Prima Sport 4 HD
+http://188.173.213.166:25463/play/a053/index.m3u8
+
 #EXTINF:-1,Max sport 1 🇧🇬
 http://83.228.88.114:8000/play/a04c
 
@@ -639,6 +660,9 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/16088
 #EXTINF:-1, TVRI SPORTS INDONESIA 🇮🇩
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
+#EXTINF:-1,nowsportt 🇮🇩
+http://146.59.54.155:7070/play/a041/index.m3u8
+
 #EXTINF:-1,TRT SPOR HD 🇹🇷
 http://31.177.62.182:8000/play/s1
 
@@ -788,32 +812,6 @@ http://tchaikovsky.af-stream.com:1600/s/na8i60tp/super-tennis-hd/video.m3u8
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
-
-#EXTINF:-1,DigiSport
-http://193.33.39.108:38111/1013
-
-#EXTINF:-1,Orange Sport 1 HD
-http://188.173.213.166:25463/play/a051/index.m3u8
-
-#EXTINF:-1,PRIMA SPORT 1 HD
-http://188.173.213.166:25463/play/a04b/index.m3u8
-
-#EXTINF:-1,Prima Sport 1 HD
-http://188.173.213.166:25463/play/a04u/index.m3u8
-
-#EXTINF:-1,Prima Sport 3 HD
-http://188.173.213.166:25463/play/a04r/index.m3u8
-
-#EXTINF:-1,PRIMA SPORT 3 HD
-http://188.173.213.166:25463/play/a04c/index.m3u8
-
-#EXTINF:-1,Prima Sport 4 HD
-http://188.173.213.166:25463/play/a053/index.m3u8
-
-
-
-#EXTINF:-1,nowsportt
-http://146.59.54.155:7070/play/a041/index.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
