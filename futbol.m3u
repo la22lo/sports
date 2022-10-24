@@ -747,5 +747,41 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
+#EXTINF:-1, Eleven Sports 1 FHD
+http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/50901
+
+#EXTINF:-1, Eleven Sports 2 FHD
+http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/50902
+
+#EXTINF:-1, Eleven Sports 3 FHD
+http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/53509
+
+#EXTINF:-1, Eleven Sports 4 FHD
+http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/53510
+
+#EXTINF:-1, Eleven Sports 5 FHD
+http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/53511
+
+#EXTINF:-1, Eleven Sports 6 FHD
+http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/53512
+
+#EXTINF:-1, Eleven 1 HD
+http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4272.ts
+
+#EXTINF:-1, Eleven 2 HD
+http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4273.ts
+
+#EXTINF:-1, Eleven 3
+http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4274.ts
+
+#EXTINF:-1, Eleven Sports 4
+http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4276.ts
+
+#EXTINF:-1, Eleven Sports 5
+http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4277.ts
+
+#EXTINF:-1, Eleven 6
+http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4275.ts
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
