@@ -30,26 +30,8 @@ http://92.119.88.58:8080/270/index.m3u8
 #EXTINF:-1,DAZN 1 🇩🇪
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
 
-#EXTINF:-1, Ziggo Sport Select HD 🇳🇱
-http://178.251.29.82:7250/play/a00s
-
-#EXTINF:-1, Ziggo Sport Select HD 🇳🇱
-http://red.ipfox.org:8080/osama2022/osama2023/49185
-
-#EXTINF:-1,BEIN 1 THA 🇹🇭
-http://ku03.wanicelife.com:8880/12m0322/772227687/71104
-
-#EXTINF:-1,BEIN 3 THA 🇹🇭
-http://ku03.wanicelife.com:8880/12m0322/772227687/71105
-
 #EXTINF:-1,Беларусь 5 HD 🇧🇾
 http://86.57.225.245:7002/play/a00k
-
-#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
-http://restreamicos.com:8080/treip93nhsdasa/cUbQB4UXEXpR/3061
-
-#EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
-http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/59306
 
 #EXTINF:-1, DAZN LALIGA 🇪🇸
 http://w4.12all.tv:4000/play/beinlaliga/index.m3u8
@@ -270,24 +252,6 @@ http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/90159
 #EXTINF:-1, BEIN SPORT 7 HD 🇶🇦
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/90160
 
-#EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇹
-http://acsa.ws:80/668630/Aps8fQ/169520.ts
- 
-#EXTINF:-1, ELEVEN SPORTS 2 HD 🇵🇹
-http://acsa.ws:80/668630/Aps8fQ/169521.ts
- 
-#EXTINF:-1, ELEVEN SPORTS 3 HD 🇵🇹
-http://acsa.ws:80/668630/Aps8fQ/169522.ts
- 
-#EXTINF:-1, ELEVEN SPORTS 4 HD 🇵🇹
-http://acsa.ws:80/668630/Aps8fQ/169523.ts
- 
-#EXTINF:-1, ELEVEN SPORTS 5 HD 🇵🇹
-http://acsa.ws:80/668630/Aps8fQ/169524.ts
- 
-#EXTINF:-1, ELEVEN SPORTS 6 HD 🇵🇹
-http://acsa.ws:80/668630/Aps8fQ/169525.ts
-
 #EXTINF:-1,Eleven 1 🇵🇹
 http://the.rei-rio.xyz:8880/xx6BKcwg1Xjs1mB/ayKDYUTGWycARgL/1537
 
@@ -377,12 +341,6 @@ http://102.222.232.18:9981/stream/channelid/2100170847?ticket=206EE47921F25EE1A5
 
 #EXTINF:-1, SUPER GRANDSTAND 🇬🇧
 http://185.145.43.244:8000/play/a008/index.m3u8
-
-#EXTINF:-1, MOVISTAR LIGA CAMPEONES 🇪🇸
-http://restreamicos.com:8080/treip93nhsdasa/cUbQB4UXEXpR/3062
-
-#EXTINF:-1, MOVISTAR LALIGA 2 🇪🇸
-http://restreamicos.com:8080/treip93nhsdasa/cUbQB4UXEXpR/114
 
 #EXTINF:-1, TRING SPORT 1 🇦🇱
 http://146.59.19.1:80/5031/index.m3u8
@@ -570,14 +528,8 @@ http://178.251.29.82:7250/play/a002
 #EXTINF:-1, Ziggo Sport Select HD 🇳🇱
 http://178.251.29.82:7250/play/a00s
 
-#EXTINF:-1, Ziggo Sport Select HD 🇳🇱
-http://red.ipfox.org:8080/osama2022/osama2023/49185
-
 #EXTINF:-1, Ziggo Sport Voetbal HD 🇳🇱
 http://178.251.29.82:7250/play/a00l
-
-#EXTINF:-1, Ziggo Sport Voetbal HD 🇳🇱
-http://red.ipfox.org:8080/osama2022/osama2023/49184
 
 #EXTINF:-1, Ziggo Racing HD 🇳🇱
 http://31.220.41.88:8081/live/nl-ziggoracing.stream/chunks.m3u8
