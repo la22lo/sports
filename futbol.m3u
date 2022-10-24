@@ -21,9 +21,6 @@ http://213.172.73.170:8081/nimble_live/1065__Mat4_Futbol_2/playlist.m3u8
 #EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
 http://90.188.227.251:4022/udp/233.7.70.31:5000
 
-#EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
-https://s04.watcher.uz/22/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjU2NTgyNjM3fQ.HdbB38SH334gdWdWE-14cxVbu_45rmWlp59lfu6TZ60:6
-
 #EXTINF:-1,beIN Sports 1 French HD 🇫🇷
 http://51.158.62.119:8000/play/a01z/index.m3u8
 
@@ -474,17 +471,8 @@ http://213.172.73.170:8081/nimble_live/1065__Mat4_Futbol_2/playlist.m3u8
 #EXTINF:-1,МАТЧ Футбол 3 HD 🇷🇺
 http://213.172.73.171:8081/nimble_live/1159__Mat4_Futbol_3/playlist.m3u8
 
-#EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
-https://s04.watcher.uz/21/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjU2NTgyNjM3fQ.HdbB38SH334gdWdWE-14cxVbu_45rmWlp59lfu6TZ60:6
-
-#EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
-https://s04.watcher.uz/22/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjU2NTgyNjM3fQ.HdbB38SH334gdWdWE-14cxVbu_45rmWlp59lfu6TZ60:6
-
 #EXTINF:-1, Футбол 🇷🇺
 http://185.23.80.26:8080/Football/index.m3u8
-
-#EXTINF:-1,FUTBOL TV  🇷🇺
-https://s03.watcher.uz/74/tracks-v2a1a2/mono.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjU4MDU3NzYyfQ.bbQ0Yy_g9q3f4g2D8N3uHt-oHebXmjX7EhD2qxRDxDI:72
 
 #EXTINF:-1, Футбольный HD 🇷🇺
 http://158.101.197.217:2134/channel/n3fb3760e/index.m3u8?q=f34b3d2dc463990f4fd3e79b5c5fe4a5
