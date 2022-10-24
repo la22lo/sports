@@ -1,5 +1,35 @@
 #EXTM3U
 
+#EXTINF:-1,beIN Sports 3 Premium HD 🇶🇦
+http://51.158.62.119:8000/play/a01v/index.m3u8
+
+#EXTINF:-1, BEIN SPORTS PREMIUM 3 HD 🇶🇦
+http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/117116
+
+#EXTINF:-1,DAZN 1 🇩🇪
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
+
+#EXTINF:-1,PRIMA SPORT 1 HD 🇷🇴
+http://188.173.213.166:25463/play/a04b/index.m3u8
+
+#EXTINF:-1,Prima Sport 1 HD 🇷🇴
+http://188.173.213.166:25463/play/a04u/index.m3u8
+
+#EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
+http://213.172.73.170:8081/nimble_live/1065__Mat4_Futbol_2/playlist.m3u8
+
+#EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
+http://90.188.227.251:4022/udp/233.7.70.31:5000
+
+#EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
+https://s04.watcher.uz/22/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjU2NTgyNjM3fQ.HdbB38SH334gdWdWE-14cxVbu_45rmWlp59lfu6TZ60:6
+
+#EXTINF:-1,beIN Sports 1 French HD 🇫🇷
+http://51.158.62.119:8000/play/a01z/index.m3u8
+
+#EXTINF:-1,Bein Sport 1 FR 🇫🇷
+http://w4.12all.tv:4000/play/bein1fr/index.m3u8
+
 #EXTINF:-1,beIN Sports 1 SD 🇶🇦
 http://51.158.62.119:8000/play/a022/index.m3u8
 
@@ -524,12 +554,6 @@ https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 
 #EXTINF:-1, POLSAT PREMIUM 1 HD 🇵🇱
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/27677.m3u8
-
-#EXTINF:-1,Polsat_Sport_Premium_PPV3 🇵🇱
-http://194.76.186.150:10005/play/Polsat_Sport_Premium_PPV3
-
-#EXTINF:-1,Polsat_Sport_Premium_PPV4 🇵🇱
-http://194.76.186.150:10005/play/Polsat_Sport_Premium_PPV4
 
 #EXTINF:-1, SPORT 1 🇮🇱
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38711
