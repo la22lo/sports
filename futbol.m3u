@@ -243,29 +243,23 @@ http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/90159
 #EXTINF:-1, BEIN SPORT 7 HD 🇶🇦
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/90160
 
-#EXTINF:-1,Eleven 1 🇵🇹
-http://the.rei-rio.xyz:8880/xx6BKcwg1Xjs1mB/ayKDYUTGWycARgL/1537
+#EXTINF:-1, Eleven 1 HD 🇵🇹
+http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4272.ts
 
-#EXTINF:-1,Eleven 2 🇵🇹
-http://the.rei-rio.xyz:8880/xx6BKcwg1Xjs1mB/ayKDYUTGWycARgL/1538
+#EXTINF:-1, Eleven Sports 5 🇵🇹
+http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4277.ts
 
-#EXTINF:-1,Eleven 3 🇵🇹
-http://the.rei-rio.xyz:8880/xx6BKcwg1Xjs1mB/ayKDYUTGWycARgL/1539
-
-#EXTINF:-1,Eleven 4 🇵🇹
-http://the.rei-rio.xyz:8880/xx6BKcwg1Xjs1mB/ayKDYUTGWycARgL/1540
-
-#EXTINF:-1,Eleven 5 🇵🇹
-http://the.rei-rio.xyz:8880/xx6BKcwg1Xjs1mB/ayKDYUTGWycARgL/1542
+#EXTINF:-1, Eleven 6 🇵🇹
+http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4275.ts
 
 #EXTINF:-1,SPORT.TV1 🇵🇹
 http://acsa.ws:80/668630/Aps8fQ/72332.ts
 
 #EXTINF:-1,SPORT.TV2 🇵🇹
-http://acsa.ws:80/668630/Aps8fQ/131176.ts
+http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4273.ts
 
 #EXTINF:-1,SPORT.TV3 🇵🇹
-http://acsa.ws:80/668630/Aps8fQ/131113.ts
+http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4274.ts
 
 #EXTINF:-1,SPORT.TV4 🇵🇹
 http://acsa.ws:80/668630/Aps8fQ/131188.ts
@@ -746,42 +740,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
-
-#EXTINF:-1, Eleven 1 HD
-http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4272.ts
-
-#EXTINF:-1, SPORTV 2 HD
-http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4273.ts
-
-#EXTINF:-1, SPORTV 3
-http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4274.ts
-
-#EXTINF:-1, Eleven Sports 5
-http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4277.ts
-
-#EXTINF:-1, Eleven 6
-http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4275.ts
-
-#EXTINF:-1, Sport TV 6 HD
-http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4271.ts
-
-#EXTINF:-1, Sport TV 5 HD
-http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4270.ts
-
-#EXTINF:-1, Sport TV 4
-http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4269.ts
-
-#EXTINF:-1, Sport TV 3
-http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4268.ts
-
-#EXTINF:-1, SPORT TV 3 HD
-http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4267.ts
-
-#EXTINF:-1, SPORT TV 2 HD
-http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4266.ts
-
-#EXTINF:-1, SPORT TV 1 HD
-http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4265.ts
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
