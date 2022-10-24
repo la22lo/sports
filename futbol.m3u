@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,beIN Sports 1 SD 🇶🇦
+http://51.158.62.119:8000/play/a022/index.m3u8
+
 #EXTINF:-1,ESPN + 🇺🇸
 http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35059.ts
 
@@ -195,6 +198,39 @@ http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/192757
 #EXTINF:-1, BEIN SPORTS PREMIUM 3HD 🇶🇦
 http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/192756
 
+#EXTINF:-1,beIN Sports 1 Premium HD 🇶🇦
+http://51.158.62.119:8000/play/a01t/index.m3u8
+
+#EXTINF:-1,beIN Sports 2 Premium HD 🇶🇦
+http://51.158.62.119:8000/play/a01u/index.m3u8
+
+#EXTINF:-1,beIN Sports 3 Premium HD 🇶🇦
+http://51.158.62.119:8000/play/a01v/index.m3u8
+
+#EXTINF:-1,beIN Sports HD 🇶🇦
+http://51.158.62.119:8000/play/a01m/index.m3u8
+
+#EXTINF:-1,beIN Sports 1 SD 🇶🇦
+http://51.158.62.119:8000/play/a022/index.m3u8
+
+#EXTINF:-1,beIN Sports 2 HD 🇶🇦
+http://51.158.62.119:8000/play/a01n/index.m3u8
+
+#EXTINF:-1,beIN Sports 3 HD 🇶🇦
+http://51.158.62.119:8000/play/a01o/index.m3u8
+
+#EXTINF:-1,beIN Sports 4 HD 🇶🇦
+http://51.158.62.119:8000/play/a01p/index.m3u8
+
+#EXTINF:-1,beIN Sports 5 HD 🇶🇦
+http://51.158.62.119:8000/play/a01q/index.m3u8
+
+#EXTINF:-1,beIN Sports 6 HD 🇶🇦
+http://51.158.62.119:8000/play/a01r/index.m3u8
+
+#EXTINF:-1,beIN Sports 7 HD 🇶🇦
+http://51.158.62.119:8000/play/a01s/index.m3u8
+
 #EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
@@ -249,27 +285,6 @@ http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/90159
 #EXTINF:-1, BEIN SPORT 7 HD 🇶🇦
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/90160
 
-#EXTINF:-1,BEIN SPORTS 1 HD 🇶🇦
-http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/1285
-
-#EXTINF:-1,BEIN SPORTS 2 HD 🇶🇦
-http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/1286
-
-#EXTINF:-1,BEIN SPORTS 3 HD 🇶🇦
-http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/1288
-
-#EXTINF:-1,BEIN SPORTS 4 HD 🇶🇦
-http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/1289
-
-#EXTINF:-1,BEIN SPORTS 5 HD 🇶🇦
-http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/1290
-
-#EXTINF:-1,BEIN SPORTS 6 HD 🇶🇦
-http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/1292
-
-#EXTINF:-1,BEIN SPORTS 7 HD 🇶🇦
-http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/1293
-
 #EXTINF:-1,Eleven 1 🇵🇹
 http://the.rei-rio.xyz:8880/xx6BKcwg1Xjs1mB/ayKDYUTGWycARgL/1537
 
@@ -300,8 +315,14 @@ http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95415
 #EXTINF:-1,SPORT.TV5 🇵🇹
 http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95416
 
-#EXTINF:-1,ES Bein Sports LaLiga 
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
+#EXTINF:-1,beIN Sports 1 French HD 🇫🇷
+http://51.158.62.119:8000/play/a01z/index.m3u8
+
+#EXTINF:-1,beIN Sports 2 French HD 🇫🇷
+http://51.158.62.119:8000/play/a020/index.m3u8
+
+#EXTINF:-1,beIN Sports 3 French HD 🇫🇷
+http://51.158.62.119:8000/play/a021/index.m3u8
 
 #EXTINF:-1,Bein Sport 1 FR 🇫🇷
 http://w4.12all.tv:4000/play/bein1fr/index.m3u8
@@ -332,6 +353,15 @@ http://51.178.65.238:80/RMC3/index.m3u8
 
 #EXTINF:-1, RMC Sports 4 🇫🇷
 http://51.178.65.238:80/RMC4/index.m3u8
+
+#EXTINF:-1,beIN Sports 1 English HD 🇬🇧
+http://51.158.62.119:8000/play/a01w/index.m3u8
+
+#EXTINF:-1,beIN Sports 2 English HD 🇬🇧
+http://51.158.62.119:8000/play/a01x/index.m3u8
+
+#EXTINF:-1,beIN Sports 3 English HD 🇬🇧
+http://51.158.62.119:8000/play/a01y/index.m3u8
 
 #EXTINF:-1, BEIN SPORT 3 🇬🇧
 http://102.222.232.18:9981/stream/channelid/2100170847?ticket=5CC008508EA4755ED1EF71AF84E018D45AD5E286&profile=matroska
@@ -746,57 +776,6 @@ http://tchaikovsky.af-stream.com:1600/s/na8i60tp/super-tennis-hd/video.m3u8
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
-
-#EXTINF:-1,beIN Sports 1 English HD
-http://51.158.62.119:8000/play/a01w/index.m3u8
-
-#EXTINF:-1,beIN Sports 2 English HD
-http://51.158.62.119:8000/play/a01x/index.m3u8
-
-#EXTINF:-1,beIN Sports 3 English HD
-http://51.158.62.119:8000/play/a01y/index.m3u8
-
-#EXTINF:-1,beIN Sports 1 French HD
-http://51.158.62.119:8000/play/a01z/index.m3u8
-
-#EXTINF:-1,beIN Sports 2 French HD
-http://51.158.62.119:8000/play/a020/index.m3u8
-
-#EXTINF:-1,beIN Sports 3 French HD
-http://51.158.62.119:8000/play/a021/index.m3u8
-
-#EXTINF:-1,beIN Sports 1 Premium HD
-http://51.158.62.119:8000/play/a01t/index.m3u8
-
-#EXTINF:-1,beIN Sports 2 Premium HD
-http://51.158.62.119:8000/play/a01u/index.m3u8
-
-#EXTINF:-1,beIN Sports 3 Premium HD
-http://51.158.62.119:8000/play/a01v/index.m3u8
-
-#EXTINF:-1,beIN Sports HD
-http://51.158.62.119:8000/play/a01m/index.m3u8
-
-#EXTINF:-1,beIN Sports 1 SD
-http://51.158.62.119:8000/play/a022/index.m3u8
-
-#EXTINF:-1,beIN Sports 2 HD
-http://51.158.62.119:8000/play/a01n/index.m3u8
-
-#EXTINF:-1,beIN Sports 3 HD
-http://51.158.62.119:8000/play/a01o/index.m3u8
-
-#EXTINF:-1,beIN Sports 4 HD
-http://51.158.62.119:8000/play/a01p/index.m3u8
-
-#EXTINF:-1,beIN Sports 5 HD
-http://51.158.62.119:8000/play/a01q/index.m3u8
-
-#EXTINF:-1,beIN Sports 6 HD
-http://51.158.62.119:8000/play/a01r/index.m3u8
-
-#EXTINF:-1,beIN Sports 7 HD
-http://51.158.62.119:8000/play/a01s/index.m3u8
 
 #EXTINF:-1,DigiSport
 http://193.33.39.108:38111/1013
