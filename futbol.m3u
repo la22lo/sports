@@ -210,6 +210,9 @@ http://51.158.62.119:8000/play/a01v/index.m3u8
 #EXTINF:-1,beIN Sports HD 🇶🇦
 http://51.158.62.119:8000/play/a01m/index.m3u8
 
+#EXTINF:-1,Bein Sports 🇶🇦
+http://175.107.244.52:4457/play/a070/index.m3u8
+
 #EXTINF:-1,beIN Sports 1 SD 🇶🇦
 http://51.158.62.119:8000/play/a022/index.m3u8
 
@@ -224,6 +227,9 @@ http://51.158.62.119:8000/play/a01p/index.m3u8
 
 #EXTINF:-1,beIN Sports 5 HD 🇶🇦
 http://51.158.62.119:8000/play/a01q/index.m3u8
+
+#EXTINF:-1,Bein Sports 5 Arabic 🇶🇦
+http://175.107.244.52:4457/play/a06y/index.m3u8
 
 #EXTINF:-1,beIN Sports 6 HD 🇶🇦
 http://51.158.62.119:8000/play/a01r/index.m3u8
@@ -360,8 +366,14 @@ http://51.158.62.119:8000/play/a01w/index.m3u8
 #EXTINF:-1,beIN Sports 2 English HD 🇬🇧
 http://51.158.62.119:8000/play/a01x/index.m3u8
 
+#EXTINF:-1,Bein Sports 2 eng 🇬🇧
+http://175.107.244.52:4457/play/a06z/index.m3u8
+
 #EXTINF:-1,beIN Sports 3 English HD 🇬🇧
 http://51.158.62.119:8000/play/a01y/index.m3u8
+
+#EXTINF:-1,Bein Sports 3 eng 🇬🇧
+http://175.107.244.52:4457/play/a06x/index.m3u8
 
 #EXTINF:-1, BEIN SPORT 3 🇬🇧
 http://102.222.232.18:9981/stream/channelid/2100170847?ticket=5CC008508EA4755ED1EF71AF84E018D45AD5E286&profile=matroska
@@ -798,17 +810,7 @@ http://188.173.213.166:25463/play/a04c/index.m3u8
 #EXTINF:-1,Prima Sport 4 HD
 http://188.173.213.166:25463/play/a053/index.m3u8
 
-#EXTINF:-1,Bein Sports (Ebravo)
-http://175.107.244.52:4457/play/a070/index.m3u8
 
-#EXTINF:-1,Bein Sports 2 (Ebravo)
-http://175.107.244.52:4457/play/a06z/index.m3u8
-
-#EXTINF:-1,Bein Sports 3 (Ebravo)
-http://175.107.244.52:4457/play/a06x/index.m3u8
-
-#EXTINF:-1,Bein Sports 3 Arabic (Ebravo)
-http://175.107.244.52:4457/play/a06y/index.m3u8
 
 #EXTINF:-1,nowsportt
 http://146.59.54.155:7070/play/a041/index.m3u8
