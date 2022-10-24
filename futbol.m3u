@@ -15,6 +15,12 @@ http://188.173.213.166:25463/play/a04b/index.m3u8
 #EXTINF:-1,Prima Sport 1 HD 🇷🇴
 http://188.173.213.166:25463/play/a04u/index.m3u8
 
+#EXTINF:-1, DIGISPORT 2 🇷🇴
+http://84.76.155.94:9981/stream/channelid/776502777?profile=pass
+
+#EXTINF:-1,MAX Sport 3 🇧🇬
+http://95.169.222.98:8800/udp/239.100.12.94:8888
+
 #EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
 http://213.172.73.170:8081/nimble_live/1065__Mat4_Futbol_2/playlist.m3u8
 
@@ -165,6 +171,12 @@ http://181.78.22.214:8000/play/a01w
 #EXTINF:-1, TV MAX 🇦🇷
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
 
+#EXTINF:-1, TELECOSTA 🇦🇷
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+
+#EXTINF:-1, WOW TV EL SALVADOR 
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
 #EXTINF:-1, RBM DEPORTES EN VIVO 2 🇦🇷
 https://P135@stmv.streamingvip.click/rbmtv2/rbmtv2/playlist.m3u8
 
@@ -276,6 +288,9 @@ http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4272.ts
 #EXTINF:-1, Eleven Sports 5 🇵🇹
 http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4277.ts
 
+#EXTINF:-1, Eleven Sports 5 🇵🇹
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
+
 #EXTINF:-1, Eleven 6 🇵🇹
 http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4275.ts
 
@@ -372,6 +387,18 @@ http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
 #EXTINF:-1,DigiSport 1 🇷🇴
 http://193.33.39.108:38111/1013
 
+#EXTINF:-1, DIGISPORT 1 🇷🇴
+http://84.76.155.94:9981/stream/channelid/669864823?profile=pass
+
+#EXTINF:-1, DIGISPORT 2 🇷🇴
+http://84.76.155.94:9981/stream/channelid/776502777?profile=pass
+
+#EXTINF:-1, DIGISPORT 3 🇷🇴
+http://84.76.155.94:9981/stream/channelid/2136662878?profile=pass
+
+#EXTINF:-1, DIGISPORT 4 🇷🇴
+http://84.76.155.94:9981/stream/channelid/910355688?profile=pass
+
 #EXTINF:-1,Orange Sport 1 HD 🇷🇴
 http://188.173.213.166:25463/play/a051/index.m3u8
 
@@ -393,17 +420,29 @@ http://188.173.213.166:25463/play/a053/index.m3u8
 #EXTINF:-1,Max sport 1 🇧🇬
 http://83.228.88.114:8000/play/a04c
 
+#EXTINF:-1,Max sport 1 🇧🇬
+http://95.169.222.98:8800/udp/239.100.12.96:8888
+
 #EXTINF:-1,MAX Sport 1 🇧🇬
 http://91.92.48.254:8000/play/a080
 
 #EXTINF:-1,MAX Sport 2 🇧🇬
 http://91.92.48.254:8000/play/a081
+
+#EXTINF:-1,MAX Sport 2 🇧🇬
+http://95.169.222.98:8800/udp/239.100.12.95:8888
  
 #EXTINF:-1,MAX Sport 3 🇧🇬
 http://91.92.48.254:8000/play/a00y
 
+#EXTINF:-1,MAX Sport 3 🇧🇬
+http://95.169.222.98:8800/udp/239.100.12.94:8888
+
 #EXTINF:-1,MAX Sport 4 HD 🇧🇬
 http://91.92.48.254:8000/play/a07q
+
+#EXTINF:-1,MAX Sport 4 HD 🇧🇬
+http://95.169.222.98:8800/udp/239.100.12.93:8888
 
 #EXTINF:-1,Diema Sport HD 🇧🇬
 http://91.92.48.254:8000/play/a00h1
