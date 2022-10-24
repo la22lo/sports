@@ -33,6 +33,15 @@ http://51.158.62.119:8000/play/a01z/index.m3u8
 #EXTINF:-1,Bein Sport 1 FR 🇫🇷
 http://w4.12all.tv:4000/play/bein1fr/index.m3u8
 
+#EXTINF:-1, LIGA DE CAMPEONES 🇪🇸
+http://86.127.254.124:9981/stream/channelid/346404591?profile=pass
+
+#EXTINF:-1, LIGA DE CAMPEONES 2 🇪🇸
+http://86.127.254.124:9981/stream/channelid/870251900?profile=pass
+
+#EXTINF:-1, LIGA DE CAMPEONES 3 🇪🇸
+http://86.127.254.124:9981/stream/channelid/1026904138?profile=pass
+
 #EXTINF:-1,beIN Sports 1 SD 🇶🇦
 http://51.158.62.119:8000/play/a022/index.m3u8
 
@@ -171,7 +180,7 @@ http://181.78.22.214:8000/play/a01w
 #EXTINF:-1, TV MAX 🇦🇷
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
 
-#EXTINF:-1, TELECOSTA 🇦🇷
+#EXTINF:-1, TELECOSTA GUATEMALA
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
 #EXTINF:-1, WOW TV EL SALVADOR 
@@ -188,6 +197,9 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 #EXTINF:-1, TUDN 🇲🇽
 http://54.39.19.162:8081/live/dream1/playlist.m3u8
+
+#EXTINF:-1, TUDN 🇲🇽
+http://190.61.102.67:31589/play/a08o/index.m3u8
 
 #EXTINF:-1,beIN Sports 1 Premium HD 🇶🇦
 http://51.158.62.119:8000/play/a01t/index.m3u8
@@ -707,6 +719,9 @@ https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
 #EXTINF:-1,PRENDETV LIGA MX 🇲🇽
 https://dip0m6wuccbi7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2d8j5h422463p-prod/dist/samsungtv/193/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1, TIGO SPORTS 🇲🇽
+http://190.61.102.67:31589/play/a08q/index.m3u8
 
 #EXTINF:-1,FUTHD 🇨🇷
 http://160.20.164.171:8001/play/a00x/index.m3u8
