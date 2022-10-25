@@ -825,5 +825,8 @@ http://za.cline.in:8888/DSTV/e6058f0643f14ba2beb5caab09b63ef6/mpegts
 #EXTINF:-1, SuperSport LaLiga FHD
 http://za.cline.in:8888/DSTV/bd8a8cfde918de877017f261e320bbd2/mpegts
 
+#EXTINF:-1, SuperSport Maximo 1 HD
+http://za.cline.in:8888/DSTV/2a43f46b632448ed85ae729f98fafb11/mpegts
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
