@@ -1,37 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1,beIN Sports 3 Premium HD 🇶🇦
-http://51.158.62.119:8000/play/a01v/index.m3u8
+#EXTINF:-1,МАТЧ Футбол 3 HD 🇷🇺
+http://213.172.73.171:8081/nimble_live/1159__Mat4_Futbol_3/playlist.m3u8
 
-#EXTINF:-1, BEIN SPORTS PREMIUM 3 HD 🇶🇦
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/117116
+#EXTINF:-1, MATH 🇷🇺
+https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+
+#EXTINF:-1, MATH HD 🇷🇺
+http://46.174.83.66/MatchTV/index.m3u8?
+
+#EXTINF:-1,beIN Sports 1 Premium HD 🇶🇦
+http://51.158.62.119:8000/play/a01t/index.m3u8
+
+#EXTINF:-1, BEIN SPORTS PREMIUM 1 SD 🇶🇦
+http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/101957
 
 #EXTINF:-1, SuperSport Maximo 1 HD 🇬🇧
 http://za.cline.in:8888/DSTV/2a43f46b632448ed85ae729f98fafb11/mpegts
 
-#EXTINF:-1,TRUE VISIONS
-https://bhls.sportsignalforsell.cc/playing/live/1000/chunks.m3u8
-
 #EXTINF:-1,DAZN 1 🇩🇪
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
-
-#EXTINF:-1,PRIMA SPORT 1 HD 🇷🇴
-http://188.173.213.166:25463/play/a04b/index.m3u8
-
-#EXTINF:-1,Prima Sport 1 HD 🇷🇴
-http://188.173.213.166:25463/play/a04u/index.m3u8
-
-#EXTINF:-1, DIGISPORT 2 🇷🇴
-http://84.76.155.94:9981/stream/channelid/776502777?profile=pass
-
-#EXTINF:-1,MAX Sport 3 🇧🇬
-http://95.169.222.98:8800/udp/239.100.12.94:8888
-
-#EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
-http://213.172.73.170:8081/nimble_live/1065__Mat4_Futbol_2/playlist.m3u8
-
-#EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
-http://90.188.227.251:4022/udp/233.7.70.31:5000
 
 #EXTINF:-1,beIN Sports 1 French HD 🇫🇷
 http://51.158.62.119:8000/play/a01z/index.m3u8
@@ -512,12 +500,6 @@ https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
-
-#EXTINF:-1, MATH 🇷🇺
-http://iptv.rpk-rost.ru:8080/hls/003/003.m3u8
-
-#EXTINF:-1, MATH 🇷🇺
-https://mhd158.iptv2022.com/p/mtRZOaX43unjknKq2rwVtQ,1660736180/streaming/matchott/324/1/video.m3u8
 
 #EXTINF:-1, MATH HD 🇷🇺
 http://46.174.83.66/MatchTV/index.m3u8?
