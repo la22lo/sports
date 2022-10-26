@@ -6,6 +6,9 @@ http://54.39.19.162:8081/live/dream1/playlist.m3u8
 #EXTINF:-1, TUDN 🇲🇽
 http://190.61.102.67:31589/play/a08o/index.m3u8
 
+#EXTINF:-1, ESPN 2 ECUADOR 🇪🇨
+http://200.24.132.99:8000/play/a01v
+
 #EXTINF:-1,МАТЧ Футбол 3 HD 🇷🇺
 http://213.172.73.171:8081/nimble_live/1159__Mat4_Futbol_3/playlist.m3u8
 
@@ -38,9 +41,6 @@ http://86.127.254.124:9981/stream/channelid/870251900?profile=pass
 
 #EXTINF:-1, LIGA DE CAMPEONES 3 🇪🇸
 http://86.127.254.124:9981/stream/channelid/1026904138?profile=pass
-
-#EXTINF:-1, ESPN 2 ECUADOR 🇪🇨
-http://200.24.132.99:8000/play/a01v
 
 #EXTINF:-1,beIN Sports 1 SD 🇶🇦
 http://51.158.62.119:8000/play/a022/index.m3u8
