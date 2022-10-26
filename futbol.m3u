@@ -1,9 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1, TUDN 🇲🇽
-http://54.39.19.162:8081/live/dream1/playlist.m3u8
-
-#EXTINF:-1, TUDN 🇲🇽
 http://190.61.102.67:31589/play/a08o/index.m3u8
 
 #EXTINF:-1, ESPN COLOMBIA 🇨🇴
