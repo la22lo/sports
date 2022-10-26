@@ -9,6 +9,9 @@ http://200.24.132.99:8000/play/a02m
 #EXTINF:-1, ESPN ECUADOR 🇪🇨
 http://200.24.132.99:8000/play/a022
 
+#EXTINF:-1, ESPN PERU 🇪🇨
+http://181.176.148.142:8000/play/a02d
+
 #EXTINF:-1, ESPN 2 ECUADOR 🇪🇨
 http://200.24.132.99:8000/play/a01v
 
@@ -23,6 +26,9 @@ https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
 #EXTINF:-1, MATH HD 🇷🇺
 http://46.174.83.66/MatchTV/index.m3u8?
+
+#EXTINF:-1, FOX SPORT 3 ECUADOR 🇪🇨
+http://200.24.132.99:8000/play/a029
 
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2532/index.m3u8
