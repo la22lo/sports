@@ -1,28 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, TUDN 🇲🇽
-http://190.61.102.67:31589/play/a08o/index.m3u8
-
-
-
-#EXTINF:-1,МАТЧ Футбол 3 HD 🇷🇺
-http://213.172.73.171:8081/nimble_live/1159__Mat4_Futbol_3/playlist.m3u8
-
-#EXTINF:-1,МАТЧ Футбол 3 HD 🇷🇺
-http://cdntv.online/high/ck5rbnte4y/57.m3u8
-
-#EXTINF:-1,HRT2 🇭🇷
-http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
-
-#EXTINF:-1, MATH 🇷🇺
-https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
-
-#EXTINF:-1, MATH HD 🇷🇺
-http://46.174.83.66/MatchTV/index.m3u8?
-
-#EXTINF:-1, FOX SPORT 3 ECUADOR 🇪🇨
-http://200.24.132.99:8000/play/a029
-
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2532/index.m3u8
 
@@ -820,6 +797,9 @@ http://181.176.148.142:8000/play/a02d
 
 #EXTINF:-1, ESPN 2 ECUADOR 🇪🇨
 http://200.24.132.99:8000/play/a01v
+
+#EXTINF:-1, FOX SPORT 3 ECUADOR 🇪🇨
+http://200.24.132.99:8000/play/a029
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
