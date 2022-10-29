@@ -3,17 +3,7 @@
 #EXTINF:-1, TUDN 🇲🇽
 http://190.61.102.67:31589/play/a08o/index.m3u8
 
-#EXTINF:-1, ESPN COLOMBIA 🇨🇴
-http://200.24.132.99:8000/play/a02m
 
-#EXTINF:-1, ESPN ECUADOR 🇪🇨
-http://200.24.132.99:8000/play/a022
-
-#EXTINF:-1, ESPN PERU 🇵🇪
-http://181.176.148.142:8000/play/a02d
-
-#EXTINF:-1, ESPN 2 ECUADOR 🇪🇨
-http://200.24.132.99:8000/play/a01v
 
 #EXTINF:-1,МАТЧ Футбол 3 HD 🇷🇺
 http://213.172.73.171:8081/nimble_live/1159__Mat4_Futbol_3/playlist.m3u8
@@ -818,6 +808,18 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, ESPN COLOMBIA 🇨🇴
+http://200.24.132.99:8000/play/a02m
+
+#EXTINF:-1, ESPN ECUADOR 🇪🇨
+http://200.24.132.99:8000/play/a022
+
+#EXTINF:-1, ESPN PERU 🇵🇪
+http://181.176.148.142:8000/play/a02d
+
+#EXTINF:-1, ESPN 2 ECUADOR 🇪🇨
+http://200.24.132.99:8000/play/a01v
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
