@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, MADRID
+https://P135@d1vxtsswxjd6uf.cloudfront.net/130e4e31-3ea6-4c50-ba00-53caf7858caa/manifest.m3u8
+
 #EXTINF:-1, ESPN 2 ECUADOR 🇪🇨
 http://200.24.132.99:8000/play/a01v
 
