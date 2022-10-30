@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1, DIRECTV Sports 🇦🇷
-https://bit.ly/3S65do3
+#EXTINF:-1, ESPN 2 ECUADOR 🇪🇨
+http://200.24.132.99:8000/play/a01v
 
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2532/index.m3u8
@@ -785,6 +785,9 @@ http://200.24.132.99:8000/play/a01v
 
 #EXTINF:-1, FOX SPORT 3 ECUADOR 🇪🇨
 http://200.24.132.99:8000/play/a029
+
+#EXTINF:-1, DIRECTV Sports 🇦🇷
+https://bit.ly/3S65do3
 
 #EXTINF:-1, LIGA DE CAMPEONES 🇪🇸
 http://86.127.254.124:9981/stream/channelid/346404591?profile=pass
