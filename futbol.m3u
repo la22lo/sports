@@ -12,6 +12,9 @@ https://qiniu.dlivecdn.com/dlive/transcode-77-7/navidadroja/1666906469/src/live.
 #EXTINF:-1, ESPN 2 ECUADOR 🇪🇨
 http://200.24.132.99:8000/play/a01v
 
+#EXTINF:-1, ESPN 2 LATINO 🇪🇨
+http://200.24.132.99:8000/play/a021
+
 #EXTINF:-1, TIGO SPORTS 🇲🇽
 http://190.61.102.67:31589/play/a08q/index.m3u8
 
