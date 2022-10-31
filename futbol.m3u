@@ -22,6 +22,12 @@ http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/90154
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/101933
 
 #EXTINF:-1, Eleven 1 HD 🇵🇹
+http://login.boxlion.nl:80/live/Cinegold569/9gsGrbWDDLfdg498/14548.ts
+
+#EXTINF:-1, Eleven 1 HD 🇵🇹
+http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/925.ts
+
+#EXTINF:-1, Eleven 1 HD 🇵🇹
 http://venomtt.com:8000/kdcxxD1U/543545/22520
 
 #EXTINF:-1, Eleven 1 HD 🇵🇹
@@ -41,6 +47,9 @@ http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
 
 #EXTINF:-1,Беларусь 5 HD 🇧🇾
 http://86.57.225.245:7002/play/a00k
+
+#EXTINF:-1, Eleven 2 HD 🇵🇹
+http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/923.ts
 
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2532/index.m3u8
@@ -337,19 +346,10 @@ http://51.178.65.238:80/RMC3/index.m3u8
 http://51.178.65.238:80/RMC4/index.m3u8
 
 #EXTINF:-1,beIN Sports 1 English HD 🇬🇧
-http://51.158.62.119:8000/play/a01w/index.m3u8
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548627.ts
 
-#EXTINF:-1,beIN Sports 2 English HD 🇬🇧
-http://51.158.62.119:8000/play/a01x/index.m3u8
-
-#EXTINF:-1,Bein Sports 2 eng 🇬🇧
-http://175.107.244.52:4457/play/a06z/index.m3u8
-
-#EXTINF:-1,beIN Sports 3 English HD 🇬🇧
-http://51.158.62.119:8000/play/a01y/index.m3u8
-
-#EXTINF:-1,Bein Sports 3 eng 🇬🇧
-http://175.107.244.52:4457/play/a06x/index.m3u8
+#EXTINF:-1,beIN Sports 1 English HD 🇬🇧
+http://teeveetv.one:2052/live/syntax/MKlaiuUcj2/191858.ts
 
 #EXTINF:-1, BEIN SPORT 3 🇬🇧
 http://102.222.232.18:9981/stream/channelid/2100170847?ticket=5CC008508EA4755ED1EF71AF84E018D45AD5E286&profile=matroska
