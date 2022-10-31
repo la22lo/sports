@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, CANAL SPORT 10
-https://P135@stmv.streamingvip.click/rbmtv2/rbmtv2/chunklist_w1845201388.m3u8
-
 #EXTINF:-1, DAZN LALIGA 🇪🇸
 https://fl.vimm.tv/hls/brokendeejay_source/index.m3u8
 
@@ -167,6 +164,9 @@ https://P135@stmv.streamingvip.click/rbmtv2/rbmtv2/playlist.m3u8
 
 #EXTINF:-1, RBM DEPORTES EN VIVO 2 🇦🇷
 https://P135@stmv.streamingvip.click:443/rbmtv2/rbmtv2/chunklist_w1985099180.m3u8
+
+#EXTINF:-1, CANAL SPORT 10 🇦🇷
+https://P135@stmv.streamingvip.click/rbmtv2/rbmtv2/chunklist_w1845201388.m3u8
 
 #EXTINF:-1, TNT SPORTS 🇧🇷
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
