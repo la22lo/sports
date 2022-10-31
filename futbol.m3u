@@ -933,5 +933,101 @@ http://37.235.38.139:4000/play/a0c7
 #EXTINF:-1,INFOSPORT+
 http://37.235.38.139:4000/play/a00n
 
+#EXTINF:-1, ESPN 2
+http://45.232.177.17:8000/play/a007
+
+#EXTINF:-1,ESPN 2
+http://201.219.223.101:46000/play/a015
+
+#EXTINF:-1,ESPN 3
+http://201.219.223.101:46000/play/a02a
+
+#EXTINF:-1,ESPN CO
+http://201.219.223.101:46000/play/a03f
+
+#EXTINF:-1,Fox Sports 2
+http://201.219.223.101:46000/play/a03s
+
+#EXTINF:-1,Fox Sports 3
+http://201.219.223.101:46000/play/a03t
+
+#EXTINF:-1,ESPN 2 HD
+http://200.116.232.66:8000/play/a045
+
+#EXTINF:-1,ESPN 3 HD
+http://200.116.232.66:8000/play/a04c
+
+#EXTINF:-1,ESPN 4 HD
+http://200.116.232.66:8000/play/a04p
+
+#EXTINF:-1,ESPN EXTRA HD
+http://200.116.232.66:8000/play/a04y
+
+#EXTINF:-1,ESPN HD
+http://200.116.232.66:8000/play/a054
+
+#EXTINF:-1,Fox Sports 1 HD
+http://200.116.232.66:8000/play/a05a
+
+#EXTINF:-1,Fox Sports 3 HD
+http://200.116.232.66:8000/play/a04d
+
+#EXTINF:-1,ESPN
+http://200.110.169.237:8202/play/a01n
+
+#EXTINF:-1,ESPN 2
+http://200.110.169.237:8202/play/a031
+
+#EXTINF:-1,ESPN 2 Latin
+http://200.110.169.237:8202/play/a01m
+
+#EXTINF:-1,ESPN 3
+http://200.110.169.237:8202/play/a02f
+
+#EXTINF:-1,ESPN CO
+http://200.110.169.237:8202/play/a03h
+
+#EXTINF:-1,Fox Sports 2
+http://200.110.169.237:8202/play/a01w
+
+#EXTINF:-1,Fox Sports 3
+http://200.110.169.237:8202/play/a01x
+
+#EXTINF:-1,DAZN 1 HD
+http://194.76.186.59:8000/play/a05h
+
+#EXTINF:-1, M+LaLigaTVHD
+http://194.76.186.59:8000/play/a009
+
+#EXTINF:-1,PRIMA SPORT 1 HD
+http://193.106.124.204:5000/play/a01q
+
+#EXTINF:-1,PRIMA SPORT 2
+http://193.106.124.204:5000/play/a01f
+
+#EXTINF:-1,PRIMA SPORT 3 HD
+http://193.106.124.204:5000/play/a01r
+
+#EXTINF:-1,ESPN
+http://190.43.232.244:8000/play/a09i/index.m3u8
+
+#EXTINF:-1,ESPN 2 Latin
+http://190.43.232.244:8000/play/a09h/index.m3u8
+
+#EXTINF:-1,ESPN 3
+http://190.43.232.244:8000/play/a08k/index.m3u8
+
+#EXTINF:-1,ESPN 4
+http://190.43.232.244:8000/play/a07w/index.m3u8
+
+#EXTINF:-1,ESPN 4 HD
+http://190.43.232.244:8000/play/a06w/index.m3u8
+
+#EXTINF:-1,ESPN EXTRA HD
+http://190.43.232.244:8000/play/a076/index.m3u8
+
+#EXTINF:-1,ESPN HD
+http://190.43.232.244:8000/play/a068/index.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
