@@ -508,43 +508,25 @@ http://188.173.213.166:25463/play/a04c/index.m3u8
 http://188.173.213.166:25463/play/a053/index.m3u8
 
 #EXTINF:-1,Max sport 1 🇧🇬
-http://83.228.88.114:8000/play/a04c
-
-#EXTINF:-1,Max sport 1 🇧🇬
-http://95.169.222.98:8800/udp/239.100.12.96:8888
-
-#EXTINF:-1,MAX Sport 1 🇧🇬
-http://91.92.48.254:8000/play/a080
+http://78.83.191.18:8000/play/a073
 
 #EXTINF:-1,MAX Sport 2 🇧🇬
-http://91.92.48.254:8000/play/a081
-
-#EXTINF:-1,MAX Sport 2 🇧🇬
-http://95.169.222.98:8800/udp/239.100.12.95:8888
- 
-#EXTINF:-1,MAX Sport 3 🇧🇬
-http://91.92.48.254:8000/play/a00y
+http://78.83.191.18:8000/play/a074
 
 #EXTINF:-1,MAX Sport 3 🇧🇬
-http://95.169.222.98:8800/udp/239.100.12.94:8888
+http://78.83.191.18:8000/play/a075
 
 #EXTINF:-1,MAX Sport 4 HD 🇧🇬
-http://91.92.48.254:8000/play/a07q
-
-#EXTINF:-1,MAX Sport 4 HD 🇧🇬
-http://95.169.222.98:8800/udp/239.100.12.93:8888
-
-#EXTINF:-1,Diema Sport HD 🇧🇬
-http://91.92.48.254:8000/play/a00h1
+http://78.83.191.18:8000/play/a07f
 
 #EXTINF:-1, Diema Sport 🇧🇬
-http://95.169.222.98:8800/udp/239.100.12.99:8888
+http://78.83.191.18:8000/play/a076
 
 #EXTINF:-1, Diema Sport 2 🇧🇬
-http://95.169.222.98:8800/udp/239.100.12.90:8888
+http://78.83.191.18:8000/play/a077
 
-#EXTINF:-1, Diema Sport 3 🇧🇬
-http://95.169.222.98:8800/udp/239.100.12.97:8888
+#EXTINF:-1,180_Nova Sport 🇧🇬
+http://78.83.191.18:8000/play/a04a
 
 #EXTINF:-1, NOVA SPORT 3HD 🇧🇬
 http://84.42.140.147:8890/hdmi
