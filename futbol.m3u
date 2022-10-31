@@ -909,5 +909,29 @@ http://86.127.254.124:9981/stream/channelid/1026904138?profile=pass
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
+#EXTINF:-1,BEIN SPORTS 1L
+http://37.235.38.139:4000/play/a054
+
+#EXTINF:-1,BEIN SPORTS 2
+http://37.235.38.139:4000/play/a0cc
+
+#EXTINF:-1,BEIN SPORTS 3 red
+http://37.235.38.139:4000/play/a056
+
+#EXTINF:-1,CANAL+FOOT
+http://37.235.38.139:4000/play/a0de
+
+#EXTINF:-1,CANAL+SPORT
+http://37.235.38.139:4000/play/a0db
+
+#EXTINF:-1,CANAL+SPORT360
+http://37.235.38.139:4000/play/a0di
+
+#EXTINF:-1,Eleven Sports Pro League 1 FR
+http://37.235.38.139:4000/play/a0c7
+
+#EXTINF:-1,INFOSPORT+
+http://37.235.38.139:4000/play/a00n
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
