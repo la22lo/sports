@@ -900,24 +900,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, ESPN COLOMBIA 🇨🇴
-http://200.24.132.99:8000/play/a02m
-
-#EXTINF:-1, ESPN ECUADOR 🇪🇨
-http://200.24.132.99:8000/play/a022
-
-#EXTINF:-1, ESPN PERU 🇵🇪
-http://181.176.148.142:8000/play/a02d
-
-#EXTINF:-1, ESPN 2 ECUADOR 🇪🇨
-http://200.24.132.99:8000/play/a01v
-
-#EXTINF:-1, FOX SPORT 3 ECUADOR 🇪🇨
-http://200.24.132.99:8000/play/a029
-
-#EXTINF:-1, DIRECTV Sports 🇦🇷
-https://bit.ly/3S65do3
-
 #EXTINF:-1, LIGA DE CAMPEONES 🇪🇸
 http://86.127.254.124:9981/stream/channelid/346404591?profile=pass
 
@@ -926,6 +908,15 @@ http://86.127.254.124:9981/stream/channelid/870251900?profile=pass
 
 #EXTINF:-1, LIGA DE CAMPEONES 3 🇪🇸
 http://86.127.254.124:9981/stream/channelid/1026904138?profile=pass
+
+#EXTINF:-1, ESPN COLOMBIA 🇨🇴
+http://200.24.132.99:8000/play/a02m
+
+#EXTINF:-1, ESPN ECUADOR 🇪🇨
+http://200.24.132.99:8000/play/a022
+
+#EXTINF:-1, ESPN PERU 🇵🇪
+http://181.176.148.142:8000/play/a02d
 
 #EXTINF:-1,ESPN 🇦🇷
 http://200.110.169.237:8202/play/a01n
@@ -941,6 +932,9 @@ http://201.219.223.101:46000/play/a03f
 
 #EXTINF:-1,ESPN 🇨🇴
 http://200.110.169.237:8202/play/a03h
+
+#EXTINF:-1, ESPN 2 ECUADOR 🇪🇨
+http://200.24.132.99:8000/play/a01v
 
 #EXTINF:-1,ESPN 2 Latin 🇦🇷
 http://200.110.169.237:8202/play/a01m
@@ -986,6 +980,12 @@ http://200.110.169.237:8202/play/a01x
 
 #EXTINF:-1,Fox Sports 3 🇦🇷
 http://201.219.223.101:46000/play/a03t
+
+#EXTINF:-1, FOX SPORT 3 ECUADOR 🇪🇨
+http://200.24.132.99:8000/play/a029
+
+#EXTINF:-1, DIRECTV Sports 🇦🇷
+https://bit.ly/3S65do3
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
