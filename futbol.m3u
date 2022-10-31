@@ -615,6 +615,15 @@ http://185.23.80.26:8080/lb/START/video.m3u8?token1=c18b404b3150d2e216835a280103
 #EXTINF:-1,Беларусь 5 HD 🇧🇾
 http://86.57.225.245:7002/play/a00k
 
+#EXTINF:-1, CBC SPORT  🇦🇿
+http://135.125.234.9:8081/cbcsport/index.m3u8
+
+#EXTINF:-1, CBC SPORT 🇦🇿
+http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/290202
+
+#EXTINF:-1, CBC SPORT 🇦🇿
+http://185.236.229.31:9981/play/a056
+
 #EXTINF:-1, SB SPORT 3
 http://vtsstr4.tv24.vn:1935/live/btv5_HD_new.smil/playlist.m3u8
 
