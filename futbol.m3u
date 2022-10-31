@@ -60,6 +60,9 @@ http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/90154
 #EXTINF:-1, BEIN SPORT 1 SD 🇶🇦
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/101933
 
+#EXTINF:-1, ELEVEN SPORT 1 🇵🇹
+http://213.13.19.35/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4272.ts
 
@@ -74,9 +77,6 @@ http://venomtt.com:8000/kdcxxD1U/543545/22520
 
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2531/index.m3u8
-
-#EXTINF:-1, Eleven 1 HD 🇵🇹
-http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/13050
 
 #EXTINF:-1,DAZN 2 🇩🇪
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sl4PR2-6eZEHuOmWnlPbYOc
@@ -96,6 +96,9 @@ http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
 #EXTINF:-1,Беларусь 5 HD 🇧🇾
 http://86.57.225.245:7002/play/a00k
 
+#EXTINF:-1, ELEVEN SPORT 2 🇵🇹
+http://213.13.19.35/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4273.ts
 
@@ -107,9 +110,6 @@ http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2532/index.m3u8
 
 #EXTINF:-1, Eleven 2 🇵🇹
 http://venomtt.com:8000/kdcxxD1U/543545/22519
-
-#EXTINF:-1, Eleven 2 🇵🇹
-http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/13051
 
 #EXTINF:-1, DAZN LALIGA 🇪🇸
 http://w4.12all.tv:4000/play/beinlaliga/index.m3u8
