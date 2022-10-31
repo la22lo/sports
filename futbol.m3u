@@ -615,9 +615,6 @@ http://185.23.80.26:8080/lb/START/video.m3u8?token1=c18b404b3150d2e216835a280103
 #EXTINF:-1,Беларусь 5 HD 🇧🇾
 http://86.57.225.245:7002/play/a00k
 
-#EXTINF:-1, CBC SPORT 🇦🇿
-http://65.21.196.155/azerbaijan/cbc_sport2/playlist.m3u8
-
 #EXTINF:-1, SB SPORT 3
 http://vtsstr4.tv24.vn:1935/live/btv5_HD_new.smil/playlist.m3u8
 
