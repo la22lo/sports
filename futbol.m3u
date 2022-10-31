@@ -6,6 +6,21 @@ http://200.24.132.99:8000/play/a01v
 #EXTINF:-1, ESPN 2 LATINO 🇪🇨
 http://200.24.132.99:8000/play/a021
 
+#EXTINF:-1,ESPN 2 Latin 🇦🇷
+http://200.110.169.237:8202/play/a01m
+
+#EXTINF:-1,ESPN 2 Latin 🇦🇷
+http://190.43.232.244:8000/play/a09h/index.m3u8
+
+#EXTINF:-1, ESPN 2 🇨🇱
+http://45.232.177.17:8000/play/a007
+
+#EXTINF:-1,ESPN 2 🇨🇱
+http://201.219.223.101:46000/play/a015
+
+#EXTINF:-1,ESPN 2 🇨🇱
+http://200.110.169.237:8202/play/a031
+
 #EXTINF:-1, TIGO SPORTS 🇲🇽
 http://190.61.102.67:31589/play/a08q/index.m3u8
 
@@ -912,12 +927,6 @@ http://37.235.38.139:4000/play/a0c7
 #EXTINF:-1,INFOSPORT+ 🇫🇷
 http://37.235.38.139:4000/play/a00n
 
-#EXTINF:-1, ESPN 2 🇨🇱
-http://45.232.177.17:8000/play/a007
-
-#EXTINF:-1,ESPN 2 🇨🇱
-http://201.219.223.101:46000/play/a015
-
 #EXTINF:-1,ESPN 3 🇨🇱
 http://201.219.223.101:46000/play/a02a
 
@@ -933,11 +942,20 @@ http://201.219.223.101:46000/play/a03t
 #EXTINF:-1,ESPN 🇦🇷
 http://200.110.169.237:8202/play/a01n
 
-#EXTINF:-1,ESPN 2 🇨🇱
-http://200.110.169.237:8202/play/a031
-
 #EXTINF:-1,ESPN 2 Latin 🇦🇷
 http://200.110.169.237:8202/play/a01m
+
+#EXTINF:-1,ESPN 2 Latin 🇦🇷
+http://190.43.232.244:8000/play/a09h/index.m3u8
+
+#EXTINF:-1, ESPN 2 🇨🇱
+http://45.232.177.17:8000/play/a007
+
+#EXTINF:-1,ESPN 2 🇨🇱
+http://201.219.223.101:46000/play/a015
+
+#EXTINF:-1,ESPN 2 🇨🇱
+http://200.110.169.237:8202/play/a031
 
 #EXTINF:-1,ESPN 3 🇨🇱
 http://200.110.169.237:8202/play/a02f
@@ -953,9 +971,6 @@ http://200.110.169.237:8202/play/a01x
 
 #EXTINF:-1,ESPN 🇦🇷
 http://190.43.232.244:8000/play/a09i/index.m3u8
-
-#EXTINF:-1,ESPN 2 Latin 🇦🇷
-http://190.43.232.244:8000/play/a09h/index.m3u8
 
 #EXTINF:-1,ESPN 3 🇦🇷
 http://190.43.232.244:8000/play/a08k/index.m3u8
