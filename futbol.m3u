@@ -369,18 +369,6 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 #EXTINF:-1, Eleven 6 🇵🇹
 http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4275.ts
 
-#EXTINF:-1,SPORT.TV1 🇵🇹
-http://acsa.ws:80/668630/Aps8fQ/72332.ts
-
-#EXTINF:-1,SPORT.TV2 🇵🇹
-http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4273.ts
-
-#EXTINF:-1,SPORT.TV3 🇵🇹
-http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4274.ts
-
-#EXTINF:-1,SPORT.TV4 🇵🇹
-http://acsa.ws:80/668630/Aps8fQ/131188.ts
-
 #EXTINF:-1,beIN Sports 1 French HD 🇫🇷
 http://51.158.62.119:8000/play/a01z/index.m3u8
 
