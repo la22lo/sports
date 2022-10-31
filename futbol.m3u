@@ -186,6 +186,9 @@ http://54.39.19.162:8081/live/dream1/playlist.m3u8
 #EXTINF:-1, TUDN 🇲🇽
 http://190.61.102.67:31589/play/a08o/index.m3u8
 
+#EXTINF:-1, TUDN 🇲🇽
+http://divine.ddns.me:8080/live/2oiazsCf5E/ZOSwbDzk2D/913.ts
+
 #EXTINF:-1, UNIVISION 🇲🇽
 http://190.61.102.67:8000/play/a05d
 
@@ -356,6 +359,33 @@ http://102.222.232.18:9981/stream/channelid/2100170847?ticket=5CC008508EA4755ED1
 
 #EXTINF:-1, BEIN SPORT 3 🇬🇧
 http://102.222.232.18:9981/stream/channelid/2100170847?ticket=206EE47921F25EE1A5AF97E218B33DA299AACA12&profile=matroska
+
+#EXTINF:-1, BT SPORT 1 🇬🇧
+http://divine.ddns.me:8080/live/2oiazsCf5E/ZOSwbDzk2D/2001.ts
+
+#EXTINF:-1, BT SPORT 2 🇬🇧
+http://divine.ddns.me:8080/live/2oiazsCf5E/ZOSwbDzk2D/2000.ts
+
+#EXTINF:-1, BT SPORT 3 🇬🇧
+http://divine.ddns.me:8080/live/2oiazsCf5E/ZOSwbDzk2D/1999.ts
+
+#EXTINF:-1, BT SPORT 4 🇬🇧
+http://divine.ddns.me:8080/live/2oiazsCf5E/ZOSwbDzk2D/1998.ts
+
+#EXTINF:-1, BT SPORT 1 🇬🇧
+http://login.boxlion.nl:80/live/Cinegold569/9gsGrbWDDLfdg498/13902.ts
+
+#EXTINF:-1, BT SPORT 1 🇬🇧
+http://teeveetv.one:2052/live/AnTuKdIreCts647479/VUF6kK3DnyPS/753794.ts
+
+#EXTINF:-1, BT SPORT 2 🇬🇧
+http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/992607.ts
+
+#EXTINF:-1, BT SPORT 3 🇬🇧
+http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/992608.ts
+
+#EXTINF:-1, BT SPORT 4 🇬🇧
+http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/992609.ts
 
 #EXTINF:-1, SUPER GRANDSTAND 🇬🇧
 http://185.145.43.244:8000/play/a008/index.m3u8
