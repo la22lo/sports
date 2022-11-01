@@ -475,6 +475,9 @@ http://37.235.38.139:4000/play/a0c7
 http://37.235.38.139:4000/play/a00n
 
 #EXTINF:-1,beIN Sports 1 English HD 🇬🇧
+http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347
+
+#EXTINF:-1,beIN Sports 1 English HD 🇬🇧
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548627.ts
 
 #EXTINF:-1,beIN Sports 1 English HD 🇬🇧
