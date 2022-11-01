@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, TVPLUS
+https://P135@duvtnu6g95502.cloudfront.net/214d0ed4-2fc7-41a9-8abd-20426fd8debd/manifest.m3u8
+
 #EXTINF:-1, ELEVEN SPORT 4 🇵🇹
 http://213.13.19.35/shls/LIVE$Eleven_Sports_4_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
