@@ -3,6 +3,21 @@
 #EXTINF:-1, TV MAX 🇦🇷
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
 
+#EXTINF:-1, ESPN COLOMBIA 🇨🇴
+http://200.24.132.99:8000/play/a02m
+
+#EXTINF:-1, ESPN ECUADOR 🇪🇨
+http://200.24.132.99:8000/play/a022
+
+#EXTINF:-1, ESPN PERU 🇵🇪
+http://181.176.148.142:8000/play/a02d
+
+#EXTINF:-1,ESPN 🇨🇴
+http://201.219.223.101:46000/play/a03f
+
+#EXTINF:-1,ESPN 🇨🇴
+http://200.110.169.237:8202/play/a03h
+
 #EXTINF:-1, ELEVEN SPORT 2 🇵🇹
 http://213.13.19.35/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
