@@ -429,6 +429,27 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 #EXTINF:-1, Eleven 6 🇵🇹
 http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4275.ts
 
+#EXTINF:-1, SPORT TV +HD 🇵🇹
+http://213.13.19.35/shls/LIVE$SPORTTV_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+
+#EXTINF:-1, SPORT TV 1HD 🇵🇹
+http://213.13.19.35/shls/LIVE$SPORTTV1_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+
+#EXTINF:-1, SPORT TV 2HD 🇵🇹
+http://213.13.19.35/shls/LIVE$SPORTTV2_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+
+#EXTINF:-1, SPORT TV 3HD 🇵🇹
+http://213.13.19.35/shls/LIVE$SPORTTV3_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+
+#EXTINF:-1, SPORT TV 4HD 🇵🇹
+http://213.13.19.35/shls/LIVE$SPORTTV4_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+
+#EXTINF:-1, SPORT TV 5HD 🇵🇹
+http://213.13.19.35/shls/LIVE$SPORTTV5_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+
+#EXTINF:-1, SPORT TV 6HD 🇵🇹
+http://213.13.19.35/shls/LIVE$SPORTTV6_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+
 #EXTINF:-1,beIN Sports 1 French HD 🇫🇷
 http://51.158.62.119:8000/play/a01z/index.m3u8
 
@@ -1028,27 +1049,6 @@ https://bit.ly/3S65do3
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
-
-#EXTINF:-1, SPORT TV +HD 
-http://213.13.19.35/shls/LIVE$SPORTTV_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1, SPORT TV 1HD 
-http://213.13.19.35/shls/LIVE$SPORTTV1_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1, SPORT TV 2HD 
-http://213.13.19.35/shls/LIVE$SPORTTV2_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1, SPORT TV 3HD 
-http://213.13.19.35/shls/LIVE$SPORTTV3_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1, SPORT TV 4HD 
-http://213.13.19.35/shls/LIVE$SPORTTV4_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1, SPORT TV 5HD 
-http://213.13.19.35/shls/LIVE$SPORTTV5_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1, SPORT TV 6HD 
-http://213.13.19.35/shls/LIVE$SPORTTV6_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
 #EXTINF:-1, MAX SPORT 1HD
 http://93.155.227.38:555/m3u8/webmtelsport_web.m3u8
