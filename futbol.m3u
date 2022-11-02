@@ -720,6 +720,15 @@ http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/290202
 #EXTINF:-1, SB SPORT 3
 http://vtsstr4.tv24.vn:1935/live/btv5_HD_new.smil/playlist.m3u8
 
+#EXTINF:-1, S1 SPORT HD
+http://194.163.179.246/slovenci/sport/sporttvhd.m3u8?
+
+#EXTINF:-1, S2 SPORT HD
+http://194.163.179.246/slovenci/sport/sporttv2hd.m3u8?
+
+#EXTINF:-1, S3 SPORT HD
+http://194.163.179.246/slovenci/sport/sporttv3hd.m3u8
+
 #EXTINF:-1, NOVA SPORTS START 🇬🇷
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-GjqT3a75ko46LKD1eben_
 
@@ -1061,27 +1070,6 @@ https://bit.ly/3S65do3
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
-
-#EXTINF:-1, SUPER SPORT 1HD
-http://130.0.24.6:2831/udp/228.50.50.61:30000
-
-#EXTINF:-1, SUPER SPORT 2HD
-http://130.0.24.6:2831/udp/228.50.50.62:30000
-
-#EXTINF:-1, SUPER SPORT 3HD
-http://130.0.24.6:2831/udp/228.50.50.63:30000
-
-#EXTINF:-1, SUPER SPORT 4HD
-http://130.0.24.6:2831/udp/228.50.50.64:30000
-
-#EXTINF:-1, S1 SPORT HD
-http://194.163.179.246/slovenci/sport/sporttvhd.m3u8?
-
-#EXTINF:-1, S2 SPORT HD
-http://194.163.179.246/slovenci/sport/sporttv2hd.m3u8?
-
-#EXTINF:-1, S3 SPORT HD
-http://194.163.179.246/slovenci/sport/sporttv3hd.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
