@@ -1,77 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, ESPN 2 🇦🇷
-https://qiniu.dlivecdn.com/dlive/transcode-77-7/navidadroja/1666906469/src/live.m3u8
-
-#EXTINF:-1, TV MAX 🇦🇷
-https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
-
-#EXTINF:-1, ESPN COLOMBIA 🇨🇴
-http://200.24.132.99:8000/play/a02m
-
-#EXTINF:-1, ESPN ECUADOR 🇪🇨
-http://200.24.132.99:8000/play/a022
-
-#EXTINF:-1, ESPN PERU 🇵🇪
-http://181.176.148.142:8000/play/a02d
-
-#EXTINF:-1,ESPN 🇨🇴
-http://201.219.223.101:46000/play/a03f
-
-#EXTINF:-1,ESPN 🇨🇴
-http://200.110.169.237:8202/play/a03h
-
-#EXTINF:-1, ELEVEN SPORT 2 🇵🇹
-http://213.13.19.35/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1, Eleven 2 HD 🇵🇹
-http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4273.ts
-
-#EXTINF:-1, BEIN SPORTS PREMIUM 1 HD 🇶🇦
-http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
-
-#EXTINF:-1,beIN Sports 1 Premium HD 🇶🇦
-http://51.158.62.119:8000/play/a01t/index.m3u8
-
-#EXTINF:-1, BEIN SPORTS PREMIUM 1 SD 🇶🇦
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/101957
-
-#EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
-http://213.172.73.170:8081/nimble_live/1111__Mat4_Futbol_1/playlist.m3u8
-
-#EXTINF:-1,DAZN 2 🇩🇪
-http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sl4PR2-6eZEHuOmWnlPbYOc
-
-#EXTINF:-1,DAZN 2 🇩🇪
-http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/2387
-
-#EXTINF:-1, DIGISPORT 1 🇷🇴
-http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/71457
-
-#EXTINF:-1, DIGISPORT 1 🇷🇴
-http://84.76.155.94:9981/stream/channelid/669864823?profile=pass
-
-#EXTINF:-1, ESPN 2 ECUADOR 🇪🇨
-http://200.24.132.99:8000/play/a01v
-
-#EXTINF:-1, ESPN 2 LATINO 🇪🇨
-http://200.24.132.99:8000/play/a021
-
-#EXTINF:-1,ESPN 2 Latin 🇦🇷
-http://200.110.169.237:8202/play/a01m
-
-#EXTINF:-1,ESPN 2 Latin 🇦🇷
-http://190.43.232.244:8000/play/a09h/index.m3u8
-
-#EXTINF:-1, ESPN 2 🇨🇱
-http://45.232.177.17:8000/play/a007
-
-#EXTINF:-1,ESPN 2 🇨🇱
-http://201.219.223.101:46000/play/a015
-
-#EXTINF:-1,ESPN 2 🇨🇱
-http://200.110.169.237:8202/play/a031
-
 #EXTINF:-1, TIGO SPORTS 🇲🇽
 http://190.61.102.67:31589/play/a08q/index.m3u8
 
@@ -1056,7 +984,7 @@ http://201.219.223.101:46000/play/a02a
 #EXTINF:-1,ESPN 3 🇦🇷
 http://190.43.232.244:8000/play/a08k/index.m3u8
 
-#EXTINF:-1, ESPN 3 🇦🇷
+#EXTINF:-1, ESPN 2 🇦🇷
 https://qiniu.dlivecdn.com/dlive/transcode-77-7/navidadroja/1666906469/src/live.m3u8
 
 #EXTINF:-1,ESPN 4 🇦🇷
