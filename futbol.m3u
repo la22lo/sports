@@ -612,6 +612,18 @@ http://78.83.191.18:8000/play/a075
 #EXTINF:-1,MAX Sport 4 HD 🇧🇬
 http://78.83.191.18:8000/play/a07f
 
+#EXTINF:-1, MAX SPORT 1HD 🇧🇬
+http://93.155.227.38:555/m3u8/webmtelsport_web.m3u8
+
+#EXTINF:-1, MAX SPORT 2HD 🇧🇬
+http://93.155.227.38:555/m3u8/webmtelsport2_web.m3u8
+
+#EXTINF:-1, MAX SPORT 3HD 🇧🇬
+http://93.155.227.38:555/m3u8/webmtelsport3_web.m3u8
+
+#EXTINF:-1, MAX SPORT 4HD 🇧🇬
+http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
+
 #EXTINF:-1, Diema Sport 🇧🇬
 http://78.83.191.18:8000/play/a076
 
@@ -1049,18 +1061,6 @@ https://bit.ly/3S65do3
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
-
-#EXTINF:-1, MAX SPORT 1HD
-http://93.155.227.38:555/m3u8/webmtelsport_web.m3u8
-
-#EXTINF:-1, MAX SPORT 2HD
-http://93.155.227.38:555/m3u8/webmtelsport2_web.m3u8
-
-#EXTINF:-1, MAX SPORT 3HD
-http://93.155.227.38:555/m3u8/webmtelsport3_web.m3u8
-
-#EXTINF:-1, MAX SPORT 4HD
-http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
