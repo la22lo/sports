@@ -1,19 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1, ESPN 3 🇦🇷
-https://qiniu.dlivecdn.com/dlive/transcode-77-7/navidadroja/1666906469/src/live.m3u8
+#EXTINF:-1, ELEVEN SPORT 2 🇵🇹
+http://213.13.19.35/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
-#EXTINF:-1, ELEVEN SPORT 4 🇵🇹
-http://213.13.19.35/shls/LIVE$Eleven_Sports_4_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+#EXTINF:-1, Eleven 2 HD 🇵🇹
+http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4273.ts
 
-#EXTINF:-1, BEIN SPORTS PREMIUM 3 HD 🇶🇦
-http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347
+#EXTINF:-1, BEIN SPORTS PREMIUM 1 HD 🇶🇦
+http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
 
-#EXTINF:-1, BEIN SPORTS PREMIUM 3 HD 🇶🇦
-http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/10015
+#EXTINF:-1,beIN Sports 1 Premium HD 🇶🇦
+http://51.158.62.119:8000/play/a01t/index.m3u8
 
-#EXTINF:-1, BEIN SPORTS PREMIUM 3 HD 🇶🇦
-http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/69.ts
+#EXTINF:-1, BEIN SPORTS PREMIUM 1 SD 🇶🇦
+http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/101957
 
 #EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
 http://213.172.73.170:8081/nimble_live/1065__Mat4_Futbol_2/playlist.m3u8
@@ -293,6 +293,12 @@ http://51.158.62.119:8000/play/a01u/index.m3u8
 
 #EXTINF:-1,beIN Sports 3 Premium HD 🇶🇦
 http://51.158.62.119:8000/play/a01v/index.m3u8
+
+#EXTINF:-1, BEIN SPORTS PREMIUM 3 HD 🇶🇦
+http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/10015
+
+#EXTINF:-1, BEIN SPORTS PREMIUM 3 HD 🇶🇦
+http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/69.ts
 
 #EXTINF:-1,beIN Sports HD 🇶🇦
 http://51.158.62.119:8000/play/a01m/index.m3u8
@@ -986,6 +992,9 @@ http://201.219.223.101:46000/play/a02a
 
 #EXTINF:-1,ESPN 3 🇦🇷
 http://190.43.232.244:8000/play/a08k/index.m3u8
+
+#EXTINF:-1, ESPN 3 🇦🇷
+https://qiniu.dlivecdn.com/dlive/transcode-77-7/navidadroja/1666906469/src/live.m3u8
 
 #EXTINF:-1,ESPN 4 🇦🇷
 http://190.43.232.244:8000/play/a07w/index.m3u8
