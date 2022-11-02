@@ -15,8 +15,8 @@ http://51.158.62.119:8000/play/a01t/index.m3u8
 #EXTINF:-1, BEIN SPORTS PREMIUM 1 SD 🇶🇦
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/101957
 
-#EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
-http://213.172.73.170:8081/nimble_live/1065__Mat4_Futbol_2/playlist.m3u8
+#EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
+http://213.172.73.170:8081/nimble_live/1111__Mat4_Futbol_1/playlist.m3u8
 
 #EXTINF:-1,DAZN 2 🇩🇪
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sl4PR2-6eZEHuOmWnlPbYOc
@@ -24,11 +24,11 @@ http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sl4PR2-6eZEHuOmWnlPbYOc
 #EXTINF:-1,DAZN 2 🇩🇪
 http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/2387
 
-#EXTINF:-1, DIGISPORT 4 🇷🇴
-http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/4219
+#EXTINF:-1, DIGISPORT 1 🇷🇴
+http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/71457
 
-#EXTINF:-1, DIGISPORT 4 🇷🇴
-http://84.76.155.94:9981/stream/channelid/910355688?profile=pass
+#EXTINF:-1, DIGISPORT 1 🇷🇴
+http://84.76.155.94:9981/stream/channelid/669864823?profile=pass
 
 #EXTINF:-1, ESPN 2 ECUADOR 🇪🇨
 http://200.24.132.99:8000/play/a01v
