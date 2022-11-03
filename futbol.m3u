@@ -456,25 +456,25 @@ http://135.125.234.9:8081/cbcsport/index.m3u8
 #EXTINF:-1, CBC SPORT  🇦🇿
 http://ru.iptv.monster/play/434/0519D3F69D972DB/video.m3u8
 
-#EXTINF:-1, QAZ SPORT 
+#EXTINF:-1, QAZ SPORT 🇰🇿
 http://ru.iptv.monster/play/463/0519D3F69D972DB/video.m3u8
 
-#EXTINF:-1, UZ SPORT 
+#EXTINF:-1, UZ SPORT 🇺🇿
 https://s04.watcher.uz/59/tracks-v1a1a2/mono.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NTYxNjgsImxvZ2luIjoiaGUtMjUyNTk0NSIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjYzMDkyNTM1fQ.kiKhT-gWF-11PivblJQjeKDWIRLHplSGdejtdizEWzQ%3A11
 
-#EXTINF:-1, TV3 SPORT LITUANIA
+#EXTINF:-1, TV3 SPORT LITUANIA 🇱🇹
 http://myott.top/stream/57RNNIDQBP/416.m3u8
 
 #EXTINF:-1, SB SPORT 3
 http://vtsstr4.tv24.vn:1935/live/btv5_HD_new.smil/playlist.m3u8
 
-#EXTINF:-1, S1 SPORT HD
+#EXTINF:-1, S1 SPORT HD 🇸🇰
 http://194.163.179.246/slovenci/sport/sporttvhd.m3u8?
 
-#EXTINF:-1, S2 SPORT HD
+#EXTINF:-1, S2 SPORT HD 🇸🇰
 http://194.163.179.246/slovenci/sport/sporttv2hd.m3u8?
 
-#EXTINF:-1, S3 SPORT HD
+#EXTINF:-1, S3 SPORT HD 🇸🇰
 http://194.163.179.246/slovenci/sport/sporttv3hd.m3u8
 
 #EXTINF:-1, NOVA SPORTS START 🇬🇷
@@ -825,20 +825,11 @@ https://s6.hopslan.com/zdfg1/index.m3u8
 #EXTINF:-1,ZDF 🇩🇪
 http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036582
 
+#EXTINF:-1, MOJA TV 🇧🇦
+http://ottbest.net/420628543187415/1701107290/74876
+
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
-
-#EXTINF:-1, SCTV - 22 🇻🇳
-https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv22
-
-#EXTINF:-1, MOJA TV
-http://smartntv.pro:25461/libertass/vrsUtNZC4YUtNv3fSFGDSsA/6563
-
-#EXTINF:-1, MOJA TV
-http://directtv1.xyz/live/Azsenca@Exch/fQHMRFaBSv6w/97737.m3u8
-
-#EXTINF:-1, MOJA TV
-http://ottbest.net/420628543187415/1701107290/74876
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
