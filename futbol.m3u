@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, TIGO SPORTS 🇲🇽
-http://190.61.102.67:31589/play/a08q/index.m3u8
-
 #EXTINF:-1, BEIN SPORT 1 🇶🇦
 http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/70.ts
 
@@ -770,6 +767,9 @@ http://200.24.132.99:8000/play/a029
 
 #EXTINF:-1, DIRECTV Sports 🇦🇷
 https://bit.ly/3S65do3
+
+#EXTINF:-1, TIGO SPORTS 🇲🇽
+http://190.61.102.67:31589/play/a08q/index.m3u8
 
 #EXTINF:-1,ZDF 🇩🇪
 https://s6.hopslan.com/zdfg1/index.m3u8
