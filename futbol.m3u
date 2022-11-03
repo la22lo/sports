@@ -831,5 +831,8 @@ http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C783
 #EXTINF:-1, SCTV - 22 🇻🇳
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv22
 
+#EXTINF:-1, MOJA TV
+http://smartntv.pro:25461/libertass/vrsUtNZC4YUtNv3fSFGDSsA/6563
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
