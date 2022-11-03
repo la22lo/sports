@@ -3,6 +3,15 @@
 #EXTINF:-1, MAX SPORT 4HD 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
+#EXTINF:-1, SCTV 17 🇻🇳
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv17
+
+#EXTINF:-1, SCTV 17 🇻🇳
+http://vtsstr4.sctv.vn:1935/live/SCTV17_HD_new.smil/CDAM.m3u8
+
+#EXTINF:-1, SCTV 17 🇻🇳
+https://vietanhtv.xyz/tv24.php?id=sctv17
+
 #EXTINF:-1,DAZN 1 🇩🇪
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
 
@@ -815,21 +824,6 @@ https://s6.hopslan.com/zdfg1/index.m3u8
 
 #EXTINF:-1,ZDF 🇩🇪
 http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036582
-
-#EXTINF:-1, SCTV 17 🇻🇳
-rtmpe://112.197.2.154:1935/live/sctv17_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/LiveTV/4/sctv_17.html token=1b#K8!3zc65ends!
-
-#EXTINF:-1, SCTV 17 🇻🇳
-https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv17
-
-#EXTINF:-1, SCTV 17 🇻🇳
-http://vtsstr4.sctv.vn:1935/live/SCTV17_HD_new.smil/CDAM.m3u8
-
-#EXTINF:-1, SCTV 17 🇻🇳
-https://vietanhtv.xyz/tv24.php?id=sctv17
-
-#EXTINF:-1, SCTV 🇻🇳
-http://210.210.155.35/session/e03ff19e-eed6-11ec-a7a0-c81f66f89318/qwr9ew/s/s03/index.m3u8
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
