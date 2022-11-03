@@ -834,5 +834,8 @@ https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv22
 #EXTINF:-1, MOJA TV
 http://smartntv.pro:25461/libertass/vrsUtNZC4YUtNv3fSFGDSsA/6563
 
+#EXTINF:-1, MOJA TV
+http://directtv1.xyz/live/Azsenca@Exch/fQHMRFaBSv6w/97737.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
