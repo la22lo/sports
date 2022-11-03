@@ -6,6 +6,9 @@ http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/70.ts
 #EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/90154
 
+#EXTINF:-1,DAZN 1 🇩🇪
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
+
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇹
 http://213.13.19.35/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
@@ -23,9 +26,6 @@ http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9esxppA5BEoox
 
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
 http://92.119.88.58:8080/270/index.m3u8
-
-#EXTINF:-1,DAZN 1 🇩🇪
-http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
 
 #EXTINF:-1,Беларусь 5 HD 🇧🇾
 http://86.57.225.245:7002/play/a00k
