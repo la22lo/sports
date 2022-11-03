@@ -6,9 +6,6 @@ http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/70.ts
 #EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/90154
 
-#EXTINF:-1, BEIN SPORT 1 SD 🇶🇦
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/101933
-
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇹
 http://213.13.19.35/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
@@ -185,6 +182,9 @@ http://93.152.174.144:4000/play/bein6ar/index.m3u8
 
 #EXTINF:-1, BEIN SPORT 7 HD 🇶🇦
 http://93.152.174.144:4000/play/bein7ar/index.m3u8
+
+#EXTINF:-1, BEIN SPORT PREMIUM 1 🇶🇦
+http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/101933
 
 #EXTINF:-1, BEIN SPORTS PREMIUM 2 HD 🇶🇦
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/101929
