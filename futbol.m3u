@@ -9,6 +9,9 @@ http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35059.ts
 #EXTINF:-1, TV2 SPORT PREMIUM 2 NO 🇳🇴
 http://line.365tv.xyz:8060/lucky/jfdnndsfs/115556
 
+#EXTINF:-1,ARENA SPORT 6 CRO 🇭🇷
+http://mat4k.com:8080/live/G7LEdAfEwc/En5QGza6NM/258124.ts
+
 #EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/90154
 
@@ -290,6 +293,21 @@ http://146.59.19.1/5031/mpegts
 
 #EXTINF:-1, TRING SPORT 2 🇦🇱
 http://146.59.19.1:80/5030/index.m3u8
+
+#EXTINF:-1,ARENA SPORT 1 CRO 🇭🇷
+http://mat4k.com:8080/live/G7LEdAfEwc/En5QGza6NM/258129.ts
+
+#EXTINF:-1,ARENA SPORT 2 CRO 🇭🇷
+http://mat4k.com:8080/live/G7LEdAfEwc/En5QGza6NM/258128.ts
+
+#EXTINF:-1,ARENA SPORT 3 CRO 🇭🇷
+http://mat4k.com:8080/live/G7LEdAfEwc/En5QGza6NM/258127.ts
+
+#EXTINF:-1,ARENA SPORT 5 CRO 🇭🇷
+http://mat4k.com:8080/live/G7LEdAfEwc/En5QGza6NM/258125.ts
+
+#EXTINF:-1,ARENA SPORT 6 CRO 🇭🇷
+http://mat4k.com:8080/live/G7LEdAfEwc/En5QGza6NM/258124.ts
 
 #EXTINF:-1,HRT2 🇭🇷
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
