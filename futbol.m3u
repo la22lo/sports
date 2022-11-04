@@ -7,13 +7,7 @@ http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35059.ts
 
 #EXTINF:-1, SCTV 17 🇻🇳
-https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv17
-
-#EXTINF:-1, SCTV 17 🇻🇳
 http://vtsstr4.sctv.vn:1935/live/SCTV17_HD_new.smil/CDAM.m3u8
-
-#EXTINF:-1, SCTV 17 🇻🇳
-https://vietanhtv.xyz/tv24.php?id=sctv17
 
 #EXTINF:-1,DAZN 1 🇩🇪
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
@@ -608,6 +602,12 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/16088
 
 #EXTINF:-1, ELEVEN 1 TW 🇹🇭
 http://198.16.64.10:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
+
+#EXTINF:-1, SCTV 17 🇻🇳
+https://vietanhtv.xyz/tv24.php?id=sctv17
+
+#EXTINF:-1, SCTV 17 🇻🇳
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv17
 
 #EXTINF:-1, TVRI SPORTS INDONESIA 🇮🇩
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
