@@ -9,6 +9,9 @@ http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35059.ts
 #EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/90154
 
+#EXTINF:-1, SCTV 15 🇻🇳
+http://vtsstr4.sctv.vn:1935/live/SCTV_HD_TheThao_new.smil/CDAM.m3u8
+
 #EXTINF:-1, SCTV 17 🇻🇳
 http://vtsstr4.sctv.vn:1935/live/SCTV17_HD_new.smil/CDAM.m3u8
 
@@ -66,9 +69,6 @@ http://92.119.88.58:8080/270/index.m3u8
 #EXTINF:-1,ESPN + 🇺🇸
 http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35059.ts
 
-#EXTINF:-1,ESPN 🇦🇷
-http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
-
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
 
@@ -77,18 +77,6 @@ http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
 
 #EXTINF:-1,DAZN 2 🇩🇪
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sl4PR2-6eZEHuOmWnlPbYOc
-
-#EXTINF:-1,ESPN 🇦🇷
-http://160.20.164.171:8001/play/a09c/index.m3u8
-
-#EXTINF:-1,ESPN 2 🇦🇷
-http://160.20.164.171:8001/play/a010/index.m3u8
-
-#EXTINF:-1,ESPN 3 HD 🇦🇷
-http://160.20.164.171:8001/play/a04l/index.m3u8
-
-#EXTINF:-1,ESPN Extra VIVO HD 🇦🇷
-http://160.20.164.171:8001/play/a00o/index.m3u8
 
 #EXTINF:-1, MMN HD SPORT 🇮🇶
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
@@ -117,20 +105,8 @@ http://190.60.37.69:8015/play/a037/index.m3u8
 #EXTINF:-1, ESPN DEPORTES 🇦🇷
 http://38.143.137.221:8000/LA81/index.m3u8
 
-#EXTINF:-1, FOX SPORTS 2 🇦🇷
-http://160.20.164.171:8001/play/a01d/index.m3u8
-
-#EXTINF:-1, FOX SPORTS 2 🇦🇷
-http://160.20.164.171:8001/play/a055/index.m3u8
-
-#EXTINF:-1, FOX SPORTS 3 🇦🇷
-http://160.20.164.171:8001/play/a011/index.m3u8
-
 #EXTINF:-1, FOX SPORTS 3 🇦🇷
 http://170.83.242.155:5350/play/a014
-
-#EXTINF:-1, FOX SPORTS 3 🇦🇷
-http://160.20.164.171:8001/play/a056/index.m3u8
 
 #EXTINF:-1, TV MAX 🇦🇷
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
@@ -168,30 +144,6 @@ http://175.107.244.52:4457/play/a070/index.m3u8
 #EXTINF:-1,Bein Sports 5 Arabic 🇶🇦
 http://175.107.244.52:4457/play/a06y/index.m3u8
 
-#EXTINF:-1,beIN Sports 6 HD 🇶🇦
-http://51.158.62.119:8000/play/a01r/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
-http://93.152.174.144:4000/play/bein1ar/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 2 HD 🇶🇦
-http://93.152.174.144:4000/play/bein2ar/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 3 HD 🇶🇦
-http://93.152.174.144:4000/play/bein3ar/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 4 HD 🇶🇦
-http://93.152.174.144:4000/play/bein4ar/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 5 HD 🇶🇦
-http://93.152.174.144:4000/play/bein5ar/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 6 HD 🇶🇦
-http://93.152.174.144:4000/play/bein6ar/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 7 HD 🇶🇦
-http://93.152.174.144:4000/play/bein7ar/index.m3u8
-
 #EXTINF:-1, BEIN SPORT PREMIUM 1 🇶🇦
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/101933
 
@@ -200,9 +152,6 @@ http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/101929
 
 #EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/90154
-
-#EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/101926
 
 #EXTINF:-1, BEIN SPORT 1 SD 🇶🇦
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/101933
@@ -393,9 +342,6 @@ http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 #EXTINF:-1, Nova Sport 🇧🇬
 http://78.83.191.18:8000/play/a04a
 
-#EXTINF:-1, NOVA SPORT 3HD 🇧🇬
-http://84.42.140.147:8890/hdmi
-
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
 
@@ -585,7 +531,7 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 #EXTINF:-1, SPOTV 1 🇮🇩
 https://bcovlive-a.akamaihd.net:443/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1653639471~exp=9007200908380462~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=bc671be8dc7fce56a5b0e5c31b3488be73621830bc48cba95c6c968364988ecf
 
-#EXTINF:-1,SPOTV 🇮🇩
+#EXTINF:-1,SPOTV 1 🇮🇩
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1650553339~exp=9007200905294330~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=03539604195d0d0f8533982d94a512fd5592f7a4a2ecca5608615ef2b0d3248d
 
 #EXTINF:-1, SPOTV 1 🇮🇩
