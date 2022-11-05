@@ -405,6 +405,12 @@ http://92.119.88.58:8080/271/index.m3u8
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
 http://92.119.88.58:8080/270/index.m3u8
 
+#EXTINF:-1,Setanta Sports 1 🇷🇺
+http://hez1-flu.iptvstream.site/158/index.m3u8
+
+#EXTINF:-1,Setanta Sports + 🇷🇺
+http://hez1-flu.iptvstream.site/160/index.m3u8
+
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
