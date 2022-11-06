@@ -138,6 +138,9 @@ http://38.143.137.221:8000/LA81/index.m3u8
 #EXTINF:-1, ESPN 3 🇦🇷
 http://38.143.137.221:8000/LA79/index.m3u8
 
+#EXTINF:-1, ESPN EXTRA 🇦🇷
+http://38.143.137.221:8000/LA78/index.m3u8
+
 #EXTINF:-1, FOX SPORTS 3 🇦🇷
 http://170.83.242.155:5350/play/a014
 
