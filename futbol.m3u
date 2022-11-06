@@ -285,6 +285,27 @@ http://213.13.19.35/shls/LIVE$SPORTTV5_HD/index.m3u8?device=ANDROID_Live&start=L
 #EXTINF:-1, SPORT TV 6HD 🇵🇹
 http://213.13.19.35/shls/LIVE$SPORTTV6_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
+#EXTINF:-1, SPORT TV +HD 🇵🇹
+http://skylogic.site:8080/test-af7e89/0f6c/1481
+
+#EXTINF:-1, SPORT TV 1HD 🇵🇹
+http://skylogic.site:8080/test-af7e89/0f6c/1483
+
+#EXTINF:-1, SPORT TV 2HD 🇵🇹
+http://skylogic.site:8080/test-af7e89/0f6c/1486
+
+#EXTINF:-1, SPORT TV 3HD 🇵🇹
+http://skylogic.site:8080/test-af7e89/0f6c/1489
+
+#EXTINF:-1, SPORT TV 4HD 🇵🇹
+http://skylogic.site:8080/test-af7e89/0f6c/1492
+
+#EXTINF:-1, SPORT TV 5HD 🇵🇹
+http://skylogic.site:8080/test-af7e89/0f6c/1495
+
+#EXTINF:-1, SPORT TV 6HD 🇵🇹
+http://skylogic.site:8080/test-af7e89/0f6c/281487
+
 #EXTINF:-1,Bein Sport 1 FR 🇫🇷
 http://w4.12all.tv:4000/play/bein1fr/index.m3u8
 
