@@ -6,6 +6,9 @@ http://213.13.19.35/shls/LIVE$Eleven_Sports_1_HD/index.m3u8/S!d2EMQU5EUk9JRF9MaX
 #EXTINF:-1, ELEVEN SPORT 2 🇵🇹
 http://213.13.19.35/shls/LIVE$Eleven_Sports_2_HD/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)?start=LIVE&end=END
 
+#EXTINF:-1, ELEVEN SPORT 2 🇵🇹
+http://213.13.19.35/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+
 #EXTINF:-1,ARENA SPORT 6 CRO 🇭🇷
 http://5.182.229.90:8080/7334/index.m3u8
 
