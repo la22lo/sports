@@ -27,6 +27,9 @@ http://51.79.82.208:16417
 #EXTINF:-1, MAX SPORT 4HD 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
+#EXTINF:-1,Беларусь 5 HD 🇧🇾
+http://86.57.225.245:7002/play/a00k
+
 #EXTINF:-1,ARENA SPORT 6 CRO 🇭🇷
 http://mat4k.com:8080/live/G7LEdAfEwc/En5QGza6NM/258124.ts
 
@@ -86,9 +89,6 @@ http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9esxppA5BEoox
 
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
 http://92.119.88.58:8080/270/index.m3u8
-
-#EXTINF:-1,Беларусь 5 HD 🇧🇾
-http://86.57.225.245:7002/play/a00k
 
 #EXTINF:-1, DAZN LALIGA 🇪🇸
 http://w4.12all.tv:4000/play/beinlaliga/index.m3u8
