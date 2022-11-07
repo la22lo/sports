@@ -21,6 +21,9 @@ http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
 #EXTINF:-1, BEIN SPORT PREMIUM 1 🇶🇦
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/101933
 
+#EXTINF:-1, ESPN 🇧🇷
+http://51.79.82.208:16417
+
 #EXTINF:-1, MAX SPORT 4HD 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
@@ -374,6 +377,9 @@ http://146.59.19.1/5031/mpegts
 
 #EXTINF:-1, TRING SPORT 2 🇦🇱
 http://146.59.19.1:80/5030/index.m3u8
+
+#EXTINF:-1, RTSH Sport 🇦🇱
+http://95.107.132.105/out/u/638_1.m3u8 
 
 #EXTINF:-1,ARENA SPORT 1 CRO 🇭🇷
 http://mat4k.com:8080/live/G7LEdAfEwc/En5QGza6NM/258129.ts
@@ -953,15 +959,6 @@ http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036582
 
 #EXTINF:-1, MOJA TV 🇧🇦
 http://ottbest.net/420628543187415/1701107290/74876
-
-#EXTINF:-1, ESPN
-http://51.79.82.208:16417
-
-#EXTINF:-1, RTSH Sport
-http://95.107.132.105/out/u/638_1.m3u8 
- 
-#EXTINF:-1, DUHOK SPORT
-http://duhoksport.badinan.xyz:1935/live/Duhok--Sports--HD/playlist.m3u8
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
