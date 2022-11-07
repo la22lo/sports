@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1,ESPN + 🇺🇸
+http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35059.ts
+
+#EXTINF:-1, ESPN DEPORTES 🇦🇷
+http://38.143.137.221:8000/LA81/index.m3u8
+
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇹
 http://213.13.19.35/shls/LIVE$Eleven_Sports_1_HD/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)?start=LIVE&end=END
 
@@ -26,12 +32,6 @@ http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
 #EXTINF:-1,ARENA SPORT 2 SER 🇷🇸
 http://platinumxmedia.xyz:8080/ivan/ivan/53445
-
-#EXTINF:-1,ESPN + 🇺🇸
-http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35059.ts
-
-#EXTINF:-1, ESPN DEPORTES 🇦🇷
-http://38.143.137.221:8000/LA81/index.m3u8
 
 #EXTINF:-1,ARENA SPORT 6 CRO 🇭🇷
 http://mat4k.com:8080/live/G7LEdAfEwc/En5QGza6NM/258124.ts
