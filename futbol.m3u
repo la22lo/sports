@@ -39,6 +39,9 @@ http://platinumxmedia.xyz:8080/ivan/ivan/53445
 #EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/90154
 
+#EXTINF:-1,DAZN 1 🇩🇪
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
+
 #EXTINF:-1, ELEVEN SPORT 2 🇵🇹
 http://213.13.19.35/shls/LIVE$Eleven_Sports_2_HD/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)?start=LIVE&end=END
 
@@ -56,9 +59,6 @@ http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2532/index.m3u8
 
 #EXTINF:-1, SCTV 17 🇻🇳
 http://vtsstr4.sctv.vn:1935/live/SCTV17_HD_new.smil/CDAM.m3u8
-
-#EXTINF:-1,DAZN 1 🇩🇪
-http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
 
 #EXTINF:-1, BEIN SPORT 1 🇶🇦
 http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/70.ts
