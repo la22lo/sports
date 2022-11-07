@@ -90,9 +90,6 @@ http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9esxppA5BEoox
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
 http://92.119.88.58:8080/270/index.m3u8
 
-#EXTINF:-1, DAZN LALIGA 🇪🇸
-http://w4.12all.tv:4000/play/beinlaliga/index.m3u8
-
 #EXTINF:-1, MTV INDIA 🇮🇳
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
 
@@ -327,27 +324,6 @@ http://w4.12all.tv:4000/play/bein2fr/index.m3u8
 #EXTINF:-1,Bein Sports 3 FR 🇫🇷
 http://w4.12all.tv:4000/play/bein3fr/index.m3u8
 
-#EXTINF:-1, beiN Sport 1 🇫🇷
-https://bit.ly/3CJeGf8
-
-#EXTINF:-1, beiN Sport 2 🇫🇷
-https://bit.ly/3eDDVHX
-
-#EXTINF:-1, beiN Sport 3 🇫🇷
-https://bit.ly/3EOTcQI
-
-#EXTINF:-1, RMC Sports 1 🇫🇷
-http://51.178.65.238:80/RMC1/index.m3u8
-
-#EXTINF:-1, RMC Sports 2 🇫🇷
-http://51.178.65.238:80/RMC2/index.m3u8
-
-#EXTINF:-1, RMC Sports 3 🇫🇷
-http://51.178.65.238:80/RMC3/index.m3u8
-
-#EXTINF:-1, RMC Sports 4 🇫🇷
-http://51.178.65.238:80/RMC4/index.m3u8
-
 #EXTINF:-1,Eleven Sports Pro League 1 🇫🇷
 http://37.235.38.139:4000/play/a0c7
 
@@ -369,32 +345,8 @@ http://102.222.232.18:9981/stream/channelid/2100170847?ticket=206EE47921F25EE1A5
 #EXTINF:-1, SUPER GRANDSTAND 🇬🇧
 http://185.145.43.244:8000/play/a008/index.m3u8
 
-#EXTINF:-1, TRING SPORT 1 🇦🇱
-http://146.59.19.1:80/5031/index.m3u8
-
-#EXTINF:-1,Tring Sport 1 HD 🇦🇱
-http://146.59.19.1/5031/mpegts
-
-#EXTINF:-1, TRING SPORT 2 🇦🇱
-http://146.59.19.1:80/5030/index.m3u8
-
 #EXTINF:-1, RTSH Sport 🇦🇱
 http://95.107.132.105/out/u/638_1.m3u8 
-
-#EXTINF:-1,ARENA SPORT 1 CRO 🇭🇷
-http://mat4k.com:8080/live/G7LEdAfEwc/En5QGza6NM/258129.ts
-
-#EXTINF:-1,ARENA SPORT 2 CRO 🇭🇷
-http://mat4k.com:8080/live/G7LEdAfEwc/En5QGza6NM/258128.ts
-
-#EXTINF:-1,ARENA SPORT 3 CRO 🇭🇷
-http://mat4k.com:8080/live/G7LEdAfEwc/En5QGza6NM/258127.ts
-
-#EXTINF:-1,ARENA SPORT 5 CRO 🇭🇷
-http://mat4k.com:8080/live/G7LEdAfEwc/En5QGza6NM/258125.ts
-
-#EXTINF:-1,ARENA SPORT 6 CRO 🇭🇷
-http://mat4k.com:8080/live/G7LEdAfEwc/En5QGza6NM/258124.ts
 
 #EXTINF:-1,ARENA SPORT 1 CRO 🇭🇷
 http://5.182.229.90:8080/7329/index.m3u8
@@ -788,6 +740,9 @@ http://ott-cdn.ucom.am/s4/04.m3u8
 
 #EXTINF:-1, PREMIUM ARMENIA TV 🇦🇲
 http://ott-cdn.ucom.am/s83/03.m3u8
+
+#EXTINF:-1, CBS SPORTS EEUU 🇺🇸
+http://5.182.229.90:8080/7324/index.m3u8
 
 #EXTINF:-1, DUBAI SPORTS 🇸🇦
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
