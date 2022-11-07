@@ -3,6 +3,15 @@
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇹
 http://213.13.19.35/shls/LIVE$Eleven_Sports_1_HD/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)?start=LIVE&end=END
 
+#EXTINF:-1, ELEVEN SPORT 1 🇵🇹
+http://213.13.19.35/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+
+#EXTINF:-1, BEIN SPORTS PREMIUM 1 HD 🇶🇦
+http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
+
+#EXTINF:-1, BEIN SPORT PREMIUM 1 🇶🇦
+http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/101933
+
 #EXTINF:-1, ELEVEN SPORT 2 🇵🇹
 http://213.13.19.35/shls/LIVE$Eleven_Sports_2_HD/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)?start=LIVE&end=END
 
