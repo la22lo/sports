@@ -315,6 +315,21 @@ http://skylogic.site:8080/test-af7e89/0f6c/1495
 #EXTINF:-1, SPORT TV 6HD 🇵🇹
 http://skylogic.site:8080/test-af7e89/0f6c/281487
 
+#EXTINF:-1, SPORT.TV1 HD 🇵🇹
+http://31.220.41.88:8081/live/pt-sporttv1.stream/playlist.m3u8
+
+#EXTINF:-1, SPORT.TV2 HD 🇵🇹
+http://31.220.41.88:8081/live/pt-sporttv2.stream/playlist.m3u8
+
+#EXTINF:-1, SPORT.TV3 HD 🇵🇹
+http://31.220.41.88:8081/live/pt-sporttv3.stream/playlist.m3u8
+
+#EXTINF:-1, SPORT.TV4 HD 🇵🇹
+http://31.220.41.88:8081/live/pt-sporttv4.stream/playlist.m3u8
+
+#EXTINF:-1, SPORT.TV5 HD 🇵🇹
+http://31.220.41.88:8081/live/pt-sporttv5.stream/playlist.m3u8
+
 #EXTINF:-1,Bein Sport 1 FR 🇫🇷
 http://w4.12all.tv:4000/play/bein1fr/index.m3u8
 
@@ -335,6 +350,12 @@ http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347
 
 #EXTINF:-1,beIN Sports 1 English HD 🇬🇧
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548627.ts
+
+#EXTINF:-1,beIN Sports 2 English HD 🇬🇧
+http://175.107.244.52:4457/play/a06z/index.m3u8
+
+#EXTINF:-1, BEIN SPORT 3 🇬🇧
+http://175.107.244.52:4457/play/a06x/index.m3u8
 
 #EXTINF:-1, BEIN SPORT 3 🇬🇧
 http://102.222.232.18:9981/stream/channelid/2100170847?ticket=5CC008508EA4755ED1EF71AF84E018D45AD5E286&profile=matroska
