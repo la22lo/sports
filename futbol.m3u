@@ -381,6 +381,21 @@ http://102.222.232.18:9981/stream/channelid/2100170847?ticket=206EE47921F25EE1A5
 #EXTINF:-1, SUPER GRANDSTAND 🇬🇧
 http://185.145.43.244:8000/play/a008/index.m3u8
 
+#EXTINF:-1, SUPERSPORT 1 🇦🇱
+http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/788
+
+#EXTINF:-1, SUPERSPORT 2 🇦🇱
+http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/789
+
+#EXTINF:-1, SUPERSPORT 3 🇦🇱
+http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/790
+
+#EXTINF:-1, SUPERSPORT 4 🇦🇱
+http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/791
+
+#EXTINF:-1, SUPERSPORT 5 🇦🇱
+http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/792
+
 #EXTINF:-1, RTSH Sport 🇦🇱
 http://95.107.132.105/out/u/638_1.m3u8 
 
