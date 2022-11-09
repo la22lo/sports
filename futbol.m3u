@@ -6,6 +6,9 @@ http://213.13.19.35/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=ANDROID_Live&
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇹
 http://213.13.19.35/shls/LIVE$Eleven_Sports_1_HD/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)?start=LIVE&end=END
 
+#EXTINF:-1, ELEVEN SPORT 1 🇵🇹
+http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/925.ts
+
 #EXTINF:-1, ELEVEN SPORT 3 🇵🇹
 http://213.13.19.35/shls/LIVE$Eleven_Sports_3_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
