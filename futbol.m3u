@@ -15,9 +15,6 @@ http://213.13.19.35/shls/LIVE$Eleven_Sports_3_HD/index.m3u8/S!d2EMQU5EUk9JRF9MaX
 #EXTINF:-1, BEIN SPORT 3 🇬🇧
 http://102.222.232.18:9981/stream/channelid/2100170847?ticket=5CC008508EA4755ED1EF71AF84E018D45AD5E286&profile=matroska
 
-#EXTINF:-1,ARENA SPORT 3 CRO 🇭🇷
-http://5.182.229.90:8080/7331/index.m3u8
-
 #EXTINF:-1,ARENA SPORT 6 CRO 🇭🇷
 http://5.182.229.90:8080/7334/index.m3u8
 
@@ -401,21 +398,6 @@ http://5.182.229.90:8080/7333/index.m3u8
 
 #EXTINF:-1,ARENA SPORT 6 CRO 🇭🇷
 http://5.182.229.90:8080/7334/index.m3u8
-
-#EXTINF:-1,SK 1 🇭🇷
-http://mat4k.com:8080/live/G7LEdAfEwc/En5QGza6NM/258029.ts
-
-#EXTINF:-1,SK 2 🇭🇷
-http://mat4k.com:8080/live/G7LEdAfEwc/En5QGza6NM/258028.ts
-
-#EXTINF:-1,SK 3 🇭🇷
-http://mat4k.com:8080/live/G7LEdAfEwc/En5QGza6NM/258027.ts
-
-#EXTINF:-1,SK 4 🇭🇷
-http://mat4k.com:8080/live/G7LEdAfEwc/En5QGza6NM/258026.ts
-
-#EXTINF:-1,SK 5 🇭🇷
-http://mat4k.com:8080/live/G7LEdAfEwc/En5QGza6NM/258025.ts
 
 #EXTINF:-1,HRT2 🇭🇷
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
