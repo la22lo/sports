@@ -468,6 +468,18 @@ http://93.155.227.38:555/m3u8/webmtelsport3_web.m3u8
 #EXTINF:-1, MAX SPORT 4HD 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
+#EXTINF:-1, MAX SPORT 1HD 🇧🇬
+http://95.169.222.98:8800/udp/239.100.12.96:8888
+
+#EXTINF:-1, MAX SPORT 2HD 🇧🇬
+http://95.169.222.98:8800/udp/239.100.12.95:8888
+
+#EXTINF:-1, MAX SPORT 3HD 🇧🇬
+http://95.169.222.98:8800/udp/239.100.12.94:8888
+
+#EXTINF:-1, MAX SPORT 4HD 🇧🇬
+http://95.169.222.98:8800/udp/239.100.12.93:8888
+
 #EXTINF:-1, Nova Sport 🇧🇬
 http://78.83.191.18:8000/play/a04a
 
