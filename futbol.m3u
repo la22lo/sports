@@ -9,6 +9,15 @@ http://213.13.19.35/shls/LIVE$Eleven_Sports_1_HD/index.m3u8/S!d2EMQU5EUk9JRF9MaX
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇹
 http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/925.ts
 
+#EXTINF:-1,ESPN + 🇺🇸
+http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35059.ts
+
+#EXTINF:-1, ESPN DEPORTES 🇦🇷
+http://38.143.137.221:8000/LA81/index.m3u8
+
+#EXTINF:-1,ARENA SPORT 6 CRO 🇭🇷
+http://5.182.229.90:8080/7334/index.m3u8
+
 #EXTINF:-1, ELEVEN SPORT 3 🇵🇹
 http://213.13.19.35/shls/LIVE$Eleven_Sports_3_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
@@ -18,26 +27,11 @@ http://213.13.19.35/shls/LIVE$Eleven_Sports_3_HD/index.m3u8/S!d2EMQU5EUk9JRF9MaX
 #EXTINF:-1, BEIN SPORT 3 🇬🇧
 http://102.222.232.18:9981/stream/channelid/2100170847?ticket=5CC008508EA4755ED1EF71AF84E018D45AD5E286&profile=matroska
 
-#EXTINF:-1,ARENA SPORT 6 CRO 🇭🇷
-http://5.182.229.90:8080/7334/index.m3u8
-
 #EXTINF:-1,ARENA SPORT 5 CRO 🇭🇷
 http://5.182.229.90:8080/7333/index.m3u8
 
-#EXTINF:-1, TIGO SPORTS 🇲🇽
-http://190.61.102.67:31589/play/a08q/index.m3u8
-
-#EXTINF:-1,ESPN + 🇺🇸
-http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35059.ts
-
-#EXTINF:-1, ESPN DEPORTES 🇦🇷
-http://38.143.137.221:8000/LA81/index.m3u8
-
-#EXTINF:-1, ESPN 2 🇦🇷
-https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
-
-#EXTINF:-1, A SPORTS LIVE 🇮🇳
-https://3uog.short.gy/A_sports_bjtech.m3u8
+#EXTINF:-1,Беларусь 5 HD 🇧🇾
+http://86.57.225.245:7002/play/a00k
 
 #EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
 http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/70.ts
@@ -48,14 +42,20 @@ http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
 #EXTINF:-1, BEIN SPORT PREMIUM 1 🇶🇦
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/101933
 
+#EXTINF:-1, TIGO SPORTS 🇲🇽
+http://190.61.102.67:31589/play/a08q/index.m3u8
+
+#EXTINF:-1, ESPN 2 🇦🇷
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
+
+#EXTINF:-1, A SPORTS LIVE 🇮🇳
+https://3uog.short.gy/A_sports_bjtech.m3u8
+
 #EXTINF:-1, ESPN 🇧🇷
 http://51.79.82.208:16417
 
 #EXTINF:-1, MAX SPORT 4HD 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
-
-#EXTINF:-1,Беларусь 5 HD 🇧🇾
-http://86.57.225.245:7002/play/a00k
 
 #EXTINF:-1,DAZN 1 🇩🇪
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
