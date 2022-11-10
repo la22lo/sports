@@ -540,6 +540,9 @@ http://84.42.140.148:8880/hdmi
 #EXTINF:-1, SPORT PREMIUM 🇨🇿 
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 
+#EXTINF:-1 , SVT 2 DIREKT 🇨🇿 
+http://5.182.229.90:8080/7351/index.m3u8
+
 #EXTINF:-1,Setanta Sports 1 HD 🇷🇺
 https://livetv.mylifeisgood.ml/channels/setantahd
 
@@ -630,9 +633,6 @@ http://line.365tv.xyz:8060/lucky/jfdnndsfs/100528
 #EXTINF:-1, C MORE FOOTBALL 🇸🇪
 http://line.365tv.xyz:8060/lucky/jfdnndsfs/97644
 
-#EXTINF:-1, ON FOOTBALL 🇻🇳
-https://pullsport.glht.top/live/sd-1-3755288.m3u8
-
 #EXTINF:-1, SCTV 15 🇻🇳
 http://vtsstr4.sctv.vn:1935/live/SCTV_HD_TheThao_new.smil/CDAM.m3u8
 
@@ -678,12 +678,6 @@ http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8knmYox6b33Bu
 #EXTINF:-1, TV2 SPORTEN 🇳🇴
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 
-#EXTINF:-1, ELEVEN SPORT 2 🇵🇱
-http://ru.iptv.monster/play/1903/0519D3F69D972DB/video.m3u8
-
-#EXTINF:-1, CANAL+ SPORT 2 🇵🇱
-http://ru.iptv.monster/play/1901/0519D3F69D972DB/video.m3u8
-
 #EXTINF:-1, POLSAT PREMIUM 1 HD 🇵🇱
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/27677.m3u8
 
@@ -693,32 +687,17 @@ http://line.365tv.xyz:8060/lucky/jfdnndsfs/118908
 #EXTINF:-1, SPORT 1 🇮🇱
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38711
 
-#EXTINF:-1, SPORT 1 🇮🇱
-http://ru.iptv.monster/play/1522/0519D3F69D972DB/video.m3u8
-
 #EXTINF:-1, SPORT 2 🇮🇱
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38710
-
-#EXTINF:-1, SPORT 2 🇮🇱
-http://ru.iptv.monster/play/1521/0519D3F69D972DB/video.m3u8
 
 #EXTINF:-1, SPORT 3 🇮🇱
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38709
 
-#EXTINF:-1, SPORT 3 🇮🇱
-http://ru.iptv.monster/play/1565/0519D3F69D972DB/video.m3u8
-
 #EXTINF:-1, SPORT 4 🇮🇱
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38708
 
-#EXTINF:-1, SPORT 4 🇮🇱
-http://ru.iptv.monster/play/1566/0519D3F69D972DB/video.m3u8
-
 #EXTINF:-1, SPORT 5 🇮🇱
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38705
-
-#EXTINF:-1, SPORT 5 🇮🇱
-http://ru.iptv.monster/play/1507/0519D3F69D972DB/video.m3u8
 
 #EXTINF:-1, SPORT 5 GOLD 🇮🇱
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38700
@@ -729,17 +708,11 @@ http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38703
 #EXTINF:-1, SPORT 5 + 🇮🇱
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38702
 
-#EXTINF:-1, SPORT 5 LIVE 🇮🇱
-http://ru.iptv.monster/play/1531/0519D3F69D972DB/video.m3u8
-
 #EXTINF:-1 ,2 SPORT HUNGRIA 🇭🇺
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 
 #EXTINF:-1 , LIVE SPORT HD 🇭🇺
 http://195.222.7.26:7001/play/a00t
-
-#EXTINF:-1 , SVT 2 DIREKT CHEQUIA
-http://5.182.229.90:8080/7351/index.m3u8
 
 #EXTINF:-1, SPOTV 1 🇮🇩
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1659773379~exp=9007200914514370~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=c1868bb91988c2e4b3b4bb98e8f73689c5d85c672bd3d857446521cad5228e11
@@ -761,9 +734,6 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 
 #EXTINF:-1, GEO SUPER 🇮🇳
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/16088
-
-#EXTINF:-1, ELEVEN 1 TW 🇹🇭
-http://198.16.64.10:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
 
 #EXTINF:-1, SCTV 17 🇻🇳
 https://vietanhtv.xyz/tv24.php?id=sctv17
