@@ -1,12 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇹
-http://213.13.19.35/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1, ELEVEN SPORT 1 🇵🇹
-http://213.13.19.35/shls/LIVE$Eleven_Sports_1_HD/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)?start=LIVE&end=END
-
-#EXTINF:-1, ELEVEN SPORT 1 🇵🇹
 http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/925.ts
 
 #EXTINF:-1, TELECOSTA GUATEMALA 🇬🇹
@@ -35,12 +29,6 @@ https://3uog.short.gy/A_sports_bjtech.m3u8
 
 #EXTINF:-1,Беларусь 5 HD 🇧🇾
 http://86.57.225.245:7002/play/a00k
-
-#EXTINF:-1, ELEVEN SPORT 3 🇵🇹
-http://213.13.19.35/shls/LIVE$Eleven_Sports_3_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1, ELEVEN SPORT 3 🇵🇹
-http://213.13.19.35/shls/LIVE$Eleven_Sports_3_HD/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)?start=LIVE&end=END
 
 #EXTINF:-1, BEIN SPORT 3 🇬🇧
 http://102.222.232.18:9981/stream/channelid/2100170847?ticket=5CC008508EA4755ED1EF71AF84E018D45AD5E286&profile=matroska
@@ -74,12 +62,6 @@ http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
 #EXTINF:-1,DAZN 1 🇩🇪
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
-
-#EXTINF:-1, ELEVEN SPORT 2 🇵🇹
-http://213.13.19.35/shls/LIVE$Eleven_Sports_2_HD/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)?start=LIVE&end=END
-
-#EXTINF:-1, ELEVEN SPORT 2 🇵🇹
-http://213.13.19.35/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/923.ts
