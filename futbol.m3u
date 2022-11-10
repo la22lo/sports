@@ -12,6 +12,12 @@ http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35059.ts
 #EXTINF:-1, ESPN DEPORTES 🇦🇷
 http://38.143.137.221:8000/LA81/index.m3u8
 
+#EXTINF:-1, BEIN SPORTS PREMIUM 1 HD 🇶🇦
+http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
+
+#EXTINF:-1, BEIN SPORT PREMIUM 1 🇶🇦
+http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/101933
+
 #EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
 https://P135@yeszet1x1cdn22.embratoria.live/livexb1/xb1/playlist.m3u8
 
@@ -33,14 +39,8 @@ https://3uog.short.gy/A_sports_bjtech.m3u8
 #EXTINF:-1,Беларусь 5 HD 🇧🇾
 http://86.57.225.245:7002/play/a00k
 
-#EXTINF:-1, BEIN SPORT 3 🇬🇧
-http://102.222.232.18:9981/stream/channelid/2100170847?ticket=5CC008508EA4755ED1EF71AF84E018D45AD5E286&profile=matroska
-
-#EXTINF:-1,ARENA SPORT 5 CRO 🇭🇷
-http://5.182.229.90:8080/7333/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
-http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/70.ts
+#EXTINF:-1, MAX SPORT 4HD 🇧🇬
+http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
 #EXTINF:-1, BEIN SPORTS PREMIUM 1 HD 🇶🇦
 http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
@@ -48,20 +48,17 @@ http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
 #EXTINF:-1, BEIN SPORT PREMIUM 1 🇶🇦
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/101933
 
+#EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
+http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/70.ts
+
 #EXTINF:-1, TIGO SPORTS 🇲🇽
 http://190.61.102.67:31589/play/a08q/index.m3u8
-
-#EXTINF:-1, ESPN 2 🇦🇷
-https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
 
 #EXTINF:-1, ESPN 🇧🇷
 http://51.79.82.208:16417
 
 #EXTINF:-1, ESPN 🇧🇷
 http://189.91.128.146:4444/udp/227.10.20.81:1234
-
-#EXTINF:-1, MAX SPORT 4HD 🇧🇬
-http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
 #EXTINF:-1,DAZN 1 🇩🇪
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
@@ -84,9 +81,6 @@ http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2532/index.m3u8
 #EXTINF:-1, SCTV 17 🇻🇳
 http://vtsstr4.sctv.vn:1935/live/SCTV17_HD_new.smil/CDAM.m3u8
 
-#EXTINF:-1, SCTV 17* 🇻🇳
-https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv17
-
 #EXTINF:-1, BEIN SPORT 1 🇶🇦
 http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/70.ts
 
@@ -108,9 +102,6 @@ http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2531/index.m3u8
 #EXTINF:-1, NOVA SPORTS 1 🇬🇷
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9esxppA5BEooxeg3onklIL
 
-#EXTINF:-1,Setanta Sports 2 HD 🇷🇺
-http://92.119.88.58:8080/270/index.m3u8
-
 #EXTINF:-1, MTV INDIA 🇮🇳
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
 
@@ -119,9 +110,6 @@ http://92.119.88.58:8080/271/index.m3u8
 
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
 http://92.119.88.58:8080/270/index.m3u8
-
-#EXTINF:-1,ESPN + 🇺🇸
-http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35059.ts
 
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
@@ -140,9 +128,6 @@ http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
 #EXTINF:-1, DIRECTV SPORT 2 🇦🇷
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/72239
-
-#EXTINF:-1, DirecTV Sport 🇦🇷
-https://bit.ly/3S65do3
 
 #EXTINF:-1, DirecTV Sport + 🇦🇷
 http://line.powerdino.com/4375a1dd43/649f75a876/628275
