@@ -63,6 +63,9 @@ https://3uog.short.gy/A_sports_bjtech.m3u8
 #EXTINF:-1, ESPN 🇧🇷
 http://51.79.82.208:16417
 
+#EXTINF:-1, ESPN 🇧🇷
+http://189.91.128.146:4444/udp/227.10.20.81:1234
+
 #EXTINF:-1, MAX SPORT 4HD 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
