@@ -75,20 +75,14 @@ http://213.13.19.35/shls/LIVE$Eleven_Sports_2_HD/index.m3u8/S!d2EMQU5EUk9JRF9MaX
 #EXTINF:-1, ELEVEN SPORT 2 🇵🇹
 http://213.13.19.35/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
+#EXTINF:-1, Eleven 2 HD 🇵🇹
+http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/923.ts
+
 #EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/90154
 
-#EXTINF:-1, ELEVEN SPORT 2 🇵🇹
-http://213.13.19.35/shls/LIVE$Eleven_Sports_2_HD/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)?start=LIVE&end=END
-
-#EXTINF:-1, ELEVEN SPORT 2 🇵🇹
-http://213.13.19.35/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4273.ts
-
-#EXTINF:-1, Eleven 2 HD 🇵🇹
-http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/923.ts
 
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2532/index.m3u8
