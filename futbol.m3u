@@ -24,6 +24,9 @@ http://hez1-flu.iptvstream.site/160/index.m3u8
 #EXTINF:-1,S SPORT HD 🇹🇷
 https://v2.hugo11.cc/ssport1/index.m3u8
 
+#EXTINF:-1, A SPORTS LIVE 🇮🇳
+https://3uog.short.gy/A_sports_bjtech.m3u8
+
 #EXTINF:-1,Беларусь 5 HD 🇧🇾
 http://86.57.225.245:7002/play/a00k
 
@@ -53,9 +56,6 @@ http://190.61.102.67:31589/play/a08q/index.m3u8
 
 #EXTINF:-1, ESPN 2 🇦🇷
 https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
-
-#EXTINF:-1, A SPORTS LIVE 🇮🇳
-https://3uog.short.gy/A_sports_bjtech.m3u8
 
 #EXTINF:-1, ESPN 🇧🇷
 http://51.79.82.208:16417
