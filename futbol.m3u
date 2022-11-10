@@ -21,6 +21,9 @@ http://5.182.229.90:8080/7334/index.m3u8
 #EXTINF:-1,Setanta Sports + 🇷🇺
 http://hez1-flu.iptvstream.site/160/index.m3u8
 
+#EXTINF:-1,S SPORT HD 🇹🇷
+https://v2.hugo11.cc/ssport1/index.m3u8
+
 #EXTINF:-1,Беларусь 5 HD 🇧🇾
 http://86.57.225.245:7002/play/a00k
 
@@ -755,6 +758,12 @@ https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv17
 
 #EXTINF:-1, TVRI SPORTS INDONESIA 🇮🇩
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1,S SPORT HD 🇹🇷
+https://v2.hugo11.cc/ssport1/index.m3u8
+
+#EXTINF:-1,S SPORT 2 HD 🇹🇷
+https://v2.hugo11.cc/ssport2/index.m3u8
 
 #EXTINF:-1,TRT SPOR HD 🇹🇷
 http://31.177.62.182:8000/play/s1
