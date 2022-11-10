@@ -882,6 +882,9 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1, ELEVEN 3
+http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/921.ts
+
 #EXTINF:-1, ESPN COLOMBIA 🇨🇴
 http://200.24.132.99:8000/play/a02m
 
