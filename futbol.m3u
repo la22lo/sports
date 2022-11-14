@@ -828,6 +828,12 @@ http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_ZDF_ott/__op/dash-default/
 #EXTINF:-1,ZDF 🇩🇪
 http://91.237.170.202:10000/play/17732
 
+#EXTINF:-1, ELEVEN 1
+http://61.221.81.93:8078/hls/25/80/esport.m3u8
+
+#EXTINF:-1, ELEVEN 2
+http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
