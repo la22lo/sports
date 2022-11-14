@@ -18,9 +18,6 @@ http://86.57.225.245:7002/play/a00k
 #EXTINF:-1, MAX SPORT 4HD 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
-#EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
-http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/70.ts
-
 #EXTINF:-1, TIGO SPORTS 🇲🇽
 http://190.61.102.67:31589/play/a08q/index.m3u8
 
@@ -30,41 +27,14 @@ http://51.79.82.208:16417
 #EXTINF:-1, ESPN 🇧🇷
 http://189.91.128.146:4444/udp/227.10.20.81:1234
 
-#EXTINF:-1,DAZN 1 🇩🇪
-http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
-
-#EXTINF:-1, Eleven 2 HD 🇵🇹
-http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/923.ts
-
-#EXTINF:-1, Eleven 3 HD 🇵🇹
-http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/921.ts
-
 #EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/90154
-
-#EXTINF:-1, Eleven 2 HD 🇵🇹
-http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4273.ts
 
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2532/index.m3u8
 
 #EXTINF:-1, SCTV 17 🇻🇳
 http://vtsstr4.sctv.vn:1935/live/SCTV17_HD_new.smil/CDAM.m3u8
-
-#EXTINF:-1, BEIN SPORT 1 🇶🇦
-http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/70.ts
-
-#EXTINF:-1, ELEVEN SPORT 1 🇵🇹
-http://213.13.19.35/shls/LIVE$Eleven_Sports_1_HD/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)?start=LIVE&end=END
-
-#EXTINF:-1, ELEVEN SPORT 1 🇵🇹
-http://213.13.19.35/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1, Eleven 1 HD 🇵🇹
-http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4272.ts
-
-#EXTINF:-1, Eleven 1 HD 🇵🇹
-http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/925.ts
 
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2531/index.m3u8
@@ -174,9 +144,6 @@ http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347
 #EXTINF:-1, BEIN SPORTS PREMIUM 3 HD 🇶🇦
 http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/10015
 
-#EXTINF:-1, BEIN SPORTS PREMIUM 3 HD 🇶🇦
-http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/69.ts
-
 #EXTINF:-1,Bein Sports 🇶🇦
 http://175.107.244.52:4457/play/a070/index.m3u8
 
@@ -188,9 +155,6 @@ http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/101933
 
 #EXTINF:-1, BEIN SPORTS PREMIUM 2 HD 🇶🇦
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/101929
-
-#EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
-http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/70.ts
 
 #EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/90154
@@ -213,80 +177,11 @@ http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/90159
 #EXTINF:-1, BEIN SPORT 7 HD 🇶🇦
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/90160
 
-#EXTINF:-1, ELEVEN SPORT 1 🇵🇹
-http://213.13.19.35/shls/LIVE$Eleven_Sports_1_HD/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)?start=LIVE&end=END
-
-#EXTINF:-1, ELEVEN SPORT 2 🇵🇹
-http://213.13.19.35/shls/LIVE$Eleven_Sports_2_HD/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)?start=LIVE&end=END
-
-#EXTINF:-1, ELEVEN SPORT 3 🇵🇹
-http://213.13.19.35/shls/LIVE$Eleven_Sports_3_HD/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)?start=LIVE&end=END
-
-#EXTINF:-1, ELEVEN SPORT 4 🇵🇹
-http://213.13.19.35/shls/LIVE$Eleven_Sports_4_HD/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)?start=LIVE&end=END
-
-#EXTINF:-1, ELEVEN SPORT 5 🇵🇹
-http://213.13.19.35/shls/LIVE$Eleven_Sports_5_HD/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)?start=LIVE&end=END
-
-#EXTINF:-1, ELEVEN SPORT 6 🇵🇹
-http://213.13.19.35/shls/LIVE$Eleven_Sports_6_HD/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)?start=LIVE&end=END
-
-#EXTINF:-1, ELEVEN SPORT 1 🇵🇹
-http://213.13.19.35/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1, ELEVEN SPORT 2 🇵🇹
-http://213.13.19.35/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1, ELEVEN SPORT 3 🇵🇹
-http://213.13.19.35/shls/LIVE$Eleven_Sports_3_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1, ELEVEN SPORT 4 🇵🇹
-http://213.13.19.35/shls/LIVE$Eleven_Sports_4_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1, ELEVEN SPORT 5 🇵🇹
-http://213.13.19.35/shls/LIVE$Eleven_Sports_5_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1, ELEVEN SPORT 6 🇵🇹
-http://213.13.19.35/shls/LIVE$Eleven_Sports_6_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1, Eleven 1 HD 🇵🇹
-http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4272.ts
-
-#EXTINF:-1, Eleven 2 HD 🇵🇹
-http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4273.ts
-
-#EXTINF:-1, Eleven 3 HD 🇵🇹
-http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4274.ts
-
-#EXTINF:-1, Eleven Sports 5 🇵🇹
-http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4277.ts
-
 #EXTINF:-1, Eleven Sports 5 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 
 #EXTINF:-1, Eleven 6 🇵🇹
 http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4275.ts
-
-#EXTINF:-1, SPORT TV +HD 🇵🇹
-http://213.13.19.35/shls/LIVE$SPORTTV_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1, SPORT TV 1HD 🇵🇹
-http://213.13.19.35/shls/LIVE$SPORTTV1_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1, SPORT TV 2HD 🇵🇹
-http://213.13.19.35/shls/LIVE$SPORTTV2_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1, SPORT TV 3HD 🇵🇹
-http://213.13.19.35/shls/LIVE$SPORTTV3_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1, SPORT TV 4HD 🇵🇹
-http://213.13.19.35/shls/LIVE$SPORTTV4_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1, SPORT TV 5HD 🇵🇹
-http://213.13.19.35/shls/LIVE$SPORTTV5_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
-#EXTINF:-1, SPORT TV 6HD 🇵🇹
-http://213.13.19.35/shls/LIVE$SPORTTV6_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
 #EXTINF:-1, SPORT TV +HD 🇵🇹
 http://skylogic.site:8080/test-af7e89/0f6c/1481
@@ -308,24 +203,6 @@ http://skylogic.site:8080/test-af7e89/0f6c/1495
 
 #EXTINF:-1, SPORT TV 6HD 🇵🇹
 http://skylogic.site:8080/test-af7e89/0f6c/281487
-
-#EXTINF:-1, SPORT TV 1 HD 🇵🇹
-http://213.13.19.35/shls/LIVE$SPORTTV1_HD/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)?start=LIVE&end=END
-
-#EXTINF:-1, SPORT TV 2 HD 🇵🇹
-http://213.13.19.35/shls/LIVE$SPORTTV2_HD/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)?start=LIVE&end=END
-
-#EXTINF:-1, SPORT TV 3 HD 🇵🇹
-http://213.13.19.35/shls/LIVE$SPORTTV3_HD/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)?start=LIVE&end=END
-
-#EXTINF:-1, SPORT TV 4 HD 🇵🇹
-http://213.13.19.35/shls/LIVE$SPORTTV4_HD/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)?start=LIVE&end=END
-
-#EXTINF:-1, SPORT TV 5 HD 🇵🇹
-http://213.13.19.35/shls/LIVE$SPORTTV5_HD/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)?start=LIVE&end=END
-
-#EXTINF:-1, SPORT TV 6 HD 🇵🇹
-http://213.13.19.35/shls/LIVE$SPORTTV6_HD/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)?start=LIVE&end=END
 
 #EXTINF:-1,Bein Sport 1 FR 🇫🇷
 http://w4.12all.tv:4000/play/bein1fr/index.m3u8
