@@ -9,6 +9,9 @@ http://38.143.137.221:8000/LA81/index.m3u8
 #EXTINF:-1,ARENA SPORT 6 CRO 🇭🇷
 http://5.182.229.90:8080/7334/index.m3u8
 
+#EXTINF:-1,ARENA SPORT 6 CRO 🇭🇷
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/85134.m3u8
+
 #EXTINF:-1,S SPORT HD 🇹🇷
 https://v2.hugo11.cc/ssport1/index.m3u8
 
@@ -50,6 +53,15 @@ http://92.119.88.58:8080/271/index.m3u8
 
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
 http://92.119.88.58:8080/270/index.m3u8
+
+#EXTINF:-1 TRUE VISIONS HD
+http://w.nasvpn.xyz:8080/live/saya/saya/16586.ts
+
+#EXTINF:-1 TRUE VISIONS 1 HD
+http://w.nasvpn.xyz:8080/live/saya/saya/13327.ts
+
+#EXTINF:-1 TRUE VISIONS 3 HD
+http://w.nasvpn.xyz:8080/live/saya/saya/13328.ts
 
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
@@ -395,6 +407,12 @@ http://37.49.230.48:8080/live/GenIptvLast/FaP6YswK77NaOPOF/295215.ts
 
 #EXTINF:-1, ART SPORT 6 🇦🇱
 http://37.49.230.48:8080/live/GenIptvLast/FaP6YswK77NaOPOF/295217.ts
+
+#EXTINF:-1, RTK 1 KOSOVO
+http://91.187.110.91:5252/rtk1hd
+
+#EXTINF:-1, RTK 1 KOSOVO
+http://162.55.88.21/rtksatstream/rtksat.stream/index.m3u8
 
 #EXTINF:-1,ARENA SPORT 1 CRO 🇭🇷
 http://5.182.229.90:8080/7329/index.m3u8
