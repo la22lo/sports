@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1, SPORT TV 1 🇵🇹
+http://185.236.229.13:4000/play/a040
+
+#EXTINF:-1, SPORT TV 1 🇵🇹
+http://w.nasvpn.xyz:8080/live/saya/saya/13317.ts
+
 #EXTINF:-1,ESPN + 🇺🇸
 http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35059.ts
 
