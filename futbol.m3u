@@ -30,6 +30,9 @@ http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_ZDF_ott/__op/dash-default/
 #EXTINF:-1,ZDF 🇩🇪
 http://91.237.170.202:10000/play/17732
 
+#EXTINF:-1,Беларусь 5 HD 🇧🇾
+http://86.57.225.245:7002/play/a00k
+
 #EXTINF:-1, RTK 1 KOSOVO
 http://91.187.110.91:5252/rtk1hd
 
@@ -50,9 +53,6 @@ http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/85134.m3u8
 
 #EXTINF:-1,S SPORT HD 🇹🇷
 https://v2.hugo11.cc/ssport1/index.m3u8
-
-#EXTINF:-1,Беларусь 5 HD 🇧🇾
-http://86.57.225.245:7002/play/a00k
 
 #EXTINF:-1, MAX SPORT 4HD 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
