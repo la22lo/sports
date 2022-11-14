@@ -6,6 +6,24 @@ http://185.236.229.13:4000/play/a040
 #EXTINF:-1, SPORT TV 1 🇵🇹
 http://w.nasvpn.xyz:8080/live/saya/saya/13317.ts
 
+#EXTINF:-1, ARMENIA TV 🇦🇲
+http://ott-cdn.ucom.am/s4/04.m3u8
+
+#EXTINF:-1, RTSH Sport 🇦🇱
+http://95.107.132.105/out/u/638_1.m3u8 
+
+#EXTINF:-1, RTSH Sport 🇦🇱
+http://edge01eu.ekranet.com/rtshsport_240p/index.m3u8
+
+#EXTINF:-1, RTSH Sport 🇦🇱
+http://185.226.88.6:9510/tch
+
+#EXTINF:-1, RTK 1 KOSOVO
+http://91.187.110.91:5252/rtk1hd
+
+#EXTINF:-1, RTK 1 KOSOVO
+http://162.55.88.21/rtksatstream/rtksat.stream/index.m3u8
+
 #EXTINF:-1,ESPN + 🇺🇸
 http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35059.ts
 
