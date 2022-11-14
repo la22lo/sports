@@ -498,6 +498,18 @@ http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8knmYox6b33Bu
 #EXTINF:-1, TV2 SPORTEN 🇳🇴
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 
+#EXTINF:-1,Eleven Sports 1 HD 🇵🇱
+http://37.152.128.74:8085/play/a004
+
+#EXTINF:-1,Eleven Sports 2 HD 🇵🇱
+http://37.152.128.74:8085/play/a005
+
+#EXTINF:-1,Eleven Sports 3 HD 🇵🇱
+http://37.152.128.74:8085/play/a00c
+
+#EXTINF:-1,CANAL+ SPORT 2 HD 🇵🇱
+http://37.152.128.74:8085/play/a002
+
 #EXTINF:-1, POLSAT PREMIUM 1 HD 🇵🇱
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/27677.m3u8
 
@@ -815,18 +827,6 @@ http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_ZDF_ott/__op/dash-default/
 
 #EXTINF:-1,ZDF 🇩🇪
 http://91.237.170.202:10000/play/17732
-
-#EXTINF:-1,Eleven Sports 1 HD pol
-http://37.152.128.74:8085/play/a004
-
-#EXTINF:-1,Eleven Sports 2 HD pol
-http://37.152.128.74:8085/play/a005
-
-#EXTINF:-1,Eleven Sports 3 HD pol
-http://37.152.128.74:8085/play/a00c
-
-#EXTINF:-1,CANAL+ SPORT 2 HD pol
-http://37.152.128.74:8085/play/a002
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
