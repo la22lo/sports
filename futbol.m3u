@@ -42,6 +42,9 @@ http://91.187.110.91:5252/rtk1hd
 #EXTINF:-1, RTK 1 🇽🇰
 http://162.55.88.21/rtksatstream/rtksat.stream/index.m3u8
 
+#EXTINF:-1, TV MAX 🇦🇷
+https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
+
 #EXTINF:-1,ESPN + 🇺🇸
 http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35059.ts
 
