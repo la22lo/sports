@@ -813,6 +813,21 @@ http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036582
 #EXTINF:-1,ZDF 🇩🇪
 http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_ZDF_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8
 
+#EXTINF:-1,ZDF 🇩🇪
+http://91.237.170.202:10000/play/17732
+
+#EXTINF:-1,Eleven Sports 1 HD pol
+http://37.152.128.74:8085/play/a004
+
+#EXTINF:-1,Eleven Sports 2 HD pol
+http://37.152.128.74:8085/play/a005
+
+#EXTINF:-1,Eleven Sports 3 HD pol
+http://37.152.128.74:8085/play/a00c
+
+#EXTINF:-1,CANAL+ SPORT 2 HD pol
+http://37.152.128.74:8085/play/a002
+
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
