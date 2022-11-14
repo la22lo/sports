@@ -177,11 +177,50 @@ http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/90159
 #EXTINF:-1, BEIN SPORT 7 HD 🇶🇦
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/90160
 
+#EXTINF:-1, Eleven Sports 1 🇵🇹
+http://185.236.229.13:4000/play/a01w
+
+#EXTINF:-1, Eleven Sports 2 🇵🇹
+http://185.236.229.13:4000/play/a00s
+
+#EXTINF:-1, Eleven Sports 3 🇵🇹
+http://185.236.229.13:4000/play/a00w
+
+#EXTINF:-1, Eleven Sports 4 🇵🇹
+http://185.236.229.13:4000/play/a01x
+
+#EXTINF:-1, Eleven Sports 5 🇵🇹
+http://185.236.229.13:4000/play/a01y
+
+#EXTINF:-1, Eleven Sports 6 🇵🇹
+http://185.236.229.13:4000/play/a00v
+
 #EXTINF:-1, Eleven Sports 5 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 
 #EXTINF:-1, Eleven 6 🇵🇹
 http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4275.ts
+
+#EXTINF:-1, SPORT TV +HD 🇵🇹
+http://185.236.229.13:4000/play/a02r
+
+#EXTINF:-1, SPORT TV 1 🇵🇹
+http://185.236.229.13:4000/play/a040
+
+#EXTINF:-1, SPORT TV 2 🇵🇹
+http://185.236.229.13:4000/play/a00n
+
+#EXTINF:-1, SPORT TV 3 🇵🇹
+http://185.236.229.13:4000/play/a00o
+
+#EXTINF:-1, SPORT TV 4 🇵🇹
+http://185.236.229.13:4000/play/a00y
+
+#EXTINF:-1, SPORT TV 5 🇵🇹
+http://185.236.229.13:4000/play/a01i
+
+#EXTINF:-1, SPORT TV 6 🇵🇹
+http://185.236.229.13:4000/play/a01j
 
 #EXTINF:-1, SPORT TV +HD 🇵🇹
 http://skylogic.site:8080/test-af7e89/0f6c/1481
@@ -827,9 +866,6 @@ http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_ZDF_ott/__op/dash-default/
 
 #EXTINF:-1,ZDF 🇩🇪
 http://91.237.170.202:10000/play/17732
-
-#EXTINF:-1, SPORT TV1
-http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/280
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
