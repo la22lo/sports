@@ -1029,9 +1029,6 @@ http://190.60.39.62:8000/play/a02s
 #EXTINF:-1,ESPN CO
 http://190.60.39.62:8000/play/a03c
 
-#EXTINF:-1,FX
-http://190.60.39.62:8000/play/a04a
-
 #EXTINF:-1,Fox Sports 2
 http://190.60.39.62:8000/play/a02e
 
@@ -1046,9 +1043,6 @@ http://87.120.36.56:28888/udp/239.17.1.27:1234
 
 #EXTINF:-1,Bein Sports 1_Premium
 http://87.120.36.56:28888/udp/239.17.1.97:1234
-
-#EXTINF:-1,Bein Sports 2_Premium
-http://87.120.36.56:28888/udp/239.17.1.98:1234
 
 #EXTINF:-1,Bein Sports 3_Premium
 http://87.120.36.56:28888/udp/239.17.1.99:1234
