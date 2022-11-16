@@ -1029,6 +1029,15 @@ http://190.60.39.62:8000/play/a02s
 #EXTINF:-1,ESPN CO
 http://190.60.39.62:8000/play/a03c
 
+#EXTINF:-1,FX
+http://190.60.39.62:8000/play/a04a
+
+#EXTINF:-1,Fox Sports 2
+http://190.60.39.62:8000/play/a02e
+
+#EXTINF:-1,Fox Sports 3
+http://190.60.39.62:8000/play/a02f
+
 #EXTINF:-1,TYC SPORTS PLAY 🇦🇷
 https://d3awnlgqz0szay.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_13.m3u8
 
