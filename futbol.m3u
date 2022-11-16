@@ -36,7 +36,7 @@ http://91.237.170.202:10000/play/17732
 #EXTINF:-1,Беларусь 5 HD 🇧🇾
 http://86.57.225.245:7002/play/a00k
 
-#EXTINF:-1, HRT 2 CRO
+#EXTINF:-1, HRT 2 🇭🇷
 http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8?
 
 #EXTINF:-1, RTK 1 🇽🇰
@@ -45,10 +45,10 @@ http://91.187.110.91:5252/rtk1hd
 #EXTINF:-1, RTK 1 🇽🇰
 http://162.55.88.21/rtksatstream/rtksat.stream/index.m3u8
 
-#EXTINF:-1, TVK CAMBOYA
+#EXTINF:-1, TVK CAMBOYA 🇰🇭
 https://livefta.malimarcdn.com/tvkedge/tvkhd.stream/master.m3u8?
 
-#EXTINF:-1, TVK CAMBOYA
+#EXTINF:-1, TVK CAMBOYA 🇰🇭
 http://203.176.130.123:8989/live/tvk_480k.stream/chunklist.m3u8?
 
 #EXTINF:-1, TRT 1 🇹🇷
