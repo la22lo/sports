@@ -1272,6 +1272,9 @@ http://185.53.89.171:9000/play/a046
 #EXTINF:-1,Rai 2
 http://149.22.208.21:9898/play/a00o
 
+#EXTINF:-1,Rai 2
+http://146.19.16.211:8018/play/a05c
+
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
