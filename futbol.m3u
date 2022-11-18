@@ -27,6 +27,9 @@ http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_ZDF_ott/__op/dash-default/
 #EXTINF:-1, HRT 2 🇭🇷
 http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8?
 
+#EXTINF:-1, HRT 2 🇭🇷
+http://212.200.197.0:8002/play/a012/index.m3u8
+
 #EXTINF:-1, RTK 1 🇽🇰
 http://91.187.110.91:5252/rtk1hd
 
