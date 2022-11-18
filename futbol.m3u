@@ -801,8 +801,23 @@ http://195.189.62.148:8000/play/a04c
 #EXTINF:-1,TVP Sport HD 🇵🇱
 http://195.189.62.148:8000/play/a06b
 
+#EXTINF:-1,CANAL+ SPORT HD 🇵🇱
+http://195.189.62.148:8000/play/a05d
+
+#EXTINF:-1,CANAL+ SPORT 2 HD 🇵🇱
+http://195.189.62.148:8000/play/a05y
+
 #EXTINF:-1,CANAL+ SPORT 2 HD 🇵🇱
 http://37.152.128.74:8085/play/a002
+
+#EXTINF:-1,CANAL+ SPORT 3 HD 🇵🇱
+http://195.189.62.148:8000/play/a06d
+
+#EXTINF:-1,CANAL+ SPORT 4 HD 🇵🇱
+http://195.189.62.148:8000/play/a06e
+
+#EXTINF:-1,CANAL+ SPORT 5 HD 🇵🇱
+http://195.189.62.148:8000/play/a06h
 
 #EXTINF:-1, ZIGGO SPORT 🇳🇱
 http://line.365tv.xyz:8060/lucky/jfdnndsfs/118908
@@ -1166,21 +1181,6 @@ https://d3awnlgqz0szay.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/in
 
 #EXTINF:-1,TYC SPORTS PLAY 🇦🇷
 https://d3awnlgqz0szay.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8
-
-#EXTINF:-1,CANAL+ SPORT HD
-http://195.189.62.148:8000/play/a05d
-
-#EXTINF:-1,CANAL+ SPORT 2 HD
-http://195.189.62.148:8000/play/a05y
-
-#EXTINF:-1,CANAL+ SPORT 3 HD
-http://195.189.62.148:8000/play/a06d
-
-#EXTINF:-1,CANAL+ SPORT 4 HD
-http://195.189.62.148:8000/play/a06e
-
-#EXTINF:-1,CANAL+ SPORT 5 HD
-http://195.189.62.148:8000/play/a06h
 
 #EXTINF:-1,Eleven 1 HD
 http://194.44.48.82:8002/play/a04r
