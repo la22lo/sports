@@ -9,6 +9,9 @@ http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2525/index.m3u8
 #EXTINF:-1, ARMENIA TV 🇦🇲
 http://ott-cdn.ucom.am/s4/04.m3u8
 
+#EXTINF:-1,DIRECTV SPORTS 🇦🇷
+http://200.52.154.125:8000/play/a06p/index.m3u8
+
 #EXTINF:-1, RTSH Sport 🇦🇱
 http://95.107.132.105/out/u/638_1.m3u8 
 
@@ -125,6 +128,12 @@ http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sl4PR2-6eZEHuOmWnlPbYOc
 
 #EXTINF:-1, MMN HD SPORT 🇮🇶
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
+
+#EXTINF:-1,DIRECTV SPORTS 🇦🇷
+http://200.52.154.125:8000/play/a06p/index.m3u8
+
+#EXTINF:-1,DIRECTV SPORTS 2 🇦🇷
+http://200.52.154.125:8000/play/a06o/index.m3u8
 
 #EXTINF:-1, DirecTV Sports 1 🇦🇷
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
