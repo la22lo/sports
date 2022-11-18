@@ -1173,6 +1173,30 @@ http://194.44.48.82:8002/play/a04t
 #EXTINF:-1,Eleven 6
 http://194.44.48.82:8002/play/a037
 
+#EXTINF:-1,RTP 1 HD
+http://194.44.48.82:8002/play/a08d
+
+#EXTINF:-1,SPORT TV +
+http://194.44.48.82:8002/play/a07b
+
+#EXTINF:-1,Sport TV 1 HD
+http://194.44.48.82:8002/play/a02l
+
+#EXTINF:-1,Sport TV 2 HD
+http://194.44.48.82:8002/play/a02m
+
+#EXTINF:-1,Sport TV 3 HD
+http://194.44.48.82:8002/play/a02n
+
+#EXTINF:-1,SPORT TV 4 HD
+http://194.44.48.82:8002/play/a03d
+
+#EXTINF:-1,Sport TV 5 HD
+http://194.44.48.82:8002/play/a03v
+
+#EXTINF:-1,Sport TV 6 HD
+http://194.44.48.82:8002/play/a03w
+
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
