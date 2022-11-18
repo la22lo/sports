@@ -765,11 +765,44 @@ http://37.152.128.74:8085/play/a005
 #EXTINF:-1,Eleven Sports 3 HD 🇵🇱
 http://37.152.128.74:8085/play/a00c
 
-#EXTINF:-1,CANAL+ SPORT 2 HD 🇵🇱
-http://37.152.128.74:8085/play/a002
+#EXTINF:-1,Eleven Sports 1 HD 🇵🇱
+http://195.189.62.148:8000/play/a062
+
+#EXTINF:-1,Eleven Sports 2 HD 🇵🇱
+http://195.189.62.148:8000/play/a063
+
+#EXTINF:-1,Eleven Sports 3 HD 🇵🇱
+http://195.189.62.148:8000/play/a066
+
+#EXTINF:-1,ELEVEN SPORTS 4 HD 🇵🇱
+http://195.189.62.148:8000/play/a04r
+
+#EXTINF:-1,Polsat Sport Extra HD 🇵🇱
+http://195.189.62.148:8000/play/a037
+
+#EXTINF:-1,Polsat Sport Extra HD 🇵🇱
+http://195.189.62.148:8000/play/a033
+
+#EXTINF:-1,Polsat Sport HD 🇵🇱
+http://195.189.62.148:8000/play/a03d
+
+#EXTINF:-1,Polsat Sport News HD 🇵🇱
+http://195.189.62.148:8000/play/a02s
+
+#EXTINF:-1,Polsat Sport Premium 1 🇵🇱
+http://195.189.62.148:8000/play/a04b
 
 #EXTINF:-1, POLSAT PREMIUM 1 HD 🇵🇱
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/27677.m3u8
+
+#EXTINF:-1,Polsat Sport Premium 2 🇵🇱
+http://195.189.62.148:8000/play/a04c
+
+#EXTINF:-1,TVP Sport HD 🇵🇱
+http://195.189.62.148:8000/play/a06b
+
+#EXTINF:-1,CANAL+ SPORT 2 HD 🇵🇱
+http://37.152.128.74:8085/play/a002
 
 #EXTINF:-1, ZIGGO SPORT 🇳🇱
 http://line.365tv.xyz:8060/lucky/jfdnndsfs/118908
@@ -1148,42 +1181,6 @@ http://195.189.62.148:8000/play/a06e
 
 #EXTINF:-1,CANAL+ SPORT 5 HD
 http://195.189.62.148:8000/play/a06h
-
-#EXTINF:-1,Eleven Sports 1 4K
-http://195.189.62.148:8000/play/a04d
-
-#EXTINF:-1,Eleven Sports 1 HD
-http://195.189.62.148:8000/play/a062
-
-#EXTINF:-1,Eleven Sports 2 HD
-http://195.189.62.148:8000/play/a063
-
-#EXTINF:-1,Eleven Sports 3 HD
-http://195.189.62.148:8000/play/a066
-
-#EXTINF:-1,ELEVEN SPORTS 4 HD
-http://195.189.62.148:8000/play/a04r
-
-#EXTINF:-1,Polsat Sport Extra HD
-http://195.189.62.148:8000/play/a037
-
-#EXTINF:-1,Polsat Sport Extra HD
-http://195.189.62.148:8000/play/a033
-
-#EXTINF:-1,Polsat Sport HD
-http://195.189.62.148:8000/play/a03d
-
-#EXTINF:-1,Polsat Sport News HD
-http://195.189.62.148:8000/play/a02s
-
-#EXTINF:-1,Polsat Sport Premium 1
-http://195.189.62.148:8000/play/a04b
-
-#EXTINF:-1,Polsat Sport Premium 2
-http://195.189.62.148:8000/play/a04c
-
-#EXTINF:-1,TVP Sport HD
-http://195.189.62.148:8000/play/a06b
 
 #EXTINF:-1,Eleven 1 HD
 http://194.44.48.82:8002/play/a04r
