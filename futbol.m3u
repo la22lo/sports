@@ -63,6 +63,9 @@ http://149.22.208.21:9898/play/a00o
 #EXTINF:-1,Rai 2 🇮🇹
 http://146.19.16.211:8018/play/a05c
 
+#EXTINF:-1,RTP 1 HD 🇵🇹
+http://194.44.48.82:8002/play/a08d
+
 #EXTINF:-1, TV MAX 🇦🇷
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
 
@@ -1214,9 +1217,6 @@ http://194.44.48.82:8002/play/a037
 
 #EXTINF:-1,Eleven 6
 http://161.230.47.149:4344/play/a00x
-
-#EXTINF:-1,RTP 1 HD
-http://194.44.48.82:8002/play/a08d
 
 #EXTINF:-1,SPORT TV +
 http://194.44.48.82:8002/play/a07b
