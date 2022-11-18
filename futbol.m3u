@@ -1155,6 +1155,24 @@ http://195.189.62.148:8000/play/a04c
 #EXTINF:-1,TVP Sport HD
 http://195.189.62.148:8000/play/a06b
 
+#EXTINF:-1,Eleven 1 HD
+http://194.44.48.82:8002/play/a04r
+
+#EXTINF:-1,Eleven 2 HD
+http://194.44.48.82:8002/play/a032
+
+#EXTINF:-1,Eleven 3
+http://194.44.48.82:8002/play/a035
+
+#EXTINF:-1,Eleven 4
+http://194.44.48.82:8002/play/a04s
+
+#EXTINF:-1,Eleven 5
+http://194.44.48.82:8002/play/a04t
+
+#EXTINF:-1,Eleven 6
+http://194.44.48.82:8002/play/a037
+
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
