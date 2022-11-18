@@ -1104,8 +1104,56 @@ https://d3awnlgqz0szay.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/in
 #EXTINF:-1,TYC SPORTS PLAY 🇦🇷
 https://d3awnlgqz0szay.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8
 
-#EXTINF:-1, Astro Arena 2
-http://50.7.220.74:8278/Axn/playlist.m3u8?tid=MDAD8374621983746219&ct=19225&tsum=60883af30a38d2c40db4c04f8651ffaa
+#EXTINF:-1,CANAL+ SPORT HD
+http://195.189.62.148:8000/play/a05d
+
+#EXTINF:-1,CANAL+ SPORT 2 HD
+http://195.189.62.148:8000/play/a05y
+
+#EXTINF:-1,CANAL+ SPORT 3 HD
+http://195.189.62.148:8000/play/a06d
+
+#EXTINF:-1,CANAL+ SPORT 4 HD
+http://195.189.62.148:8000/play/a06e
+
+#EXTINF:-1,CANAL+ SPORT 5 HD
+http://195.189.62.148:8000/play/a06h
+
+#EXTINF:-1,Eleven Sports 1 4K
+http://195.189.62.148:8000/play/a04d
+
+#EXTINF:-1,Eleven Sports 1 HD
+http://195.189.62.148:8000/play/a062
+
+#EXTINF:-1,Eleven Sports 2 HD
+http://195.189.62.148:8000/play/a063
+
+#EXTINF:-1,Eleven Sports 3 HD
+http://195.189.62.148:8000/play/a066
+
+#EXTINF:-1,ELEVEN SPORTS 4 HD
+http://195.189.62.148:8000/play/a04r
+
+#EXTINF:-1,Polsat Sport Extra HD
+http://195.189.62.148:8000/play/a037
+
+#EXTINF:-1,Polsat Sport Extra HD
+http://195.189.62.148:8000/play/a033
+
+#EXTINF:-1,Polsat Sport HD
+http://195.189.62.148:8000/play/a03d
+
+#EXTINF:-1,Polsat Sport News HD
+http://195.189.62.148:8000/play/a02s
+
+#EXTINF:-1,Polsat Sport Premium 1
+http://195.189.62.148:8000/play/a04b
+
+#EXTINF:-1,Polsat Sport Premium 2
+http://195.189.62.148:8000/play/a04c
+
+#EXTINF:-1,TVP Sport HD
+http://195.189.62.148:8000/play/a06b
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
