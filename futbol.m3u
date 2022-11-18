@@ -13,9 +13,6 @@ http://ott-cdn.ucom.am/s4/04.m3u8
 http://95.107.132.105/out/u/638_1.m3u8 
 
 #EXTINF:-1, RTSH Sport 🇦🇱
-http://edge01eu.ekranet.com/rtshsport_240p/index.m3u8
-
-#EXTINF:-1, RTSH Sport 🇦🇱
 http://185.226.88.6:9510/tch
 
 #EXTINF:-1,ZDF 🇩🇪
