@@ -241,6 +241,9 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 http://190.61.102.67:31589/play/a08o/index.m3u8
 
 #EXTINF:-1, TUDN 🇲🇽
+http://45.5.117.239:8000/play/a076/index.m3u8
+
+#EXTINF:-1, TUDN 🇲🇽
 https://linear-347.frequency.stream/dist/vix/347/hls/master/playlist.m3u8?fbclid=IwAR0pvAH0kaQPGOAcT0MtLLOE2Y1YqIglapxrpOEGe5jfw__f3zp9PJNWwkg
 
 #EXTINF:-1, TUDN 🇲🇽
