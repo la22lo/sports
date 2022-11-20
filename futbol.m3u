@@ -147,13 +147,13 @@ http://92.119.88.58:8080/271/index.m3u8
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
 http://92.119.88.58:8080/270/index.m3u8
 
-#EXTINF:-1 TRUE VISIONS HD
+#EXTINF:-1, TRUE VISIONS HD
 http://w.nasvpn.xyz:8080/live/saya/saya/16586.ts
 
-#EXTINF:-1 TRUE VISIONS 1 HD
+#EXTINF:-1, TRUE VISIONS 1 HD
 http://w.nasvpn.xyz:8080/live/saya/saya/13327.ts
 
-#EXTINF:-1 TRUE VISIONS 3 HD
+#EXTINF:-1, TRUE VISIONS 3 HD
 http://w.nasvpn.xyz:8080/live/saya/saya/13328.ts
 
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
