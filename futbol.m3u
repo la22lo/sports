@@ -75,6 +75,9 @@ http://194.44.48.82:8002/play/a08d
 #EXTINF:-1, TV MAX 🇦🇷
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
 
+#EXTINF:-1, LA 1 🇪🇸
+https://P135@rtvehlslivestream.akamaized.net/hls/live/2041391/LA1_AKA_HLS_GL1/master.m3u8
+
 #EXTINF:-1,ESPN + 🇺🇸
 http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35059.ts
 
