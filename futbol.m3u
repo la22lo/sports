@@ -1236,18 +1236,6 @@ http://190.60.39.62:8000/play/a02e
 #EXTINF:-1,Fox Sports 3
 http://190.60.39.62:8000/play/a02f
 
-#EXTINF:-1,Bein Sports 1_Max
-http://87.120.36.56:28888/udp/239.17.1.26:1234
-
-#EXTINF:-1,Bein Sports 2_Max
-http://87.120.36.56:28888/udp/239.17.1.27:1234
-
-#EXTINF:-1,Bein Sports 1_Premium
-http://87.120.36.56:28888/udp/239.17.1.97:1234
-
-#EXTINF:-1,Bein Sports 3_Premium
-http://87.120.36.56:28888/udp/239.17.1.99:1234
-
 #EXTINF:-1,TYC SPORTS PLAY 🇦🇷
 https://d3awnlgqz0szay.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_13.m3u8
 
