@@ -66,6 +66,9 @@ http://194.44.48.82:8002/play/a08d
 #EXTINF:-1,RTP 1 HD 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.50:7050/rtp1
 
+#EXTINF:-1, TELEAMAZONAS ECU
+http://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
+
 #EXTINF:-1,Rai 2 🇮🇹
 http://149.22.208.21:9898/play/a00o
 
@@ -1244,6 +1247,12 @@ https://d3awnlgqz0szay.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/in
 
 #EXTINF:-1, TA
 https://P135@jazz-other.boxcast.com/miles-davis/o09pqkdl9px3chhlcw9f/1080p-ext.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9qYXp6LW90aGVyLmJveGNhc3QuY29tL21pbGVzLWRhdmlzL28wOXBxa2RsOXB4M2NoaGxjdzlmLzEwODBwLWV4dC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjY5MDY3NjIwfX19XX0_&Signature=Ef32a8pm1jufUPSnD2ZGSyO004nFmqcWCE-ptOUvxcUgf70GutXrVXTQvDsccOhoaoP-7DLLiNr02E5EHuwiGMzkDKCHvRw92rcanrXNypO7G8P6lDeGI9GkXZhFQt~G27wrAEC7TF5xdrz80TVn9Sip5a07z3Lu5ArrOk9FmkoU2fYSzk7StRCKey8ziiC9UUnPfjwxOnDv4VhVz42Y1oEUYIY0jWttnkICvw8TGZY~7OmJEbGgOKPjF5BFtODl9OLVckhkSEUKJ6289-7Gbjcw6ZUBwTvKK1PI1lHFZWOQ8JminjpwDSXaNh9AEk1FwN12r1I4-En1fMW4gRvl7A__&Key-Pair-Id=APKAJ7GUCBQUK6NTWZCA
+
+#EXTINF:-1, TELEAMAZONAS
+http://200.24.132.99:8000/play/a006
+
+#EXTINF:-1, TELEAMAZONAS
+http://200.24.132.99:8000/play/a02l
 
 #EXTINF:-1, TUDN
 https://linear-347.frequency.stream/dist/vix/347/hls/master/playlist_640x360.m3u8?fbclid=PAAaYRG9xu-c1e3NEwGBrhrlkSTV3b2dyCpO6boxhbNA4xY1sHR7hRnNC4Rvg
