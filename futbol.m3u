@@ -1278,6 +1278,9 @@ https://hgdsxzv.azureedge.net/live/FOX/chunks.m3u8
 #EXTINF:-1, XOILAC ASIA
 https://1093384063.cdn.khmer-hd.com/may1564HD/playlist.m3u8
 
+#EXTINF:-1, ASTRO SPORTS
+http://167.172.79.191:9999/cloud/stream/0260fef4038d44cdb34a6b35f0cd1463/10/index.m3u8
+
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
