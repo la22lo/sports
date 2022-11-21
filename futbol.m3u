@@ -12,8 +12,8 @@ http://95.107.132.105/out/u/638_1.m3u8
 #EXTINF:-1, RTSH Sport 🇦🇱
 http://185.226.88.6:9510/tch
 
-#EXTINF:-1,ZDF 🇩🇪
-https://s6.hopslan.com/zdfg1/index.m3u8
+#EXTINF:-1,ZDF HD 🇩🇪
+http://188.93.237.130:8000/play/a00z
 
 #EXTINF:-1,ZDF 🇩🇪
 http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036582
@@ -24,8 +24,8 @@ http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_ZDF_ott/__op/dash-default/
 #EXTINF:-1,ZDF 🇩🇪
 http://188.93.237.130:8000/play/a012
 
-#EXTINF:-1,ZDF HD 🇩🇪
-http://188.93.237.130:8000/play/a00z
+#EXTINF:-1,ZDF 🇩🇪
+https://s6.hopslan.com/zdfg1/index.m3u8
 
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
