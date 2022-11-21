@@ -48,13 +48,13 @@ http://212.200.197.0:8002/play/a012/index.m3u8
 #EXTINF:-1, RTK 1 🇽🇰
 http://91.187.110.91:5252/rtk1hd
 
-#EXTINF:-1, TSN 1 CANADA
+#EXTINF:-1, TSN 1 🇨🇦
 http://89.187.175.143:80/3038/index.m3u8
 
-#EXTINF:-1, TSN 3 CANADA
+#EXTINF:-1, TSN 3 🇨🇦
 http://89.187.175.143:80/3046/index.m3u8
 
-#EXTINF:-1 ,TSN 4 CANADA
+#EXTINF:-1 ,TSN 4 🇨🇦
 http://89.187.175.143:80/3047/index.m3u8
 
 #EXTINF:-1, TRT 1 🇹🇷
@@ -66,7 +66,7 @@ http://194.44.48.82:8002/play/a08d
 #EXTINF:-1,RTP 1 HD 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.50:7050/rtp1
 
-#EXTINF:-1, TELEAMAZONAS ECU
+#EXTINF:-1, TELEAMAZONAS 🇪🇨
 http://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
 
 #EXTINF:-1,Rai 2 🇮🇹
