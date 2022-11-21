@@ -1275,6 +1275,9 @@ https://stream.dlivecdn.com/dlive/transcode-72-50/manzanaazul/1668839126/src/liv
 #EXTINF:-1, TELEVISA 🇲🇽
 https://v-ny.mybtv.net/live/659.m3u8?fbclid=IwAR3SjkrBw-ZeIHtUUwgoJv2-7qStUVFUCOCNvVCzp8RcyerIsXs-Cs2EO7U&mibextid=Zxz2cZ
 
+#EXTINF:-1, TELEVISA 🇲🇽
+https://v-px.mybtv.net/live/39/1280x720.m3u8
+
 #EXTINF:-1, ITV 1 SPORT
 https://stream.ovochannel.com/live/abr_s-1/live/s-1/chunks.m3u8
 
