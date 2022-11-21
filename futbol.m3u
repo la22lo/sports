@@ -1251,9 +1251,6 @@ http://190.60.39.62:8000/play/a02f
 #EXTINF:-1, TUDN 🇲🇽
 https://linear-347.frequency.stream/dist/vix/347/hls/master/playlist_640x360.m3u8?fbclid=PAAaYRG9xu-c1e3NEwGBrhrlkSTV3b2dyCpO6boxhbNA4xY1sHR7hRnNC4Rvg
 
-#EXTINF:-1,DIRECT SPORT 🇦🇷
-https://d18a31n38iibvt.cloudfront.net/replay/sporfie-server-cam-cd31ee/event_-NHQLmG1JwG-Q_DPjjes_697e9c_njnkn/live.m3u8
-
 #EXTINF:-1,TyC SPORT 🇦🇷
 https://stream.dlivecdn.com/dlive/transcode-75-231/trofeodorado/1668838601/src/live.m3u8
 
@@ -1265,18 +1262,6 @@ https://stream.ovochannel.com/live/abr_s-1/live/s-1/chunks.m3u8
 
 #EXTINF:-1, FOX LIVE 🇺🇸
 https://hgdsxzv.azureedge.net/live/FOX/chunks.m3u8
-
-#EXTINF:-1, TSN 1
-https://endlovasd.s3-accelerate.amazonaws.com/fifa_720p60.m3u8
-
-#EXTINF:-1, TSN 3
-https://s@hdstreamss.club/live/ch1/index.m3u8
-
-#EXTINF:-1, XOILAC ASIA
-https://1093384063.cdn.khmer-hd.com/may1564HD/playlist.m3u8
-
-#EXTINF:-1, ASTRO SPORTS
-http://167.172.79.191:9999/cloud/stream/0260fef4038d44cdb34a6b35f0cd1463/10/index.m3u8
 
 #EXTINF:-1, TF 1 DIRECT FRA
 https://s@tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
