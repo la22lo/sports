@@ -1260,10 +1260,10 @@ http://200.24.132.99:8000/play/a02l
 #EXTINF:-1, TUDN
 https://linear-347.frequency.stream/dist/vix/347/hls/master/playlist_640x360.m3u8?fbclid=PAAaYRG9xu-c1e3NEwGBrhrlkSTV3b2dyCpO6boxhbNA4xY1sHR7hRnNC4Rvg
 
-#EXTINF:-1,TVP
+#EXTINF:-1,TV PUBLICA ARGENTINA 🇦🇷
 https://stream.dlivecdn.com/dlive/transcode-72-50/manzanaazul/1668839126/src/live.m3u8
 
-#EXTINF:-1, TELEVISA
+#EXTINF:-1, TELEVISA 🇲🇽
 https://v-ny.mybtv.net/live/659.m3u8?fbclid=IwAR3SjkrBw-ZeIHtUUwgoJv2-7qStUVFUCOCNvVCzp8RcyerIsXs-Cs2EO7U&mibextid=Zxz2cZ
 
 #EXTINF:-1, ITV 1 SPORT
@@ -1271,6 +1271,12 @@ https://stream.ovochannel.com/live/abr_s-1/live/s-1/chunks.m3u8
 
 #EXTINF:-1,TVP Sport HD 🇵🇱
 http://195.189.62.148:8000/play/a06b
+
+#EXTINF:-1, FOX LIVE 🇺🇸
+https://hgdsxzv.azureedge.net/live/FOX/chunks.m3u8
+
+#EXTINF:-1, XOILAC ASIA
+https://1093384063.cdn.khmer-hd.com/may1564HD/playlist.m3u8
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
