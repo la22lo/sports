@@ -1260,6 +1260,9 @@ https://linear-347.frequency.stream/dist/vix/347/hls/master/playlist_640x360.m3u
 #EXTINF:-1,DIRECT SPORT 🇦🇷
 https://d18a31n38iibvt.cloudfront.net/replay/sporfie-server-cam-cd31ee/event_-NHQLmG1JwG-Q_DPjjes_697e9c_njnkn/live.m3u8
 
+#EXTINF:-1,TyC SPORT 🇦🇷
+https://stream.dlivecdn.com/dlive/transcode-75-231/trofeodorado/1668838601/src/live.m3u8
+
 #EXTINF:-1, TELEVISA 🇲🇽
 https://v-px.mybtv.net/live/39/1280x720.m3u8
 
