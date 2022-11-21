@@ -1266,11 +1266,14 @@ http://200.24.132.99:8000/play/a006
 #EXTINF:-1, TELEAMAZONAS 🇪🇨
 http://200.24.132.99:8000/play/a02l
 
-#EXTINF:-1, TUDN
+#EXTINF:-1, TUDN 🇲🇽
 https://linear-347.frequency.stream/dist/vix/347/hls/master/playlist_640x360.m3u8?fbclid=PAAaYRG9xu-c1e3NEwGBrhrlkSTV3b2dyCpO6boxhbNA4xY1sHR7hRnNC4Rvg
 
 #EXTINF:-1,TV PUBLICA ARGENTINA 🇦🇷
 https://stream.dlivecdn.com/dlive/transcode-72-50/manzanaazul/1668839126/src/live.m3u8
+
+#EXTINF:-1,DIRECT SPORT 🇦🇷
+https://d18a31n38iibvt.cloudfront.net/replay/sporfie-server-cam-cd31ee/event_-NHQLmG1JwG-Q_DPjjes_697e9c_njnkn/live.m3u8
 
 #EXTINF:-1, TELEVISA 🇲🇽
 https://v-ny.mybtv.net/live/659.m3u8?fbclid=IwAR3SjkrBw-ZeIHtUUwgoJv2-7qStUVFUCOCNvVCzp8RcyerIsXs-Cs2EO7U&mibextid=Zxz2cZ
