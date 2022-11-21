@@ -48,6 +48,9 @@ http://212.200.197.0:8002/play/a012/index.m3u8
 #EXTINF:-1, RTK 1 🇽🇰
 http://91.187.110.91:5252/rtk1hd
 
+#EXTINF:-1, TSN 1 CANADA
+http://89.187.175.143:80/3038/index.m3u8
+
 #EXTINF:-1, TRT 1 🇹🇷
 http://195.155.98.170:5858/play/a09j?checkedby:iptvcat.com
 
