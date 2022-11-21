@@ -1260,6 +1260,9 @@ http://200.24.132.99:8000/play/a02l
 #EXTINF:-1, TUDN
 https://linear-347.frequency.stream/dist/vix/347/hls/master/playlist_640x360.m3u8?fbclid=PAAaYRG9xu-c1e3NEwGBrhrlkSTV3b2dyCpO6boxhbNA4xY1sHR7hRnNC4Rvg
 
+#EXTINF:-1,TVP
+https://stream.dlivecdn.com/dlive/transcode-72-50/manzanaazul/1668839126/src/live.m3u8
+
 #EXTINF:-1,TVP Sport HD 🇵🇱
 http://195.189.62.148:8000/play/a06b
 
