@@ -1254,41 +1254,17 @@ http://190.60.39.62:8000/play/a02e
 #EXTINF:-1,Fox Sports 3
 http://190.60.39.62:8000/play/a02f
 
-#EXTINF:-1,TYC SPORTS PLAY 🇦🇷
-https://d3awnlgqz0szay.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_13.m3u8
-
-#EXTINF:-1,TYC SPORTS PLAY 🇦🇷
-https://d3awnlgqz0szay.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8
-
-#EXTINF:-1, TA 🇪🇨
-https://P135@jazz-other.boxcast.com/miles-davis/o09pqkdl9px3chhlcw9f/1080p-ext.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9qYXp6LW90aGVyLmJveGNhc3QuY29tL21pbGVzLWRhdmlzL28wOXBxa2RsOXB4M2NoaGxjdzlmLzEwODBwLWV4dC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjY5MDY3NjIwfX19XX0_&Signature=Ef32a8pm1jufUPSnD2ZGSyO004nFmqcWCE-ptOUvxcUgf70GutXrVXTQvDsccOhoaoP-7DLLiNr02E5EHuwiGMzkDKCHvRw92rcanrXNypO7G8P6lDeGI9GkXZhFQt~G27wrAEC7TF5xdrz80TVn9Sip5a07z3Lu5ArrOk9FmkoU2fYSzk7StRCKey8ziiC9UUnPfjwxOnDv4VhVz42Y1oEUYIY0jWttnkICvw8TGZY~7OmJEbGgOKPjF5BFtODl9OLVckhkSEUKJ6289-7Gbjcw6ZUBwTvKK1PI1lHFZWOQ8JminjpwDSXaNh9AEk1FwN12r1I4-En1fMW4gRvl7A__&Key-Pair-Id=APKAJ7GUCBQUK6NTWZCA
-
-#EXTINF:-1, TELEAMAZONAS 🇪🇨
-http://200.24.132.99:8000/play/a006
-
-#EXTINF:-1, TELEAMAZONAS 🇪🇨
-http://200.24.132.99:8000/play/a02l
-
 #EXTINF:-1, TUDN 🇲🇽
 https://linear-347.frequency.stream/dist/vix/347/hls/master/playlist_640x360.m3u8?fbclid=PAAaYRG9xu-c1e3NEwGBrhrlkSTV3b2dyCpO6boxhbNA4xY1sHR7hRnNC4Rvg
 
-#EXTINF:-1,TV PUBLICA ARGENTINA 🇦🇷
-https://stream.dlivecdn.com/dlive/transcode-72-50/manzanaazul/1668839126/src/live.m3u8
-
 #EXTINF:-1,DIRECT SPORT 🇦🇷
 https://d18a31n38iibvt.cloudfront.net/replay/sporfie-server-cam-cd31ee/event_-NHQLmG1JwG-Q_DPjjes_697e9c_njnkn/live.m3u8
-
-#EXTINF:-1, TELEVISA 🇲🇽
-https://v-ny.mybtv.net/live/659.m3u8?fbclid=IwAR3SjkrBw-ZeIHtUUwgoJv2-7qStUVFUCOCNvVCzp8RcyerIsXs-Cs2EO7U&mibextid=Zxz2cZ
 
 #EXTINF:-1, TELEVISA 🇲🇽
 https://v-px.mybtv.net/live/39/1280x720.m3u8
 
 #EXTINF:-1, ITV 1 SPORT
 https://stream.ovochannel.com/live/abr_s-1/live/s-1/chunks.m3u8
-
-#EXTINF:-1,TVP Sport HD 🇵🇱
-http://195.189.62.148:8000/play/a06b
 
 #EXTINF:-1, FOX LIVE 🇺🇸
 https://hgdsxzv.azureedge.net/live/FOX/chunks.m3u8
