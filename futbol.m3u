@@ -1263,10 +1263,10 @@ https://linear-347.frequency.stream/dist/vix/347/hls/master/playlist_640x360.m3u
 #EXTINF:-1,TVP
 https://stream.dlivecdn.com/dlive/transcode-72-50/manzanaazul/1668839126/src/live.m3u8
 
-#EXTINF:-1,BTV EN VIVO
-https://v-ny.mybtv.net/live/659.m3u8?mibextid=Zxz2cZ
+#EXTINF:-1, TELEVISA
+https://v-ny.mybtv.net/live/659.m3u8?fbclid=IwAR3SjkrBw-ZeIHtUUwgoJv2-7qStUVFUCOCNvVCzp8RcyerIsXs-Cs2EO7U&mibextid=Zxz2cZ
 
-#EXTINF:-1,ITV 1 SPORT
+#EXTINF:-1, ITV 1 SPORT
 https://stream.ovochannel.com/live/abr_s-1/live/s-1/chunks.m3u8
 
 #EXTINF:-1,TVP Sport HD 🇵🇱
