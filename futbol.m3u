@@ -6,9 +6,6 @@ http://185.236.229.13:4000/play/a040
 #EXTINF:-1,Sport TV 1 HD 🇵🇹
 http://comag.rip:8000/50738601689735/03751643107136/66469
 
-#EXTINF:-1,TVP Sport HD 🇵🇱
-http://195.189.62.148:8000/play/a06b
-
 #EXTINF:-1, RTSH Sport 🇦🇱
 http://95.107.132.105/out/u/638_1.m3u8 
 
@@ -1259,6 +1256,9 @@ https://linear-347.frequency.stream/dist/vix/347/hls/master/playlist_640x360.m3u
 
 #EXTINF:-1, MUNDIAL
 https://s6.hopslan.com/zdfg1/index.m3u8?token=d7f77fb0aa041a2e56ddb9969642b5c74ad775f9-a9f6214c6e330b010390a0a172230350-1668989377-1668978577
+
+#EXTINF:-1,TVP Sport HD 🇵🇱
+http://195.189.62.148:8000/play/a06b
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
