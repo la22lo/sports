@@ -1287,6 +1287,9 @@ http://195.189.62.148:8000/play/a06b
 #EXTINF:-1, FOX LIVE 🇺🇸
 https://hgdsxzv.azureedge.net/live/FOX/chunks.m3u8
 
+#EXTINF:-1, TSN 1
+https://endlovasd.s3-accelerate.amazonaws.com/fifa_720p60.m3u8
+
 #EXTINF:-1, TSN 3
 https://s@hdstreamss.club/live/ch1/index.m3u8
 
