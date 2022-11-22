@@ -1278,6 +1278,9 @@ https://linear-347.frequency.stream/dist/vix/347/hls/master/playlist_640x360.m3u
 #EXTINF:-1,CANAL SPORTS 10 🇦🇷
 https://P135@stmv.streamingvip.click/television/television/chunklist_w2094415963.m3u8
 
+#EXTINF:-1,CANAL SPORTS 10 🇦🇷
+http://138.117.4.70:8075/channel10/playlist.m3u8
+
 #EXTINF:-1, ITV 1 HD 🇬🇧
 https://is.gd/bPoTb8
 
@@ -1313,6 +1316,18 @@ http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2637.m3u8
 
 #EXTINF:-1, SUPERSPORT Variety 3 🇿🇦
 http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2638.m3u8
+
+#EXTINF:-1,TYC SPORT 🇦🇷
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+
+#EXTINF:-1,TVP 🇦🇷
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+
+#EXTINF:-1,AUF TV 🇺🇾
+https://d3kesjjwh2cgxl.cloudfront.net/out/v1/2370f106ad21496cbf41edf4aa88c2e4/index.m3u8
+
+#EXTINF:-1,CHILEVISION 🇨🇱
+http://45.232.211.196:1080/play/a04d
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
