@@ -1359,6 +1359,9 @@ http://89.187.175.143:80/3047/mpegts
 #EXTINF:-1, TSN 5 🇨🇦
 http://89.187.175.143/3048/mpegts
 
+#EXTINF:-1, NUBAR SPORT 🇶🇦
+http://stream.nubar.tv:1935/private/NUBARSport/index.m3u8
+
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
