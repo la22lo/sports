@@ -1329,6 +1329,12 @@ https://d3kesjjwh2cgxl.cloudfront.net/out/v1/2370f106ad21496cbf41edf4aa88c2e4/in
 #EXTINF:-1,CHILEVISION 🇨🇱
 http://45.232.211.196:1080/play/a04d
 
+#EXTINF:-1,TIGO SPORTS 🇵🇾
+http://190.61.102.67:8000/play/a05x
+
+#EXTINF:-1, TELEMUNDO 🇲🇽
+https://v-ny.mybtv.net/live/659.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
+
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
