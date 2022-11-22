@@ -60,14 +60,8 @@ http://89.187.175.143:80/3047/index.m3u8
 #EXTINF:-1, BEIN SPORT MAX 1 🇶🇦
 https://P135@yeszet1x1cdn22.streamingrdp.com/liveebp2/ebp2/playlist.m3u8
 
-#EXTINF:-1, BEIN SPORT MAX 1 🇶🇦
+#EXTINF:-1, BEIN SPORT MAX 2 🇶🇦
 https://P135@yeszet1x1cdn22.streamingrdp.com/liveebp1/ebp1/playlist.m3u8
-
-#EXTINF:-1, BEIN SPORT MAX 1 🇶🇦
-https://P135@yeszet1x1cdn22.streamingrdp.com/liveebp1/ebp1/chunks.m3u8
-
-#EXTINF:-1, BEIN SPORT MAX 5 🇶🇦
-https://yeszet1x1cdn22.streamingrdp.com/liveebp3/ebp3/chunks.m3u8
 
 #EXTINF:-1,RTP 1 HD 🇵🇹
 http://194.44.48.82:8002/play/a08d
