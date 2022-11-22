@@ -84,11 +84,17 @@ http://89.187.175.143:80/4176/index.m3u8
 #EXTINF:-1, FOX LIVE 🇺🇸
 http://89.187.175.143:80/4175/index.m3u8
 
-#EXTINF:-1, FS 1 🇬🇧
+#EXTINF:-1, FS 1 🇺🇸
 http://P135@89.187.175.143/3056/index.m3u8
 
-#EXTINF:-1, FS 1 🇬🇧
+#EXTINF:-1, FS 1 🇺🇸
 http://P135@89.187.175.143/3056/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, FS 1 🇺🇸
+http://89.187.175.143/3056/mpegts
+
+#EXTINF:-1, FS 2 🇺🇸
+http://89.187.175.143/3028/mpegts
 
 #EXTINF:-1, TELEAMAZONAS 🇪🇨
 http://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
@@ -1337,6 +1343,15 @@ http://190.61.102.67:8000/play/a05x
 
 #EXTINF:-1, TELEMUNDO 🇲🇽
 https://v-ny.mybtv.net/live/659.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
+
+#EXTINF:-1, TSN 3 🇨🇦
+http://89.187.175.143/3046/mpegts
+
+#EXTINF:-1, TSN 4 🇨🇦
+http://89.187.175.143:80/3047/mpegts
+
+#EXTINF:-1, TSN 5 🇨🇦
+http://89.187.175.143/3048/mpegts
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
