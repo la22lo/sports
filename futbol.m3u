@@ -81,6 +81,12 @@ https://linear-347.frequency.stream/dist/vix/347/hls/master/playlist_640x360.m3u
 #EXTINF:-1, FOX LIVE 🇺🇸
 https://hgdsxzv.azureedge.net/live/FOX/chunks.m3u8
 
+#EXTINF:-1, FOX LIVE 🇺🇸
+http://89.187.175.143:80/4176/index.m3u8
+
+#EXTINF:-1, FOX LIVE 🇺🇸
+http://89.187.175.143:80/4175/index.m3u8
+
 #EXTINF:-1, TELEAMAZONAS 🇪🇨
 http://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
 
@@ -101,6 +107,9 @@ https://P135@rtvehlslivestream.akamaized.net/hls/live/2041391/LA1_AKA_HLS_GL1/ma
 
 #EXTINF:-1,ESPN + 🇺🇸
 http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35059.ts
+
+#EXTINF:-1,ESPN + 🇺🇸
+http://89.187.175.143:80/3044/index.m3u8
 
 #EXTINF:-1, ESPN DEPORTES 🇦🇷
 http://38.143.137.221:8000/LA81/index.m3u8
