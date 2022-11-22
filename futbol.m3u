@@ -57,6 +57,12 @@ http://89.187.175.143:80/3046/index.m3u8
 #EXTINF:-1 ,TSN 4 🇨🇦
 http://89.187.175.143:80/3047/index.m3u8
 
+#EXTINF:-1, FS 1 🇬🇧
+http://P135@89.187.175.143/3056/index.m3u8
+
+#EXTINF:-1, FS 1 🇬🇧
+http://P135@89.187.175.143/3056/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, BEIN SPORT MAX 1 🇶🇦
 https://P135@yeszet1x1cdn22.streamingrdp.com/liveebp2/ebp2/playlist.m3u8
 
@@ -1262,12 +1268,6 @@ https://hgdsxzv.azureedge.net/live/FOX/chunks.m3u8
 
 #EXTINF:-1, TF 1 DIRECT FRA
 https://s@tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
-
-#EXTINF:-1, MUND
-http://P135@89.187.175.143/3056/index.m3u8
-
-#EXTINF:-1, MUND
-http://P135@89.187.175.143/3056/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
