@@ -3,6 +3,18 @@
 #EXTINF:-1, SPORT TV 1 🇵🇹
 http://185.236.229.13:4000/play/a040
 
+#EXTINF:-1, TSN 1 🇨🇦
+http://89.187.175.143:80/3038/index.m3u8
+
+#EXTINF:-1, TSN 3 🇨🇦
+http://89.187.175.143:80/3046/index.m3u8
+
+#EXTINF:-1 ,TSN 4 🇨🇦
+http://89.187.175.143:80/3047/index.m3u8
+
+#EXTINF:-1 ,TSN 5 🇨🇦
+http://89.187.175.143/3048/index.m3u8
+
 #EXTINF:-1, RTSH Sport 🇦🇱
 http://95.107.132.105/out/u/638_1.m3u8 
 
@@ -39,18 +51,6 @@ http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8?
 #EXTINF:-1, RTK 1 🇽🇰
 http://91.187.110.91:5252/rtk1hd
 
-#EXTINF:-1, TSN 1 🇨🇦
-http://89.187.175.143:80/3038/index.m3u8
-
-#EXTINF:-1, TSN 3 🇨🇦
-http://89.187.175.143:80/3046/index.m3u8
-
-#EXTINF:-1 ,TSN 4 🇨🇦
-http://89.187.175.143:80/3047/index.m3u8
-
-#EXTINF:-1 ,TSN 5 🇨🇦
-http://89.187.175.143/3048/index.m3u8
-
 #EXTINF:-1, BEIN SPORT MAX 2 🇶🇦
 https://P135@yeszet1x1cdn22.streamingrdp.com/hlsbp1/ebp1/playlist.m3u8
 
@@ -77,6 +77,9 @@ https://P135@linear-347.frequency.stream:443/dist/vix/347/hls/master/playlist_19
 
 #EXTINF:-1, 5 TUDN LIVE 🇲🇽
 https://linear-347.frequency.stream/dist/vix/347/hls/master/playlist_640x360.m3u8?fbclid=PAAaYRG9xu-c1e3NEwGBrhrlkSTV3b2dyCpO6boxhbNA4xY1sHR7hRnNC4Rvg
+
+#EXTINF:-1, FOX LIVE 🇺🇸
+https://hgdsxzv.azureedge.net/live/FOX/chunks.m3u8
 
 #EXTINF:-1, TELEAMAZONAS 🇪🇨
 http://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
@@ -1260,29 +1263,11 @@ http://190.60.39.62:8000/play/a02f
 #EXTINF:-1, TUDN 🇲🇽
 https://linear-347.frequency.stream/dist/vix/347/hls/master/playlist_640x360.m3u8?fbclid=PAAaYRG9xu-c1e3NEwGBrhrlkSTV3b2dyCpO6boxhbNA4xY1sHR7hRnNC4Rvg
 
-#EXTINF:-1, TELEVISA 🇲🇽
-https://v-px.mybtv.net/live/39/1280x720.m3u8
-
 #EXTINF:-1, ITV 1 SPORT
 https://stream.ovochannel.com/live/abr_s-1/live/s-1/chunks.m3u8
 
-#EXTINF:-1, FOX LIVE 🇺🇸
-https://hgdsxzv.azureedge.net/live/FOX/chunks.m3u8
-
-#EXTINF:-1, TF 1 DIRECT FRA
-https://s@tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
-
-#EXTINF:-1,CANAL SPORTS 10 🇦🇷
-https://P135@cloudvideo.servers10.com:8081/8190/index.m3u8
-
-#EXTINF:-1,CANAL SPORTS 10 🇦🇷
-https://stmv.streamingvip.click/rbmtv2/rbmtv2/chunklist_w1845201388.m3u8
-
 #EXTINF:-1,CANAL SPORTS 10 🇦🇷
 https://P135@stmv.streamingvip.click/television/television/chunklist_w2094415963.m3u8
-
-#EXTINF:-1, MUNDIAL
-https://40a6smm5mh4fkw.data.mediastore.eu-west-2.amazonaws.com/livea/main_720p30.m3u8
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
