@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, TUDN 🇲🇽
+https://linear-347.frequency.stream/dist/vix/347/hls/master/playlist_1024x576.m3u8
+
 #EXTINF:-1, SPORT TV 1 🇵🇹
 http://185.236.229.13:4000/play/a040
 
