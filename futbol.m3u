@@ -1269,6 +1269,9 @@ https://stream.ovochannel.com/live/abr_s-1/live/s-1/chunks.m3u8
 #EXTINF:-1,CANAL SPORTS 10 🇦🇷
 https://P135@stmv.streamingvip.click/television/television/chunklist_w2094415963.m3u8
 
+#EXTINF:-1, PTV Sports
+http://apex-media.xyz:8080/live/adamryan762@gmail.com/e3QZWRs/1514084.ts
+
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
