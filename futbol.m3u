@@ -21,6 +21,9 @@ http://95.107.132.105/out/u/638_1.m3u8
 #EXTINF:-1, RTSH Sport 🇦🇱
 http://185.226.88.6:9510/tch
 
+#EXTINF:-1, RTSH Sport 🇦🇱
+http://185.89.156.111:8000/play/a022?
+
 #EXTINF:-1,ZDF HD 🇩🇪
 http://188.93.237.130:8000/play/a00z
 
