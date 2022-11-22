@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, 5 MEXICO 🇲🇽
+https://P135@linear-347.frequency.stream:443/dist/vix/347/hls/master/playlist_1920x1080.m3u8
+
 #EXTINF:-1, SPORT TV 1 🇵🇹
 http://185.236.229.13:4000/play/a040
 
