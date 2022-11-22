@@ -69,6 +69,9 @@ https://P135@yeszet1x1cdn22.streamingrdp.com/liveebp2/ebp2/playlist.m3u8
 #EXTINF:-1, BEIN SPORT MAX 2 🇶🇦
 https://P135@yeszet1x1cdn22.streamingrdp.com/liveebp1/ebp1/playlist.m3u8
 
+#EXTINF:-1, BEIN SPORT MAX 2 🇶🇦
+https://P135@yeszet1x1cdn22.streamingrdp.com:443/hlsbp1/ebp1/chunks.m3u8
+
 #EXTINF:-1,RTP 1 HD 🇵🇹
 http://194.44.48.82:8002/play/a08d
 
@@ -1257,9 +1260,6 @@ http://190.60.39.62:8000/play/a02f
 #EXTINF:-1, TUDN 🇲🇽
 https://linear-347.frequency.stream/dist/vix/347/hls/master/playlist_640x360.m3u8?fbclid=PAAaYRG9xu-c1e3NEwGBrhrlkSTV3b2dyCpO6boxhbNA4xY1sHR7hRnNC4Rvg
 
-#EXTINF:-1,TyC SPORT 🇦🇷
-https://stream.dlivecdn.com/dlive/transcode-75-231/trofeodorado/1668838601/src/live.m3u8
-
 #EXTINF:-1, TELEVISA 🇲🇽
 https://v-px.mybtv.net/live/39/1280x720.m3u8
 
@@ -1271,6 +1271,9 @@ https://hgdsxzv.azureedge.net/live/FOX/chunks.m3u8
 
 #EXTINF:-1, TF 1 DIRECT FRA
 https://s@tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
+
+#EXTINF:-1,CANAL SPORTS 10 🇦🇷
+https://P135@cloudvideo.servers10.com:8081/8190/index.m3u8
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
