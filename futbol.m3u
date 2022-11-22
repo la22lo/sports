@@ -91,6 +91,9 @@ http://149.22.208.21:9898/play/a00o
 http://146.19.16.211:8018/play/a05c
 
 #EXTINF:-1, TRT 1 🇹🇷
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1, TRT 1 🇹🇷
 http://195.155.98.170:5858/play/a09j?checkedby:iptvcat.com
 
 #EXTINF:-1, TV MAX 🇦🇷
