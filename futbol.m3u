@@ -103,7 +103,7 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 http://195.155.98.170:5858/play/a09j?checkedby:iptvcat.com
 
 #EXTINF:-1, LA 1 🇪🇸
-https://P135@rtvehlslivestream.akamaized.net/hls/live/2041391/LA1_AKA_HLS_GL1/master.m3u8
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 
 #EXTINF:-1,ESPN + 🇺🇸
 http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35059.ts
