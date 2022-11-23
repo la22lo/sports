@@ -39,6 +39,9 @@ https://P135@yeszet1x1cdn22.streamingrdp.com:443/hlsbp1/ebp1/chunks.m3u8
 #EXTINF:-1, ITV 1 HD 🇬🇧
 https://is.gd/BziVE9
 
+#EXTINF:-1, TRUE SPORTS 2
+https://raw.githubusercontent.com/tvbolaonline98/sopporot/main/Ts2.m3u8
+
 #EXTINF:-1, TELEMUNDO 🇲🇽
 https://v-ny.mybtv.net/live/659.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
 
@@ -54,11 +57,17 @@ http://138.117.4.70:8075/channel10/playlist.m3u8
 #EXTINF:-1,CHILEVISION 🇨🇱
 http://45.232.211.196:1080/play/a04d
 
+#EXTINF:-1, TELEVIVO 🇦🇷
+http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/21796.m3u8
+
 #EXTINF:-1, DUHOK SPORT 🇶🇦
 http://P135@fly.badinan.xyz:1935/live/dho/chunklist_w1688509122.m3u8
 
 #EXTINF:-1, DUHOK SPORT 🇶🇦
 http://P135@fly.badinan.xyz:1935/live/dho/playlist.m3u8
+
+#EXTINF:-1, T SPORTS LIVE
+http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
 
 #EXTINF:-1, BBC 🇬🇧
 https://P135@lisa.xonthebeach.net/live/bbconeuk_720p/index.m3u8
