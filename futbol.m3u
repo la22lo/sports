@@ -51,6 +51,9 @@ https://v-ny.mybtv.net/live/659.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIl
 #EXTINF:-1, TELEMUNDO 🇲🇽
 https://v-ca.mybtv.net/live/140/768x432.m3u8
 
+#EXTINF:-1, TUDN 🇲🇽
+http://190.61.102.67:31589/play/a08j/index.m3u8
+
 #EXTINF:-1,TVP 🇦🇷
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 
