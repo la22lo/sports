@@ -18,6 +18,9 @@ http://hez1-flu.iptvstream.site/132/index.m3u8
 #EXTINF:-1, MATH 🇷🇺
 http://46.174.83.66/MatchTV/index.m3u8
 
+#EXTINF:-1, MATH 🇷🇺
+https://bl.uma.media/live/394904/HLS/1_5/1/1/playlist.m3u8
+
 #EXTINF:-1, HRT 2 🇭🇷
 http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8?
 
@@ -38,6 +41,9 @@ https://is.gd/BziVE9
 
 #EXTINF:-1, TELEMUNDO 🇲🇽
 https://v-ny.mybtv.net/live/659.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
+
+#EXTINF:-1, TELEMUNDO 🇲🇽
+https://v-ca.mybtv.net/live/140/768x432.m3u8
 
 #EXTINF:-1,TVP 🇦🇷
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
