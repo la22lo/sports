@@ -90,6 +90,9 @@ https://hgdsxzv.azureedge.net/live/FOX/chunks.m3u8
 #EXTINF:-1, TELEAMAZONAS 🇪🇨
 http://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
 
+#EXTINF:-1, TF1 🇫🇷
+https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
+
 #EXTINF:-1,Rai 2 🇮🇹
 http://149.22.208.21:9898/play/a00o
 
@@ -98,6 +101,9 @@ http://146.19.16.211:8018/play/a05c
 
 #EXTINF:-1, TRT 1 🇹🇷
 https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1, TRT 1 🇹🇷
+https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1, TRT 1 🇹🇷
 http://195.155.98.170:5858/play/a09j?checkedby:iptvcat.com
