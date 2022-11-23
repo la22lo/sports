@@ -27,12 +27,6 @@ http://91.187.110.91:5252/rtk1hd
 #EXTINF:-1, RTK 1 🇽🇰
 http://146.59.19.1/5002/mpegts?
 
-#EXTINF:-1, BEIN SPORT MAX 1 🇶🇦
-http://87.120.36.56:28888/udp/239.17.1.26:1234
-
-#EXTINF:-1, BEIN SPORT MAX 2 🇶🇦
-http://87.120.36.56:28888/udp/239.17.1.27:1234
-
 #EXTINF:-1, BEIN SPORT MAX 2 🇶🇦
 https://P135@yeszet1x1cdn22.streamingrdp.com/hlsbp1/ebp1/playlist.m3u8
 
@@ -51,35 +45,8 @@ http://194.44.48.82:8002/play/a08d
 #EXTINF:-1,RTP 1 HD 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.50:7050/rtp1
 
-#EXTINF:-1, TUDN 🇲🇽
-https://linear-347.frequency.stream/dist/vix/347/hls/master/playlist_1024x576.m3u8
-
-#EXTINF:-1, TUDN LIVE 🇲🇽
-https://P135@linear-347.frequency.stream:443/dist/vix/347/hls/master/playlist_1920x1080.m3u8
-
-#EXTINF:-1, 5 TUDN LIVE 🇲🇽
-https://linear-347.frequency.stream/dist/vix/347/hls/master/playlist_640x360.m3u8?fbclid=PAAaYRG9xu-c1e3NEwGBrhrlkSTV3b2dyCpO6boxhbNA4xY1sHR7hRnNC4Rvg
-
 #EXTINF:-1, FOX LIVE 🇺🇸
 https://hgdsxzv.azureedge.net/live/FOX/chunks.m3u8
-
-#EXTINF:-1, FOX LIVE 🇺🇸
-http://89.187.175.143:80/4176/index.m3u8
-
-#EXTINF:-1, FOX LIVE 🇺🇸
-http://89.187.175.143:80/4175/index.m3u8
-
-#EXTINF:-1, FS 1 🇺🇸
-http://P135@89.187.175.143/3056/index.m3u8
-
-#EXTINF:-1, FS 1 🇺🇸
-http://P135@89.187.175.143/3056/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, FS 1 🇺🇸
-http://89.187.175.143/3056/mpegts
-
-#EXTINF:-1, FS 2 🇺🇸
-http://89.187.175.143/3028/mpegts
 
 #EXTINF:-1, TELEAMAZONAS 🇪🇨
 http://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
