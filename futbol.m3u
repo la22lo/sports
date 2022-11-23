@@ -39,8 +39,11 @@ https://P135@yeszet1x1cdn22.streamingrdp.com:443/hlsbp1/ebp1/chunks.m3u8
 #EXTINF:-1, ITV 1 HD 🇬🇧
 https://is.gd/BziVE9
 
-#EXTINF:-1, TRUE SPORTS 2
+#EXTINF:-1, TRUE SPORTS 2 🇲🇾
 https://raw.githubusercontent.com/tvbolaonline98/sopporot/main/Ts2.m3u8
+
+#EXTINF:-1, TRUE SPORTS 2 🇲🇾
+http://w.nasvpn.xyz:8080/live/saya/saya/13322.ts
 
 #EXTINF:-1, TELEMUNDO 🇲🇽
 https://v-ny.mybtv.net/live/659.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
