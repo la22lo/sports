@@ -48,6 +48,18 @@ http://138.117.4.70:8075/channel10/playlist.m3u8
 #EXTINF:-1,CHILEVISION 🇨🇱
 http://45.232.211.196:1080/play/a04d
 
+#EXTINF:-1, DUHOK SPORT 🇶🇦
+http://P135@fly.badinan.xyz:1935/live/dho/chunklist_w1688509122.m3u8
+
+#EXTINF:-1, DUHOK SPORT 🇶🇦
+http://P135@fly.badinan.xyz:1935/live/dho/playlist.m3u8
+
+#EXTINF:-1, BBC 🇬🇧
+https://P135@lisa.xonthebeach.net/live/bbconeuk_720p/index.m3u8
+
+#EXTINF:-1, TRT 1 🇹🇷
+https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
+
 #EXTINF:-1,BELARUS 5 🇧🇾
 http://82.209.197.187:8080/udp/239.0.100.9:1234
 
