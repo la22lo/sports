@@ -18,21 +18,6 @@ http://hez1-flu.iptvstream.site/132/index.m3u8
 #EXTINF:-1, MATH 🇷🇺
 http://46.174.83.66/MatchTV/index.m3u8
 
-#EXTINF:-1,ZDF HD 🇩🇪
-http://188.93.237.130:8000/play/a00z
-
-#EXTINF:-1,ZDF 🇩🇪
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036582
-
-#EXTINF:-1,ZDF 🇩🇪
-http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_ZDF_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8
-
-#EXTINF:-1,ZDF 🇩🇪
-http://188.93.237.130:8000/play/a012
-
-#EXTINF:-1,ZDF 🇩🇪
-https://s6.hopslan.com/zdfg1/index.m3u8
-
 #EXTINF:-1, HRT 2 🇭🇷
 http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8?
 
@@ -1298,6 +1283,21 @@ http://190.60.39.62:8000/play/a02e
 
 #EXTINF:-1,Fox Sports 3
 http://190.60.39.62:8000/play/a02f
+
+#EXTINF:-1,ZDF HD 🇩🇪
+http://188.93.237.130:8000/play/a00z
+
+#EXTINF:-1,ZDF 🇩🇪
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036582
+
+#EXTINF:-1,ZDF 🇩🇪
+http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_ZDF_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8
+
+#EXTINF:-1,ZDF 🇩🇪
+http://188.93.237.130:8000/play/a012
+
+#EXTINF:-1,ZDF 🇩🇪
+https://s6.hopslan.com/zdfg1/index.m3u8
 
 #EXTINF:-1, TUDN 🇲🇽
 https://linear-347.frequency.stream/dist/vix/347/hls/master/playlist_640x360.m3u8?fbclid=PAAaYRG9xu-c1e3NEwGBrhrlkSTV3b2dyCpO6boxhbNA4xY1sHR7hRnNC4Rvg
