@@ -33,6 +33,12 @@ https://P135@yeszet1x1cdn22.streamingrdp.com/hlsbp1/ebp1/playlist.m3u8
 #EXTINF:-1, BEIN SPORT MAX 2 🇶🇦
 https://P135@yeszet1x1cdn22.streamingrdp.com:443/hlsbp1/ebp1/chunks.m3u8
 
+#EXTINF:-1, TELEMUNDO 🇲🇽
+https://v-ny.mybtv.net/live/659.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
+
+#EXTINF:-1,TVP 🇦🇷
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+
 #EXTINF:-1,BELARUS 5 🇧🇾
 http://82.209.197.187:8080/udp/239.0.100.9:1234
 
@@ -1314,29 +1320,11 @@ http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2638.m3u8
 #EXTINF:-1,TYC SPORT 🇦🇷
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 
-#EXTINF:-1,TVP 🇦🇷
-http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
-
-#EXTINF:-1,AUF TV 🇺🇾
-https://d3kesjjwh2cgxl.cloudfront.net/out/v1/2370f106ad21496cbf41edf4aa88c2e4/index.m3u8
-
 #EXTINF:-1,CHILEVISION 🇨🇱
 http://45.232.211.196:1080/play/a04d
 
 #EXTINF:-1,TIGO SPORTS 🇵🇾
 http://190.61.102.67:8000/play/a05x
-
-#EXTINF:-1, TELEMUNDO 🇲🇽
-https://v-ny.mybtv.net/live/659.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
-
-#EXTINF:-1, TSN 3 🇨🇦
-http://89.187.175.143/3046/mpegts
-
-#EXTINF:-1, TSN 4 🇨🇦
-http://89.187.175.143:80/3047/mpegts
-
-#EXTINF:-1, TSN 5 🇨🇦
-http://89.187.175.143/3048/mpegts
 
 #EXTINF:-1, NUBAR SPORT 🇶🇦
 http://stream.nubar.tv:1935/private/NUBARSport/index.m3u8
