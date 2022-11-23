@@ -33,11 +33,20 @@ https://P135@yeszet1x1cdn22.streamingrdp.com/hlsbp1/ebp1/playlist.m3u8
 #EXTINF:-1, BEIN SPORT MAX 2 🇶🇦
 https://P135@yeszet1x1cdn22.streamingrdp.com:443/hlsbp1/ebp1/chunks.m3u8
 
+#EXTINF:-1, ITV 1 HD 🇬🇧
+https://is.gd/BziVE9
+
 #EXTINF:-1, TELEMUNDO 🇲🇽
 https://v-ny.mybtv.net/live/659.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
 
 #EXTINF:-1,TVP 🇦🇷
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+
+#EXTINF:-1,CANAL SPORTS 10 🇦🇷
+http://138.117.4.70:8075/channel10/playlist.m3u8
+
+#EXTINF:-1,CHILEVISION 🇨🇱
+http://45.232.211.196:1080/play/a04d
 
 #EXTINF:-1,BELARUS 5 🇧🇾
 http://82.209.197.187:8080/udp/239.0.100.9:1234
@@ -1272,56 +1281,14 @@ http://188.93.237.130:8000/play/a012
 #EXTINF:-1,ZDF 🇩🇪
 https://s6.hopslan.com/zdfg1/index.m3u8
 
-#EXTINF:-1, TUDN 🇲🇽
-https://linear-347.frequency.stream/dist/vix/347/hls/master/playlist_640x360.m3u8?fbclid=PAAaYRG9xu-c1e3NEwGBrhrlkSTV3b2dyCpO6boxhbNA4xY1sHR7hRnNC4Rvg
-
 #EXTINF:-1,CANAL SPORTS 10 🇦🇷
 https://P135@stmv.streamingvip.click/television/television/chunklist_w2094415963.m3u8
-
-#EXTINF:-1,CANAL SPORTS 10 🇦🇷
-http://138.117.4.70:8075/channel10/playlist.m3u8
 
 #EXTINF:-1, ITV 1 HD 🇬🇧
 https://is.gd/bPoTb8
 
-#EXTINF:-1, ITV 1 HD 🇬🇧
-https://is.gd/BziVE9
-
-#EXTINF:-1 ,SUPERSPORT PSL 🇿🇦
-http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2630.m3u8
-
-#EXTINF:-1, SUPERSPORT Grandstand 🇿🇦
-http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2629.m3u8
-
-#EXTINF:-1, SUPERSPORT Premier league 🇿🇦
-http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2631.m3u8
-
-#EXTINF:-1, SUPERSPORT LaLiga 🇿🇦
-http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2632.m3u8
-
-#EXTINF:-1, SUPERSPORT Football 🇿🇦
-http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2633.m3u8
-
-#EXTINF:-1, SUPERSPORT Variety 1 🇿🇦
-http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2634.m3u8
-
-#EXTINF:-1, SUPERSPORT Variety 2 🇿🇦
-http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2635.m3u8
-
-#EXTINF:-1, SUPERSPORT Blitz 🇿🇦
-http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2636.m3u8
-
-#EXTINF:-1, SUPERSPORT Variety 4 🇿🇦
-http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2637.m3u8
-
-#EXTINF:-1, SUPERSPORT Variety 3 🇿🇦
-http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2638.m3u8
-
 #EXTINF:-1,TYC SPORT 🇦🇷
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
-
-#EXTINF:-1,CHILEVISION 🇨🇱
-http://45.232.211.196:1080/play/a04d
 
 #EXTINF:-1,TIGO SPORTS 🇵🇾
 http://190.61.102.67:8000/play/a05x
