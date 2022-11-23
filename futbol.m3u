@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,DIRECTV SPORTS 🇦🇷
-http://200.52.154.125:8000/play/a06p/index.m3u8
-
 #EXTINF:-1, SPORT TV 1 🇵🇹
 http://185.236.229.13:4000/play/a040
 
