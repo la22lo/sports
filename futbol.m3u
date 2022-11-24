@@ -1326,6 +1326,12 @@ http://stream.nubar.tv:1935/private/NUBARSport/index.m3u8
 #EXTINF:-1, ONE HD 🇶🇦
 https://s@liveb.alkassdigital.net:443/hls/live/2094545/Alkass1ns/master1080.m3u8
 
+#EXTINF:-1,VTV5 🇻🇳
+http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8
+
+#EXTINF:-1,VTV6 🇻🇳
+http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
+
 #EXTINF:-1, WORLD CUP 22 🇺🇸
 http://rtv-murcia-live.globalmest.com/stream/abr/k1.m3u8
 
