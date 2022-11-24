@@ -1300,6 +1300,9 @@ https://mcdn.daserste.de/daserste/de/master_3744.m3u8?
 https://mcdn.daserste.de/daserste/int/master.m3u8
 
 #EXTINF:-1, DAS ERSTE 🇩🇪
+https://mcdn.daserste.de/daserste/de/master.m3u8
+
+#EXTINF:-1, DAS ERSTE 🇩🇪
 https://mcdn.daserste.de/daserste/de/profile1/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1,CANAL SPORTS 10 🇦🇷
