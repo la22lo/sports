@@ -126,9 +126,6 @@ https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1,ESPN + 🇺🇸
 http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35059.ts
 
-#EXTINF:-1,ESPN + 🇺🇸
-http://89.187.175.143:80/3044/index.m3u8
-
 #EXTINF:-1, ESPN DEPORTES 🇦🇷
 http://38.143.137.221:8000/LA81/index.m3u8
 
