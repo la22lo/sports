@@ -66,6 +66,9 @@ http://188.93.237.130:8000/play/a012
 #EXTINF:-1, BEIN SPORT 3 MAX 🇶🇦
 http://175.107.244.52:4457/play/a06z
 
+#EXTINF:-1, BEIN SPORT 1 MAX 🇶🇦
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049176
+
 #EXTINF:-1, ITV 1 HD 🇬🇧
 https://is.gd/BziVE9
 
@@ -113,6 +116,9 @@ https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m
 
 #EXTINF:-1,Rai 2 🇮🇹
 http://146.19.16.211:8018/play/a05c
+
+#EXTINF:-1, TRT 1 🇹🇷
+http://ac.traveliptv.nl/ibrahimturk/v7Nv6vNvdk/16
 
 #EXTINF:-1, TRT 1 🇹🇷
 https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
