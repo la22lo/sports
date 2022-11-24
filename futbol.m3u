@@ -9,6 +9,9 @@ https://streaming.trece.com.py/live/trece.m3u8
 #EXTINF:-1, WORLD CUP 22 🇺🇸
 http://rtv-murcia-live.globalmest.com/stream/abr/k1.m3u8
 
+#EXTINF:-1, TSN 3 CANADA
+https://s@hdstreamss.club/live/ch1/index.m3u8
+
 #EXTINF:-1, RTSH Sport 🇦🇱
 http://185.226.88.6:9510/tch
 
@@ -1298,6 +1301,9 @@ https://is.gd/bPoTb8
 
 #EXTINF:-1,TIGO SPORTS 🇵🇾
 http://190.61.102.67:8000/play/a05x
+
+#EXTINF:-1, ESPN PLUS 🇦🇷
+https://s@griomreavigremant654.s3.amazonaws.com:443/redzone2_720p60.m3u8
 
 #EXTINF:-1, NUBAR SPORT 🇶🇦
 http://stream.nubar.tv:1935/private/NUBARSport/index.m3u8
