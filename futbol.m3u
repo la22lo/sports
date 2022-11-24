@@ -60,8 +60,8 @@ http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_ZDF_ott/__op/dash-default/
 #EXTINF:-1,ZDF 🇩🇪
 http://188.93.237.130:8000/play/a012
 
-#EXTINF:-1, BEIN SPORT MAX 🇶🇦
-https://yeszet1x1cdn22.streamingrdp.com/livbp1/ebp1/playlist.m3u8
+#EXTINF:-1, BEIN SPORT 3 MAX 🇶🇦
+http://175.107.244.52:4457/play/a06z
 
 #EXTINF:-1, ITV 1 HD 🇬🇧
 https://is.gd/BziVE9
