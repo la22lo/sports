@@ -42,6 +42,9 @@ https://cdn.onarmtv.com:8443/iptv/11/playlist.m3u8
 #EXTINF:-1, HRT 2 🇭🇷
 http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8?
 
+#EXTINF:-1, TSN 1 🇨🇦
+https://griomreavigremant654.s3.amazonaws.com/redzone_480p30.m3u8
+
 #EXTINF:-1, RTK 1 🇽🇰
 http://91.187.110.91:5252/rtk1hd
 
