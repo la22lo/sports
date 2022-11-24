@@ -1302,6 +1302,9 @@ http://190.61.102.67:8000/play/a05x
 #EXTINF:-1, NUBAR SPORT 🇶🇦
 http://stream.nubar.tv:1935/private/NUBARSport/index.m3u8
 
+#EXTINF:-1, ONE HD 🇶🇦
+https://s@liveb.alkassdigital.net:443/hls/live/2094545/Alkass1ns/master1080.m3u8
+
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
