@@ -84,6 +84,9 @@ https://is.gd/BziVE9
 #EXTINF:-1, TRUE SPORTS 2 🇲🇾
 https://raw.githubusercontent.com/tvbolaonline98/sopporot/main/Ts2.m3u8
 
+#EXTINF:-1, TRUE SPORTS 2 🇲🇾
+https://youdooball.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
+
 #EXTINF:-1, TELEMUNDO 🇲🇽
 https://v-ny.mybtv.net/live/659.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
 
@@ -1349,6 +1352,9 @@ http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8
 
 #EXTINF:-1,VTV6 🇻🇳
 http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
+
+#EXTINF:-1, Asahi TV 🇯🇵
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 
 #EXTINF:-1, WORLD CUP 22 🇺🇸
 http://rtv-murcia-live.globalmest.com/stream/abr/k1.m3u8
