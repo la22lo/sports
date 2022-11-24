@@ -1,6 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1, MUNDIAL 🇺🇸
+#EXTINF:-1,TYC SPORT 🇦🇷
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+
+#EXTINF:-1, WORLD CUP 22 🇺🇸
 http://rtv-murcia-live.globalmest.com/stream/abr/k1.m3u8
 
 #EXTINF:-1, RTSH Sport 🇦🇱
@@ -1272,8 +1275,6 @@ http://190.60.39.62:8000/play/a02e
 #EXTINF:-1,Fox Sports 3
 http://190.60.39.62:8000/play/a02f
 
-
-
 #EXTINF:-1, DAS ERSTE HD 🇩🇪
 https://mcdn.daserste.de/daserste/de/master_3744.m3u8?
 
@@ -1289,8 +1290,7 @@ https://P135@stmv.streamingvip.click/television/television/chunklist_w2094415963
 #EXTINF:-1, ITV 1 HD 🇬🇧
 https://is.gd/bPoTb8
 
-#EXTINF:-1,TYC SPORT 🇦🇷
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+
 
 #EXTINF:-1,TIGO SPORTS 🇵🇾
 http://190.61.102.67:8000/play/a05x
