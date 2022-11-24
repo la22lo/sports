@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, MUNDIAL 🇺🇸
+http://rtv-murcia-live.globalmest.com/stream/abr/k1.m3u8
+
 #EXTINF:-1, RTSH Sport 🇦🇱
 http://185.226.88.6:9510/tch
 
@@ -30,23 +33,11 @@ http://91.187.110.91:5252/rtk1hd
 #EXTINF:-1, RTK 1 🇽🇰
 http://146.59.19.1/5002/mpegts?
 
-#EXTINF:-1, BEIN SPORT MAX 2 🇶🇦
-https://P135@yeszet1x1cdn22.streamingrdp.com/hlsbp1/ebp1/playlist.m3u8
-
-#EXTINF:-1, BEIN SPORT MAX 2 🇶🇦
-https://P135@yeszet1x1cdn22.streamingrdp.com:443/hlsbp1/ebp1/chunks.m3u8
-
 #EXTINF:-1, ITV 1 HD 🇬🇧
 https://is.gd/BziVE9
 
-#EXTINF:-1, MUNDIAL
-http://rtv-murcia-live.globalmest.com/stream/abr/k1.m3u8
-
 #EXTINF:-1, TRUE SPORTS 2 🇲🇾
 https://raw.githubusercontent.com/tvbolaonline98/sopporot/main/Ts2.m3u8
-
-#EXTINF:-1, TRUE SPORTS 2 🇲🇾
-http://w.nasvpn.xyz:8080/live/saya/saya/13322.ts
 
 #EXTINF:-1, TELEMUNDO 🇲🇽
 https://v-ny.mybtv.net/live/659.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
@@ -69,12 +60,6 @@ http://45.232.211.196:1080/play/a04d
 #EXTINF:-1, TELEVIVO 🇦🇷
 http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/21796.m3u8
 
-#EXTINF:-1, DUHOK SPORT 🇶🇦
-http://P135@fly.badinan.xyz:1935/live/dho/chunklist_w1688509122.m3u8
-
-#EXTINF:-1, DUHOK SPORT 🇶🇦
-http://P135@fly.badinan.xyz:1935/live/dho/playlist.m3u8
-
 #EXTINF:-1, T SPORTS LIVE
 http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
 
@@ -87,12 +72,6 @@ http://82.209.197.187:8080/udp/239.0.100.9:1234
 #EXTINF:-1,BELARUS 5 🇧🇾
 http://37.17.14.149:8901/play/a004/index.m3u8
 
-#EXTINF:-1,RTP 1 HD 🇵🇹
-http://194.44.48.82:8002/play/a08d
-
-#EXTINF:-1,RTP 1 HD 🇵🇹
-http://62.28.71.186:45678/http/192.168.150.50:7050/rtp1
-
 #EXTINF:-1, FOX LIVE 🇺🇸
 https://hgdsxzv.azureedge.net/live/FOX/chunks.m3u8
 
@@ -103,37 +82,13 @@ http://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
 https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
 
 #EXTINF:-1,Rai 2 🇮🇹
-http://149.22.208.21:9898/play/a00o
-
-#EXTINF:-1,Rai 2 🇮🇹
 http://146.19.16.211:8018/play/a05c
-
-#EXTINF:-1, TRT 1 🇹🇷
-https://tv-trt1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1, TRT 1 🇹🇷
 https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1, TRT 1 🇹🇷
 http://195.155.98.170:5858/play/a09j?checkedby:iptvcat.com
-
-#EXTINF:-1, SPORT TV 1 🇵🇹
-http://185.236.229.13:4000/play/a040
-
-#EXTINF:-1, TSN 1 🇨🇦
-http://89.187.175.143:80/3038/index.m3u8
-
-#EXTINF:-1, TSN 3 🇨🇦
-http://89.187.175.143:80/3046/index.m3u8
-
-#EXTINF:-1 ,TSN 4 🇨🇦
-http://89.187.175.143:80/3047/index.m3u8
-
-#EXTINF:-1 ,TSN 5 🇨🇦
-http://89.187.175.143/3048/index.m3u8
-
-#EXTINF:-1, RTSH Sport 🇦🇱
-http://95.107.132.105/out/u/638_1.m3u8 
 
 #EXTINF:-1, LA 1 🇪🇸
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
