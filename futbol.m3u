@@ -12,6 +12,9 @@ https://v-ca.mybtv.net/live/140/768x432.m3u8
 #EXTINF:-1, TUDN 🇲🇽
 http://190.61.102.67:31589/play/a08j/index.m3u8
 
+#EXTINF:-1, WORLD CUP 22 🇺🇸
+http://rtv-murcia-live.globalmest.com/stream/abr/k1.m3u8
+
 #EXTINF:-1, RTSH Sport 🇦🇱
 http://185.226.88.6:9510/tch
 
