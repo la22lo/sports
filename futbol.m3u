@@ -99,23 +99,11 @@ http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
 #EXTINF:-1, T SPORTS LIVE 🇧🇩
 http://cdn01.palki.tv/live/TSports-M/tracks-v2/index.fmp4.m3u8
 
-#EXTINF:-1, BBC 🇬🇧
-https://P135@lisa.xonthebeach.net/live/bbconeuk_720p/index.m3u8
-
-#EXTINF:-1, BBC 🇬🇧
-https://lisa.xonthebeach.net/live/bbconeuk_720p/index.m3u8
-
 #EXTINF:-1,BELARUS 5 🇧🇾
 http://82.209.197.187:8080/udp/239.0.100.9:1234
 
 #EXTINF:-1,BELARUS 5 🇧🇾
 http://37.17.14.149:8901/play/a004/index.m3u8
-
-#EXTINF:-1, FOX LIVE 🇺🇸
-https://hgdsxzv.azureedge.net/live/FOX/chunks.m3u8
-
-#EXTINF:-1, FS 1 🇺🇸
-https://s@hgdsxzv.azureedge.net:443/live/FS1/chunks.m3u8
 
 #EXTINF:-1, TELEAMAZONAS 🇪🇨
 http://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
