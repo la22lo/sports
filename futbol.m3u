@@ -51,17 +51,14 @@ http://91.187.110.91:5252/rtk1hd
 #EXTINF:-1, RTK 1 🇽🇰
 http://146.59.19.1/5002/mpegts?
 
-#EXTINF:-1,ZDF HD 🇩🇪
-http://188.93.237.130:8000/play/a00z
+#EXTINF:-1, TRT 1 🇹🇷
+http://ac.traveliptv.nl/ibrahimturk/v7Nv6vNvdk/16
 
-#EXTINF:-1,ZDF 🇩🇪
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036582
+#EXTINF:-1, TRT 1 🇹🇷
+https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1,ZDF 🇩🇪
-http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_ZDF_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8
-
-#EXTINF:-1,ZDF 🇩🇪
-http://188.93.237.130:8000/play/a012
+#EXTINF:-1, TRT 1 🇹🇷
+http://195.155.98.170:5858/play/a09j?checkedby:iptvcat.com
 
 #EXTINF:-1, BEIN SPORT 3 MAX 🇶🇦
 http://175.107.244.52:4457/play/a06z
@@ -114,14 +111,17 @@ https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m
 #EXTINF:-1,Rai 2 🇮🇹
 http://146.19.16.211:8018/play/a05c
 
-#EXTINF:-1, TRT 1 🇹🇷
-http://ac.traveliptv.nl/ibrahimturk/v7Nv6vNvdk/16
+#EXTINF:-1,ZDF HD 🇩🇪
+http://188.93.237.130:8000/play/a00z
 
-#EXTINF:-1, TRT 1 🇹🇷
-https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,ZDF 🇩🇪
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036582
 
-#EXTINF:-1, TRT 1 🇹🇷
-http://195.155.98.170:5858/play/a09j?checkedby:iptvcat.com
+#EXTINF:-1,ZDF 🇩🇪
+http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_ZDF_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8
+
+#EXTINF:-1,ZDF 🇩🇪
+http://188.93.237.130:8000/play/a012
 
 #EXTINF:-1, LA 1 🇪🇸
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
