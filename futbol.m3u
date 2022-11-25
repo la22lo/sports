@@ -111,6 +111,9 @@ http://cdn01.palki.tv/live/TSports-M/tracks-v2/index.fmp4.m3u8
 #EXTINF:-1, BBC 🇬🇧
 https://P135@lisa.xonthebeach.net/live/bbconeuk_720p/index.m3u8
 
+#EXTINF:-1, BBC 🇬🇧
+https://lisa.xonthebeach.net/live/bbconeuk_720p/index.m3u8
+
 #EXTINF:-1,BELARUS 5 🇧🇾
 http://82.209.197.187:8080/udp/239.0.100.9:1234
 
