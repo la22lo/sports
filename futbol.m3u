@@ -1362,6 +1362,9 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 #EXTINF:-1, WORLD CUP 22 🇺🇸
 http://rtv-murcia-live.globalmest.com/stream/abr/k1.m3u8
 
+#EXTINF:-1, RTE2
+https://lon1.angelthump.com/hls/MjAyMi0xMS0yNVQwOTozMDowMS43MjlaZGVycHRydWNr_derptruck/index.m3u8
+
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
