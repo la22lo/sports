@@ -1341,9 +1341,6 @@ https://streaming.trece.com.py/live/trece.m3u8
 #EXTINF:-1, NUBAR SPORT 🇶🇦
 http://stream.nubar.tv:1935/private/NUBARSport/index.m3u8
 
-#EXTINF:-1, ONE HD 🇶🇦
-https://s@liveb.alkassdigital.net:443/hls/live/2094545/Alkass1ns/master1080.m3u8
-
 #EXTINF:-1, ARIANA TV 🇦🇫
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 
