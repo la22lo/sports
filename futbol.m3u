@@ -33,6 +33,9 @@ http://cdn-indian-pull-stream-7.vshotsapp.com/live/k1/playlist.m3u8
 #EXTINF:-1, SPORT TV HD 🇧🇷 
 http://51.79.82.208:16461/
 
+#EXTINF:-1, SPORT TV 1 🇵🇹
+http://quality-restream.com:8080/resplice/v6EKnKb8gn3pGsz9/1483
+
 #EXTINF:-1, BEIN SPORT 1 🇫🇷
 http://37.49.230.48:8080/live/GenIptvLast/FaP6YswK77NaOPOF/144.ts
 
@@ -95,9 +98,6 @@ http://P135@vip.badinan.xyz:1935/live/DUHOOKC/playlist.m3u8
 
 #EXTINF:-1, DUHOK SPORT 🇶🇦
 http://P135@vip.badinan.xyz:1935/live/DUHOOKC/chunklist_w1353253233.m3u8
-
-#EXTINF:-1, SPORT TV+ 🇵🇹
-http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
 
 #EXTINF:-1, ITV 1 HD 🇬🇧
 https://is.gd/BziVE9
