@@ -1335,8 +1335,11 @@ https://mcdn.daserste.de/daserste/de/profile1/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1, CITY SPORTS 🇦🇷
 https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, TELE VIVO 🇦🇷
+#EXTINF:-1, TELE VIVO 🇺🇾
 http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/21796.m3u8
+
+#EXTINF:-1, TELE VIVO 🇺🇾
+http://quality-restream.com:8080/kingtveu/7a612d9dd0e2/296875
 
 #EXTINF:-1, ITV 1 HD 🇬🇧
 https://is.gd/bPoTb8
