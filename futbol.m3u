@@ -1371,6 +1371,45 @@ http://rtv-murcia-live.globalmest.com/stream/abr/k1.m3u8
 #EXTINF:-1, RTE2 🇮🇪
 https://lon1.angelthump.com/hls/MjAyMi0xMS0yNVQwOTozMDowMS43MjlaZGVycHRydWNr_derptruck/index.m3u8
 
+#EXTINF:-1,МАТЧ!
+http://94.103.92.32:8005/play/a0b6
+
+#EXTINF:-1,МАТЧ! HD
+http://94.103.92.32:8005/play/a0b5
+
+#EXTINF:-1,МАТЧ! HD
+http://95.59.169.220:8000/play/a0ec
+
+#EXTINF:-1,МАТЧ!
+http://95.59.169.220:8000/play/a0a4
+
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1
+http://95.59.169.220:8000/play/a0aj
+
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2
+http://95.59.169.220:8000/play/a0ak
+
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3
+http://95.59.169.220:8000/play/a0al
+
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1
+http://94.103.92.32:8005/play/a08o
+
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2
+http://94.103.92.32:8005/play/a07l
+
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3
+http://94.103.92.32:8005/play/a06b
+
+#EXTINF:-1,BeiN_MK_1
+http://92.246.85.77:8000/play/a01a/index.m3u8
+
+#EXTINF:-1,QAT-36-1
+http://92.246.85.77:8000/play/a00e/index.m3u8
+
+#EXTINF:-1,QAT-36-2
+http://92.246.85.77:8000/play/a017/index.m3u8
+
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
