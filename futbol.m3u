@@ -57,6 +57,9 @@ http://91.187.110.91:5252/rtk1hd
 #EXTINF:-1, RTK 1 🇽🇰
 http://146.59.19.1/5002/mpegts?
 
+#EXTINF:-1, RTK 1 🇽🇰
+http://146.59.19.1:80/5002/mpegts?
+
 #EXTINF:-1, TRT 1 🇹🇷
 http://ac.traveliptv.nl/ibrahimturk/v7Nv6vNvdk/16
 
