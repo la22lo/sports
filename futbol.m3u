@@ -33,6 +33,9 @@ https://murthyneeraj231.s3.amazonaws.com/worldcup_1080.m3u8
 #EXTINF:-1, SPORT TV HD 🇧🇷 
 http://51.79.82.208:16461/
 
+#EXTINF:-1, BEIN SPORT 1 🇫🇷
+http://37.49.230.48:8080/live/GenIptvLast/FaP6YswK77NaOPOF/144.ts
+
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
