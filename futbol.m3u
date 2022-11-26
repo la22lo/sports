@@ -969,6 +969,21 @@ http://195.189.62.148:8000/play/a06e
 #EXTINF:-1,CANAL+ SPORT 5 HD 🇵🇱
 http://195.189.62.148:8000/play/a06h
 
+#EXTINF:-1,ELEVEN SPORTS 4 HD 🇵🇱
+http://80.82.18.214:4000/play/a02u/index.m3u8
+
+#EXTINF:-1,Eleven Sports 1 4K 🇵🇱
+http://80.82.18.214:4000/play/a02c/index.m3u8
+
+#EXTINF:-1,Eleven Sports 1 HD 🇵🇱
+http://80.82.18.214:4000/play/a043/index.m3u8
+
+#EXTINF:-1,Eleven Sports 2 HD 🇵🇱
+http://80.82.18.214:4000/play/a044/index.m3u8
+
+#EXTINF:-1,Eleven Sports 3 HD 🇵🇱
+http://80.82.18.214:4000/play/a046/index.m3u8
+
 #EXTINF:-1, ZIGGO SPORT 🇳🇱
 http://line.365tv.xyz:8060/lucky/jfdnndsfs/118908
 
@@ -1374,8 +1389,6 @@ http://rtv-murcia-live.globalmest.com/stream/abr/k1.m3u8
 #EXTINF:-1, RTE2 🇮🇪
 https://lon1.angelthump.com/hls/MjAyMi0xMS0yNVQwOTozMDowMS43MjlaZGVycHRydWNr_derptruck/index.m3u8
 
-
-
 #EXTINF:-1,QAT-36-1
 http://92.246.85.77:8000/play/a00e/index.m3u8
 
@@ -1393,21 +1406,6 @@ http://91.237.170.202:11000/play/3325
 
 #EXTINF:-1,Nova Sport 2 HD
 http://91.237.170.202:11000/play/3324
-
-#EXTINF:-1,ELEVEN SPORTS 4 HD
-http://80.82.18.214:4000/play/a02u/index.m3u8
-
-#EXTINF:-1,Eleven Sports 1 4K
-http://80.82.18.214:4000/play/a02c/index.m3u8
-
-#EXTINF:-1,Eleven Sports 1 HD
-http://80.82.18.214:4000/play/a043/index.m3u8
-
-#EXTINF:-1,Eleven Sports 2 HD
-http://80.82.18.214:4000/play/a044/index.m3u8
-
-#EXTINF:-1,Eleven Sports 3 HD
-http://80.82.18.214:4000/play/a046/index.m3u8
 
 #EXTINF:-1,HRT1
 http://51.15.2.9:1051/play/a065
