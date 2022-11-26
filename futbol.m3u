@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1,TVP 🇦🇷
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+
+#EXTINF:-1,TVP 🇦🇷
+https://P135@f6z5x8d4.stackpathcdn.com/stream_720/index.m3u8
+
+#EXTINF:-1,CANAL SPORTS 10 🇳🇮
+http://138.117.4.70:8075/channel10/playlist.m3u8
+
 #EXTINF:-1,TYC SPORT 🇦🇷
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 
@@ -11,9 +20,6 @@ https://v-ny.mybtv.net/live/659.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIl
 
 #EXTINF:-1, TUDN 🇲🇽
 http://190.61.102.67:31589/play/a08j/index.m3u8
-
-#EXTINF:-1,CANAL SPORTS 10 🇳🇮
-http://138.117.4.70:8075/channel10/playlist.m3u8
 
 #EXTINF:-1, RTSH Sport 🇦🇱
 http://185.226.88.6:9510/tch
