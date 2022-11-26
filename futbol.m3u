@@ -1410,6 +1410,48 @@ http://92.246.85.77:8000/play/a00e/index.m3u8
 #EXTINF:-1,QAT-36-2
 http://92.246.85.77:8000/play/a017/index.m3u8
 
+#EXTINF:-1,Sport1 HD
+http://91.237.170.202:11000/play/2694
+
+#EXTINF:-1,Sport2 HD
+http://91.237.170.202:11000/play/2628
+
+#EXTINF:-1,Nova Sport 1 HD
+http://91.237.170.202:11000/play/3325
+
+#EXTINF:-1,Nova Sport 2 HD
+http://91.237.170.202:11000/play/3324
+
+#EXTINF:-1,Ariana TV
+http://85.132.253.99:4000/play/a01n
+
+#EXTINF:-1,ELEVEN SPORTS 4 HD
+http://80.82.18.214:4000/play/a02u/index.m3u8
+
+#EXTINF:-1,Eleven Sports 1 4K
+http://80.82.18.214:4000/play/a02c/index.m3u8
+
+#EXTINF:-1,Eleven Sports 1 HD
+http://80.82.18.214:4000/play/a043/index.m3u8
+
+#EXTINF:-1,Eleven Sports 2 HD
+http://80.82.18.214:4000/play/a044/index.m3u8
+
+#EXTINF:-1,Eleven Sports 3 HD
+http://80.82.18.214:4000/play/a046/index.m3u8
+
+#EXTINF:-1,TVP Sport HD
+http://80.82.18.214:4000/play/a03p/index.m3u8
+
+#EXTINF:-1, TVP Sport HD
+http://37.152.128.74:8088/play/a004
+
+#EXTINF:-1,HRT1
+http://51.15.2.9:1051/play/a065
+
+#EXTINF:-1, Telemundo
+http://45.181.121.57:2909/play/149
+
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
