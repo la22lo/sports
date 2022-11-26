@@ -27,8 +27,8 @@ http://185.89.156.111:8000/play/a022?
 #EXTINF:-1, UZ SPORT 🇺🇿
 https://s04.watcher.uz/59/tracks-v1a1a2/mono.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NTYxNjgsImxvZ2luIjoiaGUtMjUyNTk0NSIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjYzMDkyNTM1fQ.kiKhT-gWF-11PivblJQjeKDWIRLHplSGdejtdizEWzQ%3A11
 
-#EXTINF:-1, TSN 1 🇨🇦
-https://murthyneeraj231.s3.amazonaws.com/worldcup_1080.m3u8
+#EXTINF:-1, TSN 3 🇨🇦
+http://cdn-indian-pull-stream-7.vshotsapp.com/live/k1/playlist.m3u8
 
 #EXTINF:-1, SPORT TV HD 🇧🇷 
 http://51.79.82.208:16461/
