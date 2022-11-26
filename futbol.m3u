@@ -316,19 +316,7 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 #EXTINF:-1, TUDN 🇲🇽
-http://190.61.102.67:31589/play/a08o/index.m3u8
-
-#EXTINF:-1, TUDN 🇲🇽
-http://45.5.117.239:8000/play/a076/index.m3u8
-
-#EXTINF:-1, TUDN 🇲🇽
-https://linear-347.frequency.stream/dist/vix/347/hls/master/playlist.m3u8?fbclid=IwAR0pvAH0kaQPGOAcT0MtLLOE2Y1YqIglapxrpOEGe5jfw__f3zp9PJNWwkg
-
-#EXTINF:-1, TUDN 🇲🇽
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
-
-#EXTINF:-1, UNIVISION 🇲🇽
-http://190.61.102.67:8000/play/a05d
 
 #EXTINF:-1, BEIN SPORTS PREMIUM 1 HD 🇶🇦
 http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
