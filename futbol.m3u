@@ -120,9 +120,6 @@ http://37.17.14.149:8901/play/a004/index.m3u8
 #EXTINF:-1, TELEAMAZONAS 🇪🇨
 http://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
 
-#EXTINF:-1, TF1 🇫🇷
-https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
-
 #EXTINF:-1,Rai 2 🇮🇹
 http://146.19.16.211:8018/play/a05c
 
