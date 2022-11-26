@@ -96,6 +96,9 @@ http://P135@vip.badinan.xyz:1935/live/DUHOOKC/playlist.m3u8
 #EXTINF:-1, DUHOK SPORT 🇶🇦
 http://P135@vip.badinan.xyz:1935/live/DUHOOKC/chunklist_w1353253233.m3u8
 
+#EXTINF:-1, SPORT TV+ 🇵🇹
+http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
+
 #EXTINF:-1, ITV 1 HD 🇬🇧
 https://is.gd/BziVE9
 
