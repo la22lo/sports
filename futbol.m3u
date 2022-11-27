@@ -198,20 +198,8 @@ http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/53645?
 #EXTINF:-1, M. LA LIGA 🇪🇸
 http://200.52.154.125:8000/play/a06f/index.m3u8
 
-#EXTINF:-1,LALIGA TV 🇪🇸
-http://188.26.204.204:8888/play/a084
-
-#EXTINF:-1,DAZN LALIGA 🇪🇸
-http://188.26.204.204:8888/play/a0bb
-
-#EXTINF:-1,LALIGA TV 🇪🇸
-http://188.26.204.204:8888/play/davidALCARRER
-
 #EXTINF:-1, SKY SPORTS 🇲🇽
 http://200.52.154.125:8000/play/a06t/index.m3u8
-
-#EXTINF:-1, SKY SPORTS 🇲🇽
-http://45.5.117.239:8000/play/a06z/index.m3u8
 
 #EXTINF:-1, VIX+ 🇲🇽
 http://200.52.154.125:8000/play/a06w/index.m3u8
@@ -221,9 +209,6 @@ http://190.61.102.67:31589/play/a08q/index.m3u8
 
 #EXTINF:-1, ESPN 🇧🇷
 http://51.79.82.208:16417
-
-#EXTINF:-1, ESPN 🇧🇷
-http://189.91.128.146:4444/udp/227.10.20.81:1234
 
 #EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/90154
@@ -236,9 +221,6 @@ http://vtsstr4.sctv.vn:1935/live/SCTV17_HD_new.smil/CDAM.m3u8
 
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2531/index.m3u8
-
-#EXTINF:-1, Eleven 1 HD 🇵🇹
-http://golive.yn.lt/live/bola/01.m3u8
 
 #EXTINF:-1, NOVA SPORTS 1 🇬🇷
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9esxppA5BEooxeg3onklIL
