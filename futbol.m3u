@@ -58,12 +58,6 @@ https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
 https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:-1, MATH 🇷🇺
-http://46.174.83.66/MatchTV/index.m3u8
-
-#EXTINF:-1, MATH 🇷🇺
-https://uiptv.do.am/1ufc/000000003/playlist.m3u8
-
-#EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/394904/HLS/1_5/1/1/playlist.m3u8
 
 #EXTINF:-1, WEBOTV 🇷🇺
@@ -86,9 +80,6 @@ http://146.59.19.1:80/5002/mpegts?
 
 #EXTINF:-1, TRT 1 🇹🇷
 http://ac.traveliptv.nl/ibrahimturk/v7Nv6vNvdk/16
-
-#EXTINF:-1, TRT 1 🇹🇷
-https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1, TRT 1 🇹🇷
 http://195.155.98.170:5858/play/a09j?checkedby:iptvcat.com
