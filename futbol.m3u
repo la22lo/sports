@@ -12,6 +12,9 @@ https://v-ca.mybtv.net/live/140/768x432.m3u8
 #EXTINF:-1, TUDN 🇲🇽
 http://190.61.102.67:31589/play/a08j/index.m3u8
 
+#EXTINF:-1, CITY SPORTS 🇦🇷
+https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8?PlaylistM3UCL
+
 #EXTINF:-1, SPORT TV HD 🇧🇷 
 http://51.79.82.208:16461/
 
@@ -1352,9 +1355,6 @@ https://mcdn.daserste.de/daserste/de/master.m3u8
 
 #EXTINF:-1, DAS ERSTE 🇩🇪
 https://mcdn.daserste.de/daserste/de/profile1/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1, CITY SPORTS 🇦🇷
-https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, TELE VIVO 🇺🇾
 http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/21796.m3u8
