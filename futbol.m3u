@@ -27,9 +27,6 @@ http://185.89.156.111:8000/play/a022?
 #EXTINF:-1, RTSH Sport 🇦🇱
 http://edge01eu.ekranet.com/rtshsport_240p/index.m3u8
 
-#EXTINF:-1, UZ SPORT 🇺🇿
-https://s04.watcher.uz/59/tracks-v1a1a2/mono.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NTYxNjgsImxvZ2luIjoiaGUtMjUyNTk0NSIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjYzMDkyNTM1fQ.kiKhT-gWF-11PivblJQjeKDWIRLHplSGdejtdizEWzQ%3A11
-
 #EXTINF:-1, SPORT TV 1 🇵🇹
 http://quality-restream.com:8080/resplice/v6EKnKb8gn3pGsz9/1483
 
