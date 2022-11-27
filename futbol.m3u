@@ -756,6 +756,18 @@ http://95.169.222.98:8800/udp/239.100.12.97:8888
 #EXTINF:-1, Nova Sport 🇧🇬
 http://78.83.191.18:8000/play/a04a
 
+#EXTINF:-1,Sport1 HD 🇨🇿
+http://91.237.170.202:11000/play/2694
+
+#EXTINF:-1,Sport2 HD 🇨🇿
+http://91.237.170.202:11000/play/2628
+
+#EXTINF:-1,Nova Sport 1 HD 🇨🇿
+http://91.237.170.202:11000/play/3325
+
+#EXTINF:-1,Nova Sport 2 HD 🇨🇿
+http://91.237.170.202:11000/play/3324
+
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
 
@@ -1371,29 +1383,8 @@ http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
 #EXTINF:-1, Asahi TV 🇯🇵
 http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 
-#EXTINF:-1, WORLD CUP 22 🇺🇸
-http://rtv-murcia-live.globalmest.com/stream/abr/k1.m3u8
-
-#EXTINF:-1, RTE2 🇮🇪
-https://lon1.angelthump.com/hls/MjAyMi0xMS0yNVQwOTozMDowMS43MjlaZGVycHRydWNr_derptruck/index.m3u8
-
-#EXTINF:-1,QAT-36-1
-http://92.246.85.77:8000/play/a00e/index.m3u8
-
-#EXTINF:-1,QAT-36-2
-http://92.246.85.77:8000/play/a017/index.m3u8
-
-#EXTINF:-1,Sport1 HD
-http://91.237.170.202:11000/play/2694
-
-#EXTINF:-1,Sport2 HD
-http://91.237.170.202:11000/play/2628
-
-#EXTINF:-1,Nova Sport 1 HD
+#EXTINF:-1,Nova Sport 3 HD 🇨🇿
 http://91.237.170.202:11000/play/3325
-
-#EXTINF:-1,Nova Sport 2 HD
-http://91.237.170.202:11000/play/3324
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
