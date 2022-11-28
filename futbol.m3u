@@ -24,6 +24,9 @@ https://v-px.mybtv.net/live/39/1280x720.m3u8
 #EXTINF:-1, TELEMUNDO 🇲🇽
 https://v-ny.mybtv.net/live/659.m3u8?fbclid=IwAR3SjkrBw-ZeIHtUUwgoJv2-7qStUVFUCOCNvVCzp8RcyerIsXs-Cs2EO7U&mibextid=Zxz2cZ
 
+#EXTINF:-1,TELEMUNDO 🇲🇽
+http://200.48.19.141:10021/play/a02u
+
 #EXTINF:-1, TUDN 🇲🇽
 http://190.61.102.67:31589/play/a08j/index.m3u8
 
@@ -1364,42 +1367,6 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 
 #EXTINF:-1,Nova Sport 3 HD 🇨🇿
 http://91.237.170.202:11000/play/3325
-
-#EXTINF:-1,Rai 2
-http://217.73.139.202:8000/play/a016/index.m3u8
-
-#EXTINF:-1,Rai 2 HD
-http://217.73.139.202:8000/play/a011/index.m3u8
-
-#EXTINF:-1,Telemundo
-http://209.45.80.116:8072/play/a08f/index.m3u8
-
-#EXTINF:-1,TELEMUNDO QATAR
-http://200.48.19.141:10021/play/a02u
-
-#EXTINF:-1,HD Матч! Футбол 1
-http://195.216.210.46:8000/play/a055/index.m3u8
-
-#EXTINF:-1,HD Матч! Футбол 2
-http://195.216.210.46:8000/play/a056/index.m3u8
-
-#EXTINF:-1,HD Матч! Футбол 3
-http://195.216.210.46:8000/play/a057/index.m3u8
-
-#EXTINF:-1,TyC
-http://190.43.92.169:8000/play/a0lo/index.m3u8
-
-#EXTINF:-1,SporTV 4K (QATAR 1)
-http://187.54.218.239:1500/play/a0a3
-
-#EXTINF:-1,SporTV HD
-http://177.156.66.114:8000/play/a0ap
-
-#EXTINF:-1,Gol Mundial HD
-http://79.116.17.196:8000/play/a0m6
-
-#EXTINF:-1,Gol Mundial HD.
-http://79.116.17.196:8000/play/a0m7
 
 #EXTINF:-1, VIVO 6 🇳🇮
 https://59537faa0729a.streamlock.net/canal6mdp/canal6mdp/chunklist_w1042600595.m3u8
