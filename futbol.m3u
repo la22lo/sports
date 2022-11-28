@@ -1335,18 +1335,6 @@ http://190.60.39.62:8000/play/a02e
 #EXTINF:-1,Fox Sports 3
 http://190.60.39.62:8000/play/a02f
 
-#EXTINF:-1, DAS ERSTE HD 🇩🇪
-https://mcdn.daserste.de/daserste/de/master_3744.m3u8?
-
-#EXTINF:-1, DAS ERSTE 🇩🇪
-https://mcdn.daserste.de/daserste/int/master.m3u8
-
-#EXTINF:-1, DAS ERSTE 🇩🇪
-https://mcdn.daserste.de/daserste/de/master.m3u8
-
-#EXTINF:-1, DAS ERSTE 🇩🇪
-https://mcdn.daserste.de/daserste/de/profile1/index.m3u8?checkedby:iptvcat.com
-
 #EXTINF:-1, TELE VIVO 🇺🇾
 http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/21796.m3u8
 
@@ -1364,9 +1352,6 @@ https://streaming.trece.com.py/live/trece.m3u8
 
 #EXTINF:-1, NUBAR SPORT 🇶🇦
 http://stream.nubar.tv:1935/private/NUBARSport/index.m3u8
-
-#EXTINF:-1, ARIANA TV 🇦🇫
-https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 
 #EXTINF:-1,VTV5 🇻🇳
 http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8
