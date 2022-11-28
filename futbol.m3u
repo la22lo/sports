@@ -33,6 +33,9 @@ http://190.61.102.67:31589/play/a08j/index.m3u8
 #EXTINF:-1, SPORT TV HD 🇧🇷 
 http://51.79.82.208:16461/
 
+#EXTINF:-1, SPORT TV HD 2 🇧🇷 
+http://51.79.82.208:16462
+
 #EXTINF:-1, TSN 1 🇨🇦
 https://P135@murthyneeraj231.s3.amazonaws.com/worldcup.m3u8
 
