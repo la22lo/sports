@@ -42,9 +42,6 @@ http://185.89.156.111:8000/play/a022?
 #EXTINF:-1, RTSH Sport 🇦🇱
 http://edge01eu.ekranet.com/rtshsport_240p/index.m3u8
 
-#EXTINF:-1, SPORT TV 1 🇵🇹
-http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/280
-
 #EXTINF:-1, BEIN SPORT 1 🇫🇷
 http://37.49.230.48:8080/live/GenIptvLast/FaP6YswK77NaOPOF/144.ts
 
@@ -90,29 +87,14 @@ http://175.107.244.52:4457/play/a06z
 #EXTINF:-1, BEIN SPORT 2 MAX 🇶🇦
 http://fancytv.ddns.net:25461/fancynet/fancytv/1758
 
-#EXTINF:-1, BEIN SPORT 2 MAX 🇶🇦
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/73
-
-#EXTINF:-1, BEIN SPORT 1 MAX 🇶🇦
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049176
-
 #EXTINF:-1, BEIN SPORT 1 MAX 🇶🇦
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/72
-
-#EXTINF:-1, DUHOK SPORT 🇶🇦
-http://P135@full.badinan.xyz:1935/live/DUHOOKC/playlist.m3u8
-
-#EXTINF:-1, DUHOK SPORT 🇶🇦
-http://P135@full.badinan.xyz:1935/live/DUHOOKC/chunklist_w530229816.m3u8
 
 #EXTINF:-1, ITV 1 HD 🇬🇧
 https://is.gd/BziVE9
 
 #EXTINF:-1, TRUE SPORTS 2 🇲🇾
 https://raw.githubusercontent.com/tvbolaonline98/sopporot/main/Ts2.m3u8
-
-#EXTINF:-1, TRUE SPORTS 2 🇲🇾
-https://youdooball.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
 
 #EXTINF:-1,TVP 🇦🇷
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
