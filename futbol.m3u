@@ -126,12 +126,6 @@ http://45.232.211.196:1080/play/a04d
 #EXTINF:-1, TELEVIVO 🇺🇾
 http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/21796.m3u8
 
-#EXTINF:-1, T SPORTS LIVE 🇧🇩
-http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
-
-#EXTINF:-1, T SPORTS LIVE 🇧🇩
-http://cdn01.palki.tv/live/TSports-M/tracks-v2/index.fmp4.m3u8
-
 #EXTINF:-1,BELARUS 5 🇧🇾
 http://82.209.197.187:8080/udp/239.0.100.9:1234
 
