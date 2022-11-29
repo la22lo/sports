@@ -36,7 +36,10 @@ http://200.48.19.141:10021/play/a02u
 #EXTINF:-1, TUDN 🇲🇽
 http://190.61.102.67:31589/play/a08j/index.m3u8
 
-#EXTINF:-1, VIVO 6 🇳🇮
+#EXTINF:-1, CANAL 6 🇳🇮
+https://59537faa0729a.streamlock.net/canal6mdp/canal6mdp/playlist.m3u8
+
+#EXTINF:-1, CANAL 6 🇳🇮
 https://59537faa0729a.streamlock.net/canal6mdp/canal6mdp/chunklist_w1042600595.m3u8
 
 #EXTINF:-1, CCTV5 CHINA 🇨🇳
@@ -86,6 +89,21 @@ https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 
 #EXTINF:-1, 9GOAL 🇬🇧
 https://playing.goforfreedomwme.net/live/fs1us_720p/index.m3u8
+
+#EXTINF:-1, 9GOAL 🇬🇧
+https://P135@playing.smoothlikebutterstream.com/live/rai1it/index.m3u8
+
+#EXTINF:-1, 9GOAL 🇬🇧
+https://P135@playing.smoothlikebutterstream.com/live/beinsportsmax1ar_720p/index.m3u8
+
+#EXTINF:-1, 9GOAL 🇬🇧
+https://P135@playing.tunnelcdnsw.net/live/daserstede/index.m3u8
+
+#EXTINF:-1, 9GOAL 🇬🇧
+https://P135@playing.smoothlikebutterstream.com/live/matchtvru/index.m3u8
+
+#EXTINF:-1, 9GOAL 🇬🇧
+https://playing.whydontyoustreamwme.com/live/beinsport1fr_720p/index.m3u8
 
 #EXTINF:-1, HRT 2 🇭🇷
 http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8?
