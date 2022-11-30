@@ -21,15 +21,6 @@ https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8?PlaylistM3U
 #EXTINF:-1,CANAL SPORTS 10 🇳🇮
 http://138.117.4.70:8075/channel10/playlist.m3u8
 
-#EXTINF:-1, TELEMUNDO 🇲🇽
-https://v-ca.mybtv.net/live/140/768x432.m3u8
-
-#EXTINF:-1, TELEMUNDO 🇲🇽
-https://v-px.mybtv.net/live/39/1280x720.m3u8
-
-#EXTINF:-1, TELEMUNDO 🇲🇽
-https://v-ny.mybtv.net/live/659.m3u8?fbclid=IwAR3SjkrBw-ZeIHtUUwgoJv2-7qStUVFUCOCNvVCzp8RcyerIsXs-Cs2EO7U&mibextid=Zxz2cZ
-
 #EXTINF:-1,TELEMUNDO 🇲🇽
 http://200.48.19.141:10021/play/a02u
 
