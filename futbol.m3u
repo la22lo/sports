@@ -27,12 +27,6 @@ http://200.48.19.141:10021/play/a02u
 #EXTINF:-1, TUDN 🇲🇽
 http://190.61.102.67:31589/play/a08j/index.m3u8
 
-#EXTINF:-1, CANAL 6 🇳🇮
-https://59537faa0729a.streamlock.net/canal6mdp/canal6mdp/playlist.m3u8
-
-#EXTINF:-1, CANAL 6 🇳🇮
-https://59537faa0729a.streamlock.net/canal6mdp/canal6mdp/chunklist_w1042600595.m3u8
-
 #EXTINF:-1, CCTV5 CHINA 🇨🇳
 https://P135@turnthe.gameon.tel/live/cctv5cn/index.m3u8
 
@@ -50,9 +44,6 @@ http://cdn.spmr.tv:8080/d6pvl0/video.m3u8?token=WYPW6GSH4H
 
 #EXTINF:-1, TSN 1 🇨🇦
 http://31.14.41.118:8080/Xiptv1/2zEqXsX61p/19933
-
-#EXTINF:-1, FS 1 🇺🇸
-https://wswanata.azureedge.net/live/FS1/chunks.m3u8
 
 #EXTINF:-1, RTSH Sport 🇦🇱
 http://185.226.88.6:9510/tch
