@@ -22,7 +22,7 @@ https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8?PlaylistM3U
 http://138.117.4.70:8075/channel10/playlist.m3u8
 
 #EXTINF:-1,TELEMUNDO 🇲🇽
-http://200.48.19.141:10021/play/a02u
+https://v-px.mybtv.net/live/39/1280x720.m3u8
 
 #EXTINF:-1, TUDN 🇲🇽
 http://190.61.102.67:31589/play/a08j/index.m3u8
@@ -65,6 +65,9 @@ https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/394904/HLS/1_5/1/1/playlist.m3u8
+
+#EXTINF:-1, MATH 🇷🇺
+http://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
 
 #EXTINF:-1, WEBOTV 🇷🇺
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
@@ -1376,6 +1379,9 @@ http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8
 
 #EXTINF:-1,VTV6 🇻🇳
 http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
+
+#EXTINF:-1,NOW SPORT 🇧🇩
+http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
 
 #EXTINF:-1, SCTV VIDIO 🇯🇵
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
