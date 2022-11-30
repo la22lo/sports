@@ -369,9 +369,6 @@ http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
 #EXTINF:-1, BEIN SPORTS PREMIUM 3 HD 🇶🇦
 http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347
 
-#EXTINF:-1, BEIN SPORTS PREMIUM 3 HD 🇶🇦
-http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/10015
-
 #EXTINF:-1,Bein Sports 🇶🇦
 http://175.107.244.52:4457/play/a070/index.m3u8
 
@@ -395,9 +392,6 @@ https://raw.githubusercontent.com/tvbolaonline98/sopporot/main/Bn5.m3u8
 
 #EXTINF:-1, BEIN SPORT 6 HD 🇶🇦
 https://raw.githubusercontent.com/tvbolaonline98/sopporot/main/Bn6.m3u8
-
-#EXTINF:-1, BEIN SPORT 7 HD 🇶🇦
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/90160
 
 #EXTINF:-1, Eleven Sports 1 🇵🇹
 http://amazontv.me:8519/live/7173409/01514477/1081.m3u8
