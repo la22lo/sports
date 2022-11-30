@@ -54,6 +54,9 @@ http://amazontv.me:8519/live/7173409/01514477/1070.m3u8
 #EXTINF:-1, TSN 1 🇨🇦
 http://31.14.41.118:8080/Xiptv1/2zEqXsX61p/19933
 
+#EXTINF:-1, TSN 2 🇨🇦
+http://xtv.ooo:8080/85968596/85968596/225866
+
 #EXTINF:-1, RTSH Sport 🇦🇱
 http://185.226.88.6:9510/tch
 
