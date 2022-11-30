@@ -48,6 +48,9 @@ http://w.nasvpn.xyz:8080/live/saya/saya/16571.ts
 #EXTINF:-1, SPORT TV 1 🇵🇹
 http://cdn.spmr.tv:8080/d6pvl0/video.m3u8?token=WYPW6GSH4H
 
+#EXTINF:-1, SPORT TV 1 🇵🇹
+http://amazontv.me:8519/live/7173409/01514477/1070.m3u8
+
 #EXTINF:-1, TSN 1 🇨🇦
 http://31.14.41.118:8080/Xiptv1/2zEqXsX61p/19933
 
@@ -400,22 +403,22 @@ https://raw.githubusercontent.com/tvbolaonline98/sopporot/main/Bn6.m3u8
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/90160
 
 #EXTINF:-1, Eleven Sports 1 🇵🇹
-http://185.236.229.13:4000/play/a01w
+http://amazontv.me:8519/live/7173409/01514477/1081.m3u8
 
 #EXTINF:-1, Eleven Sports 2 🇵🇹
-http://185.236.229.13:4000/play/a00s
+http://amazontv.me:8519/live/7173409/01514477/1082.m3u8
 
 #EXTINF:-1, Eleven Sports 3 🇵🇹
-http://185.236.229.13:4000/play/a00w
+http://amazontv.me:8519/live/7173409/01514477/1083.m3u8
 
 #EXTINF:-1, Eleven Sports 4 🇵🇹
-http://185.236.229.13:4000/play/a01x
+http://amazontv.me:8519/live/7173409/01514477/1084.m3u8
 
 #EXTINF:-1, Eleven Sports 5 🇵🇹
-http://185.236.229.13:4000/play/a01y
+http://amazontv.me:8519/live/7173409/01514477/1085.m3u8
 
 #EXTINF:-1, Eleven Sports 6 🇵🇹
-http://185.236.229.13:4000/play/a00v
+http://amazontv.me:8519/live/7173409/01514477/1086.m3u8
 
 #EXTINF:-1, Eleven Sports 5 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
@@ -459,38 +462,23 @@ http://161.230.47.149:4344/play/a00x
 #EXTINF:-1,SPORT TV + 🇵🇹
 http://194.44.48.82:8002/play/a07b
 
-#EXTINF:-1,Sport TV 1 HD 🇵🇹
-http://194.44.48.82:8002/play/a02l
-
-#EXTINF:-1,Sport TV 1 HD 🇵🇹
-http://161.230.47.149:4344/play/a01k
+#EXTINF:-1, SPORT TV 1 🇵🇹
+http://amazontv.me:8519/live/7173409/01514477/1070.m3u8
 
 #EXTINF:-1,Sport TV 2 HD 🇵🇹
-http://194.44.48.82:8002/play/a02m
-
-#EXTINF:-1,SPORT TV 2 HD 🇵🇹
-http://161.230.47.149:4344/play/a00r
+http://amazontv.me:8519/live/7173409/01514477/1072.m3u8
 
 #EXTINF:-1,Sport TV 3 HD 🇵🇹
-http://194.44.48.82:8002/play/a02n
-
-#EXTINF:-1,SPORT TV 3 HD 🇵🇹
-http://161.230.47.149:4344/play/a00s
+http://amazontv.me:8519/live/7173409/01514477/1074.m3u8
 
 #EXTINF:-1,SPORT TV 4 HD 🇵🇹
-http://194.44.48.82:8002/play/a03d
+http://amazontv.me:8519/live/7173409/01514477/1076.m3u8
 
 #EXTINF:-1,Sport TV 5 HD 🇵🇹
-http://194.44.48.82:8002/play/a03v
-
-#EXTINF:-1,Sport TV 5 HD 🇵🇹
-http://161.230.47.149:4344/play/a013
+http://amazontv.me:8519/live/7173409/01514477/1078.m3u8
 
 #EXTINF:-1,Sport TV 6 HD 🇵🇹
 http://194.44.48.82:8002/play/a03w
-
-#EXTINF:-1,Sport TV 6 HD 🇵🇹
-http://161.230.47.149:4344/play/a014
 
 #EXTINF:-1, Eleven 6 🇵🇹
 http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4275.ts
