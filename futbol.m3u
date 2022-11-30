@@ -24,6 +24,9 @@ http://138.117.4.70:8075/channel10/playlist.m3u8
 #EXTINF:-1,TELEMUNDO 🇲🇽
 https://v-px.mybtv.net/live/39/1280x720.m3u8
 
+#EXTINF:-1,TELEMUNDO 🇲🇽
+https://v-px.mybtv.net/live/39.m3u8
+
 #EXTINF:-1, TUDN 🇲🇽
 http://190.61.102.67:31589/play/a08j/index.m3u8
 
@@ -35,6 +38,9 @@ https://P135@playing.tunnelcdnsw.net/live/cctv5cn/index.m3u8
 
 #EXTINF:-1, SPORT TV HD 🇧🇷 
 http://w.nasvpn.xyz:8080/live/saya/saya/16570.ts
+
+#EXTINF:-1, SPORT TV HD 🇧🇷 
+http://shareext@ssvrv.xyz/live/96790pedr0090/0090pedr96790/179682.ts
 
 #EXTINF:-1, SPORT TV HD 2 🇧🇷 
 http://w.nasvpn.xyz:8080/live/saya/saya/16571.ts
@@ -128,6 +134,9 @@ https://30ddd23492de45a38005e6d61515f8b9.mediatailor.eu-west-1.amazonaws.com/v1/
 
 #EXTINF:-1, TRT 1 🇹🇷
 https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
+
+#EXTINF:-1, A SPORTS 🇮🇳
+http://115.186.148.250:8000/play/a00s
 
 #EXTINF:-1, BEIN SPORT 3 MAX 🇶🇦
 http://175.107.244.52:4457/play/a06z
