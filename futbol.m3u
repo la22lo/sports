@@ -1386,6 +1386,9 @@ http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
 #EXTINF:-1,ELTA SPORT 🇹🇼
 http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,TV2 🇲🇾
+http://51.79.82.208:16002/
+
 #EXTINF:-1, SCTV VIDIO 🇯🇵
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
