@@ -414,45 +414,6 @@ http://amazontv.me:8519/live/7173409/01514477/1086.m3u8
 #EXTINF:-1, Eleven Sports 5 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 
-#EXTINF:-1,Eleven 1 HD 🇵🇹
-http://194.44.48.82:8002/play/a04r
-
-#EXTINF:-1,Eleven 1 HD 🇵🇹
-http://161.230.47.149:4344/play/a00b
-
-#EXTINF:-1,Eleven 2 HD 🇵🇹
-http://194.44.48.82:8002/play/a032
-
-#EXTINF:-1,Eleven 2 HD 🇵🇹
-http://161.230.47.149:4344/play/a00t
-
-#EXTINF:-1,Eleven 3 🇵🇹
-http://194.44.48.82:8002/play/a035
-
-#EXTINF:-1,Eleven 3 🇵🇹
-http://161.230.47.149:4344/play/a00w
-
-#EXTINF:-1,Eleven 4 🇵🇹
-http://194.44.48.82:8002/play/a04s
-
-#EXTINF:-1,Eleven 4 🇵🇹
-http://161.230.47.149:4344/play/a00d
-
-#EXTINF:-1,Eleven 5 🇵🇹
-http://194.44.48.82:8002/play/a04t
-
-#EXTINF:-1,Eleven 5 🇵🇹
-http://161.230.47.149:4344/play/a00e
-
-#EXTINF:-1,Eleven 6 🇵🇹
-http://194.44.48.82:8002/play/a037
-
-#EXTINF:-1,Eleven 6 🇵🇹
-http://161.230.47.149:4344/play/a00x
-
-#EXTINF:-1,SPORT TV + 🇵🇹
-http://194.44.48.82:8002/play/a07b
-
 #EXTINF:-1, SPORT TV 1 🇵🇹
 http://amazontv.me:8519/live/7173409/01514477/1070.m3u8
 
@@ -467,33 +428,6 @@ http://amazontv.me:8519/live/7173409/01514477/1076.m3u8
 
 #EXTINF:-1,Sport TV 5 HD 🇵🇹
 http://amazontv.me:8519/live/7173409/01514477/1078.m3u8
-
-#EXTINF:-1,Sport TV 6 HD 🇵🇹
-http://194.44.48.82:8002/play/a03w
-
-#EXTINF:-1, Eleven 6 🇵🇹
-http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4275.ts
-
-#EXTINF:-1, SPORT TV +HD 🇵🇹
-http://185.236.229.13:4000/play/a02r
-
-#EXTINF:-1, SPORT TV 1 🇵🇹
-http://185.236.229.13:4000/play/a040
-
-#EXTINF:-1, SPORT TV 2 🇵🇹
-http://185.236.229.13:4000/play/a00n
-
-#EXTINF:-1, SPORT TV 3 🇵🇹
-http://185.236.229.13:4000/play/a00o
-
-#EXTINF:-1, SPORT TV 4 🇵🇹
-http://185.236.229.13:4000/play/a00y
-
-#EXTINF:-1, SPORT TV 5 🇵🇹
-http://185.236.229.13:4000/play/a01i
-
-#EXTINF:-1, SPORT TV 6 🇵🇹
-http://185.236.229.13:4000/play/a01j
 
 #EXTINF:-1,Bein Sport 1 FR 🇫🇷
 http://w4.12all.tv:4000/play/bein1fr/index.m3u8
