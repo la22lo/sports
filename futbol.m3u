@@ -186,6 +186,9 @@ https://P135@ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1,ESPN + 🇺🇸
 http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35059.ts
 
+#EXTINF:-1,ESPN + 🇺🇸
+http://31.14.41.118:8080/Xiptv1/2zEqXsX61p/35059
+
 #EXTINF:-1, ESPN DEPORTES 🇦🇷
 http://38.143.137.221:8000/LA81/index.m3u8
 
