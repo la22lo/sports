@@ -45,6 +45,9 @@ https://59537faa0729a.streamlock.net/canal6mdp/canal6mdp/chunklist_w1042600595.m
 #EXTINF:-1, CCTV5 CHINA 🇨🇳
 https://P135@turnthe.gameon.tel/live/cctv5cn/index.m3u8
 
+#EXTINF:-1, CCTV5 CHINA 🇨🇳
+https://P135@playing.tunnelcdnsw.net/live/cctv5cn/index.m3u8
+
 #EXTINF:-1, SPORT TV HD 🇧🇷 
 http://w.nasvpn.xyz:8080/live/saya/saya/16570.ts
 
@@ -59,6 +62,9 @@ http://31.14.41.118:8080/Xiptv1/2zEqXsX61p/19933
 
 #EXTINF:-1, TSN 1 🇨🇦
 https://murthyneeraj231.s3.amazonaws.com/worldcup_1080.m3u8
+
+#EXTINF:-1, FS 1 🇺🇸
+https://wswanata.azureedge.net/live/FS1/chunks.m3u8
 
 #EXTINF:-1, RTSH Sport 🇦🇱
 http://185.226.88.6:9510/tch
@@ -100,10 +106,19 @@ https://P135@playing.smoothlikebutterstream.com/live/beinsportsmax1ar_720p/index
 https://P135@playing.tunnelcdnsw.net/live/daserstede/index.m3u8
 
 #EXTINF:-1, 9GOAL 🇬🇧
+https://P135@playing.tunnelcdnsw.net/live/fs2us_720p/index.m3u8
+
+#EXTINF:-1, 9GOAL 🇬🇧
 https://P135@playing.smoothlikebutterstream.com/live/matchtvru/index.m3u8
 
 #EXTINF:-1, 9GOAL 🇬🇧
 https://playing.whydontyoustreamwme.com/live/beinsport1fr_720p/index.m3u8
+
+#EXTINF:-1, 9GOAL 🇬🇧
+https://P135@playing.goforfreedomwme.net/live/beinsport2fr_720p/index.m3u8
+
+#EXTINF:-1, 9GOAL 🇬🇧
+https://playing.smoothlikebutterstream.com/live/fs2us/index.m3u8
 
 #EXTINF:-1, HRT 2 🇭🇷
 http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8?
