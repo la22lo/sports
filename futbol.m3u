@@ -144,6 +144,9 @@ https://30ddd23492de45a38005e6d61515f8b9.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1, TRT 1 🇹🇷
 https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
 
+#EXTINF:-1, TRT 1 🇹🇷
+https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
+
 #EXTINF:-1, A SPORTS 🇮🇳
 http://115.186.148.250:8000/play/a00s
 
