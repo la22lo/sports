@@ -43,7 +43,7 @@ http://w.nasvpn.xyz:8080/live/saya/saya/16571.ts
 http://cdn.spmr.tv:8080/d6pvl0/video.m3u8?token=WYPW6GSH4H
 
 #EXTINF:-1, SPORT TV 1 🇵🇹
-http://amazontv.me:8519/live/7173409/01514477/1070.m3u8
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/19161/index.m3u8
 
 #EXTINF:-1, TSN 1 🇨🇦
 http://31.14.41.118:8080/Xiptv1/2zEqXsX61p/19933
@@ -80,6 +80,9 @@ https://bl.uma.media/live/394904/HLS/1_5/1/1/playlist.m3u8
 
 #EXTINF:-1, MATH 🇷🇺
 http://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
+
+#EXTINF:-1, MATH 🇷🇺
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/6012/index.m3u8
 
 #EXTINF:-1, WEBOTV 🇷🇺
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
@@ -418,7 +421,7 @@ http://amazontv.me:8519/live/7173409/01514477/1086.m3u8
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 
 #EXTINF:-1, SPORT TV 1 🇵🇹
-http://amazontv.me:8519/live/7173409/01514477/1070.m3u8
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/19161/index.m3u8
 
 #EXTINF:-1,Sport TV 2 HD 🇵🇹
 http://amazontv.me:8519/live/7173409/01514477/1072.m3u8
@@ -723,6 +726,15 @@ http://178.159.112.198/match_futbol_2/index.m3u8?token=test
 #EXTINF:-1,МАТЧ Футбол 3 HD 🇷🇺
 http://178.159.112.198/match_futbol_3/index.m3u8?token=test
 
+#EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/222/index.m3u8
+
+#EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/211/index.m3u8
+
+#EXTINF:-1,МАТЧ Футбол 3 HD 🇷🇺
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/206/index.m3u8
+
 #EXTINF:-1, SPORT RU 🇷🇺
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
 
@@ -752,6 +764,9 @@ http://ru.iptv.monster/play/463/0519D3F69D972DB/video.m3u8
 
 #EXTINF:-1, UZ SPORT 🇺🇿
 https://s04.watcher.uz/59/tracks-v1a1a2/mono.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NTYxNjgsImxvZ2luIjoiaGUtMjUyNTk0NSIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjYzMDkyNTM1fQ.kiKhT-gWF-11PivblJQjeKDWIRLHplSGdejtdizEWzQ%3A11
+
+#EXTINF:-1, Q SPORT 
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20061/index.m3u8
 
 #EXTINF:-1, CYTAVISION SPORT 🇨🇾
 http://bit.do/fVpVT
