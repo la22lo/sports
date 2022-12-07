@@ -66,6 +66,9 @@ http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/15307/index.m3u8
 #EXTINF:-1, WEBOTV 🇷🇺
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 
+#EXTINF:-1, FS 1 🇺🇸
+http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/1529
+
 #EXTINF:-1, 9GOAL 🇬🇧
 https://playing.goforfreedomwme.net/live/fs1us_720p/index.m3u8
 
@@ -143,6 +146,9 @@ http://fancytv.ddns.net:25461/fancynet/fancytv/1758
 
 #EXTINF:-1, BEIN SPORT 1 MAX 🇶🇦
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/72
+
+#EXTINF:-1,ONE HD 🇶🇦
+http://connect.proxytx.cloud/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1053342&extension=ts&play_token=pk7zRQATRG
 
 #EXTINF:-1, ASTRO ARENA 🇲🇾
 http://w.nasvpn.xyz:8080/live/saya/saya/4130.ts
