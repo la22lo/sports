@@ -6,59 +6,17 @@ http://51.79.82.208:16461/
 #EXTINF:-1, SPORT TV HD 2 🇧🇷 
 http://51.79.82.208:16462
 
-#EXTINF:-1,TYC SPORT 🇦🇷
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
-
-#EXTINF:-1,TYC SPORT 🇦🇷
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
-
-#EXTINF:-1,TYC SPORT 🇦🇷
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8?fbclid=PAAaagylDoTQ3WF9b_-7_pOIaQY7Zyj2d7k0JdoNIdIlAo0-KqhikaWEFKfD4
-
-#EXTINF:-1,TELEMUNDO 🇲🇽
-https://v-px.mybtv.net/live/39/1280x720.m3u8
-
-#EXTINF:-1,TELEMUNDO 🇲🇽
-https://v-px.mybtv.net/live/39.m3u8
-
 #EXTINF:-1, TUDN 🇲🇽
 http://190.61.102.67:31589/play/a08j/index.m3u8
 
-#EXTINF:-1, CCTV5 CHINA 🇨🇳
-https://P135@turnthe.gameon.tel/live/cctv5cn/index.m3u8
-
-#EXTINF:-1, CCTV5 CHINA 🇨🇳
-https://P135@playing.tunnelcdnsw.net/live/cctv5cn/index.m3u8
-
-#EXTINF:-1, SPORT TV HD 🇧🇷 
-http://w.nasvpn.xyz:8080/live/saya/saya/16570.ts
-
 #EXTINF:-1, SPORT TV HD 🇧🇷 
 http://shareext@ssvrv.xyz/live/96790pedr0090/0090pedr96790/179682.ts
-
-#EXTINF:-1, SPORT TV HD 2 🇧🇷 
-http://w.nasvpn.xyz:8080/live/saya/saya/16571.ts
-
-#EXTINF:-1, SPORT TV 1 🇵🇹
-http://cdn.spmr.tv:8080/d6pvl0/video.m3u8?token=WYPW6GSH4H
-
-#EXTINF:-1, SPORT TV 1 🇵🇹
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/19161/index.m3u8
-
-#EXTINF:-1, TSN 1 🇨🇦
-http://31.14.41.118:8080/Xiptv1/2zEqXsX61p/19933
-
-#EXTINF:-1, TSN 1 🇨🇦
-https://1ahdgay.azureedge.net/live/TSN1/chunks.m3u8
 
 #EXTINF:-1, TSN 2 🇨🇦
 http://xtv.ooo:8080/85968596/85968596/225866
 
 #EXTINF:-1, SUPERSPORT MUNDIAL 🇿🇦
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20067/index.m3u8
-
-#EXTINF:-1, RTSH Sport 🇦🇱
-http://185.226.88.6:9510/tch
 
 #EXTINF:-1, RTSH Sport 🇦🇱
 http://185.89.156.111:8000/play/a022?
@@ -77,9 +35,6 @@ https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/394904/HLS/1_5/1/1/playlist.m3u8
-
-#EXTINF:-1, MATH 🇷🇺
-http://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
 
 #EXTINF:-1, MATH 🇷🇺
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/6012/index.m3u8
@@ -122,9 +77,6 @@ https://P135@turnthe.gameon.tel/live/telemundo/index.m3u8
 
 #EXTINF:-1, HRT 2 🇭🇷
 http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8?
-
-#EXTINF:-1,HRT 2 🇭🇷
-http://51.15.2.9:1051/play/a066
 
 #EXTINF:-1, RTK 1 🇽🇰
 http://91.187.110.91:5252/rtk1hd
@@ -200,9 +152,6 @@ http://188.93.237.130:8000/play/a012
 
 #EXTINF:-1,ZDF 🇩🇪
 http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_ZDF_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8
-
-#EXTINF:-1, LA 1 🇪🇸
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 
 #EXTINF:-1, LA 1 🇪🇸
 https://P135@ztnr.rtve.es/ztnr/1688877.m3u8
