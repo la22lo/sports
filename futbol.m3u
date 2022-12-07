@@ -1320,6 +1320,12 @@ http://200.4.96.59:1080/play/a055/index.m3u8
 #EXTINF:-1,Telemundo
 http://200.24.132.99:8000/play/a02a
 
+#EXTINF:-1,Telemundo
+http://190.97.172.4:8000/play/a035/index.m3u8
+
+#EXTINF:-1,TyC Sport
+http://190.97.172.4:8000/play/a02g/index.m3u8
+
 #EXTINF:-1, RPC
 http://23.237.10.66:16082/
 
