@@ -1323,8 +1323,20 @@ http://200.24.132.99:8000/play/a02a
 #EXTINF:-1,Telemundo
 http://190.97.172.4:8000/play/a035/index.m3u8
 
+#EXTINF:-1,Telemundo
+http://190.83.119.67:8000/play/a0q9/index.m3u8
+
+#EXTINF:-1,Telemundo
+http://190.83.119.67:8000/play/a0pf/index.m3u8
+
 #EXTINF:-1,TyC Sport
 http://190.97.172.4:8000/play/a02g/index.m3u8
+
+#EXTINF:-1,TyC Sports
+http://190.216.105.66:6020/play/a08q/index.m3u8
+
+#EXTINF:-1,TyC Sports HD
+http://190.216.105.66:6020/play/a0e9/index.m3u8
 
 #EXTINF:-1, ESPN +
 http://190.83.119.67:8000/play/a0py/index.m3u8
