@@ -51,6 +51,12 @@ https://bl.uma.media/live/394904/HLS/1_5/1/1/playlist.m3u8
 #EXTINF:-1, MATH 🇷🇺
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/6012/index.m3u8
 
+#EXTINF:-1, MATH 🇷🇺
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/6052/index.m3u8
+
+#EXTINF:-1, MATH 🇷🇺
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/6023/index.m3u8
+
 #EXTINF:-1, WEBOTV 🇷🇺
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 
@@ -686,9 +692,6 @@ https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
-
-#EXTINF:-1, MATH 🇷🇺
-http://hez1-flu.iptvstream.site/132/index.m3u8
 
 #EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
 http://178.159.112.198/match_futbol_1/index.m3u8?token=test
