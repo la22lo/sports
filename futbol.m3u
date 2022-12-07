@@ -9,7 +9,7 @@ http://51.79.82.208:16462
 #EXTINF:-1, TUDN 🇲🇽
 http://190.61.102.67:31589/play/a08j/index.m3u8
 
-#EXTINF:-1, CCTV5 
+#EXTINF:-1, CCTV5 🇨🇳
 https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8?|referer:https://olevod.tv/
 
 #EXTINF:-1, SPORT TV HD 🇧🇷 
