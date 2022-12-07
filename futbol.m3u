@@ -9,6 +9,12 @@ http://ssvrv.xyz/live/96790pedr0090/0090pedr96790/179682.ts
 #EXTINF:-1, SPORT TV HD 2 🇧🇷 
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5495
 
+#EXTINF:-1,TyC Sports HD 🇦🇷
+http://190.216.105.66:6020/play/a0e9/index.m3u8
+
+#EXTINF:-1,TyC Sports 🇦🇷
+http://190.216.105.66:6020/play/a08q/index.m3u8
+
 #EXTINF:-1, TUDN 🇲🇽
 http://190.61.102.67:31589/play/a08j/index.m3u8
 
@@ -1311,12 +1317,6 @@ https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1, 广东体育 🇨🇳
 http://121.51.249.88/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
 
-#EXTINF:-1,SporTV 4K (QATAR 1)
-http://200.4.96.59:1080/play/a054/index.m3u8
-
-#EXTINF:-1,SporTV2 4K (QATAR 2)
-http://200.4.96.59:1080/play/a055/index.m3u8
-
 #EXTINF:-1,Telemundo
 http://200.24.132.99:8000/play/a02a
 
@@ -1328,49 +1328,6 @@ http://190.83.119.67:8000/play/a0q9/index.m3u8
 
 #EXTINF:-1,Telemundo
 http://190.83.119.67:8000/play/a0pf/index.m3u8
-
-#EXTINF:-1,Telemundo
-http://186.33.168.140:7000/play/a0jt/index.m3u8
-
-#EXTINF:-1,TyC Sport
-http://190.97.172.4:8000/play/a02g/index.m3u8
-
-#EXTINF:-1,TyC Sports
-http://190.216.105.66:6020/play/a08q/index.m3u8
-
-#EXTINF:-1,TyC Sports HD
-http://190.216.105.66:6020/play/a0e9/index.m3u8
-
-#EXTINF:-1,TyC Sports
-http://186.33.168.140:7000/play/a0k7/index.m3u8
-
-#EXTINF:-1, ESPN +
-http://190.83.119.67:8000/play/a0py/index.m3u8
-
-#EXTINF:-1,IRAQ SPORT 1
-http://185.217.90.110:1097/play/a08s
-#EXTINF:-1,IRAQ SPORT 2
-http://185.217.90.110:1097/play/a08t
-#EXTINF:-1,IRAQ SPORT 3
-http://185.217.90.110:1097/play/a08u
-#EXTINF:-1,IRAQ SPORT 4
-http://185.217.90.110:1097/play/a08v
-#EXTINF:-1,IRAQ SPORT 5
-http://185.217.90.110:1097/play/a08w
-#EXTINF:-1,IRAQ SPORT 6
-http://185.217.90.110:1097/play/a08x
-#EXTINF:-1,IRAQ SPORT 7
-http://185.217.90.110:1097/play/a08y
-#EXTINF:-1,IRAQ SPORT EN1
-http://185.217.90.110:1097/play/a08z
-#EXTINF:-1,IRAQ SPORT EN2
-http://185.217.90.110:1097/play/a090
-#EXTINF:-1,IRAQ SPORT PREMIUM1
-http://185.217.90.110:1097/play/a091
-#EXTINF:-1,IRAQ SPORT PREMIUM2
-http://185.217.90.110:1097/play/a092
-#EXTINF:-1,IRAQ SPORT PREMIUM3
-http://185.217.90.110:1097/play/a093
 
 #EXTINF:-1,QATAR 
 http://181.176.148.142:8000/play/a009
