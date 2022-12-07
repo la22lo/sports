@@ -1326,6 +1326,9 @@ http://190.97.172.4:8000/play/a035/index.m3u8
 #EXTINF:-1,TyC Sport
 http://190.97.172.4:8000/play/a02g/index.m3u8
 
+#EXTINF:-1, ESPN +
+http://190.83.119.67:8000/play/a0py/index.m3u8
+
 #EXTINF:-1, RPC
 http://23.237.10.66:16082/
 
