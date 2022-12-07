@@ -1329,6 +1329,9 @@ http://190.83.119.67:8000/play/a0q9/index.m3u8
 #EXTINF:-1,Telemundo
 http://190.83.119.67:8000/play/a0pf/index.m3u8
 
+#EXTINF:-1,Telemundo
+http://186.33.168.140:7000/play/a0jt/index.m3u8
+
 #EXTINF:-1,TyC Sport
 http://190.97.172.4:8000/play/a02g/index.m3u8
 
@@ -1338,8 +1341,36 @@ http://190.216.105.66:6020/play/a08q/index.m3u8
 #EXTINF:-1,TyC Sports HD
 http://190.216.105.66:6020/play/a0e9/index.m3u8
 
+#EXTINF:-1,TyC Sports
+http://186.33.168.140:7000/play/a0k7/index.m3u8
+
 #EXTINF:-1, ESPN +
 http://190.83.119.67:8000/play/a0py/index.m3u8
+
+#EXTINF:-1,IRAQ SPORT 1
+http://185.217.90.110:1097/play/a08s
+#EXTINF:-1,IRAQ SPORT 2
+http://185.217.90.110:1097/play/a08t
+#EXTINF:-1,IRAQ SPORT 3
+http://185.217.90.110:1097/play/a08u
+#EXTINF:-1,IRAQ SPORT 4
+http://185.217.90.110:1097/play/a08v
+#EXTINF:-1,IRAQ SPORT 5
+http://185.217.90.110:1097/play/a08w
+#EXTINF:-1,IRAQ SPORT 6
+http://185.217.90.110:1097/play/a08x
+#EXTINF:-1,IRAQ SPORT 7
+http://185.217.90.110:1097/play/a08y
+#EXTINF:-1,IRAQ SPORT EN1
+http://185.217.90.110:1097/play/a08z
+#EXTINF:-1,IRAQ SPORT EN2
+http://185.217.90.110:1097/play/a090
+#EXTINF:-1,IRAQ SPORT PREMIUM1
+http://185.217.90.110:1097/play/a091
+#EXTINF:-1,IRAQ SPORT PREMIUM2
+http://185.217.90.110:1097/play/a092
+#EXTINF:-1,IRAQ SPORT PREMIUM3
+http://185.217.90.110:1097/play/a093
 
 #EXTINF:-1, RPC
 http://23.237.10.66:16082/
