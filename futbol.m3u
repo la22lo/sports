@@ -1,12 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1, SPORT TV HD 🇧🇷 
-http://51.79.82.208:16461/
-
-#EXTINF:-1, SPORT TV HD 2 🇧🇷 
-http://51.79.82.208:16462
-
-#EXTINF:-1, SPORT TV HD 🇧🇷 
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5494
 
 #EXTINF:-1, SPORT TV HD 2 🇧🇷 
@@ -18,7 +12,7 @@ http://190.61.102.67:31589/play/a08j/index.m3u8
 #EXTINF:-1, CCTV5 🇨🇳
 https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8?|referer:https://olevod.tv/
 
-#EXTINF:-1, GAZI TV  
+#EXTINF:-1, GAZI TV 🇧🇩
 http://103.127.93.82:8234/g_tv/tracks-v1a1/mono.m3u8?token=TheftTheftTheftTheftTheftTheftTheftTheft
 
 #EXTINF:-1, SPORT TV HD 🇧🇷 
@@ -99,7 +93,7 @@ http://146.59.19.1/5002/mpegts?
 #EXTINF:-1, RTK 1 🇽🇰
 http://146.59.19.1:80/5002/mpegts?
 
-#EXTINF:-1, M4 SPORT
+#EXTINF:-1, M4 SPORT 🇭🇺
 http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=1051534&extension=ts&play_token=WWE0GvaFk3
 
 #EXTINF:-1, TRT 1 🇹🇷
