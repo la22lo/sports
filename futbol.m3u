@@ -1311,6 +1311,12 @@ https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1, 广东体育 🇨🇳
 http://121.51.249.88/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
 
+#EXTINF:-1,SporTV 4K (QATAR 1)
+http://200.4.96.59:1080/play/a054/index.m3u8
+
+#EXTINF:-1,SporTV2 4K (QATAR 2)
+http://200.4.96.59:1080/play/a055/index.m3u8
+
 #EXTINF:-1, RPC
 http://23.237.10.66:16082/
 
