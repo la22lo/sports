@@ -21,12 +21,6 @@ http://181.176.148.142:8000/play/a009
 #EXTINF:-1, TVP 🇵🇱
 http://cdnx1.plusx.tv:8880/tvp4kw/mono.m3u8?token=cb776083b1e1b6f9bb2222
 
-#EXTINF:-1, RPC 🇧🇷
-http://23.237.10.66:16082/
-
-#EXTINF:-1,TyC Sports HD 🇦🇷
-http://190.216.105.66:6020/play/a0e9/index.m3u8
-
 #EXTINF:-1, TUDN 🇲🇽
 http://190.61.102.67:31589/play/a08j/index.m3u8
 
