@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, FS 1 🇺🇸
+https://playing.smoothlikebutterstream.com/live/fs1us/index.m3u8
+
 #EXTINF:-1,TyC Sports HD 🇦🇷
 http://190.216.105.66:6020/play/a0e9/index.m3u8
 
