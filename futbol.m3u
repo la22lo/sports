@@ -768,6 +768,15 @@ http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1,МАТЧ Футбол 3 HD 🇷🇺
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 
+#EXTINF:-1,МАТЧ Футбол 1 🇷🇺
+http://dmi3y-tv.ru/hls/CH_MATCH_FUTBOL1.m3u8
+
+#EXTINF:-1,МАТЧ Футбол 2 🇷🇺
+http://dmi3y-tv.ru/hls/CH_MATCH_FUTBOL2.m3u8
+
+#EXTINF:-1,МАТЧ Футбол 3 🇷🇺
+http://dmi3y-tv.ru/hls/CH_MATCH_FUTBOL3.m3u8
+
 #EXTINF:-1, SPORT RU 🇷🇺
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
 
