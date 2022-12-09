@@ -168,6 +168,9 @@ http://w.nasvpn.xyz:8080/live/saya/saya/13322.ts
 #EXTINF:-1,TVP 🇦🇷
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 
+#EXTINF:-1,TF1 🇫🇷
+http://193.107.202.221:81/live/Kirk123/Kirk123/1552953.ts
+
 #EXTINF:-1,CHILEVISION 🇨🇱
 http://45.232.211.196:1080/play/a04d
 
