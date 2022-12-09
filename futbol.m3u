@@ -205,6 +205,9 @@ http://188.93.237.130:8000/play/a012
 http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_ZDF_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8
 
 #EXTINF:-1, LA 1 🇪🇸
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+
+#EXTINF:-1, LA 1 🇪🇸
 https://P135@ztnr.rtve.es/ztnr/1688877.m3u8
 
 #EXTINF:-1,ESPN + 🇺🇸
