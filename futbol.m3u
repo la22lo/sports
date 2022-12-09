@@ -759,6 +759,15 @@ http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/211/index.m3u8
 #EXTINF:-1,МАТЧ Футбол 3 HD 🇷🇺
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/206/index.m3u8
 
+#EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
+http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1,МАТЧ Футбол 3 HD 🇷🇺
+http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+
 #EXTINF:-1, SPORT RU 🇷🇺
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
 
