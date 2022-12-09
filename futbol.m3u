@@ -1302,6 +1302,9 @@ http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8
 #EXTINF:-1,VTV6 🇻🇳
 http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
 
+#EXTINF:-1,VTV6 🇻🇳
+https://nvzoftzsvflivcf.vcdn.com.vn/vtv6/vtv6@high.m3u8
+
 #EXTINF:-1,NOW SPORT 🇧🇩
 http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
 
