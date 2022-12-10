@@ -1386,6 +1386,12 @@ http://37.49.230.48:8080/live/GenIptvLast/FaP6YswK77NaOPOF/146.ts
 #EXTINF:-1, TSN 🇨🇦
 http://iptv12k.com:35461/80203091402/213445/10812
 
+#EXTINF:-1, TSN 3 🇨🇦
+https://hdstreamss.club:30443/live/ch3/chunks.m3u8
+
+#EXTINF:-1, BT SPORT 1 🇬🇧
+https://hdstreamss.club:30443/live/ch1/chunks.m3u8
+
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
