@@ -795,6 +795,15 @@ http://dmi3y-tv.ru/hls/CH_MATCH_FUTBOL2.m3u8
 #EXTINF:-1,МАТЧ Футбол 3 🇷🇺
 http://dmi3y-tv.ru/hls/CH_MATCH_FUTBOL3.m3u8
 
+#EXTINF:-1,МАТЧ Футбол 1 🇷🇺
+https://federaltv-migra.cdnvideo.ru/football1/tracks-v1a1/mono.m3u8?hls_proxy_host=c8b34f6694e6884847cfca4d5fa808b9
+
+#EXTINF:-1,МАТЧ Футбол 2 🇷🇺
+https://federaltv-migra.cdnvideo.ru/football2/tracks-v1a1/mono.m3u8?hls_proxy_host=c8b34f6694e6884847cfca4d5fa808b9
+
+#EXTINF:-1,МАТЧ Футбол 3 🇷🇺
+https://federaltv-migra.cdnvideo.ru/football3/tracks-v1a1/mono.m3u8?hls_proxy_host=c8b34f6694e6884847cfca4d5fa808b9
+
 #EXTINF:-1, SPORT RU 🇷🇺
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
 
