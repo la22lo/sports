@@ -1326,11 +1326,20 @@ http://stream.nubar.tv:1935/private/NUBARSport/index.m3u8
 #EXTINF:-1,VTV5 🇻🇳
 http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8
 
+#EXTINF:-1,VTV5 🇻🇳
+http://vn2.cvacetv.ga/vtv5
+
 #EXTINF:-1,VTV6 🇻🇳
 http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
 
 #EXTINF:-1,VTV6 🇻🇳
 https://nvzoftzsvflivcf.vcdn.com.vn/vtv6/vtv6@high.m3u8
+
+#EXTINF:-1,VTV2 🇻🇳
+http://vn2.cvacetv.ga/vtv2
+
+#EXTINF:-1,VTV3 🇻🇳
+http://vn2.cvacetv.ga/vtv3
 
 #EXTINF:-1,NOW SPORT 🇧🇩
 http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
