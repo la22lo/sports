@@ -51,6 +51,9 @@ http://103.127.93.82:8234/g_tv/tracks-v1a1/mono.m3u8?token=TheftTheftTheftTheftT
 #EXTINF:-1, A SPORT 🇧🇩
 http://115.186.148.250:8000/play/a00s
 
+#EXTINF:-1, SBS LIVE 🇰🇷
+https://sbs-live.akamaized.net/hls/live/2002827/channel1/open/master.m3u8
+
 #EXTINF:-1, SUPERSPORT MUNDIAL 🇿🇦
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20067/index.m3u8
 
