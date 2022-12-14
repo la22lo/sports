@@ -12,26 +12,8 @@ http://190.61.102.67:31589/play/a08j/index.m3u8
 #EXTINF:-1, CCTV5 🇨🇳
 https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8?|referer:https://olevod.tv/
 
-#EXTINF:-1, GAZI TV 🇧🇩
-http://103.127.93.82:8234/g_tv/tracks-v1a1/mono.m3u8?token=TheftTheftTheftTheftTheftTheftTheftTheft
-
-#EXTINF:-1, A SPORT 🇧🇩
-http://115.186.148.250:8000/play/a00s
-
-#EXTINF:-1,TOFFE LIVE 🇧🇩
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
-
-#EXTINF:-1, SBS LIVE 🇰🇷
-https://sbs-live.akamaized.net/hls/live/2002827/channel1/open/master.m3u8
-
 #EXTINF:-1, SUPERSPORT MUNDIAL 🇿🇦
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20067/index.m3u8
-
-#EXTINF:-1, TSN 1 🇨🇦
-http://iptv12k.com:35461/80203091402/213445/10812
-
-#EXTINF:-1, TSN 1 🇨🇦
-http://sea1.live.dreamcast.cc/hls/XUWUQovq2K.m3u8
 
 #EXTINF:-1, RTSH Sport 🇦🇱
 http://185.89.156.111:8000/play/a022?
