@@ -1,23 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,Telemundo 🇲🇽
-https://turnthe.gameon.tel/live/telemundo/index.m3u8
-
-#EXTINF:-1,Telemundo 🇲🇽
-https://playing.whydontyoustreamwme.com/live/telemundo/index.m3u8
-
-#EXTINF:-1,Telemundo 🇲🇽
-https://playing.goforfreedomwme.net/live/telemundo/index.m3u8
-
-#EXTINF:-1, FS 1 🇺🇸
-https://playing.smoothlikebutterstream.com/live/fs1us/index.m3u8
-
-#EXTINF:-1, FS 1 🇺🇸
-https://playing.goforfreedomwme.net/live/fs1us_720p/index.m3u8
-
-#EXTINF:-1, FS 1 🇺🇸
-https://playing.whydontyoustreamwme.com/live/fs1us/index.m3u8
-
 #EXTINF:-1,QATAR 🇶🇦
 http://181.176.148.142:8000/play/a009
 
