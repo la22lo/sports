@@ -45,42 +45,6 @@ http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/15307/index.m3u8
 #EXTINF:-1, WEBOTV 🇷🇺
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 
-#EXTINF:-1, FS 1 🇺🇸
-http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/1529
-
-#EXTINF:-1, 9GOAL 🇬🇧
-https://playing.goforfreedomwme.net/live/fs1us_720p/index.m3u8
-
-#EXTINF:-1, 9GOAL 🇬🇧
-https://P135@playing.smoothlikebutterstream.com/live/rai1it/index.m3u8
-
-#EXTINF:-1, 9GOAL 🇬🇧
-https://P135@playing.smoothlikebutterstream.com/live/beinsportsmax1ar_720p/index.m3u8
-
-#EXTINF:-1, 9GOAL 🇬🇧
-https://P135@playing.tunnelcdnsw.net/live/daserstede/index.m3u8
-
-#EXTINF:-1, 9GOAL 🇬🇧
-https://P135@playing.tunnelcdnsw.net/live/fs2us_720p/index.m3u8
-
-#EXTINF:-1, 9GOAL 🇬🇧
-https://P135@playing.smoothlikebutterstream.com/live/matchtvru/index.m3u8
-
-#EXTINF:-1, 9GOAL 🇬🇧
-https://playing.whydontyoustreamwme.com/live/beinsport1fr_720p/index.m3u8
-
-#EXTINF:-1, 9GOAL 🇬🇧
-https://turnthe.gameon.tel/live/beinsport2fr/index.m3u8
-
-#EXTINF:-1, 9GOAL 🇬🇧
-https://P135@playing.goforfreedomwme.net/live/beinsport2fr_720p/index.m3u8
-
-#EXTINF:-1, 9GOAL 🇬🇧
-https://playing.smoothlikebutterstream.com/live/fs2us/index.m3u8
-
-#EXTINF:-1, 9GOAL 🇬🇧
-https://P135@turnthe.gameon.tel/live/telemundo/index.m3u8
-
 #EXTINF:-1, HRT 2 🇭🇷
 http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8?
 
@@ -93,35 +57,17 @@ http://146.59.19.1/5002/mpegts?
 #EXTINF:-1, RTK 1 🇽🇰
 http://146.59.19.1:80/5002/mpegts?
 
-#EXTINF:-1, M4 SPORT 🇭🇺
-http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=1051534&extension=ts&play_token=WWE0GvaFk3
-
 #EXTINF:-1, TRT 1 🇹🇷
 http://ac.traveliptv.nl/ibrahimturk/v7Nv6vNvdk/16
 
 #EXTINF:-1, TRT 1 🇹🇷
 http://195.155.98.170:5858/play/a09j?checkedby:iptvcat.com
 
-#EXTINF:-1, TRT 1 🇹🇷
-https://30ddd23492de45a38005e6d61515f8b9.mediatailor.eu-west-1.amazonaws.com/v1/manifest/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/08666342-974f-46ea-bf42-a57ed3d2220c/0.m3u8
-
-#EXTINF:-1, TRT 1 🇹🇷
-https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
-
-#EXTINF:-1, TRT 1 🇹🇷
-https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1, A SPORTS 🇮🇳
-http://115.186.148.250:8000/play/a00s
-
 #EXTINF:-1, BEIN SPORT 3 MAX 🇶🇦
 http://175.107.244.52:4457/play/a06z
 
 #EXTINF:-1, BEIN SPORT 3 MAX 🇶🇦
 http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/59262.ts
-
-#EXTINF:-1, BEIN SPORT 2 MAX 🇶🇦
-http://fancytv.ddns.net:25461/fancynet/fancytv/1758
 
 #EXTINF:-1, BEIN SPORT 1 MAX 🇶🇦
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/72
@@ -132,26 +78,11 @@ http://streamermytvc.com/Bein-Sp-Max-1-LB+ph===---/cache/Bein-Sp-Max-1-LB/master
 #EXTINF:-1, BEIN SPORT 2 MAX 🇶🇦
 http://streamermytvc.com/Bein-Sp-Max-2-LB+ph===---/cache/Bein-Sp-Max-2-LB/master.m3u8
 
-#EXTINF:-1,ONE HD 🇶🇦
-http://connect.proxytx.cloud/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1053342&extension=ts&play_token=pk7zRQATRG
-
 #EXTINF:-1, ASTRO ARENA 🇲🇾
 http://w.nasvpn.xyz:8080/live/saya/saya/4130.ts
 
-#EXTINF:-1, ITV 1 HD 🇬🇧
-https://is.gd/BziVE9
-
-#EXTINF:-1, ITV 1 HD 🇬🇧
-http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/256
-
-#EXTINF:-1, TRUE SPORTS 2 🇲🇾
-https://raw.githubusercontent.com/tvbolaonline98/sopporot/main/Ts2.m3u8
-
 #EXTINF:-1, TRUE SPORTS 2 🇲🇾
 http://w.nasvpn.xyz:8080/live/saya/saya/13322.ts
-
-#EXTINF:-1,TVP 🇦🇷
-http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 
 #EXTINF:-1,TF1 🇫🇷
 http://193.107.202.221:81/live/Kirk123/Kirk123/1552953.ts
