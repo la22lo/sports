@@ -93,6 +93,9 @@ http://146.19.16.211:8018/play/a05c
 #EXTINF:-1,SERVUS TV 🇩🇪
 https://s6.hopslan.com/servus2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,SERVUS TV 🇩🇪
+https://s6.hopslan.com/servus2/index.m3u8
+
 #EXTINF:-1,ORF TV 🇩🇪
 https://s@s6.hopslan.com/orf1/index.m3u8
 
