@@ -1242,38 +1242,14 @@ http://190.61.102.67:8000/play/a05x
 #EXTINF:-1, TRECE EN VIVO 🇵🇾 
 https://streaming.trece.com.py/live/trece.m3u8
 
-#EXTINF:-1, NUBAR SPORT 🇶🇦
-http://stream.nubar.tv:1935/private/NUBARSport/index.m3u8
-
-#EXTINF:-1,VTV5 🇻🇳
-http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8
-
 #EXTINF:-1,VTV5 🇻🇳
 http://vn2.cvacetv.ga/vtv5
 
 #EXTINF:-1,VTV6 🇻🇳
 http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
 
-#EXTINF:-1,VTV6 🇻🇳
-https://nvzoftzsvflivcf.vcdn.com.vn/vtv6/vtv6@high.m3u8
-
-#EXTINF:-1,VTV2 🇻🇳
-http://vn2.cvacetv.ga/vtv2
-
-#EXTINF:-1,VTV3 🇻🇳
-http://vn2.cvacetv.ga/vtv3
-
-#EXTINF:-1,NOW SPORT 🇧🇩
-http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
-
-#EXTINF:-1,NOW SPORT 🇧🇩
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20066/index.m3u8
-
 #EXTINF:-1,ELTA SPORT 🇹🇼
 http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,TV2 🇲🇾
-http://51.79.82.208:16002/
 
 #EXTINF:-1, SCTV VIDIO 🇯🇵
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
@@ -1281,26 +1257,11 @@ http://mpwtv.my.id/vidioye/204-sctv.m3u8
 #EXTINF:-1, Asahi TV 🇯🇵
 http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 
-#EXTINF:-1, BEIN SPORT 2 🇫🇷
-http://37.49.230.48:8080/live/GenIptvLast/FaP6YswK77NaOPOF/145.ts
-
-#EXTINF:-1, BEIN SPORT 3 🇫🇷
-http://37.49.230.48:8080/live/GenIptvLast/FaP6YswK77NaOPOF/146.ts
-
-#EXTINF:-1, TSN 3 🇨🇦
+#EXTINF:-1, TSN 1 🇨🇦
 https://hdstreamss.club:30443/live/ch3/chunks.m3u8
-
-#EXTINF:-1, BT SPORT 1 🇬🇧
-https://hdstreamss.club:30443/live/ch1/chunks.m3u8
 
 #EXTINF:-1,CANAL 10 SPORT 🇨🇷
 https://P135@cdnhd.iblups.com/hls/fg5xv4SLvY.m3u8
-
-#EXTINF:-1,SOCO LIVE
-https://P135@sports01.livnvess.com/live/stream-187579.m3u8?txSecret=a562e41764311db796510463c5f8b047&txTime=63965ca0
-
-#EXTINF:-1,SOCO LIVE
-https://P135@pullalilive.livnvess.com/live/stream-170430.m3u8?auth_key=1670798376-0-0-78229683ad6554d7492c94cc68dedb3a
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
