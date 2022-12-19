@@ -105,6 +105,9 @@ http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
 #EXTINF:-1, BEIN SPORTS PREMIUM 3 HD 🇶🇦
 http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347
 
+#EXTINF:-1, BEIN SPORTS 1 HD 🇶🇦
+http://185.71.66.45:88/220263509778434/220263509778434/1602
+
 #EXTINF:-1,Bein Sports 5 Arabic 🇶🇦
 http://175.107.244.52:4457/play/a06y/index.m3u8
 
