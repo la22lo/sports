@@ -700,6 +700,9 @@ http://190.60.39.17:4001/play/a05d/index.m3u8
 #EXTINF:-1,ESPN CO
 http://190.60.39.17:4001/play/a05v/index.m3u8
 
+#EXTINF:-1, Eleven Sport 1
+http://op.cdloop.eu:80/11942513409fabio/fab65hb52/1105
+
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
