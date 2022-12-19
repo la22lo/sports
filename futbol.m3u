@@ -640,6 +640,39 @@ http://181.176.148.142:8000/play/a009
 #EXTINF:-1, WEBOTV 🇷🇺
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 
+#EXTINF:-1,Setanta_LV_HD
+http://exclusive_member/play/a027
+
+#EXTINF:-1,Sport1
+http://exclusive_member/play/a01v
+
+#EXTINF:-1,TV3_LT_HD
+http://exclusive_member/play/a01p
+
+#EXTINF:-1,TV3_Sport_HD_HVC
+http://exclusive_member/play/a020
+
+#EXTINF:-1,TV3_Sport_OPEN_HD
+http://exclusive_member/play/a014
+
+#EXTINF:-1,ESPN
+http://190.60.39.17:4001/play/a04r/index.m3u8
+
+#EXTINF:-1,ESPN 2
+http://190.60.39.17:4001/play/a03z/index.m3u8
+
+#EXTINF:-1,ESPN 2 Latin
+http://190.60.39.17:4001/play/a04q/index.m3u8
+
+#EXTINF:-1,ESPN 3
+http://190.60.39.17:4001/play/a07t/index.m3u8
+
+#EXTINF:-1,ESPN 4
+http://190.60.39.17:4001/play/a05d/index.m3u8
+
+#EXTINF:-1,ESPN CO
+http://190.60.39.17:4001/play/a05v/index.m3u8
+
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
