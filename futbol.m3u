@@ -36,6 +36,12 @@ http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2531/index.m3u8
 #EXTINF:-1, NOVA SPORTS 1 🇬🇷
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9esxppA5BEooxeg3onklIL
 
+#EXTINF:-1, Movistar LALIGA ES
+http://caballerotv.com:5890/1122334455/1122334455/907
+
+#EXTINF:-1, DAZN LALIGA  ES
+http://caballerotv.com:5890/1122334455/1122334455/184286
+
 #EXTINF:-1, MTV INDIA 🇮🇳
 
 
@@ -131,6 +137,25 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 
 #EXTINF:-1, Eleven Sports 6 🇵🇹
 http://op.cdloop.eu:80/11942513409fabio/fab65hb52/1115
+
+#EXTINF:-1, ElevenSports 1 FHD 🇵🇹
+http://caballerotv.com:5890/1122334455/1122334455/1081
+
+#EXTINF:-1, ElevenSports 2 FHD 🇵🇹
+http://caballerotv.com:5890/1122334455/1122334455/1082
+
+
+#EXTINF:-1, ElevenSports 3 FHD 🇵🇹
+http://caballerotv.com:5890/1122334455/1122334455/1083
+
+#EXTINF:-1, ElevenSports 4 FHD 🇵🇹
+http://caballerotv.com:5890/1122334455/1122334455/1084
+
+#EXTINF:-1, ElevenSports 5 FHD 🇵🇹
+http://caballerotv.com:5890/1122334455/1122334455/1085
+
+#EXTINF:-1, ElevenSports 6 FHD 🇵🇹
+http://caballerotv.com:5890/1122334455/1122334455/1086
 
 #EXTINF:-1, SPORT TV 1 🇵🇹
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/19161/index.m3u8
