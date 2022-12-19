@@ -19,6 +19,12 @@ http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2532/index.m3u8
 
+#EXTINF:-1, Eleven 2 HD 🇵🇹
+http://op.cdloop.eu:80/11942513409fabio/fab65hb52/1107
+
+#EXTINF:-1, Eleven 1 HD 🇵🇹
+http://op.cdloop.eu:80/11942513409fabio/fab65hb52/1104
+
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2531/index.m3u8
 
@@ -100,41 +106,47 @@ http://streamermytvc.com/Bein-Sp-Max-1-LB+ph===---/cache/Bein-Sp-Max-1-LB/master
 #EXTINF:-1, BEIN SPORT 2 MAX 🇶🇦
 http://streamermytvc.com/Bein-Sp-Max-2-LB+ph===---/cache/Bein-Sp-Max-2-LB/master.m3u8
 
-#EXTINF:-1, Eleven Sports 1 🇵🇹
-http://amazontv.me:8519/live/7173409/01514477/1081.m3u8
+#EXTINF:-1, Eleven 1 HD 🇵🇹
+http://op.cdloop.eu:80/11942513409fabio/fab65hb52/1104
 
-#EXTINF:-1, Eleven Sports 1 🇵🇹
-
-
-#EXTINF:-1, Eleven Sports 2 🇵🇹
-
+#EXTINF:-1, Eleven 2 HD 🇵🇹
+http://op.cdloop.eu:80/11942513409fabio/fab65hb52/1107
 
 #EXTINF:-1, Eleven Sports 3 🇵🇹
-
+http://op.cdloop.eu:80/11942513409fabio/fab65hb52/1111
 
 #EXTINF:-1, Eleven Sports 4 🇵🇹
+http://op.cdloop.eu:80/11942513409fabio/fab65hb52/1112
 
+#EXTINF:-1, Eleven Sports 5 🇵🇹
+http://op.cdloop.eu:80/11942513409fabio/fab65hb52/1114
 
 #EXTINF:-1, Eleven Sports 5 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 
 #EXTINF:-1, Eleven Sports 6 🇵🇹
-
+http://op.cdloop.eu:80/11942513409fabio/fab65hb52/1115
 
 #EXTINF:-1, SPORT TV 1 🇵🇹
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/19161/index.m3u8
 
-#EXTINF:-1,Sport TV 2 HD 🇵🇹
+#EXTINF:-1, SPORT TV 1 🇵🇹
+http://op.cdloop.eu:80/11942513409fabio/fab65hb52/1100
 
+#EXTINF:-1,Sport TV 2 HD 🇵🇹
+http://op.cdloop.eu:80/11942513409fabio/fab65hb52/1101
 
 #EXTINF:-1,Sport TV 3 HD 🇵🇹
-
+http://op.cdloop.eu:80/11942513409fabio/fab65hb52/1102
 
 #EXTINF:-1,SPORT TV 4 HD 🇵🇹
-
+http://op.cdloop.eu:80/11942513409fabio/fab65hb52/1128
 
 #EXTINF:-1,Sport TV 5 HD 🇵🇹
+http://op.cdloop.eu:80/11942513409fabio/fab65hb52/1103
 
+#EXTINF:-1,Sport TV + HD 🇵🇹
+http://op.cdloop.eu:80/11942513409fabio/fab65hb52/1099
 
 #EXTINF:-1,INFOSPORT+ 🇫🇷
 http://37.235.38.139:4000/play/a00n
@@ -699,9 +711,6 @@ http://190.60.39.17:4001/play/a05d/index.m3u8
 
 #EXTINF:-1,ESPN CO
 http://190.60.39.17:4001/play/a05v/index.m3u8
-
-#EXTINF:-1, Eleven Sport 1
-http://op.cdloop.eu:80/11942513409fabio/fab65hb52/1105
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
