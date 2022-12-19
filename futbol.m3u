@@ -1,31 +1,5 @@
 #EXTM3U
 
-
-
-#EXTINF:-1,Rai 2 🇮🇹
-http://146.19.16.211:8018/play/a05c
-
-#EXTINF:-1,SERVUS TV 🇩🇪
-https://s6.hopslan.com/servus2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,SERVUS TV 🇩🇪
-https://s6.hopslan.com/servus2/index.m3u8
-
-#EXTINF:-1,ORF TV 🇩🇪
-https://s@s6.hopslan.com/orf1/index.m3u8
-
-#EXTINF:-1,ZDF HD 🇩🇪
-http://188.93.237.130:8000/play/a00z
-
-#EXTINF:-1,ZDF 🇩🇪
-http://188.93.237.130:8000/play/a012
-
-#EXTINF:-1,ZDF 🇩🇪
-http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_ZDF_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8
-
-#EXTINF:-1, LA 1 🇪🇸
-https://P135@ztnr.rtve.es/ztnr/1688877.m3u8
-
 #EXTINF:-1,ESPN + 🇺🇸
 http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35059.ts
 
@@ -839,6 +813,9 @@ http://80.82.18.214:4000/play/a046/index.m3u8
 #EXTINF:-1, TVP 🇵🇱
 http://cdnx1.plusx.tv:8880/tvp4kw/mono.m3u8?token=cb776083b1e1b6f9bb2222
 
+#EXTINF:-1,Rai 2 🇮🇹
+http://146.19.16.211:8018/play/a05c
+
 #EXTINF:-1, ZIGGO SPORT 🇳🇱
 http://line.365tv.xyz:8060/lucky/jfdnndsfs/118908
 
@@ -865,6 +842,12 @@ http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38703
 
 #EXTINF:-1, SPORT 5 + 🇮🇱
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38702
+
+#EXTINF:-1,SERVUS TV 🇩🇪
+https://s6.hopslan.com/servus2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ORF TV 🇩🇪
+https://s@s6.hopslan.com/orf1/index.m3u8
 
 #EXTINF:-1 ,2 SPORT HUNGRIA 🇭🇺
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
@@ -1078,6 +1061,9 @@ https://cdnlive.shooowit.net/la8valladolidlive/smil:streamswitchingchannel.smil/
 
 #EXTINF:-1, MEGA 🇪🇸
 http://154.62.74.29:1935/live/mega/chunklist_w1555082919.m3u8
+
+#EXTINF:-1, LA 1 🇪🇸
+https://P135@ztnr.rtve.es/ztnr/1688877.m3u8
 
 #EXTINF:-1, TELEDEPORTE 🇪🇸
 https://mvk@ztnr.rtve.es/ztnr/1712295.m3u8?mvk
