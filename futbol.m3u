@@ -430,6 +430,18 @@ http://w.nasvpn.xyz:8080/live/saya/saya/4130.ts
 #EXTINF:-1, TRUE SPORTS 2 🇲🇾
 http://w.nasvpn.xyz:8080/live/saya/saya/13322.ts
 
+#EXTINF:-1, TRUE SPORTS 1 THAI
+https://sport.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8?|referer=https://www.movie87hd.com/?r=ajax/&User-agent=REDLINECLIENT
+
+#EXTINF:-1, TRUE SPORTS 2 THAI
+https://sport.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8?|referer=https://www.movie87hd.com/?r=ajax/&User-agent=REDLINECLIENT
+
+#EXTINF:-1, TRUE SPORTS 3 THAI
+https://sport.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8?|referer=https://www.movie87hd.com/?r=ajax/&User-agent=REDLINECLIENT
+
+#EXTINF:-1, TRUE SPORTS 4 THAI
+https://sport.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8?|referer=https://www.movie87hd.com/?r=ajax/&User-agent=REDLINECLIENT
+
 #EXTINF:-1,S SPORT HD 🇹🇷
 
 
