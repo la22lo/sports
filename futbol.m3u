@@ -882,6 +882,21 @@ https://vietanhtv.xyz/tv24.php?id=sctv17
 #EXTINF:-1, SCTV 17 🇻🇳
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv17
 
+#EXTINF:-1,VTV5 🇻🇳
+http://vn2.cvacetv.ga/vtv5
+
+#EXTINF:-1,VTV6 🇻🇳
+http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
+
+#EXTINF:-1,ELTA SPORT 🇹🇼
+http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, SCTV VIDIO 🇯🇵
+http://mpwtv.my.id/vidioye/204-sctv.m3u8
+
+#EXTINF:-1, Asahi TV 🇯🇵
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
+
 #EXTINF:-1, TVRI SPORTS INDONESIA 🇮🇩
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
@@ -960,6 +975,9 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1, ESPORTE INTERACTIVO 🇧🇷
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
+#EXTINF:-1, TSN 1 🇨🇦
+https://hdstreamss.club:30443/live/ch3/chunks.m3u8
+
 #EXTINF:-1, TSN 2 🇨🇦
 http://89.187.175.143/3045/index.m3u8
 
@@ -974,6 +992,9 @@ http://200.52.154.125:8000/play/a06z/index.m3u8
 
 #EXTINF:-1,TIGO SPORTS 🇧🇴
 http://45.228.234.185:8000/play/a02v/index.m3u8
+
+#EXTINF:-1,TIGO SPORTS 🇵🇾
+http://190.61.102.67:8000/play/a05x
 
 #EXTINF:-1,PRENDETV LIGA MX 🇲🇽
 https://dip0m6wuccbi7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2d8j5h422463p-prod/dist/samsungtv/193/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
@@ -1092,20 +1113,8 @@ http://200.24.132.99:8000/play/a022
 #EXTINF:-1, ESPN PERU 🇵🇪
 http://181.176.148.142:8000/play/a02d
 
-#EXTINF:-1,ESPN 🇦🇷
-http://200.110.169.237:8202/play/a01n
-
-#EXTINF:-1,ESPN 🇦🇷
-http://190.43.232.244:8000/play/a09i/index.m3u8
-
-#EXTINF:-1,ESPN HD 🇦🇷
-http://190.43.232.244:8000/play/a068/index.m3u8
-
 #EXTINF:-1,ESPN 🇨🇴
 http://201.219.223.101:46000/play/a03f
-
-#EXTINF:-1,ESPN 🇨🇴
-http://200.110.169.237:8202/play/a03h
 
 #EXTINF:-1, ESPN 2 ECUADOR 🇪🇨
 http://200.24.132.99:8000/play/a01v
@@ -1113,62 +1122,23 @@ http://200.24.132.99:8000/play/a01v
 #EXTINF:-1, ESPN 2 LATINO 🇪🇨
 http://200.24.132.99:8000/play/a021
 
-#EXTINF:-1,ESPN 2 Latin 🇦🇷
-http://200.110.169.237:8202/play/a01m
-
-#EXTINF:-1,ESPN 2 Latin 🇦🇷
-http://190.43.232.244:8000/play/a09h/index.m3u8
-
 #EXTINF:-1, ESPN 2 🇨🇱
 http://45.232.177.17:8000/play/a007
 
 #EXTINF:-1,ESPN 2 🇨🇱
 http://201.219.223.101:46000/play/a015
 
-#EXTINF:-1,ESPN 2 🇨🇱
-http://200.110.169.237:8202/play/a031
-
-#EXTINF:-1,ESPN 3 🇨🇱
-http://200.110.169.237:8202/play/a02f
-
 #EXTINF:-1,ESPN 3 🇨🇱
 http://201.219.223.101:46000/play/a02a
 
-#EXTINF:-1,ESPN 3 🇦🇷
-http://190.43.232.244:8000/play/a08k/index.m3u8
-
-#EXTINF:-1, ESPN 2 🇦🇷
-https://qiniu.dlivecdn.com/dlive/transcode-77-7/navidadroja/1666906469/src/live.m3u8
-
-#EXTINF:-1,ESPN 4 🇦🇷
-http://190.43.232.244:8000/play/a07w/index.m3u8
-
-#EXTINF:-1,ESPN 4 HD 🇦🇷
-http://190.43.232.244:8000/play/a06w/index.m3u8
-
-#EXTINF:-1,ESPN EXTRA HD 🇦🇷
-http://190.43.232.244:8000/play/a076/index.m3u8
-
-#EXTINF:-1,Fox Sports 2 🇦🇷
-http://200.110.169.237:8202/play/a01w
-
 #EXTINF:-1,Fox Sports 2 🇦🇷
 http://201.219.223.101:46000/play/a03s
-
-#EXTINF:-1,Fox Sports 3 🇦🇷
-http://200.110.169.237:8202/play/a01x
 
 #EXTINF:-1,Fox Sports 3 🇦🇷
 http://201.219.223.101:46000/play/a03t
 
 #EXTINF:-1, FOX SPORT 3 ECUADOR 🇪🇨
 http://200.24.132.99:8000/play/a029
-
-#EXTINF:-1, DIRECTV Sports 🇦🇷
-https://bit.ly/3S65do3
-
-#EXTINF:-1, TIGO SPORTS 🇲🇽
-http://190.61.102.67:31589/play/a08q/index.m3u8
 
 #EXTINF:-1,ESPN
 http://190.60.39.62:8000/play/a01v
@@ -1193,36 +1163,6 @@ http://190.60.39.62:8000/play/a02e
 
 #EXTINF:-1,Fox Sports 3
 http://190.60.39.62:8000/play/a02f
-
-#EXTINF:-1, ITV 1 HD 🇬🇧
-https://is.gd/bPoTb8
-
-#EXTINF:-1,TIGO SPORTS 🇵🇾
-http://190.61.102.67:8000/play/a05x
-
-#EXTINF:-1, TRECE EN VIVO 🇵🇾 
-https://streaming.trece.com.py/live/trece.m3u8
-
-#EXTINF:-1,VTV5 🇻🇳
-http://vn2.cvacetv.ga/vtv5
-
-#EXTINF:-1,VTV6 🇻🇳
-http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
-
-#EXTINF:-1,ELTA SPORT 🇹🇼
-http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, SCTV VIDIO 🇯🇵
-http://mpwtv.my.id/vidioye/204-sctv.m3u8
-
-#EXTINF:-1, Asahi TV 🇯🇵
-http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
-
-#EXTINF:-1, TSN 1 🇨🇦
-https://hdstreamss.club:30443/live/ch3/chunks.m3u8
-
-#EXTINF:-1,CANAL 10 SPORT 🇨🇷
-https://P135@cdnhd.iblups.com/hls/fg5xv4SLvY.m3u8
 
 #EXTINF:-1,QATAR 🇶🇦
 http://181.176.148.142:8000/play/a009
