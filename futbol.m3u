@@ -6,6 +6,9 @@ http://caballerotv.com:5890/1122334455/1122334455/883
 #EXTINF:-1, Liga Smart Bank 🇪🇸
 http://caballerotv.com:5890/1122334455/1122334455/879
 
+#EXTINF:-1, SUPERSPORT LALIGA
+http://cx1.supercloud9.xyz:2095/live/wKLDF3Lt6j/f9K6ZMCikh/5243.ts
+
 #EXTINF:-1, MAX SPORT 4HD 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
@@ -105,8 +108,44 @@ http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
 #EXTINF:-1, BEIN SPORTS PREMIUM 3 HD 🇶🇦
 http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347
 
+#EXTINF:-1,Bein Sports 1 Arabic 🇶🇦
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/1.ts
+
+#EXTINF:-1,Bein Sports 1 Arabic 🇶🇦
+http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/322
+
+#EXTINF:-1,Bein Sports 2 Arabic 🇶🇦
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/2.ts
+
+#EXTINF:-1,Bein Sports 2 Arabic 🇶🇦
+http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/320
+
+#EXTINF:-1,Bein Sports 3 Arabic 🇶🇦
+http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/319
+
+#EXTINF:-1,Bein Sports 4 Arabic 🇶🇦
+http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/318
+
 #EXTINF:-1,Bein Sports 5 Arabic 🇶🇦
 http://175.107.244.52:4457/play/a06y/index.m3u8
+
+#EXTINF:-1,Bein Sports 5 Arabic 🇶🇦
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/5.ts
+
+#EXTINF:-1,Bein Sports 5 Arabic 🇶🇦
+http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/317
+
+#EXTINF:-1,Bein Sports 6 Arabic 🇶🇦
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/6.ts
+
+#EXTINF:-1,Bein Sports 6 Arabic 🇶🇦
+http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/316
+
+#EXTINF:-1,Bein Sports 7 Arabic 🇶🇦
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/7.ts
+
+#EXTINF:-1,Bein Sports 7 Arabic 🇶🇦
+http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/315
 
 #EXTINF:-1, BEIN SPORT 1 MAX 🇶🇦
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/72
@@ -120,14 +159,26 @@ http://streamermytvc.com/Bein-Sp-Max-2-LB+ph===---/cache/Bein-Sp-Max-2-LB/master
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://op.cdloop.eu:80/11942513409fabio/fab65hb52/1104
 
+#EXTINF:-1, Eleven 1 HD 🇵🇹
+http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159576
+
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://op.cdloop.eu:80/11942513409fabio/fab65hb52/1107
+
+#EXTINF:-1, Eleven 2 HD 🇵🇹
+http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159577
 
 #EXTINF:-1, Eleven Sports 3 🇵🇹
 http://op.cdloop.eu:80/11942513409fabio/fab65hb52/1111
 
+#EXTINF:-1, Eleven Sports 3 🇵🇹
+http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159578
+
 #EXTINF:-1, Eleven Sports 4 🇵🇹
 http://op.cdloop.eu:80/11942513409fabio/fab65hb52/1112
+
+#EXTINF:-1, Eleven Sports 4 🇵🇹
+http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159579
 
 #EXTINF:-1, Eleven Sports 5 🇵🇹
 http://op.cdloop.eu:80/11942513409fabio/fab65hb52/1114
@@ -135,8 +186,14 @@ http://op.cdloop.eu:80/11942513409fabio/fab65hb52/1114
 #EXTINF:-1, Eleven Sports 5 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 
+#EXTINF:-1, Eleven Sports 5 🇵🇹
+http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159580
+
 #EXTINF:-1, Eleven Sports 6 🇵🇹
 http://op.cdloop.eu:80/11942513409fabio/fab65hb52/1115
+
+#EXTINF:-1, Eleven Sports 6 🇵🇹
+http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159581
 
 #EXTINF:-1, ElevenSports 1 FHD 🇵🇹
 http://caballerotv.com:5890/1122334455/1122334455/1081
@@ -402,6 +459,12 @@ http://bit.do/fVpVT
 #EXTINF:-1, TV3 SPORT LITUANIA 🇱🇹
 http://myott.top/stream/57RNNIDQBP/416.m3u8
 
+#EXTINF:-1, ELEVEN SPORT 1 BELGICA
+http://mcoes.live:7788/masre21200/NPbr4mrfps/132314
+
+#EXTINF:-1, ELEVEN SPORT 2 BELGICA
+http://mcoes.live:7788/masre21200/NPbr4mrfps/132315
+
 #EXTINF:-1, NOVA SPORTS START 🇬🇷
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-GjqT3a75ko46LKD1eben_
 
@@ -557,6 +620,12 @@ https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
 #EXTINF:-1, TSN 1 🇨🇦
 https://hdstreamss.club:30443/live/ch3/chunks.m3u8
+
+#EXTINF:-1, TSN 2 🇨🇦
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3362
+
+#EXTINF:-1, TSN 2 🇨🇦
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3363
 
 #EXTINF:-1,TIGO SPORTS 🇧🇴
 http://45.228.234.185:8000/play/a02v/index.m3u8
