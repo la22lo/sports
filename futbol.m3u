@@ -13,7 +13,7 @@ http://cx1.supercloud9.xyz:2095/live/wKLDF3Lt6j/f9K6ZMCikh/5243.ts
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
 #EXTINF:-1,ESPN + 🇺🇸
-
+https://bigteisti6.streaming-elbrus.su:5671/ZXNwbl9oZF9zcG9ydA/video.m3u8?token=bW1tfHxiVzF0YlcxdGJXMD0=
 
 #EXTINF:-1, ESPN DEPORTES 🇦🇷
 
@@ -147,6 +147,15 @@ http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/7.ts
 #EXTINF:-1,Bein Sports 7 Arabic 🇶🇦
 http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/315
 
+#EXTINF:-1,Bein Sports 1 Arabic 🇶🇦
+https://bigteisti6.streaming-elbrus.su:5671/YmVpbl9zcG9ydHNfMQ/video.m3u8?token=bW1tfHxiVzF0YlcxdGJXMD0=
+
+#EXTINF:-1,Bein Sports 2 Arabic 🇶🇦
+https://bigteisti6.streaming-elbrus.su:5671/YmVpbl9zcG9ydHNfMg/video.m3u8?token=bW1tfHxiVzF0YlcxdGJXMD0=
+
+#EXTINF:-1,Bein Sports 3 Arabic 🇶🇦
+https://bigteisti6.streaming-elbrus.su:5671/YmVpbl9zcG9ydHNfMw/video.m3u8?token=bW1tfHxiVzF0YlcxdGJXMD0=
+
 #EXTINF:-1, BEIN SPORT 1 MAX 🇶🇦
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/72
 
@@ -158,6 +167,9 @@ http://streamermytvc.com/Bein-Sp-Max-2-LB+ph===---/cache/Bein-Sp-Max-2-LB/master
 
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://op.cdloop.eu:80/11942513409fabio/fab65hb52/1104
+
+#EXTINF:-1, Eleven 1 HD 🇵🇹
+http://rn2yfxko.tvclub.xyz/iptv/WP3PZRYBCGTFUB/19158/index.m3u8
 
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159576
@@ -246,14 +258,41 @@ http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347
 #EXTINF:-1,beIN Sports 2 English HD 🇬🇧
 http://175.107.244.52:4457/play/a06z/index.m3u8
 
+#EXTINF:-1,beIN Sports English HD 🇬🇧
+http://102.222.232.18:9981/stream/channelid/2100170847?ticket=5CC008508EA4755ED1EF71AF84E018D45AD5E286&profile=matroska
+
 #EXTINF:-1, BEIN SPORT 3 🇬🇧
 http://175.107.244.52:4457/play/a06x/index.m3u8
+
+#EXTINF:-1, BT SPORT 1 🇬🇧
+https://bigteisti6.streaming-elbrus.su:5671/YnRfc3BvcnRfMQ/video.m3u8?token=bW1tfHxiVzF0YlcxdGJXMD0=
+
+#EXTINF:-1, BT SPORT 2 🇬🇧
+https://bigteisti6.streaming-elbrus.su:5671/YnRfc3BvcnRfMg/video.m3u8?token=bW1tfHxiVzF0YlcxdGJXMD0=
+
+#EXTINF:-1, BT SPORT 3 🇬🇧
+https://bigteisti6.streaming-elbrus.su:5671/YnRfc3BvcnRfMw/video.m3u8?token=bW1tfHxiVzF0YlcxdGJXMD0=
+
+#EXTINF:-1, BT SPORT ESPN 🇬🇧
+https://bigteisti6.streaming-elbrus.su:5671/YnRfc3BvcnRfZXNwbg/video.m3u8?token=bW1tfHxiVzF0YlcxdGJXMD0=
 
 #EXTINF:-1, SUPERSPORT MUNDIAL 🇿🇦
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20067/index.m3u8
 
 #EXTINF:-1, SUPER GRANDSTAND 🇬🇧
 http://185.145.43.244:8000/play/a008/index.m3u8
+
+#EXTINF:-1,ESPN + 🇺🇸
+https://bigteisti6.streaming-elbrus.su:5671/ZXNwbl9oZF9zcG9ydA/video.m3u8?token=bW1tfHxiVzF0YlcxdGJXMD0=
+
+#EXTINF:-1,ESPN 2 🇺🇸
+https://bigteisti6.streaming-elbrus.su:5671/ZXNwbl8yX3Nwb3J0/video.m3u8?token=bW1tfHxiVzF0YlcxdGJXMD0=
+
+#EXTINF:-1, FS 1 🇺🇸
+https://bigteisti6.streaming-elbrus.su:5671/Zm94X3Nwb3J0XzE/video.m3u8?token=bW1tfHxiVzF0YlcxdGJXMD0=
+
+#EXTINF:-1, FS 2 🇺🇸
+https://bigteisti6.streaming-elbrus.su:5671/Zm94X3Nwb3J0XzI/video.m3u8?token=bW1tfHxiVzF0YlcxdGJXMD0=
 
 #EXTINF:-1, RTSH Sport 🇦🇱
 http://edge01eu.ekranet.com/rtshsport_240p/index.m3u8
@@ -497,6 +536,18 @@ https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 
 #EXTINF:-1,Eleven Sports 1 HD 🇵🇱
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20068/index.m3u8
+
+#EXTINF:-1,Eleven Sports 1 HD 🇵🇱
+https://bigteisti6.streaming-elbrus.su:5671/ZWxldmVuX3Nwb3J0c18xX1BM/video.m3u8?token=bW1tfHxiVzF0YlcxdGJXMD0=
+
+#EXTINF:-1,Eleven Sports 2 HD 🇵🇱
+https://bigteisti6.streaming-elbrus.su:5671/ZWxldmVuX3Nwb3J0c18yX1BM/video.m3u8?token=bW1tfHxiVzF0YlcxdGJXMD0=
+
+#EXTINF:-1,Eleven Sports 3 HD 🇵🇱
+https://bigteisti6.streaming-elbrus.su:5671/ZWxldmVuX3Nwb3J0c18zX1BM/video.m3u8?token=bW1tfHxiVzF0YlcxdGJXMD0=
+
+#EXTINF:-1,Eleven Sports 4 HD 🇵🇱
+https://bigteisti6.streaming-elbrus.su:5671/ZWxldmVuX3Nwb3J0c180X1BM/video.m3u8?token=bW1tfHxiVzF0YlcxdGJXMD0=
 
 #EXTINF:-1, TVP 🇵🇱
 http://cdnx1.plusx.tv:8880/tvp4kw/mono.m3u8?token=cb776083b1e1b6f9bb2222
