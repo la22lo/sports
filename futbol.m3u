@@ -318,18 +318,6 @@ http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/19432/index.m3u8
 #EXTINF:-1,Setanta Sports + 🇺🇦
 http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/5068/index.m3u8
 
-#EXTINF:-1,Setanta Sports 🇱🇹
-http://91.196.132.30:8000/play/Setantan_Lietuva/index.m3u8
-
-#EXTINF:-1,Setanta Sports 🇱🇻
-http://91.196.132.30:8000/play/Setanta_Latvia/index.m3u8
-
-#EXTINF:-1,Setanta Sports 🇪🇪
-http://91.196.132.30:8000/play/Setanta_Estonia/index.m3u8
-
-#EXTINF:-1,Setanta Sports 🇲🇩
-http://91.196.132.30:8000/play/setanta_mld/index.m3u8
-
 #EXTINF:-1,Setanta Sports 2 🇧🇾
 http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/5070/index.m3u8
 
@@ -341,27 +329,6 @@ https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
-
-#EXTINF:-1, MATH 🇷🇺
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/6012/index.m3u8
-
-#EXTINF:-1, MATH 🇷🇺
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/6052/index.m3u8
-
-#EXTINF:-1, MATH 🇷🇺
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/6023/index.m3u8
-
-#EXTINF:-1, MATH 🇷🇺
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/15307/index.m3u8
-
-#EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/222/index.m3u8
-
-#EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/211/index.m3u8
-
-#EXTINF:-1,МАТЧ Футбол 3 HD 🇷🇺
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/206/index.m3u8
 
 #EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
@@ -390,9 +357,6 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
 #EXTINF:-1, X SPORT 🇷🇺
 http://iptv.prosto.tv:7000/ch109/video.m3u8
 
-#EXTINF:-1, KBP SPORT 🇷🇺
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-
 #EXTINF:-1, Старт 🇷🇺
 http://185.23.80.26:8080/lb/START/video.m3u8?token1=c18b404b3150d2e216835a2801030df7&token2=c68c3f53dddfa33c89db8df2d5ea01ab&domain=ts-vrn&key=k1&token=8f30842b86c744a69cffdea5a442d884
 
@@ -411,20 +375,11 @@ https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1, UZ SPORT 🇺🇿
 https://s04.watcher.uz/59/tracks-v1a1a2/mono.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NTYxNjgsImxvZ2luIjoiaGUtMjUyNTk0NSIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjYzMDkyNTM1fQ.kiKhT-gWF-11PivblJQjeKDWIRLHplSGdejtdizEWzQ%3A11
 
-#EXTINF:-1, Q SPORT 🇰🇬
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20061/index.m3u8
-
 #EXTINF:-1, CYTAVISION SPORT 🇨🇾
 http://bit.do/fVpVT
 
 #EXTINF:-1, TV3 SPORT LITUANIA 🇱🇹
 http://myott.top/stream/57RNNIDQBP/416.m3u8
-
-#EXTINF:-1, ELEVEN SPORT 1 BELGICA
-http://mcoes.live:7788/masre21200/NPbr4mrfps/132314
-
-#EXTINF:-1, ELEVEN SPORT 2 BELGICA
-http://mcoes.live:7788/masre21200/NPbr4mrfps/132315
 
 #EXTINF:-1, NOVA SPORTS START 🇬🇷
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-GjqT3a75ko46LKD1eben_
@@ -452,27 +407,6 @@ http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8knmYox6b33Bu
 
 #EXTINF:-1, TV2 SPORTEN 🇳🇴
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
-
-#EXTINF:-1,Eleven Sports 1 HD 🇵🇱
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20068/index.m3u8
-
-#EXTINF:-1,Eleven Sports 1 HD 🇵🇱
-https://bigteisti6.streaming-elbrus.su:5671/ZWxldmVuX3Nwb3J0c18xX1BM/video.m3u8?token=bW1tfHxiVzF0YlcxdGJXMD0=
-
-#EXTINF:-1,Eleven Sports 2 HD 🇵🇱
-https://bigteisti6.streaming-elbrus.su:5671/ZWxldmVuX3Nwb3J0c18yX1BM/video.m3u8?token=bW1tfHxiVzF0YlcxdGJXMD0=
-
-#EXTINF:-1,Eleven Sports 3 HD 🇵🇱
-https://bigteisti6.streaming-elbrus.su:5671/ZWxldmVuX3Nwb3J0c18zX1BM/video.m3u8?token=bW1tfHxiVzF0YlcxdGJXMD0=
-
-#EXTINF:-1,Eleven Sports 4 HD 🇵🇱
-https://bigteisti6.streaming-elbrus.su:5671/ZWxldmVuX3Nwb3J0c180X1BM/video.m3u8?token=bW1tfHxiVzF0YlcxdGJXMD0=
-
-#EXTINF:-1, TVP 🇵🇱
-http://cdnx1.plusx.tv:8880/tvp4kw/mono.m3u8?token=cb776083b1e1b6f9bb2222
-
-#EXTINF:-1,Rai 2 🇮🇹
-http://146.19.16.211:8018/play/a05c
 
 #EXTINF:-1,SERVUS TV 🇩🇪
 https://s6.hopslan.com/servus2/tracks-v1a1/mono.m3u8
@@ -560,10 +494,6 @@ https://sport.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8?|referer=h
 
 #EXTINF:-1,S SPORT HD 🇹🇷
 
-
-#EXTINF:-1,TRT SPOR HD 🇹🇷
-http://31.177.62.182:8000/play/s1
-
 #EXTINF:-1, TRT 1 🇹🇷
 http://ac.traveliptv.nl/ibrahimturk/v7Nv6vNvdk/16
 
@@ -608,9 +538,6 @@ http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3362
 
 #EXTINF:-1, TSN 2 🇨🇦
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3363
-
-#EXTINF:-1, SOCCER CHANNEL 🇦🇺
-http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/253
 
 #EXTINF:-1,TIGO SPORTS 🇧🇴
 http://45.228.234.185:8000/play/a02v/index.m3u8
@@ -666,9 +593,6 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m
 #EXTINF:-1, YAS 🇸🇦
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 
-#EXTINF:-1, FootballHub 🇷🇺
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-
 #EXTINF:-1, TELETRAK 🇨🇱
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
@@ -687,17 +611,11 @@ http://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
 #EXTINF:-1, LA 8 VALLADOLID 🇪🇸
 https://cdnlive.shooowit.net/la8valladolidlive/smil:streamswitchingchannel.smil/playlist.m3u8
 
-#EXTINF:-1, MEGA 🇪🇸
-http://154.62.74.29:1935/live/mega/chunklist_w1555082919.m3u8
-
 #EXTINF:-1, LA 1 🇪🇸
 https://P135@ztnr.rtve.es/ztnr/1688877.m3u8
 
 #EXTINF:-1, TELEDEPORTE 🇪🇸
 https://mvk@ztnr.rtve.es/ztnr/1712295.m3u8?mvk
-
-#EXTINF:-1, GOLTV 🇪🇸
-http://restreamicos.com:8080/treip93nhsdasa/cUbQB4UXEXpR/97
 
 #EXTINF:-1, TENNIS CHANNEL 🇬🇧
 https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
