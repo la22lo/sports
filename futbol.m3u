@@ -773,6 +773,15 @@ http://190.60.39.17:4001/play/a05d/index.m3u8
 #EXTINF:-1,ESPN CO
 http://190.60.39.17:4001/play/a05v/index.m3u8
 
+EXTINF:-1,TV3Sport 🇱🇹
+http://139.28.255.251:8001/play/a013
+
+#EXTINF:-1,TV3Sport2 🇱🇹
+http://139.28.255.251:8001/play/a005
+
+#EXTINF:-1,TV3SportOpen 🇱🇹
+http://139.28.255.251:8001/play/a00a
+
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
