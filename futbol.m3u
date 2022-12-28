@@ -63,15 +63,6 @@ https://livetv.mylifeisgood.ml/channels/setantahd
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
 https://livetv.mylifeisgood.ml/channels/setantaplus
 
-#EXTINF:-1,Setanta Sports 1 🇺🇦
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/19430/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 1 🇮🇩
-http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/262
-
-#EXTINF:-1, BEIN SPORT 3 🇮🇩
-http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/263
-
 #EXTINF:-1, TRUE VISIONS HD 🇲🇾
 http://w.nasvpn.xyz:8080/live/saya/saya/16586.ts
 
@@ -80,12 +71,6 @@ http://w.nasvpn.xyz:8080/live/saya/saya/13327.ts
 
 #EXTINF:-1, TRUE VISIONS 3 HD 🇲🇾
 http://w.nasvpn.xyz:8080/live/saya/saya/13328.ts
-
-#EXTINF:-1, BEIN SPORT 1 🇲🇾
-http://103.150.197.50:25461/hiduplagi/exwarungtv/102
-
-#EXTINF:-1, BEIN SPORT 3 🇲🇾
-http://103.150.197.50:25461/hiduplagi/exwarungtv/103
 
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
