@@ -24,6 +24,9 @@ http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159577
 #EXTINF:-1, ElevenSports 2 FHD 🇵🇹
 http://caballerotv.com:5890/1122334455/1122334455/1082
 
+#EXTINF:-1,Setanta Sports + 🇺🇦
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/5068/index.m3u8
+
 #EXTINF:-1, MAX SPORT 4HD 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
@@ -301,12 +304,6 @@ https://livetv.mylifeisgood.ml/channels/setantaplus
 http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/270/index.m3u8
 
 #EXTINF:-1,Setanta Sports 🇺🇦
-http://91.196.132.30:8000/play/a006/index.m3u8
-
-#EXTINF:-1,Setanta Sports 🇺🇦
-http://91.196.132.30:8000/play/Setanta_Ukraine/index.m3u8
-
-#EXTINF:-1,Setanta Sports 🇺🇦
 http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/272/index.m3u8
 
 #EXTINF:-1,Setanta Sports 1 🇺🇦
@@ -317,9 +314,6 @@ http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/19431/index.m3u8
 
 #EXTINF:-1,Setanta Sports 3 🇺🇦
 http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/19432/index.m3u8
-
-#EXTINF:-1,Setanta Sports + 🇺🇦
-http://91.196.132.30:8000/play/Setanta_Ukraine_Plus/index.m3u8
 
 #EXTINF:-1,Setanta Sports + 🇺🇦
 http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/5068/index.m3u8
