@@ -906,6 +906,9 @@ http://190.60.39.17:4001/play/a05v/index.m3u8
 #EXTINF:-1, BEIN SPORT 1
 http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/79053
 
+#EXTINF:-1, BEIN SPORT 2
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/79467
+
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
