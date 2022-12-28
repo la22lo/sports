@@ -566,6 +566,15 @@ https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 #EXTINF:-1,SPORTS TV 🇹🇷
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
+#EXTINF:-1,SporTV 🇧🇷
+http://206.1.95.2:8004/play/a00f
+
+#EXTINF:-1,SporTV 2 🇧🇷
+http://206.1.95.2:8004/play/a025
+
+#EXTINF:-1,SporTV 3 🇧🇷
+http://206.1.95.2:8004/play/a03w
+
 #EXTINF:-1, TNT SPORTS 🇧🇷
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 
@@ -794,11 +803,11 @@ http://62.233.57.64:8001/play/a00g
 #EXTINF:-1,ct4sport
 http://62.233.57.64:8001/play/a008
 
-#EXTINF:-1,nova_sport
-http://62.233.57.64:8001/play/a006
+#EXTINF:-1,ORANGE SPORT 1 HD
+http://51.75.64.67:8000/play/a03e
 
-#EXTINF:-1,nova_sport2
-http://62.233.57.64:8001/play/a007
+#EXTINF:-1,ORANGE SPORT 2 HD
+http://51.75.64.67:8000/play/a03f
 
 #EXTINF:-1,ORANGE SPORT 3 HD
 http://51.75.64.67:8000/play/a03g
@@ -836,9 +845,6 @@ http://37.49.224.40:8000/play/NovaSports4/index.m3u8
 #EXTINF:-1,Nova Sports 5
 http://37.49.224.40:8000/play/NovaSports5/index.m3u8
 
-#EXTINF:-1,Nova Sports 6
-http://37.49.224.40:8000/play/NovaSports6/index.m3u8
-
 #EXTINF:-1,Nova Sports News
 http://37.49.224.40:8000/play/NovaSportsNews/index.m3u8
 
@@ -847,9 +853,6 @@ http://37.49.224.40:8000/play/NovaSportsPrime/index.m3u8
 
 #EXTINF:-1,Nova Sports Start
 http://37.49.224.40:8000/play/NovaSportsStart/index.m3u8
-
-#EXTINF:-1,Duhok Sport
-http://212.126.106.218:31000/play/a08g
 
 #EXTINF:-1,Aro Sport
 http://212.126.106.218:31000/play/a05z
@@ -901,15 +904,6 @@ http://216.122.181.34:4066/udp/225.2.2.114:4000
 
 #EXTINF:-1,Fox Sports rep dom
 http://216.122.181.34:4066/udp/225.2.2.160:4000
-
-#EXTINF:-1,SporTV
-http://206.1.95.2:8004/play/a00f
-
-#EXTINF:-1,SporTV 2
-http://206.1.95.2:8004/play/a025
-
-#EXTINF:-1,SporTV 3
-http://206.1.95.2:8004/play/a03w
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
