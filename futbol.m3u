@@ -782,6 +782,39 @@ http://190.60.39.17:4001/play/a05d/index.m3u8
 #EXTINF:-1,ESPN CO
 http://190.60.39.17:4001/play/a05v/index.m3u8
 
+#EXTINF:-1, JOJ Sport
+http://62.233.57.64:8001/play/a00f
+
+#EXTINF:-1,RTVS :Sport HD
+http://62.233.57.64:8001/play/a00b
+
+#EXTINF:-1,Sport 5
+http://62.233.57.64:8001/play/a00g
+
+#EXTINF:-1,ct4sport
+http://62.233.57.64:8001/play/a008
+
+#EXTINF:-1,nova_sport
+http://62.233.57.64:8001/play/a006
+
+#EXTINF:-1,nova_sport2
+http://62.233.57.64:8001/play/a007
+
+#EXTINF:-1,ORANGE SPORT 3 HD
+http://51.75.64.67:8000/play/a03g
+
+#EXTINF:-1,ORANGE SPORT 4 HD
+http://51.75.64.67:8000/play/a03h
+
+#EXTINF:-1,PRIMA SPORT 1 HD
+http://51.75.64.67:8000/play/a033
+
+#EXTINF:-1,PRIMA SPORT 5 HD
+http://51.75.64.67:8000/play/a03j
+
+#EXTINF:-1,SPORT EXTRA HD
+http://51.75.64.67:8000/play/a024
+
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
