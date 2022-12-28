@@ -743,6 +743,30 @@ http://190.60.39.17:4001/play/a05d/index.m3u8
 #EXTINF:-1,ESPN CO
 http://190.60.39.17:4001/play/a05v/index.m3u8
 
+#EXTINF:-1,Arena Sport 1 HD 🇸🇰
+http://91.237.170.202:11000/play/3102
+
+#EXTINF:-1,Arena Sport 2 HD 🇸🇰
+http://91.237.170.202:11000/play/203104
+
+#EXTINF:-1,Nova Sport 1 HD 🇸🇰
+http://91.237.170.202:11000/play/3325
+
+#EXTINF:-1,Nova Sport 2 HD 🇸🇰
+http://91.237.170.202:11000/play/3324
+
+#EXTINF:-1,Sport1 HD 🇸🇰
+http://91.237.170.202:11000/play/2694
+
+#EXTINF:-1,Sport2 HD 🇸🇰
+http://91.237.170.202:11000/play/2628
+
+#EXTINF:-1,ČT Šport 🇸🇰
+http://91.237.170.202:11000/play/8366
+
+#EXTINF:-1,Šláger Premium HD 🇸🇰
+http://91.237.170.202:11000/play/20210
+
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
