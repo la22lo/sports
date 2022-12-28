@@ -276,6 +276,9 @@ http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 #EXTINF:-1, MAX SPORT 1HD 🇧🇬
 https://bit.ly/3U3cbf3
 
+#EXTINF:-1,Max Sport 1 🇧🇬
+http://94.156.59.247:8899/udp/224.2.1.49:1234
+
 #EXTINF:-1, MAX SPORT 2HD 🇧🇬
 https://bit.ly/3sAIeXX
 
@@ -287,6 +290,12 @@ https://bit.ly/3fcwac7
 
 #EXTINF:-1, DIEMA Sport 2 🇧🇬
 https://bit.ly/3W1RfGW
+
+#EXTINF:-1,Diema Sport 2 🇧🇬
+http://94.156.59.247:8899/udp/224.156.69.138:5000
+
+#EXTINF:-1,Diema Sport 3 🇧🇬
+http://94.156.59.247:8899/udp/224.156.69.137:5000
 
 #EXTINF:-1,Sport1 HD 🇨🇿
 http://91.237.170.202:11000/play/2694
@@ -733,21 +742,6 @@ http://190.60.39.17:4001/play/a05d/index.m3u8
 
 #EXTINF:-1,ESPN CO
 http://190.60.39.17:4001/play/a05v/index.m3u8
-
-#EXTINF:-1,Diema Sport 3
-http://94.156.59.247:8899/udp/224.156.69.137:5000
-
-#EXTINF:-1,Diema Sport 2
-http://94.156.59.247:8899/udp/224.156.69.138:5000
-
-#EXTINF:-1,Diema Sport
-http://94.156.59.247:8899/udp/
-
-#EXTINF:-1,Max Sport 1
-http://94.156.59.247:8899/udp/224.2.1.49:1234
-
-#EXTINF:-1,Nova Sport
-http://94.156.59.247:8899/udp/
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
