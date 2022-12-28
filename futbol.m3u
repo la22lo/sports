@@ -815,6 +815,102 @@ http://51.75.64.67:8000/play/a03j
 #EXTINF:-1,SPORT EXTRA HD
 http://51.75.64.67:8000/play/a024
 
+#EXTINF:-1,TUDN
+http://45.182.21.251:33334/play/a07y/index.m3u8
+
+#EXTINF:-1,TUDN HD USA
+http://45.182.21.251:33334/play/a077/index.m3u8
+
+#EXTINF:-1,Nova Sports 1
+http://37.49.224.40:8000/play/NovaSports1/index.m3u8
+
+#EXTINF:-1,Nova Sports 2
+http://37.49.224.40:8000/play/NovaSports2/index.m3u8
+
+#EXTINF:-1,Nova Sports 3
+http://37.49.224.40:8000/play/NovaSports3/index.m3u8
+
+#EXTINF:-1,Nova Sports 4
+http://37.49.224.40:8000/play/NovaSports4/index.m3u8
+
+#EXTINF:-1,Nova Sports 5
+http://37.49.224.40:8000/play/NovaSports5/index.m3u8
+
+#EXTINF:-1,Nova Sports 6
+http://37.49.224.40:8000/play/NovaSports6/index.m3u8
+
+#EXTINF:-1,Nova Sports News
+http://37.49.224.40:8000/play/NovaSportsNews/index.m3u8
+
+#EXTINF:-1,Nova Sports Prime
+http://37.49.224.40:8000/play/NovaSportsPrime/index.m3u8
+
+#EXTINF:-1,Nova Sports Start
+http://37.49.224.40:8000/play/NovaSportsStart/index.m3u8
+
+#EXTINF:-1,Duhok Sport
+http://212.126.106.218:31000/play/a08g
+
+#EXTINF:-1,Aro Sport
+http://212.126.106.218:31000/play/a05z
+
+#EXTINF:-1,Aso Sport
+http://212.126.106.218:31000/play/a06i
+
+#EXTINF:-1,Astera Sport
+http://212.126.106.218:31000/play/a05y
+
+#EXTINF:-1,Dasinya Sport
+http://212.126.106.218:31000/play/a08t
+
+#EXTINF:-1,Kurdistan Sport
+http://212.126.106.218:31000/play/a093
+
+#EXTINF:-1,LD Sport
+http://212.126.106.218:31000/play/a08o
+
+#EXTINF:-1,NRT Sport
+http://212.126.106.218:31000/play/a06p
+
+#EXTINF:-1,Sima Sport HD
+http://212.126.106.218:31000/play/a07u
+
+#EXTINF:-1,Zaxo Sport
+http://212.126.106.218:31000/play/a05i
+
+#EXTINF:-1,Bein Max 1
+http://212.126.106.218:31000/play/a0cb
+
+#EXTINF:-1,Bein Max 2
+http://212.126.106.218:31000/play/a0cd
+
+#EXTINF:-1,See Sport 1
+http://212.126.106.218:31000/play/a08l
+
+#EXTINF:-1,See Sport 2
+http://212.126.106.218:31000/play/a08m
+
+#EXTINF:-1,See Sport 3
+http://212.126.106.218:31000/play/a08n
+
+#EXTINF:-1,BEIN Rep dom
+http://216.122.181.34:4066/udp/225.2.2.18:4000
+
+#EXTINF:-1,Espn Deportes rep dom
+http://216.122.181.34:4066/udp/225.2.2.114:4000
+
+#EXTINF:-1,Fox Sports rep dom
+http://216.122.181.34:4066/udp/225.2.2.160:4000
+
+#EXTINF:-1,SporTV
+http://206.1.95.2:8004/play/a00f
+
+#EXTINF:-1,SporTV 2
+http://206.1.95.2:8004/play/a025
+
+#EXTINF:-1,SporTV 3
+http://206.1.95.2:8004/play/a03w
+
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
