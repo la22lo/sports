@@ -312,6 +312,21 @@ http://94.156.59.247:8899/udp/224.156.69.138:5000
 #EXTINF:-1,Diema Sport 3 🇧🇬
 http://94.156.59.247:8899/udp/224.156.69.137:5000
 
+#EXTINF:-1,ORANGE SPORT 3 HD 🇷🇴
+http://51.75.64.67:8000/play/a03g
+
+#EXTINF:-1,ORANGE SPORT 4 HD 🇷🇴
+http://51.75.64.67:8000/play/a03h
+
+#EXTINF:-1,PRIMA SPORT 1 HD 🇷🇴
+http://51.75.64.67:8000/play/a033
+
+#EXTINF:-1,PRIMA SPORT 5 HD 🇷🇴
+http://51.75.64.67:8000/play/a03j
+
+#EXTINF:-1,SPORT EXTRA HD 🇷🇴
+http://51.75.64.67:8000/play/a024
+
 #EXTINF:-1,Sport1 HD 🇨🇿
 http://91.237.170.202:11000/play/2694
 
@@ -833,7 +848,7 @@ http://190.60.39.17:4001/play/a05v/index.m3u8
 #EXTINF:-1, JOJ Sport
 http://62.233.57.64:8001/play/a00f
 
-#EXTINF:-1,RTVS :Sport HD
+#EXTINF:-1,RTVS Sport HD
 http://62.233.57.64:8001/play/a00b
 
 #EXTINF:-1,Sport 5
@@ -841,27 +856,6 @@ http://62.233.57.64:8001/play/a00g
 
 #EXTINF:-1,ct4sport
 http://62.233.57.64:8001/play/a008
-
-#EXTINF:-1,ORANGE SPORT 1 HD
-http://51.75.64.67:8000/play/a03e
-
-#EXTINF:-1,ORANGE SPORT 2 HD
-http://51.75.64.67:8000/play/a03f
-
-#EXTINF:-1,ORANGE SPORT 3 HD
-http://51.75.64.67:8000/play/a03g
-
-#EXTINF:-1,ORANGE SPORT 4 HD
-http://51.75.64.67:8000/play/a03h
-
-#EXTINF:-1,PRIMA SPORT 1 HD
-http://51.75.64.67:8000/play/a033
-
-#EXTINF:-1,PRIMA SPORT 5 HD
-http://51.75.64.67:8000/play/a03j
-
-#EXTINF:-1,SPORT EXTRA HD
-http://51.75.64.67:8000/play/a024
 
 #EXTINF:-1,Aro Sport
 http://212.126.106.218:31000/play/a05z
@@ -889,12 +883,6 @@ http://212.126.106.218:31000/play/a07u
 
 #EXTINF:-1,Zaxo Sport
 http://212.126.106.218:31000/play/a05i
-
-#EXTINF:-1,Bein Max 1
-http://212.126.106.218:31000/play/a0cb
-
-#EXTINF:-1,Bein Max 2
-http://212.126.106.218:31000/play/a0cd
 
 #EXTINF:-1,See Sport 1
 http://212.126.106.218:31000/play/a08l
