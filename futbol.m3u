@@ -51,6 +51,12 @@ http://caballerotv.com:5890/1122334455/1122334455/58334
 #EXTINF:-1, ZIGGO SELECT HD 🇳🇱
 http://caballerotv.com:5890/1122334455/1122334455/981
 
+#EXTINF:-1, ZIGGO SELECT HD 🇳🇱
+http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/79660
+
+#EXTINF:-1, SKY SPORTS 7 🇳🇿
+http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/204945
+
 #EXTINF:-1, SKY SPORTS 7 🇳🇿
 http://xtv.ooo:8080/345529766/157811576/233184
 
@@ -75,14 +81,13 @@ http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/225662
 #EXTINF:-1,ARENA SPORT 6 CRO 🇭🇷
 http://worldstream.top:8080/live/7211661972475077/8751661972475077/24033.ts
 
-
 #EXTINF:-1,S SPORT HD 🇹🇷
 
 #EXTINF:-1, NOVA SPORTS 1 🇬🇷
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9esxppA5BEooxeg3onklIL
 
-#EXTINF:-1, MTV INDIA 🇮🇳
-
+#EXTINF:-1,Nova Sports 1 🇬🇷
+http://37.49.224.40:8000/play/NovaSports1/index.m3u8
 
 #EXTINF:-1,Setanta Sports 1 HD 🇷🇺
 https://livetv.mylifeisgood.ml/channels/setantahd
