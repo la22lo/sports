@@ -72,6 +72,33 @@ http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/204945
 #EXTINF:-1, SKY SPORTS 7 🇳🇿
 http://xtv.ooo:8080/345529766/157811576/233184
 
+#EXTINF:-1,Aso Sport 🇮🇶
+http://212.126.106.218:31000/play/a06i
+
+#EXTINF:-1,Astera Sport 🇮🇶
+http://212.126.106.218:31000/play/a05y
+
+#EXTINF:-1,Dasinya Sport 🇮🇶
+http://212.126.106.218:31000/play/a08t
+
+#EXTINF:-1,Kurdistan Sport 🇮🇶
+http://212.126.106.218:31000/play/a093
+
+#EXTINF:-1,LD Sport 🇮🇶
+http://212.126.106.218:31000/play/a08o
+
+#EXTINF:-1,NRT Sport 🇮🇶
+http://212.126.106.218:31000/play/a06p
+
+#EXTINF:-1,Sima Sport HD 🇮🇶
+http://212.126.106.218:31000/play/a07u
+
+#EXTINF:-1,Zaxo Sport 🇮🇶
+http://212.126.106.218:31000/play/a05i
+
+#EXTINF:-1,Aro Sport 🇮🇶
+http://212.126.106.218:31000/play/a05z
+
 #EXTINF:-1, VAMOS FHD 🇪🇸 
 http://caballerotv.com:5890/1122334455/1122334455/883
 
@@ -937,32 +964,6 @@ http://62.233.57.64:8001/play/a00g
 #EXTINF:-1,ct4sport
 http://62.233.57.64:8001/play/a008
 
-#EXTINF:-1,Aro Sport
-http://212.126.106.218:31000/play/a05z
-
-#EXTINF:-1,Aso Sport
-http://212.126.106.218:31000/play/a06i
-
-#EXTINF:-1,Astera Sport
-http://212.126.106.218:31000/play/a05y
-
-#EXTINF:-1,Dasinya Sport
-http://212.126.106.218:31000/play/a08t
-
-#EXTINF:-1,Kurdistan Sport
-http://212.126.106.218:31000/play/a093
-
-#EXTINF:-1,LD Sport
-http://212.126.106.218:31000/play/a08o
-
-#EXTINF:-1,NRT Sport
-http://212.126.106.218:31000/play/a06p
-
-#EXTINF:-1,Sima Sport HD
-http://212.126.106.218:31000/play/a07u
-
-#EXTINF:-1,Zaxo Sport
-http://212.126.106.218:31000/play/a05i
 
 #EXTINF:-1,See Sport 1
 http://212.126.106.218:31000/play/a08l
