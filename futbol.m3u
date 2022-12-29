@@ -392,6 +392,9 @@ https://livetv.mylifeisgood.ml/channels/setantahd
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
 https://livetv.mylifeisgood.ml/channels/setantaplus
 
+#EXTINF:-1,Setanta Sports 1 HD 🇷🇺
+http://uuuuu.icu:8080/valar/murgulis/21
+
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
 http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/270/index.m3u8
 
@@ -412,6 +415,12 @@ http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/5068/index.m3u8
 
 #EXTINF:-1,Setanta Sports 2 🇧🇾
 http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/5070/index.m3u8
+
+#EXTINF:-1, Setanta Sports 1 Georgia HD
+http://uuuuu.icu:8080/valar/murgulis/59
+
+#EXTINF:-1, Setanta Sports 2 Georgia HD
+http://uuuuu.icu:8080/valar/murgulis/60
 
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
@@ -439,6 +448,12 @@ http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/530/index.m3u8
 
 #EXTINF:-1,МАТЧ Футбол 3 HD 🇷🇺
 http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/522/index.m3u8
+
+#EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
+http://uuuuu.icu:8080/valar/murgulis/15
+
+#EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
+http://uuuuu.icu:8080/valar/murgulis/4
 
 #EXTINF:-1, VIASAT SPORT 🇷🇺
 https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
