@@ -18,6 +18,9 @@ http://y8fpk.top/live/y448/reh65jtr/182.ts
 #EXTINF:-1, ESPN VIVO 🇦🇷
 http://190.60.37.69:8015/play/a037/index.m3u8
 
+#EXTINF:-1,ESPN VIVO 🇦🇷
+http://190.60.39.62:8000/play/a01v
+
 #EXTINF:-1, LALIGA TV 🇬🇧
 http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/53916
 
@@ -925,9 +928,6 @@ http://201.219.223.101:46000/play/a03t
 #EXTINF:-1, FOX SPORT 3 ECUADOR 🇪🇨
 http://200.24.132.99:8000/play/a029
 
-#EXTINF:-1,ESPN
-http://190.60.39.62:8000/play/a01v
-
 #EXTINF:-1,ESPN 2
 http://190.60.39.62:8000/play/a01m
 
@@ -949,29 +949,8 @@ http://190.60.39.62:8000/play/a02e
 #EXTINF:-1,Fox Sports 3
 http://190.60.39.62:8000/play/a02f
 
-#EXTINF:-1,QATAR 🇶🇦
-http://181.176.148.142:8000/play/a009
-
 #EXTINF:-1, WEBOTV 🇷🇺
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
-
-#EXTINF:-1,ESPN
-http://190.60.39.17:4001/play/a04r/index.m3u8
-
-#EXTINF:-1,ESPN 2
-http://190.60.39.17:4001/play/a03z/index.m3u8
-
-#EXTINF:-1,ESPN 2 Latin
-http://190.60.39.17:4001/play/a04q/index.m3u8
-
-#EXTINF:-1,ESPN 3
-http://190.60.39.17:4001/play/a07t/index.m3u8
-
-#EXTINF:-1,ESPN 4
-http://190.60.39.17:4001/play/a05d/index.m3u8
-
-#EXTINF:-1,ESPN CO
-http://190.60.39.17:4001/play/a05v/index.m3u8
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
