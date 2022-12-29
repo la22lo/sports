@@ -551,6 +551,18 @@ http://91.237.170.202:11000/play/2694
 #EXTINF:-1,Sport2 HD 🇸🇰
 http://91.237.170.202:11000/play/2628
 
+#EXTINF:-1, JOJ Sport 🇸🇰
+http://62.233.57.64:8001/play/a00f
+
+#EXTINF:-1,RTVS Sport HD 🇸🇰
+http://62.233.57.64:8001/play/a00b
+
+#EXTINF:-1,Sport 5 🇸🇰
+http://62.233.57.64:8001/play/a00g
+
+#EXTINF:-1,ct4sport 🇸🇰
+http://62.233.57.64:8001/play/a008
+
 #EXTINF:-1, NOVA SPORTS START 🇬🇷
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-GjqT3a75ko46LKD1eben_
 
@@ -960,18 +972,6 @@ http://190.60.39.17:4001/play/a05d/index.m3u8
 
 #EXTINF:-1,ESPN CO
 http://190.60.39.17:4001/play/a05v/index.m3u8
-
-#EXTINF:-1, JOJ Sport
-http://62.233.57.64:8001/play/a00f
-
-#EXTINF:-1,RTVS Sport HD
-http://62.233.57.64:8001/play/a00b
-
-#EXTINF:-1,Sport 5
-http://62.233.57.64:8001/play/a00g
-
-#EXTINF:-1,ct4sport
-http://62.233.57.64:8001/play/a008
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
