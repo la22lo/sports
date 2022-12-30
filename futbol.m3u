@@ -15,6 +15,9 @@ http://200.24.132.99:8000/play/a022
 #EXTINF:-1, ESPN PERU 🇵🇪
 http://181.176.148.142:8000/play/a02d
 
+#EXTINF:-1, ESPN VIVO 🇦🇷
+http://181.78.27.187:5350/play/a023
+
 #EXTINF:-1,DIRECTV SPORT 🇦🇷
 http://200.24.141.2:4000/play/a1qb/index.m3u8
 
