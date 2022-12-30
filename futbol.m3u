@@ -1,5 +1,47 @@
 #EXTM3U
 
+#EXTINF:-1, ESPN VIVO 🇦🇷
+http://190.60.37.69:8015/play/a037/index.m3u8
+
+#EXTINF:-1,ESPN VIVO 🇦🇷
+http://190.60.39.62:8000/play/a01v
+
+#EXTINF:-1, ESPN COLOMBIA 🇨🇴
+http://200.24.132.99:8000/play/a02m
+
+#EXTINF:-1, ESPN ECUADOR 🇪🇨
+http://200.24.132.99:8000/play/a022
+
+#EXTINF:-1, ESPN PERU 🇵🇪
+http://181.176.148.142:8000/play/a02d
+
+#EXTINF:-1,Aso Sport 🇮🇶
+http://212.126.106.218:31000/play/a06i
+
+#EXTINF:-1,Astera Sport 🇮🇶
+http://212.126.106.218:31000/play/a05y
+
+#EXTINF:-1,Dasinya Sport 🇮🇶
+http://212.126.106.218:31000/play/a08t
+
+#EXTINF:-1,Kurdistan Sport 🇮🇶
+http://212.126.106.218:31000/play/a093
+
+#EXTINF:-1,LD Sport 🇮🇶
+http://212.126.106.218:31000/play/a08o
+
+#EXTINF:-1,NRT Sport 🇮🇶
+http://212.126.106.218:31000/play/a06p
+
+#EXTINF:-1,Sima Sport HD 🇮🇶
+http://212.126.106.218:31000/play/a07u
+
+#EXTINF:-1,Zaxo Sport 🇮🇶
+http://212.126.106.218:31000/play/a05i
+
+#EXTINF:-1,Aro Sport 🇮🇶
+http://212.126.106.218:31000/play/a05z
+
 #EXTINF:-1, DAZN LIGA HD 🇪🇸
 http://caballerotv.com:5890/1122334455/1122334455/184286
 
@@ -11,12 +53,6 @@ http://caballerotv.com:5890/1122334455/1122334455/907
 
 #EXTINF:-1, M LIGA HD 🇪🇸
 http://y8fpk.top/live/y448/reh65jtr/183.ts
-
-#EXTINF:-1, ESPN VIVO 🇦🇷
-http://190.60.37.69:8015/play/a037/index.m3u8
-
-#EXTINF:-1,ESPN VIVO 🇦🇷
-http://190.60.39.62:8000/play/a01v
 
 #EXTINF:-1, LALIGA TV 🇬🇧
 http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/53916
@@ -78,32 +114,6 @@ http://xtv.ooo:8080/345529766/157811576/233184
 #EXTINF:-1, BEIN 1 🇦🇺
 http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/112415
 
-#EXTINF:-1,Aso Sport 🇮🇶
-http://212.126.106.218:31000/play/a06i
-
-#EXTINF:-1,Astera Sport 🇮🇶
-http://212.126.106.218:31000/play/a05y
-
-#EXTINF:-1,Dasinya Sport 🇮🇶
-http://212.126.106.218:31000/play/a08t
-
-#EXTINF:-1,Kurdistan Sport 🇮🇶
-http://212.126.106.218:31000/play/a093
-
-#EXTINF:-1,LD Sport 🇮🇶
-http://212.126.106.218:31000/play/a08o
-
-#EXTINF:-1,NRT Sport 🇮🇶
-http://212.126.106.218:31000/play/a06p
-
-#EXTINF:-1,Sima Sport HD 🇮🇶
-http://212.126.106.218:31000/play/a07u
-
-#EXTINF:-1,Zaxo Sport 🇮🇶
-http://212.126.106.218:31000/play/a05i
-
-#EXTINF:-1,Aro Sport 🇮🇶
-http://212.126.106.218:31000/play/a05z
 
 #EXTINF:-1, VAMOS FHD 🇪🇸 
 http://caballerotv.com:5890/1122334455/1122334455/883
@@ -894,15 +904,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1, ESPN COLOMBIA 🇨🇴
-http://200.24.132.99:8000/play/a02m
-
-#EXTINF:-1, ESPN ECUADOR 🇪🇨
-http://200.24.132.99:8000/play/a022
-
-#EXTINF:-1, ESPN PERU 🇵🇪
-http://181.176.148.142:8000/play/a02d
 
 #EXTINF:-1,ESPN 🇨🇴
 http://201.219.223.101:46000/play/a03f
