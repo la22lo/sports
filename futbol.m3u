@@ -24,6 +24,9 @@ http://160.20.164.171:8001/play/a04t
 #EXTINF:-1, ESPN VIVO 🇦🇷
 http://160.20.164.171:8001/play/a09c
 
+#EXTINF:-1, ESPN VIVO 🇦🇷
+http://190.187.247.206:8000/play/a018/index.m3u8
+
 #EXTINF:-1,DIRECTV SPORT 🇦🇷
 http://200.24.141.2:4000/play/a1qb/index.m3u8
 
