@@ -3,6 +3,9 @@
 #EXTINF:-1,DIRECTV SPORT 🇦🇷
 http://200.24.141.2:4000/play/a1qb/index.m3u8
 
+#EXTINF:-1, S LALIGA 🇿🇦
+http://s@cdn1.enjoy4k.shop/live/ch4/playlist.m3u8
+
 #EXTINF:-1, CANAL CHINO 🇨🇳
 https://P135@yytcpull.gdsth.com/live/stream-456847.m3u8?txSecret=0e68ed33b8ad73446a8968421a6cf287&txTime=63b1a252
 
