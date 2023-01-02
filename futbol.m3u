@@ -369,6 +369,18 @@ http://175.107.244.52:4457/play/a06x/index.m3u8
 #EXTINF:-1, SUPER GRANDSTAND 🇬🇧
 http://185.145.43.244:8000/play/a008/index.m3u8
 
+#EXTINF:-1, BT SPORT 1 🇬🇧
+http://youzontv.cf/sports/master.php?id=92fd996df8ee21050263d9791e184711&e=.m3u8
+
+#EXTINF:-1, BT SPORT 2 🇬🇧
+http://youzontv.cf/sports/master.php?id=2df691f07b22ba99778d1684eb860757&e=.m3u8
+
+#EXTINF:-1, BT SPORT 3 🇬🇧
+http://youzontv.cf/sports/master.php?id=e74e2465d1c4cac2de7c3c49aaa9592f&e=.m3u8
+
+#EXTINF:-1, BT SPORT 4 🇬🇧
+http://youzontv.cf/sports/master.php?id=2d10cd22aa2ab6d26408a0fe2cc788ce&e=.m3u8
+
 #EXTINF:-1,ESPN + 🇺🇸
 http://rn2yfxko.tvclub.xyz/iptv/WP3PZRYBCGTFUB/19156/index.m3u8
 
@@ -689,6 +701,9 @@ https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 
 #EXTINF:-1 , LIVE SPORT HD 🇭🇺
 http://195.222.7.26:7001/play/a00t
+
+#EXTINF:-1, A SPORT 🇮🇳
+http://youzontv.cf/sports/master.php?id=ca67f7766114b88216a9cedbf23d846e&e=.m3u8
 
 #EXTINF:-1, SPOTV 1 🇮🇩
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1659773379~exp=9007200914514370~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=c1868bb91988c2e4b3b4bb98e8f73689c5d85c672bd3d857446521cad5228e11
