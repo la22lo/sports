@@ -252,6 +252,33 @@ http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
 #EXTINF:-1, BEIN SPORTS PREMIUM 3 HD 🇶🇦
 http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347
 
+#EXTINF:-1, BEIN SPORTS PREMIUM 2 HD 🇶🇦
+http://youzontv.cf/sports/master.php?id=547e29a31374bb712487e05dbed835dc&e=.m3u8
+
+#EXTINF:-1, BEIN SPORTS PREMIUM 3 HD 🇶🇦
+http://youzontv.cf/sports/master.php?id=6c8125aa2e597b9c4f99a196fa9c8705&e=.m3u8
+
+#EXTINF:-1,Bein Sports 1 Arabic 🇶🇦
+http://youzontv.cf/sports/master.php?id=0c5f421a4ac54f0b30ef3f3e310eba70&e=.m3u8
+
+#EXTINF:-1,Bein Sports 2 Arabic 🇶🇦
+http://youzontv.cf/sports/master.php?id=axc46641d8421cab67ab2d76210fc795&e=.m3u8
+
+#EXTINF:-1,Bein Sports 3 Arabic 🇶🇦
+http://youzontv.cf/sports/master.php?id=62208b295e3dd1efdf2269ddeebf7cd5&e=.m3u8
+
+#EXTINF:-1,Bein Sports 4 Arabic 🇶🇦
+http://youzontv.cf/sports/master.php?id=hb381e2bfc17989333a3e30df2ccce61&e=.m3u8
+
+#EXTINF:-1,Bein Sports 5 Arabic 🇶🇦
+http://youzontv.cf/sports/master.php?id=23413405e52af946372ffc9fd8488f1c&e=.m3u8
+
+#EXTINF:-1,Bein Sports 6 Arabic 🇶🇦
+http://youzontv.cf/sports/master.php?id=209726c2c7485c3963d4edc3e7937c0b&e=.m3u8
+
+#EXTINF:-1,Bein Sports 7 Arabic 🇶🇦
+http://youzontv.cf/sports/master.php?id=6393161d6ffbb4739DDD3dee1b3204d2&e=.m3u8
+
 #EXTINF:-1,Bein Sports 1 Arabic 🇶🇦
 http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/1.ts
 
@@ -351,6 +378,15 @@ http://caballerotv.com:5890/1122334455/1122334455/1078
 #EXTINF:-1,Sport TV + HD 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
 
+#EXTINF:-1, BEIN 1 FR 🇫🇷
+http://youzontv.cf/sports/master.php?id=cc387e24b33b57f38b405e47d22df149&e=.m3u8
+
+#EXTINF:-1, BEIN 2 FR 🇫🇷
+http://youzontv.cf/sports/master.php?id=b56287756907ced5f557c002405f6575&e=.m3u8
+
+#EXTINF:-1, BEIN 3 FR 🇫🇷
+http://youzontv.cf/sports/master.php?id=180d35164499a00805e017354d00d5de&e=.m3u8
+
 #EXTINF:-1,INFOSPORT+ 🇫🇷
 http://37.235.38.139:4000/play/a00n
 
@@ -363,11 +399,14 @@ http://175.107.244.52:4457/play/a06z/index.m3u8
 #EXTINF:-1,beIN Sports English HD 🇬🇧
 http://102.222.232.18:9981/stream/channelid/2100170847?ticket=5CC008508EA4755ED1EF71AF84E018D45AD5E286&profile=matroska
 
+#EXTINF:-1,beIN Sports 1 English HD 🇬🇧
+http://youzontv.cf/sports/master.php?id=595f13e713ade9afc850f28c3f3673a7&e=.m3u8
+
+#EXTINF:-1,beIN Sports 2 English HD 🇬🇧
+http://youzontv.cf/sports/master.php?id=aba40e195b69ee5ca7ecbe08368d2737&e=.m3u8
+
 #EXTINF:-1, BEIN SPORT 3 🇬🇧
 http://175.107.244.52:4457/play/a06x/index.m3u8
-
-#EXTINF:-1, SUPER GRANDSTAND 🇬🇧
-http://185.145.43.244:8000/play/a008/index.m3u8
 
 #EXTINF:-1, BT SPORT 1 🇬🇧
 http://youzontv.cf/sports/master.php?id=92fd996df8ee21050263d9791e184711&e=.m3u8
@@ -380,6 +419,9 @@ http://youzontv.cf/sports/master.php?id=e74e2465d1c4cac2de7c3c49aaa9592f&e=.m3u8
 
 #EXTINF:-1, BT SPORT 4 🇬🇧
 http://youzontv.cf/sports/master.php?id=2d10cd22aa2ab6d26408a0fe2cc788ce&e=.m3u8
+
+#EXTINF:-1, SUPER GRANDSTAND 🇬🇧
+http://youzontv.cf/sports/master.php?id=6ff312fd796008ff2af73bbffe5a8f82&e=.m3u8
 
 #EXTINF:-1,ESPN + 🇺🇸
 http://rn2yfxko.tvclub.xyz/iptv/WP3PZRYBCGTFUB/19156/index.m3u8
