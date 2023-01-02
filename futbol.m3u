@@ -1073,6 +1073,33 @@ http://190.108.85.114:8000/play/a0a5/index.m3u8
 #EXTINF:-1,Orange Sport 1 HD
 http://5.75.133.250:8000/play/orangesport1_hd
 
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1 HD
+http://185.114.139.33:8888/udp/225.15.3.35:2345
+
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2 HD
+http://185.114.139.33:8888/udp/225.15.3.29:2345
+
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3 HD
+http://185.114.139.33:8888/udp/225.15.3.32:2345
+
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1
+http://185.114.139.33:8888/udp/225.15.3.130:2345
+
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2
+http://185.114.139.33:8888/udp/225.15.3.131:2345
+
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3
+http://185.114.139.33:8888/udp/225.15.3.132:2345
+
+#EXTINF:-1,DIRECTV
+http://8.243.104.157:8083/play/a029/index.m3u8
+
+#EXTINF:-1,ESPN HD
+http://8.243.104.157:8083/play/a036/index.m3u8
+
+#EXTINF:-1,TELEMUNDO
+http://71.187.29.54:8000/play/a07a/index.m3u8
+
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
