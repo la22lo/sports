@@ -1052,6 +1052,27 @@ http://s@cdn1.enjoy4k.shop/live/ch4/playlist.m3u8
 #EXTINF:-1, S LALIGA 🇿🇦
 http://s@cdn1.enjoy4k.shop/live/ch10/playlist.m3u8
 
+#EXTINF:-1,ESPN
+http://190.108.85.114:8000/play/a00w/index.m3u8
+
+#EXTINF:-1,ESPN
+http://190.108.85.114:8000/play/a09i/index.m3u8
+
+#EXTINF:-1,ESPN 2
+http://190.108.85.114:8000/play/a096/index.m3u8
+
+#EXTINF:-1,ESPN 2 Latin
+http://190.108.85.114:8000/play/a0hx/index.m3u8
+
+#EXTINF:-1,ESPN 3
+http://190.108.85.114:8000/play/a0au/index.m3u8
+
+#EXTINF:-1,ESPN 4
+http://190.108.85.114:8000/play/a0a5/index.m3u8
+
+#EXTINF:-1,Orange Sport 1 HD
+http://5.75.133.250:8000/play/orangesport1_hd
+
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
