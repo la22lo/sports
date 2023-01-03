@@ -1,16 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,DIRECTV SPORT 🇦🇷
-http://200.24.141.2:4000/play/a1qb/index.m3u8
-
 #EXTINF:-1, LALIGA TV 🇬🇧
 http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/69159
-
-#EXTINF:-1, LALIGA TV 🇬🇧
-http://ttv.bz/7384EIKFLH/4mmw6AntUA/69402
-
-#EXTINF:-1, SUPERSPORT LALIGA 🇿🇦
-http://ttv.bz/7384EIKFLH/4mmw6AntUA/66605
 
 #EXTINF:-1,Aso Sport 🇮🇶
 http://212.126.106.218:31000/play/a06i
