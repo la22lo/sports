@@ -66,32 +66,17 @@ https://P135@cloudvideo.servers10.com:8081/8190/tracks-v1a1/mono.m3u8
 #EXTINF:-1, DAZN LIGA HD 🇪🇸
 http://caballerotv.com:5890/1122334455/1122334455/184286
 
-#EXTINF:-1, DAZN LIGA HD 🇪🇸
-http://worldstream.top:8080/live/7211661972475077/8751661972475077/25125.ts
-
-#EXTINF:-1, M LIGA HD 🇪🇸
-http://caballerotv.com:5890/1122334455/1122334455/907
-
 #EXTINF:-1, M LIGA HD 🇪🇸
 http://y8fpk.top/live/y448/reh65jtr/183.ts
 
 #EXTINF:-1, LALIGA TV 🇬🇧
 http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/53916
 
-#EXTINF:-1, LALIGA TV 🇬🇧
-http://maxhd.eu:8080/Lwuts5NYSB/DK9qJjmXSb/328418
-
 #EXTINF:-1, SUPERSPORT LALIGA 🇿🇦
 http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/56765
 
 #EXTINF:-1, SUPERSPORT MAXIMO 1 🇿🇦
 http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/56766
-
-#EXTINF:-1, SUPERSPORT LALIGA 🇿🇦
-http://maxhd.eu:8080/Lwuts5NYSB/DK9qJjmXSb/375318
-
-#EXTINF:-1, ElevenSports 2 FHD 🇵🇹
-http://caballerotv.com:5890/1122334455/1122334455/1082
 
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159577
@@ -114,9 +99,6 @@ http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/5068/index.m3u8
 #EXTINF:-1, MAX SPORT 4HD 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
-#EXTINF:-1, NOW SPORTS 2 🇭🇰
-http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/236721
-
 #EXTINF:-1, BEIN 1 🇫🇷
 http://caballerotv.com:5890/1122334455/1122334455/58334
 
@@ -129,20 +111,11 @@ http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/79660
 #EXTINF:-1, SKY SPORTS 7 🇳🇿
 http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/204945
 
-#EXTINF:-1, SKY SPORTS 7 🇳🇿
-http://xtv.ooo:8080/345529766/157811576/233184
-
 #EXTINF:-1, BEIN 1 🇦🇺
 http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/112415
 
 #EXTINF:-1, VAMOS FHD 🇪🇸 
 http://caballerotv.com:5890/1122334455/1122334455/883
-
-#EXTINF:-1, Liga Smart Bank 🇪🇸
-http://caballerotv.com:5890/1122334455/1122334455/879
-
-#EXTINF:-1,ESPN + 🇺🇸
-http://worldstream.top:8080/live/7211661972475077/8751661972475077/19495.ts
 
 #EXTINF:-1,ESPN + 🇺🇸
 http://vuelo.monster:8080/live/2291662860361116/8691662860361116/5605.ts
