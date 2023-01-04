@@ -240,31 +240,43 @@ http://45.182.21.251:33334/play/a077/index.m3u8
 http://71.187.29.54:8000/play/a07a/index.m3u8
 
 #EXTINF:-1,Bein Sports Premium 1 🇶🇦
-http://etv.nikala.se:1996/50505050/50505050/108615
+http://shamel.ddns.net:9000/shamelforyou2021/Xl0gNVkuwN/943
 
 #EXTINF:-1,Bein Sports Premium 2 🇶🇦
-http://etv.nikala.se:1996/50505050/50505050/108616
+http://shamel.ddns.net:9000/shamelforyou2021/Xl0gNVkuwN/944
 
 #EXTINF:-1,Bein Sports Premium 3 🇶🇦
-http://etv.nikala.se:1996/50505050/50505050/108617
+http://shamel.ddns.net:9000/shamelforyou2021/Xl0gNVkuwN/945
 
 #EXTINF:-1,Bein Sports 1 Arabic 🇶🇦
 http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/322
 
+#EXTINF:-1,Bein Sports 1 Arabic 🇶🇦
+http://shamel.ddns.net:9000/shamelforyou2021/Xl0gNVkuwN/888
+
 #EXTINF:-1,Bein Sports 2 Arabic 🇶🇦
 http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/320
+
+#EXTINF:-1,Bein Sports 2 Arabic 🇶🇦
+http://shamel.ddns.net:9000/shamelforyou2021/Xl0gNVkuwN/889
 
 #EXTINF:-1,Bein Sports 3 Arabic 🇶🇦
 http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/319
 
+#EXTINF:-1,Bein Sports 3 Arabic 🇶🇦
+http://shamel.ddns.net:9000/shamelforyou2021/Xl0gNVkuwN/890
+
 #EXTINF:-1,Bein Sports 4 Arabic 🇶🇦
 http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/318
+
+#EXTINF:-1,Bein Sports 4 Arabic 🇶🇦
+http://shamel.ddns.net:9000/shamelforyou2021/Xl0gNVkuwN/891
 
 #EXTINF:-1,Bein Sports 5 Arabic 🇶🇦
 http://175.107.244.52:4457/play/a06y/index.m3u8
 
 #EXTINF:-1,Bein Sports 5 Arabic 🇶🇦
-http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/5.ts
+http://shamel.ddns.net:9000/shamelforyou2021/Xl0gNVkuwN/892
 
 #EXTINF:-1,Bein Sports 5 Arabic 🇶🇦
 http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/317
@@ -272,8 +284,14 @@ http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/317
 #EXTINF:-1,Bein Sports 6 Arabic 🇶🇦
 http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/316
 
+#EXTINF:-1,Bein Sports 6 Arabic 🇶🇦
+http://shamel.ddns.net:9000/shamelforyou2021/Xl0gNVkuwN/893
+
 #EXTINF:-1,Bein Sports 7 Arabic 🇶🇦
 http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/315
+
+#EXTINF:-1,Bein Sports 7 Arabic 🇶🇦
+http://shamel.ddns.net:9000/shamelforyou2021/Xl0gNVkuwN/894
 
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://rn2yfxko.tvclub.xyz/iptv/WP3PZRYBCGTFUB/19158/index.m3u8
@@ -344,8 +362,26 @@ http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
 #EXTINF:-1, BEIN 1 🇫🇷
 http://caballerotv.com:5890/1122334455/1122334455/58334
 
+#EXTINF:-1, BEIN 1 🇫🇷
+http://shamel.ddns.net:9000/shamelforyou2021/Xl0gNVkuwN/1003
+
+#EXTINF:-1, BEIN 2 🇫🇷
+http://shamel.ddns.net:9000/shamelforyou2021/Xl0gNVkuwN/1004
+
+#EXTINF:-1, BEIN 3 🇫🇷
+http://shamel.ddns.net:9000/shamelforyou2021/Xl0gNVkuwN/1005
+
 #EXTINF:-1,beIN Sports 1 English HD 🇬🇧
 http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347
+
+#EXTINF:-1,beIN Sports 1 English HD 🇬🇧
+http://shamel.ddns.net:9000/shamelforyou2021/Xl0gNVkuwN/895
+
+#EXTINF:-1,beIN Sports 2 English HD 🇬🇧
+http://shamel.ddns.net:9000/shamelforyou2021/Xl0gNVkuwN/896
+
+#EXTINF:-1,beIN Sports 3 English HD 🇬🇧
+http://shamel.ddns.net:9000/shamelforyou2021/Xl0gNVkuwN/897
 
 #EXTINF:-1,beIN Sports 3 English HD 🇬🇧
 http://102.222.232.18:9981/stream/channelid/2100170847?ticket=5CC008508EA4755ED1EF71AF84E018D45AD5E286&profile=matroska
