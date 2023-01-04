@@ -103,6 +103,9 @@ https://P135@cloudvideo.servers10.com:8081/8190/tracks-v1a1/mono.m3u8
 http://caballerotv.com:5890/1122334455/1122334455/184286
 
 #EXTINF:-1, M LIGA HD 🇪🇸
+http://buffing.ddns.net:8080/zemeco/3cwVm4t5ir/2441
+
+#EXTINF:-1, M LIGA HD 🇪🇸
 http://y8fpk.top/live/y448/reh65jtr/183.ts
 
 #EXTINF:-1, LALIGA TV 🇬🇧
@@ -113,21 +116,6 @@ http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/56765
 
 #EXTINF:-1, SUPERSPORT MAXIMO 1 🇿🇦
 http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/56766
-
-#EXTINF:-1, Eleven 2 HD 🇵🇹
-http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159577
-
-#EXTINF:-1, Eleven 2 HD 🇵🇹
-http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/58551
-
-#EXTINF:-1, Eleven 2 HD 🇵🇹
-http://ttv.bz/m2r9EhQfqT/dmMB57FjXv21/66312
-
-#EXTINF:-1, Eleven 2 HD 🇵🇹
-http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/26551
-
-#EXTINF:-1, Eleven 2 HD 🇵🇹
-http://vuelo.monster:8080/live/2291662860361116/8691662860361116/25025.ts
 
 #EXTINF:-1, Eleven 1 HD 🇵🇱
 http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/61869
@@ -305,23 +293,53 @@ http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159576
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/26550
 
+#EXTINF:-1, Eleven 1 HD 🇵🇹
+http://buffing.ddns.net:8080/zemeco/3cwVm4t5ir/658
+
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159577
+
+#EXTINF:-1, Eleven 2 HD 🇵🇹
+http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/58551
+
+#EXTINF:-1, Eleven 2 HD 🇵🇹
+http://ttv.bz/m2r9EhQfqT/dmMB57FjXv21/66312
+
+#EXTINF:-1, Eleven 2 HD 🇵🇹
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/26551
+
+#EXTINF:-1, Eleven 2 HD 🇵🇹
+http://vuelo.monster:8080/live/2291662860361116/8691662860361116/25025.ts
+
+#EXTINF:-1, Eleven 2 HD 🇵🇹
+http://buffing.ddns.net:8080/zemeco/3cwVm4t5ir/660
 
 #EXTINF:-1, Eleven Sports 3 🇵🇹
 http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159578
 
+#EXTINF:-1, Eleven Sports 3 🇵🇹
+http://buffing.ddns.net:8080/zemeco/3cwVm4t5ir/661
+
 #EXTINF:-1, Eleven Sports 4 🇵🇹
 http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159579
 
+#EXTINF:-1, Eleven Sports 4 🇵🇹
+http://buffing.ddns.net:8080/zemeco/3cwVm4t5ir/662
+
 #EXTINF:-1, Eleven Sports 5 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
+
+#EXTINF:-1, Eleven Sports 5 🇵🇹
+http://buffing.ddns.net:8080/zemeco/3cwVm4t5ir/663
 
 #EXTINF:-1, Eleven Sports 5 🇵🇹
 http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159580
 
 #EXTINF:-1, Eleven Sports 6 🇵🇹
 http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159581
+
+#EXTINF:-1, Eleven Sports 6 🇵🇹
+http://buffing.ddns.net:8080/zemeco/3cwVm4t5ir/664
 
 #EXTINF:-1, ElevenSports 1 FHD 🇵🇹
 http://caballerotv.com:5890/1122334455/1122334455/1081
