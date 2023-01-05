@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1, Eleven 1 HD 🇵🇹
+http://ttv.bz/m2r9EhQfqT/dmMB57FjXv21/66311
+
+#EXTINF:-1, Eleven 1 HD 🇵🇹
+http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159576
+
+#EXTINF:-1, Eleven 1 HD 🇵🇹
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/26550
+
+#EXTINF:-1, Eleven 1 HD 🇵🇹
+http://buffing.ddns.net:8080/zemeco/3cwVm4t5ir/658
+
+#EXTINF:-1, LALIGA TV 🇬🇧
+http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/53916
+
+#EXTINF:-1, LALIGA TV 🇬🇧
+http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/69159
+
 #EXTINF:-1, M LIGA CAMPEONES 6 🇪🇸
 http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/26841
 
@@ -26,18 +44,6 @@ http://dnsplay.xyz/NbuuHuMf/MFkk20VH/123872
 
 #EXTINF:-1, DIRECTV SPORT HD 🇦🇷
 http://hidra.live/NbuuHuMf/MFkk20VH/123872
-
-#EXTINF:-1, TSN 3 🇨🇦
-http://dnsplay.xyz/NbuuHuMf/MFkk20VH/181853
-
-#EXTINF:-1, TSN 3 🇨🇦
-http://ttv.bz/m2r9EhQfqT/dmMB57FjXv21/1147
-
-#EXTINF:-1, LALIGA TV 🇬🇧
-http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/53916
-
-#EXTINF:-1, LALIGA TV 🇬🇧
-http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/69159
 
 #EXTINF:-1,Aso Sport 🇮🇶
 http://212.126.106.218:31000/play/a06i
@@ -783,6 +789,12 @@ http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3362
 
 #EXTINF:-1, TSN 2 🇨🇦
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3363
+
+#EXTINF:-1, TSN 3 🇨🇦
+http://dnsplay.xyz/NbuuHuMf/MFkk20VH/181853
+
+#EXTINF:-1, TSN 3 🇨🇦
+http://ttv.bz/m2r9EhQfqT/dmMB57FjXv21/1147
 
 #EXTINF:-1,TIGO SPORTS 🇧🇴
 http://45.228.234.185:8000/play/a02v/index.m3u8
