@@ -36,6 +36,9 @@ http://kuchini.site:8080/silversatcom/8yOO6qf0cuwINXqbR1UrI/12728
 #EXTINF:-1, PRIMA SPORT 2 🇷🇴
 http://kuchini.site:8080/silversatcom/8yOO6qf0cuwINXqbR1UrI/147299
 
+#EXTINF:-1, BLUE SPORT 2 🇨🇭
+http://kuchini.site:8080/silversatcom/8yOO6qf0cuwINXqbR1UrI/6187
+
 #EXTINF:-1,S SPORT HD 🇹🇷
 http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001222/index.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
 
@@ -462,6 +465,12 @@ http://94.156.59.247:8899/udp/224.156.69.137:5000
 #EXTINF:-1,Orange Sport 1 HD 🇷🇴
 http://5.75.133.250:8000/play/orangesport1_hd
 
+#EXTINF:-1, ORANGE SPORT 2 🇷🇴
+http://kuchini.site:8080/silversatcom/8yOO6qf0cuwINXqbR1UrI/12728
+
+#EXTINF:-1, PRIMA SPORT 2 🇷🇴
+http://kuchini.site:8080/silversatcom/8yOO6qf0cuwINXqbR1UrI/147299
+
 #EXTINF:-1,Sport1 HD 🇨🇿
 http://91.237.170.202:11000/play/2694
 
@@ -650,6 +659,12 @@ http://caballerotv.com:5890/1122334455/1122334455/985
 
 #EXTINF:-1, ZIGGO EXTRA 2 🇳🇱
 http://caballerotv.com:5890/1122334455/1122334455/986
+
+#EXTINF:-1, BLUE SPORT 1 🇨🇭
+http://kuchini.site:8080/silversatcom/8yOO6qf0cuwINXqbR1UrI/2815
+
+#EXTINF:-1, BLUE SPORT 2 🇨🇭
+http://kuchini.site:8080/silversatcom/8yOO6qf0cuwINXqbR1UrI/6187
 
 #EXTINF:-1, TV2 SPORTEN 🇳🇴
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
