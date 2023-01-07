@@ -6,6 +6,9 @@ http://caballerotv.com:5890/1122334455/1122334455/184286
 #EXTINF:-1,S SPORT HD 🇹🇷
 https://hll3.hnzzdf.com.cn/live/H1221671.m3u8?txSecret=c364e30a204aea36e8c2c7d5d0890c0b&txTime=63BADC55&_s=stream
 
+#EXTINF:-1, ESPN STAR PLUS
+https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.Mmg4napO0OdC.m3u8
+
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://ttv.bz/m2r9EhQfqT/dmMB57FjXv21/66311
 
