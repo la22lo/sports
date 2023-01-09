@@ -10,9 +10,6 @@ http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159576
 http://buffing.ddns.net:8080/zemeco/3cwVm4t5ir/658
 
 #EXTINF:-1, Eleven 1 HD 🇵🇹
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/1499
-
-#EXTINF:-1, Eleven 1 HD 🇵🇹
 http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/58550
 
 #EXTINF:-1, LALIGA TV 🇬🇧
@@ -20,15 +17,6 @@ http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/53916
 
 #EXTINF:-1, LALIGA TV 🇬🇧
 http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/69159
-
-#EXTINF:-1, ORANGE SPORT 2 🇷🇴
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/12728
-
-#EXTINF:-1, PRIMA SPORT 2 🇷🇴
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/147299
-
-#EXTINF:-1, BLUE SPORT 2 🇨🇭
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/6187
 
 #EXTINF:-1,ARENA SPORT 6 CRO 🇭🇷
 http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/225662
@@ -41,9 +29,6 @@ http://main-url.glass-iptv.xyz:39512/Klaudio.Mihaela/5uCwSBBAtkg6/321
 
 #EXTINF:-1, BEIN 1 🇦🇺
 http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/112415
-
-#EXTINF:-1, BEIN 1 🇦🇺
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/35347
 
 #EXTINF:-1, BEIN 🇵🇭
 http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/57391
@@ -66,9 +51,6 @@ http://vuelo.monster:8080/live/2291662860361116/8691662860361116/25106.ts
 #EXTINF:-1,Bein Sports 1 Arabic 🇶🇦
 http://mag.you24.online/3bq5ps5l8a/ggdtlm2qno/682932
 
-#EXTINF:-1,Bein Sports 1 Arabic 🇶🇦
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/100
-
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://n2086.securepoint.io:25461/ttrestream/dfghsxh4534hg54/147617
 
@@ -86,9 +68,6 @@ http://hidra.live/NbuuHuMf/MFkk20VH/312852
 
 #EXTINF:-1, MAX SPORT 4HD 🇧🇬
 http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/100369
-
-#EXTINF:-1, MAX SPORT 4HD 🇧🇬
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/16433
 
 #EXTINF:-1, MAX SPORT 4HD 🇧🇬
 http://main-url.glass-iptv.xyz:39512/Klaudio.Mihaela/5uCwSBBAtkg6/19846
@@ -501,12 +480,6 @@ http://94.156.59.247:8899/udp/224.156.69.137:5000
 #EXTINF:-1,Orange Sport 1 HD 🇷🇴
 http://5.75.133.250:8000/play/orangesport1_hd
 
-#EXTINF:-1, ORANGE SPORT 2 🇷🇴
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/12728
-
-#EXTINF:-1, PRIMA SPORT 2 🇷🇴
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/147299
-
 #EXTINF:-1,Sport1 HD 🇨🇿
 http://91.237.170.202:11000/play/2694
 
@@ -695,12 +668,6 @@ http://caballerotv.com:5890/1122334455/1122334455/985
 
 #EXTINF:-1, ZIGGO EXTRA 2 🇳🇱
 http://caballerotv.com:5890/1122334455/1122334455/986
-
-#EXTINF:-1, BLUE SPORT 1 🇨🇭
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/2815
-
-#EXTINF:-1, BLUE SPORT 2 🇨🇭
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/6187
 
 #EXTINF:-1, TV2 SPORTEN 🇳🇴
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
