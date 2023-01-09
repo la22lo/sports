@@ -15,6 +15,9 @@ http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159576
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://buffing.ddns.net:8080/zemeco/3cwVm4t5ir/658
 
+#EXTINF:-1,Bein Sports 1 Arabic 🇶🇦
+http://173.212.193.243:8080/mo3ad/mo3ad/877
+
 #EXTINF:-1,S SPORT HD 🇹🇷
 http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001222/index.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
 
@@ -180,11 +183,29 @@ http://45.182.21.251:33334/play/a077/index.m3u8
 #EXTINF:-1,TELEMUNDO 🇲🇽
 http://71.187.29.54:8000/play/a07a/index.m3u8
 
-#EXTINF:-1,Bein Sports 1 Arabic 🇶🇦
-http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/322
+#EXTINF:-1,Bein Sports 1 premium 🇶🇦
+http://173.212.193.243:8080/mo3ad/mo3ad/405
+
+#EXTINF:-1,Bein Sports 3 premium 🇶🇦
+http://173.212.193.243:8080/mo3ad/mo3ad/407
 
 #EXTINF:-1,Bein Sports 1 Arabic 🇶🇦
-http://shamel.ddns.net:9000/shamelforyou2021/Xl0gNVkuwN/888
+http://173.212.193.243:8080/mo3ad/mo3ad/877
+
+#EXTINF:-1,Bein Sports 3 Arabic 🇶🇦
+http://173.212.193.243:8080/mo3ad/mo3ad/879
+
+#EXTINF:-1,Bein Sports 4 Arabic 🇶🇦
+http://173.212.193.243:8080/mo3ad/mo3ad/408
+
+#EXTINF:-1,Bein Sports 5 Arabic 🇶🇦
+http://173.212.193.243:8080/mo3ad/mo3ad/409
+
+#EXTINF:-1,Bein Sports 6 Arabic 🇶🇦
+http://173.212.193.243:8080/mo3ad/mo3ad/410
+
+#EXTINF:-1,Bein Sports 1 Arabic 🇶🇦
+http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/322
 
 #EXTINF:-1,Bein Sports 2 Arabic 🇶🇦
 http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/320
