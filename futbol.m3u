@@ -852,12 +852,6 @@ http://s@cdn1.enjoy4k.shop/live/ch4/playlist.m3u8
 #EXTINF:-1, S LALIGA 🇿🇦
 http://s@cdn1.enjoy4k.shop/live/ch10/playlist.m3u8
 
-#EXTINF:-1,Матч Футбол 1
-http://178.68.196.141:82/play/a04a
-
-#EXTINF:-1,Матч Футбол 2
-http://178.68.196.141:82/play/a04b
-
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
