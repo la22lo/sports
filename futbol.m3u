@@ -54,6 +54,12 @@ http://212.126.106.218:31000/play/a05i
 #EXTINF:-1,Aro Sport 🇮🇶
 http://212.126.106.218:31000/play/a05z
 
+#EXTINF:-1, BEIN 1 INDI
+http://194.233.71.141:5566/play/Bein1-ID/index.m3u8
+
+#EXTINF:-1, BEIN 1 INDI
+http://194.233.71.141:5566/play/Bein1-U/index.m3u8
+
 #EXTINF:-1, ESPN VIVO 🇦🇷
 http://190.60.37.69:8015/play/a037/index.m3u8
 
@@ -845,6 +851,12 @@ http://s@cdn1.enjoy4k.shop/live/ch4/playlist.m3u8
 
 #EXTINF:-1, S LALIGA 🇿🇦
 http://s@cdn1.enjoy4k.shop/live/ch10/playlist.m3u8
+
+#EXTINF:-1,Матч Футбол 1
+http://178.68.196.141:82/play/a04a
+
+#EXTINF:-1,Матч Футбол 2
+http://178.68.196.141:82/play/a04b
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
