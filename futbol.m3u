@@ -909,6 +909,21 @@ http://s@cdn1.enjoy4k.shop/live/ch4/playlist.m3u8
 #EXTINF:-1, S LALIGA 🇿🇦
 http://s@cdn1.enjoy4k.shop/live/ch10/playlist.m3u8
 
+#EXTINF:-1, beIN SPORTS HD1
+http://iptv.journalsat.com:25461/237518725/journalsat/1140
+
+#EXTINF:-1, L'EQUIPE HD
+http://iptv.journalsat.com:25461/237518725/journalsat/720
+
+#EXTINF:-1, Tivibu Spor 4
+http://iptv.journalsat.com:25461/237518725/journalsat/1657
+
+#EXTINF:-1, S Sport
+http://iptv.journalsat.com:25461/237518725/journalsat/1617
+
+#EXTINF:-1, S Sport 2
+http://iptv.journalsat.com:25461/237518725/journalsat/1618
+
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
