@@ -9,14 +9,8 @@ http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
 http://95.217.196.109:8081/russia/match_futbol_2/playlist.m3u8
 
-#EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
-http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/530/index.m3u8
-
 #EXTINF:-1, SUPERSPORT 2 🇦🇱
 http://62.182.83.91:80/dani79/58zQqJU5d5utrJ5/1096
-
-#EXTINF:-1, SUPERSPORT 1 🇦🇱
-http://62.182.83.91:80/dani79/58zQqJU5d5utrJ5/1095
 
 #EXTINF:-1, BTV ACTION 🇧🇬
 http://62.182.83.91:80/dani79/58zQqJU5d5utrJ5/15506
@@ -503,6 +497,9 @@ https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 #EXTINF:-1, UZ SPORT 🇺🇿
 https://s04.watcher.uz/59/tracks-v1a1a2/mono.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NTYxNjgsImxvZ2luIjoiaGUtMjUyNTk0NSIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjYzMDkyNTM1fQ.kiKhT-gWF-11PivblJQjeKDWIRLHplSGdejtdizEWzQ%3A11
+
+#EXTINF:-1, Qirguistán sport 
+http://89.254.128.5:22280/qsport/index.m3u8
 
 #EXTINF:-1, CYTAVISION SPORT 🇨🇾
 http://bit.do/fVpVT
