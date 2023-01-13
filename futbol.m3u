@@ -948,8 +948,11 @@ http://iptvmedia.live:8080/Millenium/bP68oeP7FOTLZg0E/347
 #EXTINF:-1, ELEVEN SPORTS 2
 http://iptvmedia.live:8080/Millenium/bP68oeP7FOTLZg0E/3643
 
-#EXTINF:-1,HR: Arena Sport 6
+#EXTINF:-1, Arena Sport 6
 http://iptvmedia.live:8080/Millenium/bP68oeP7FOTLZg0E/10961
+
+#EXTINF:-1,ESPN Deportes
+http://iptvmedia.live:8080/Millenium/bP68oeP7FOTLZg0E/6446
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
