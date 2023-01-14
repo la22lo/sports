@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,ESPN 2 🇦🇷
-http://181.176.148.142:8000/play/a02e
-
-#EXTINF:-1, ESPN 2 ECUADOR 🇪🇨
-http://200.24.132.99:8000/play/
-
 #EXTINF:-1,DIRECTV SPORT 🇦🇷
 http://go.iptvhn.net:25461/Denis/Denis123/7674
 
@@ -107,6 +101,12 @@ http://45.11.57.134:80/kerry/kerry/579505
 
 #EXTINF:-1, DIRECTV SPORT + 🇦🇷
 http://go.iptvhn.net:25461/Denis/Denis123/7674
+
+#EXTINF:-1,ESPN 2 🇦🇷
+http://181.176.148.142:8000/play/a02e
+
+#EXTINF:-1, ESPN 2 ECUADOR 🇪🇨
+http://200.24.132.99:8000/play/
 
 #EXTINF:-1,TRUE VISIONS 1 🇹🇭
 http://124.121.236.160:8150/play/s-bein1/index.m3u8
