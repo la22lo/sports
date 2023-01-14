@@ -990,6 +990,21 @@ https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 #EXTINF:-1, CT4 SPORT
 http://62.233.57.69:8001/play/a008
 
+#EXTINF:-1, 5 SPORT
+http://62.233.57.69:8001/play/a00g
+
+#EXTINF:-1,Arena 1 HD  🇧🇦
+http://94.250.2.6:7374/play/a02m/index.m3u8
+
+#EXTINF:-1,Arena 2 HD 🇧🇦
+http://94.250.2.6:7374/play/a02n/index.m3u8
+
+#EXTINF:-1,Arena Sport 🇧🇦
+http://94.250.2.6:7374/play/a012/index.m3u8
+
+#EXTINF:-1,Arena sport 3 HD 🇧🇦
+http://94.250.2.6:7374/play/a02o/index.m3u8
+
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
