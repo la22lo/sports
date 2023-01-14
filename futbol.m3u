@@ -897,14 +897,20 @@ http://190.60.39.62:8000/play/a02f
 #EXTINF:-1, WEBOTV 🇷🇺
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 
-#EXTINF:-1, S LALIGA 🇿🇦
-http://cdn1.enjoy4k.shop/live/ch4/playlist.m3u8
+#EXTINF:-1,BEIN SPORTS 1 HD 🇨🇵
+http://77.207.0.25:4000/play/a03m 
 
-#EXTINF:-1, S LALIGA 🇿🇦
-http://s@cdn1.enjoy4k.shop/live/ch4/playlist.m3u8
+#EXTINF:-1,BEIN SPORTS 2 HD 🇨🇵
+http://77.207.0.25:4000/play/a03n 
 
-#EXTINF:-1, S LALIGA 🇿🇦
-http://s@cdn1.enjoy4k.shop/live/ch10/playlist.m3u8
+#EXTINF:-1,RMC SPORT 1 🇨🇵
+http://77.207.0.25:4000/play/a038 
+
+#EXTINF:-1,RMC SPORT 2 🇨🇵
+http://77.207.0.25:4000/play/a033 
+
+#EXTINF:-1,RMC SPORT 3 🇨🇵
+http://77.207.0.25:4000/play/a03y
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
