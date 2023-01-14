@@ -405,6 +405,18 @@ http://146.59.19.1/5002/mpegts?
 #EXTINF:-1, RTK 1 🇽🇰
 http://146.59.19.1:80/5002/mpegts?
 
+#EXTINF:-1,Arena 1 HD 🇷🇸
+http://94.250.2.6:7374/play/a02m/index.m3u8
+
+#EXTINF:-1,Arena 2 HD 🇷🇸
+http://94.250.2.6:7374/play/a02n/index.m3u8
+
+#EXTINF:-1,Arena sport 3 HD 🇷🇸
+http://94.250.2.6:7374/play/a02o/index.m3u8
+
+#EXTINF:-1,Arena Sport 4 🇷🇸
+http://94.250.2.6:7374/play/a012/index.m3u8
+
 #EXTINF:-1,HRT2 🇭🇷
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
 
@@ -626,6 +638,9 @@ http://37.49.224.40:8000/play/NovaSportsPrime/index.m3u8
 
 #EXTINF:-1,Nova Sports Start 🇬🇷
 http://37.49.224.40:8000/play/NovaSportsStart/index.m3u8
+
+#EXTINF:-1,Polsat Sport HD 🇵🇱
+http://146.59.70.28:1234/stream/polsatsporthd/master.m3u8
 
 #EXTINF:-1, ZIGGO SPORT HD 🇳🇱
 http://caballerotv.com:5890/1122334455/1122334455/980
@@ -943,21 +958,6 @@ http://190.60.39.62:8000/play/a02f
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 
 
-
-#EXTINF:-1,Polsat Sport HD
-http://146.59.70.28:1234/stream/polsatsporthd/master.m3u8
-
-#EXTINF:-1,Arena 1 HD ip
-http://94.250.2.6:7374/play/a02m/index.m3u8
-
-#EXTINF:-1,Arena 2 HD ip
-http://94.250.2.6:7374/play/a02n/index.m3u8
-
-#EXTINF:-1,Arena Sport 4
-http://94.250.2.6:7374/play/a012/index.m3u8
-
-#EXTINF:-1,Arena sport 3 HD
-http://94.250.2.6:7374/play/a02o/index.m3u8
 
 #EXTINF:-1,bein1
 http://124.121.236.160:8150/play/s-bein1/index.m3u8
