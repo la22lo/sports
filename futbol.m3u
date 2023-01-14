@@ -930,6 +930,21 @@ http://179.56.9.218:9001/play/a01d/index.m3u8
 #EXTINF:-1,ESPN HD
 http://179.56.9.218:9001/play/a00o/index.m3u8
 
+#EXTINF:-1,ESPN 2
+http://138.185.15.250:8000/play/a044/index.m3u8
+
+#EXTINF:-1,ESPN 2 Latin
+http://138.185.15.250:8000/play/a065/index.m3u8
+
+#EXTINF:-1,ESPN 3
+http://138.185.15.250:8000/play/a07j/index.m3u8
+
+#EXTINF:-1,ESPN 4
+http://138.185.15.250:8000/play/a06u/index.m3u8
+
+#EXTINF:-1,ESPN HD
+http://138.185.15.250:8000/play/a088/index.m3u8
+
 #EXTINF:-1,SPORT TV + HD
 http://149.22.245.37:8000/play/a01b
 
@@ -948,8 +963,35 @@ http://149.22.245.37:8000/play/a01n
 #EXTINF:-1,SPORT TV 5 HD
 http://149.22.245.37:8000/play/a01p
 
+#EXTINF:-1,Eleven Sports 1 HD
+http://109.69.0.231:8000/play/1
+
+#EXTINF:-1,Eleven Sports 2 HD
+http://109.69.0.231:8000/play/2
+
+#EXTINF:-1,Eleven Sports 3 HD
+http://109.69.0.231:8000/play/3
+
 #EXTINF:-1,Polsat Sport HD
 http://146.59.70.28:1234/stream/polsatsporthd/master.m3u8
+
+#EXTINF:-1,Arena 1 HD ip
+http://94.250.2.6:7374/play/a02m/index.m3u8
+
+#EXTINF:-1,Arena 2 HD ip
+http://94.250.2.6:7374/play/a02n/index.m3u8
+
+#EXTINF:-1,Arena Sport 4
+http://94.250.2.6:7374/play/a012/index.m3u8
+
+#EXTINF:-1,Arena sport 3 HD
+http://94.250.2.6:7374/play/a02o/index.m3u8
+
+#EXTINF:-1,bein1
+http://124.121.236.160:8150/play/s-bein1/index.m3u8
+
+#EXTINF:-1,bein3
+http://124.121.236.160:8150/play/s-bein3/index.m3u8
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
