@@ -93,6 +93,12 @@ http://45.11.57.134:80/kerry/kerry/579505
 #EXTINF:-1, DIRECTV SPORT + 🇦🇷
 http://go.iptvhn.net:25461/Denis/Denis123/7674
 
+#EXTINF:-1,TRUE VISIONS 1 🇹🇭
+http://124.121.236.160:8150/play/s-bein1/index.m3u8
+
+#EXTINF:-1,TRUE VISIONS 3 🇹🇭
+http://124.121.236.160:8150/play/s-bein3/index.m3u8
+
 #EXTINF:-1,Aso Sport 🇮🇶
 http://212.126.106.218:31000/play/a06i
 
@@ -956,14 +962,6 @@ http://190.60.39.62:8000/play/a02f
 
 #EXTINF:-1, WEBOTV 🇷🇺
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
-
-
-
-#EXTINF:-1,bein1
-http://124.121.236.160:8150/play/s-bein1/index.m3u8
-
-#EXTINF:-1,bein3
-http://124.121.236.160:8150/play/s-bein3/index.m3u8
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
