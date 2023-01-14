@@ -12,14 +12,8 @@ http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159577
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://buffing.ddns.net:8080/zemeco/3cwVm4t5ir/660
 
-#EXTINF:-1, Eleven 2 🇵🇱
-http://62.182.83.91:80/dani79/58zQqJU5d5utrJ5/15463
-
 #EXTINF:-1, Supersport LALIGA 🇿🇦
 http://45.11.57.134:80/kerry/kerry/689981
-
-#EXTINF:-1,Bein Sports 1 Arabic 🇶🇦
-http://173.212.193.243:8080/mo3ad/mo3ad/877
 
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 http://62.182.83.91/dani79/58zQqJU5d5utrJ5/14503
@@ -683,6 +677,9 @@ http://37.49.224.40:8000/play/NovaSportsPrime/index.m3u8
 
 #EXTINF:-1,Nova Sports Start 🇬🇷
 http://37.49.224.40:8000/play/NovaSportsStart/index.m3u8
+
+#EXTINF:-1, Eleven 2 🇵🇱
+http://62.182.83.91:80/dani79/58zQqJU5d5utrJ5/15463
 
 #EXTINF:-1,Polsat Sport HD 🇵🇱
 http://146.59.70.28:1234/stream/polsatsporthd/master.m3u8
