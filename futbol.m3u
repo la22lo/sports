@@ -9,20 +9,14 @@ http://62.182.83.91/dani79/58zQqJU5d5utrJ5/13971
 #EXTINF:-1, M LIGA HD 🇪🇸
 http://62.182.83.91/dani79/58zQqJU5d5utrJ5/13969
 
-#EXTINF:-1, Eleven 1 HD 🇵🇹
-http://s1.pubnow.info:8080/365tvhsuegheie/bsSfBhVSKS/453
+#EXTINF:-1, Eleven Sports 3 🇵🇹
+http://62.182.83.91/dani79/58zQqJU5d5utrJ5/14537
 
-#EXTINF:-1, Eleven 1 HD 🇵🇹
-http://62.182.83.91:80/dani79/58zQqJU5d5utrJ5/14548
+#EXTINF:-1, Eleven Sports 3 🇵🇹
+http://s1.pubnow.info:8080/365tvhsuegheie/bsSfBhVSKS/459
 
-#EXTINF:-1, Eleven 1 HD 🇵🇹
-http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159576
-
-#EXTINF:-1, Eleven 1 HD 🇵🇹
-http://buffing.ddns.net:8080/zemeco/3cwVm4t5ir/658
-
-#EXTINF:-1, Eleven 1 HD 🇵🇹
-http://45.11.57.134:80/kerry/kerry/579505
+#EXTINF:-1, Eleven Sports 3 🇵🇹
+http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159578
 
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 http://62.182.83.91/dani79/58zQqJU5d5utrJ5/14503
@@ -41,6 +35,12 @@ http://45.11.57.134:80/kerry/kerry/689981
 
 #EXTINF:-1, MOVISTAR SUPERCOPA 🇪🇸
 http://575542878992333643.nicesjb.xyz/play/fe0103523/EKCBrN77pdnh/333643.ts&output=hls
+
+#EXTINF:-1,DIRECTV SPORT 🇦🇷
+http://go.iptvhn.net:25461/Denis/Denis123/7674
+
+#EXTINF:-1,DIRECTV SPORT 🇦🇷
+http://iptvtree.es/qtvbox/w6kqBNLz48yf/71105.ts
 
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
@@ -81,18 +81,6 @@ http://45.11.57.134:80/kerry/kerry/435453
 #EXTINF:-1, BT SPORTS 2 HD 🇬🇧
 http://45.11.57.134:80/kerry/kerry/586784
 
-#EXTINF:-1,DIRECTV SPORT 🇦🇷
-http://go.iptvhn.net:25461/Denis/Denis123/7674
-
-#EXTINF:-1,DIRECTV SPORT 🇦🇷
-http://iptvtree.es/qtvbox/w6kqBNLz48yf/71105.ts
-
-#EXTINF:-1,ESPN 2 🇦🇷
-http://181.176.148.142:8000/play/a02e
-
-#EXTINF:-1, ESPN 2 ECUADOR 🇪🇨
-http://200.24.132.99:8000/play/
-
 #EXTINF:-1,TRUE VISIONS 1 🇹🇭
 http://124.121.236.160:8150/play/s-bein1/index.m3u8
 
@@ -131,6 +119,12 @@ http://194.233.71.141:5566/play/Bein1-ID/index.m3u8
 
 #EXTINF:-1, BEIN 1 INDI
 http://194.233.71.141:5566/play/Bein1-U/index.m3u8
+
+#EXTINF:-1,ESPN 2 🇦🇷
+http://181.176.148.142:8000/play/a02e
+
+#EXTINF:-1, ESPN 2 ECUADOR 🇪🇨
+http://200.24.132.99:8000/play/
 
 #EXTINF:-1, ESPN VIVO 🇦🇷
 http://190.60.37.69:8015/play/a037/index.m3u8
@@ -265,13 +259,19 @@ http://173.212.193.243:8080/mo3ad/mo3ad/409
 http://173.212.193.243:8080/mo3ad/mo3ad/410
 
 #EXTINF:-1, Eleven 1 HD 🇵🇹
-http://rn2yfxko.tvclub.xyz/iptv/WP3PZRYBCGTFUB/19158/index.m3u8
+http://s1.pubnow.info:8080/365tvhsuegheie/bsSfBhVSKS/453
+
+#EXTINF:-1, Eleven 1 HD 🇵🇹
+http://62.182.83.91:80/dani79/58zQqJU5d5utrJ5/14548
 
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159576
 
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://buffing.ddns.net:8080/zemeco/3cwVm4t5ir/658
+
+#EXTINF:-1, Eleven 1 HD 🇵🇹
+http://45.11.57.134:80/kerry/kerry/579505
 
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://62.182.83.91/dani79/58zQqJU5d5utrJ5/14544
