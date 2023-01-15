@@ -1,41 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,DAZN LIGA 🇪🇸
-http://es.pp6uv.top/qw643/654grth5r/1775
-
-#EXTINF:-1, M LIGA HD 🇪🇸
-http://62.182.83.91/dani79/58zQqJU5d5utrJ5/13971
-
-#EXTINF:-1, M LIGA HD 🇪🇸
-http://62.182.83.91/dani79/58zQqJU5d5utrJ5/13969
-
-#EXTINF:-1, Eleven Sports 3 🇵🇹
-http://62.182.83.91/dani79/58zQqJU5d5utrJ5/14537
-
-#EXTINF:-1, Eleven Sports 3 🇵🇹
-http://s1.pubnow.info:8080/365tvhsuegheie/bsSfBhVSKS/459
-
-#EXTINF:-1, Eleven Sports 3 🇵🇹
-http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159578
-
-#EXTINF:-1, beIN SPORTS 1 🇶🇦
-http://62.182.83.91/dani79/58zQqJU5d5utrJ5/14503
-
-#EXTINF:-1, MAX SPORT 4HD 🇧🇬
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/100369
-
-#EXTINF:-1, MAX SPORT 4HD 🇧🇬
-http://62.182.83.91:80/dani79/58zQqJU5d5utrJ5/15596
-
-#EXTINF:-1, MAX SPORT 4HD 🇧🇬
-http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
-
-#EXTINF:-1, Supersport LALIGA 🇿🇦
-https://alexsports.shop:30444/live/abr_ch4/playlist.m3u8
-
-#EXTINF:-1, Supersport LALIGA 🇿🇦
-http://45.11.57.134:80/kerry/kerry/689981
-
 #EXTINF:-1, MOVISTAR SUPERCOPA 🇪🇸
 http://575542878992333643.nicesjb.xyz/play/fe0103523/EKCBrN77pdnh/333643.ts&output=hls
 
@@ -83,6 +47,42 @@ http://45.11.57.134:80/kerry/kerry/435453
 
 #EXTINF:-1, BT SPORTS 2 HD 🇬🇧
 http://45.11.57.134:80/kerry/kerry/586784
+
+#EXTINF:-1,DAZN LIGA 🇪🇸
+http://es.pp6uv.top/qw643/654grth5r/1775
+
+#EXTINF:-1, M LIGA HD 🇪🇸
+http://62.182.83.91/dani79/58zQqJU5d5utrJ5/13971
+
+#EXTINF:-1, M LIGA HD 🇪🇸
+http://62.182.83.91/dani79/58zQqJU5d5utrJ5/13969
+
+#EXTINF:-1, Eleven Sports 3 🇵🇹
+http://62.182.83.91/dani79/58zQqJU5d5utrJ5/14537
+
+#EXTINF:-1, Eleven Sports 3 🇵🇹
+http://s1.pubnow.info:8080/365tvhsuegheie/bsSfBhVSKS/459
+
+#EXTINF:-1, Eleven Sports 3 🇵🇹
+http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159578
+
+#EXTINF:-1, beIN SPORTS 1 🇶🇦
+http://62.182.83.91/dani79/58zQqJU5d5utrJ5/14503
+
+#EXTINF:-1, MAX SPORT 4HD 🇧🇬
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/100369
+
+#EXTINF:-1, MAX SPORT 4HD 🇧🇬
+http://62.182.83.91:80/dani79/58zQqJU5d5utrJ5/15596
+
+#EXTINF:-1, MAX SPORT 4HD 🇧🇬
+http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
+
+#EXTINF:-1, Supersport LALIGA 🇿🇦
+https://alexsports.shop:30444/live/abr_ch4/playlist.m3u8
+
+#EXTINF:-1, Supersport LALIGA 🇿🇦
+http://45.11.57.134:80/kerry/kerry/689981
 
 #EXTINF:-1,TRUE VISIONS 1 🇹🇭
 http://124.121.236.160:8150/play/s-bein1/index.m3u8
