@@ -1,14 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, MOVISTAR SUPERCOPA 🇪🇸
-http://575542878992333643.nicesjb.xyz/play/fe0103523/EKCBrN77pdnh/333643.ts&output=hls
-
-#EXTINF:-1,DIRECTV SPORT 🇦🇷
-http://go.iptvhn.net:25461/Denis/Denis123/7674
-
-#EXTINF:-1,DIRECTV SPORT 🇦🇷
-http://iptvtree.es/qtvbox/w6kqBNLz48yf/71105.ts
-
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
@@ -27,56 +18,6 @@ http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
 http://95.217.196.109:8081/russia/match_futbol_2/playlist.m3u8
 
-#EXTINF:-1, SUPERSPORT 2 🇦🇱
-http://62.182.83.91:80/dani79/58zQqJU5d5utrJ5/1096
-
-#EXTINF:-1, SUPERSPORT 2 🇦🇱
-http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/26503.ts
-
-#EXTINF:-1, SUPERSPORT 2 🇦🇱
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1312
-
-#EXTINF:-1, BTV ACTION 🇧🇬
-http://62.182.83.91:80/dani79/58zQqJU5d5utrJ5/15506
-
-#EXTINF:-1, ARENA SPORT 2 🇭🇷
-http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/1156.ts
-
-#EXTINF:-1, ARENA SPORT 2 🇭🇷
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/258514.ts
-
-#EXTINF:-1, SCC 1 🇸🇦
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/139022.ts
-
-#EXTINF:-1, ELEVEN SPORT 1 🇵🇱
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276379.ts
-
-#EXTINF:-1, DIGI SPORT 1 🇷🇴
-http://62.182.83.91:80/dani79/58zQqJU5d5utrJ5/15401
-
-#EXTINF:-1, ZIGGO SELECT HD 🇳🇱
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/63950.ts
-
-#EXTINF:-1, ZIGGO SELECT HD 🇳🇱
-http://ac.traveliptv.nl/ibrahimturk/v7Nv6vNvdk/302
-
-#EXTINF:-1, ESPN DEPORTES 🇩🇴
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/67358.ts
-
-#EXTINF:-1, ESPN DEPORTES 🇺🇸
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92719.ts
-
-#EXTINF:-1, ESPN DEPORTES 🇺🇸
-http://45.11.57.134:80/kerry/kerry/435453
-
-#EXTINF:-1, BT SPORTS 1 HD 🇬🇧
-http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/1145.ts
-
-#EXTINF:-1, BT SPORTS 2 HD 🇬🇧
-http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/1146.ts
-
-#EXTINF:-1, BT SPORTS 2 HD 🇬🇧
-http://45.11.57.134:80/kerry/kerry/586784
 
 #EXTINF:-1,DAZN LIGA 🇪🇸
 http://es.pp6uv.top/qw643/654grth5r/1775
@@ -117,6 +58,12 @@ http://45.11.57.134:80/kerry/kerry/689981
 #EXTINF:-1, beIN SPORTS 1 🇦🇺
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307817.ts
 
+#EXTINF:-1, ESPN DEPORTES 🇺🇸
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92719.ts
+
+#EXTINF:-1, ESPN DEPORTES 🇺🇸
+http://45.11.57.134:80/kerry/kerry/435453
+
 #EXTINF:-1,TRUE VISIONS 1 🇹🇭
 http://124.121.236.160:8150/play/s-bein1/index.m3u8
 
@@ -155,6 +102,12 @@ http://194.233.71.141:5566/play/Bein1-ID/index.m3u8
 
 #EXTINF:-1, BEIN 1 INDI
 http://194.233.71.141:5566/play/Bein1-U/index.m3u8
+
+#EXTINF:-1,DIRECTV SPORT 🇦🇷
+http://go.iptvhn.net:25461/Denis/Denis123/7674
+
+#EXTINF:-1,DIRECTV SPORT 🇦🇷
+http://iptvtree.es/qtvbox/w6kqBNLz48yf/71105.ts
 
 #EXTINF:-1,ESPN 2 🇦🇷
 http://181.176.148.142:8000/play/a02e
@@ -412,7 +365,13 @@ http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347
 http://102.222.232.18:9981/stream/channelid/2100170847?ticket=5CC008508EA4755ED1EF71AF84E018D45AD5E286&profile=matroska
 
 #EXTINF:-1, BT SPORTS 1 HD 🇬🇧
-http://activeott.cx:80/C77377135933/42013FDAF081/17281
+http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/1145.ts
+
+#EXTINF:-1, BT SPORTS 2 HD 🇬🇧
+http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/1146.ts
+
+#EXTINF:-1, BT SPORTS 2 HD 🇬🇧
+http://45.11.57.134:80/kerry/kerry/586784
 
 #EXTINF:-1, SUPER GRANDSTAND 🇬🇧
 http://youzontv.cf/sports/master.php?id=6ff312fd796008ff2af73bbffe5a8f82&e=.m3u8
@@ -428,6 +387,12 @@ http://62.182.83.91:80/dani79/58zQqJU5d5utrJ5/1095
 
 #EXTINF:-1, SUPERSPORT 2 🇦🇱
 http://62.182.83.91:80/dani79/58zQqJU5d5utrJ5/1096
+
+#EXTINF:-1, SUPERSPORT 2 🇦🇱
+http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/26503.ts
+
+#EXTINF:-1, SUPERSPORT 2 🇦🇱
+http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1312
 
 #EXTINF:-1, SUPERSPORT 3 🇦🇱
 http://62.182.83.91:80/dani79/58zQqJU5d5utrJ5/1097
@@ -477,6 +442,12 @@ http://94.250.2.6:7374/play/a02o/index.m3u8
 #EXTINF:-1,Arena Sport 4 🇧🇦
 http://94.250.2.6:7374/play/a012/index.m3u8
 
+#EXTINF:-1, ARENA SPORT 2 🇭🇷
+http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/1156.ts
+
+#EXTINF:-1, ARENA SPORT 2 🇭🇷
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/258514.ts
+
 #EXTINF:-1,HRT2 🇭🇷
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
 
@@ -521,6 +492,9 @@ http://94.156.59.247:8899/udp/224.156.69.138:5000
 
 #EXTINF:-1,Diema Sport 3 🇧🇬
 http://94.156.59.247:8899/udp/224.156.69.137:5000
+
+#EXTINF:-1, BTV ACTION 🇧🇬
+http://62.182.83.91:80/dani79/58zQqJU5d5utrJ5/15506
 
 #EXTINF:-1,Orange Sport 1 HD 🇷🇴
 http://5.75.133.250:8000/play/orangesport1_hd
@@ -705,29 +679,14 @@ http://37.49.224.40:8000/play/NovaSportsPrime/index.m3u8
 #EXTINF:-1,Nova Sports Start 🇬🇷
 http://37.49.224.40:8000/play/NovaSportsStart/index.m3u8
 
+#EXTINF:-1, ELEVEN SPORT 1 🇵🇱
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276379.ts
+
 #EXTINF:-1, Eleven 2 🇵🇱
 http://62.182.83.91:80/dani79/58zQqJU5d5utrJ5/15463
 
 #EXTINF:-1,Polsat Sport HD 🇵🇱
 http://146.59.70.28:1234/stream/polsatsporthd/master.m3u8
-
-#EXTINF:-1, ZIGGO SPORT HD 🇳🇱
-http://caballerotv.com:5890/1122334455/1122334455/980
-
-#EXTINF:-1, ZIGGO SPORT HD 🇳🇱
-http://caballerotv.com:5890/1122334455/1122334455/55640
-
-#EXTINF:-1, ZIGGO SELECT HD 🇳🇱
-http://caballerotv.com:5890/1122334455/1122334455/981
-
-#EXTINF:-1, ZIGGO VOETBAL HD 🇳🇱
-http://caballerotv.com:5890/1122334455/1122334455/983
-
-#EXTINF:-1, ZIGGO EXTRA 1 🇳🇱
-http://caballerotv.com:5890/1122334455/1122334455/985
-
-#EXTINF:-1, ZIGGO EXTRA 2 🇳🇱
-http://caballerotv.com:5890/1122334455/1122334455/986
 
 #EXTINF:-1, TV2 SPORTEN 🇳🇴
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
