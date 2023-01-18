@@ -1,5 +1,29 @@
 #EXTM3U
 
+#EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
+http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
+http://95.217.196.109:8081/russia/match_futbol_2/playlist.m3u8
+
+#EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
+http://95.217.196.109:8081/russia/match_futbol_1/playlist.m3u8
+
+#EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1, MATH 🇷🇺
+https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+
+#EXTINF:-1, MATH 🇷🇺
+https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
+
+#EXTINF:-1, MATH 🇷🇺
+https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
+
+#EXTINF:-1, MATH 🇷🇺
+http://95.217.196.109:8081/russia/matchtv_sd_new/playlist.m3u8
+
 #EXTINF:-1,DAZN LIGA 🇪🇸
 http://es.pp6uv.top/qw643/654grth5r/1775
 
