@@ -898,23 +898,11 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1, WEBOTV 🇷🇺
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 
-#EXTINF:-1, ESPN 1 HD
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/11440
-
 #EXTINF:-1, ESPN 2 HD
 http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/11441
 
-#EXTINF:-1, ESPN 3 HD
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/11442
-
-#EXTINF:-1, DIRECTV SPORTS HD
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/157632
-
 #EXTINF:-1, DIRECTV SPORTS 2
 http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/157630
-
-#EXTINF:-1, LA LIGA
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/10105
 
 #EXTINF:-1, ELEVEN SPORTS 1 HD
 http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/157691
@@ -925,14 +913,8 @@ http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/157694
 #EXTINF:-1, ELEVEN SPORTS 3 HD
 http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/157697
 
-#EXTINF:-1, LA ISLA DE LAS TENTACIONES
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/67427
-
-#EXTINF:-1, BEIN SPORTS 1 HD
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/170849
-
-#EXTINF:-1, MAX Sport 4 HD
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/35994
+#EXTINF:-1, M LALIGA 4K
+http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/13466
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
