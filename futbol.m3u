@@ -102,6 +102,9 @@ http://212.126.106.218:31000/play/a05i
 #EXTINF:-1,Aro Sport 🇮🇶
 http://212.126.106.218:31000/play/a05z
 
+#EXTINF:-1, SPORT 18 
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/2405.ts
+
 #EXTINF:-1, BEIN 1 INDI
 http://194.233.71.141:5566/play/Bein1-ID/index.m3u8
 
@@ -666,6 +669,15 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 
 #EXTINF:-1, SPOTV 2 🇮🇩
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
+
+#EXTINF:-1, SPORT 18 
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/2405.ts
+
+#EXTINF:-1, GEO SUPER
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/1016.ts
+
+#EXTINF:-1, PTV SPORT
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/2325.ts
 
 #EXTINF:-1,VTV6 🇻🇳
 http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
