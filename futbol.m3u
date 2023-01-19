@@ -916,5 +916,17 @@ http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/157697
 #EXTINF:-1, M LALIGA 4K
 http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/13466
 
+#EXTINF:-1, LALIGA TV BAR FHD
+http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/50295
+
+#EXTINF:-1, LALIGA TV BAR FHD (OP1)
+http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/50296
+
+#EXTINF:-1, M LALIGA FHD (OP3)
+http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/47055
+
+#EXTINF:-1, M LALIGA FHD (OP4)
+http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/69302
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
