@@ -9,6 +9,15 @@ http://62.182.83.91/dani79/58zQqJU5d5utrJ5/13971
 #EXTINF:-1, M LIGA HD 🇪🇸
 http://62.182.83.91/dani79/58zQqJU5d5utrJ5/13969
 
+#EXTINF:-1, M LALIGA 4K
+http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/13466
+
+#EXTINF:-1, M LALIGA FHD (OP3)
+http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/47055
+
+#EXTINF:-1, M LALIGA FHD (OP4)
+http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/69302
+
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://89.248.168.250:8080/live/301666728171255032/501666728171255/25024.ts?token=Q0FaWEpZFFsXBAIGA1UGUAcDVAZeU1oCVAVWBwdYUFNZBwQBDlQFAAYVGEZGFUdTUl9qWwIVAlNXAwJQGENHQ10RbVBdEwxDBAMMVg1YFxoRRlxfAxUCUFQEA1wFUwEGD08QSVBVFFsXBAZQDUMZFFZKQVcUWVkNPVdVEl0CVxICDUdVVR0UDltoUAFYAFtSEQgXA0QbGggRQxJeWhReXBRBUFBNQ1cVUBUORgdWBwMRHhdRCUJWFRBKEl4WJGESFEFXQU1UWBJcWFpGD0NBRREeF1sVaEoEEUdCAVUMV0IaWRAJGx0UDFRPawdaD1tTUEZcXQhEGltAAhJIFgxdXlEXXUtmQV8FFw0WVwxTARRO
 
@@ -888,21 +897,6 @@ http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/157694
 
 #EXTINF:-1, ELEVEN SPORTS 3 HD
 http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/157697
-
-#EXTINF:-1, M LALIGA 4K
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/13466
-
-#EXTINF:-1, LALIGA TV BAR FHD
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/50295
-
-#EXTINF:-1, LALIGA TV BAR FHD (OP1)
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/50296
-
-#EXTINF:-1, M LALIGA FHD (OP3)
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/47055
-
-#EXTINF:-1, M LALIGA FHD (OP4)
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/69302
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
