@@ -93,14 +93,20 @@ http://212.126.106.218:31000/play/a05i
 #EXTINF:-1,Aro Sport 🇮🇶
 http://212.126.106.218:31000/play/a05z
 
-#EXTINF:-1, SPORT 18 
+#EXTINF:-1, SPORT 18 🇮🇳
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/2405.ts
 
-#EXTINF:-1, BEIN 1 INDI
+#EXTINF:-1, BEIN 1 🇮🇩
 http://194.233.71.141:5566/play/Bein1-ID/index.m3u8
 
-#EXTINF:-1, BEIN 1 INDI
+#EXTINF:-1, BEIN 1 🇮🇩
 http://194.233.71.141:5566/play/Bein1-U/index.m3u8
+
+#EXTINF:-1, BEIN 1 🇮🇩
+http://syok.tv:25461/12345/54321/138
+
+#EXTINF:-1, BEIN 3 🇮🇩
+http://syok.tv:25461/12345/54321/139
 
 #EXTINF:-1,DIRECTV SPORT 🇦🇷
 http://go.iptvhn.net:25461/Denis/Denis123/7674
