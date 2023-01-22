@@ -939,5 +939,11 @@ http://37.235.38.101:8021/play/a01s
 #EXTINF:-1,Eleven Sports 3 HD
 http://37.235.38.101:8021/play/a01t
 
+#EXTINF:-1,Polsat Sport Extra HD
+http://37.235.38.101:8021/play/a036
+
+#EXTINF:-1,Polsat Sport HD
+http://37.235.38.101:8021/play/a03c
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
