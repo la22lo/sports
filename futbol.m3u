@@ -918,5 +918,17 @@ http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/11441
 #EXTINF:-1, DIRECTV SPORTS 2
 http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/157630
 
+#EXTINF:-1,МАТЧ ПРЕМЬЕР HD
+http://79.124.21.251:9770/play/a005
+
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1 HD
+http://79.124.21.251:9770/play/a006
+
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2 HD
+http://79.124.21.251:9770/play/a003
+
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3 HD
+http://79.124.21.251:9770/play/a004
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
