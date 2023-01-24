@@ -33,6 +33,9 @@ http://skylogic.site:8080/LeCyGodF/de198ad6/16433
 #EXTINF:-1, MAX SPORT 4HD 🇧🇬
 http://goodtv.nicema.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/377507.ts
 
+#EXTINF:-1,MAX Sport 4 HD 🇧🇬
+http://149.100.11.250:8002/play/a02d/index.m3u8
+
 #EXTINF:-1, ARENA SPORT 6 🇭🇷
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/258518.ts
 
@@ -197,6 +200,9 @@ http://200.24.132.99:8000/play/a029
 
 #EXTINF:-1, ESPN 2 🇦🇷
 http://190.60.37.69:8015/play/a01e/index.m3u8
+
+#EXTINF:-1, ESPN 2 HD 🇦🇷
+http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/11441
 
 #EXTINF:-1, ESPN 4 🇦🇷
 http://190.60.37.69:8015/play/a02n/index.m3u8
@@ -435,6 +441,18 @@ https://bit.ly/3sAIeXX
 #EXTINF:-1, MAX SPORT 3HD 🇧🇬
 https://bit.ly/3zfvQQY
 
+#EXTINF:-1,Diema Sport 2 HD 🇧🇬
+http://149.100.11.250:8002/play/a01y/index.m3u8
+
+#EXTINF:-1,Diema Sport HD 🇧🇬
+http://149.100.11.250:8002/play/a01x/index.m3u8
+
+#EXTINF:-1,MAX Sport 1 HD 🇧🇬
+http://149.100.11.250:8002/play/a049/index.m3u8
+
+#EXTINF:-1,MAX Sport 4 HD 🇧🇬
+http://149.100.11.250:8002/play/a02d/index.m3u8
+
 #EXTINF:-1, DIEMA Sport 🇧🇬
 https://bit.ly/3fcwac7
 
@@ -521,6 +539,18 @@ https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
 
 #EXTINF:-1, MATH 🇷🇺
 http://95.217.196.109:8081/russia/matchtv_sd_new/playlist.m3u8
+
+#EXTINF:-1,МАТЧ ПРЕМЬЕР HD 🇷🇺 
+http://79.124.21.251:9770/play/a005
+
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1 HD 🇷🇺
+http://79.124.21.251:9770/play/a006
+
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2 HD 🇷🇺
+http://79.124.21.251:9770/play/a003
+
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3 HD 🇷🇺
+http://79.124.21.251:9770/play/a004
 
 #EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
@@ -902,51 +932,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, WEBOTV 🇷🇺
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
-
-#EXTINF:-1, ESPN 2 HD
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/11441
-
-#EXTINF:-1, DIRECTV SPORTS 2
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/157630
-
-#EXTINF:-1,МАТЧ ПРЕМЬЕР HD
-http://79.124.21.251:9770/play/a005
-
-#EXTINF:-1,МАТЧ! ФУТБОЛ 1 HD
-http://79.124.21.251:9770/play/a006
-
-#EXTINF:-1,МАТЧ! ФУТБОЛ 2 HD
-http://79.124.21.251:9770/play/a003
-
-#EXTINF:-1,МАТЧ! ФУТБОЛ 3 HD
-http://79.124.21.251:9770/play/a004
-
-#EXTINF:-1,Eleven Sports 1 HD
-http://37.235.38.101:8021/play/a01q
-
-#EXTINF:-1,Eleven Sports 2 HD
-http://37.235.38.101:8021/play/a01s
-
-#EXTINF:-1,Eleven Sports 3 HD
-http://37.235.38.101:8021/play/a01t
-
-#EXTINF:-1,Polsat Sport Extra HD
-http://37.235.38.101:8021/play/a036
-
-#EXTINF:-1,Polsat Sport HD
-http://37.235.38.101:8021/play/a03c
-
-#EXTINF:-1,Diema Sport 2 HD
-http://149.100.11.250:8002/play/a01y/index.m3u8
-
-#EXTINF:-1,Diema Sport HD
-http://149.100.11.250:8002/play/a01x/index.m3u8
-
-#EXTINF:-1,MAX Sport 1 HD
-http://149.100.11.250:8002/play/a049/index.m3u8
-
-#EXTINF:-1,MAX Sport 4 HD
-http://149.100.11.250:8002/play/a02d/index.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
