@@ -936,5 +936,17 @@ http://37.235.38.101:8021/play/a036
 #EXTINF:-1,Polsat Sport HD
 http://37.235.38.101:8021/play/a03c
 
+#EXTINF:-1,Diema Sport 2 HD
+http://149.100.11.250:8002/play/a01y/index.m3u8
+
+#EXTINF:-1,Diema Sport HD
+http://149.100.11.250:8002/play/a01x/index.m3u8
+
+#EXTINF:-1,MAX Sport 1 HD
+http://149.100.11.250:8002/play/a049/index.m3u8
+
+#EXTINF:-1,MAX Sport 4 HD
+http://149.100.11.250:8002/play/a02d/index.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
