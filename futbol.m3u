@@ -24,18 +24,6 @@ https://ssc-5-ak.akamaized.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u
 #EXTINF:-1, COPA DEL REY 🇪🇸
 http://skylogic.site:8080/LeCyGodF/de198ad6/2800
 
-#EXTINF:-1, DIGI SPORT 1 🇷🇴
-http://skylogic.site:8080/LeCyGodF/de198ad6/71457
-
-#EXTINF:-1, ARENA SPORT PREMIUM 1 🇷🇸
-http://skylogic.site:8080/LeCyGodF/de198ad6/285558
-
-#EXTINF:-1, COSMOTE SPORT 3 🇬🇷
-http://skylogic.site:8080/LeCyGodF/de198ad6/4269
-
-#EXTINF:-1, TIVIBU SPORT 4 🇹🇷
-http://62.182.83.91/Kamilbaba1/YgK8NqJxqhs7/63836
-
 #EXTINF:-1, L'EQUIPE 🇫🇷
 http://skylogic.site:8080/LeCyGodF/de198ad6/147
 
@@ -402,6 +390,9 @@ http://146.59.19.1/5002/mpegts?
 #EXTINF:-1, RTK 1 🇽🇰
 http://146.59.19.1:80/5002/mpegts?
 
+#EXTINF:-1, ARENA SPORT PREMIUM 1 🇷🇸
+http://skylogic.site:8080/LeCyGodF/de198ad6/285558
+
 #EXTINF:-1,Arena 1 HD 🇷🇸
 http://94.250.2.6:7374/play/a02m/index.m3u8
 
@@ -437,6 +428,9 @@ http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
 
 #EXTINF:-1, HRT 2 🇭🇷
 http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8?
+
+#EXTINF:-1, DIGI SPORT 1 🇷🇴
+http://skylogic.site:8080/LeCyGodF/de198ad6/71457
 
 #EXTINF:-1, MAX SPORT 1HD 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport_web.m3u8
@@ -654,6 +648,9 @@ http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-zSIvQVCNzM6P
 #EXTINF:-1, NOVA SPORTS 6 🇬🇷
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8knmYox6b33BuDPJjeF2_K
 
+#EXTINF:-1, COSMOTE SPORT 3 🇬🇷
+http://skylogic.site:8080/LeCyGodF/de198ad6/4269
+
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇱
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276379.ts
 
@@ -758,6 +755,9 @@ http://185.234.217.19:8038/play/a01r
 
 #EXTINF:-1,SPORTS TV 🇹🇷
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+#EXTINF:-1, TIVIBU SPORT 4 🇹🇷
+http://62.182.83.91/Kamilbaba1/YgK8NqJxqhs7/63836
 
 #EXTINF:-1,SporTV 🇧🇷
 http://206.1.95.2:8004/play/a00f
