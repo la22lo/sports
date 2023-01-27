@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, COPA DEL REY 🇪🇸
-http://skylogic.site:8080/LeCyGodF/de198ad6/2800
-
 #EXTINF:-1, LALIGA TV BAR 🇪🇸
 http://skylogic.site:8080/LeCyGodF/de198ad6/197711
 
@@ -347,6 +344,9 @@ http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/69302
 
 #EXTINF:-1, M LIGA HD 🇪🇸
 http://satline.xyz:8080/live/7381662208002780/5261662208002780/5758.ts
+
+#EXTINF:-1, M LIGA CAMPEONES 🇪🇸
+http://skylogic.site:8080/LeCyGodF/de198ad6/2800
 
 #EXTINF:-1,ESPN + 🇺🇸
 http://rn2yfxko.tvclub.xyz/iptv/WP3PZRYBCGTFUB/19156/index.m3u8
