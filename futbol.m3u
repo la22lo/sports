@@ -891,5 +891,12 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1, WEBOTV 🇷🇺
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 
+#EXTINF:-1,ELEVEN1
+http://189.81.150.102:4000/play/a0b3
+#EXTINF:-1,ELEVEN2
+http://189.81.150.102:4000/play/a0b4
+#EXTINF:-1,ELEVEN3 
+http://189.81.150.102:4000/play/a0b5
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
