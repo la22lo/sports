@@ -935,5 +935,26 @@ http://185.179.28.211:8000/play/a01g
 #EXTINF:-1,SPORT 5
 http://185.179.28.211:8000/play/a01h
 
+#EXTINF:-1,Nova Sport 1 HD
+http://18.212.34.20:8000/play/a014
+#EXTINF:-1,Nova Sport 2 HD
+http://18.212.34.20:8000/play/a015
+
+#EXTINF:-1,DAZN 1
+http://18.212.34.20:8000/play/a08l
+#EXTINF:-1,DAZN 2
+http://18.212.34.20:8000/play/a08m
+
+#EXTINF:-1,BT Sport 1
+http://18.212.34.20:8000/play/a08f
+#EXTINF:-1,BT Sport 2
+http://18.212.34.20:8000/play/a08g
+#EXTINF:-1,BT Sport 3
+http://18.212.34.20:8000/play/a08h
+#EXTINF:-1,BT Sport 4
+http://18.212.34.20:8000/play/a08i
+#EXTINF:-1,BT Sport 5
+http://18.212.34.20:8000/play/a08j
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
