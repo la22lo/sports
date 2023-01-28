@@ -390,6 +390,45 @@ http://rn2yfxko.tvclub.xyz/iptv/WP3PZRYBCGTFUB/19155/index.m3u8
 #EXTINF:-1, SUPERSPORT 2 🇦🇱
 http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1312
 
+#EXTINF:-1,K SPORT 1 🇦🇱
+http://185.179.28.211:8000/play/a018
+
+#EXTINF:-1,K SPORT 2 🇦🇱
+http://185.179.28.211:8000/play/a019
+
+#EXTINF:-1,K SPORT 3 🇦🇱
+http://185.179.28.211:8000/play/a01a
+
+#EXTINF:-1,K SPORT 4 🇦🇱
+http://185.179.28.211:8000/play/a01b
+
+#EXTINF:-1,OVER SPORT1 HD 🇦🇱
+http://185.179.28.211:8000/play/a01n
+
+#EXTINF:-1,OVER SPORT2 HD 🇦🇱
+http://185.179.28.211:8000/play/a01o
+
+#EXTINF:-1,OVER SPORT3 HD 🇦🇱
+http://185.179.28.211:8000/play/a01s
+
+#EXTINF:-1,OVER SPORT4 HD 🇦🇱
+http://185.179.28.211:8000/play/a01t
+
+#EXTINF:-1,SPORT 1 🇦🇱
+http://185.179.28.211:8000/play/a01d
+
+#EXTINF:-1,SPORT 2 🇦🇱
+http://185.179.28.211:8000/play/a01e
+
+#EXTINF:-1,SPORT 3 🇦🇱
+http://185.179.28.211:8000/play/a01f
+
+#EXTINF:-1,SPORT 4 🇦🇱
+http://185.179.28.211:8000/play/a01g
+
+#EXTINF:-1,SPORT 5 🇦🇱
+http://185.179.28.211:8000/play/a01h
+
 #EXTINF:-1, RTSH Sport 🇦🇱
 http://185.89.156.111:8000/play/a022?
 
@@ -905,59 +944,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, WEBOTV 🇷🇺
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
-
-#EXTINF:-1,K SPORT 1
-http://185.179.28.211:8000/play/a018
-#EXTINF:-1,K SPORT 2
-http://185.179.28.211:8000/play/a019
-#EXTINF:-1,K SPORT 3
-http://185.179.28.211:8000/play/a01a
-#EXTINF:-1,K SPORT 4
-http://185.179.28.211:8000/play/a01b
-
-#EXTINF:-1,OVER SPORT1 HD
-http://185.179.28.211:8000/play/a01n
-#EXTINF:-1,OVER SPORT2 HD
-http://185.179.28.211:8000/play/a01o
-#EXTINF:-1,OVER SPORT3 HD
-http://185.179.28.211:8000/play/a01s
-#EXTINF:-1,OVER SPORT4 HD
-http://185.179.28.211:8000/play/a01t
-
-#EXTINF:-1,SPORT 1
-http://185.179.28.211:8000/play/a01d
-#EXTINF:-1,SPORT 2
-http://185.179.28.211:8000/play/a01e
-#EXTINF:-1,SPORT 3
-http://185.179.28.211:8000/play/a01f
-#EXTINF:-1,SPORT 4
-http://185.179.28.211:8000/play/a01g
-#EXTINF:-1,SPORT 5
-http://185.179.28.211:8000/play/a01h
-
-#EXTINF:-1,Nova Sport 1 HD
-http://18.212.34.20:8000/play/a014
-#EXTINF:-1,Nova Sport 2 HD
-http://18.212.34.20:8000/play/a015
-
-#EXTINF:-1,DAZN 1
-http://18.212.34.20:8000/play/a08l
-#EXTINF:-1,DAZN 2
-http://18.212.34.20:8000/play/a08m
-
-#EXTINF:-1,BT Sport 1
-http://18.212.34.20:8000/play/a08f
-#EXTINF:-1,BT Sport 2
-http://18.212.34.20:8000/play/a08g
-#EXTINF:-1,BT Sport 3
-http://18.212.34.20:8000/play/a08h
-#EXTINF:-1,BT Sport 4
-http://18.212.34.20:8000/play/a08i
-#EXTINF:-1,BT Sport 5
-http://18.212.34.20:8000/play/a08j
-
-#EXTINF:-1,GBC-SPORT
-http://147.78.162.29:4000/play/a00s
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
