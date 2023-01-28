@@ -956,5 +956,8 @@ http://18.212.34.20:8000/play/a08i
 #EXTINF:-1,BT Sport 5
 http://18.212.34.20:8000/play/a08j
 
+#EXTINF:-1,GBC-SPORT
+http://147.78.162.29:4000/play/a00s
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
