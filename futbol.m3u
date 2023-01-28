@@ -25,6 +25,9 @@ http://skylogic.site:8080/LeCyGodF/de198ad6/100
 http://ourtv.live:8080/live/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8SsP72U1XbtQc3V9z/1129.ts
 
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
+http://62.182.82.104/BEINSPORT_1_HD/index.m3u8?token=test
+
+#EXTINF:-1, beIN SPORTS 1 🇶🇦
 http://yusf.ddns.net:5080/WebRTCApp/streams/Bein1.m3u8
 
 #EXTINF:-1, MAX SPORT 4HD 🇧🇬
