@@ -948,11 +948,11 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1, WEBOTV 🇷🇺
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 
-#EXTINF:-1,030.Матч Футбол 1
+#EXTINF:-1,Матч Футбол 1
 http://212.73.81.237:8000/play/a02z/index.m3u8
-#EXTINF:-1,031.Матч Футбол 2
+#EXTINF:-1,Матч Футбол 2
 http://212.73.81.237:8000/play/a030/index.m3u8
-#EXTINF:-1,032.Матч Футбол 3
+#EXTINF:-1,Матч Футбол 3
 http://212.73.81.237:8000/play/a031/index.m3u8
 
 #EXTINF:-1,Матч Футбол 1
@@ -962,24 +962,31 @@ http://212.73.81.237:8000/play/a1m1/index.m3u8
 #EXTINF:-1,Матч Футбол 3
 http://212.73.81.237:8000/play/a1m2/index.m3u8
 
-#EXTINF:-1,033.Vivaro Arena
+#EXTINF:-1,Vivaro Arena
 http://212.73.81.237:8000/play/a006/index.m3u8
-#EXTINF:-1,034.Vivaro sport
+#EXTINF:-1,Vivaro sport
 http://212.73.81.237:8000/play/a004/index.m3u8
-#EXTINF:-1,035.Vivaro sport +
+#EXTINF:-1,Vivaro sport +
 http://212.73.81.237:8000/play/a005/index.m3u8
-#EXTINF:-1,036.Матч Арена
+#EXTINF:-1,Матч Арена
 http://212.73.81.237:8000/play/a033/index.m3u8
-#EXTINF:-1,037.Матч Боец
+#EXTINF:-1,Матч Боец
 http://212.73.81.237:8000/play/a034/index.m3u8
-#EXTINF:-1,038.МАТЧ! ПЛАНЕТА
+#EXTINF:-1,МАТЧ! ПЛАНЕТА
 http://212.73.81.237:8000/play/a032/index.m3u8
-#EXTINF:-1,039.Матч Игра
+#EXTINF:-1,Матч Игра
 http://212.73.81.237:8000/play/a035/index.m3u8
-#EXTINF:-1,040.Матч Страна
+#EXTINF:-1,Матч Страна
 http://212.73.81.237:8000/play/a036/index.m3u8
-#EXTINF:-1,041.Матч TV
+#EXTINF:-1,Матч TV
 http://212.73.81.237:8000/play/a037/index.m3u8
+
+#EXTINF:-1, DIRECTV SPORTS
+http://190.61.41.182:8000/play/a02y/index.m3u8
+#EXTINF:-1, DIRECTV SPORTS +
+http://190.61.41.182:8000/play/a030/index.m3u8
+#EXTINF:-1, DIRECTV SPORTS 2
+http://190.61.41.182:8000/play/a02z/index.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
