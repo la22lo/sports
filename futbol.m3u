@@ -906,5 +906,34 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1, WEBOTV 🇷🇺
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 
+#EXTINF:-1,K SPORT 1
+http://185.179.28.211:8000/play/a018
+#EXTINF:-1,K SPORT 2
+http://185.179.28.211:8000/play/a019
+#EXTINF:-1,K SPORT 3
+http://185.179.28.211:8000/play/a01a
+#EXTINF:-1,K SPORT 4
+http://185.179.28.211:8000/play/a01b
+
+#EXTINF:-1,OVER SPORT1 HD
+http://185.179.28.211:8000/play/a01n
+#EXTINF:-1,OVER SPORT2 HD
+http://185.179.28.211:8000/play/a01o
+#EXTINF:-1,OVER SPORT3 HD
+http://185.179.28.211:8000/play/a01s
+#EXTINF:-1,OVER SPORT4 HD
+http://185.179.28.211:8000/play/a01t
+
+#EXTINF:-1,SPORT 1
+http://185.179.28.211:8000/play/a01d
+#EXTINF:-1,SPORT 2
+http://185.179.28.211:8000/play/a01e
+#EXTINF:-1,SPORT 3
+http://185.179.28.211:8000/play/a01f
+#EXTINF:-1,SPORT 4
+http://185.179.28.211:8000/play/a01g
+#EXTINF:-1,SPORT 5
+http://185.179.28.211:8000/play/a01h
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
