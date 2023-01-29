@@ -3,6 +3,9 @@
 #EXTINF:-1, MAX SPORT 4HD 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
+#EXTINF:-1, beIN SPORTS 1 🇶🇦
+http://yusf.ddns.net:5080/WebRTCApp/streams/Bein1.m3u8
+
 #EXTINF:-1, LALIGA TV BAR 🇪🇸
 http://skylogic.site:8080/LeCyGodF/de198ad6/197711
 
