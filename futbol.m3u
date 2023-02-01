@@ -78,6 +78,9 @@ http://45.160.12.253:8000/play/212
 #EXTINF:-1, ESPN VIVO 🇨🇴
 http://190.60.37.69:8015/play/a037/index.m3u8
 
+#EXTINF:-1, DIRECTV SPORT 🇦🇷
+http://185.191.124.105:25461/raminp/TAQhPJncSa/1164
+
 #EXTINF:-1, S SPORT 🇹🇷
 http://skylogic.site:8080/LeCyGodF/de198ad6/1753
 
