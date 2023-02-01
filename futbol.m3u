@@ -1011,5 +1011,8 @@ http://91.237.170.202:11000/play/8366
 #EXTINF:-1, ZIGGO SELECT 🇳🇱
 http://82.197.214.59:4002/play/a03e/index.m3u8
 
+#EXTINF:-1, ZIGGO VOETBAL 🇳🇱
+http://82.197.214.59:4002/play/a03c/index.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
