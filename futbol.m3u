@@ -48,6 +48,15 @@ http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 #EXTINF:-1, MAX SPORT 4HD 🇧🇬
 http://skylogic.site:8080/LeCyGodF/de198ad6/16433
 
+#EXTINF:-1, ELEVEN 1 🇹🇼
+https://epg.pw/stream/e8e73c58ad1bf74dfad06169da475360d435a666e71588e4222d1772733b6877.m3u8
+
+#EXTINF:-1, ELEVEN 1 HD 🇹🇼
+https://epg.pw/stream/3d82986e9651c462f95ca698afb79cc6a4c84110fd08455382e5bd7a4b1b7563.m3u8
+
+#EXTINF:-1, ELEVEN 2 🇹🇼
+https://epg.pw/stream/181b7133d65cb3f635db258bf71cf69166a450b4dff9f61d40d7d17995e4fbf8.m3u8
+
 #EXTINF:-1, ARENA SPORT 6 🇭🇷
 http://live.baltazar.pro/mario.djordjevic_6/mario/36975
 
@@ -980,6 +989,15 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, WEBOTV 🇷🇺
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
+
+#EXTINF:-1,Bt sports 1
+https://epg.pw/stream/7f2c86be5467f0f38ca242f4ba0c2455497b3d4c8806f5f5b374243578d1a70f.m3u8
+
+#EXTINF:-1,Bt Sports 3
+https://epg.pw/stream/2445b713f506d51b7622c136748975bf551144ef9f9c90afde8c6e4f55cf392e.m3u8
+
+#EXTINF:-1,Bt Sports 4
+https://epg.pw/stream/960f5b6259f1eae75013abc38e26fe17d1c357ad8d3dd1f826fa76ac393dae85.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
