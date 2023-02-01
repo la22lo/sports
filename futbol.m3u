@@ -6,6 +6,9 @@ http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 #EXTINF:-1, ESPN DEPORTES
 https://Latvala@h7lya1.2embed.sbs/cdn/BXaQAanLKPZ/tracks-v1a1/mono.m3u8?remote=45.133.138.197&token=7c19ef613a1decb9f6a53d84c99b267c56495a67-24c7939ab1e9970d0e416f4c1ecda929--
 
+#EXTINF:-1, ESPN DEPORTES
+https://stream.dlivecdn.com/dlive/transcode-65-228/patonbauzdm/1675236275/src/live.m3u8
+
 #EXTINF:-1, Supersport LALIGA 🇿🇦
 https://enjoy4k.shop:30445/live/abr_ch4/playlist.m3u8
 
