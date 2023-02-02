@@ -1047,5 +1047,11 @@ http://45.135.194.241:8022/play/a0fs/index.m3u8
 #EXTINF:-1,Eleven 6
 http://45.135.194.241:8022/play/a0ft/index.m3u8
 
+#EXTINF:-1,DAZN 2
+http://146.19.16.206:8039/play/a04p
+
+#EXTINF:-1,DAZN 2 (Sky)
+http://146.19.16.206:8039/play/a04q
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
