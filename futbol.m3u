@@ -6,6 +6,12 @@ http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 #EXTINF:-1, Supersport LALIGA 🇿🇦
 https://enjoy4k.shop:30445/live/abr_ch4/playlist.m3u8
 
+#EXTINF:-1, ARENA SPORT 6 🇭🇷
+http://live.baltazar.pro/mario.djordjevic_6/mario/36975
+
+#EXTINF:-1, S SPORT 🇹🇷
+http://vadi61.com/kalender07/5Uc3gL9naw/34
+
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 http://yusf.ddns.net:5080/WebRTCApp/streams/Bein1.m3u8
 
@@ -73,9 +79,6 @@ http://185.191.124.105:25461/raminp/TAQhPJncSa/1164
 http://skylogic.site:8080/LeCyGodF/de198ad6/1753
 
 #EXTINF:-1, S SPORT 🇹🇷
-http://62.182.83.91/Kamilbaba1/YgK8NqJxqhs7/208
-
-#EXTINF:-1, S SPORT 🇹🇷
 http://vadi61.com/kalender07/5Uc3gL9naw/34
 
 #EXTINF:-1, NOVA SPORTS 1 🇬🇷
@@ -86,9 +89,6 @@ http://skylogic.site:8080/LeCyGodF/de198ad6/12844
 
 #EXTINF:-1, BELARUS 5 🇧🇾
 http://skylogic.site:8080/LeCyGodF/de198ad6/295240
-
-#EXTINF:-1, LALIGA TV (PUC) 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-http://wayforward.xyz:25461/mattwick/UpZJbkC4hHWf/245662
 
 #EXTINF:-1, TSN 5 🇨🇦
 http://skylogic.site:8080/LeCyGodF/de198ad6/774
@@ -117,26 +117,11 @@ http://skylogic.site:8080/LeCyGodF/de198ad6/281417
 #EXTINF:-1, ESPN DEPORTES HD 🇺🇸
 http://skylogic.site:8080/LeCyGodF/de198ad6/6446
 
-#EXTINF:-1, ESPN DEPORTES HD 🇺🇸
-https://h7lya1.2embed.sbs/cdn/pQK39rfalBkx/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1, SPORT 18 🇮🇳
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/2405.ts
 
 #EXTINF:-1, BEIN 1 🇵🇭
 http://skylogic.site:8080/LeCyGodF/de198ad6/282772
-
-#EXTINF:-1, BEIN 1 🇵🇭
-http://wayforward.xyz:25461/mattwick/UpZJbkC4hHWf/57391
-
-#EXTINF:-1, BEIN 2 🇵🇭
-http://wayforward.xyz:25461/mattwick/UpZJbkC4hHWf/57392
-
-#EXTINF:-1, BEIN 1 🇮🇩
-http://194.233.71.141:5566/play/Bein1-ID/index.m3u8
-
-#EXTINF:-1, BEIN 1 🇮🇩
-http://194.233.71.141:5566/play/Bein1-U/index.m3u8
 
 #EXTINF:-1,DIRECTV SPORT 🇦🇷
 http://go.iptvhn.net:25461/Denis/Denis123/7674
