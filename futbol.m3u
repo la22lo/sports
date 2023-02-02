@@ -1029,23 +1029,11 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1, WEBOTV 🇷🇺
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 
-#EXTINF:-1, CT SPORT 🇸🇰
-http://91.237.170.202:11000/play/8366
-
 #EXTINF:-1, ZIGGO SELECT 🇳🇱
 http://82.197.214.59:4002/play/a03e/index.m3u8
 
 #EXTINF:-1, ZIGGO VOETBAL 🇳🇱
 http://82.197.214.59:4002/play/a03c/index.m3u8
-
-#EXTINF:-1,Eleven 3
-http://45.135.194.241:8022/play/a0fr/index.m3u8
-
-#EXTINF:-1,Eleven ?
-http://45.135.194.241:8022/play/a0fs/index.m3u8
-
-#EXTINF:-1,Eleven 6
-http://45.135.194.241:8022/play/a0ft/index.m3u8
 
 #EXTINF:-1,DAZN 2
 http://146.19.16.206:8039/play/a04p
