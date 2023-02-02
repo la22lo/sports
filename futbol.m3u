@@ -1029,5 +1029,37 @@ http://146.19.16.206:8039/play/a04p
 #EXTINF:-1,DAZN 2 (Sky)
 http://146.19.16.206:8039/play/a04q
 
+#EXTINF:-1,Arean sport 1 
+http://92.60.230.202:5053/udp/239.1.1.109:22109 
+#EXTINF:-1,Arean sport 2 
+http://92.60.230.202:5053/udp/239.1.1.110:22110 
+#EXTINF:-1,Arean sport 3 
+http://92.60.230.202:5053/udp/239.1.1.111:22111 
+#EXTINF:-1,Arean sport 4 
+http://92.60.230.202:5053/udp/239.1.1.112:22112
+
+#EXTINF:-0,Arena sport 1 hd 
+http://92.60.230.202:5053/udp/239.30.9.1:30901 
+#EXTINF:-0,Arena sport 2 hd 
+http://92.60.230.202:5053/udp/239.30.9.1:30902 
+#EXTINF:-0,Arena sport 3 hf 
+http://92.60.230.202:5053/udp/239.30.9.3:30903 
+#EXTINF:-0,Arena sport 4hd 
+http://92.60.230.202:5053/udp/239.30.9.4:30904 
+#EXTINF:-0,Arena sport 5 hd 
+http://92.60.230.202:5053/udp/239.30.9.5:30905 
+#EXTINF:-0,Arena sport 6 
+http://92.60.230.202:5053/udp/239.30.9.6:30906 
+#EXTINF:-0,Arena sport 7 
+http://92.60.230.202:5053/udp/239.30.9.7:30907 
+#EXTINF:-0,Arena sport 8 
+http://92.60.230.202:5053/udp/239.30.9.1:30908 
+#EXTINF:-0,Arena premium 1 hd 
+http://92.60.230.202:5053/udp/239.30.9.11:30911 
+#EXTINF:-0,Arena Premium 2 hd 
+http://92.60.230.202:5053/udp/239.30.9.12:30912 
+#EXTINF:-0,Arena premium 3 hd 
+http://92.60.230.202:5053/udp/239.30.9.13:30913
+
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
