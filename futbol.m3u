@@ -789,6 +789,12 @@ https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 #EXTINF:-1,SERVUS TV 🇩🇪
 https://s6.hopslan.com/servus2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 ,SPORT 1 🇭🇺
+https://redirect.onlinestream.live/swredir.m3u8?id=1117&ext=.m3u8
+
+#EXTINF:-1 ,SPORT 2 🇭🇺
+https://redirect.onlinestream.live/swredir.m3u8?id=1290&ext=.m3u8
+
 #EXTINF:-1 ,2 SPORT HUNGRIA 🇭🇺
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 
