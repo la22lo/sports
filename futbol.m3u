@@ -24,6 +24,9 @@ http://185.191.124.105:25461/raminp/TAQhPJncSa/44517
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 http://11121314.fr:8000/Exchangeiptv/Hffsduorrdfj/393338
 
+#EXTINF:-1, beIN SPORTS 1 🇶🇦
+http://88.99.216.157:5080/WebRTCApp/streams/Bein1.m3u8
+
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://185.191.124.105:25461/raminp/TAQhPJncSa/15959
 
@@ -274,10 +277,16 @@ http://pro.netmos.ovh:7355/live/D949817863601/234433529827/12778.m3u8
 http://88.99.216.157:5080/WebRTCApp/streams/Bein1_Premuim.m3u8
 
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
+http://88.99.216.157:5080/WebRTCApp/streams/Bein1.m3u8
+
+#EXTINF:-1, beIN SPORTS 1 🇶🇦
 http://11121314.fr:8000/Exchangeiptv/Hffsduorrdfj/393338
 
 #EXTINF:-1, beIN SPORTS 2 🇶🇦
 http://11121314.fr:8000/Exchangeiptv/Hffsduorrdfj/329314
+
+#EXTINF:-1, beIN SPORTS 2 🇶🇦
+http://88.99.216.157:5080/WebRTCApp/streams/Bein2.m3u8
 
 #EXTINF:-1, beIN SPORTS 3 🇶🇦
 http://88.99.216.157:5080/WebRTCApp/streams/Bein3.m3u8
