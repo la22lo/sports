@@ -774,6 +774,15 @@ http://62.182.83.91:80/dani79/58zQqJU5d5utrJ5/15463
 #EXTINF:-1,Polsat Sport HD 🇵🇱
 http://146.59.70.28:1234/stream/polsatsporthd/master.m3u8
 
+#EXTINF:-1, ZIGGO SELECT 🇳🇱
+http://82.197.214.59:4002/play/a03e/index.m3u8
+
+#EXTINF:-1, ZIGGO VOETBAL 🇳🇱
+http://82.197.214.59:4002/play/a03c/index.m3u8
+
+#EXTINF:-1, ZIGGO SPORT 🇳🇱
+http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/20560
+
 #EXTINF:-1, TV2 SPORTEN 🇳🇴
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 
@@ -1016,12 +1025,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, WEBOTV 🇷🇺
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
-
-#EXTINF:-1, ZIGGO SELECT 🇳🇱
-http://82.197.214.59:4002/play/a03e/index.m3u8
-
-#EXTINF:-1, ZIGGO VOETBAL 🇳🇱
-http://82.197.214.59:4002/play/a03c/index.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
