@@ -153,6 +153,12 @@ http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
 #EXTINF:-1,DAZN 2 🇮🇹
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sl4PR2-6eZEHuOmWnlPbYOc
 
+#EXTINF:-1,LD LIFE SPORTS 🇮🇶
+http://bblive.ddns.net:8080/live/ldsport/ldsport/6939.m3u8
+
+#EXTINF:-1,KURDISTAN SPORTS 🇮🇶
+http://bblive.ddns.net:8080/live/ksport/ksport/935.m3u8
+
 #EXTINF:-1, ESPN 2 ECUADOR 🇪🇨
 http://200.24.132.99:8000/play/a01v
 
