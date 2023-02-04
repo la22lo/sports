@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, M LALIGA 🇪🇸
+http://212.9.92.182:49000/play/a01z
+
 #EXTINF:-1, MAX SPORT 4HD 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
