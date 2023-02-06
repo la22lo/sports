@@ -300,14 +300,23 @@ http://pro.netmos.ovh:7355/live/D949817863601/234433529827/12778.m3u8
 #EXTINF:-1, beIN SPORTS 1 PREMIUM 🇶🇦
 http://88.99.216.157:5080/WebRTCApp/streams/Bein1_Premuim.m3u8
 
+#EXTINF:-1, beIN Sports 1 PREMIUM 🇶🇦
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=999&u=b507sLQqtu&s=1641218166&id=3931&t=live&f=ts
+
+#EXTINF:-1, beIN Sports 2 PREMIUM 🇶🇦
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=999&u=b507sLQqtu&s=1641218166&id=3930&t=live&f=ts
+
+#EXTINF:-1, beIN Sports 3 PREMIUM 🇶🇦
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=999&u=b507sLQqtu&s=1641218166&id=3929&t=live&f=ts
+
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 http://88.99.216.157:5080/WebRTCApp/streams/Bein1.m3u8
 
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
-http://11121314.fr:8000/Exchangeiptv/Hffsduorrdfj/393338
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=999&u=b507sLQqtu&s=1641218166&id=988&t=live&f=ts
 
 #EXTINF:-1, beIN SPORTS 2 🇶🇦
-http://11121314.fr:8000/Exchangeiptv/Hffsduorrdfj/329314
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=999&u=b507sLQqtu&s=1641218166&id=987&t=live&f=ts
 
 #EXTINF:-1, beIN SPORTS 2 🇶🇦
 http://88.99.216.157:5080/WebRTCApp/streams/Bein2.m3u8
@@ -315,11 +324,26 @@ http://88.99.216.157:5080/WebRTCApp/streams/Bein2.m3u8
 #EXTINF:-1, beIN SPORTS 3 🇶🇦
 http://88.99.216.157:5080/WebRTCApp/streams/Bein3.m3u8
 
+#EXTINF:-1, beIN SPORTS 3 🇶🇦
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=999&u=b507sLQqtu&s=1641218166&id=986&t=live&f=ts
+
 #EXTINF:-1, beIN SPORTS 4 🇶🇦
 http://88.99.216.157:5080/WebRTCApp/streams/Bein4.m3u8
 
+#EXTINF:-1, beIN SPORTS 4 🇶🇦
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=999&u=b507sLQqtu&s=1641218166&id=985&t=live&f=ts
+
 #EXTINF:-1, beIN SPORTS 5 🇶🇦
 http://88.99.216.157:5080/WebRTCApp/streams/Bein5.m3u8
+
+#EXTINF:-1, beIN SPORTS 5 🇶🇦
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=999&u=b507sLQqtu&s=1641218166&id=984&t=live&f=ts
+
+#EXTINF:-1, beIN SPORTS 6 🇶🇦
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=999&u=b507sLQqtu&s=1641218166&id=983&t=live&f=ts
+
+#EXTINF:-1, beIN SPORTS 7 🇶🇦
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=999&u=b507sLQqtu&s=1641218166&id=1173&t=live&f=ts
 
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://185.191.124.105:25461/raminp/TAQhPJncSa/15961
