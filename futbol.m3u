@@ -87,6 +87,9 @@ http://yusf.ddns.net:5080/WebRTCApp/streams/Bein1.m3u8
 #EXTINF:-1, MAX SPORT 4HD 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
+#EXTINF:-1, MAX SPORT 4HD 🇧🇬
+http://sollabest.noip.digital:8080/jfikfbbs/D48f4wR9kh/418353
+
 #EXTINF:-0,Arena sport 6 🇭🇷
 http://92.60.230.202:5053/udp/239.30.9.6:30906 
 
