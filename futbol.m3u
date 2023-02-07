@@ -426,6 +426,9 @@ http://77.207.0.25:4000/play/a03y
 #EXTINF:-1, L´EQUIPE 🇨🇵
 http://162.19.67.213:49214/L_EQUIPE/hls/playlist.m3u8
 
+#EXTINF:-1, L´EQUIPE 🇨🇵
+http://178.250.208.141/23/play.m3u8
+
 #EXTINF:-1, CANAL + F1 🇨🇵
 http://162.19.67.213:49214/CANAL_PLUS_FORMULA1/hls/playlist.m3u8
 
