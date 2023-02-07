@@ -405,6 +405,15 @@ http://77.207.0.25:4000/play/a03m
 #EXTINF:-1,BEIN SPORTS 2 HD 🇨🇵
 http://77.207.0.25:4000/play/a03n 
 
+#EXTINF:-1,BEIN SPORTS 1 HD 🇨🇵
+http://162.19.67.213:49214/BEIN_SPORTS_1/hls/playlist.m3u8
+
+#EXTINF:-1,BEIN SPORTS 2 HD 🇨🇵
+http://162.19.67.213:49214/BEIN_SPORTS_2/hls/playlist.m3u8
+
+#EXTINF:-1,BEIN SPORTS 3 HD 🇨🇵
+http://162.19.67.213:49214/BEIN_SPORTS_3/hls/playlist.m3u8
+
 #EXTINF:-1,RMC SPORT 1 🇨🇵
 http://77.207.0.25:4000/play/a038 
 
@@ -414,6 +423,12 @@ http://77.207.0.25:4000/play/a033
 #EXTINF:-1,RMC SPORT 3 🇨🇵
 http://77.207.0.25:4000/play/a03y
 
+#EXTINF:-1, L´EQUIPE 🇨🇵
+http://162.19.67.213:49214/L_EQUIPE/hls/playlist.m3u8
+
+#EXTINF:-1, CANAL + F1 🇨🇵
+http://162.19.67.213:49214/CANAL_PLUS_FORMULA1/hls/playlist.m3u8
+
 #EXTINF:-1,beIN Sports 1 English HD 🇬🇧
 http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347
 
@@ -422,6 +437,9 @@ http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=1673204766768
 
 #EXTINF:-1,beIN Sports 3 English HD 🇬🇧
 http://102.222.232.18:9981/stream/channelid/2100170847?ticket=5CC008508EA4755ED1EF71AF84E018D45AD5E286&profile=matroska
+
+#EXTINF:-1, BT SPORTS 1 🇬🇧
+https://ttcast.gpwpaqnxpwhqufz.sbs/cdn/zS5t4ZBhMz5s/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, SUPER GRANDSTAND 🇬🇧
 http://youzontv.cf/sports/master.php?id=6ff312fd796008ff2af73bbffe5a8f82&e=.m3u8
@@ -1124,6 +1142,12 @@ https://mvk@ztnr.rtve.es/ztnr/1712295.m3u8?mvk
 
 #EXTINF:-1,GOL TV 🇪🇸
 https://P135@piratilla2.xyz/837173/hls/gol.m3u8
+
+#EXTINF:-1, EUROSPORT 1 🇪🇸
+http://51.178.36.235:49214/Eurosport_1/hls/playlist.m3u8
+
+#EXTINF:-1, EUROSPORT 2 🇪🇸
+http://51.178.36.235:49214/Eurosport_2/hls/playlist.m3u8
 
 #EXTINF:-1, TENNIS CHANNEL 🇬🇧
 https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
