@@ -88,6 +88,9 @@ http://103.226.232.170:9002/play/a002/index.m3u8
 http://131.196.194.2:8000/play/a0ed/index.m3u8
 
 #EXTINF:-1, ESPN VIVO 🇦🇷
+http://181.39.202.98:9948/play/a13x/index.m3u8
+
+#EXTINF:-1, ESPN VIVO 🇦🇷
 http://45.160.12.253:8000/play/212
 
 #EXTINF:-1, ESPN VIVO 🇨🇴
@@ -101,6 +104,12 @@ http://vadi61.com/kalender07/5Uc3gL9naw/34
 
 #EXTINF:-1, S SPORT 🇹🇷
 http://lider-server.tk:8080/Mserver11/Adam123/110496
+
+#EXTINF:-1, S SPORT 🇹🇷
+http://fanatik12.xyz:80/live/almandagitim/Fesr6un8Yjcz/63396.ts
+
+#EXTINF:-1, S SPORT 🇹🇷
+http://fanatik12.xyz:80/live/almandagitim/Fesr6un8Yjcz/106293.ts
 
 #EXTINF:-1, NOVA SPORTS 1 🇬🇷
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9esxppA5BEooxeg3onklIL
@@ -134,6 +143,9 @@ http://181.78.7.92:6500/play/a00m/index.m3u8
 
 #EXTINF:-1,ESPN 2 🇦🇷
 http://181.176.148.142:8000/play/a02e
+
+#EXTINF:-1,ESPN 2 🇦🇷
+http://181.39.202.98:9948/play/a13z/index.m3u8
 
 #EXTINF:-1, ESPN VIVO 🇦🇷
 http://190.60.37.69:8015/play/a037/index.m3u8
@@ -195,20 +207,32 @@ http://200.24.132.99:8000/play/a029
 #EXTINF:-1, ESPN 2 🇦🇷
 http://190.60.37.69:8015/play/a01e/index.m3u8
 
-#EXTINF:-1, ESPN 2 HD 🇦🇷
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/11441
+#EXTINF:-1, ESPN 3 HD 🇦🇷
+http://181.39.202.98:9948/play/a13y/index.m3u8
 
 #EXTINF:-1, ESPN 4 🇦🇷
 http://190.60.37.69:8015/play/a02n/index.m3u8
 
+#EXTINF:-1, ESPN 4 🇦🇷
+http://181.78.19.36:45000/play/a01y/index.m3u8
+
 #EXTINF:-1, ESPN VIVO 🇦🇷
 http://190.60.37.69:8015/play/a037/index.m3u8
+
+#EXTINF:-1, FOX SPORTS 2 🇦🇷
+http://181.39.202.98:9948/play/a123/index.m3u8
+
+#EXTINF:-1, FOX SPORTS 3 🇦🇷
+http://181.39.202.98:9948/play/a140/index.m3u8
 
 #EXTINF:-1, FOX SPORTS 3 🇦🇷
 http://170.83.242.155:5350/play/a014
 
 #EXTINF:-1,CITY SPORTS 🇦🇷
 https://citysports.grupocity.net.ar:3469/live/citysportslive.m3u8
+
+#EXTINF:-1,CITY SPORTS 🇦🇷
+https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
 
 #EXTINF:-1, TELECOSTA GUATEMALA 🇬🇹
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
