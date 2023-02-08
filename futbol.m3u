@@ -43,7 +43,13 @@ http://vadi61.com/kalender07/5Uc3gL9naw/34
 http://iptvtree.es/qtvbox/w6kqBNLz48yf/71105.ts
 
 #EXTINF:-1, ESPN 🇦🇷
+http://204.157.255.135:20001/play/a066/index.m3u8
+
+#EXTINF:-1, ESPN 🇦🇷
 http://170.83.242.8:5350/play/a00u
+
+#EXTINF:-1, ESPN 2 🇦🇷
+http://204.157.255.135:20001/play/a064/index.m3u8
 
 #EXTINF:-1, ESPN 2 🇦🇷
 http://170.83.242.8:5350/play/a02u
@@ -56,9 +62,6 @@ http://170.83.242.8:5350/play/a00h
 
 #EXTINF:-1, Supersport LALIGA 🇿🇦
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/109026.ts
-
-#EXTINF:-1, Supersport LALIGA 🇿🇦
-https://enjoy4k.shop:30445/live/abr_ch4/playlist.m3u8
 
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 http://62.182.82.104/BEINSPORT_1_HD/index.m3u8?token=test
@@ -223,7 +226,13 @@ http://181.78.19.36:45000/play/a01y/index.m3u8
 http://190.60.37.69:8015/play/a037/index.m3u8
 
 #EXTINF:-1, FOX SPORTS 2 🇦🇷
+http://204.157.255.135:20001/play/a03f/index.m3u8
+
+#EXTINF:-1, FOX SPORTS 2 🇦🇷
 http://181.39.202.98:9948/play/a123/index.m3u8
+
+#EXTINF:-1, FOX SPORTS 3 🇦🇷
+http://204.157.255.135:20001/play/a03g/index.m3u8
 
 #EXTINF:-1, FOX SPORTS 3 🇦🇷
 http://181.39.202.98:9948/play/a140/index.m3u8
