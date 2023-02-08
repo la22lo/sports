@@ -1218,5 +1218,8 @@ https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 #EXTINF:-1, A SPORTS 
 http://27.96.95.58:8000/play/a015/index.m3u8
 
+#EXTINF:-1,BEIN SPORTS HD
+http://27.96.95.58:8000/play/a02z/index.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
