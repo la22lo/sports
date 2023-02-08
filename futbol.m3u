@@ -1218,8 +1218,20 @@ https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 #EXTINF:-1, A SPORTS 
 http://27.96.95.58:8000/play/a015/index.m3u8
 
+#EXTINF:-1,A SportsHD
+http://180.178.188.152:8000/play/a0ad
+
+#EXTINF:-1,Sports18 
+http://180.178.188.152:8000/play/a09s
+
 #EXTINF:-1,BEIN SPORTS HD
 http://27.96.95.58:8000/play/a02z/index.m3u8
+
+#EXTINF:-1,Setanta Ukraine +
+http://95.67.12.89:9013
+
+#EXTINF:-1,Bein sport1 🇵🇰
+http://14.192.129.134:80/bein1/index.m3u8 
 
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
