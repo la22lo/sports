@@ -609,6 +609,9 @@ https://bit.ly/3sAIeXX
 #EXTINF:-1, MAX SPORT 3HD 🇧🇬
 https://bit.ly/3zfvQQY
 
+#EXTINF:-1, MAX SPORT 3HD 🇧🇬
+http://62.176.77.22:9781/play/a00i
+
 #EXTINF:-1,Diema Sport 2 HD 🇧🇬
 http://149.100.11.250:8002/play/a01y/index.m3u8
 
@@ -776,6 +779,15 @@ http://185.23.80.26:8080/lb/START/video.m3u8?token1=c18b404b3150d2e216835a280103
 
 #EXTINF:-1,BELARUS 5 🇧🇾
 http://82.209.197.187:8080/udp/239.0.100.9:1234
+
+#EXTINF:-1, QazSport
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/qazsporttv/qazsporttv_720/chunks.m3u8
+
+#EXTINF:-1, QazSport 2
+https://qazsporttv-stream.qazcdn.com/qazsporttv2/qazsporttv2/qazsporttv2/qazsporttv2_720/chunks.m3u8
+
+#EXTINF:-1, QazSport 3
+https://qazsporttv-stream.qazcdn.com/qazsporttv3/qazsporttv3/qazsporttv3/qazsporttv3_720/chunks.m3u8
 
 #EXTINF:-1, Turkmenistan Sport 🇹🇲
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
@@ -1130,6 +1142,9 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, WEBOTV 🇷🇺
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
+
+#EXTINF:-1, MAX SPORT 4HD 🇧🇬
+http://62.176.77.22:9781/play/a00j
 
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
