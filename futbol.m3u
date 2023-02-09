@@ -246,6 +246,9 @@ http://181.39.202.98:9948/play/a140/index.m3u8
 #EXTINF:-1, FOX SPORTS 3 🇦🇷
 http://170.83.242.155:5350/play/a014
 
+#EXTINF:-1,TIGO SPORTS 🇦🇷
+http://190.149.66.90:16000/play/a03j/index.m3u8
+
 #EXTINF:-1,CITY SPORTS 🇦🇷
 https://citysports.grupocity.net.ar:3469/live/citysportslive.m3u8
 
@@ -678,11 +681,32 @@ https://livetv.mylifeisgood.ml/channels/setantahd
 #EXTINF:-1,Setanta Sports 1 HD 🇷🇺
 https://livetv.mylifeisgood.ml/channels/setantahd.m3u8
 
+#EXTINF:-1,Setanta Sports 1 HD 🇷🇺
+http://195.2.74.99/channel/n1269af8b/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+
+#EXTINF:-1,Setanta Sports 1 HD 🇷🇺
+http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/271/index.m3u8
+
+#EXTINF:-1,Setanta Sports 1 HD 🇷🇺
+http://d982310c.ottrast.com/iptv/VAS9DM6Q9AYC3K/271/index.m3u8
+
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
 https://livetv.mylifeisgood.ml/channels/setantaplus
 
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
 https://livetv.mylifeisgood.ml/channels/setantaplus.m3u8
+
+#EXTINF:-1,Setanta Sports 2 HD 🇷🇺
+http://195.2.74.99/channel/n12693b2c/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+
+#EXTINF:-1,Setanta Sports 2 HD 🇷🇺
+http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/270/index.m3u8
+
+#EXTINF:-1,Setanta Sports 2 HD 🇷🇺
+http://d982310c.ottrast.com/iptv/VAS9DM6Q9AYC3K/270/index.m3u8
+
+#EXTINF:-1,Setanta Sports ukr
+http://d982310c.ottrast.com/iptv/VAS9DM6Q9AYC3K/272/index.m3u8
 
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
@@ -788,6 +812,9 @@ https://qazsporttv-stream.qazcdn.com/qazsporttv2/qazsporttv2/qazsporttv2/qazspor
 
 #EXTINF:-1, QazSport 3
 https://qazsporttv-stream.qazcdn.com/qazsporttv3/qazsporttv3/qazsporttv3/qazsporttv3_720/chunks.m3u8
+
+#EXTINF:-1, 3 Sport HD LT
+http://myott.top/stream/D3VTJRDNKLY/416.m3u8
 
 #EXTINF:-1, Turkmenistan Sport 🇹🇲
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
