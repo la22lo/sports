@@ -426,6 +426,21 @@ http://178.250.208.141/23/play.m3u8
 #EXTINF:-1, CANAL + F1 🇨🇵
 http://162.19.67.213:49214/CANAL_PLUS_FORMULA1/hls/playlist.m3u8
 
+#EXTINF:-1, CANAL + 1 SPORT 🇨🇵
+https://ecloud1.izqhjzepxsrvrwl.sbs/cdn/77qlYhkvlXo/index.m3u8
+
+#EXTINF:-1, CANAL + 2 SPORT 🇨🇵
+https://ttcast.gpwpaqnxpwhqufz.sbs/cdn/iI0JqKzFndso/index.m3u8
+
+#EXTINF:-1, CANAL + 3 SPORT 🇨🇵
+https://ecloud1.izqhjzepxsrvrwl.sbs/cdn/qgrgFjuER8P7/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, CANAL + 4 SPORT 🇨🇵
+https://ecloud1.izqhjzepxsrvrwl.sbs/cdn/h3EVt1gISRl7/index.m3u8
+
+#EXTINF:-1, CANAL + 5 SPORT 🇨🇵
+https://ecloud1.izqhjzepxsrvrwl.sbs/cdn/ri6MpQ6fqlKM/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,beIN Sports 1 English HD 🇬🇧
 http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347
 
