@@ -678,32 +678,14 @@ https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 #EXTINF:-1,Setanta Sports 1 HD 🇷🇺
 https://livetv.mylifeisgood.ml/channels/setantahd
 
+#EXTINF:-1,Setanta Sports 1 HD 🇷🇺
+https://livetv.mylifeisgood.ml/channels/setantahd.m3u8
+
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
 https://livetv.mylifeisgood.ml/channels/setantaplus
 
-#EXTINF:-1,Setanta Sports 1 HD 🇷🇺
-http://uuuuu.icu:8080/valar/murgulis/21
-
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
-http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/270/index.m3u8
-
-#EXTINF:-1,Setanta Sports 🇺🇦
-http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/272/index.m3u8
-
-#EXTINF:-1,Setanta Sports 1 🇺🇦
-http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/19430/index.m3u8
-
-#EXTINF:-1,Setanta Sports 2 🇺🇦
-http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/19431/index.m3u8
-
-#EXTINF:-1,Setanta Sports 3 🇺🇦
-http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/19432/index.m3u8
-
-#EXTINF:-1,Setanta Sports + 🇺🇦
-http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/5068/index.m3u8
-
-#EXTINF:-1,Setanta Sports 2 🇧🇾
-http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/5070/index.m3u8
+https://livetv.mylifeisgood.ml/channels/setantaplus.m3u8
 
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
@@ -716,6 +698,9 @@ https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
 
 #EXTINF:-1, MATH 🇷🇺
 http://95.217.196.109:8081/russia/matchtv_sd_new/playlist.m3u8
+
+#EXTINF:-1, MATH 🇷🇺
+https://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
 
 #EXTINF:-1,Матч TV 🇷🇺
 http://212.73.81.237:8000/play/a037/index.m3u8
@@ -803,6 +788,9 @@ https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 #EXTINF:-1, Turkmenistan Sport 🇹🇲
 http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+
+#EXTINF:-1, Turkmenistan Sport 🇹🇲
+http://217.174.225.146/hls/ch004_720/index.m3u8
 
 #EXTINF:-1, UZ SPORT 🇺🇿
 https://s04.watcher.uz/59/tracks-v1a1a2/mono.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NTYxNjgsImxvZ2luIjoiaGUtMjUyNTk0NSIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjYzMDkyNTM1fQ.kiKhT-gWF-11PivblJQjeKDWIRLHplSGdejtdizEWzQ%3A11
