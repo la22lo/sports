@@ -705,7 +705,7 @@ http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/270/index.m3u8
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
 http://d982310c.ottrast.com/iptv/VAS9DM6Q9AYC3K/270/index.m3u8
 
-#EXTINF:-1,Setanta Sports ukr
+#EXTINF:-1,Setanta Sports 🇺🇦
 http://d982310c.ottrast.com/iptv/VAS9DM6Q9AYC3K/272/index.m3u8
 
 #EXTINF:-1, MATH 🇷🇺
@@ -804,16 +804,16 @@ http://185.23.80.26:8080/lb/START/video.m3u8?token1=c18b404b3150d2e216835a280103
 #EXTINF:-1,BELARUS 5 🇧🇾
 http://82.209.197.187:8080/udp/239.0.100.9:1234
 
-#EXTINF:-1, QazSport
+#EXTINF:-1, QazSport 🇰🇿
 https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/qazsporttv/qazsporttv_720/chunks.m3u8
 
-#EXTINF:-1, QazSport 2
+#EXTINF:-1, QazSport 2 🇰🇿
 https://qazsporttv-stream.qazcdn.com/qazsporttv2/qazsporttv2/qazsporttv2/qazsporttv2_720/chunks.m3u8
 
-#EXTINF:-1, QazSport 3
+#EXTINF:-1, QazSport 3 🇰🇿
 https://qazsporttv-stream.qazcdn.com/qazsporttv3/qazsporttv3/qazsporttv3/qazsporttv3_720/chunks.m3u8
 
-#EXTINF:-1, 3 Sport HD LT
+#EXTINF:-1, 3 Sport HD 🇱🇹
 http://myott.top/stream/D3VTJRDNKLY/416.m3u8
 
 #EXTINF:-1, Turkmenistan Sport 🇹🇲
@@ -947,9 +947,6 @@ http://watchindia.net:8880/live/dharmend/PTukavDWzh/2325.ts
 
 #EXTINF:-1,A SportsHD 🇮🇳
 http://180.178.188.152:8000/play/a0ad
-
-#EXTINF:-1,A SportsHD 🇮🇳
-http://27.96.95.58:8000/play/a015/index.m3u8
 
 #EXTINF:-1,CCTV5 🇨🇳
 http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8
