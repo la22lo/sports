@@ -1248,5 +1248,11 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1, WEBOTV 🇷🇺
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 
+#EXTINF:-1, NOW SPORT 1 🇭🇰
+http://ultratv.one:2095/xMsGHAzQ/kYuckAK/117957
+
+#EXTINF:-1, NOW SPORT 2 🇭🇰
+http://ultratv.one:2095/xMsGHAzQ/kYuckAK/117958
+
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
