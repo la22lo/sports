@@ -1029,6 +1029,9 @@ http://180.178.188.152:8000/play/a0ad
 #EXTINF:-1,A SportsHD 🇮🇳
 http://1.amazingtv.online:8080/GMdYAT44DvGz/j4sxshuxqBWc/315091
 
+#EXTINF:-1, NOW SPORT 1 🇭🇰
+http://ultratv.one:2095/xMsGHAzQ/kYuckAK/117957
+
 #EXTINF:-1,CCTV5 🇨🇳
 http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8
 
@@ -1247,12 +1250,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, WEBOTV 🇷🇺
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
-
-#EXTINF:-1, NOW SPORT 1 🇭🇰
-http://ultratv.one:2095/xMsGHAzQ/kYuckAK/117957
-
-#EXTINF:-1, NOW SPORT 2 🇭🇰
-http://ultratv.one:2095/xMsGHAzQ/kYuckAK/117958
 
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
