@@ -663,9 +663,6 @@ http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
 #EXTINF:-1, HRT 2 🇭🇷
 http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8?
 
-#EXTINF:-1, DIGI SPORT 1 🇷🇴
-http://skylogic.site:8080/LeCyGodF/de198ad6/71457
-
 #EXTINF:-1, MAX SPORT 1HD 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport_web.m3u8
 
