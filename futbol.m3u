@@ -831,6 +831,9 @@ http://185.23.80.26:8080/lb/START/video.m3u8?token1=c18b404b3150d2e216835a280103
 #EXTINF:-1,BELARUS 5 🇧🇾
 http://82.209.197.187:8080/udp/239.0.100.9:1234
 
+#EXTINF:-1, CBC SPORTS 🇦🇿
+http://server.sibfungold.info:8080/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/51286
+
 #EXTINF:-1, QazSport 🇰🇿
 https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/qazsporttv/qazsporttv_720/chunks.m3u8
 
