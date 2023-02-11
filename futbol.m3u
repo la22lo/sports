@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, LALIGA TV BAR  🇪🇸
-http://1.amazingtv.online:8080/GMdYAT44DvGz/j4sxshuxqBWc/286400
-
 #EXTINF:-1, M LALIGA 🇪🇸
 http://212.9.92.182:49000/play/a01z
 
@@ -36,9 +33,6 @@ http://vpnhat.green.onerunthisway.me/live/sun.php?z=999&u=b507sLQqtu&s=164121816
 #EXTINF:-1, beIN Sports 1 🇶🇦
 https://live.eagleeye.capital:443/razkorazko/razkorazko/9310.ts
 
-#EXTINF:-1, beIN Sports 1 🇶🇦
-http://1.amazingtv.online:8080/GMdYAT44DvGz/j4sxshuxqBWc/257231
-
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 http://88.99.216.157:5080/WebRTCApp/streams/Bein1.m3u8
 
@@ -47,9 +41,6 @@ http://185.191.124.105:25461/raminp/TAQhPJncSa/44517
 
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://185.191.124.105:25461/raminp/TAQhPJncSa/15959
-
-#EXTINF:-1, Eleven 1 HD 🇵🇹
-http://1.amazingtv.online:8080/GMdYAT44DvGz/j4sxshuxqBWc/286361
 
 #EXTINF:-1, ESPN 🇦🇷
 http://181.189.246.86:58003/play/a02h/index.m3u8
@@ -135,9 +126,6 @@ http://fanatik12.xyz:80/live/almandagitim/Fesr6un8Yjcz/63396.ts
 #EXTINF:-1, S SPORT 🇹🇷
 http://fanatik12.xyz:80/live/almandagitim/Fesr6un8Yjcz/106293.ts
 
-#EXTINF:-1, S SPORT 🇹🇷
-http://1.amazingtv.online:8080/GMdYAT44DvGz/j4sxshuxqBWc/76314
-
 #EXTINF:-1, NOVA SPORTS 1 🇬🇷
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9esxppA5BEooxeg3onklIL
 
@@ -170,9 +158,6 @@ http://watchindia.net:8880/live/dharmend/PTukavDWzh/2405.ts
 
 #EXTINF:-1,DIRECTV SPORT 🇦🇷
 http://go.iptvhn.net:25461/Denis/Denis123/7674
-
-#EXTINF:-1,DIRECTV SPORT 🇦🇷
-http://iptvtree.es/qtvbox/w6kqBNLz48yf/71105.ts
 
 #EXTINF:-1, ESPN VIVO 🇦🇷
 http://181.78.7.92:6500/play/a096/index.m3u8
@@ -222,23 +207,11 @@ http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
 #EXTINF:-1,DAZN 2 🇩🇪
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sl4PR2-6eZEHuOmWnlPbYOc
 
-#EXTINF:-1,DAZN 1 🇩🇪
-http://1.amazingtv.online:8080/GMdYAT44DvGz/j4sxshuxqBWc/96686
-
-#EXTINF:-1,DAZN 2 🇩🇪
-http://1.amazingtv.online:8080/GMdYAT44DvGz/j4sxshuxqBWc/96687
-
 #EXTINF:-1,DAZN 1 🇮🇹
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
 
 #EXTINF:-1,DAZN 2 🇮🇹
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sl4PR2-6eZEHuOmWnlPbYOc
-
-#EXTINF:-1, BLUE SPORT 1 🇨🇭
-http://1.amazingtv.online:8080/GMdYAT44DvGz/j4sxshuxqBWc/319857
-
-#EXTINF:-1, BLUE SPORT 2 🇨🇭
-http://1.amazingtv.online:8080/GMdYAT44DvGz/j4sxshuxqBWc/319858
 
 #EXTINF:-1,LD LIFE SPORTS 🇮🇶
 http://bblive.ddns.net:8080/live/ldsport/ldsport/6939.m3u8
@@ -444,14 +417,8 @@ http://vpnhat.green.onerunthisway.me/live/sun.php?z=999&u=b507sLQqtu&s=164121816
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://185.191.124.105:25461/raminp/TAQhPJncSa/15961
 
-#EXTINF:-1, Eleven 1 HD 🇵🇹
-http://1.amazingtv.online:8080/GMdYAT44DvGz/j4sxshuxqBWc/286361
-
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://185.191.124.105:25461/raminp/TAQhPJncSa/15964
-
-#EXTINF:-1, Eleven 2 HD 🇵🇹
-http://1.amazingtv.online:8080/GMdYAT44DvGz/j4sxshuxqBWc/286362
 
 #EXTINF:-1, ELEVEN SPORTS 3 HD 🇵🇹
 http://185.191.124.105:25461/raminp/TAQhPJncSa/15968
