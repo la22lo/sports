@@ -22,6 +22,9 @@ https://enjoy4k.shop:30445/live/abr_ch4/playlist.m3u8
 http://server.sibfungold.info:8080/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/52294
 
 #EXTINF:-1,A SportsHD 🇮🇳
+http://pakin.worldtvip.co/pk_asports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,A SportsHD 🇮🇳
 http://180.178.188.152:8000/play/a0ad
 
 #EXTINF:-1, beIN Sports 1 🇶🇦
@@ -1239,20 +1242,8 @@ http://sansat.net:25461/ANY7OFTLOTNKY0T/JMPGBY5MCB9BCZK/95419
 #EXTINF:-1, ELEVEN 3 🇵🇹
 http://sansat.net:25461/ANY7OFTLOTNKY0T/JMPGBY5MCB9BCZK/95420
 
-#EXTINF:-1, ELEVEN 1 🇵🇹
-http://germanydnsx11.com:8000/engin223/njjuakkf/86823
-
-#EXTINF:-1, ELEVEN 2 🇵🇹
-http://germanydnsx11.com:8000/engin223/njjuakkf/86824
-
-#EXTINF:-1, ELEVEN 3 🇵🇹
-http://germanydnsx11.com:8000/engin223/njjuakkf/86825
-
 #EXTINF:-1, SUPERSPORT LALIGA 🇿🇦
 http://sansat.net:25461/ANY7OFTLOTNKY0T/JMPGBY5MCB9BCZK/116684
-
-#EXTINF:-1,A SportsHD 🇮🇳
-http://pakin.worldtvip.co/pk_asports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,ZIGGO SPORT VOETBAL HD 🇳🇱
 http://sansat.net:25461/ANY7OFTLOTNKY0T/JMPGBY5MCB9BCZK/56530
@@ -1295,9 +1286,6 @@ http://sansat.net:25461/ANY7OFTLOTNKY0T/JMPGBY5MCB9BCZK/190026
 
 #EXTINF:-1,VARZISH SPORT HD 🇮🇶
 http://sansat.net:25461/ANY7OFTLOTNKY0T/JMPGBY5MCB9BCZK/192764
-
-#EXTINF:-1, S SPORT 🇹🇷
-http://germanydnsx11.com:8000/engin223/njjuakkf/89061
 
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
