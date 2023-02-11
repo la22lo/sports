@@ -87,12 +87,6 @@ http://62.182.82.104/BEINSPORT_1_HD/index.m3u8?token=test
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 http://yusf.ddns.net:5080/WebRTCApp/streams/Bein1.m3u8
 
-#EXTINF:-1, MAX SPORT 4HD 🇧🇬
-http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
-
-#EXTINF:-1, MAX SPORT 4HD 🇧🇬
-http://mdstream.net:8080/VipLocalline/D5qQQChgbE/23679
-
 #EXTINF:-1, ARENA SPORT 6 🇭🇷
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/258518.ts
 
