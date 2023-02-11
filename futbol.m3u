@@ -1221,5 +1221,8 @@ http://167.172.17.19/BeinPremuim2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BEIN 3 PREMIUM 🇶🇦
 http://167.172.17.19/BeinPremuim3HD/tracks-v1a1/mono.m3u8 
 
+#EXTINF:-1,A SportsHD 🇮🇳
+http://pakin.worldtvip.co/pk_asports/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
