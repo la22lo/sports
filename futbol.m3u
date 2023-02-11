@@ -81,6 +81,9 @@ http://170.83.242.8:5350/play/a00h
 #EXTINF:-1, Supersport LALIGA 🇿🇦
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/109026.ts
 
+#EXTINF:-1, BEIN 1 🇶🇦
+http://smartes-plus.com:1996/live/97394943793ERIKGKG/97394943793ERIKGKG/108618.m3u8
+
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 http://62.182.82.104/BEINSPORT_1_HD/index.m3u8?token=test
 
@@ -339,6 +342,15 @@ http://yusf.ddns.net:5080/WebRTCApp/streams/Bein2_Premuim.m3u8
 #EXTINF:-1, beIN SPORTS 3 PREMIUM 🇶🇦
 http://yusf.ddns.net:5080/WebRTCApp/streams/Bein3_Premuim.m3u8
 
+#EXTINF:-1, BEIN 1 PREMIUM 🇶🇦
+http://167.172.17.19/BeinPremuim1HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, BEIN 2 PREMIUM 🇶🇦
+http://167.172.17.19/BeinPremuim2HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, BEIN 3 PREMIUM 🇶🇦
+http://167.172.17.19/BeinPremuim3HD/tracks-v1a1/mono.m3u8 
+
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 http://yusf.ddns.net:5080/WebRTCApp/streams/Bein1.m3u8
 
@@ -407,6 +419,12 @@ http://vpnhat.green.onerunthisway.me/live/sun.php?z=999&u=b507sLQqtu&s=164121816
 
 #EXTINF:-1, beIN SPORTS 7 🇶🇦
 http://vpnhat.green.onerunthisway.me/live/sun.php?z=999&u=b507sLQqtu&s=1641218166&id=1173&t=live&f=ts
+
+#EXTINF:-1, BEIN 1 🇶🇦
+http://smartes-plus.com:1996/live/97394943793ERIKGKG/97394943793ERIKGKG/108618.m3u8
+
+#EXTINF:-1, BEIN 2 🇶🇦
+http://smartes-plus.com:1996/live/97394943793ERIKGKG/97394943793ERIKGKG/108619.m3u8
 
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://185.191.124.105:25461/raminp/TAQhPJncSa/15961
@@ -1215,23 +1233,8 @@ https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 #EXTINF:-1, WEBOTV 🇷🇺
 https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8
 
-#EXTINF:-1, BEIN 1 PREMIUM 🇶🇦
-http://167.172.17.19/BeinPremuim1HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, BEIN 2 PREMIUM 🇶🇦
-http://167.172.17.19/BeinPremuim2HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, BEIN 3 PREMIUM 🇶🇦
-http://167.172.17.19/BeinPremuim3HD/tracks-v1a1/mono.m3u8 
-
 #EXTINF:-1, BEIN 1 🇶🇦
 http://sansat.net:25461/ANY7OFTLOTNKY0T/JMPGBY5MCB9BCZK/5231
-
-#EXTINF:-1, BEIN 1 🇶🇦
-http://smartes-plus.com:1996/live/97394943793ERIKGKG/97394943793ERIKGKG/108618.m3u8
-
-#EXTINF:-1, BEIN 2 🇶🇦
-http://smartes-plus.com:1996/live/97394943793ERIKGKG/97394943793ERIKGKG/108619.m3u8
 
 #EXTINF:-1, ELEVEN 1 🇵🇹
 http://sansat.net:25461/ANY7OFTLOTNKY0T/JMPGBY5MCB9BCZK/95418
