@@ -42,6 +42,9 @@ http://88.99.216.157:5080/WebRTCApp/streams/Bein1.m3u8
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 http://185.191.124.105:25461/raminp/TAQhPJncSa/44517
 
+#EXTINF:-1, BEIN 1 🇶🇦
+http://sansat.net:25461/ANY7OFTLOTNKY0T/JMPGBY5MCB9BCZK/5231
+
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://185.191.124.105:25461/raminp/TAQhPJncSa/15964
 
@@ -1274,9 +1277,6 @@ https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 
 #EXTINF:-1, WEBOTV 🇷🇺
 https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8
-
-#EXTINF:-1, BEIN 1 🇶🇦
-http://sansat.net:25461/ANY7OFTLOTNKY0T/JMPGBY5MCB9BCZK/5231
 
 #EXTINF:-1,ZIGGO SPORT VOETBAL HD 🇳🇱
 http://sansat.net:25461/ANY7OFTLOTNKY0T/JMPGBY5MCB9BCZK/56530
