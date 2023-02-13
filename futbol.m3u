@@ -33,6 +33,9 @@ http://pakin.worldtvip.co/pk_asports/tracks-v1a1/mono.m3u8
 #EXTINF:-1,A SportsHD 🇮🇳
 http://180.178.188.152:8000/play/a0ad
 
+#EXTINF:-1,T Sports 🇧🇩
+https://live.tsports.com/live/tsports_live_720/index.m3u8
+
 #EXTINF:-1, beIN Sports 1 🇶🇦
 https://live.eagleeye.capital:443/razkorazko/razkorazko/9310.ts
 
