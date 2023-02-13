@@ -10,6 +10,9 @@ http://lider-server.tk:8080/Mserver11/Adam123/110496
 http://fanatik12.xyz:80/live/almandagitim/Fesr6un8Yjcz/106293.ts
 
 #EXTINF:-1, M LALIGA 🇪🇸
+http://51.158.36.81:18000/M_LaLiga/hls/playlist.m3u8
+
+#EXTINF:-1, M LALIGA 🇪🇸
 http://xone8.1222908.net:80/live/559912B0380379ED95C397C46957B9DF/323597.m3u8
 
 #EXTINF:-1, DAZN LALIGA 🇪🇸
@@ -480,6 +483,9 @@ http://youzontv.cf/sports/master.php?id=6ff312fd796008ff2af73bbffe5a8f82&e=.m3u8
 #EXTINF:-1, M LALIGA CAMPEONES 🇪🇸
 http://xone8.1222908.net:80/live/559912B0380379ED95C397C46957B9DF/323598.m3u8
 
+#EXTINF:-1, M LALIGA CAMPEONES 🇪🇸
+http://51.158.36.81:18000/M_Liga_de_Campeones/hls/playlist.m3u8
+
 #EXTINF:-1,ESPN + 🇺🇸
 http://rn2yfxko.tvclub.xyz/iptv/WP3PZRYBCGTFUB/19156/index.m3u8
 
@@ -794,6 +800,12 @@ http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-zSIvQVCNzM6P
 
 #EXTINF:-1, NOVA SPORTS 6 🇬🇷
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8knmYox6b33BuDPJjeF2_K
+
+#EXTINF:-1, NOVA SPORTS 2 🇬🇷
+http://103.226.232.170:9008/play/a010
+
+#EXTINF:-1, NOVA SPORTS 6 🇬🇷
+http://103.226.232.170:9008/play/a012
 
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇱
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276379.ts
