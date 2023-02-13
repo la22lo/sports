@@ -1032,14 +1032,23 @@ https://cdnlive.shooowit.net/la8valladolidlive/smil:streamswitchingchannel.smil/
 #EXTINF:-1, LA 1 🇪🇸
 https://P135@ztnr.rtve.es/ztnr/1688877.m3u8
 
+#EXTINF:-1, GOLTV 🇪🇸
+http://51.158.36.81:18000/GOL/hls/playlist.m3u8
+
 #EXTINF:-1, TELEDEPORTE 🇪🇸
 https://mvk@ztnr.rtve.es/ztnr/1712295.m3u8?mvk
 
 #EXTINF:-1, EUROSPORT 1 🇪🇸
 http://51.178.36.235:49214/Eurosport_1/hls/playlist.m3u8
 
+#EXTINF:-1, EUROSPORT 1 🇪🇸
+http://51.158.36.81:18000/Eurosport_1/hls/playlist.m3u8
+
 #EXTINF:-1, EUROSPORT 2 🇪🇸
 http://51.178.36.235:49214/Eurosport_2/hls/playlist.m3u8
+
+#EXTINF:-1, EUROSPORT 2 🇪🇸
+http://51.158.36.81:18000/Eurosport_2/hls/playlist.m3u8
 
 #EXTINF:-1, TENNIS CHANNEL 🇬🇧
 https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
