@@ -456,6 +456,9 @@ http://rn2yfxko.tvclub.xyz/iptv/WP3PZRYBCGTFUB/19155/index.m3u8
 #EXTINF:-1,K SPORT 🇦🇱
 http://sansat.net:25461/ANY7OFTLOTNKY0T/JMPGBY5MCB9BCZK/96147
 
+#EXTINF:-1,RTSH SPORT 🇦🇱
+http://restream.skyhd-iptv.com:25461/klm/AavHvGXGQG/199
+
 #EXTINF:-1, VIVARO SPORT 🇦🇲
 http://iptv.home-iptv.ru:25500/play/vmedia/index.m3u8?token=armenia
 
@@ -509,6 +512,12 @@ http://94.250.2.6:7374/play/a012/index.m3u8
 
 #EXTINF:-1, ARENA SPORT 2 🇭🇷
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/258514.ts
+
+#EXTINF:-1, SK 1 🇭🇷
+http://restream.skyhd-iptv.com:25461/klm/AavHvGXGQG/376
+
+#EXTINF:-1, SK 3 🇭🇷
+http://restream.skyhd-iptv.com:25461/klm/AavHvGXGQG/374
 
 #EXTINF:-1,HRT2 🇭🇷
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
