@@ -600,6 +600,9 @@ http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/271/index.m3u8
 #EXTINF:-1,Setanta Sports 1 HD 🇷🇺
 http://d982310c.ottrast.com/iptv/VAS9DM6Q9AYC3K/271/index.m3u8
 
+#EXTINF:-1,Setanta Sports 1 HD 🇷🇺
+http://am01.spr24.net/933/mpegts?token=7t4p47A93etzsd
+
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
 https://livetv.mylifeisgood.ml/channels/setantaplus
 
@@ -614,6 +617,9 @@ http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/270/index.m3u8
 
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
 http://d982310c.ottrast.com/iptv/VAS9DM6Q9AYC3K/270/index.m3u8
+
+#EXTINF:-1,Setanta Sports 2 HD 🇷🇺
+http://am01.spr24.net/934/mpegts?token=7t4p47A93etzsd
 
 #EXTINF:-1,Setanta Sports 🇺🇦
 http://d982310c.ottrast.com/iptv/VAS9DM6Q9AYC3K/272/index.m3u8
@@ -632,6 +638,9 @@ https://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
 
 #EXTINF:-1, MATH 🇷🇺
 http://193.33.240.8:8080/Match_HD/index.m3u8
+
+#EXTINF:-1, MATH 🇷🇺
+http://am01.spr24.net/255/mpegts?token=7t4p47A93etzsd
 
 #EXTINF:-1,МАТЧ ПРЕМЬЕР HD 🇷🇺 
 http://79.124.21.251:9770/play/a005
@@ -701,6 +710,27 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 
 #EXTINF:-1, Qirguistán sport 🇰🇬
 http://89.254.128.5:22280/qsport/index.m3u8
+
+#EXTINF:-1, 1 SPORT ISRAEL
+http://am01.spr24.net/21522/mpegts?token=7t4p47A93etzsd
+
+#EXTINF:-1, 2 SPORT ISRAEL
+http://am01.spr24.net/21521/mpegts?token=7t4p47A93etzsd
+
+#EXTINF:-1, 3 SPORT ISRAEL
+http://am01.spr24.net/21565/mpegts?token=7t4p47A93etzsd
+
+#EXTINF:-1, 4 SPORT ISRAEL
+http://am01.spr24.net/21566/mpegts?token=7t4p47A93etzsd
+
+#EXTINF:-1, 5 SPORT ISRAEL
+http://am01.spr24.net/21569/mpegts?token=7t4p47A93etzsd
+
+#EXTINF:-1, 5 SPORT STARS ISRAEL
+http://am01.spr24.net/21507/mpegts?token=7t4p47A93etzsd
+
+#EXTINF:-1, 5 SPORT LIVE ISRAEL
+http://am01.spr24.net/21531/mpegts?token=7t4p47A93etzsd
 
 #EXTINF:-1, NOVA SPORTS START 🇬🇷
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-GjqT3a75ko46LKD1eben_
