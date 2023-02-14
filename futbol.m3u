@@ -12,6 +12,9 @@ http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1, MAX SPORT 3HD 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport3_web.m3u8
 
+#EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
+http://95.217.196.109:8081/russia/match_futbol_2/playlist.m3u8
+
 #EXTINF:-1,RMC SPORT 1 🇨🇵
 http://77.207.0.25:4000/play/a038 
 
