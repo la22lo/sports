@@ -9,6 +9,12 @@ http://93.155.227.38:555/m3u8/webmtelsport3_web.m3u8
 #EXTINF:-1, CANAL 10 🇦🇷
 https://videosenlared.fullstreaming.ar:3015/live/canal10live.m3u8
 
+#EXTINF:-1, EXXEN SPORT 1 🇹🇷
+http://lider-server.tk:8080/Mserver11/Adam123/110483
+
+#EXTINF:-1, EXXEN SPORT 2 🇹🇷
+http://lider-server.tk:8080/Mserver11/Adam123/110484
+
 #EXTINF:-1,RMC SPORT 1 🇨🇵
 http://77.207.0.25:4000/play/a038 
 
