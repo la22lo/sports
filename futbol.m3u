@@ -1080,5 +1080,14 @@ https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8
 #EXTINF:-1, BEIN 1
 http://14.192.129.134/bein1/index.m3u8
 
+#EXTINF:-1, BEIN 2
+http://14.192.129.134/bein2/index.m3u8
+
+#EXTINF:-1, BEIN 3
+http://14.192.129.134/bein3/index.m3u8
+
+#EXTINF:-1, BEIN 4
+http://14.192.129.134/bein4/index.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
