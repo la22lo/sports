@@ -12,6 +12,9 @@ http://93.155.227.38:555/m3u8/webmtelsport3_web.m3u8
 #EXTINF:-1,RMC SPORT 1 🇨🇵
 http://77.207.0.25:4000/play/a038 
 
+#EXTINF:-1,TV2 SPORT PREMIUM 🇳🇴
+http://sansat.net:25461/ANY7OFTLOTNKY0T/JMPGBY5MCB9BCZK/101035
+
 
 #EXTINF:-1, MAX SPORT 4HD 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
