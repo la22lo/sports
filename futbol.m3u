@@ -27,6 +27,9 @@ http://bandookk.xyz:8000/xiptv/rHpRkE91W2/176
 #EXTINF:-1, beIN SPORTS 1 PREMIUM 🇶🇦
 http://88.99.216.157:5080/WebRTCApp/streams/Bein1_Premuim.m3u8
 
+#EXTINF:-1, beIN SPORTS 1 PREMIUM 🇶🇦
+http://smartes-plus.com:1996/45164733095066/45164733095066/108615
+
 #EXTINF:-1,BT SPORT 2 🇬🇧
 http://thehive.tv:25461/kevinburrell/kevinburrell22/6590
 
@@ -72,6 +75,9 @@ http://180.178.188.152:8000/play/a0ad
 #EXTINF:-1,T Sports 🇧🇩
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 
+#EXTINF:-1, beIN SPORTS 1 🇶🇦
+http://88.99.216.157:5080/WebRTCApp/streams/Bein1.m3u8
+
 #EXTINF:-1, beIN Sports 1 🇶🇦
 https://live.eagleeye.capital:443/razkorazko/razkorazko/9310.ts
 
@@ -79,7 +85,7 @@ https://live.eagleeye.capital:443/razkorazko/razkorazko/9310.ts
 http://167.172.17.19/BeinSports1HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
-http://88.99.216.157:5080/WebRTCApp/streams/Bein1.m3u8
+http://smartes-plus.com:1996/45164733095066/45164733095066/108618
 
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 http://185.191.124.105:25461/raminp/TAQhPJncSa/44517
