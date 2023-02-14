@@ -61,7 +61,7 @@ http://fanatik12.xyz:80/live/almandagitim/Fesr6un8Yjcz/106293.ts
 http://51.158.36.81:18000/M_LaLiga/hls/playlist.m3u8
 
 #EXTINF:-1, M LALIGA 🇪🇸
-http://xone8.1222908.net:80/live/559912B0380379ED95C397C46957B9DF/323597.m3u8
+https://h7lya1.2embed.sbs/cdn/BXaQAanLKPZ/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, DAZN LALIGA 🇪🇸
 http://212.224.84.217:2200/NL/daznlaliga1-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
@@ -1095,13 +1095,7 @@ https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8
 #EXTINF:-1, BEIN 1
 http://14.192.129.134/bein1/index.m3u8
 
-#EXTINF:-1,La liga TV
-https://h7lya1.2embed.sbs/cdn/ZDUfOFldOZ40/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,ESPN
-https://h7lya1.2embed.sbs/cdn/BXaQAanLKPZ/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Aa
+#EXTINF:-1,BEIN 1
 https://h7lya1.2embed.sbs/cdn/Mdplz23MNkdi/tracks-v1a1/mono.m3u8?token=e03dd78c11aeff5f03008062eff6aa93aff968c0-af5e7973d327e743e3bba6c19db192c2--
 
 #EXTINF:-1, REAL MADRID TV
