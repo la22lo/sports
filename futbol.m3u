@@ -1077,5 +1077,8 @@ https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 #EXTINF:-1, WEBOTV 🇷🇺
 https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8
 
+#EXTINF:-1, BEIN 1
+http://14.192.129.134/bein1/index.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
