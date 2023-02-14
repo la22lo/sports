@@ -27,6 +27,9 @@ http://bandookk.xyz:8000/xiptv/rHpRkE91W2/176
 #EXTINF:-1, beIN SPORTS 1 PREMIUM 🇶🇦
 http://88.99.216.157:5080/WebRTCApp/streams/Bein1_Premuim.m3u8
 
+#EXTINF:-1, beIN SPORTS 1 PREMIUM 🇶🇦
+http://master-pro.live:8080/000000/000000/18121
+
 #EXTINF:-1,BT SPORT 2 🇬🇧
 http://thehive.tv:25461/kevinburrell/kevinburrell22/6590
 
@@ -86,6 +89,9 @@ http://185.191.124.105:25461/raminp/TAQhPJncSa/44517
 
 #EXTINF:-1, beIN Sports 1 🇶🇦
 http://bandookk.xyz:8000/xiptv/rHpRkE91W2/23587
+
+#EXTINF:-1, beIN Sports 1 🇶🇦
+http://master-pro.live:8080/000000/000000/18124
 
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://185.191.124.105:25461/raminp/TAQhPJncSa/15964
