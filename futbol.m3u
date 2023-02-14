@@ -1101,5 +1101,8 @@ https://h7lya1.2embed.sbs/cdn/ZDUfOFldOZ40/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ESPN
 https://h7lya1.2embed.sbs/cdn/BXaQAanLKPZ/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,Aa
+https://h7lya1.2embed.sbs/cdn/Mdplz23MNkdi/tracks-v1a1/mono.m3u8?token=e03dd78c11aeff5f03008062eff6aa93aff968c0-af5e7973d327e743e3bba6c19db192c2--
+
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
