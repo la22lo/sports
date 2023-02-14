@@ -1095,5 +1095,11 @@ https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8
 #EXTINF:-1, BEIN 1
 http://14.192.129.134/bein1/index.m3u8
 
+#EXTINF:-1,La liga TV
+https://h7lya1.2embed.sbs/cdn/ZDUfOFldOZ40/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ESPN
+https://h7lya1.2embed.sbs/cdn/BXaQAanLKPZ/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
