@@ -409,6 +409,12 @@ http://yusf.ddns.net:5080/WebRTCApp/streams/Bein7.m3u8
 #EXTINF:-1, beIN SPORTS 1 PREMIUM 🇶🇦
 http://88.99.216.157:5080/WebRTCApp/streams/Bein1_Premuim.m3u8
 
+#EXTINF:-1, beIN SPORTS 2 PREMIUM 🇶🇦
+http://88.99.216.157:5080/WebRTCApp/streams/Bein2_Premuim.m3u8
+
+#EXTINF:-1, beIN SPORTS 3 PREMIUM 🇶🇦
+http://88.99.216.157:5080/WebRTCApp/streams/Bein3_Premuim.m3u8
+
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 http://88.99.216.157:5080/WebRTCApp/streams/Bein1.m3u8
 
