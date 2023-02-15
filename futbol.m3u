@@ -1156,5 +1156,11 @@ https://sc.id-tv.kz:443/Q_Sport_HD_34_35.m3u8
 #EXTINF:-1 ,ELEVEN体育二台
 http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 
+#EXTINF: -1, BEIN SPORTS 1 IND
+http://iptvid.my.id/hmm/bskunyak1.m3u8
+
+#EXTINF: -1, BEIN SPORTS 3 IND
+http://iptvid.my.id/hmm/bskunyak2.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
