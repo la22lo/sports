@@ -1144,23 +1144,5 @@ http://14.192.129.134/bein1/index.m3u8
 #EXTINF:-1,BEIN 1
 https://h7lya1.2embed.sbs/cdn/Mdplz23MNkdi/tracks-v1a1/mono.m3u8?token=e03dd78c11aeff5f03008062eff6aa93aff968c0-af5e7973d327e743e3bba6c19db192c2--
 
-#EXTINF:-1, 澳门体育
-http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
-
-#EXTINF:-1, MTV HD+ india
-http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, Q Sport HD
-https://sc.id-tv.kz:443/Q_Sport_HD_34_35.m3u8
-
-#EXTINF:-1 ,ELEVEN体育二台
-http://61.221.81.93:8078/hls/26/80/esport2.m3u8
-
-#EXTINF: -1, BEIN SPORTS 1 IND
-http://iptvid.my.id/hmm/bskunyak1.m3u8
-
-#EXTINF: -1, BEIN SPORTS 3 IND
-http://iptvid.my.id/hmm/bskunyak2.m3u8
-
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
