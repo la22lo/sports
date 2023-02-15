@@ -39,6 +39,9 @@ https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1,Arena 1 HD  🇧🇦
 http://94.250.2.6:7374/play/a02m/index.m3u8
 
+#EXTINF:-1,Digi Sport 4
+http://51.159.213.59:8000/play/a00v/index.m3u8
+
 
 
 
@@ -570,6 +573,9 @@ http://rn2yfxko.tvclub.xyz/iptv/WP3PZRYBCGTFUB/19156/index.m3u8
 
 #EXTINF:-1,ESPN 2 🇺🇸
 http://rn2yfxko.tvclub.xyz/iptv/WP3PZRYBCGTFUB/19155/index.m3u8
+
+#EXTINF:-1,RTSH SPORT 🇦🇱
+http://79.106.48.2:8800/play/a01w/index.m3u8
 
 #EXTINF:-1,RTSH SPORT 🇦🇱
 http://restream.skyhd-iptv.com:25461/klm/AavHvGXGQG/199
@@ -1143,6 +1149,18 @@ http://14.192.129.134/bein1/index.m3u8
 
 #EXTINF:-1,BEIN 1
 https://h7lya1.2embed.sbs/cdn/Mdplz23MNkdi/tracks-v1a1/mono.m3u8?token=e03dd78c11aeff5f03008062eff6aa93aff968c0-af5e7973d327e743e3bba6c19db192c2--
+
+#EXTINF:-1,Digi Sport 1 RO
+http://51.159.213.59:8000/play/a00n/index.m3u8
+
+#EXTINF:-1,Digi Sport 2 RO
+http://51.159.213.59:8000/play/a00q/index.m3u8
+
+#EXTINF:-1,Digi Sport 3 RO
+http://51.159.213.59:8000/play/a00s/index.m3u8
+
+#EXTINF:-1,Digi Sport 4 FHD RO
+http://51.159.213.59:8000/play/a00v/index.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
