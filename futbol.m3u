@@ -1185,6 +1185,28 @@ http://200.110.169.237:8202/play/a01m
 http://200.110.169.237:8202/play/a02f
 #EXTINF:-1,ESPN CO
 http://200.110.169.237:8202/play/a03h
+#EXTINF:-1,ESPN +
+http://190.61.101.9:8000/play/a01q/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://190.61.101.9:8000/play/a03c/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://190.61.101.9:8000/play/a03b/index.m3u8
+#EXTINF:-1,ESPN 4
+http://190.61.101.9:8000/play/a02c/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://190.61.101.9:8000/play/a02s/index.m3u8
+#EXTINF:-1,ESPN HD
+http://190.61.101.9:8000/play/a03a/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://190.5.200.52:8000/play/a00i/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://190.5.200.52:8000/play/a00g/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://190.5.200.52:8000/play/a00k/index.m3u8
+#EXTINF:-1,ESPN EXTRA HD
+http://190.5.200.52:8000/play/a018/index.m3u8
+#EXTINF:-1,ESPN HD
+http://190.5.200.52:8000/play/a01g/index.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
