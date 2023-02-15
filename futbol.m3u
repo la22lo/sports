@@ -1,5 +1,31 @@
 #EXTM3U
 
+#EXTINF:-1, MAX SPORT 4HD 🇧🇬
+http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
+
+#EXTINF:-1, S SPORT 🇹🇷
+http://lider-server.tk:8080/Mserver11/Adam123/110496
+
+#EXTINF:-1, S SPORT 🇹🇷
+http://fanatik12.xyz:80/live/almandagitim/Fesr6un8Yjcz/106293.ts
+
+#EXTINF:-1, beIN SPORTS 1 🇶🇦
+http://88.99.216.157:5080/WebRTCApp/streams/Bein1.m3u8
+
+#EXTINF:-1, Supersport LALIGA 🇿🇦
+https://enjoy4k.shop:30445/live/abr_ch4/playlist.m3u8
+
+#EXTINF:-1,A SportsHD 🇮🇳
+http://pakin.worldtvip.co/pk_asports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,A SportsHD 🇮🇳
+http://180.178.188.152:8000/play/a0ad
+
+#EXTINF:-1,T Sports 🇧🇩
+https://live.tsports.com/live/tsports_live_720/index.m3u8
+
+
+
 #EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
 http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 
