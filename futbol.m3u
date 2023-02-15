@@ -39,6 +39,9 @@ https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1,Arena 1 HD  🇧🇦
 http://94.250.2.6:7374/play/a02m/index.m3u8
 
+#EXTINF:-1,Digi Sport 4 FHD RO 🇷🇴
+http://51.159.213.59:8000/play/a00v/index.m3u8
+
 
 
 
@@ -698,28 +701,28 @@ http://94.156.59.247:8899/udp/224.156.69.138:5000
 #EXTINF:-1,Diema Sport 3 🇧🇬
 http://94.156.59.247:8899/udp/224.156.69.137:5000
 
-#EXTINF:-1,Digi Sport 1 RO
+#EXTINF:-1,Digi Sport 1 RO 🇷🇴
 http://51.159.213.59:8000/play/a00n/index.m3u8
 
-#EXTINF:-1,Digi Sport 2 RO
+#EXTINF:-1,Digi Sport 2 RO 🇷🇴
 http://51.159.213.59:8000/play/a00q/index.m3u8
 
-#EXTINF:-1,Digi Sport 3 RO
+#EXTINF:-1,Digi Sport 3 RO 🇷🇴
 http://51.159.213.59:8000/play/a00s/index.m3u8
 
-#EXTINF:-1,Digi Sport 4 FHD RO
+#EXTINF:-1,Digi Sport 4 FHD RO 🇷🇴
 http://51.159.213.59:8000/play/a00v/index.m3u8
 
-#EXTINF:-1,Orange Sport 1 HD RO
+#EXTINF:-1,Orange Sport 1 HD RO 🇷🇴
 http://51.159.213.59:8000/play/a00w/index.m3u8
 
-#EXTINF:-1,Orange Sport 2 FHD RO
+#EXTINF:-1,Orange Sport 2 FHD RO 🇷🇴
 http://51.159.213.59:8000/play/a00z/index.m3u8
 
-#EXTINF:-1,Orange Sport 3 FHD RO
+#EXTINF:-1,Orange Sport 3 FHD RO 🇷🇴
 http://51.159.213.59:8000/play/a011/index.m3u8
 
-#EXTINF:-1,Orange Sport 4 FHD RO
+#EXTINF:-1,Orange Sport 4 FHD RO 🇷🇴
 http://51.159.213.59:8000/play/a013/index.m3u8
 
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
