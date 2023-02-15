@@ -12,6 +12,9 @@ https://livetv.mylifeisgood.ml/channels/setantahd.m3u8
 #EXTINF:-1,Setanta Sports 1 HD 🇷🇺
 http://195.2.74.99/channel/n1269af8b/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
 
+#EXTINF:-1, WEBOTV 3 🇷🇺
+https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8
+
 #EXTINF:-1, S SPORT 🇹🇷
 http://lider-server.tk:8080/Mserver11/Adam123/110496
 
@@ -1142,11 +1145,14 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, WEBOTV 🇷🇺
+#EXTINF:-1, WEBOTV 1 🇷🇺
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 
-#EXTINF:-1, WEBOTV 🇷🇺
+#EXTINF:-1, WEBOTV 2 🇷🇺
 https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8
+
+#EXTINF:-1, WEBOTV 3 🇷🇺
+https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8
 
 #EXTINF:-1,BEIN 1
 https://h7lya1.2embed.sbs/cdn/Mdplz23MNkdi/tracks-v1a1/mono.m3u8?token=e03dd78c11aeff5f03008062eff6aa93aff968c0-af5e7973d327e743e3bba6c19db192c2--
