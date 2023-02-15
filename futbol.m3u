@@ -9,6 +9,15 @@ http://lider-server.tk:8080/Mserver11/Adam123/110496
 #EXTINF:-1, S SPORT 🇹🇷
 http://fanatik12.xyz:80/live/almandagitim/Fesr6un8Yjcz/106293.ts
 
+#EXTINF:-1, ESPN 2 🇦🇷
+http://204.157.255.135:20001/play/a064/index.m3u8
+
+#EXTINF:-1, ESPN 2 🇦🇷
+http://191.102.90.97:8000/play/a0jd/index.m3u8
+
+#EXTINF:-1, ESPN 2 🇦🇷
+http://181.189.246.86:58003/play/a02j/index.m3u8
+
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 http://88.99.216.157:5080/WebRTCApp/streams/Bein1.m3u8
 
@@ -27,7 +36,17 @@ http://180.178.188.152:8000/play/a0ad
 #EXTINF:-1,T Sports 🇧🇩
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 
+#EXTINF:-1,Arena 1 HD  🇧🇦
+http://94.250.2.6:7374/play/a02m/index.m3u8
 
+
+
+
+#EXTINF:-1, EXXEN SPORT 1 🇹🇷
+http://lider-server.tk:8080/Mserver11/Adam123/110483
+
+#EXTINF:-1, EXXEN SPORT 2 🇹🇷
+http://lider-server.tk:8080/Mserver11/Adam123/110484
 
 #EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
 http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
@@ -37,15 +56,6 @@ http://93.155.227.38:555/m3u8/webmtelsport3_web.m3u8
 
 #EXTINF:-1, CANAL 10 🇦🇷
 https://videosenlared.fullstreaming.ar:3015/live/canal10live.m3u8
-
-#EXTINF:-1, EXXEN SPORT 1 🇹🇷
-http://lider-server.tk:8080/Mserver11/Adam123/110483
-
-#EXTINF:-1, EXXEN SPORT 2 🇹🇷
-http://lider-server.tk:8080/Mserver11/Adam123/110484
-
-#EXTINF:-1,RMC SPORT 1 🇨🇵
-http://77.207.0.25:4000/play/a038 
 
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://185.191.124.105:25461/raminp/TAQhPJncSa/15961
@@ -64,12 +74,6 @@ http://88.99.216.157:5080/WebRTCApp/streams/Bein1_Premuim.m3u8
 
 #EXTINF:-1, beIN SPORTS 1 PREMIUM 🇶🇦
 http://master-pro.live:8080/000000/000000/18121
-
-#EXTINF:-1,BT SPORT 2 🇬🇧
-http://thehive.tv:25461/kevinburrell/kevinburrell22/6590
-
-#EXTINF:-1,BT SPORT 2 🇬🇧
-http://bandookk.xyz:8000/xiptv/rHpRkE91W2/10502
 
 #EXTINF:-1,TUDN HD USA 🇲🇽
 http://45.182.21.251:33334/play/a077/index.m3u8
