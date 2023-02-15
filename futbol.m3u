@@ -55,9 +55,6 @@ http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1, beIN SPORTS 1 PREMIUM 🇶🇦
 http://88.99.216.157:5080/WebRTCApp/streams/Bein1_Premuim.m3u8
 
-#EXTINF:-1, beIN SPORTS 1 PREMIUM 🇶🇦
-http://master-pro.live:8080/000000/000000/18121
-
 #EXTINF:-1, beIN SPORTS 3 PREMIUM 🇶🇦
 http://88.99.216.157:5080/WebRTCApp/streams/Bein3_Premuim.m3u8
 
