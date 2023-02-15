@@ -6,6 +6,12 @@ http://212.224.84.217:2200/NL/daznlaliga1-esp/index.m3u8?token=CXtoCQYVe3FncwIUN
 #EXTINF:-1, MAX SPORT 4HD 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
+#EXTINF:-1,Setanta Sports 1 HD 🇷🇺
+https://livetv.mylifeisgood.ml/channels/setantahd.m3u8
+
+#EXTINF:-1,Setanta Sports 1 HD 🇷🇺
+http://195.2.74.99/channel/n1269af8b/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+
 #EXTINF:-1, S SPORT 🇹🇷
 http://lider-server.tk:8080/Mserver11/Adam123/110496
 
@@ -184,9 +190,6 @@ https://livetv.mylifeisgood.ml/channels/setantahd
 
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
 https://livetv.mylifeisgood.ml/channels/setantaplus
-
-#EXTINF:-1,Setanta Sports 1 HD 🇺🇦
-http://89.254.128.5:22280/setanta_sports_hd/video.m3u8
 
 #EXTINF:-1,Setanta Ukraine + 🇺🇦
 http://95.67.12.89:9013
@@ -610,15 +613,6 @@ http://79.106.48.2:8800/play/a01w/index.m3u8
 
 #EXTINF:-1,RTSH SPORT 🇦🇱
 http://restream.skyhd-iptv.com:25461/klm/AavHvGXGQG/199
-
-#EXTINF:-1, VIVARO SPORT 🇦🇲
-http://iptv.home-iptv.ru:25500/play/vmedia/index.m3u8?token=armenia
-
-#EXTINF:-1, VIVARO SPORT + 🇦🇲
-http://iptv.home-iptv.ru:25500/play/vmediaplus/index.m3u8?token=armenia
-
-#EXTINF:-1,Vivaro Arena 🇦🇲
-http://iptv.home-iptv.ru:25500/play/varena/index.m3u8?token=armenia
 
 #EXTINF:-1,Arena 1 HD 🇷🇸
 http://94.250.2.6:7374/play/a02m/index.m3u8
