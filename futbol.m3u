@@ -39,8 +39,6 @@ https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1,Arena 1 HD  🇧🇦
 http://94.250.2.6:7374/play/a02m/index.m3u8
 
-#EXTINF:-1,Digi Sport 4
-http://51.159.213.59:8000/play/a00v/index.m3u8
 
 
 
@@ -526,6 +524,9 @@ http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=1673204766768
 #EXTINF:-1,Bein sport1 🇬🇧
 http://14.192.129.134:80/bein1/index.m3u8 
 
+#EXTINF:-1, BEIN 1 🇬🇧
+http://14.192.129.134/bein1/index.m3u8
+
 #EXTINF:-1,beIN Sports 1 English HD 🇬🇧
 http://bandookk.xyz:8000/xiptv/rHpRkE91W2/23572
 
@@ -696,6 +697,30 @@ http://94.156.59.247:8899/udp/224.156.69.138:5000
 
 #EXTINF:-1,Diema Sport 3 🇧🇬
 http://94.156.59.247:8899/udp/224.156.69.137:5000
+
+#EXTINF:-1,Digi Sport 1 RO
+http://51.159.213.59:8000/play/a00n/index.m3u8
+
+#EXTINF:-1,Digi Sport 2 RO
+http://51.159.213.59:8000/play/a00q/index.m3u8
+
+#EXTINF:-1,Digi Sport 3 RO
+http://51.159.213.59:8000/play/a00s/index.m3u8
+
+#EXTINF:-1,Digi Sport 4 FHD RO
+http://51.159.213.59:8000/play/a00v/index.m3u8
+
+#EXTINF:-1,Orange Sport 1 HD RO
+http://51.159.213.59:8000/play/a00w/index.m3u8
+
+#EXTINF:-1,Orange Sport 2 FHD RO
+http://51.159.213.59:8000/play/a00z/index.m3u8
+
+#EXTINF:-1,Orange Sport 3 FHD RO
+http://51.159.213.59:8000/play/a011/index.m3u8
+
+#EXTINF:-1,Orange Sport 4 FHD RO
+http://51.159.213.59:8000/play/a013/index.m3u8
 
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
@@ -1144,56 +1169,8 @@ https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 #EXTINF:-1, WEBOTV 🇷🇺
 https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8
 
-#EXTINF:-1, BEIN 1
-http://14.192.129.134/bein1/index.m3u8
-
 #EXTINF:-1,BEIN 1
 https://h7lya1.2embed.sbs/cdn/Mdplz23MNkdi/tracks-v1a1/mono.m3u8?token=e03dd78c11aeff5f03008062eff6aa93aff968c0-af5e7973d327e743e3bba6c19db192c2--
-
-#EXTINF:-1,Digi Sport 1 RO
-http://51.159.213.59:8000/play/a00n/index.m3u8
-
-#EXTINF:-1,Digi Sport 2 RO
-http://51.159.213.59:8000/play/a00q/index.m3u8
-
-#EXTINF:-1,Digi Sport 3 RO
-http://51.159.213.59:8000/play/a00s/index.m3u8
-
-#EXTINF:-1,Digi Sport 4 FHD RO
-http://51.159.213.59:8000/play/a00v/index.m3u8
-
-#EXTINF:-1,Orange Sport 1 HD RO
-http://51.159.213.59:8000/play/a00w/index.m3u8
-
-#EXTINF:-1,Orange Sport 2 FHD RO
-http://51.159.213.59:8000/play/a00z/index.m3u8
-
-#EXTINF:-1,Orange Sport 3 FHD RO
-http://51.159.213.59:8000/play/a011/index.m3u8
-
-#EXTINF:-1,Orange Sport 4 FHD RO
-http://51.159.213.59:8000/play/a013/index.m3u8
-
-#EXTINF:-1,PRIMA SPORT 1HD
-http://51.159.213.59:8000/play/a03c/index.m3u8
-
-#EXTINF:-1,PRIMA SPORT 2HD
-http://51.159.213.59:8000/play/a03d/index.m3u8
-
-#EXTINF:-1,PRIMA SPORT 3HD
-http://51.159.213.59:8000/play/a03e/index.m3u8
-
-#EXTINF:-1,ESPN HD
-http://45.191.196.40:8000/play/304
-
-#EXTINF:-1,ESPN2 HD
-http://45.191.196.40:8000/play/341
-
-#EXTINF:-1,ESPN3 HD
-http://45.191.196.40:8000/play/347
-
-#EXTINF:-1,ESPN4 HD
-http://45.191.196.40:8000/play/325
 
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
