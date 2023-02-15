@@ -1183,5 +1183,17 @@ http://51.159.213.59:8000/play/a03d/index.m3u8
 #EXTINF:-1,PRIMA SPORT 3HD
 http://51.159.213.59:8000/play/a03e/index.m3u8
 
+#EXTINF:-1,ESPN HD
+http://45.191.196.40:8000/play/304
+
+#EXTINF:-1,ESPN2 HD
+http://45.191.196.40:8000/play/341
+
+#EXTINF:-1,ESPN3 HD
+http://45.191.196.40:8000/play/347
+
+#EXTINF:-1,ESPN4 HD
+http://45.191.196.40:8000/play/325
+
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
