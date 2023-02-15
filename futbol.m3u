@@ -10,16 +10,13 @@ http://lider-server.tk:8080/Mserver11/Adam123/110496
 http://fanatik12.xyz:80/live/almandagitim/Fesr6un8Yjcz/106293.ts
 
 #EXTINF:-1, ESPN 3 🇦🇷
-http://181.189.246.86:58003/play/a02i/index.m3u8
-
-#EXTINF:-1, ESPN 3 🇦🇷
 http://191.102.90.97:8000/play/a079/index.m3u8
 
-#EXTINF:-1, ESPN 2 🇦🇷
-http://191.102.90.97:8000/play/a0jd/index.m3u8
+#EXTINF:-1, ESPN 3 🇦🇷
+http://170.83.242.8:5350/play/a00h
 
-#EXTINF:-1, ESPN 2 🇦🇷
-http://181.189.246.86:58003/play/a02j/index.m3u8
+#EXTINF:-1, ESPN 3 🇦🇷
+http://181.189.246.86:58003/play/a02i/index.m3u8
 
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 http://88.99.216.157:5080/WebRTCApp/streams/Bein1.m3u8
