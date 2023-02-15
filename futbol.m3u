@@ -9,11 +9,17 @@ http://lider-server.tk:8080/Mserver11/Adam123/110496
 #EXTINF:-1, S SPORT 🇹🇷
 http://fanatik12.xyz:80/live/almandagitim/Fesr6un8Yjcz/106293.ts
 
+#EXTINF:-1,ESPN 3 HD 🇦🇷
+http://190.5.200.52:8000/play/a00g/index.m3u8
+
 #EXTINF:-1, ESPN 3 🇦🇷
 http://191.102.90.97:8000/play/a079/index.m3u8
 
 #EXTINF:-1, ESPN 3 🇦🇷
 http://170.83.242.8:5350/play/a00h
+
+#EXTINF:-1,ESPN 3 🇦🇷
+http://200.110.169.237:8202/play/a02f
 
 #EXTINF:-1, ESPN 3 🇦🇷
 http://181.189.246.86:58003/play/a02i/index.m3u8
@@ -1175,38 +1181,53 @@ https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8
 #EXTINF:-1,BEIN 1
 https://h7lya1.2embed.sbs/cdn/Mdplz23MNkdi/tracks-v1a1/mono.m3u8?token=e03dd78c11aeff5f03008062eff6aa93aff968c0-af5e7973d327e743e3bba6c19db192c2--
 
-#EXTINF:-1,ESPN
-http://200.110.169.237:8202/play/a01n
-#EXTINF:-1,ESPN 2
-http://200.110.169.237:8202/play/a031
-#EXTINF:-1,ESPN 2 Latin
-http://200.110.169.237:8202/play/a01m
-#EXTINF:-1,ESPN 3
-http://200.110.169.237:8202/play/a02f
-#EXTINF:-1,ESPN CO
-http://200.110.169.237:8202/play/a03h
-#EXTINF:-1,ESPN +
-http://190.61.101.9:8000/play/a01q/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://190.61.101.9:8000/play/a03c/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://190.61.101.9:8000/play/a03b/index.m3u8
-#EXTINF:-1,ESPN 4
-http://190.61.101.9:8000/play/a02c/index.m3u8
-#EXTINF:-1,ESPN 4 HD
+#EXTINF:-1,ESPN 4 HD 🇲🇽 
 http://190.61.101.9:8000/play/a02s/index.m3u8
-#EXTINF:-1,ESPN HD
+
+#EXTINF:-1,ESPN HD 🇦🇷
 http://190.61.101.9:8000/play/a03a/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://190.5.200.52:8000/play/a00i/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://190.5.200.52:8000/play/a00g/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://190.5.200.52:8000/play/a00k/index.m3u8
-#EXTINF:-1,ESPN EXTRA HD
-http://190.5.200.52:8000/play/a018/index.m3u8
-#EXTINF:-1,ESPN HD
+
+#EXTINF:-1,ESPN HD 🇦🇷
 http://190.5.200.52:8000/play/a01g/index.m3u8
+
+#EXTINF:-1,ESPN 🇦🇷
+http://200.110.169.237:8202/play/a01n
+
+#EXTINF:-1,ESPN CO 🇨🇴
+http://200.110.169.237:8202/play/a03h
+
+#EXTINF:-1,ESPN 2 HD 🇦🇷
+http://190.5.200.52:8000/play/a00i/index.m3u8
+
+#EXTINF:-1,ESPN 2 🇦🇷
+http://200.110.169.237:8202/play/a031
+
+#EXTINF:-1,ESPN 2 Latin 🇦🇷
+http://200.110.169.237:8202/play/a01m
+
+#EXTINF:-1,ESPN 3 HD 🇦🇷
+http://190.5.200.52:8000/play/a00g/index.m3u8
+
+#EXTINF:-1,ESPN 3 🇦🇷
+http://200.110.169.237:8202/play/a02f
+
+#EXTINF:-1,ESPN 4 HD 🇦🇷
+http://190.5.200.52:8000/play/a00k/index.m3u8
+
+#EXTINF:-1,ESPN EXTRA HD 🇦🇷
+http://190.5.200.52:8000/play/a018/index.m3u8
+
+#EXTINF:-1,ESPN EXTRA 🇦🇷
+http://190.61.101.9:8000/play/a01q/index.m3u8
+
+#EXTINF:-1,ESPN 2 HD 🇲🇽 
+http://190.61.101.9:8000/play/a03c/index.m3u8
+
+#EXTINF:-1,ESPN 3 HD 🇲🇽 
+http://190.61.101.9:8000/play/a03b/index.m3u8
+
+#EXTINF:-1,ESPN 4 🇲🇽 
+http://190.61.101.9:8000/play/a02c/index.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
