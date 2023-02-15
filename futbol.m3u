@@ -1162,5 +1162,26 @@ http://51.159.213.59:8000/play/a00s/index.m3u8
 #EXTINF:-1,Digi Sport 4 FHD RO
 http://51.159.213.59:8000/play/a00v/index.m3u8
 
+#EXTINF:-1,Orange Sport 1 HD RO
+http://51.159.213.59:8000/play/a00w/index.m3u8
+
+#EXTINF:-1,Orange Sport 2 FHD RO
+http://51.159.213.59:8000/play/a00z/index.m3u8
+
+#EXTINF:-1,Orange Sport 3 FHD RO
+http://51.159.213.59:8000/play/a011/index.m3u8
+
+#EXTINF:-1,Orange Sport 4 FHD RO
+http://51.159.213.59:8000/play/a013/index.m3u8
+
+#EXTINF:-1,PRIMA SPORT 1HD
+http://51.159.213.59:8000/play/a03c/index.m3u8
+
+#EXTINF:-1,PRIMA SPORT 2HD
+http://51.159.213.59:8000/play/a03d/index.m3u8
+
+#EXTINF:-1,PRIMA SPORT 3HD
+http://51.159.213.59:8000/play/a03e/index.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
