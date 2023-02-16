@@ -1230,6 +1230,16 @@ http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/89640
 http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/89648
 #EXTINF:-1, SPORT TV 2 HD 
 http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/89611
+#EXTINF:-1, ESPN
+http://45.184.111.156:8000/play/a0bh/index.m3u8
+#EXTINF:-1, ESPN
+http://45.184.111.156:8000/play/a0cn/index.m3u8
+#EXTINF:-1, ESPN 2
+http://45.184.111.156:8000/play/a0b5/index.m3u8
+#EXTINF:-1, ESPN 2
+http://45.184.111.156:8000/play/a0bg/index.m3u8
+#EXTINF:-1, ESPN 3   
+http://45.184.111.156:8000/play/a0dv/index.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
