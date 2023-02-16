@@ -1224,9 +1224,5 @@ http://45.182.21.251:33334/play/a077/index.m3u8
 #EXTINF:-1, CANAL 10 🇦🇷
 https://videosenlared.fullstreaming.ar:3015/live/canal10live.m3u8
 
-#EXTINF:-1, ORF+ SPORT
-https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
-
-
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
