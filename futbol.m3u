@@ -33,6 +33,12 @@ http://14.192.129.134/bein1/index.m3u8
 #EXTINF:-1,RMC SPORT 3 🇨🇵
 http://77.207.0.25:4000/play/a03y
 
+#EXTINF:-1,BT SPORT 2 🇬🇧
+http://212.224.84.217:2200/EX/UKSD_BT_Sport_2_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+
+#EXTINF:-1,BT SPORT 2 🇬🇧
+http://195.154.179.234:1234/stream/btsport2/stream.m3u8
+
 
 
 
@@ -605,6 +611,24 @@ http://bandookk.xyz:8000/xiptv/rHpRkE91W2/146
 
 #EXTINF:-1,BT SPORT 4 🇬🇧
 http://thehive.tv:25461/kevinburrell/kevinburrell22/6597
+
+#EXTINF:-1,BT SPORT 1 🇬🇧
+http://212.224.84.217:2200/EX/UKSD_BT_Sport_1_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+
+#EXTINF:-1,BT SPORT 1 🇬🇧
+http://195.154.179.234:1234/stream/btsport1/stream.m3u8
+
+#EXTINF:-1,BT SPORT 1 🇬🇧
+http://ku3.worldtvip.co/uk_bt_sports_1_hd/index.m3u8?token=924ea83b1945763373380821c2d61863
+
+#EXTINF:-1,BT SPORT 2 🇬🇧
+http://212.224.84.217:2200/EX/UKSD_BT_Sport_2_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+
+#EXTINF:-1,BT SPORT 2 🇬🇧
+http://195.154.179.234:1234/stream/btsport2/stream.m3u8
+
+#EXTINF:-1,BT SPORT 2 🇬🇧
+http://ku3.worldtvip.co/uk_bt_sports_2_hd/index.m3u8?token=924ea83b1945763373380821c2d61863
 
 #EXTINF:-1, SUPER GRANDSTAND 🇬🇧
 http://thehive.tv:25461/kevinburrell/kevinburrell22/305
