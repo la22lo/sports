@@ -1205,7 +1205,24 @@ http://45.182.21.251:33334/play/a077/index.m3u8
 https://videosenlared.fullstreaming.ar:3015/live/canal10live.m3u8
 
 
-
+#EXTINF:-1, Beinsport 1 arb
+http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
+#EXTINF:-1, Beinsport 2 arb
+http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
+#EXTINF:-1, Beinsport 3 arb
+http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347
+#EXTINF:-1, ARENASPORT 1
+http://93.155.227.38:555/m3u8/arenasport1.m3u8
+#EXTINF:-1, ARENASPORT 2
+http://93.155.227.38:555/m3u8/arenasport2.m3u8
+#EXTINF:-1, ARENASPORT 3
+http://93.155.227.38:555/m3u8/arenasport3.m3u8
+#EXTINF:-1, ARENASPORT 4
+http://93.155.227.38:555/m3u8/arenasport4.m3u8
+#EXTINF:-1, ARENASPORT 5
+http://93.155.227.38:555/m3u8/arenasport5.m3u8
+#EXTINF:-1, TSPORT
+https://live.tsports.com/live/tsports_live_720/index.m3u8
 
 
 #EXTINF:-1, REAL MADRID TV
