@@ -1,76 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1, LIGA CAMPEONES 🇪🇸
-http://212.224.84.217:2200/NL/mlcampeonhd-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
-
-#EXTINF:-1, MATH 🇷🇺
-https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
-
-#EXTINF:-1, MATH 🇷🇺
-https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
-
-#EXTINF:-1, MATH 🇷🇺
-https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
-
-#EXTINF:-1, MATH 🇷🇺
-https://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
-
-#EXTINF:-1, ESPN 🇦🇷
-http://191.102.90.97:8000/play/a08b/index.m3u8
-
-#EXTINF:-1, ESPN 🇦🇷
-http://170.83.242.8:5350/play/a00u
-
-#EXTINF:-1,ESPN 🇦🇷
-http://200.110.169.237:8202/play/a01n
-
-#EXTINF:-1, beIN SPORTS 1 PREMIUM 🇶🇦
-http://88.99.216.157:5080/WebRTCApp/streams/Bein1_Premuim.m3u8
-
-#EXTINF:-1, Beinsport 1 PREMIUM 🇶🇦
-http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
-
-#EXTINF:-1,SPORT TV 2 HD 🇵🇹
-http://thehive.tv:25461/kevinburrell/kevinburrell22/5471
-
-#EXTINF:-1,SPORT TV 2 HD 🇵🇹
-http://ccdntp.xyz:80/patrickiz/kgJea8tk4B/270715
-
-#EXTINF:-1, BEIN 1 🇬🇧
-http://14.192.129.134/bein1/index.m3u8
-
-#EXTINF:-1,RMC SPORT 3 🇨🇵
-http://77.207.0.25:4000/play/a03y
-
-#EXTINF:-1,BT SPORT 2 🇬🇧
-http://212.224.84.217:2200/EX/UKSD_BT_Sport_2_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-
-#EXTINF:-1,BT SPORT 2 🇬🇧
-http://195.154.179.234:1234/stream/btsport2/stream.m3u8
-
-#EXTINF:-1,BT SPORT 2 🇬🇧
-http://ku3.worldtvip.co/uk_bt_sports_2_hd/index.m3u8
-
-
-
-
 #EXTINF:-1, DAZN LALIGA 🇪🇸
 http://212.224.84.217:2200/NL/daznlaliga1-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
 
 #EXTINF:-1, MAX SPORT 4HD 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
-
-#EXTINF:-1, ESPN 2 VIVO 🇦🇷
-http://thehive.tv:25461/kevinburrell/kevinburrell22/4500
-
-#EXTINF:-1,Setanta Sports 1 HD 🇷🇺
-https://livetv.mylifeisgood.ml/channels/setantahd.m3u8
-
-#EXTINF:-1,Setanta Sports 1 HD 🇷🇺
-http://195.2.74.99/channel/n1269af8b/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
-
-#EXTINF:-1, WEBOTV 3 🇷🇺
-https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8
 
 #EXTINF:-1, S SPORT 🇹🇷
 http://lider-server.tk:8080/Mserver11/Adam123/110496
@@ -81,38 +15,11 @@ http://fanatik12.xyz:80/live/almandagitim/Fesr6un8Yjcz/106293.ts
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 http://88.99.216.157:5080/WebRTCApp/streams/Bein1.m3u8
 
-#EXTINF:-1, Eleven 4 HD 🇵🇹
-http://185.191.124.105:25461/raminp/TAQhPJncSa/15973
-
-#EXTINF:-1,Arena 1 HD  🇧🇦
-http://94.250.2.6:7374/play/a02m/index.m3u8
-
-#EXTINF:-1,Digi Sport 4 FHD RO 🇷🇴
-http://51.159.213.59:8000/play/a00v/index.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1, MAX SPORT 4HD 🇧🇬
-http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
-
-#EXTINF:-1, S SPORT 🇹🇷
-http://lider-server.tk:8080/Mserver11/Adam123/110496
-
-#EXTINF:-1, S SPORT 🇹🇷
-http://fanatik12.xyz:80/live/almandagitim/Fesr6un8Yjcz/106293.ts
-
 #EXTINF:-1, M LALIGA 🇪🇸
 http://51.158.36.81:18000/M_LaLiga/hls/playlist.m3u8
 
 #EXTINF:-1, M LALIGA 🇪🇸
 https://h7lya1.2embed.sbs/cdn/BXaQAanLKPZ/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, DAZN LALIGA 🇪🇸
-http://212.224.84.217:2200/NL/daznlaliga1-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
 
 #EXTINF:-1, Supersport LALIGA 🇿🇦
 https://enjoy4k.shop:30445/live/abr_ch4/playlist.m3u8
@@ -527,6 +434,9 @@ http://thehive.tv:25461/kevinburrell/kevinburrell22/5466
 
 #EXTINF:-1,SPORT TV 2 HD 🇵🇹
 http://thehive.tv:25461/kevinburrell/kevinburrell22/5471
+
+#EXTINF:-1,SPORT TV 2 HD 🇵🇹
+http://ccdntp.xyz:80/patrickiz/kgJea8tk4B/270715
 
 #EXTINF:-1,SPORT TV 3 HD 🇵🇹
 http://thehive.tv:25461/kevinburrell/kevinburrell22/5476
