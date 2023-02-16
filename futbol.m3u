@@ -1240,12 +1240,7 @@ http://45.184.111.156:8000/play/a0b5/index.m3u8
 http://45.184.111.156:8000/play/a0bg/index.m3u8
 #EXTINF:-1, ESPN 3   
 http://45.184.111.156:8000/play/a0dv/index.m3u8
-#EXTINF:-1,Eleven Sports 2
-http://61.58.60.230:9000/live/102.m3u8
-#EXTINF:-1,Eleven Sports 1
-http://61.58.60.230:9000/live/75.m3u8
-#EXTINF:-1,MATCH! FOOTBALL 3
-http://persik.by/stream/3903/293564/10268.m3u8
+
 
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
