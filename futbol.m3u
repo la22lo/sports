@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, LIGA CAMPEONES 🇪🇸
+http://212.224.84.217:2200/NL/mlcampeonhd-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
+
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
@@ -1179,6 +1182,8 @@ https://h7lya1.2embed.sbs/cdn/Mdplz23MNkdi/tracks-v1a1/mono.m3u8?token=e03dd78c1
 
 
 
+#EXTINF:-1, LIGA CAMPEONES 🇪🇸
+http://212.224.84.217:2200/NL/mlcampeonhd-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
 
 #EXTINF:-1, EXXEN SPORT 1 🇹🇷
 http://lider-server.tk:8080/Mserver11/Adam123/110483
@@ -1232,8 +1237,7 @@ http://93.155.227.38:555/m3u8/arenasport5.m3u8
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1, M LIGA
 http://212.224.84.217:2200/NL/mlaligahd-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
-#EXTINF:-1, LIGA CAMPEONES
-http://212.224.84.217:2200/NL/mlcampeonhd-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
+
 #EXTINF:-1, ELEVEN SPORTS 1 HD
 http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/89640
 #EXTINF:-1, ELEVEN SPORTS 2 FHD
