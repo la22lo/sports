@@ -1149,6 +1149,9 @@ https://admdn1ta.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/chunklist_
 #EXTINF:-1, ARAB CHANNEL 3 🇸🇦
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1000000=3-mp4a_130400_qad=1.m3u8
 
+#EXTINF:-1, ARAB CHANNEL 4 🇸🇦
+http://pakin.worldtvip.co/per_rta_hd/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, ARAB CHANNEL PREMIUM 🇸🇦
 http://103.145.13.31/7/index.m3u8
 
