@@ -15,8 +15,14 @@ https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
 #EXTINF:-1, MATH 🇷🇺
 https://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
 
-#EXTINF:-1, ESPN VIVO 🇦🇷
-http://thehive.tv:25461/kevinburrell/kevinburrell22/4498
+#EXTINF:-1, ESPN 🇦🇷
+http://191.102.90.97:8000/play/a08b/index.m3u8
+
+#EXTINF:-1, ESPN 🇦🇷
+http://170.83.242.8:5350/play/a00u
+
+#EXTINF:-1,ESPN 🇦🇷
+http://200.110.169.237:8202/play/a01n
 
 #EXTINF:-1, beIN SPORTS 1 PREMIUM 🇶🇦
 http://88.99.216.157:5080/WebRTCApp/streams/Bein1_Premuim.m3u8
