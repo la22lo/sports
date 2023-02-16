@@ -15,6 +15,9 @@ https://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
 #EXTINF:-1, beIN SPORTS 1 PREMIUM 🇶🇦
 http://88.99.216.157:5080/WebRTCApp/streams/Bein1_Premuim.m3u8
 
+#EXTINF:-1, Beinsport 1 PREMIUM 🇶🇦
+http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
+
 #EXTINF:-1,SPORT TV 2 HD 🇵🇹
 http://thehive.tv:25461/kevinburrell/kevinburrell22/5471
 
@@ -458,6 +461,15 @@ http://88.99.216.157:5080/WebRTCApp/streams/Bein4.m3u8
 
 #EXTINF:-1, beIN SPORTS 5 🇶🇦
 http://88.99.216.157:5080/WebRTCApp/streams/Bein5.m3u8
+
+#EXTINF:-1, Beinsport 1 PREMIUM 🇶🇦
+http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
+
+#EXTINF:-1, Beinsport 2 PREMIUM 🇶🇦
+http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
+
+#EXTINF:-1, Beinsport 3 PREMIUM 🇶🇦
+http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347
 
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://185.191.124.105:25461/raminp/TAQhPJncSa/15961
@@ -1205,12 +1217,7 @@ http://45.182.21.251:33334/play/a077/index.m3u8
 https://videosenlared.fullstreaming.ar:3015/live/canal10live.m3u8
 
 
-#EXTINF:-1, Beinsport 1 arb
-http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
-#EXTINF:-1, Beinsport 2 arb
-http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
-#EXTINF:-1, Beinsport 3 arb
-http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347
+
 #EXTINF:-1, ARENASPORT 1
 http://93.155.227.38:555/m3u8/arenasport1.m3u8
 #EXTINF:-1, ARENASPORT 2
