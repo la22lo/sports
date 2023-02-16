@@ -672,6 +672,9 @@ http://84.42.140.148:8880/hdmi
 #EXTINF:-1, SPORT PREMIUM 🇨🇿 
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 
+#EXTINF:-1, Setanta Sport 1 🇷🇺
+http://178.160.249.210:8001/play/a004/index.m3u8
+
 #EXTINF:-1,Setanta Sports 1 HD 🇷🇺
 https://livetv.mylifeisgood.ml/channels/setantahd
 
@@ -692,6 +695,9 @@ http://am01.spr24.net/933/mpegts?token=7t4p47A93etzsd
 
 #EXTINF:-1,Setanta Sports 1 HD 🇷🇺
 http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/271/index.m3u8
+
+#EXTINF:-1, Setanta Sport 2 🇷🇺
+http://178.160.249.210:8001/play/a005/index.m3u8
 
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
 https://livetv.mylifeisgood.ml/channels/setantaplus
@@ -728,6 +734,9 @@ https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
 
 #EXTINF:-1, MATH 🇷🇺
 https://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
+
+#EXTINF:-1, МАТЧ! 🇷🇺
+http://178.160.249.210:8000/play/a008/index.m3u8
 
 #EXTINF:-1, MATH 🇷🇺
 http://193.33.240.8:8080/Match_HD/index.m3u8
@@ -905,6 +914,9 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream
 
 #EXTINF:-1, TRT 1 🇹🇷
 http://195.155.98.170:5858/play/a09j?checkedby:iptvcat.com
+
+#EXTINF:-1, aspor
+http://66.160.192.241/aspor/index.m3u8
 
 #EXTINF:-1, SPORTV TUR 🇹🇷
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
@@ -1160,18 +1172,6 @@ https://mpdplayer.izqhjzepxsrvrwl.sbs:443/4862/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, BEIN SPORT 2 FRA
 https://mpdplayer.izqhjzepxsrvrwl.sbs:443/4863/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, Setanta Sport 1
-http://178.160.249.210:8001/play/a004/index.m3u8
-
-#EXTINF:-1, Setanta Sport 2
-http://178.160.249.210:8001/play/a005/index.m3u8
-
-#EXTINF:-1, МАТЧ!
-http://178.160.249.210:8000/play/a008/index.m3u8
-
-#EXTINF:-1, aspor
-http://66.160.192.241/aspor/index.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
