@@ -105,9 +105,6 @@ https://h7lya1.2embed.sbs/cdn/BXaQAanLKPZ/tracks-v1a1/mono.m3u8
 #EXTINF:-1, DAZN LALIGA 🇪🇸
 http://212.224.84.217:2200/NL/daznlaliga1-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
 
-#EXTINF:-1, BEIN 3 🇮🇩
-http://103.226.232.170:9002/play/a002/index.m3u8
-
 #EXTINF:-1, Supersport LALIGA 🇿🇦
 https://enjoy4k.shop:30445/live/abr_ch4/playlist.m3u8
 
@@ -176,12 +173,6 @@ http://62.182.82.104/BEINSPORT_1_HD/index.m3u8?token=test
 
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 http://yusf.ddns.net:5080/WebRTCApp/streams/Bein1.m3u8
-
-#EXTINF:-1, BEIN 1 🇮🇩
-http://103.226.232.170:9002/play/a001/index.m3u8
-
-#EXTINF:-1, BEIN 3 🇮🇩
-http://103.226.232.170:9002/play/a002/index.m3u8
 
 #EXTINF:-1, NOVA SPORTS 1 🇬🇷
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9esxppA5BEooxeg3onklIL
