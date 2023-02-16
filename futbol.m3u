@@ -1233,6 +1233,8 @@ http://93.155.227.38:555/m3u8/arenasport3.m3u8
 http://93.155.227.38:555/m3u8/arenasport4.m3u8
 #EXTINF:-1, ARENASPORT 5
 http://93.155.227.38:555/m3u8/arenasport5.m3u8
+#EXTINF:-1, ARENASPORT 6
+http://93.155.227.38:555/m3u8/arenasport6.m3u8
 #EXTINF:-1, TSPORT
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1, M LIGA
