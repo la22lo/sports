@@ -1131,8 +1131,35 @@ http://45.182.21.251:33334/play/a077/index.m3u8
 #EXTINF:-1, CANAL 10 🇦🇷
 https://videosenlared.fullstreaming.ar:3015/live/canal10live.m3u8
 
+
+
+
 #EXTINF:-1, BEIN 2 ENGLISH
 https://ua.aviator.tv/stream4/index.m3u8?
+
+#EXTINF:-1, MATH
+https://mpdplayer.izqhjzepxsrvrwl.sbs:443/4886/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, UNIMAS EN VIVO
+https://mpdplayer.izqhjzepxsrvrwl.sbs:443/4888/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, FS 1
+https://mpdplayer.izqhjzepxsrvrwl.sbs:443/4881/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, BT SPORT 1
+https://mpdplayer.izqhjzepxsrvrwl.sbs:443/4864/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, BT SPORT 2
+https://mpdplayer.izqhjzepxsrvrwl.sbs:443/4865/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, BT SPORT 3
+https://mpdplayer.izqhjzepxsrvrwl.sbs:443/4866/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, BEIN SPORT 1 FRA
+https://mpdplayer.izqhjzepxsrvrwl.sbs:443/4862/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, BEIN SPORT 2 FRA
+https://mpdplayer.izqhjzepxsrvrwl.sbs:443/4863/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
