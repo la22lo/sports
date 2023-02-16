@@ -1223,22 +1223,6 @@ https://videosenlared.fullstreaming.ar:3015/live/canal10live.m3u8
 
 
 
-#EXTINF:-1, ARENASPORT 1
-http://93.155.227.38:555/m3u8/arenasport1.m3u8
-#EXTINF:-1, ARENASPORT 2
-http://93.155.227.38:555/m3u8/arenasport2.m3u8
-#EXTINF:-1, ARENASPORT 3
-http://93.155.227.38:555/m3u8/arenasport3.m3u8
-#EXTINF:-1, ARENASPORT 4
-http://93.155.227.38:555/m3u8/arenasport4.m3u8
-#EXTINF:-1, ARENASPORT 5
-http://93.155.227.38:555/m3u8/arenasport5.m3u8
-#EXTINF:-1, ARENASPORT 6
-http://93.155.227.38:555/m3u8/arenasport6.m3u8
-#EXTINF:-1, TSPORT
-https://live.tsports.com/live/tsports_live_720/index.m3u8
-#EXTINF:-1, M LIGA
-http://212.224.84.217:2200/NL/mlaligahd-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
 
 #EXTINF:-1, ELEVEN SPORTS 1 HD
 http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/89640
