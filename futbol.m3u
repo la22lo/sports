@@ -1234,6 +1234,12 @@ https://live.tsports.com/live/tsports_live_720/index.m3u8
 http://212.224.84.217:2200/NL/mlaligahd-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
 #EXTINF:-1, LIGA CAMPEONES
 http://212.224.84.217:2200/NL/mlcampeonhd-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
+#EXTINF:-1, ELEVEN SPORTS 1 HD
+http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/89640
+#EXTINF:-1, ELEVEN SPORTS 2 FHD
+http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/89648
+#EXTINF:-1, SPORT TV 2 HD 
+http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/89611
 
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
