@@ -1224,10 +1224,9 @@ http://93.155.227.38:555/m3u8/arenasport5.m3u8
 #EXTINF:-1, TSPORT
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1, M LIGA
-http://212.224.84.208:2200/NL/mlaligahd-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496
+http://212.224.84.217:2200/NL/mlaligahd-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
 #EXTINF:-1, LIGA CAMPEONES
-http://212.224.84.207:2200/NL/mlcampeonhd-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496
-
+http://212.224.84.217:2200/NL/mlcampeonhd-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
 
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
