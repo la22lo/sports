@@ -669,6 +669,9 @@ http://94.156.59.247:8899/udp/224.156.69.137:5000
 #EXTINF:-1,Digi Sport 1 RO 🇷🇴
 http://51.159.213.59:8000/play/a00n/index.m3u8
 
+#EXTINF:-1,Digi Sport 1 RO 🇷🇴
+http://51.159.213.59:8000/play/a00o/index.m3u8
+
 #EXTINF:-1,Digi Sport 2 RO 🇷🇴
 http://51.159.213.59:8000/play/a00q/index.m3u8
 
