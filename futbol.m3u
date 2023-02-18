@@ -6,18 +6,6 @@ http://212.224.84.217:2200/NL/daznlaliga1-esp/index.m3u8?token=CXtoCQYVe3FncwIUN
 #EXTINF:-1, MAX SPORT 4HD 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
-#EXTINF:-1,ESPN 2 HD 🇦🇷 *
-http://190.5.200.52:8000/play/a00i/index.m3u8
-
-#EXTINF:-1, ESPN 2 🇦🇷
-http://191.102.90.97:8000/play/a0jd/index.m3u8
-
-#EXTINF:-1, ESPN 2 🇦🇷
-http://170.83.242.8:5350/play/a02u
-
-#EXTINF:-1,ESPN 2 🇦🇷
-http://200.110.169.237:8202/play/a031
-
 #EXTINF:-1, S SPORT 🇹🇷
 http://fanatik12.xyz:80/live/almandagitim/Fesr6un8Yjcz/106293.ts
 
