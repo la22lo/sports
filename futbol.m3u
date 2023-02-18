@@ -129,6 +129,12 @@ http://bblive.ddns.net:8080/live/ldsport/ldsport/6939.m3u8
 #EXTINF:-1,KURDISTAN SPORTS 🇮🇶
 http://bblive.ddns.net:8080/live/ksport/ksport/935.m3u8
 
+#EXTINF:-1,BLUE SPORT 1 🇨🇭
+http://khyn.rkt2022.xyz:8080/btn9395/HvaDgsA3X7Zt/131520
+
+#EXTINF:-1,BLUE SPORT 2 🇨🇭
+http://khyn.rkt2022.xyz:8080/btn9395/HvaDgsA3X7Zt/131521
+
 #EXTINF:-1, DIRECTV SPORT 🇦🇷
 http://185.191.124.105:25461/raminp/TAQhPJncSa/1164
 
