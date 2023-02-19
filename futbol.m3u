@@ -510,6 +510,18 @@ http://77.207.0.25:4000/play/a03n
 #EXTINF:-1, BEIN SPORTS 1 FHD 🇫🇷
 http://146.19.16.209:8034/play/a06m
 
+#EXTINF:-1, BEIN SPORT 1 🇫🇷
+https://mpdplayer.izqhjzepxsrvrwl.sbs:443/4862/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, BEIN SPORT 1 🇫🇷
+https://mpdplayer.izqhjzepxsrvrwl.sbs/4862/index.m3u8
+
+#EXTINF:-1, BEIN SPORT 2 🇫🇷
+https://mpdplayer.izqhjzepxsrvrwl.sbs:443/4863/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, BEIN SPORT 2 🇫🇷
+https://mpdplayer.izqhjzepxsrvrwl.sbs/4863/index.m3u8
+
 #EXTINF:-1,RMC SPORT 1 🇨🇵
 http://77.207.0.25:4000/play/a038 
 
@@ -1289,18 +1301,6 @@ https://mpdplayer.izqhjzepxsrvrwl.sbs:443/4866/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, BT SPORT 3
 https://mpdplayer.izqhjzepxsrvrwl.sbs/4866/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 1 FRA
-https://mpdplayer.izqhjzepxsrvrwl.sbs:443/4862/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, BEIN SPORT 1 FRA
-https://mpdplayer.izqhjzepxsrvrwl.sbs/4862/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 2 FRA
-https://mpdplayer.izqhjzepxsrvrwl.sbs:443/4863/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, BEIN SPORT 2 FRA
-https://mpdplayer.izqhjzepxsrvrwl.sbs/4863/index.m3u8
 
 #EXTINF:-1, beIN SPORTS 1 PREMIUM 🇶🇦
 https://yeszet1x1cdn23.goalarab.site/livebp1/bp1/chunks.m3u8
