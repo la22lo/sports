@@ -636,6 +636,9 @@ http://rn2yfxko.tvclub.xyz/iptv/WP3PZRYBCGTFUB/19156/index.m3u8
 #EXTINF:-1,ESPN 2 🇺🇸
 http://rn2yfxko.tvclub.xyz/iptv/WP3PZRYBCGTFUB/19155/index.m3u8
 
+#EXTINF:-1, FS 1 🇺🇸
+https://mpdplayer.izqhjzepxsrvrwl.sbs:443/4881/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,RTSH SPORT 🇦🇱
 http://79.106.48.2:8800/play/a01w/index.m3u8
 
@@ -848,6 +851,9 @@ https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
 
 #EXTINF:-1, MATH 🇷🇺
 https://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
+
+#EXTINF:-1, MATH 🇷🇺
+https://mpdplayer.izqhjzepxsrvrwl.sbs:443/4886/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, МАТЧ! 🇷🇺
 http://178.160.249.210:8000/play/a008/index.m3u8
@@ -1277,12 +1283,6 @@ https://videosenlared.fullstreaming.ar:3015/live/canal10live.m3u8
 
 #EXTINF:-1, BEIN 2 ENGLISH
 https://ua.aviator.tv/stream4/index.m3u8?
-
-#EXTINF:-1, MATH
-https://mpdplayer.izqhjzepxsrvrwl.sbs:443/4886/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, FS 1
-https://mpdplayer.izqhjzepxsrvrwl.sbs:443/4881/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, BT SPORT 1
 https://mpdplayer.izqhjzepxsrvrwl.sbs:443/4864/tracks-v1a1/mono.m3u8
