@@ -1176,6 +1176,9 @@ http://51.158.36.81:18000/Eurosport_2/hls/playlist.m3u8
 #EXTINF:-1, M DEPORTES 🇪🇸
 http://playhispano.org:25461/live/global0026/PoampJ5pvz/156573.m3u8
 
+#EXTINF:-1,SUPER TENNIS 🇬🇧
+https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
+
 #EXTINF:-1, TENNIS CHANNEL 🇬🇧
 https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
 
