@@ -6,6 +6,9 @@ http://212.224.84.217:2200/NL/daznlaliga1-esp/index.m3u8?token=CXtoCQYVe3FncwIUN
 #EXTINF:-1, MAX SPORT 4HD 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
+#EXTINF:-1,ESPN VIVO 🇺🇸
+http://166.0.208.24:3473/encoder82/evento16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
 #EXTINF:-1, S SPORT 🇹🇷
 http://fanatik12.xyz:80/live/almandagitim/Fesr6un8Yjcz/106293.ts
 
@@ -14,9 +17,6 @@ http://176.57.50.167:25461/esaletv2/2226677442/7629
 
 #EXTINF:-1,ELEVEN SPORT 1 🇵🇹
 http://176.57.50.167:25461/esaletv2/2226677442/7627
-
-#EXTINF:-1,ESPN VIVO 🇺🇸
-http://166.0.208.24:3473/encoder82/evento16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 https://mo3ad@cdn2.livehd720.com/hlsbein3/bein3/playlist.m3u8
