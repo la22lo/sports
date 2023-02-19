@@ -42,6 +42,9 @@ http://51.158.36.81:18000/M_LaLiga/hls/playlist.m3u8
 #EXTINF:-1, M LALIGA 🇪🇸
 https://h7lya1.2embed.sbs/cdn/BXaQAanLKPZ/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, M LALIGA 🇪🇸
+http://playhispano.org:25461/live/global0026/PoampJ5pvz/70747.m3u8
+
 #EXTINF:-1,A SportsHD 🇮🇳
 http://pakin.worldtvip.co/pk_asports/tracks-v1a1/mono.m3u8
 
@@ -172,6 +175,9 @@ http://playhispano.org:25461/live/global0026/PoampJ5pvz/79659.m3u8
 http://185.191.124.105:25461/raminp/TAQhPJncSa/1164
 
 #EXTINF:-1, ESPN 🇦🇷
+http://playhispano.org:25461/live/global0026/PoampJ5pvz/86264.m3u8
+
+#EXTINF:-1, ESPN 🇦🇷
 http://191.102.90.97:8000/play/a08b/index.m3u8
 
 #EXTINF:-1, ESPN 🇦🇷
@@ -214,6 +220,9 @@ http://200.24.132.99:8000/play/a02m
 http://200.24.132.99:8000/play/a022
 
 #EXTINF:-1, ESPN 2 🇦🇷
+http://playhispano.org:25461/live/global0026/PoampJ5pvz/86265.m3u8
+
+#EXTINF:-1, ESPN 2 🇦🇷
 http://191.102.90.97:8000/play/a0jd/index.m3u8
 
 #EXTINF:-1, ESPN 2 🇦🇷
@@ -248,6 +257,9 @@ http://200.24.132.99:8000/play/a021
 
 #EXTINF:-1, ESPN 2 🇨🇱
 http://45.232.177.17:8000/play/a007
+
+#EXTINF:-1, ESPN 3 🇦🇷
+http://playhispano.org:25461/live/global0026/PoampJ5pvz/86266.m3u8
 
 #EXTINF:-1, ESPN 3 🇦🇷
 http://191.102.90.97:8000/play/a079/index.m3u8
