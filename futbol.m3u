@@ -507,6 +507,9 @@ http://77.207.0.25:4000/play/a03m
 #EXTINF:-1,BEIN SPORTS 2 HD 🇨🇵
 http://77.207.0.25:4000/play/a03n 
 
+#EXTINF:-1, BEIN SPORTS 1 FHD 🇫🇷
+http://146.19.16.209:8034/play/a06m
+
 #EXTINF:-1,RMC SPORT 1 🇨🇵
 http://77.207.0.25:4000/play/a038 
 
@@ -1137,6 +1140,12 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m
 #EXTINF:-1, YAS 🇸🇦
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 
+#EXTINF:-1,ONTIME SPORTS 3 HD 🇸🇦
+http://146.19.16.201:8032/play/a04j
+
+#EXTINF:-1,Iraqia Sport HD 🇮🇶
+http://146.19.16.209:8034/play/a049
+
 #EXTINF:-1, TELETRAK 🇨🇱
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
@@ -1296,14 +1305,11 @@ https://mpdplayer.izqhjzepxsrvrwl.sbs/4863/index.m3u8
 #EXTINF:-1, beIN SPORTS 1 PREMIUM 🇶🇦
 https://yeszet1x1cdn23.goalarab.site/livebp1/bp1/chunks.m3u8
 
-#EXTINF:-1,Iraqia Sport HD
-http://146.19.16.209:8034/play/a049
+#EXTINF:-1, BEIN SPORTS 2 FHD 🇫🇷
+http://146.19.16.209:8034/play/a06n
 
-#EXTINF:-1, BEIN SPORTS 1 FHD
-http://146.19.16.209:8034/play/a06m
-
-#EXTINF:-1,ONTIME SPORTS3 HD
-http://146.19.16.201:8032/play/a04j
+#EXTINF:-1, BEIN SPORTS 3 FHD 🇫🇷
+http://146.19.16.209:8034/play/a06o
 
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
