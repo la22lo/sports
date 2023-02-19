@@ -1164,6 +1164,9 @@ http://51.178.36.235:49214/Eurosport_2/hls/playlist.m3u8
 #EXTINF:-1, EUROSPORT 2 🇪🇸
 http://51.158.36.81:18000/Eurosport_2/hls/playlist.m3u8
 
+#EXTINF:-1, M DEPORTES 🇪🇸
+http://playhispano.org:25461/live/global0026/PoampJ5pvz/156573.m3u8
+
 #EXTINF:-1, TENNIS CHANNEL 🇬🇧
 https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
 
