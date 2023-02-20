@@ -919,6 +919,9 @@ http://208.86.19.13:81/711.stream/index.m3u8
 #EXTINF:-1, TEN SPORT 🇮🇳
 http://212.224.84.217:2200/R-EX/TEN_SPORTS_PK-in/index.m3u8?token=egBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVmfXFofXZmeg==
 
+#EXTINF:-1, TEN SPORT 🇮🇳
+http://212.224.84.217:2200/R-EX/TEN_SPORTS_PK-in/index.m3u8?token=egBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVmfXFofXZmeg==exp=hdntl=exp=1676427629~acl=*~hmac=863729faa51f59ed9b764ccd2308decbfa69c7fea5c2da4c126a6845a46eac1f&originpath=/linear/hls/pa/event/r-eLp41YTHWTagvQSXFtAQ/stream/0945e4e7-b747-4b3c-9457-2aad2d8d5c73:BRU/variant/f7185317b
+
 #EXTINF:-1,CCTV5 🇨🇳
 http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8
 
