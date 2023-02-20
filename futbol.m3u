@@ -351,6 +351,9 @@ http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
 #EXTINF:-1, Beinsport 3 PREMIUM 🇶🇦
 http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347
 
+#EXTINF:-1, Eleven 1 HD 🇵🇹
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
 #EXTINF:-1,ELEVEN SPORT 1 🇵🇹
 http://thehive.tv:25461/kevinburrell/kevinburrell22/5709
 
@@ -359,6 +362,9 @@ http://109.238.14.83:7788/5Se8jV4t9s2/EeEs7hnVVehX/130077
 
 #EXTINF:-1,ELEVEN SPORT 1 🇵🇹
 http://kenencabs.online:2082/dream/2zLzqbt3Ge/370429
+
+#EXTINF:-1, Eleven 2 HD 🇵🇹
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
 #EXTINF:-1,ELEVEN SPORT 2 🇵🇹
 http://thehive.tv:25461/kevinburrell/kevinburrell22/5712
@@ -1098,6 +1104,9 @@ https://h7lya1.2embed.sbs/cdn/Mdplz23MNkdi/tracks-v1a1/mono.m3u8?token=e03dd78c1
 #EXTINF:-1, LIGA CAMPEONES 🇪🇸
 http://212.224.84.217:2200/NL/mlcampeonhd-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
 
+#EXTINF:-1, Eleven 1 HD 🇵🇹
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
@@ -1135,7 +1144,7 @@ http://kenencabs.online:2082/dream/2zLzqbt3Ge/237703
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 
 #EXTINF:-1, Eleven 2 HD 🇵🇹
-http://109.238.14.83:7788/5Se8jV4t9s2/EeEs7hnVVehX/130078
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
 #EXTINF:-1, CANAL 10 🇦🇷
 https://videosenlared.fullstreaming.ar:3015/live/canal10live.m3u8
