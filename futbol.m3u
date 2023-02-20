@@ -51,9 +51,6 @@ http://51.158.36.81:18000/M_LaLiga/hls/playlist.m3u8
 #EXTINF:-1, M LALIGA 🇪🇸
 https://h7lya1.2embed.sbs/cdn/BXaQAanLKPZ/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, M LALIGA 🇪🇸
-http://playhispano.org:25461/live/global0026/PoampJ5pvz/70747.m3u8
-
 #EXTINF:-1,A SportsHD 🇮🇳
 http://pakin.worldtvip.co/pk_asports/tracks-v1a1/mono.m3u8
 
@@ -66,38 +63,14 @@ http://212.224.84.217:2200/R-EX/PAK_ASPORT-HD-in/tracks-v1a1/mono.m3u8?token=CXt
 #EXTINF:-1,T Sports 🇧🇩
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 
-#EXTINF:-1,T Sports 🇧🇩
-http://starshare.live:8080/47djShaqib-_-28EDJ9edn2894dcn928SJ10SZ_29_-_19@zsjwdj2389dn1/dkj28sj@83jSI-__-__sjwej38ds@8edjx39djKX29dh2ixwj2849dsh28dj24/113069
-
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 http://109.202.99.203:8080/hMhz5aGCG5/AbVupU2D1V/322
 
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
-http://88.99.216.157:5080/WebRTCApp/streams/Bein1.m3u8
-
-#EXTINF:-1, beIN SPORTS 1 🇶🇦
-http://sintoniaideal.com:25461/Jomyson2330/sRLuBdK8mhUZ/329961
-
-#EXTINF:-1, beIN SPORTS 1 🇶🇦
-http://starshare.live:8080/47djShaqib-_-28EDJ9edn2894dcn928SJ10SZ_29_-_19@zsjwdj2389dn1/dkj28sj@83jSI-__-__sjwej38ds@8edjx39djKX29dh2ixwj2849dsh28dj24/4468
-
-#EXTINF:-1, beIN SPORTS 1 🇶🇦
-http://playhispano.org:25461/live/global0026/PoampJ5pvz/120423.m3u8
-
-#EXTINF:-1, beIN SPORTS 1 🇶🇦
 http://109.238.14.83:7788/5Se8jV4t9s2/EeEs7hnVVehX/125047
-
-#EXTINF:-1, beIN SPORTS 1 🇶🇦
-http://khyn.rkt2022.xyz:8080/btn9395/HvaDgsA3X7Zt/124471
 
 #EXTINF:-1, beIN Sports 1 🇶🇦
 https://live.eagleeye.capital:443/razkorazko/razkorazko/9310.ts
-
-#EXTINF:-1, beIN Sports 1 🇶🇦
-https://live.eagleeye.capital/razkorazko/razkorazko/10282.ts
-
-#EXTINF:-1, beIN Sports 1 🇶🇦
-http://tv.nova-iptv.com/bojan_misicek/sWsD239ij0/9255
 
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 http://185.191.124.105:25461/raminp/TAQhPJncSa/44517
@@ -142,9 +115,6 @@ http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307817.ts
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15970
 
 #EXTINF:-1, ESPN DEPORTES 🇺🇸
-http://playhispano.org:25461/live/global0026/PoampJ5pvz/86293.m3u8
-
-#EXTINF:-1, ESPN DEPORTES 🇺🇸
 http://109.238.14.83:7788/5Se8jV4t9s2/EeEs7hnVVehX/139153
 
 #EXTINF:-1, ESPN DEPORTES 🇺🇸
@@ -179,15 +149,6 @@ http://khyn.rkt2022.xyz:8080/btn9395/HvaDgsA3X7Zt/131520
 
 #EXTINF:-1,BLUE SPORT 2 🇨🇭
 http://khyn.rkt2022.xyz:8080/btn9395/HvaDgsA3X7Zt/131521
-
-#EXTINF:-1, DIRECTV SPORT 🇦🇷
-http://playhispano.org:25461/live/global0026/PoampJ5pvz/79659.m3u8
-
-#EXTINF:-1, DIRECTV SPORT 🇪🇨
-http://playhispano.org:25461/live/global0026/PoampJ5pvz/86539.m3u8
-
-#EXTINF:-1, ESPN 🇦🇷
-http://playhispano.org:25461/live/global0026/PoampJ5pvz/86264.m3u8
 
 #EXTINF:-1, ESPN 🇦🇷
 http://191.102.90.97:8000/play/a08b/index.m3u8
@@ -232,9 +193,6 @@ http://200.24.132.99:8000/play/a02m
 http://200.24.132.99:8000/play/a022
 
 #EXTINF:-1, ESPN 2 🇦🇷
-http://playhispano.org:25461/live/global0026/PoampJ5pvz/86265.m3u8
-
-#EXTINF:-1, ESPN 2 🇦🇷
 http://191.102.90.97:8000/play/a0jd/index.m3u8
 
 #EXTINF:-1, ESPN 2 🇦🇷
@@ -269,9 +227,6 @@ http://200.24.132.99:8000/play/a021
 
 #EXTINF:-1, ESPN 2 🇨🇱
 http://45.232.177.17:8000/play/a007
-
-#EXTINF:-1, ESPN 3 🇦🇷
-http://playhispano.org:25461/live/global0026/PoampJ5pvz/86266.m3u8
 
 #EXTINF:-1, ESPN 3 🇦🇷
 http://191.102.90.97:8000/play/a079/index.m3u8
@@ -341,9 +296,6 @@ http://45.182.21.251:33334/play/a07y/index.m3u8
 
 #EXTINF:-1,TUDN HD USA 🇲🇽
 http://45.182.21.251:33334/play/a077/index.m3u8
-
-#EXTINF:-1,TUDN HD USA 🇲🇽
-http://playhispano.org:25461/live/global0026/PoampJ5pvz/86242.m3u8
 
 #EXTINF:-1, beIN SPORTS 1 PREMIUM 🇶🇦
 http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=1673204766768
@@ -641,9 +593,6 @@ https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1, VIAPLAY SPORT 1 🇬🇧
 https://d3j7ofexbkp7q4.cloudfront.net:443/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/../../../manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/ab472ec7-025f-47ad-b7b6-1a1482665dda/3.m3u8
-
-#EXTINF:-1, SUPER TENNIS 🇬🇧
-http://playhispano.org:25461/live/global0026/PoampJ5pvz/156582.m3u8
 
 #EXTINF:-1, SUPER GRANDSTAND 🇬🇧
 http://pakin2.worldtvip.co:9090/za_ss_gstand/tracks-v1a1/mono.m3u8
@@ -1229,9 +1178,6 @@ http://51.178.36.235:49214/Eurosport_2/hls/playlist.m3u8
 
 #EXTINF:-1, EUROSPORT 2 🇪🇸
 http://51.158.36.81:18000/Eurosport_2/hls/playlist.m3u8
-
-#EXTINF:-1, M DEPORTES 🇪🇸
-http://playhispano.org:25461/live/global0026/PoampJ5pvz/156573.m3u8
 
 #EXTINF:-1,SUPER TENNIS 🇬🇧
 https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
