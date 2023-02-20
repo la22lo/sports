@@ -414,18 +414,6 @@ http://77.207.0.25:4000/play/a03n
 #EXTINF:-1, BEIN SPORTS 1 FHD 🇫🇷
 http://146.19.16.209:8034/play/a06m
 
-#EXTINF:-1, BEIN SPORT 1 🇫🇷
-https://mpdplayer.izqhjzepxsrvrwl.sbs:443/4862/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, BEIN SPORT 1 🇫🇷
-https://mpdplayer.izqhjzepxsrvrwl.sbs/4862/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 2 🇫🇷
-https://mpdplayer.izqhjzepxsrvrwl.sbs:443/4863/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, BEIN SPORT 2 🇫🇷
-https://mpdplayer.izqhjzepxsrvrwl.sbs/4863/index.m3u8
-
 #EXTINF:-1,RMC SPORT 1 🇨🇵
 http://77.207.0.25:4000/play/a038 
 
@@ -436,9 +424,6 @@ http://77.207.0.25:4000/play/a033
 http://77.207.0.25:4000/play/a03y
 
 #EXTINF:-1, L´EQUIPE 🇨🇵
-http://162.19.67.213:49214/L_EQUIPE/hls/playlist.m3u8
-
-#EXTINF:-1, L´EQUIPE 🇨🇵
 http://178.250.208.141/23/play.m3u8
 
 #EXTINF:-1,beIN Sports 1 English HD 🇬🇧
@@ -447,41 +432,14 @@ http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347
 #EXTINF:-1,beIN Sports 1 English HD 🇬🇧
 http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=1673204766768
 
-#EXTINF:-1,Bein sport1 🇬🇧
-http://14.192.129.134:80/bein1/index.m3u8 
-
-#EXTINF:-1, BEIN 1 🇬🇧
-http://14.192.129.134/bein1/index.m3u8
-
-#EXTINF:-1,beIN Sports 1 English HD 🇬🇧
-http://bandookk.xyz:8000/xiptv/rHpRkE91W2/23572
-
-#EXTINF:-1,beIN Sports 2 English HD 🇬🇧
-http://bandookk.xyz:8000/xiptv/rHpRkE91W2/23575
-
-#EXTINF:-1,beIN Sports 3 English HD 🇬🇧
-http://bandookk.xyz:8000/xiptv/rHpRkE91W2/23578
-
-#EXTINF:-1,BT SPORT 1 🇬🇧
-http://bandookk.xyz:8000/xiptv/rHpRkE91W2/10501
-
 #EXTINF:-1,BT SPORT 1 🇬🇧
 http://thehive.tv:25461/kevinburrell/kevinburrell22/6587
-
-#EXTINF:-1,BT SPORT 2 🇬🇧
-http://bandookk.xyz:8000/xiptv/rHpRkE91W2/10502
 
 #EXTINF:-1,BT SPORT 2 🇬🇧
 http://thehive.tv:25461/kevinburrell/kevinburrell22/6590
 
 #EXTINF:-1,BT SPORT 3 🇬🇧
-http://bandookk.xyz:8000/xiptv/rHpRkE91W2/10503
-
-#EXTINF:-1,BT SPORT 3 🇬🇧
 http://thehive.tv:25461/kevinburrell/kevinburrell22/6594
-
-#EXTINF:-1,BT SPORT 4 🇬🇧
-http://bandookk.xyz:8000/xiptv/rHpRkE91W2/146
 
 #EXTINF:-1,BT SPORT 4 🇬🇧
 http://thehive.tv:25461/kevinburrell/kevinburrell22/6597
@@ -516,24 +474,6 @@ http://195.154.179.234:1234/stream/btsport3/stream.m3u8
 #EXTINF:-1,BT SPORT 3 🇬🇧
 http://ku3.worldtvip.co/uk_bt_sports_3_hd/index.m3u8?token=924ea83b1945763373380821c2d61863
 
-#EXTINF:-1, BT SPORT 1 🇬🇧
-https://mpdplayer.izqhjzepxsrvrwl.sbs:443/4864/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, BT SPORT 1 🇬🇧
-https://mpdplayer.izqhjzepxsrvrwl.sbs/4864/index.m3u8
-
-#EXTINF:-1, BT SPORT 2 🇬🇧
-https://mpdplayer.izqhjzepxsrvrwl.sbs:443/4865/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, BT SPORT 2 🇬🇧
-https://mpdplayer.izqhjzepxsrvrwl.sbs/4865/index.m3u8
-
-#EXTINF:-1, BT SPORT 3 🇬🇧
-https://mpdplayer.izqhjzepxsrvrwl.sbs:443/4866/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, BT SPORT 3 🇬🇧
-https://mpdplayer.izqhjzepxsrvrwl.sbs/4866/index.m3u8
-
 #EXTINF:-1, VIAPLAY SPORT 1 🇬🇧
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 
@@ -551,9 +491,6 @@ http://rn2yfxko.tvclub.xyz/iptv/WP3PZRYBCGTFUB/19156/index.m3u8
 
 #EXTINF:-1,ESPN 2 🇺🇸
 http://rn2yfxko.tvclub.xyz/iptv/WP3PZRYBCGTFUB/19155/index.m3u8
-
-#EXTINF:-1, FS 1 🇺🇸
-https://mpdplayer.izqhjzepxsrvrwl.sbs:443/4881/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,RTSH SPORT 🇦🇱
 http://79.106.48.2:8800/play/a01w/index.m3u8
@@ -1161,11 +1098,23 @@ http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1, MAX SPORT 3HD 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport3_web.m3u8
 
+#EXTINF:-1,BT SPORT 1 🇬🇧
+http://195.154.179.234:1234/stream/btsport1/stream.m3u8
+
+#EXTINF:-1,BT SPORT 1 🇬🇧
+http://ku3.worldtvip.co/uk_bt_sports_1_hd/index.m3u8?token=924ea83b1945763373380821c2d61863
+
+#EXTINF:-1,BT SPORT 1 🇬🇧
+http://212.224.84.217:2200/EX/UKSD_BT_Sport_1_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+
 #EXTINF:-1,ELEVEN SPORT 1 🇵🇹
 http://109.238.14.83:7788/5Se8jV4t9s2/EeEs7hnVVehX/130077
 
 #EXTINF:-1,TUDN HD USA 🇲🇽
 http://45.182.21.251:33334/play/a077/index.m3u8
+
+#EXTINF:-1,RMC SPORT 1 🇨🇵
+http://77.207.0.25:4000/play/a038 
 
 #EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
