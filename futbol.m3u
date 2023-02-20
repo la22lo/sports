@@ -888,6 +888,12 @@ http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
 #EXTINF:-1, Asahi TV 🇯🇵
 http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 
+#EXTINF:-1, SPOTV 1 🇰🇷
+http://103.167.167.5:8111/play/a020/index.m3u8
+
+#EXTINF:-1, SPOTV 2 🇰🇷
+http://103.167.167.5:8111/play/a010/index.m3u8
+
 #EXTINF:-1, TVN SPORTS 🇰🇷
 https://cdn-us-154.cloudrsst.com/live/olivetv_540/playlist.m3u8
 
