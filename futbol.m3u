@@ -903,8 +903,11 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream
 #EXTINF:-1, TRT 1 🇹🇷
 http://195.155.98.170:5858/play/a09j?checkedby:iptvcat.com
 
-#EXTINF:-1, aspor
+#EXTINF:-1, aspor 🇹🇷
 http://66.160.192.241/aspor/index.m3u8
+
+#EXTINF:-1,SPORTS TV 🇹🇷
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 
 #EXTINF:-1, SPORTV TUR 🇹🇷
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
