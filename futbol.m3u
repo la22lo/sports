@@ -1,5 +1,57 @@
 #EXTM3U
 
+#EXTINF:-1, LIGA CAMPEONES 🇪🇸
+http://212.224.84.217:2200/NL/mlcampeonhd-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
+
+#EXTINF:-1, Eleven 1 HD 🇵🇹
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
+#EXTINF:-1, MATH 🇷🇺
+https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+
+#EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
+http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1, MAX SPORT 3HD 🇧🇬
+http://93.155.227.38:555/m3u8/webmtelsport3_web.m3u8
+
+#EXTINF:-1,BT SPORT 1 🇬🇧
+http://195.154.179.234:1234/stream/btsport1/stream.m3u8
+
+#EXTINF:-1,BT SPORT 1 🇬🇧
+http://ku3.worldtvip.co/uk_bt_sports_1_hd/index.m3u8?token=924ea83b1945763373380821c2d61863
+
+#EXTINF:-1,BT SPORT 1 🇬🇧
+http://212.224.84.217:2200/EX/UKSD_BT_Sport_1_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+
+#EXTINF:-1,ELEVEN SPORT 1 🇵🇹
+http://109.238.14.83:7788/5Se8jV4t9s2/EeEs7hnVVehX/130077
+
+#EXTINF:-1,TUDN HD USA 🇲🇽
+http://45.182.21.251:33334/play/a077/index.m3u8
+
+#EXTINF:-1,RMC SPORT 1 🇨🇵
+http://77.207.0.25:4000/play/a038 
+
+#EXTINF:-1, beIN SPORTS 1 PREMIUM 🇶🇦
+http://kenencabs.online:2082/dream/2zLzqbt3Ge/237701
+
+#EXTINF:-1, beIN SPORTS 2 PREMIUM 🇶🇦
+http://kenencabs.online:2082/dream/2zLzqbt3Ge/237703
+
+#EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1, Eleven 2 HD 🇵🇹
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
+#EXTINF:-1, CANAL 10 🇦🇷
+https://videosenlared.fullstreaming.ar:3015/live/canal10live.m3u8
+
+
+
+
+
 #EXTINF:-1, DAZN LALIGA 🇪🇸
 http://212.224.84.217:2200/NL/daznlaliga1-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
 
@@ -1110,56 +1162,6 @@ https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8
 #EXTINF:-1,BEIN 1
 https://h7lya1.2embed.sbs/cdn/Mdplz23MNkdi/tracks-v1a1/mono.m3u8?token=e03dd78c11aeff5f03008062eff6aa93aff968c0-af5e7973d327e743e3bba6c19db192c2--
 
-
-
-
-#EXTINF:-1, LIGA CAMPEONES 🇪🇸
-http://212.224.84.217:2200/NL/mlcampeonhd-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
-
-#EXTINF:-1, Eleven 1 HD 🇵🇹
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-
-#EXTINF:-1, MATH 🇷🇺
-https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
-
-#EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
-http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
-
-#EXTINF:-1, MAX SPORT 3HD 🇧🇬
-http://93.155.227.38:555/m3u8/webmtelsport3_web.m3u8
-
-#EXTINF:-1,BT SPORT 1 🇬🇧
-http://195.154.179.234:1234/stream/btsport1/stream.m3u8
-
-#EXTINF:-1,BT SPORT 1 🇬🇧
-http://ku3.worldtvip.co/uk_bt_sports_1_hd/index.m3u8?token=924ea83b1945763373380821c2d61863
-
-#EXTINF:-1,BT SPORT 1 🇬🇧
-http://212.224.84.217:2200/EX/UKSD_BT_Sport_1_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-
-#EXTINF:-1,ELEVEN SPORT 1 🇵🇹
-http://109.238.14.83:7788/5Se8jV4t9s2/EeEs7hnVVehX/130077
-
-#EXTINF:-1,TUDN HD USA 🇲🇽
-http://45.182.21.251:33334/play/a077/index.m3u8
-
-#EXTINF:-1,RMC SPORT 1 🇨🇵
-http://77.207.0.25:4000/play/a038 
-
-#EXTINF:-1, beIN SPORTS 1 PREMIUM 🇶🇦
-http://kenencabs.online:2082/dream/2zLzqbt3Ge/237701
-
-#EXTINF:-1, beIN SPORTS 2 PREMIUM 🇶🇦
-http://kenencabs.online:2082/dream/2zLzqbt3Ge/237703
-
-#EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
-http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
-
-#EXTINF:-1, Eleven 2 HD 🇵🇹
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-
-#EXTINF:-1, CANAL 10 🇦🇷
-https://videosenlared.fullstreaming.ar:3015/live/canal10live.m3u8
 
 
 
