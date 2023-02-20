@@ -499,6 +499,9 @@ http://77.207.0.25:4000/play/a03y
 #EXTINF:-1, L´EQUIPE 🇨🇵
 http://178.250.208.141/23/play.m3u8
 
+#EXTINF:-1,INFOSPORT + 🇨🇵
+http://162.19.67.213:49214/INFOSPORT_PLUS/hls/playlist.m3u8
+
 #EXTINF:-1,beIN Sports 1 English HD 🇬🇧
 http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347
 
