@@ -54,6 +54,9 @@ http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&
 #EXTINF:-1, CANAL 10 🇦🇷
 https://videosenlared.fullstreaming.ar:3015/live/canal10live.m3u8
 
+#EXTINF:-1, COSMOTE SPORT 2 GRE
+https://spotv.me:8080/FG5195018939/5195018939/12580
+
 
 
 
