@@ -15,11 +15,11 @@ http://ku3.worldtvip.co/uk_bt_sports_1_hd/index.m3u8?token=924ea83b1945763373380
 #EXTINF:-1,BT SPORT 1 🇬🇧
 http://212.224.84.217:2200/EX/UKSD_BT_Sport_1_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 
+#EXTINF:-1,ELEVEN SPORT 1 🇵🇹
+http://kenencabs.online:2082/dream/2zLzqbt3Ge/370429
+
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-
-#EXTINF:-1,ELEVEN SPORT 1 🇵🇹
-http://109.238.14.83:7788/5Se8jV4t9s2/EeEs7hnVVehX/130077
 
 #EXTINF:-1,TUDN HD USA 🇲🇽
 http://45.182.21.251:33334/play/a077/index.m3u8
@@ -77,7 +77,7 @@ http://fanatik12.xyz:80/live/almandagitim/Fesr6un8Yjcz/106293.ts
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
 #EXTINF:-1,ELEVEN SPORT 1 🇵🇹
-http://109.238.14.83:7788/5Se8jV4t9s2/EeEs7hnVVehX/130077
+http://kenencabs.online:2082/dream/2zLzqbt3Ge/370429
 
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
