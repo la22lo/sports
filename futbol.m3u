@@ -43,10 +43,16 @@ http://45.182.21.251:33334/play/a077/index.m3u8
 http://77.207.0.25:4000/play/a038 
 
 #EXTINF:-1, beIN SPORTS 1 PREMIUM 🇶🇦
-http://kenencabs.online:2082/dream/2zLzqbt3Ge/237701
+http://s@88.99.216.157:5080/WebRTCApp/streams/Bein1_Premuim.m3u8 
+
+#EXTINF:-1, beIN SPORTS 1 PREMIUM 🇶🇦
+http://s@62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347 
 
 #EXTINF:-1, beIN SPORTS 2 PREMIUM 🇶🇦
-http://kenencabs.online:2082/dream/2zLzqbt3Ge/237703
+http://s@88.99.216.157:5080/WebRTCApp/streams/Bein2_Premuim.m3u8
+
+#EXTINF:-1, beIN SPORTS 2 PREMIUM 🇶🇦
+http://s@62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
 
 #EXTINF:-1, CANAL 10 🇦🇷
 https://videosenlared.fullstreaming.ar:3015/live/canal10live.m3u8
