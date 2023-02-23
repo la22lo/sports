@@ -1,13 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1, CANAL 10 🇦🇷
-https://videosenlared.fullstreaming.ar:3015/live/canal10live.m3u8
-
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
-
-#EXTINF:-1,BT SPORT 2 🇬🇧
-http://195.154.179.234:1234/stream/btsport2/stream.m3u8
 
 #EXTINF:-1,BT SPORT 2 🇬🇧
 http://212.224.84.217:2200/EX/UKSD_BT_Sport_2_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
@@ -69,8 +63,6 @@ https://livectorprodmedia17-euwe.licdn.com/956ff6c0-cd9b-4569-a193-d71b468abd53/
 #EXTINF:-1, TUDN 🇲🇽 
 https://linear-357.frequency.stream:443/dist/vix/357/hls/master/playlist_1024x576.m3u8
 
-#EXTINF:-1,BT SPORT 1 🇬🇧
-https://storage.googleapis.com/imagery-378618/main/manifest.m3u8
 
 
 
