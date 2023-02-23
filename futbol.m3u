@@ -479,20 +479,38 @@ https://h7lya1.2embed.sbs/cdn/HyP24XNgJqz4/tracks-v1a1/mono.m3u8?token=d2ab42d49
 #EXTINF:-1,SPORT TV 1 HD 🇵🇹
 http://thehive.tv:25461/kevinburrell/kevinburrell22/5466
 
+#EXTINF:-1,SPORT TV 1 HD 🇵🇹
+http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
 #EXTINF:-1,SPORT TV 2 HD 🇵🇹
 http://thehive.tv:25461/kevinburrell/kevinburrell22/5471
+
+#EXTINF:-1,SPORT TV 2 HD 🇵🇹
+http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
 #EXTINF:-1,SPORT TV 3 HD 🇵🇹
 http://thehive.tv:25461/kevinburrell/kevinburrell22/5476
 
+#EXTINF:-1,SPORT TV 3 HD 🇵🇹
+http://213.13.16.138/shls/LIVE%24SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
 #EXTINF:-1,SPORT TV 4 HD 🇵🇹
 http://thehive.tv:25461/kevinburrell/kevinburrell22/5479
+
+#EXTINF:-1,SPORT TV 4 HD 🇵🇹
+http://213.13.16.138/shls/LIVE%24SPORTTV4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
 #EXTINF:-1,SPORT TV 5 HD 🇵🇹
 http://thehive.tv:25461/kevinburrell/kevinburrell22/5482
 
+#EXTINF:-1,SPORT TV 5 HD 🇵🇹
+http://213.13.16.138/shls/LIVE%24SPORTTV5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
 #EXTINF:-1,SPORT TV 6 HD 🇵🇹
 http://thehive.tv:25461/kevinburrell/kevinburrell22/5484
+
+#EXTINF:-1,SPORT TV 6 HD 🇵🇹
+http://213.13.16.138/shls/LIVE%24SPORTTV6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
 #EXTINF:-1,BEIN SPORTS 1 HD 🇨🇵
 http://162.19.67.213:49214/BEIN_SPORTS_1/hls/playlist.m3u8
