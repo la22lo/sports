@@ -870,6 +870,15 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1, Qirguistán sport 🇰🇬
 http://89.254.128.5:22280/qsport/index.m3u8
 
+#EXTINF:-1, SPORT 1 🇮🇱
+http://nohn.me/play/hjGS-tDz3JSOQ6fHw721VsFjjmpsSuOFIaJbVA1DJhk
+
+#EXTINF:-1, SPORT 5 🇮🇱
+http://nohn.me/play/hjGS-tDz3JSOQ6fHw721VtRmALMLjrAXua0H15CGgzk
+
+#EXTINF:-1, SPORT 5 LIVE 🇮🇱
+http://nohn.me/play/hjGS-tDz3JSOQ6fHw721Vn1YjKL0n3YV9A2YUcTOv40
+
 #EXTINF:-1, NOVA SPORTS START 🇬🇷
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-GjqT3a75ko46LKD1eben_
 
