@@ -1272,9 +1272,6 @@ https://movie.7yup.net/live/sport2/index.m3u8
 #EXTINF:-1, TRUE VISIONS 3 🇹🇭
 https://movie.7yup.net/live/sport3/index.m3u8
 
-#EXTINF:-1, RPP 🇦🇷
-https://livectorprodmedia17-euwe.licdn.com/956ff6c0-cd9b-4569-a193-d71b468abd53/L4E619d487a67470000-livemanifest.ism/QualityLevels(3200000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio_und).m3u8?fbclid=PAAaZX6cfHRIPUQe6-3pO_Ir_ON_HoZsLhRmGNhJCJcg29-qET_C4Ob5LBKKE
-
 #EXTINF:-1, TUDN 🇲🇽 
 https://linear-357.frequency.stream:443/dist/vix/357/hls/master/playlist_1024x576.m3u8
 
