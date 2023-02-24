@@ -48,21 +48,6 @@ http://51.158.36.81:18000/M_LaLiga/hls/playlist.m3u8
 #EXTINF:-1, M LALIGA 🇪🇸
 https://h7lya1.2embed.sbs/cdn/BXaQAanLKPZ/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,A SportsHD 🇮🇳
-http://pakin.worldtvip.co/pk_asports/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,A SportsHD 🇮🇳
-http://180.178.188.152:8000/play/a0ad
-
-#EXTINF:-1,A SportsHD 🇮🇳
-https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/GiAZloPOUUZYHGr5WDgvw67lVMOaDuYS1AyQDyssptgheOn3wVpCwT3xN_A8OGVRA_1PrMR2qDoqtvTz5I1u9A/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tm_master_dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1,A SportsHD 🇮🇳
-http://212.224.84.217:2200/R-EX/PAK_ASPORT-HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
-
-#EXTINF:-1,T Sports 🇧🇩
-https://live.tsports.com/live/tsports_live_720/index.m3u8
-
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/776
 
@@ -77,6 +62,21 @@ http://kenencabs.online:2082/dream/2zLzqbt3Ge/237706
 
 #EXTINF:-1, beIN Sports 1 🇶🇦
 https://live.eagleeye.capital:443/razkorazko/razkorazko/9310.ts
+
+#EXTINF:-1,A SportsHD 🇮🇳
+http://pakin.worldtvip.co/pk_asports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,A SportsHD 🇮🇳
+http://180.178.188.152:8000/play/a0ad
+
+#EXTINF:-1,A SportsHD 🇮🇳
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/GiAZloPOUUZYHGr5WDgvw67lVMOaDuYS1AyQDyssptgheOn3wVpCwT3xN_A8OGVRA_1PrMR2qDoqtvTz5I1u9A/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tm_master_dynamic_highlatency.m3u8?type=live
+
+#EXTINF:-1,A SportsHD 🇮🇳
+http://212.224.84.217:2200/R-EX/PAK_ASPORT-HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
+
+#EXTINF:-1,T Sports 🇧🇩
+https://live.tsports.com/live/tsports_live_720/index.m3u8
 
 #EXTINF:-1, S SPORT 🇹🇷
 http://fanatik12.xyz:80/live/almandagitim/Fesr6un8Yjcz/63396.ts
