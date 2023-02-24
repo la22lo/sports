@@ -99,6 +99,12 @@ http://laondatv.online:8080/leonardo/123456/279155
 #EXTINF:-1, ESPN LIVE 🇺🇸
 http://thehive.tv:25461/kevinburrell/kevinburrell22/1545
 
+#EXTINF:-1, TRUE VISIONS 1 🇹🇭
+https://movie.7yup.net/live/sport2/index.m3u8
+
+#EXTINF:-1, TRUE VISIONS 3 🇹🇭
+https://movie.7yup.net/live/sport3/index.m3u8
+
 #EXTINF:-1, BEIN 1 🇮🇩
 http://103.167.167.5:8111/play/a02m/index.m3u8
 
