@@ -864,6 +864,18 @@ http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8knmYox6b33Bu
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇱
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276379.ts
 
+#EXTINF:-1, Polsat Sport Premium 1 🇵🇱
+http://212.224.84.217:2200/EX/Polsat_Sport_premium_1-po/tracks-v1a1/mono.m3u8?token=
+
+#EXTINF:-1, Polsat Sport Premium 2 🇵🇱
+http://212.224.84.217:2200/EX/Polsat_Sport_Premium_2-po/tracks-v1a1/mono.m3u8?token=
+
+#EXTINF:-1, Polsat Sport Premium 3 🇵🇱
+http://212.224.84.217:2200/EX/Polsat_Sport_Premium_3-po/tracks-v1a1/mono.m3u8?token=
+
+#EXTINF:-1, Polsat Sport Premium 4 🇵🇱
+http://212.224.84.217:2200/EX/Polsat_Sport_Premium_4-po/tracks-v1a1/mono.m3u8?token=
+
 #EXTINF:-1, ZIGGO SELECT 🇳🇱
 http://82.197.214.59:4002/play/a03e/index.m3u8
 
