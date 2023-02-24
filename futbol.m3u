@@ -555,6 +555,24 @@ http://93.155.227.38:555/m3u8/arenasport4.m3u8
 #EXTINF:-1,Arena sport 5 HD 🇷🇸
 http://93.155.227.38:555/m3u8/arenasport5.m3u8
 
+#EXTINF:-1, ARENA SPORT 1 🇷🇸
+http://204.12.247.162:8080/premium429/mono.m3u8
+
+#EXTINF:-1, ARENA SPORT 1 🇷🇸
+http://212.224.84.217:2200/EX/ArenaSport1SR-balkan/tracks-v1a1/mono.m3u8?token=
+
+#EXTINF:-1, ARENA SPORT 2 🇷🇸
+http://212.224.84.217:2200/EX/ArenaSport2SR-balkan/tracks-v1a1/mono.m3u8?token=
+
+#EXTINF:-1, ARENA SPORT 3 🇷🇸
+http://212.224.84.217:2200/EX/ArenaSport3SR-balkan/tracks-v1a1/mono.m3u8?token=
+
+#EXTINF:-1, ARENA SPORT 4 🇷🇸
+http://212.224.84.217:2200/EX/ArenaSport4SR-balkan/tracks-v1a1/mono.m3u8?token=
+
+#EXTINF:-1, ARENA SPORT 5 🇷🇸
+http://212.224.84.217:2200/EX/ArenaSport5SR-balkan/tracks-v1a1/mono.m3u8?token=
+
 #EXTINF:-1,Arena 1 HD 🇷🇸
 http://94.250.2.6:7374/play/a02m/index.m3u8
 
@@ -863,6 +881,9 @@ http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8knmYox6b33Bu
 
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇱
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276379.ts
+
+#EXTINF:-1, ELEVEN SPORT 1 🇵🇱
+http://212.224.84.217:2200/EX/eleven1hd-po/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1, Polsat Sport Premium 1 🇵🇱
 http://212.224.84.217:2200/EX/Polsat_Sport_premium_1-po/tracks-v1a1/mono.m3u8?token=
@@ -1175,9 +1196,6 @@ https://yeszet1x1cdn23.goalarab.site/livebp1/bp1/chunks.m3u8
 
 #EXTINF:-1, beIN SPORTS 2 PREMIUM 🇶🇦
 https://cdn2.livehd720.com/hlsbeinp7/beinp7/playlist.m3u8
-
-#EXTINF:-1, ARENA SPORT 1
-http://204.12.247.162:8080/premium429/mono.m3u8
 
 #EXTINF:-1,BT SPORT 2 🇬🇧
 https://fullhdmatch.xyz/btsports/index.m3u8
