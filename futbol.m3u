@@ -43,6 +43,9 @@ https://h7lya1.2embed.sbs/cdn/BXaQAanLKPZ/tracks-v1a1/mono.m3u8
 http://109.202.99.203:8080/hMhz5aGCG5/AbVupU2D1V/322
 
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
+http://yusf.ddns.net:5080/WebRTCApp/streams/Bein1.m3u8
+
+#EXTINF:-1, beIN SPORTS 1 🇶🇦
 http://kenencabs.online:2082/dream/2zLzqbt3Ge/237706
 
 #EXTINF:-1,A SportsHD 🇮🇳
@@ -80,9 +83,6 @@ http://109.238.14.83:7788/5Se8jV4t9s2/EeEs7hnVVehX/144991
 
 #EXTINF:-1, Supersport LALIGA 🇿🇦
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/109026.ts
-
-#EXTINF:-1, beIN SPORTS 1 🇶🇦
-http://yusf.ddns.net:5080/WebRTCApp/streams/Bein1.m3u8
 
 #EXTINF:-1, beIN SPORTS 1 🇦🇺
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307817.ts
