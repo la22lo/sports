@@ -603,6 +603,30 @@ http://93.155.227.38:555/m3u8/arenasport4.m3u8
 #EXTINF:-1,Arena sport 5 HD 🇷🇸
 http://93.155.227.38:555/m3u8/arenasport5.m3u8
 
+#EXTINF:-1,Arena Sport 1 🇷🇸
+http://82.114.82.161:8000/play/a0lx/index.m3u8
+
+#EXTINF:-1,Arena Sport 2 🇷🇸
+http://82.114.82.161:8000/play/a0ly/index.m3u8
+
+#EXTINF:-1,Arena Sport 3 🇷🇸
+http://82.114.82.161:8000/play/a0lz/index.m3u8
+
+#EXTINF:-1,Arena Sport 4 🇷🇸
+http://82.114.82.161:8000/play/a0k6/index.m3u8
+
+#EXTINF:-1,Arena Sport 5 🇷🇸
+http://82.114.82.161:8000/play/a0k7/index.m3u8
+
+#EXTINF:-1,Arena Sport Premium 1 🇷🇸
+http://82.114.82.161:8000/play/a0k3/index.m3u8
+
+#EXTINF:-1,Arena Sport Premium 2 🇷🇸
+http://82.114.82.161:8000/play/a0k4/index.m3u8
+
+#EXTINF:-1,Arena Sport Premium 3 🇷🇸
+http://82.114.82.161:8000/play/a0k5/index.m3u8
+
 #EXTINF:-1, ARENA SPORT 1 🇷🇸
 http://204.12.247.162:8080/premium429/mono.m3u8
 
@@ -1381,30 +1405,6 @@ https://linear-506.frequency.stream/dist/vix/506/hls/master/playlist.m3u8
 
 #EXTINF:-1, VIX 4 🇨🇴
 https://linear-507.frequency.stream/dist/vix/507/hls/master/playlist.m3u8
-
-#EXTINF:-1,Arena Sport 1
-http://82.114.82.161:8000/play/a0lx/index.m3u8
-
-#EXTINF:-1,Arena Sport 2
-http://82.114.82.161:8000/play/a0ly/index.m3u8
-
-#EXTINF:-1,Arena Sport 3
-http://82.114.82.161:8000/play/a0lz/index.m3u8
-
-#EXTINF:-1,Arena Sport 4
-http://82.114.82.161:8000/play/a0k6/index.m3u8
-
-#EXTINF:-1,Arena Sport 5
-http://82.114.82.161:8000/play/a0k7/index.m3u8
-
-#EXTINF:-1,Arena Sport Premium 1
-http://82.114.82.161:8000/play/a0k3/index.m3u8
-
-#EXTINF:-1,Arena Sport Premium 2
-http://82.114.82.161:8000/play/a0k4/index.m3u8
-
-#EXTINF:-1,Arena Sport Premium 3
-http://82.114.82.161:8000/play/a0k5/index.m3u8
 
 #EXTINF:-1,K Sport 1
 http://82.114.82.161:8000/play/a0fn/index.m3u8
