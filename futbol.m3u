@@ -831,6 +831,9 @@ http://51.159.213.59:8000/play/a00q/index.m3u8
 #EXTINF:-1,Digi Sport 3 RO 🇷🇴
 http://51.159.213.59:8000/play/a00s/index.m3u8
 
+#EXTINF:-1,DIGI SPORT 3 HD 🇷🇴
+http://80.96.24.248:8000/play/a00t
+
 #EXTINF:-1,Digi Sport 4 FHD RO 🇷🇴
 http://51.159.213.59:8000/play/a00v/index.m3u8
 
@@ -969,11 +972,20 @@ http://95.217.196.109:8081/russia/match_futbol_2/playlist.m3u8
 #EXTINF:-1,МАТЧ Футбол 3 HD 🇷🇺
 http://95.217.196.109:8081/russia/match_futbol_3/playlist.m3u8
 
+#EXTINF:-1,Матч!Футбол 1 🇷🇺
+http://80.251.49.103:8001/play/108
+
+#EXTINF:-1,Матч!Футбол 3 🇷🇺
+http://80.251.49.103:8001/play/210
+
 #EXTINF:-1, SPORT 1 HD 🇷🇺
 http://88.216.83.245:80/sport1/index.m3u8
 
 #EXTINF:-1, VIASAT SPORT 🇷🇺
 https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
+
+#EXTINF:-1,V sport 🇷🇺
+http://80.96.24.248:8000/play/a005
 
 #EXTINF:-1, SPORT RU 🇷🇺
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
@@ -1471,22 +1483,6 @@ https://linear-506.frequency.stream/dist/vix/506/hls/master/playlist.m3u8
 
 #EXTINF:-1, VIX 4 🇨🇴
 https://linear-507.frequency.stream/dist/vix/507/hls/master/playlist.m3u8
-
-
-#EXTINF:-1,DIGI SPORT 3 HD
-http://80.96.24.248:8000/play/a00t
-
-#EXTINF:-1,v sport
-http://80.96.24.248:8000/play/a005
-
-#EXTINF:-1,SPORT KLUB HD
-http://80.96.24.248:8000/play/a00l
-
-#EXTINF:-1,Матч!Футбол 1
-http://80.251.49.103:8001/play/108
-
-#EXTINF:-1,Матч!Футбол 3
-http://80.251.49.103:8001/play/210
 
 #EXTINF:-1,Setanta Sports +/4
 http://78.26.128.59:9876/play/4/index.m3u8
