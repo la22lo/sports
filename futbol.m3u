@@ -1327,6 +1327,9 @@ https://linear-357.frequency.stream:443/dist/vix/357/hls/master/playlist_1024x57
 http://212.224.84.217:2200/EX/Sky_Sports_F1_FHD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 
 #EXTINF:-1, DAZN F1 🇪🇸
+http://212.224.84.217:2200/NL/daznf1hd-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jn
+
+#EXTINF:-1, DAZN F1 🇪🇸
 http://51.178.36.235:49214/DAZN_F1/hls/playlist.m3u8
 
 #EXTINF:-1, REAL MADRID TV
