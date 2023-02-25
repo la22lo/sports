@@ -813,8 +813,14 @@ http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/270/index.m3u8
 #EXTINF:-1,Setanta Sports 🇺🇦
 http://d982310c.ottrast.com/iptv/VAS9DM6Q9AYC3K/272/index.m3u8
 
-#EXTINF:-1,Setanta Sports 🇺🇦
-http://nohn.me/play/hjGS-tDz3JSOQ6fHw721VpXg4vIHS1VMqqwBBlkyiZg
+#EXTINF:-1,SETANTA 1 🇺🇦
+http://2.57.217.197:8080/play/a05m/index.m3u8
+
+#EXTINF:-1,SETANTA 2 🇺🇦
+http://2.57.217.197:8080/play/a05n/index.m3u8
+
+#EXTINF:-1,SETANTA 3 🇺🇦
+http://2.57.217.197:8080/play/a07i/index.m3u8
 
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
@@ -1369,15 +1375,6 @@ https://linear-506.frequency.stream/dist/vix/506/hls/master/playlist.m3u8
 
 #EXTINF:-1, VIX 4 🇨🇴
 https://linear-507.frequency.stream/dist/vix/507/hls/master/playlist.m3u8
-
-#EXTINF:-1,SETANTA 1
-http://2.57.217.197:8080/play/a05m/index.m3u8
-
-#EXTINF:-1,SETANTA 2 
-http://2.57.217.197:8080/play/a05n/index.m3u8
-
-#EXTINF:-1,SETANTA 3
-http://2.57.217.197:8080/play/a07i/index.m3u8
 
 #EXTINF:-1,PTV SPORTS
 http://103.86.54.2:7500/play/a03o
