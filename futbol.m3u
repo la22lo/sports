@@ -24,6 +24,9 @@ http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://176.57.50.167:25461/692803/264908/7629
 
+#EXTINF:-1, TRUE VISIONS 3 🇹🇭
+http://live.apicold.com/streaming/02_epl2_720p/chunklist.m3u8?token=MTMzMzQzNDNhM2Q2ZjYzNmUyMzc1Njk2NjdmNmQ2ZjZmNjQ2NTY2Nzk2YzZlMjQ3MjdmNjA3MzdmMmYyYTMzNzA3NDc0Nzg2
+
 #EXTINF:-1, Supersport LALIGA 🇿🇦
 http://pakin2.worldtvip.co:9090/za_ss_laliga/tracks-v1a1/mono.m3u8
 
@@ -110,6 +113,12 @@ http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92719.ts
 
 #EXTINF:-1, ESPN LIVE 🇺🇸
 http://thehive.tv:25461/kevinburrell/kevinburrell22/1545
+
+#EXTINF:-1, TRUE VISIONS 1 🇹🇭
+http://live.apicold.com/streaming/02_epl1_720p/chunklist.m3u8?token=MTMzMzQzNDNhM2Q2ZjYzNmUyMzc1Njk2NjdmNmQ2ZjZmNjQ2NTY2Nzk2YzZlMjQ3MjdmNjA3MzdmMmYyYTMzNzA3NDc0Nzg2
+
+#EXTINF:-1, TRUE VISIONS 3 🇹🇭
+http://live.apicold.com/streaming/02_epl2_720p/chunklist.m3u8?token=MTMzMzQzNDNhM2Q2ZjYzNmUyMzc1Njk2NjdmNmQ2ZjZmNjQ2NTY2Nzk2YzZlMjQ3MjdmNjA3MzdmMmYyYTMzNzA3NDc0Nzg2
 
 #EXTINF:-1, TRUE VISIONS 1 🇹🇭
 https://movie.7yup.net/live/sport2/index.m3u8
