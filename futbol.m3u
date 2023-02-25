@@ -1125,6 +1125,9 @@ http://pakin.worldtvip.co/pk_asports/tracks-v1a1/mono.m3u8
 #EXTINF:-1,A SportsHD 🇮🇳
 http://212.224.84.217:2200/R-EX/PAK_ASPORT-HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
 
+#EXTINF:-1,SPORT 18 🇮🇳
+https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/2jrjOk-Q0m_tNFbj8aqzkLjLyh_LFAd_n8A0U0nbUDUzGkILgbLeyLMOKIyruqUxV2Tbxe1mDMn_tKebpoLu7w/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tm_master_dynamic_highlatency.m3u8?type=live
+
 #EXTINF:-1, PTV SPORT 🇮🇳
 http://pakin.worldtvip.co/pk_ptv_sports/tracks-v1a1/mono.m3u8
 
