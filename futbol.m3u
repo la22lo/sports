@@ -588,6 +588,18 @@ http://146.59.54.163:1234/stream/ginxsport/master.m3u8
 #EXTINF:-1,RTSH SPORT 🇦🇱
 http://79.106.48.2:8800/play/a01w/index.m3u8
 
+#EXTINF:-1,K Sport 1 🇦🇱
+http://82.114.82.161:8000/play/a0fn/index.m3u8
+
+#EXTINF:-1,K Sport 2 🇦🇱
+http://82.114.82.161:8000/play/a0ku/index.m3u8
+
+#EXTINF:-1,K Sport 3 🇦🇱
+http://82.114.82.161:8000/play/a0fo/index.m3u8
+
+#EXTINF:-1,K Sport 4 🇦🇱
+http://82.114.82.161:8000/play/a0fp/index.m3u8
+
 #EXTINF:-1,Arena 1 HD 🇷🇸
 http://93.155.227.38:555/m3u8/arenasport1.m3u8
 
@@ -1405,18 +1417,6 @@ https://linear-506.frequency.stream/dist/vix/506/hls/master/playlist.m3u8
 
 #EXTINF:-1, VIX 4 🇨🇴
 https://linear-507.frequency.stream/dist/vix/507/hls/master/playlist.m3u8
-
-#EXTINF:-1,K Sport 1
-http://82.114.82.161:8000/play/a0fn/index.m3u8
-
-#EXTINF:-1,K Sport 2
-http://82.114.82.161:8000/play/a0ku/index.m3u8
-
-#EXTINF:-1,K Sport 3
-http://82.114.82.161:8000/play/a0fo/index.m3u8
-
-#EXTINF:-1,K Sport 4
-http://82.114.82.161:8000/play/a0fp/index.m3u8
 
 #EXTINF:-1,Sport 1
 http://82.114.82.161:8000/play/a0j3/index.m3u8
