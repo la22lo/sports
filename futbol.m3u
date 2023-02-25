@@ -420,6 +420,9 @@ http://213.13.16.138/shls/LIVE%24Eleven_Sports_6_HD/index.m3u8?device=TVOS_Live&
 #EXTINF:-1,SPORT TV + 🇵🇹
 http://thehive.tv:25461/kevinburrell/kevinburrell22/5465
 
+#EXTINF:-1,SPORT TV + 🇵🇹
+http://188.83.254.173:8800/play/a041/index.m3u8
+
 #EXTINF:-1,SPORT TV 1 HD 🇵🇹
 https://h7lya1.2embed.sbs/cdn/HyP24XNgJqz4/tracks-v1a1/mono.m3u8?token=d2ab42d4915d28bb2f8733673ffc8b3772b2fed4-38413d7fe070ff947c962ae4f30ee469--
 
