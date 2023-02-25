@@ -1513,5 +1513,11 @@ http://212.224.84.217:2200/NL/daznf1hd-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFp
 #EXTINF:-1, DAZN F1 🇪🇸
 http://51.178.36.235:49214/DAZN_F1/hls/playlist.m3u8
 
+#EXTINF:-1,SUPER TENNIS 🇬🇧
+https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
+
+#EXTINF:-1,SUPER TENNIS 🇬🇧
+http://176.57.50.167:25461/692803/264908/83367
+
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
