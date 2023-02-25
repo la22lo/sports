@@ -600,6 +600,24 @@ http://82.114.82.161:8000/play/a0fo/index.m3u8
 #EXTINF:-1,K Sport 4 🇦🇱
 http://82.114.82.161:8000/play/a0fp/index.m3u8
 
+#EXTINF:-1,Super Sport 1 🇦🇱
+http://82.114.82.161:8000/play/a0hr/index.m3u8
+
+#EXTINF:-1,Super Sport 2 🇦🇱
+http://82.114.82.161:8000/play/a0hk/index.m3u8
+
+#EXTINF:-1,Super Sport 3 🇦🇱
+http://82.114.82.161:8000/play/a0gc/index.m3u8
+
+#EXTINF:-1,Super Sport 4 🇦🇱
+http://82.114.82.161:8000/play/a0gm/index.m3u8
+
+#EXTINF:-1,Super Sport 5 🇦🇱
+http://82.114.82.161:8000/play/a0l5/index.m3u8
+
+#EXTINF:-1,Super Sport 6 🇦🇱
+http://82.114.82.161:8000/play/a0kl/index.m3u8
+
 #EXTINF:-1,Arena 1 HD 🇷🇸
 http://93.155.227.38:555/m3u8/arenasport1.m3u8
 
@@ -698,6 +716,30 @@ http://94.250.2.6:7374/play/a02o/index.m3u8
 
 #EXTINF:-1,Arena Sport 4 🇧🇦
 http://94.250.2.6:7374/play/a012/index.m3u8
+
+#EXTINF:-1,Super Sport Kosova 1 🇽🇰
+http://82.114.82.161:8000/play/a0hs/index.m3u8
+
+#EXTINF:-1,Super Sport Kosova 2 🇽🇰
+http://82.114.82.161:8000/play/a0hl/index.m3u8
+
+#EXTINF:-1,Super Sport Kosova 3 🇽🇰
+http://82.114.82.161:8000/play/a0ib/index.m3u8
+
+#EXTINF:-1,Sport 1 🇽🇰
+http://82.114.82.161:8000/play/a0j3/index.m3u8
+
+#EXTINF:-1,Sport 2 🇽🇰
+http://82.114.82.161:8000/play/a0mk/index.m3u8
+
+#EXTINF:-1,Sport 3 🇽🇰
+http://82.114.82.161:8000/play/a0j5/index.m3u8
+
+#EXTINF:-1,Sport 4 🇽🇰
+http://82.114.82.161:8000/play/a0i9/index.m3u8
+
+#EXTINF:-1,Sport 5 🇽🇰
+http://82.114.82.161:8000/play/a0ia/index.m3u8
 
 #EXTINF:-1, ARENA SPORT 2 🇭🇷
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/258514.ts
@@ -1417,54 +1459,6 @@ https://linear-506.frequency.stream/dist/vix/506/hls/master/playlist.m3u8
 
 #EXTINF:-1, VIX 4 🇨🇴
 https://linear-507.frequency.stream/dist/vix/507/hls/master/playlist.m3u8
-
-#EXTINF:-1,Sport 1
-http://82.114.82.161:8000/play/a0j3/index.m3u8
-
-#EXTINF:-1,Sport 2
-http://82.114.82.161:8000/play/a0mk/index.m3u8
-
-#EXTINF:-1,Sport 3
-http://82.114.82.161:8000/play/a0j5/index.m3u8
-
-#EXTINF:-1,Sport 4
-http://82.114.82.161:8000/play/a0i9/index.m3u8
-
-#EXTINF:-1,Sport 5
-http://82.114.82.161:8000/play/a0ia/index.m3u8
-
-#EXTINF:-1,Star HD
-http://82.114.82.161:8000/play/a0io/index.m3u8
-
-#EXTINF:-1,Star Plus
-http://82.114.82.161:8000/play/a0jw/index.m3u8
-
-#EXTINF:-1,Super Sport 1
-http://82.114.82.161:8000/play/a0hr/index.m3u8
-
-#EXTINF:-1,Super Sport 2
-http://82.114.82.161:8000/play/a0hk/index.m3u8
-
-#EXTINF:-1,Super Sport 3
-http://82.114.82.161:8000/play/a0gc/index.m3u8
-
-#EXTINF:-1,Super Sport 4
-http://82.114.82.161:8000/play/a0gm/index.m3u8
-
-#EXTINF:-1,Super Sport 5
-http://82.114.82.161:8000/play/a0l5/index.m3u8
-
-#EXTINF:-1,Super Sport 6
-http://82.114.82.161:8000/play/a0kl/index.m3u8
-
-#EXTINF:-1,Super Sport Kosova 1
-http://82.114.82.161:8000/play/a0hs/index.m3u8
-
-#EXTINF:-1,Super Sport Kosova 2
-http://82.114.82.161:8000/play/a0hl/index.m3u8
-
-#EXTINF:-1,Super Sport Kosova 3
-http://82.114.82.161:8000/play/a0ib/index.m3u8
 
 #EXTINF:-1,ARENA SPORT 3 HD
 http://80.96.24.248:8000/play/a00v
