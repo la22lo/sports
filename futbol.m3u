@@ -663,6 +663,12 @@ http://82.114.82.161:8000/play/a0k4/index.m3u8
 #EXTINF:-1,Arena Sport Premium 3 🇷🇸
 http://82.114.82.161:8000/play/a0k5/index.m3u8
 
+#EXTINF:-1,ARENA SPORT1 PREMIUM 4K 🇷🇸
+http://80.96.24.248:8000/play/a00o
+
+#EXTINF:-1,ARENA SPORT 3 PREMIUM HD 🇷🇸
+http://80.96.24.248:8000/play/a00v
+
 #EXTINF:-1, ARENA SPORT 1 🇷🇸
 http://204.12.247.162:8080/premium429/mono.m3u8
 
@@ -1466,11 +1472,6 @@ https://linear-506.frequency.stream/dist/vix/506/hls/master/playlist.m3u8
 #EXTINF:-1, VIX 4 🇨🇴
 https://linear-507.frequency.stream/dist/vix/507/hls/master/playlist.m3u8
 
-#EXTINF:-1,ARENA SPORT 3 HD
-http://80.96.24.248:8000/play/a00v
-
-#EXTINF:-1,ARENA SPORT1 4K
-http://80.96.24.248:8000/play/a00o
 
 #EXTINF:-1,DIGI SPORT 3 HD
 http://80.96.24.248:8000/play/a00t
