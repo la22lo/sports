@@ -1358,6 +1358,15 @@ https://linear-506.frequency.stream/dist/vix/506/hls/master/playlist.m3u8
 #EXTINF:-1, VIX 4 🇨🇴
 https://linear-507.frequency.stream/dist/vix/507/hls/master/playlist.m3u8
 
+#EXTINF:-1,SETANTA 1
+http://2.57.217.197:8080/play/a05m/index.m3u8
+
+#EXTINF:-1,SETANTA 2 
+http://2.57.217.197:8080/play/a05n/index.m3u8
+
+#EXTINF:-1,SETANTA 3
+http://2.57.217.197:8080/play/a07i/index.m3u8
+
 #EXTINF:-1, SKY F1 🇬🇧
 http://212.224.84.217:2200/EX/Sky_Sports_F1_FHD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 
