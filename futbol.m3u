@@ -987,6 +987,18 @@ http://80.251.49.103:8001/play/210
 #EXTINF:-1, SPORT 1 HD 🇷🇺
 http://88.216.83.245:80/sport1/index.m3u8
 
+#EXTINF:-1,Sport1 🇷🇺
+http://78.26.128.59:9876/play/516/index.m3u8
+
+#EXTINF:-1,Sport2 Baltic 🇷🇺
+http://78.26.128.59:9876/play/519/index.m3u8
+
+#EXTINF:-1,Sport 3 🇷🇺
+http://78.26.128.59:9876/play/535/index.m3u8
+
+#EXTINF:-1,Sport 4 🇷🇺
+http://78.26.128.59:9876/play/518/index.m3u8
+
 #EXTINF:-1, VIASAT SPORT 🇷🇺
 https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
 
@@ -1489,22 +1501,6 @@ https://linear-506.frequency.stream/dist/vix/506/hls/master/playlist.m3u8
 
 #EXTINF:-1, VIX 4 🇨🇴
 https://linear-507.frequency.stream/dist/vix/507/hls/master/playlist.m3u8
-
-
-#EXTINF:-1,Sport 3/535
-http://78.26.128.59:9876/play/535/index.m3u8
-
-#EXTINF:-1,Sport 4/518
-http://78.26.128.59:9876/play/518/index.m3u8
-
-#EXTINF:-1,Sport1/516
-http://78.26.128.59:9876/play/516/index.m3u8
-
-#EXTINF:-1,Sport2 Baltic/519
-http://78.26.128.59:9876/play/519/index.m3u8
-
-#EXTINF:-1,Sport2/517
-http://78.26.128.59:9876/play/517/index.m3u8
 
 #EXTINF:-1, SKY F1 🇬🇧
 http://212.224.84.217:2200/EX/Sky_Sports_F1_FHD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
