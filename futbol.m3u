@@ -54,6 +54,9 @@ http://212.224.84.217:2200/NL/daznlaliga1-esp/tracks-v1a1/mono.m3u8?token=fwBlCn
 #EXTINF:-1, DAZN LALIGA 🇪🇸
 http://212.224.84.217:2200/NL/daznlaliga1-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
 
+#EXTINF:-1,DAZN LA LIGA 🇪🇸
+http://80.96.24.248:8000/play/a00f
+
 #EXTINF:-1, M LALIGA 🇪🇸
 http://51.158.36.81:18000/M_LaLiga/hls/playlist.m3u8
 
@@ -1465,9 +1468,6 @@ http://80.96.24.248:8000/play/a00v
 
 #EXTINF:-1,ARENA SPORT1 4K
 http://80.96.24.248:8000/play/a00o
-
-#EXTINF:-1,DAZN LA LIGA
-http://80.96.24.248:8000/play/a00f
 
 #EXTINF:-1,DIGI SPORT 3 HD
 http://80.96.24.248:8000/play/a00t
