@@ -906,6 +906,12 @@ http://am01.spr24.net/934/mpegts?token=7t4p47A93etzsd
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
 http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/270/index.m3u8
 
+#EXTINF:-1,Setanta Sports Live 🇺🇦
+http://78.26.128.59:9876/play/4/index.m3u8
+
+#EXTINF:-1,Setanta Sports Live 🇺🇦
+http://78.26.128.59:9876/play/161/index.m3u8
+
 #EXTINF:-1,Setanta Sports 🇺🇦
 http://d982310c.ottrast.com/iptv/VAS9DM6Q9AYC3K/272/index.m3u8
 
@@ -1484,11 +1490,6 @@ https://linear-506.frequency.stream/dist/vix/506/hls/master/playlist.m3u8
 #EXTINF:-1, VIX 4 🇨🇴
 https://linear-507.frequency.stream/dist/vix/507/hls/master/playlist.m3u8
 
-#EXTINF:-1,Setanta Sports +/4
-http://78.26.128.59:9876/play/4/index.m3u8
-
-#EXTINF:-1,Setanta Sports/161
-http://78.26.128.59:9876/play/161/index.m3u8
 
 #EXTINF:-1,Sport 3/535
 http://78.26.128.59:9876/play/535/index.m3u8
