@@ -888,6 +888,9 @@ http://51.159.213.59:8000/play/a00o/index.m3u8
 #EXTINF:-1,Digi Sport 2 RO 🇷🇴
 http://51.159.213.59:8000/play/a00q/index.m3u8
 
+#EXTINF:-1, DIGI SPORT 2 🇷🇴
+http://50.7.89.130/h4jgxs/video.m3u8?token=ZKF89T31BF
+
 #EXTINF:-1,Digi Sport 3 RO 🇷🇴
 http://51.159.213.59:8000/play/a00s/index.m3u8
 
@@ -1564,8 +1567,7 @@ https://movie.7yup.net/live/sport3/index.m3u8
 https://linear-357.frequency.stream:443/dist/vix/357/hls/master/playlist_1024x576.m3u8
 
 
-#EXTINF:-1, DIGI SPORT 2 🇷🇴
-http://50.7.89.130/h4jgxs/video.m3u8?token=ZKF89T31BF
+
 
 #EXTINF:-1, VIX 1 🇨🇷
 https://linear-489.frequency.stream/dist/vix/489/hls/master/playlist.m3u8
@@ -1578,15 +1580,6 @@ https://linear-506.frequency.stream/dist/vix/506/hls/master/playlist.m3u8
 
 #EXTINF:-1, VIX 4 🇨🇷
 https://linear-507.frequency.stream/dist/vix/507/hls/master/playlist.m3u8
-
-#EXTINF:-1, SKY F1 🇬🇧
-http://212.224.84.217:2200/EX/Sky_Sports_F1_FHD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-
-#EXTINF:-1, DAZN F1 🇪🇸
-http://212.224.84.217:2200/NL/daznf1hd-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jn
-
-#EXTINF:-1, DAZN F1 🇪🇸
-http://51.178.36.235:49214/DAZN_F1/hls/playlist.m3u8
 
 #EXTINF:-1,SUPER TENNIS 🇮🇹
 https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
