@@ -141,8 +141,14 @@ http://thehive.tv:25461/kevinburrell/kevinburrell22/1545
 #EXTINF:-1, TRUE VISIONS 1 🇹🇭
 http://live.apicold.com/streaming/02_epl1_720p/chunklist.m3u8?token=MTMzMzQzNDNhM2Q2ZjYzNmUyMzc1Njk2NjdmNmQ2ZjZmNjQ2NTY2Nzk2YzZlMjQ3MjdmNjA3MzdmMmYyYTMzNzA3NDc0Nzg2
 
+#EXTINF:-1, TRUE VISIONS 1 🇹🇭
+http://live.apicold.com/streaming/02_sport2_480p/chunklist.m3u8?token=MTMzMzQzNDNhM2Q2ZjYzNmUyMzc1Njk2NjdmNmQ2ZjZmNjQ2NTY2Nzk2YzZlMjQ3MjdmNjA3MzdmMmYyYTMzNzA3NDc0Nzg2
+
 #EXTINF:-1, TRUE VISIONS 3 🇹🇭
 http://live.apicold.com/streaming/02_epl2_720p/chunklist.m3u8?token=MTMzMzQzNDNhM2Q2ZjYzNmUyMzc1Njk2NjdmNmQ2ZjZmNjQ2NTY2Nzk2YzZlMjQ3MjdmNjA3MzdmMmYyYTMzNzA3NDc0Nzg2
+
+#EXTINF:-1, TRUE VISIONS 3 🇹🇭
+http://live.apicold.com/streaming/02_sport6_480p/chunklist.m3u8?token=MTMzMzQzNDNhM2Q2ZjYzNmUyMzc1Njk2NjdmNmQ2ZjZmNjQ2NTY2Nzk2YzZlMjQ3MjdmNjA3MzdmMmYyYTMzNzA3NDc0Nzg2
 
 #EXTINF:-1, TRUE VISIONS 1 🇹🇭
 https://movie.7yup.net/live/sport2/index.m3u8
