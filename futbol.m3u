@@ -1635,5 +1635,17 @@ http://149.62.177.98:8001/play/a0vx
 #EXTINF:-1,Sport 5
 http://149.62.177.98:8001/play/a0vy
 
+#EXTINF:-1,0013.Матч Футбол 1
+http://178.160.249.210:8001/play/a00r/index.m3u8
+
+#EXTINF:-1,0014.Матч Футбол 2
+http://178.160.249.210:8001/play/a00s/index.m3u8
+
+#EXTINF:-1,0015.Матч Футбол 3
+http://178.160.249.210:8001/play/a00t/index.m3u8
+
+#EXTINF:-1,0019.Матч ТВ
+http://178.160.249.210:8001/play/a004/index.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
