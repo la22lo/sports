@@ -372,6 +372,9 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1,TUDN 🇲🇽
 http://45.182.21.251:33334/play/a07y/index.m3u8
 
+#EXTINF:-1,TUDN 🇲🇽
+http://204.12.247.162:8080/premium66/mono.m3u8
+
 #EXTINF:-1,TUDN HD USA 🇲🇽
 http://45.182.21.251:33334/play/a077/index.m3u8
 
@@ -503,6 +506,9 @@ http://thehive.tv:25461/kevinburrell/kevinburrell22/5466
 
 #EXTINF:-1,SPORT TV 1 HD 🇵🇹
 http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
+#EXTINF:-1,SPORT TV 1 HD 🇵🇹
+http://204.12.247.162:8080/premium49/mono.m3u8
 
 #EXTINF:-1,SPORT TV 2 HD 🇵🇹
 http://thehive.tv:25461/kevinburrell/kevinburrell22/5471
@@ -1175,6 +1181,9 @@ http://212.224.84.217:2200/EX/Polsat_Sport_Premium_3-po/tracks-v1a1/mono.m3u8?to
 
 #EXTINF:-1, Polsat Sport Premium 4 🇵🇱
 http://212.224.84.217:2200/EX/Polsat_Sport_Premium_4-po/tracks-v1a1/mono.m3u8?token=
+
+#EXTINF:-1, Canal + Sport 🇵🇱
+http://204.12.247.162:8080/premium75/mono.m3u8
 
 #EXTINF:-1, ZIGGO SELECT 🇳🇱
 http://82.197.214.59:4002/play/a03e/index.m3u8
