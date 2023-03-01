@@ -567,11 +567,17 @@ http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=L
 #EXTINF:-1,SPORT TV 1 HD 🇵🇹
 http://204.12.247.162:8080/premium49/mono.m3u8
 
+#EXTINF:-1,SPORT TV 1 HD 🇵🇹
+http://suatv.fun:80/canaisp2p/mudar@2021j45/505404
+
 #EXTINF:-1,SPORT TV 2 HD 🇵🇹
 http://thehive.tv:25461/kevinburrell/kevinburrell22/5471
 
 #EXTINF:-1,SPORT TV 2 HD 🇵🇹
 http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
+#EXTINF:-1,SPORT TV 2 HD 🇵🇹
+http://suatv.fun:80/canaisp2p/mudar@2021j45/505405
 
 #EXTINF:-1,SPORT TV 3 HD 🇵🇹
 http://thehive.tv:25461/kevinburrell/kevinburrell22/5476
@@ -590,6 +596,9 @@ http://thehive.tv:25461/kevinburrell/kevinburrell22/5482
 
 #EXTINF:-1,SPORT TV 5 HD 🇵🇹
 http://213.13.16.138/shls/LIVE%24SPORTTV5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
+#EXTINF:-1,SPORT TV 5 HD 🇵🇹
+http://suatv.fun:80/canaisp2p/mudar@2021j45/505408
 
 #EXTINF:-1,SPORT TV 6 HD 🇵🇹
 http://thehive.tv:25461/kevinburrell/kevinburrell22/5484
