@@ -207,8 +207,14 @@ https://movie.7yup.net/live/sport3/index.m3u8
 #EXTINF:-1, BEIN 1 🇮🇩
 http://103.167.167.5:8111/play/a02m/index.m3u8
 
+#EXTINF:-1, BEIN 1 🇮🇩
+https://beetv.my.id/x/usee-bein1-masihsama.m3u8
+
 #EXTINF:-1, BEIN 3 🇮🇩
 http://103.167.167.5:8111/play/a02n/index.m3u8
+
+#EXTINF:-1, BEIN 3 🇮🇩
+https://beetv.my.id/x/usee-bein2-masihsama.m3u8
 
 #EXTINF:-1,Setanta Sports 1 HD 🇷🇺
 https://livetv.mylifeisgood.ml/channels/setantahd
@@ -1308,6 +1314,9 @@ http://212.224.84.217:2200/R-EX/TEN_SPORTS_PK-in/index.m3u8?token=egBlCndpe3ZiDX
 #EXTINF:-1,CCTV5 🇨🇳
 http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8
 
+#EXTINF:-1,CCTV5 🇨🇳
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+
 #EXTINF:-1,CCTV5+ 🇨🇳
 http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8
 
@@ -1319,6 +1328,9 @@ http://vtsstr4.sctv.vn:1935/live/SCTV_HD_TheThao_new.smil/CDAM.m3u8
 
 #EXTINF:-1, BTV 5 🇻🇳
 http://vtsstr4.tv24.vn:1935/live/btv5_HD_new.smil/playlist.m3u8
+
+#EXTINF:-1, BTV 5 🇻🇳
+http://171.238.181.52:18080/194.m3u8
 
 #EXTINF:-1,VTV 2 🇻🇳
 https://live-ali4.tv360.vn/manifest/vtv2/playlist_720p.m3u8
@@ -1341,8 +1353,35 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 #EXTINF:-1, SPOTV 1 🇰🇷
 http://103.167.167.5:8111/play/a020/index.m3u8
 
+#EXTINF:-1, SPOTV 1 🇰🇷
+https://cdn-us-154.cloudrsst.com/live/spotv_540/playlist.m3u8
+
 #EXTINF:-1, SPOTV 2 🇰🇷
 http://103.167.167.5:8111/play/a010/index.m3u8
+
+#EXTINF:-1, SPOTV 2 🇰🇷
+https://cdn-us-154.cloudrsst.com/live/spotv_2_540/playlist.m3u8
+
+#EXTINF:-1, SPOTV PRIME 🇰🇷
+https://cdn-us-154.cloudrsst.com/live/spotv_prime_540/playlist.m3u8
+
+#EXTINF:-1, SPOTV 1 🇮🇩
+https://beetv.my.id/x/usee-spotv-masihsama.m3u8
+
+#EXTINF:-1, SPOTV 2 🇮🇩
+https://beetv.my.id/x/usee-spotv2-masihsama.m3u8
+
+#EXTINF:-1, CHAMPIONS TV 1 🇮🇩
+http://iptv.dxdtv.xyz:8080/live/Avenger100cnx/iIMpkGogJ7/77220.ts
+
+#EXTINF:-1, CHAMPIONS TV 2 🇮🇩
+http://iptv.dxdtv.xyz:8080/live/Avenger100cnx/iIMpkGogJ7/77221.ts
+
+#EXTINF:-1, SCTV 🇮🇩
+https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/204.m3u8
+
+#EXTINF:-1, SCTV 🇮🇩
+http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
 #EXTINF:-1, TVN SPORTS 🇰🇷
 https://cdn-us-154.cloudrsst.com/live/olivetv_540/playlist.m3u8
@@ -1460,6 +1499,27 @@ http://ott-cdn.ucom.am/s4/04.m3u8
 
 #EXTINF:-1, PREMIUM ARMENIA TV 🇦🇲
 http://ott-cdn.ucom.am/s83/03.m3u8
+
+#EXTINF:-1, SSC•1•🇸🇦
+https://spotv.me:8080/FG5195018939/5195018939/177320
+
+#EXTINF:-1, SSC•2•🇸🇦
+https://spotv.me:8080/FG5195018939/5195018939/177321
+
+#EXTINF:-1, SSC•3•🇸🇦
+https://spotv.me:8080/FG5195018939/5195018939/177322
+
+#EXTINF:-1, SSC•4•🇸🇦
+https://spotv.me:8080/FG5195018939/5195018939/177323
+
+#EXTINF:-1, SSC•5•🇸🇦
+https://spotv.me:8080/FG5195018939/5195018939/177324
+
+#EXTINF:-1, SSC•EXTRA•1•🇸🇦
+https://spotv.me:8080/FG5195018939/5195018939/177325
+
+#EXTINF:-1, SSC•EXTRA•2•🇸🇦
+https://spotv.me:8080/FG5195018939/5195018939/177326
 
 #EXTINF:-1, DUBAI SPORTS 🇸🇦
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
