@@ -1638,5 +1638,8 @@ http://myportal.live:8080/Keepitrealexch/MMCCy6XRMX/449646
 #EXTINF:-1,BEIN 2 FR
 https://cdn2.livehd720.com/hlsbein2/bein2/playlist.m3u8
 
+#EXTINF:-1,BEIN 2 AR
+https://yeszet1x1cdn23.goalarab.site/liveb2/b.2/playlist.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
