@@ -612,6 +612,9 @@ http://146.19.16.209:8034/play/a06m
 #EXTINF:-1,BEIN SPORTS 1 HD 🇨🇵
 http://176.57.50.167:25461/692803/264908/84910
 
+#EXTINF:-1,BEIN 1 🇨🇵
+https://h7lya1.2embed.sbs/cdn/Mdplz23MNkdi/tracks-v1a1/mono.m3u8?token=e03dd78c11aeff5f03008062eff6aa93aff968c0-af5e7973d327e743e3bba6c19db192c2--
+
 #EXTINF:-1,BEIN SPORTS 2 HD 🇨🇵
 http://176.57.50.167:25461/692803/264908/84911
 
@@ -1563,24 +1566,8 @@ https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8
 #EXTINF:-1, WEBOTV 3 🇷🇺
 https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8
 
-#EXTINF:-1,BEIN 1
-https://h7lya1.2embed.sbs/cdn/Mdplz23MNkdi/tracks-v1a1/mono.m3u8?token=e03dd78c11aeff5f03008062eff6aa93aff968c0-af5e7973d327e743e3bba6c19db192c2--
-
-#EXTINF:-1, BEIN 2 ENGLISH
+#EXTINF:-1, AVIATOR
 https://ua.aviator.tv/stream4/index.m3u8?
-
-#EXTINF:-1, beIN SPORTS 1 PREMIUM 🇶🇦
-https://yeszet1x1cdn23.goalarab.site/livebp1/bp1/chunks.m3u8
-
-#EXTINF:-1, beIN SPORTS 2 PREMIUM 🇶🇦
-https://cdn2.livehd720.com/hlsbeinp7/beinp7/playlist.m3u8
-
-#EXTINF:-1, beIN 4 🇶🇦
-https://yeszet1x1cdn23.goalarab.site/liveb4/b4/playlist.m3u8
-
-#EXTINF:-1,BT SPORT 2 🇬🇧
-https://fullhdmatch.xyz/btsports/index.m3u8
-
 
 
 
