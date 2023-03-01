@@ -1760,5 +1760,8 @@ http://w.nasvpn.xyz:8080/live/best/best/17048.m3u8
 #EXTINF:-1, BEIN SPORT 2 PREMIUM
 http://w.nasvpn.xyz:8080/live/best/best/17047.m3u8
 
+#EXTINF:-1, MEGOGO 1
+https://live.comsaw.com/live/sd-1-3871410.m3u8?txSecret=fdfcd5decc9b3702b2e4007b746994f2&txTime=64000398
+
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
