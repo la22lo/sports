@@ -1098,6 +1098,9 @@ http://78.26.128.59:9876/play/518/index.m3u8
 #EXTINF:-1, VIASAT SPORT 🇷🇺
 https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
 
+#EXTINF:-1, VIASAT SPORT C MORE 🇷🇺
+https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
+
 #EXTINF:-1,V sport 🇷🇺
 http://80.96.24.248:8000/play/a005
 
