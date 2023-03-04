@@ -109,16 +109,7 @@ http://cloudcdn.tk:80/lCXtnmvvqL9Y1458/v4Pm3nmxu8bA9696/99502
 https://videosenlared.fullstreaming.ar:3310/live/canal101live.m3u8
 
 #EXTINF:-1,A SportsHD 🇮🇳
-http://pakin.worldtvip.co/pk_asports/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,A SportsHD 🇮🇳
 http://180.178.188.152:8000/play/a0ad
-
-#EXTINF:-1,A SportsHD 🇮🇳
-https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/GiAZloPOUUZYHGr5WDgvw67lVMOaDuYS1AyQDyssptgheOn3wVpCwT3xN_A8OGVRA_1PrMR2qDoqtvTz5I1u9A/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tm_master_dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1,A SportsHD 🇮🇳
-http://212.224.84.217:2200/R-EX/PAK_ASPORT-HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
 
 #EXTINF:-1,T Sports 🇧🇩
 https://live.tsports.com/live/tsports_live_720/index.m3u8
@@ -128,9 +119,6 @@ http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/109026.ts
 
 #EXTINF:-1, beIN SPORTS 1 🇦🇺
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307817.ts
-
-#EXTINF:-1, ESPN DEPORTES 🇺🇸
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15970
 
 #EXTINF:-1, ESPN DEPORTES 🇺🇸
 http://laondatv.online:8080/leonardo/123456/279155
@@ -144,12 +132,6 @@ http://kenencabs.online:2082/dream/2zLzqbt3Ge/240953
 #EXTINF:-1, ESPN DEPORTES 🇺🇸
 http://thehive.tv:25461/kevinburrell/kevinburrell22/255
 
-#EXTINF:-1, ESPN DEPORTES 🇺🇸
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92719.ts
-
-#EXTINF:-1, ESPN LIVE 🇺🇸
-http://thehive.tv:25461/kevinburrell/kevinburrell22/1545
-
 #EXTINF:-1, TRUE VISIONS 1 🇹🇭
 http://live.apicold.com/streaming/02_epl1_720p/chunklist.m3u8?token=MTMzMzQzNDNhM2Q2ZjYzNmUyMzc1Njk2NjdmNmQ2ZjZmNjQ2NTY2Nzk2YzZlMjQ3MjdmNjA3MzdmMmYyYTMzNzA3NDc0Nzg2
 
@@ -161,12 +143,6 @@ http://live.apicold.com/streaming/02_epl2_720p/chunklist.m3u8?token=MTMzMzQzNDNh
 
 #EXTINF:-1, TRUE VISIONS 3 🇹🇭
 http://live.apicold.com/streaming/02_sport6_480p/chunklist.m3u8?token=MTMzMzQzNDNhM2Q2ZjYzNmUyMzc1Njk2NjdmNmQ2ZjZmNjQ2NTY2Nzk2YzZlMjQ3MjdmNjA3MzdmMmYyYTMzNzA3NDc0Nzg2
-
-#EXTINF:-1, TRUE VISIONS 1 🇹🇭
-https://movie.7yup.net/live/sport2/index.m3u8
-
-#EXTINF:-1, TRUE VISIONS 3 🇹🇭
-https://movie.7yup.net/live/sport3/index.m3u8
 
 #EXTINF:-1, BEIN 1 🇮🇩
 http://103.167.167.5:8111/play/a02m/index.m3u8
