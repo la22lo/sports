@@ -1712,5 +1712,8 @@ http://w.nasvpn.xyz:8080/live/best/best/17048.m3u8
 #EXTINF:-1, BEIN SPORT 2 PREMIUM
 http://w.nasvpn.xyz:8080/live/best/best/17047.m3u8
 
+#EXTINF:-1, ESPN STAR + 🇧🇷
+https://stream.dlivecdn.com/camperooon/1677877893/src/live.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
