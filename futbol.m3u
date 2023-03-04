@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1, LALIGA TV BAR 🇪🇸
-http://176.57.50.167:25461/692803/264908/85904
-
 #EXTINF:-1, VIX 1 🇨🇷
 https://linear-489.frequency.stream/dist/vix/489/hls/master/playlist.m3u8
 
 #EXTINF:-1, VIX 2 🇨🇷
 https://linear-490.frequency.stream/dist/vix/490/hls/master/playlist.m3u8
+
+#EXTINF:-1, LALIGA TV BAR 🇪🇸
+http://176.57.50.167:25461/692803/264908/85904
 
 #EXTINF:-1, ESPN DEPORTES 🇺🇸
 http://cloudcdn.tk:80/lCXtnmvvqL9Y1458/v4Pm3nmxu8bA9696/23260
