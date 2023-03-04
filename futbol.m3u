@@ -1721,8 +1721,5 @@ http://w.nasvpn.xyz:8080/live/best/best/17047.m3u8
 #EXTINF:-1, ESPN STAR + 🇧🇷
 https://stream.dlivecdn.com/camperooon/1677877893/src/live.m3u8
 
-#EXTINF:-1, TS
-http://581017238116165385.niceapy.xyz/play/rubiog/240522/165385.ts
-
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
