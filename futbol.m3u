@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, LALIGA TV BAR 🇪🇸
+http://176.57.50.167:25461/692803/264908/85904
+
 #EXTINF:-1, VIX 1 🇨🇷
 https://linear-489.frequency.stream/dist/vix/489/hls/master/playlist.m3u8
 
