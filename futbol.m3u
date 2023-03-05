@@ -69,6 +69,9 @@ http://51.158.36.81:18000/M_LaLiga/hls/playlist.m3u8
 #EXTINF:-1,bein SPORTS 1 🇶🇦
 http://89.38.99.141/1/mpegts 
 
+#EXTINF:-1,bein SPORTS 1 🇶🇦
+http://89.38.99.141/1/index.m3u8?
+
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 http://cloudcdn.tk:80/lCXtnmvvqL9Y1458/v4Pm3nmxu8bA9696/14980
 
