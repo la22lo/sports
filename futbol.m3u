@@ -66,6 +66,9 @@ http://80.96.24.248:8000/play/a00f
 #EXTINF:-1, M LALIGA 🇪🇸
 http://51.158.36.81:18000/M_LaLiga/hls/playlist.m3u8
 
+#EXTINF:-1,bein SPORTS 1 🇶🇦
+http://89.38.99.141/1/mpegts 
+
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 http://cloudcdn.tk:80/lCXtnmvvqL9Y1458/v4Pm3nmxu8bA9696/14980
 
@@ -464,6 +467,27 @@ https://cdn2.livehd720.com/hlsbein2/bein2/playlist.m3u8
 
 #EXTINF:-1,BEIN 2 🇶🇦
 https://yeszet1x1cdn23.goalarab.site/liveb2/b.2/playlist.m3u8
+
+#EXTINF:-1,bein SPORTS 1 🇶🇦
+http://89.38.99.141/1/mpegts 
+
+#EXTINF:-1,bein SPORTS 2 🇶🇦
+http://89.38.99.141/2/mpegts 
+
+#EXTINF:-1,bein SPORTS 3 🇶🇦
+http://89.38.99.141/3/mpegts 
+
+#EXTINF:-1,bein SPORTS 4 🇶🇦
+http://89.38.99.141/4/mpegts 
+
+#EXTINF:-1,bein SPORTS 5 🇶🇦
+http://89.38.99.141/5/mpegts 
+
+#EXTINF:-1,bein SPORTS 6 🇶🇦
+http://89.38.99.141/6/mpegts 
+
+#EXTINF:-1,bein SPORTS 7 🇶🇦
+http://89.38.99.141/7/mpegts
 
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
@@ -1034,6 +1058,15 @@ http://2.57.217.197:8080/play/a05n/index.m3u8
 
 #EXTINF:-1,SETANTA 3 🇺🇦
 http://2.57.217.197:8080/play/a07i/index.m3u8
+
+#EXTINF:-1,Setanta 1 Qazaqstan HD 🇰🇿
+http://5.75.248.51:8000/play/a002/index.m3u8
+
+#EXTINF:-1,Setanta 2 Qazaqstan HD 🇰🇿
+http://5.75.248.51:8000/play/a003/index.m3u8
+
+#EXTINF:-1,Setanta Qazaqstan HD 🇰🇿
+http://5.75.248.51:8000/play/a001/index.m3u8
 
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
@@ -1720,55 +1753,6 @@ http://w.nasvpn.xyz:8080/live/best/best/17047.m3u8
 
 #EXTINF:-1, ESPN STAR + 🇧🇷
 https://stream.dlivecdn.com/camperooon/1677877893/src/live.m3u8
-
-#EXTINF:-1,bein SPORTS 1 
-http://89.38.99.141/1/mpegts 
-
-#EXTINF:-1,bein SPORTS 2 
-http://89.38.99.141/2/mpegts 
-
-#EXTINF:-1,bein SPORTS 3 
-http://89.38.99.141/3/mpegts 
-
-#EXTINF:-1,bein SPORTS 4 
-http://89.38.99.141/4/mpegts 
-
-#EXTINF:-1,bein SPORTS 5 
-http://89.38.99.141/5/mpegts 
-
-#EXTINF:-1,bein SPORTS 6 
-http://89.38.99.141/6/mpegts 
-
-#EXTINF:-1,bein SPORTS 7 
-http://89.38.99.141/7/mpegts
-
-
-#EXTINF:-1, Arena Sport 1 HD (HR)
-http://84.54.149.199:38000/play/a0y3
-
-#EXTINF:-1, Arena Sport 2 HD (HR)
-http://84.54.149.199:38000/play/a0y4
-
-#EXTINF:-1, Arena Sport 3 HD (HR)
-http://84.54.149.199:38000/play/a0y5
-
-#EXTINF:-1, Arena Sport 4 HD (HR)
-http://84.54.149.199:38000/play/a0y6
-
-#EXTINF:-1, Arena Sport 5 HD (HR)
-http://84.54.149.199:38000/play/a0y7
-
-#EXTINF:-1, Arena Sport 6 HD HR
-http://84.54.149.199:38000/play/a07t
-
-#EXTINF:-1,Setanta 1 Qazaqstan HD
-http://5.75.248.51:8000/play/a002/index.m3u8
-
-#EXTINF:-1,Setanta 2 Qazaqstan HD
-http://5.75.248.51:8000/play/a003/index.m3u8
-
-#EXTINF:-1,Setanta Qazaqstan HD
-http://5.75.248.51:8000/play/a001/index.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
