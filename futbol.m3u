@@ -1742,5 +1742,24 @@ http://89.38.99.141/6/mpegts
 #EXTINF:-1,bein SPORTS 7 
 http://89.38.99.141/7/mpegts
 
+
+#EXTINF:-1, Arena Sport 1 HD (HR)
+http://84.54.149.199:38000/play/a0y3
+
+#EXTINF:-1, Arena Sport 2 HD (HR)
+http://84.54.149.199:38000/play/a0y4
+
+#EXTINF:-1, Arena Sport 3 HD (HR)
+http://84.54.149.199:38000/play/a0y5
+
+#EXTINF:-1, Arena Sport 4 HD (HR)
+http://84.54.149.199:38000/play/a0y6
+
+#EXTINF:-1, Arena Sport 5 HD (HR)
+http://84.54.149.199:38000/play/a0y7
+
+#EXTINF:-1, Arena Sport 6 HD HR
+http://84.54.149.199:38000/play/a07t
+
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
