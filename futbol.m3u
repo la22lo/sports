@@ -1772,6 +1772,15 @@ http://212.224.84.254:2200/NL/daznf1hd-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFp
 #EXTINF:-1, SKY F1 🇬🇧
 https://streaming.f1tv.vip/stream/f1tvlow/chunks.m3u8
 
+#EXTINF:-1, SKY F1 🇬🇧
+http://212.224.84.254:2200/EX/Sky_Sports_F1_FHD-uk/tracks-v1a1/mono.m3u8?token=egBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVmc3Nje3Ngfg==
+
+#EXTINF:-1, SKY F1 🇬🇧
+https://sbagsgsvv.azureedge.net/live/F1/chunks.m3u8
+
+#EXTINF:-1, SERVUS TV F1 🇩🇪
+https://s6.hopslan.com/servus2/index.m3u8
+
 #EXTINF:-1, ESPN STAR + 🇧🇷
 https://stream.dlivecdn.com/camperooon/1677877893/src/live.m3u8
 
