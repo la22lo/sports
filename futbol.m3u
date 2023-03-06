@@ -354,11 +354,17 @@ http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://cloudcdn.tk:80/lCXtnmvvqL9Y1458/v4Pm3nmxu8bA9696/23325
 
+#EXTINF:-1, Eleven 1 HD 🇵🇹
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138421
+
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://cloudcdn.tk:80/lCXtnmvvqL9Y1458/v4Pm3nmxu8bA9696/23320
+
+#EXTINF:-1, Eleven 2 HD 🇵🇹
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138423
 
 #EXTINF:-1,ELEVEN SPORT 3 🇵🇹
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
