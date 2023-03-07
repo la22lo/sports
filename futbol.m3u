@@ -7,7 +7,7 @@ http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 
 #EXTINF:-1, MATH 🇷🇺
-https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
@@ -15,20 +15,14 @@ http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
-#EXTINF:-1,BT SPORT 2 🇬🇧
-http://212.224.84.217:2200/EX/UKSD_BT_Sport_2_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-
 #EXTINF:-1,RMC SPORT 1 🇨🇵
 http://77.207.0.25:4000/play/a038
 
 #EXTINF:-1, MAX SPORT 3HD 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport3_web.m3u8
 
-#EXTINF:-1,BT SPORT 1 🇬🇧
-http://ku3.worldtvip.co/uk_bt_sports_1_hd/index.m3u8?token=924ea83b1945763373380821c2d61863
-
-#EXTINF:-1,BT SPORT 1 🇬🇧
-http://212.224.84.217:2200/EX/UKSD_BT_Sport_1_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1, MAX SPORT 4HD 🇧🇬
+http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
 #EXTINF:-1, TNT SPORT 🇧🇷 
 http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16760
@@ -36,29 +30,8 @@ http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16760
 #EXTINF:-1,TUDN HD USA 🇲🇽
 http://45.182.21.251:33334/play/a077/index.m3u8
 
-#EXTINF:-1,RMC SPORT 1 🇨🇵
-http://77.207.0.25:4000/play/a038 
-
-#EXTINF:-1, beIN SPORTS 1 PREMIUM 🇶🇦
-http://s@88.99.216.157:5080/WebRTCApp/streams/Bein1_Premuim.m3u8 
-
-#EXTINF:-1, beIN SPORTS 1 PREMIUM 🇶🇦
-http://s@62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347 
-
-#EXTINF:-1, beIN SPORTS 2 PREMIUM 🇶🇦
-http://s@88.99.216.157:5080/WebRTCApp/streams/Bein2_Premuim.m3u8
-
-#EXTINF:-1, beIN SPORTS 2 PREMIUM 🇶🇦
-http://s@62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
-
 #EXTINF:-1, CANAL 10 🇦🇷
 https://videosenlared.fullstreaming.ar:3015/live/canal10live.m3u8
-
-#EXTINF:-1, TRUE VISIONS 3 🇹🇭
-http://live.apicold.com/streaming/02_epl2_720p/chunklist.m3u8?token=MTMzMzQzNDNhM2Q2ZjYzNmUyMzc1Njk2NjdmNmQ2ZjZmNjQ2NTY2Nzk2YzZlMjQ3MjdmNjA3MzdmMmYyYTMzNzA3NDc0Nzg2
-
-#EXTINF:-1, TRUE VISIONS 3 🇹🇭
-http://live.apicold.com/streaming/02_sport6_480p/chunklist.m3u8?token=MTMzMzQzNDNhM2Q2ZjYzNmUyMzc1Njk2NjdmNmQ2ZjZmNjQ2NTY2Nzk2YzZlMjQ3MjdmNjA3MzdmMmYyYTMzNzA3NDc0Nzg2
 
 #EXTINF:-1, TUDN 🇲🇽 
 https://linear-357.frequency.stream:443/dist/vix/357/hls/master/playlist_1024x576.m3u8
@@ -697,9 +670,6 @@ http://5.75.248.51:8000/play/a003/index.m3u8
 
 #EXTINF:-1,Setanta Qazaqstan HD 🇰🇿
 http://5.75.248.51:8000/play/a001/index.m3u8
-
-#EXTINF:-1, MATH 🇷🇺
-https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
