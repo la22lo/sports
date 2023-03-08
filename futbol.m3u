@@ -24,6 +24,9 @@ https://stream.dlivecdn.com/d65xxbghd6/1678305322/src/live.m3u8
 #EXTINF:-1, ESPN 2 🇨🇴
 http://45.90.105.74:25461/budtvsports/wTu27rKVNU/37818
 
+#EXTINF:-1, ESPN 2 🇨🇴
+https://stream.dlivecdn.com/dlive-naeutzohfs/1678303858/src/live.m3u8
+
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
