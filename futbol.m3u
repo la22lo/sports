@@ -659,6 +659,15 @@ http://84.42.140.148:8880/hdmi
 #EXTINF:-1, SPORT PREMIUM 🇨🇿 
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 
+#EXTINF:-1, Vivaro Arena 🇦🇲
+http://178.160.249.210:8000/play/a006/index.m3u8
+
+#EXTINF:-1, Vivaro sport 🇦🇲
+http://178.160.249.210:8000/play/a004/index.m3u8
+
+#EXTINF:-1, Vivaro sport + 🇦🇲
+http://178.160.249.210:8000/play/a005/index.m3u8
+
 #EXTINF:-1,Setanta Sports 1 HD 🇷🇺
 https://livetv.mylifeisgood.ml/channels/setantahd
 
