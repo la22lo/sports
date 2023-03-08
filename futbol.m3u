@@ -116,6 +116,9 @@ http://80.96.24.248:8000/play/a00f
 #EXTINF:-1, M LALIGA 🇪🇸
 http://51.158.36.81:18000/M_LaLiga/hls/playlist.m3u8
 
+#EXTINF:-1, M LALIGA 🇪🇸
+http://skywatch.club:2052/moh6000/sNH5o93AfE/30158
+
 #EXTINF:-1,bein SPORTS 1 🇶🇦
 http://89.38.99.141/1/mpegts 
 
