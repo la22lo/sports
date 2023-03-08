@@ -1140,5 +1140,8 @@ https://s6.hopslan.com/servus2/index.m3u8
 #EXTINF:-1, ESPN STAR + 🇧🇷
 https://stream.dlivecdn.com/camperooon/1677877893/src/live.m3u8
 
+#EXTINF:-1,ESPN DEPORTES
+http://45.90.105.74:25461/budtvsports/wTu27rKVNU/15453
+
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
