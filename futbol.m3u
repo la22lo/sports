@@ -78,6 +78,12 @@ http://190.61.102.67:31589/play/a08j/index.m3u8
 #EXTINF:-1,bein SPORTS 1 premium 🇶🇦
 https://mo3ad@cdn2.livehd720.com/hlsbeinp1/beinp1/playlist.m3u8
 
+#EXTINF:-1, SONY TEN 1 🇲🇾
+https://lin-gd-001-cf.slivcdn.com:443/out/v1/80891f4d48cc41bda7e62cc601fad8cd/master_7.m3u8?hdntl=exp=1678348476~acl=*~hmac=185d7b935c6cc1d5444b038e1bf7be8a10d11d7f280bc63e23b2d51176e632ab&originpath=/linear/hls/pb/event/6WhVNGKTRXyu588zZv1Lkg/stream/c2b7de5b-2783-4526-b665-99cef51a813a:SIN2/variant/db8f492a337295e9600364df025452ec/bandwidth/1245015.m3u8
+
+#EXTINF:-1, SONY TEN 2 🇲🇾
+https://lin-gd-001-cf.slivcdn.com:443/out/v1/6405a2743163448bba0f3ee5e68e7bc3/master_7.m3u8?hdntl=exp=1678348608~acl=*~hmac=8a8acc49ca122055eee10934cc54b6e57cbfaed15fea124daa7fe441c8c59ff5&originpath=/linear/hls/pb/event/LK-ik89MQIi_pWBbg74KNQ/stream/99049280-a694-4a86-ab27-bdfe648499d3:SIN2/variant/7ca0fc483f3c374dfad14be30b22e5dc/bandwidth/1245376.m3u8
+
 
 
 
