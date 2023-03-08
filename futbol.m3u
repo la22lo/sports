@@ -72,6 +72,9 @@ http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test
 #EXTINF:-1,bein SPORTS 2 premium 🇶🇦
 http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test
 
+#EXTINF:-1, ATV 🇵🇪
+https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
+
 #EXTINF:-1, CANAL 10 🇦🇷
 https://videosenlared.fullstreaming.ar:3015/live/canal10live.m3u8
 
