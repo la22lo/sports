@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, M LIGA CAMPEONES 🇪🇸
+http://45.90.105.74:25461/budtvsports/wTu27rKVNU/38569
+
 #EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 
@@ -39,6 +42,9 @@ http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16760
 #EXTINF:-1,TUDN HD USA 🇲🇽
 http://45.182.21.251:33334/play/a077/index.m3u8
 
+#EXTINF:-1,TUDN HD USA 🇲🇽
+http://45.90.105.74:25461/budtvsports/wTu27rKVNU/10256
+
 #EXTINF:-1,bein SPORTS 1 premium 🇶🇦
 http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test
 
@@ -73,6 +79,12 @@ http://45.90.105.74:25461/budtvsports/wTu27rKVNU/15453
 
 #EXTINF:-1, ESPN DEPORTES 🇺🇸
 http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/31960
+
+#EXTINF:-1, SKY SPORTS 🇲🇽
+http://45.90.105.74:25461/budtvsports/wTu27rKVNU/39089
+
+#EXTINF:-1, SKY SPORTS 🇲🇽
+http://45.90.105.74:25461/budtvsports/wTu27rKVNU/43098
 
 #EXTINF:-1, MAX SPORT 4HD 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
