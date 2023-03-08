@@ -68,8 +68,8 @@ https://linear-489.frequency.stream/dist/vix/489/hls/master/playlist.m3u8
 #EXTINF:-1, VIX 2 🇨🇷
 https://linear-490.frequency.stream/dist/vix/490/hls/master/playlist.m3u8
 
-#EXTINF:-1, ESPN DEPORTES 🇺🇸
-http://cloudcdn.tk:80/lCXtnmvvqL9Y1458/v4Pm3nmxu8bA9696/23260
+#EXTINF:-1,ESPN DEPORTES 🇺🇸
+http://45.90.105.74:25461/budtvsports/wTu27rKVNU/15453
 
 #EXTINF:-1, ESPN DEPORTES 🇺🇸
 http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/31960
@@ -1139,9 +1139,6 @@ https://s6.hopslan.com/servus2/index.m3u8
 
 #EXTINF:-1, ESPN STAR + 🇧🇷
 https://stream.dlivecdn.com/camperooon/1677877893/src/live.m3u8
-
-#EXTINF:-1,ESPN DEPORTES
-http://45.90.105.74:25461/budtvsports/wTu27rKVNU/15453
 
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
