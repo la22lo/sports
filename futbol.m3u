@@ -27,6 +27,9 @@ http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 #EXTINF:-1, BT SPORT 1 🇬🇧
 http://45.90.105.74:25461/budtvsports/wTu27rKVNU/11805
 
+#EXTINF:-1, BT SPORT 1 🇬🇧
+https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/DiNsQKZG-F_PYXDmKHeOdFWeJRG2EGj3r9Onq3OO_g0xKB1y-qhcGwhZxc7-2r6EF2BFcVNQMmOTJXiPNj0oAw/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/tw_master_dynamic_highlatency.m3u8?type=live
+
 #EXTINF:-1,SPORT TV 1 HD 🇵🇹
 http://204.12.247.162:8080/premium49/mono.m3u8
 
