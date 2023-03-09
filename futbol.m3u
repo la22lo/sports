@@ -1172,11 +1172,5 @@ https://s6.hopslan.com/servus2/index.m3u8
 #EXTINF:-1, ESPN STAR + 🇧🇷
 https://stream.dlivecdn.com/camperooon/1677877893/src/live.m3u8
 
-#EXTINF:-1,CLIENT
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=9850&extension=m3u8&play_token=TQ6cftyhX8
-
-#EXTINF:-1,CLIENT
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=9849&extension=m3u8&play_token=TQ6cftyhX8
-
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
