@@ -84,14 +84,8 @@ https://linear-357.frequency.stream:443/dist/vix/357/hls/master/playlist_1024x57
 #EXTINF:-1, TUDN 🇲🇽 
 http://190.61.102.67:31589/play/a08j/index.m3u8
 
-#EXTINF:-1, SONY TEN 1 🇲🇾
-https://lin-gd-001-cf.slivcdn.com:443/out/v1/80891f4d48cc41bda7e62cc601fad8cd/master_7.m3u8?hdntl=exp=1678348476~acl=*~hmac=185d7b935c6cc1d5444b038e1bf7be8a10d11d7f280bc63e23b2d51176e632ab&originpath=/linear/hls/pb/event/6WhVNGKTRXyu588zZv1Lkg/stream/c2b7de5b-2783-4526-b665-99cef51a813a:SIN2/variant/db8f492a337295e9600364df025452ec/bandwidth/1245015.m3u8
 
-#EXTINF:-1, SONY TEN 2 🇲🇾
-https://lin-gd-001-cf.slivcdn.com:443/out/v1/6405a2743163448bba0f3ee5e68e7bc3/master_7.m3u8?hdntl=exp=1678348608~acl=*~hmac=8a8acc49ca122055eee10934cc54b6e57cbfaed15fea124daa7fe441c8c59ff5&originpath=/linear/hls/pb/event/LK-ik89MQIi_pWBbg74KNQ/stream/99049280-a694-4a86-ab27-bdfe648499d3:SIN2/variant/7ca0fc483f3c374dfad14be30b22e5dc/bandwidth/1245376.m3u8
 
-#EXTINF:-1, CHAMP
-http://live.eagleeye.capital/live/razkorazko/razkorazko/10761.ts
 
 
 
@@ -1127,6 +1121,94 @@ https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8
 
 #EXTINF:-1, AVIATOR
 https://ua.aviator.tv/stream4/index.m3u8?
+
+
+
+
+#EXTINF:-1, M LIGA CAMPEONES 🇪🇸
+http://45.90.105.74:25461/budtvsports/wTu27rKVNU/38569
+
+#EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
+http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1, MATH 🇷🇺
+https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
+
+#EXTINF:-1, ESPN 🇦🇷
+http://45.90.105.74:25461/budtvsports/wTu27rKVNU/14857
+
+#EXTINF:-1, ESPN 🇦🇷
+https://stream.dlivecdn.com/dlive-naeutzohfs/1678303858/src/live.m3u8?
+
+#EXTINF:-1, ESPN 🇦🇷
+https://stream.dlivecdn.com/d65xxbghd6/1678305322/src/live.m3u8
+
+#EXTINF:-1, ESPN 2 🇨🇴
+http://45.90.105.74:25461/budtvsports/wTu27rKVNU/37818
+
+#EXTINF:-1, ESPN 2 🇨🇴
+https://stream.dlivecdn.com/dlive-naeutzohfs/1678303858/src/live.m3u8
+
+#EXTINF:-1, Eleven 1 HD 🇵🇹
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
+#EXTINF:-1, Eleven 2 HD 🇵🇹
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
+#EXTINF:-1,RMC SPORT 1 🇨🇵
+http://77.207.0.25:4000/play/a038
+
+#EXTINF:-1,BEIN SPORTS 1 HD 🇨🇵
+http://77.207.0.25:4000/play/a03m 
+
+#EXTINF:-1, MAX SPORT 3HD 🇧🇬
+http://93.155.227.38:555/m3u8/webmtelsport3_web.m3u8
+
+#EXTINF:-1, MAX SPORT 4HD 🇧🇬
+http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
+
+#EXTINF:-1, BT SPORT 1 🇬🇧
+http://45.90.105.74:25461/budtvsports/wTu27rKVNU/11805
+
+#EXTINF:-1, BT SPORT 2 🇬🇧
+http://45.90.105.74:25461/budtvsports/wTu27rKVNU/1731
+
+#EXTINF:-1, Vivaro sport 🇦🇲
+http://178.160.249.210:8000/play/a004/index.m3u8
+
+#EXTINF:-1, Vivaro sport + 🇦🇲
+http://178.160.249.210:8000/play/a005/index.m3u8
+
+#EXTINF:-1, TNT SPORT 🇧🇷 
+http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16760
+
+#EXTINF:-1,TUDN HD USA 🇲🇽
+http://45.182.21.251:33334/play/a077/index.m3u8
+
+#EXTINF:-1,TUDN HD USA 🇲🇽
+http://45.90.105.74:25461/budtvsports/wTu27rKVNU/10256
+
+#EXTINF:-1,bein SPORTS 1 premium 🇶🇦
+http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test
+
+#EXTINF:-1,bein SPORTS 2 premium 🇶🇦
+http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test
+
+#EXTINF:-1, ATV 🇵🇪
+https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
+
+#EXTINF:-1, CANAL 10 🇦🇷
+https://videosenlared.fullstreaming.ar:3015/live/canal10live.m3u8
+
+#EXTINF:-1, TUDN 🇲🇽 
+https://linear-357.frequency.stream:443/dist/vix/357/hls/master/playlist_1024x576.m3u8
+
+#EXTINF:-1, TUDN 🇲🇽 
+http://190.61.102.67:31589/play/a08j/index.m3u8
+
 
 
 
