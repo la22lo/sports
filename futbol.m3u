@@ -6,6 +6,9 @@ https://linear-489.frequency.stream/dist/vix/489/hls/master/playlist.m3u8
 #EXTINF:-1, VIX 2 🇨🇷
 https://linear-490.frequency.stream/dist/vix/490/hls/master/playlist.m3u8
 
+#EXTINF:-1, ESPN + 🇺🇸
+http://pulldg.hongdel.top/live/hd-en-1-3755078.m3u8?auth_key=1678548909-0-0-cdd67ab4f1d266482ae67af4d7d2d4d5
+
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://45.90.105.74:25461/budtvsports/wTu27rKVNU/15453
 
@@ -1129,12 +1132,6 @@ https://sbagsgsvv.azureedge.net/live/F1/chunks.m3u8
 
 #EXTINF:-1, SERVUS TV F1 🇩🇪
 https://s6.hopslan.com/servus2/index.m3u8
-
-#EXTINF:-1, ESPN + 🇺🇸
-http://pulldg.hongdel.top/live/sd-1-3755078.m3u8?auth_key=1678548909-0-0-70cd2852cd4212c888d0f1d006aea11e
-
-#EXTINF:-1, ESPN + 🇺🇸
-http://pulldg.hongdel.top/live/hd-en-1-3755078.m3u8?auth_key=1678548909-0-0-cdd67ab4f1d266482ae67af4d7d2d4d5
 
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
