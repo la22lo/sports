@@ -1130,5 +1130,8 @@ https://sbagsgsvv.azureedge.net/live/F1/chunks.m3u8
 #EXTINF:-1, SERVUS TV F1 🇩🇪
 https://s6.hopslan.com/servus2/index.m3u8
 
+#EXTINF:-1,Win Sports+ HD
+http://181.204.104.246:9210/play/a041
+
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
