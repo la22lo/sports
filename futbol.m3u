@@ -1130,5 +1130,32 @@ https://sbagsgsvv.azureedge.net/live/F1/chunks.m3u8
 #EXTINF:-1, SERVUS TV F1 🇩🇪
 https://s6.hopslan.com/servus2/index.m3u8
 
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1 HD 🇷🇺
+http://80.251.49.103:8003/play/140
+
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1 HD 🇷🇺
+http://80.251.49.103:8001/play/108
+
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2 HD 🇷🇺
+http://80.251.49.103:8003/play/188
+
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2 HD 🇷🇺
+http://80.251.49.103:8003/play/232
+
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3 HD 🇷🇺
+http://80.251.49.103:8001/play/210
+
+#EXTINF:-1,SPORT 1 HD
+http://79.174.24.254:8002/play/a00m/index.m3u8
+
+#EXTINF:-1,SPORT 2 HD
+http://79.174.24.254:8002/play/a00n/index.m3u8
+
+#EXTINF:-1,SPORT 3 HD
+http://79.174.24.254:8002/play/a00r/index.m3u8
+
+#EXTINF:-1,SPORT 4 HD
+http://79.174.24.254:8002/play/a00s/index.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
