@@ -6,6 +6,12 @@ https://linear-489.frequency.stream/dist/vix/489/hls/master/playlist.m3u8
 #EXTINF:-1, VIX 2 🇨🇷
 https://linear-490.frequency.stream/dist/vix/490/hls/master/playlist.m3u8
 
+#EXTINF:-1, LALIGA TV 🇬🇧
+https://ds1.enjoyhd.club/stream/ch89/index.m3u8
+
+#EXTINF:-1, MAX SPORT 4HD 🇧🇬
+http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
+
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://sdmx.us:25461/belfast/belfast/158472
 
@@ -17,9 +23,6 @@ http://sdmx.us:25461/belfast/belfast/2121889
 
 #EXTINF:-1, SKY SPORTS 🇲🇽
 http://sdmx.us:25461/belfast/belfast/115045
-
-#EXTINF:-1, MAX SPORT 4HD 🇧🇬
-http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
