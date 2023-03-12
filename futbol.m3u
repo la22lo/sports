@@ -6,6 +6,9 @@ https://linear-489.frequency.stream/dist/vix/489/hls/master/playlist.m3u8
 #EXTINF:-1, VIX 2 🇨🇷
 https://linear-490.frequency.stream/dist/vix/490/hls/master/playlist.m3u8
 
+#EXTINF:-1,ESPN VIVO 🇦🇷
+https://stream.dlivecdn.com/cuxv/1678623769/src/live.m3u8?
+
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://45.90.105.74:25461/budtvsports/wTu27rKVNU/15453
 
