@@ -28,10 +28,16 @@ http://sdmx.us:25461/belfast/belfast/115045
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
 #EXTINF:-1, Eleven 1 HD 🇵🇹
+http://7go.xyz:8080/adriano856/eyuie7357/53994
+
+#EXTINF:-1, Eleven 1 HD 🇵🇹
 http://176.57.50.167:25461/692803/264908/7626
 
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
+#EXTINF:-1, Eleven 2 HD 🇵🇹
+http://7go.xyz:8080/adriano856/eyuie7357/53997
 
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://176.57.50.167:25461/692803/264908/7629
