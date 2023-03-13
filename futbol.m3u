@@ -1169,11 +1169,18 @@ http://79.174.24.254:8002/play/a00m/index.m3u8
 #EXTINF:-1,SPORT 2 HD
 http://79.174.24.254:8002/play/a00n/index.m3u8
 
-#EXTINF:-1,SPORT 3 HD
-http://79.174.24.254:8002/play/a00r/index.m3u8
-
-#EXTINF:-1,SPORT 4 HD
-http://79.174.24.254:8002/play/a00s/index.m3u8
+#EXTINF:-1 ,BeIn Sports
+http://203.80.165.14:9981/stream/channelid/563769363?profile=pass
+#EXTINF:-1 ,Bein Sports 3
+http://203.80.165.14:9981/stream/channelid/497580184?profile=pass
+#EXTINF:-1 ,Bein Sports 3
+http://203.80.165.14:9981/stream/channelid/1309393059?profile=pass
+#EXTINF:-1, MAX SPORT 4
+http://124467403873272284.stonehuge.xyz:80/play/ja1018311/5873817504/272284.ts
+#EXTINF:-1, BLUE SPORT 1 HD
+http://124467403873309637.stonehuge.xyz:80/play/ja1018311/5873817504/309637.ts
+#EXTINF:-1, BLUE SPORT 2 HD
+http://124467403873273140.stonehuge.xyz:80/play/ja1018311/5873817504/273140.ts
 
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
