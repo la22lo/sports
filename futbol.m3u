@@ -6,11 +6,11 @@ https://linear-489.frequency.stream/dist/vix/489/hls/master/playlist.m3u8
 #EXTINF:-1, VIX 2 🇨🇷
 https://linear-490.frequency.stream/dist/vix/490/hls/master/playlist.m3u8
 
-#EXTINF:-1, LALIGA TV 🇬🇧
-https://ds1.enjoyhd.club/stream/ch89/index.m3u8
-
 #EXTINF:-1, MAX SPORT 4HD 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
+
+#EXTINF:-1, LALIGA TV 🇬🇧
+https://ds1.enjoyhd.club/stream/ch89/index.m3u8
 
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://sdmx.us:25461/belfast/belfast/158472
