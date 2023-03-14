@@ -21,6 +21,9 @@ http://77.207.0.25:4000/play/a03m
 #EXTINF:-1, MAX SPORT 4HD 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
+#EXTINF:-1, TRUE VISIONS 3 🇹🇭
+https://movie.666hd.com/live/sport3/index.m3u8?
+
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
@@ -197,6 +200,12 @@ http://176.57.50.167:25461/692803/264908/61890
 
 #EXTINF:-1, ESPN DEPORTES 🇺🇸
 http://kenencabs.online:2082/dream/2zLzqbt3Ge/240953
+
+#EXTINF:-1, TRUE VISIONS 3 🇹🇭
+https://movie.666hd.com/live/sport3/index.m3u8?
+
+#EXTINF:-1, TRUE VISIONS 1 🇹🇭
+https://movie.666hd.com/live/sport2/index.m3u8?
 
 #EXTINF:-1, TRUE VISIONS 1 🇹🇭
 http://live.apicold.com/streaming/02_epl1_720p/chunklist.m3u8?token=MTMzMzQzNDNhM2Q2ZjYzNmUyMzc1Njk2NjdmNmQ2ZjZmNjQ2NTY2Nzk2YzZlMjQ3MjdmNjA3MzdmMmYyYTMzNzA3NDc0Nzg2
