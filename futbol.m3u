@@ -60,6 +60,27 @@ https://linear-357.frequency.stream:443/dist/vix/357/hls/master/playlist_1024x57
 #EXTINF:-1, TUDN 🇲🇽 
 http://190.61.102.67:31589/play/a08j/index.m3u8
 
+#EXTINF:-1,RMC SPORT 1 HD
+http://0123.dynu.com:8000/cod148/f83f51dcd110/103641
+#EXTINF:-1,RMC SPORT 1 FHD
+http://0123.dynu.com:8000/cod148/f83f51dcd110/103642
+#EXTINF:-1,FR: RMC Sport 1
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/161951
+#EXTINF:-1,CRO: Arena Sport 1 HD
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/162647
+#EXTINF:-1,EX-YU: Arena Sport 1
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/133074
+#EXTINF:-1,|PT| SPORT TV 4 HD
+http://0123.dynu.com:8000/cod148/f83f51dcd110/117169
+#EXTINF:-1,PT: SPORT TV
+http://89.187.173.219:80/imp44570260/22140/64545
+#EXTINF:-1,PT: SPORT TV backup
+http://89.187.173.219:80/imp44570260/22140/64546
+#EXTINF:-1,PT: Sport TV 4 HD backup
+http://89.187.173.219:80/imp44570260/22140/64547
+#EXTINF:-1,PT: SPORT TV 4HD
+http://89.187.173.219:80/imp44570260/22140/64549
+
 
 
 
