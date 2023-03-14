@@ -57,6 +57,9 @@ https://linear-357.frequency.stream:443/dist/vix/357/hls/master/playlist_1024x57
 #EXTINF:-1, TUDN 🇲🇽 
 http://190.61.102.67:31589/play/a08j/index.m3u8
 
+#EXTINF:-1,Eurosport 4K
+http://84.17.61.203:8086/udp/229.35.21.203:1234
+
 
 
 
