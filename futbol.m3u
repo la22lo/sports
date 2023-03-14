@@ -51,6 +51,15 @@ https://linear-357.frequency.stream:443/dist/vix/357/hls/master/playlist_1024x57
 #EXTINF:-1, TUDN 🇲🇽 
 http://190.61.102.67:31589/play/a08j/index.m3u8
 
+#EXTINF:-1,BEIN SPORTS 1 HD 🇨🇵
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/858.ts
+
+#EXTINF:-1,BEIN SPORTS 2 HD 🇨🇵
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/857.ts
+
+#EXTINF:-1,BEIN SPORTS 3 HD 🇨🇵
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/859.ts
+
 
 
 
