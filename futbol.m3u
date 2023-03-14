@@ -1128,6 +1128,9 @@ https://meumundomaisdigital.com.br/wp-content/plugins/super-links/application/he
 #EXTINF:-1, TENNIS
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 
+#EXTINF:-1, TENNIS
+https://d3qg0hadt0dkov.cloudfront.net:443/amgtennisus/playlist1080_p.m3u8
+
 #EXTINF:-1, WEBOTV 1 🇷🇺
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 
