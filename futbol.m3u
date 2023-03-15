@@ -42,8 +42,14 @@ http://45.182.21.251:33334/play/a077/index.m3u8
 #EXTINF:-1,bein SPORTS 1 premium 🇶🇦
 http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test
 
+#EXTINF:-1,bein SPORTS 1 premium 🇶🇦
+http://94.130.163.18:5080/WebRTCApp/streams/01_Bein_Premuim_1.m3u8
+
 #EXTINF:-1,bein SPORTS 2 premium 🇶🇦
 http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test
+
+#EXTINF:-1,bein SPORTS 2 premium 🇶🇦
+http://94.130.163.18:5080/WebRTCApp/streams/02_Bein_Premuim_1.m3u8
 
 #EXTINF:-1, bTV Action HD 🇧🇬
 http://followthis.xyz:8080/9v5kCQtsSt/Fsfx6Y7UC6/1682
