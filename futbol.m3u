@@ -18,8 +18,11 @@ http://77.207.0.25:4000/play/a038
 #EXTINF:-1,BEIN SPORTS 1 HD 🇨🇵
 http://77.207.0.25:4000/play/a03m 
 
-#EXTINF:-1, MAX SPORT 4HD 🇧🇬
-http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
+#EXTINF:-1,DIGI Sport 1 🇷🇴
+http://84.17.61.203:8086/udp/229.35.15.121:1234
+
+#EXTINF:-1,DIGI Sport 2 🇷🇴
+http://84.17.61.203:8086/udp/229.35.15.105:1234
 
 #EXTINF:-1, TRUE VISIONS 3 🇹🇭
 https://movie.666hd.com/live/sport3/index.m3u8?
@@ -29,9 +32,6 @@ http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&
 
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-
-#EXTINF:-1, MAX SPORT 3HD 🇧🇬
-http://93.155.227.38:555/m3u8/webmtelsport3_web.m3u8
 
 #EXTINF:-1, TNT SPORT 🇧🇷 
 http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16760
@@ -45,14 +45,14 @@ http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test
 #EXTINF:-1,bein SPORTS 2 premium 🇶🇦
 http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test
 
-#EXTINF:-1,DIGI Sport 1 🇷🇴
-http://84.17.61.203:8086/udp/229.35.15.121:1234
-
-#EXTINF:-1,DIGI Sport 2 🇷🇴
-http://84.17.61.203:8086/udp/229.35.15.105:1234
-
 #EXTINF:-1, ATV 🇵🇪
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
+
+#EXTINF:-1, MAX SPORT 3HD 🇧🇬
+http://93.155.227.38:555/m3u8/webmtelsport3_web.m3u8
+
+#EXTINF:-1, MAX SPORT 4HD 🇧🇬
+http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
 #EXTINF:-1, TUDN 🇲🇽 
 https://linear-357.frequency.stream:443/dist/vix/357/hls/master/playlist_1024x576.m3u8
