@@ -727,6 +727,9 @@ https://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
 #EXTINF:-1, MATH 🇷🇺
 http://193.33.240.8:8080/Match_HD/index.m3u8
 
+#EXTINF:-1, MATH 🇷🇺
+http://80.251.49.103:8001/play/20
+
 #EXTINF:-1,МАТЧ ПРЕМЬЕР HD 🇷🇺 
 http://79.124.21.251:9770/play/a005
 
@@ -756,6 +759,15 @@ https://livetv.mylifeisgood.ml/channels/6bb97d9cb134ff599675fbd583b11132.m3u8
 
 #EXTINF:-1,Матч!Футбол 1 🇷🇺
 http://80.251.49.103:8001/play/108
+
+#EXTINF:-1,Матч!Футбол 3 🇷🇺
+http://80.251.49.103:8001/play/210
+
+#EXTINF:-1,Матч!Футбол 1 🇷🇺
+http://80.251.49.103:8001/play/108
+
+#EXTINF:-1,Матч!Футбол 2 🇷🇺
+http://80.251.49.103:8003/play/188
 
 #EXTINF:-1,Матч!Футбол 3 🇷🇺
 http://80.251.49.103:8001/play/210
