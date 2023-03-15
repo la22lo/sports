@@ -54,6 +54,17 @@ http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 #EXTINF:-1, TUDN 🇲🇽 
 https://linear-357.frequency.stream:443/dist/vix/357/hls/master/playlist_1024x576.m3u8
 
+#EXTINF:-1, bTV Action HD
+http://followthis.xyz:8080/9v5kCQtsSt/Fsfx6Y7UC6/1682
+
+#EXTINF:-1, RING BG HD
+http://followthis.xyz:8080/9v5kCQtsSt/Fsfx6Y7UC6/1711
+
+#EXTINF:-1, Max Sport 3 HD
+http://followthis.xyz:8080/9v5kCQtsSt/Fsfx6Y7UC6/12741
+
+#EXTINF:-1, Max Sport 4 HD
+http://followthis.xyz:8080/9v5kCQtsSt/Fsfx6Y7UC6/14642
 
 
 
