@@ -37,17 +37,8 @@ http://84.17.61.203:8086/udp/229.35.15.105:1234
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
-#EXTINF:-1, Eleven 1 HD 🇵🇹
-http://87c576b1.cbilant.com/iptv/6GXDRQ5GNUAXH7/19158/index.m3u8
-
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-
-#EXTINF:-1, Eleven 2 HD 🇵🇹
-http://87c576b1.cbilant.com/iptv/6GXDRQ5GNUAXH7/2532/index.m3u8
-
-#EXTINF:-1, SPORT TV 1 🇵🇹
-http://87c576b1.cbilant.com/iptv/6GXDRQ5GNUAXH7/19161/index.m3u8
 
 #EXTINF:-1, TNT SPORT 🇧🇷 
 http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16760
@@ -1327,7 +1318,7 @@ http://176.57.50.167:25461/esaletv2/2226677442/83367
 http://myportal.live:8080/Keepitrealexch/MMCCy6XRMX/449646
 
 #EXTINF:-1,SPORTV 5 TENNIS 🇵🇹
-http://87c576b1.cbilant.com/iptv/6GXDRQ5GNUAXH7/2529/index.m3u8
+http://213.13.16.138/shls/LIVE%24SPORTTV5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
 #EXTINF:-1, DAZN F1 🇪🇸
 https://argusport.live:90/DAZN-F1/video.m3u8
