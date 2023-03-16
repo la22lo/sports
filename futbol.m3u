@@ -82,6 +82,9 @@ http://168.121.46.90:4000/play/a037/index.m3u8
 #EXTINF:-1, ESPN VIVO 🇦🇷
 http://168.121.46.90:4000/play/a013/index.m3u8
 
+#EXTINF:-1, ESPN VIVO 🇦🇷
+https://ixp-nqn.origin.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8?fbclid=PAAaarzc3lvfYl8Wk1gLrdlsIBR_0ily2CcfInBv1Xae0sPL12eq9sYVFjq_U
+
 #EXTINF:-1, ESPN 2 🇦🇷
 http://168.121.46.90:4000/play/a00s/index.m3u8
 
