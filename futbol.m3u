@@ -69,6 +69,12 @@ https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=PAAabnIhCyLQaVLOM
 #EXTINF:-1, SONY SPORTS 2 🇮🇳
 https://lin-gd-001-cf.slivcdn.com:443/out/v1/a2fb6f8486d9435bb34ee74a6e076b09/master_1.m3u8?hdntl=exp=1678954841~acl=*~hmac=8f4ce618654effdc20957574a0c8910aef73fd30bfbb9c978e607f2ce2d0d3a1&originpath=/linear/hls/pa/event/V9h-iyOxRiGp41ppQScDSQ/stream/f25d266a-2d70-478c-8907-ac1da56005ec:BRU/variant/282461b345f822b32de896910f770920/bandwidth/4704977.m3u8?
 
+#EXTINF:-1, BT SPORT 1 🇬🇧
+https://mo3ad.xyz:443/mo3adL91d44/mo3adL91d44/191
+
+#EXTINF:-1, BT SPORT 2 🇬🇧
+https://mo3ad.xyz:443/mo3adL91d44/mo3adL91d44/219
+
 
 
 
@@ -172,11 +178,11 @@ http://176.57.50.167:25461/692803/264908/61890
 #EXTINF:-1, ESPN DEPORTES 🇺🇸
 http://kenencabs.online:2082/dream/2zLzqbt3Ge/240953
 
-#EXTINF:-1, TRUE VISIONS 3 🇹🇭
-https://movie.666hd.com/live/sport3/index.m3u8?
+#EXTINF:-1, DAZN 1 🇩🇪
+https://mo3ad.xyz:443/mo3adL91d44/mo3adL91d44/180
 
-#EXTINF:-1, TRUE VISIONS 1 🇹🇭
-https://movie.666hd.com/live/sport2/index.m3u8?
+#EXTINF:-1, DAZN 2 🇩🇪
+https://mo3ad.xyz:443/mo3adL91d44/mo3adL91d44/179
 
 #EXTINF:-1, TRUE VISIONS 1 🇹🇭
 http://live.apicold.com/streaming/02_epl1_720p/chunklist.m3u8?token=MTMzMzQzNDNhM2Q2ZjYzNmUyMzc1Njk2NjdmNmQ2ZjZmNjQ2NTY2Nzk2YzZlMjQ3MjdmNjA3MzdmMmYyYTMzNzA3NDc0Nzg2
