@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1, M LIGA CAMPEONES 1 🇪🇸
+http://813200903547246282.ottplayers.xyz:80/play/ja1018311/5873817504/246282.ts
+
+#EXTINF:-1, M LIGA CAMPEONES 2 🇪🇸
+http://813200903547282469.ottplayers.xyz:80/play/ja1018311/5873817504/282469.ts
 
 #EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
 http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
@@ -103,8 +108,7 @@ http://168.121.46.90:4000/play/a017/index.m3u8
 #EXTINF:-1, FOX SPORTS 2 🇦🇷
 http://170.83.242.155:5350/play/a013
 
-#EXTINF:-1, Spiler2
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/133601
+
 
 
 
