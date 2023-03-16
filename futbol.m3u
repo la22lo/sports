@@ -12,6 +12,15 @@ http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 
+#EXTINF:-1, Vivaro sport 🇦🇲
+http://178.160.249.210:8000/play/a004/index.m3u8
+
+#EXTINF:-1, Vivaro Arena 🇦🇲
+http://178.160.249.210:8000/play/a006/index.m3u8
+
+#EXTINF:-1, Vivaro sport + 🇦🇲
+http://178.160.249.210:8000/play/a005/index.m3u8
+
 #EXTINF:-1,RMC SPORT 1 🇨🇵
 http://77.207.0.25:4000/play/a038
 
@@ -66,14 +75,7 @@ https://mo3ad.xyz:443/mo3adL91d44/mo3adL91d44/191
 #EXTINF:-1, BT SPORT 2 🇬🇧
 https://mo3ad.xyz:443/mo3adL91d44/mo3adL91d44/219
 
-#EXTINF:-1, ELEVEN SPORTS 1 HD
-http://51.89.67.79:25461/stalker348574985793/stalker348574985793/79
-#EXTINF:-1, ELEVEN SPORTS 2 HD
-http://51.89.67.79:25461/stalker348574985793/stalker348574985793/80
-#EXTINF:-1, ELEVEN SPORTS 3 HD
-http://51.89.67.79:25461/stalker348574985793/stalker348574985793/81
-#EXTINF:-1, ELEVEN SPORTS 4 HD
-http://51.89.67.79:25461/stalker348574985793/stalker348574985793/82
+
 
 
 
@@ -860,6 +862,18 @@ http://176.57.50.167:25461/692803/264908/84526
 
 #EXTINF:-1, COSMOTE SPORTS 2 🇬🇷
 http://srcbe.xyz:8000/live/shgdhgcdhg/suyvfsscghcv/106976.ts
+
+#EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇱
+http://51.89.67.79:25461/stalker348574985793/stalker348574985793/79
+
+#EXTINF:-1, ELEVEN SPORTS 2 HD 🇵🇱
+http://51.89.67.79:25461/stalker348574985793/stalker348574985793/80
+
+#EXTINF:-1, ELEVEN SPORTS 3 HD 🇵🇱
+http://51.89.67.79:25461/stalker348574985793/stalker348574985793/81
+
+#EXTINF:-1, ELEVEN SPORTS 4 HD 🇵🇱
+http://51.89.67.79:25461/stalker348574985793/stalker348574985793/82
 
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇱
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/276379.ts
