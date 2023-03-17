@@ -592,14 +592,29 @@ http://91.126.228.141:9981/stream/channelid/441774155?profile=pass
 #EXTINF:-1,DIGI Sport 3 🇷🇴
 http://91.126.228.141:9981/stream/channelid/609335115?profile=pass
 
+#EXTINF:-1,Orange Sport 1 HD 🇷🇴
+http://94.53.216.13:9981/stream/channelid/846461889?profile=pass
+
+#EXTINF:-1,Orange Sport 2 HD 🇷🇴
+http://94.53.216.13:9981/stream/channelid/487753445?profile=pass
+
 #EXTINF:-1,Orange Sport 3 HD 🇷🇴
 http://84.17.61.203:8086/udp/229.35.15.182:1234
+
+#EXTINF:-1,Orange Sport 3 HD 🇷🇴
+http://94.53.216.13:9981/stream/channelid/1320823112?profile=pass
 
 #EXTINF:-1,Orange Sport 4 HD 🇷🇴
 http://84.17.61.203:8086/udp/229.35.15.183:1234
 
+#EXTINF:-1,Orange Sport 4 HD 🇷🇴
+http://94.53.216.13:9981/stream/channelid/538345017?profile=pass
+
 #EXTINF:-1,PRIMA SPORT 1 🇷🇴
 http://91.126.228.141:9981/stream/channelid/1371734811?profile=pass
+
+#EXTINF:-1,PRIMA SPORT 1 🇷🇴
+http://94.53.216.13:9981/stream/channelid/2119101735?profile=pass
 
 #EXTINF:-1,PRIMA SPORT 2 🇷🇴
 http://91.126.228.141:9981/stream/channelid/2025341107?profile=pass
@@ -607,8 +622,17 @@ http://91.126.228.141:9981/stream/channelid/2025341107?profile=pass
 #EXTINF:-1,PRIMA SPORT 2 🇷🇴
 http://84.17.61.203:8086/udp/229.35.15.112:1234
 
+#EXTINF:-1,PRIMA SPORT 2 🇷🇴
+http://94.53.216.13:9981/stream/channelid/1796098648?profile=pass
+
 #EXTINF:-1,Prima Sport 3 🇷🇴
 http://84.17.61.203:8086/udp/229.35.21.1:1234
+
+#EXTINF:-1,Prima Sport 3 🇷🇴
+http://94.53.216.13:9981/stream/channelid/1042510375?profile=pass
+
+#EXTINF:-1,Prima Sport 4 🇷🇴
+http://94.53.216.13:9981/stream/channelid/314113502?profile=pass
 
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
