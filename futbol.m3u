@@ -598,6 +598,12 @@ http://84.17.61.203:8086/udp/229.35.15.182:1234
 #EXTINF:-1,Orange Sport 4 HD 🇷🇴
 http://84.17.61.203:8086/udp/229.35.15.183:1234
 
+#EXTINF:-1,PRIMA SPORT 1 🇷🇴
+http://91.126.228.141:9981/stream/channelid/1371734811?profile=pass
+
+#EXTINF:-1,PRIMA SPORT 2 🇷🇴
+http://91.126.228.141:9981/stream/channelid/2025341107?profile=pass
+
 #EXTINF:-1,PRIMA SPORT 2 🇷🇴
 http://84.17.61.203:8086/udp/229.35.15.112:1234
 
