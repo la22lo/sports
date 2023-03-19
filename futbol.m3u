@@ -795,6 +795,9 @@ http://iptv.prosto.tv:7000/ch109/video.m3u8
 #EXTINF:-1,BELARUS 5 🇧🇾
 http://82.209.197.187:8080/udp/239.0.100.9:1234
 
+#EXTINF:-1,CBC SPORT 🇦🇿
+http://213.239.195.222/azerbaijan/cbc_sport_stream_hd_2023/playlist.m3u8
+
 #EXTINF:-1, Turkmenistan Sport 🇹🇲
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
