@@ -70,6 +70,9 @@ http://white45.click:2086/live/mario2009/fsdfgfdsxdf/80249.ts
 #EXTINF:-1, Max Sport 4 HD 🇧🇬
 http://followthis.xyz:8080/9v5kCQtsSt/Fsfx6Y7UC6/14642
 
+#EXTINF:-1, MAX SPORT 4 🇧🇬
+http://124467403873272284.stonehuge.xyz:80/play/ja1018311/5873817504/272284.ts
+
 #EXTINF:-1, ARENA SPORT 6 🇭🇷
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/258518.ts
 
@@ -96,6 +99,12 @@ http://176.57.50.167:25461/692803/264908/84736
 
 #EXTINF:-1, DAZN 2 🇩🇪
 http://176.57.50.167:25461/692803/264908/84737
+
+#EXTINF:-1, BLUE SPORT 1 HD 🇨🇭
+http://124467403873309637.stonehuge.xyz:80/play/ja1018311/5873817504/309637.ts
+
+#EXTINF:-1, BLUE SPORT 2 HD 🇨🇭
+http://124467403873273140.stonehuge.xyz:80/play/ja1018311/5873817504/273140.ts
 
 #EXTINF:-1, TRUE VISIONS 1 🇹🇭
 http://live.apicold.com/streaming/02_epl1_720p/chunklist.m3u8?token=MTMzMzQzNDNhM2Q2ZjYzNmUyMzc1Njk2NjdmNmQ2ZjZmNjQ2NTY2Nzk2YzZlMjQ3MjdmNjA3MzdmMmYyYTMzNzA3NDc0Nzg2
@@ -438,6 +447,12 @@ http://pakin2.worldtvip.co:9090/za_ss_gstand/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, M LALIGA CAMPEONES 🇪🇸
 http://51.158.36.81:18000/M_Liga_de_Campeones/hls/playlist.m3u8
+
+#EXTINF:-1,SPORT 1 HD 🇦🇱
+http://79.174.24.254:8002/play/a00m/index.m3u8
+
+#EXTINF:-1,SPORT 2 HD 🇦🇱
+http://79.174.24.254:8002/play/a00n/index.m3u8
 
 #EXTINF:-1,Arena 1 HD 🇷🇸
 http://93.155.227.38:555/m3u8/arenasport1.m3u8
@@ -846,6 +861,15 @@ http://195.222.7.26:7001/play/a00t
 
 #EXTINF:-1,A SportsHD 🇮🇳
 http://180.178.188.152:8000/play/a0ad
+
+#EXTINF:-1 ,BeIn Sports 🇹🇭
+http://203.80.165.14:9981/stream/channelid/563769363?profile=pass
+
+#EXTINF:-1 ,Bein Sports 3 🇹🇭
+http://203.80.165.14:9981/stream/channelid/497580184?profile=pass
+
+#EXTINF:-1 ,Bein Sports 3 🇨🇷
+http://203.80.165.14:9981/stream/channelid/1309393059?profile=pass
 
 #EXTINF:-1,CCTV5 🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
@@ -1292,25 +1316,6 @@ https://sbagsgsvv.azureedge.net/live/F1/chunks.m3u8
 
 #EXTINF:-1, SERVUS TV F1 🇩🇪
 https://s6.hopslan.com/servus2/index.m3u8
-
-#EXTINF:-1,SPORT 1 HD
-http://79.174.24.254:8002/play/a00m/index.m3u8
-
-#EXTINF:-1,SPORT 2 HD
-http://79.174.24.254:8002/play/a00n/index.m3u8
-
-#EXTINF:-1 ,BeIn Sports
-http://203.80.165.14:9981/stream/channelid/563769363?profile=pass
-#EXTINF:-1 ,Bein Sports 3
-http://203.80.165.14:9981/stream/channelid/497580184?profile=pass
-#EXTINF:-1 ,Bein Sports 3
-http://203.80.165.14:9981/stream/channelid/1309393059?profile=pass
-#EXTINF:-1, MAX SPORT 4
-http://124467403873272284.stonehuge.xyz:80/play/ja1018311/5873817504/272284.ts
-#EXTINF:-1, BLUE SPORT 1 HD
-http://124467403873309637.stonehuge.xyz:80/play/ja1018311/5873817504/309637.ts
-#EXTINF:-1, BLUE SPORT 2 HD
-http://124467403873273140.stonehuge.xyz:80/play/ja1018311/5873817504/273140.ts
 
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
