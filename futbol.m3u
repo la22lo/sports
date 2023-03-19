@@ -15,6 +15,9 @@ http://185.234.217.50:8001/play/a0el
 #EXTINF:-1, LALIGA TV 🇬🇧
 https://ds1.enjoyhd.club/stream/ch89/index.m3u8
 
+#EXTINF:-1,SUPERSPORT LALIGA 🇿🇦
+https://storage.googleapis.com/live-streaming-storage-volchkoovoleg/mux_video_ts/index-1.m3u8
+
 #EXTINF:-1, Vivaro sport + 🇦🇲
 http://178.160.249.210:8000/play/a005/index.m3u8
 
