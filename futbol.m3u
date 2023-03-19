@@ -1230,6 +1230,9 @@ http://93.155.227.38:555/m3u8/webmtelsport3_web.m3u8
 #EXTINF:-1, MAX SPORT 4HD 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
+#EXTINF:-1, BTV ACTION 🇧🇬
+http://84.54.179.207:8000/play/a04c
+
 #EXTINF:-1, POLSAR SPORT PREMIUM 2 🇵🇱
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/67
 
@@ -1324,9 +1327,6 @@ https://sbagsgsvv.azureedge.net/live/F1/chunks.m3u8
 
 #EXTINF:-1, SERVUS TV F1 🇩🇪
 https://s6.hopslan.com/servus2/index.m3u8
-
-#EXTINF:-1, BTV ACTION 🇧🇬
-http://84.54.179.207:8000/play/a04c
 
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
