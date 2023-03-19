@@ -840,6 +840,9 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1, Qirguistán sport 🇰🇬
 http://89.254.128.5:22280/qsport/index.m3u8
 
+#EXTINF:-1, KAZAJISTAN sport 🇰🇿
+http://de.iptv.monster/play/463/1C8A51F9C90B579/video.m3u8
+
 #EXTINF:-1, SPORT 1 🇮🇱
 http://nohn.me/play/hjGS-tDz3JSOQ6fHw721VsFjjmpsSuOFIaJbVA1DJhk
 
