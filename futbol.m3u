@@ -894,6 +894,9 @@ https://beetv.my.id/x/usee-spotv-masihsama.m3u8
 #EXTINF:-1, SPOTV 2 🇮🇩
 https://beetv.my.id/x/usee-spotv2-masihsama.m3u8
 
+#EXTINF:-1, SPOTV 1 🇮🇩
+http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941564&extension=ts&play_token=1kEm8DbZmS
+
 #EXTINF:-1, CHAMPIONS TV 1 🇮🇩
 http://iptv.dxdtv.xyz:8080/live/Avenger100cnx/iIMpkGogJ7/77220.ts
 
