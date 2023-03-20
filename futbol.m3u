@@ -30,9 +30,6 @@ https://livetv.mylifeisgood.ml/channels/setantaplus.m3u8
 #EXTINF:-1, CBC SPORT 🇦🇿
 http://de.iptv.monster/play/434/1C8A51F9C90B579/video.m3u8
 
-#EXTINF:-1, LIGA ENLACE
-https://manifest.googlevideo.com/api/manifest/hls_variant/file/index.m3u8?expire=1679275916&ei=LGMXZO3gDIXE1waS_ZPgBQ&ip=139.47.56.14&id=JtgLdD3dm6Y.1&source=yt_live_broadcast&requiressl=yes&tx=24470262&txs=24470261%2C24470262%2C24470263%2C24470264%2C24470265%2C24470266%2C24470267&hfr=1&playlist_duration=30&manifest_duration=30&vprv=1&go=1&pacing=0&nvgoi=1&ncsapi=1&keepalive=yes&fexp=24007246&dover=11&itag=0&playlist_type=DVR&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type&sig=AOq0QJ8wRQIhAMb38vAzcuRK-iMctLxf7O_KrBzqtvSMaEHubJmJmVxoAiA813AiCeaXMcV3tvmjIMvCGngQ1CsnT4hTDv3GzhkNlg%3D%3D&cpn=CkalnZ6y7CWeDqlg&ibw=8380000&c=MWEB&cver=2.20230317.01.00&ptk=youtube_single&oid=-0vRUQKzuzkP-LYAbz16xA&ptchn=Tv-XvfzLX3i4IGWAm4sbmA&pltype=contentlive
-
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://176.57.50.167:25461/692803/264908/22222
 
