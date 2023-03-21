@@ -1301,8 +1301,23 @@ http://87.76.32.36:9100/udp/238.1.0.30:2000
 #EXTINF:-1,ELEVEN SPORTS 1
 http://czrb8vng.ottclub.xyz/iptv/VK3AX8MG8ZGVY9/19158/index.m3u8
 
+#EXTINF:-1,ELEVEN SPORTS 1
+http://b98312a7.amazzin.pw/iptv/CUVRZAL2FLNYEF/2531/index.m3u8
+
+#EXTINF:-1,ELEVEN SPORTS 2
+http://b98312a7.amazzin.pw/iptv/CUVRZAL2FLNYEF/2532/index.m3u8
+
 #EXTINF:-1,ESPN DEPORTES
 http://czrb8vng.ottclub.xyz/iptv/VK3AX8MG8ZGVY9/19166/index.m3u8
+
+#EXTINF:-1,ESPN DEPORTES
+http://b98312a7.amazzin.pw/iptv/CUVRZAL2FLNYEF/19166/index.m3u8
+
+#EXTINF:-1,ARENA SPORT 6
+http://b98312a7.amazzin.pw/iptv/CUVRZAL2FLNYEF/7334/index.m3u8
+
+#EXTINF:-1, S SPORT 1
+http://b98312a7.amazzin.pw/iptv/CUVRZAL2FLNYEF/6825/index.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
