@@ -1298,5 +1298,11 @@ https://s6.hopslan.com/servus2/index.m3u8
 #EXTINF:-1,QAZSPORT 🇰🇿
 http://87.76.32.36:9100/udp/238.1.0.30:2000
 
+#EXTINF:-1,ELEVEN SPORTS 1
+http://czrb8vng.ottclub.xyz/iptv/VK3AX8MG8ZGVY9/19158/index.m3u8
+
+#EXTINF:-1,ESPN DEPORTES
+http://czrb8vng.ottclub.xyz/iptv/VK3AX8MG8ZGVY9/19166/index.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
