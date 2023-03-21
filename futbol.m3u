@@ -1328,5 +1328,14 @@ http://b98312a7.amazzin.pw/iptv/CUVRZAL2FLNYEF/15508/index.m3u8
 #EXTINF:-1, CBC SPORTS
 http://b98312a7.amazzin.pw/iptv/CUVRZAL2FLNYEF/2193/index.m3u8
 
+#EXTINF:-1, BEIN SPORT 1 PREMIUM
+http://b98312a7.amazzin.pw/iptv/CUVRZAL2FLNYEF/6131/index.m3u8
+
+#EXTINF:-1, BT SPORT 1
+http://b98312a7.amazzin.pw/iptv/CUVRZAL2FLNYEF/2505/index.m3u8
+
+#EXTINF:-1, BT SPORT 2
+http://b98312a7.amazzin.pw/iptv/CUVRZAL2FLNYEF/2506/index.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
