@@ -1343,5 +1343,20 @@ http://b98312a7.amazzin.pw/iptv/CUVRZAL2FLNYEF/2506/index.m3u8
 #EXTINF:-1, RMC SPORT 1
 http://b98312a7.amazzin.pw/iptv/CUVRZAL2FLNYEF/2545/index.m3u8
 
+#EXTINF:-1, TVP Sport 
+http://185.191.124.105:25461/Jeanb11/XcnmfVSciY/6770
+
+#EXTINF:-1, Polsat Sport 
+http://185.191.124.105:25461/Jeanb11/XcnmfVSciY/6785
+
+#EXTINF:-1, ELEVEN SPORTS 1 HD POL
+http://185.191.124.105:25461/Jeanb11/XcnmfVSciY/6792
+
+#EXTINF:-1, ELEVEN SPORTS 3 HD POL
+http://185.191.124.105:25461/Jeanb11/XcnmfVSciY/6803
+
+#EXTINF:-1, ELEVEN SPORTS 4 HD POL
+http://185.191.124.105:25461/Jeanb11/XcnmfVSciY/6804
+
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
