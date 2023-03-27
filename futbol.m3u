@@ -387,11 +387,20 @@ http://163.172.221.223:90/bt1/index.m3u8
 #EXTINF:-1, BT SPORT 1 🇬🇧
 http://163.172.221.223:90/bt1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, BT SPORT 1 🇬🇧
+https://eas4.gcdn.co:443/UKS24/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, BT SPORT 2 🇬🇧
 http://163.172.221.223:90/bt2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, BT SPORT 2 🇬🇧
+https://eas4.gcdn.co:443/UKS25/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, BT SPORT 3 🇬🇧
 http://163.172.221.223:90/bt2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, BT SPORT 3 🇬🇧
+https://eas4.gcdn.co:443/UKS26/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, SUPER GRANDSTAND 🇬🇧
 http://pakin2.worldtvip.co:9090/za_ss_gstand/tracks-v1a1/mono.m3u8
