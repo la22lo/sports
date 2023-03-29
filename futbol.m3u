@@ -1337,5 +1337,11 @@ https://lin-gd-001-cf.slivcdn.com/out/v1/7394bf66d54d42f09b7cc0ed4bb7e9e9/master
 #EXTINF:-1,SPOTV ON
 https://cdn-us-154.cloudrsst.com/live/spotv_on_540/playlist.m3u8?txSecret=704029cf55124a869e5698f7cfa38731&txTime=64049FEC&_s=stream
 
+#EXTINF:-1, RMC 1 SPORT FHD
+http://xtratexxx.dimapro.xyz:8080/691232406124462/691232406124462/4949
+
+#EXTINF:-1, RMC 2 SPORT FHD
+http://xtratexxx.dimapro.xyz:8080/691232406124462/691232406124462/4950
+
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
