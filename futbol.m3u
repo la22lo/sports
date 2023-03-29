@@ -1325,18 +1325,6 @@ http://czrb8vng.ottclub.xyz/iptv/VK3AX8MG8ZGVY9/19158/index.m3u8
 #EXTINF:-1,ESPN DEPORTES
 http://czrb8vng.ottclub.xyz/iptv/VK3AX8MG8ZGVY9/19166/index.m3u8
 
-#EXTINF:-1,FS 1
-https://storage.googleapis.com/live-streaming-storage-adlet_mork/main.m3u8
-
-#EXTINF:-1,FS 1
-https://s1.thegentleclass.xyz/class2_hd/index.m3u8
-
-#EXTINF:-1,FS 1
-https://live1.techstribes.com/techstribes/live/16.m3u8
-
-#EXTINF:-1,SONY SPORT 1
-https://lin-gd-001-cf.slivcdn.com/out/v1/7394bf66d54d42f09b7cc0ed4bb7e9e9/master_2.m3u8?hdntl=exp=1679625394~acl=*~hmac=14f5efb07cb7f8a1e879ecd3de0aadf45e7338837812c2f2d029a433333d4887
-
 #EXTINF:-1,SPOTV ON
 https://cdn-us-154.cloudrsst.com/live/spotv_on_540/playlist.m3u8?txSecret=704029cf55124a869e5698f7cfa38731&txTime=64049FEC&_s=stream
 
