@@ -543,6 +543,21 @@ http://193.33.240.8:8080/Match_HD/index.m3u8
 #EXTINF:-1, MATH 🇷🇺
 http://80.251.49.103:8001/play/20
 
+#EXTINF:-1, MATH 🇷🇺
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/535/index.m3u8
+
+#EXTINF:-1,МАТЧ ПРЕМЬЕР HD 🇷🇺
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/531/index.m3u8
+
+#EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/124/index.m3u8
+
+#EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/530/index.m3u8
+
+#EXTINF:-1,МАТЧ Футбол 3 HD 🇷🇺
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/522/index.m3u8
+
 #EXTINF:-1,МАТЧ ПРЕМЬЕР HD 🇷🇺 
 http://79.124.21.251:9770/play/a005
 
