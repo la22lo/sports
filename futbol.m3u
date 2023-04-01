@@ -801,6 +801,9 @@ http://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
 #EXTINF:-1, LA 8 VALLADOLID 🇪🇸
 https://cdnlive.shooowit.net/la8valladolidlive/smil:streamswitchingchannel.smil/playlist.m3u8
 
+#EXTINF:-1, GOL TV 🇪🇸
+https://livetvgo.xyz/048591/hls/gol.m3u8
+
 #EXTINF:-1,SUPER TENNIS 🇬🇧
 https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
 
