@@ -9,6 +9,9 @@ https://linear-490.frequency.stream/dist/vix/490/hls/master/playlist.m3u8
 #EXTINF:-1, MAX SPORT 4HD 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
+#EXTINF:-1, LALIGA TV BAR 🇪🇸
+http://vasprodtv.ru:8080/Jonsno/NKr806GHd4YZN3Cn/197711
+
 #EXTINF:-1, DAZN LALIGA 🇪🇸
 http://vasprodtv.ru:8080/Jonsno/NKr806GHd4YZN3Cn/297787
 
