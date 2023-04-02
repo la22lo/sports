@@ -708,6 +708,9 @@ http://176.222.190.76/btv/SWM/Q/Q.m3u8
 #EXTINF:-1, KAZAJISTAN sport 🇰🇿
 http://de.iptv.monster/play/463/1C8A51F9C90B579/video.m3u8
 
+#EXTINF:-1,QAZSPORT 🇰🇿
+http://87.76.32.36:9100/udp/238.1.0.30:2000
+
 #EXTINF:-1, SPORT 1 🇮🇱
 http://nohn.me/play/hjGS-tDz3JSOQ6fHw721VsFjjmpsSuOFIaJbVA1DJhk
 
@@ -1141,9 +1144,6 @@ https://s1.thegentleclass.xyz/class2_hd/index.m3u8
 
 #EXTINF:-1, SKY SPORTS F1 🇬🇧
 https://ds1.enjoyhd.club/stream/ch10/index.m3u8
-
-#EXTINF:-1,QAZSPORT 🇰🇿
-http://87.76.32.36:9100/udp/238.1.0.30:2000
 
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
