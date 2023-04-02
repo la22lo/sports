@@ -562,6 +562,9 @@ http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/530/index.m3u8
 http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/522/index.m3u8
 
 #EXTINF:-1,МАТЧ ПРЕМЬЕР HD 🇷🇺 
+https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
+
+#EXTINF:-1,МАТЧ ПРЕМЬЕР HD 🇷🇺 
 http://79.124.21.251:9770/play/a005
 
 #EXTINF:-1,МАТЧ ПРЕМЬЕР HD 🇷🇺
@@ -674,6 +677,9 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 
 #EXTINF:-1, Qirguistán sport 🇰🇬
 http://89.254.128.5:22280/qsport/index.m3u8
+
+#EXTINF:-1, Qirguistán sport 🇰🇬
+http://176.222.190.76/btv/SWM/Q/Q.m3u8
 
 #EXTINF:-1, KAZAJISTAN sport 🇰🇿
 http://de.iptv.monster/play/463/1C8A51F9C90B579/video.m3u8
