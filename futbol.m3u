@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1, VIX 1 🇨🇷
 https://linear-489.frequency.stream/dist/vix/489/hls/master/playlist.m3u8
 
@@ -545,6 +544,9 @@ http://193.33.240.8:8080/Match_HD/index.m3u8
 http://80.251.49.103:8001/play/20
 
 #EXTINF:-1, MATH 🇷🇺
+http://31.40.149.157:9981/stream/channelid/2013224685?ticket=B7E80E24888918293CF8F96425844CC60A555D3B&profile=pass
+
+#EXTINF:-1, MATH 🇷🇺
 http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/535/index.m3u8
 
 #EXTINF:-1,МАТЧ ПРЕМЬЕР HD 🇷🇺
@@ -561,6 +563,9 @@ http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/522/index.m3u8
 
 #EXTINF:-1,МАТЧ ПРЕМЬЕР HD 🇷🇺 
 http://79.124.21.251:9770/play/a005
+
+#EXTINF:-1,МАТЧ ПРЕМЬЕР HD 🇷🇺
+http://31.40.149.157:9981/stream/channelid/1520455500?ticket=BE128BEABAF19B55963623AB6A5FA06C9E4A324F&profile=pass
 
 #EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
@@ -606,6 +611,15 @@ http://213.230.126.109:8000/play/a00h/index.m3u8
 
 #EXTINF:-1,МАТЧ! ФУТБОЛ 3 HD 🇷🇺
 http://80.251.49.103:8001/play/210
+
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1 HD 🇷🇺
+http://31.40.149.157:9981/stream/channelid/1970263138?ticket=4D36BA8518DFA02F1203883BC91011B1FDCC04A3&profile=pass
+
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2 HD 🇷🇺
+http://31.40.149.157:9981/stream/channelid/1490245386?ticket=43DDA8698750C276A4DAC577F43697BC2FDF390E&profile=pass
+
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3 HD 🇷🇺
+http://31.40.149.157:9981/stream/channelid/100686288?ticket=B09CDB087A76E7A751244EDB34E8C7277A1B9A30&profile=pass
 
 #EXTINF:-1, SPORT 1 HD 🇷🇺
 http://88.216.83.245:80/sport1/index.m3u8
