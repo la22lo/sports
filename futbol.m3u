@@ -6,6 +6,12 @@ https://linear-489.frequency.stream/dist/vix/489/hls/master/playlist.m3u8
 #EXTINF:-1, VIX 2 🇨🇷
 https://linear-490.frequency.stream/dist/vix/490/hls/master/playlist.m3u8
 
+#EXTINF:-1, DAZN LALIGA 🇪🇸
+http://live.reystream.us:8080/karen34xt/834vsxk5x/58695
+
+#EXTINF:-1, LALIGA 🇪🇸
+http://live.reystream.us:8080/karen34xt/834vsxk5x/112656
+
 #EXTINF:-1,M+LaLigaTV 🇪🇸
 http://185.234.217.50:8001/play/a0el
 
