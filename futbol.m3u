@@ -111,6 +111,12 @@ https://beetv.my.id/x/usee-bein2-masihsama.m3u8
 #EXTINF:-1, ON FOOTBAL 🇻🇳
 http://pulldg.hongdel.top/live/hd-en-1-3755110.m3u8?auth_key=1680566649-0-0-a5e15eb61458827c8183fe230e4103d6
 
+#EXTINF:-1,CCTV+ 🇨🇳
+http://pulldg.hongdel.top/live/hd-zh-1-3755110.m3u8?auth_key=1680565212-0-0-4acdb94ea2d33193a0dfdf2506ae0741
+
+#EXTINF:-1,CCTV 🇨🇳
+https://newlive.comsaw.com/live/sd-1-3755110.m3u8?txSecret=1959d702769e722542556ce688a9718e&txTime=642B78E9
+
 #EXTINF:-1, Uzbekistan Sport 🇺🇿
 http://213.230.126.109:8000/play/a00j/index.m3u8
 
