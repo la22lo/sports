@@ -6,15 +6,6 @@ https://linear-489.frequency.stream/dist/vix/489/hls/master/playlist.m3u8
 #EXTINF:-1, VIX 2 🇨🇷
 https://linear-490.frequency.stream/dist/vix/490/hls/master/playlist.m3u8
 
-#EXTINF:-1, DAZN LALIGA 🇪🇸
-http://live.reystream.us:8080/karen34xt/834vsxk5x/58695
-
-#EXTINF:-1, LALIGA 🇪🇸
-http://live.reystream.us:8080/karen34xt/834vsxk5x/112656
-
-#EXTINF:-1,ESPN 3 🇦🇷
-http://live.reystream.us:8080/karen34xt/834vsxk5x/174
-
 #EXTINF:-1,M+LaLigaTV 🇪🇸
 http://185.234.217.50:8001/play/a0el
 
@@ -116,19 +107,6 @@ http://pulldg.hongdel.top/live/hd-zh-1-3755110.m3u8?auth_key=1680565212-0-0-4acd
 
 #EXTINF:-1,CCTV 🇨🇳
 https://newlive.comsaw.com/live/sd-1-3755110.m3u8?txSecret=1959d702769e722542556ce688a9718e&txTime=642B78E9
-
-#EXTINF:-1, 1
-http://flylogi.top:8080/live/131664751565541012/3801664751565541/5630.ts
-
-
-#EXTINF:-1, 2
-http://108890345370321072.niceyour.xyz:80/play/f06050/3977656/321072.ts
-
-#EXTINF:-1, 3
-http://108890345370321071.niceyour.xyz:80/play/f06050/3977656/321071.ts
-
-#EXTINF:-1, 4
-http://108890345370321073.niceyour.xyz:80/play/f06050/3977656/321073.ts
 
 #EXTINF:-1, Uzbekistan Sport 🇺🇿
 http://213.230.126.109:8000/play/a00j/index.m3u8
