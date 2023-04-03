@@ -6,18 +6,6 @@ https://linear-489.frequency.stream/dist/vix/489/hls/master/playlist.m3u8
 #EXTINF:-1, VIX 2 🇨🇷
 https://linear-490.frequency.stream/dist/vix/490/hls/master/playlist.m3u8
 
-#EXTINF:-1, DAZN LALIGA 🇪🇸
-http://vasprodtv.ru:8080/Jonsno/NKr806GHd4YZN3Cn/297787
-
-#EXTINF:-1, LALIGA TV BAR 🇪🇸
-http://vasprodtv.ru:8080/Jonsno/NKr806GHd4YZN3Cn/197711
-
-#EXTINF:-1, LALIGA TV BAR 🇪🇸
-http://go-nextlevel.xyz:25461/Valentin/Valentin/301434
-
-#EXTINF:-1, LALIGA 🇪🇸
-http://live.detodotvplay.com:8080/Nicol4sF/KeyNF4und/112564
-
 #EXTINF:-1,M+LaLigaTV 🇪🇸
 http://185.234.217.50:8001/play/a0el
 
@@ -41,12 +29,6 @@ http://176.57.50.167:25461/692803/264908/22222
 
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/1150
-
-#EXTINF:-1,ESPN DEPORTES 🇺🇸
-http://vasprodtv.ru:8080/Jonsno/NKr806GHd4YZN3Cn/6446
-
-EXTINF:-1,ESPN DEPORTES 🇺🇸
-http://go-nextlevel.xyz:25461/Valentin/Valentin/301519
 
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://live.detodotvplay.com:8080/Nicol4sF/KeyNF4und/212
@@ -79,22 +61,13 @@ http://176.57.50.167:25461/692803/264908/7629
 http://sdmx.us:25461/belfast/belfast/220429
 
 #EXTINF:-1, MAX SPORT 4 🇧🇬
-http://vasprodtv.ru:8080/Jonsno/NKr806GHd4YZN3Cn/16433
-
-#EXTINF:-1, MAX SPORT 4 🇧🇬
 http://2hubs.ddns.net:25461/BabNour/telegrramm/73235
 
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://124467403873272284.stonehuge.xyz:80/play/ja1018311/5873817504/272284.ts
 
 #EXTINF:-1, ARENA SPORT 6 🇭🇷
-http://vasprodtv.ru:8080/Jonsno/NKr806GHd4YZN3Cn/10961
-
-#EXTINF:-1, ARENA SPORT 6 🇭🇷
 http://2hubs.ddns.net:25461/BabNour/telegrramm/60948
-
-#EXTINF:-1, NOVA SPORT 1 🇬🇷
-http://vasprodtv.ru:8080/Jonsno/NKr806GHd4YZN3Cn/12844
 
 #EXTINF:-1, BEIN SPORTS 1 🇶🇦
 http://2hubs.ddns.net:25461/live/sltv/PVHDRgW4hH/59734.m3u8
@@ -103,16 +76,7 @@ http://2hubs.ddns.net:25461/live/sltv/PVHDRgW4hH/59734.m3u8
 http://2hubs.ddns.net:25461/BabNour/telegrramm/59734
 
 #EXTINF:-1, BEIN SPORTS 1 🇶🇦
-http://vasprodtv.ru:8080/Jonsno/NKr806GHd4YZN3Cn/100
-
-#EXTINF:-1, BEIN SPORTS 1 🇶🇦
-http://go-nextlevel.xyz:25461/Valentin/Valentin/301760
-
-#EXTINF:-1, BEIN SPORTS 1 🇶🇦
 https://cdn2.livehd720.com/hlsbeinpp1/beinpp1/playlist.m3u8
-
-#EXTINF:-1, SPILER 2 🇭🇺
-http://vasprodtv.ru:8080/Jonsno/NKr806GHd4YZN3Cn/77769
 
 #EXTINF:-1, TV3 SPORT 🇱🇹
 http://myott.top/stream/25SMQ9HCKV/416.m3u8
