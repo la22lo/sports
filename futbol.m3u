@@ -6,9 +6,6 @@ https://linear-489.frequency.stream/dist/vix/489/hls/master/playlist.m3u8
 #EXTINF:-1, VIX 2 🇨🇷
 https://linear-490.frequency.stream/dist/vix/490/hls/master/playlist.m3u8
 
-#EXTINF:-1,M+LaLigaTV 🇪🇸
-http://185.234.217.50:8001/play/a0el
-
 #EXTINF:-1, LALIGA TV 🇬🇧
 https://ds1.enjoyhd.club/stream/ch89/index.m3u8
 
@@ -44,9 +41,6 @@ http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/15963
 
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://176.57.50.167:25461/692803/264908/7629
-
-#EXTINF:-1,DAZN LA LIGA 🇪🇸
-http://sdmx.us:25461/belfast/belfast/220429
 
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://2hubs.ddns.net:25461/BabNour/telegrramm/73235
