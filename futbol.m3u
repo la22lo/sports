@@ -66,9 +66,6 @@ http://2hubs.ddns.net:25461/BabNour/telegrramm/73131
 #EXTINF:-1, OPTUS SPORT 2 🇦🇺
 http://2hubs.ddns.net:25461/BabNour/telegrramm/63929
 
-#EXTINF:-1, ESPN DEPORTES 🇺🇸
-http://176.57.50.167:25461/692803/264908/61890
-
 #EXTINF:-1, DAZN 1 🇩🇪
 http://176.57.50.167:25461/692803/264908/84736
 
@@ -87,18 +84,6 @@ https://beetv.my.id/x/usee-bein1-masihsama.m3u8
 #EXTINF:-1, BEIN 3 🇮🇩
 https://beetv.my.id/x/usee-bein2-masihsama.m3u8
 
-#EXTINF:-1, ON FOOTBAL 🇻🇳
-http://pulldg.hongdel.top/live/hd-en-1-3755110.m3u8?auth_key=1680566649-0-0-a5e15eb61458827c8183fe230e4103d6
-
-#EXTINF:-1,CCTV+ 🇨🇳
-http://pulldg.hongdel.top/live/hd-zh-1-3755110.m3u8?auth_key=1680565212-0-0-4acdb94ea2d33193a0dfdf2506ae0741
-
-#EXTINF:-1,CCTV 🇨🇳
-https://newlive.comsaw.com/live/sd-1-3755110.m3u8?txSecret=1959d702769e722542556ce688a9718e&txTime=642B78E9
-
-#EXTINF:-1, Uzbekistan Sport 🇺🇿
-http://213.230.126.109:8000/play/a00j/index.m3u8
-
 #EXTINF:-1, Uzbekistan Sport 🇺🇿
 http://ed42ca9f.edmonst.net/iptv/EPPBUUVM9QC84R/2239/index.m3u8
 
@@ -110,9 +95,6 @@ http://213.239.195.222/azerbaijan/cbc_sport_stream_hd_2023/playlist.m3u8
 
 #EXTINF:-1,Setanta Sports 1 HD 🇷🇺
 https://livetv.mylifeisgood.ml/channels/setantahd
-
-#EXTINF:-1,Setanta Sports 1 HD 🇷🇺
-https://kinescope.io/203362013/master.m3u8
 
 #EXTINF:-1,Setanta Ukraine + 🇺🇦
 http://95.67.12.89:9013
