@@ -255,6 +255,15 @@ http://204.12.247.162:8080/premium49/mono.m3u8
 #EXTINF:-1,SPORT TV 1 HD 🇵🇹
 http://live.detodotvplay.com:8080/Nicol4sF/KeyNF4und/2322
 
+#EXTINF:-1, BEIN 1 🇫🇷 
+http://mk3gi6qo.russtv.net/iptv/3PAWQ6X49YQUC8/2499/index.m3u8
+
+#EXTINF:-1, BEIN 2 🇫🇷 
+http://mk3gi6qo.russtv.net/iptv/3PAWQ6X49YQUC8/2500/index.m3u8
+
+#EXTINF:-1, BEIN 3 🇫🇷 
+http://mk3gi6qo.russtv.net/iptv/3PAWQ6X49YQUC8/2501/index.m3u8
+
 #EXTINF:-1, VIAPLAY SPORT 1 🇬🇧
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 
@@ -270,11 +279,17 @@ http://163.172.221.223:90/bt1/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BT SPORT 1 🇬🇧
 https://eas4.gcdn.co:443/UKS24/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, BT SPORT 1 🇬🇧
+http://mk3gi6qo.russtv.net/iptv/3PAWQ6X49YQUC8/2505/index.m3u8
+
 #EXTINF:-1, BT SPORT 2 🇬🇧
 http://163.172.221.223:90/bt2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, BT SPORT 2 🇬🇧
 https://eas4.gcdn.co:443/UKS25/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, BT SPORT 2 🇬🇧
+http://mk3gi6qo.russtv.net/iptv/3PAWQ6X49YQUC8/2506/index.m3u8
 
 #EXTINF:-1, BT SPORT 3 🇬🇧
 http://163.172.221.223:90/bt2/tracks-v1a1/mono.m3u8
@@ -680,6 +695,9 @@ http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/12254/index.m3u8
 
 #EXTINF:-1, SPORT 5 PLUS HD 🇮🇱
 http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/12256/index.m3u8
+
+#EXTINF:-1, C MORE SPORT 1 🇸🇪
+http://mk3gi6qo.russtv.net/iptv/3PAWQ6X49YQUC8/2515/index.m3u8
 
 #EXTINF:-1,SERVUS TV 🇩🇪
 https://s6.hopslan.com/servus2/tracks-v1a1/mono.m3u8
