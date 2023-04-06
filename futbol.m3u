@@ -448,7 +448,7 @@ https://livetv.mylifeisgood.ml/channels/setantahd
 https://livetv.mylifeisgood.ml/channels/setantahd.m3u8
 
 #EXTINF:-1,Setanta Sports 1 HD 🇷🇺
-http://24ch.iptvsmotri.ru/belvk5y/8BtlEqLZp4SWtxZBQIOnw6kNxksTH6ysLhI9nITWNj4ntPNpup7Dhp0VFtFEcUF3_03.php?name=f9aa64b0-75bc-4ae6-a246-6dc859fc6f58
+http://176.222.190.76/btv/SWM/SetantaSport_HD/SetantaSport_HD.m3u8
 
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
 https://livetv.mylifeisgood.ml/channels/setantaplus
@@ -457,13 +457,19 @@ https://livetv.mylifeisgood.ml/channels/setantaplus
 https://livetv.mylifeisgood.ml/channels/setantaplus.m3u8
 
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
-http://24ch.iptvsmotri.ru/belvk5y/8BtlEqLZp4SWtxZBQIOnw6kNxksTH6ysLhI9nITWNj4ntPNpup7Dhp0VFtFEcUF3_03.php?name=bad713b4-4d00-4b0d-867b-5ee002834561
+http://176.222.190.76/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD.m3u8
 
 #EXTINF:-1,Setanta Sports Live 🇺🇦
 http://78.26.128.59:9876/play/4/index.m3u8
 
 #EXTINF:-1,Setanta Sports Live 🇺🇦
 http://78.26.128.59:9876/play/161/index.m3u8
+
+#EXTINF:-1,Setanta Sports 1 🇰🇿
+http://176.222.190.76/btv/SWM/setantasports1hdkz/setantasports1hdkz.m3u8
+
+#EXTINF:-1,Setanta Sports 2 🇰🇿
+http://176.222.190.76/btv/SWM/setantasports2hdkz/setantasports2hdkz.m3u8
 
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
@@ -615,11 +621,17 @@ http://89.254.128.5:22280/qsport/index.m3u8
 #EXTINF:-1, Qirguistán sport 🇰🇬
 http://176.222.190.76/btv/SWM/Q/Q.m3u8
 
+#EXTINF:-1, Qirguistán sport 🇰🇬
+http://176.222.190.76/btv/SWM/Qsport_international/Qsport_international.m3u8
+
 #EXTINF:-1, KAZAJISTAN sport 🇰🇿
 http://de.iptv.monster/play/463/1C8A51F9C90B579/video.m3u8
 
 #EXTINF:-1,QAZSPORT 🇰🇿
 http://87.76.32.36:9100/udp/238.1.0.30:2000
+
+#EXTINF:-1,QAZSPORT 🇰🇿
+http://176.222.190.76/btv/SWM/Qazsport_HD/Qazsport_HD.m3u8
 
 #EXTINF:-1, SPORT 1 🇮🇱
 http://nohn.me/play/hjGS-tDz3JSOQ6fHw721VsFjjmpsSuOFIaJbVA1DJhk
