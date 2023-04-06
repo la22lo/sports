@@ -48,6 +48,9 @@ http://2hubs.ddns.net:25461/BabNour/telegrramm/73235
 #EXTINF:-1, ARENA SPORT 6 🇭🇷
 http://2hubs.ddns.net:25461/BabNour/telegrramm/60948
 
+#EXTINF:-1, ARENA SPORT 6 🇭🇷
+http://cloudcdn.tk:80/Visarhem/lQzhj3068/13828
+
 #EXTINF:-1, BEIN SPORTS 1 🇶🇦
 http://2hubs.ddns.net:25461/live/sltv/PVHDRgW4hH/59734.m3u8
 
@@ -306,11 +309,26 @@ http://79.174.24.254:8002/play/a00m/index.m3u8
 #EXTINF:-1,SPORT 2 HD 🇦🇱
 http://79.174.24.254:8002/play/a00n/index.m3u8
 
+#EXTINF:-1, ARENA SPORT 1 PREMIUM 🇷🇸
+http://34.135.135.107:80/live/hani/hani340/1
+
+#EXTINF:-1, ARENA SPORT 1 PREMIUM 🇷🇸
+http://crypto.dns.army:8080/kum-panel/razmjena/4828.ts
+
+#EXTINF:-1, ARENA SPORT 2 PREMIUM 🇷🇸
+http://34.135.135.107:80/live/hani/hani340/2
+
+#EXTINF:-1, ARENA SPORT 3 PREMIUM 🇷🇸
+http://34.135.135.107:80/live/hani/hani340/3
+
 #EXTINF:-1, ARENA SPORT 1 🇷🇸
 http://204.12.247.162:8080/premium429/mono.m3u8
 
 #EXTINF:-1,Arena 1 HD 🇷🇸
 http://94.250.2.6:7374/play/a02m/index.m3u8
+
+#EXTINF:-1,Arena 1 HD 🇷🇸
+http://cloudcdn.tk:80/Visarhem/lQzhj3068/3182
 
 #EXTINF:-1,Arena 2 HD 🇷🇸
 http://94.250.2.6:7374/play/a02n/index.m3u8
@@ -318,8 +336,17 @@ http://94.250.2.6:7374/play/a02n/index.m3u8
 #EXTINF:-1,Arena sport 3 HD 🇷🇸
 http://94.250.2.6:7374/play/a02o/index.m3u8
 
+#EXTINF:-1,Arena sport 3 HD 🇷🇸
+http://cloudcdn.tk:80/Visarhem/lQzhj3068/3184
+
 #EXTINF:-1,Arena Sport 4 🇷🇸
 http://94.250.2.6:7374/play/a012/index.m3u8
+
+#EXTINF:-1,Arena Sport 4 🇷🇸
+http://cloudcdn.tk:80/Visarhem/lQzhj3068/3185
+
+#EXTINF:-1,Arena Sport 5 🇷🇸
+http://cloudcdn.tk:80/Visarhem/lQzhj3068/3186
 
 #EXTINF:-1,Arena Premium 1 🇧🇦
 http://82.118.0.14:8000/play/5100/index.m3u8
@@ -351,6 +378,12 @@ http://94.250.2.6:7374/play/a02o/index.m3u8
 #EXTINF:-1,Arena Sport 4 🇧🇦
 http://94.250.2.6:7374/play/a012/index.m3u8
 
+#EXTINF:-1, ARENA SPORT 1 🇭🇷
+http://cloudcdn.tk:80/Visarhem/lQzhj3068/19004
+
+#EXTINF:-1, ARENA SPORT 6 🇭🇷
+http://cloudcdn.tk:80/Visarhem/lQzhj3068/13828
+
 #EXTINF:-1,HRT2 🇭🇷
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
 
@@ -360,17 +393,23 @@ http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
 #EXTINF:-1, HRT 2 🇭🇷
 http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8?
 
-#EXTINF:-1, MAX SPORT 1HD 🇧🇬
-http://93.155.227.38:555/m3u8/webmtelsport_web.m3u8
+#EXTINF:-1, SK 1 🇭🇷
+http://cloudcdn.tk:80/Visarhem/lQzhj3068/17252
 
-#EXTINF:-1, MAX SPORT 2HD 🇧🇬
-http://93.155.227.38:555/m3u8/webmtelsport2_web.m3u8
+#EXTINF:-1, SK 2 🇭🇷
+http://cloudcdn.tk:80/Visarhem/lQzhj3068/13833
 
-#EXTINF:-1, MAX SPORT 3HD 🇧🇬
-http://93.155.227.38:555/m3u8/webmtelsport3_web.m3u8
+#EXTINF:-1, SK 3 🇭🇷
+http://cloudcdn.tk:80/Visarhem/lQzhj3068/13834
 
-#EXTINF:-1, MAX SPORT 4HD 🇧🇬
-http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
+#EXTINF:-1, SK 4 🇭🇷
+http://cloudcdn.tk:80/Visarhem/lQzhj3068/17249
+
+#EXTINF:-1, SK 5 🇭🇷
+http://cloudcdn.tk:80/Visarhem/lQzhj3068/17250
+
+#EXTINF:-1, SK 6 🇭🇷
+http://cloudcdn.tk:80/Visarhem/lQzhj3068/17251
 
 #EXTINF:-1, MAX SPORT 1HD 🇧🇬
 https://bit.ly/3U3cbf3
@@ -398,6 +437,9 @@ https://bit.ly/3fcwac7
 
 #EXTINF:-1, DIEMA Sport 2 🇧🇬
 https://bit.ly/3W1RfGW
+
+#EXTINF:-1, NOVA SPORT 🇧🇬
+http://cloudcdn.tk:80/Visarhem/lQzhj3068/29855
 
 #EXTINF:-1,DIGI Sport 1 🇷🇴
 http://84.17.61.203:8086/udp/229.35.15.121:1234
