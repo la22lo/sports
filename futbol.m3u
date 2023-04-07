@@ -12,6 +12,9 @@ https://ds1.enjoyhd.club/stream/ch89/index.m3u8
 #EXTINF:-1, DAZN LALIGA 🇪🇸
 http://168.228.194.32:58001/play/z002/index.m3u8
 
+#EXTINF:-1, DAZN LALIGA 🇪🇸
+http://play.flamaplus.tv:80/play/e62ZAivrqNVXlBKPWVjAsdSyhpY2O4QjLwB66Blc_6xUK_pR0L6YLfDMr7bz7MaI/ts
+
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://45.5.118.226:8000/play/a051/index.m3u8
 
@@ -135,11 +138,29 @@ http://vasprodtv.ru:8080/Jonsno/NKr806GHd4YZN3Cn/31645
 #EXTINF:-1, DIRECTV SPORT 🇦🇷
 http://vasprodtv.ru:8080/Jonsno/NKr806GHd4YZN3Cn/297387
 
+#EXTINF:-1, DIRECTV SPORT 🇦🇷
+http://play.flamaplus.tv:80/play/e62ZAivrqNVXlBKPWVjAsZKsqPDkqt-AyTVsat-PABNkIQHpm8SxJaDJcW_JiKey/ts
+
 #EXTINF:-1, DIRECTV SPORT 2 🇦🇷
 http://190.119.178.46:8000/play/a033/index.m3u8
 
+#EXTINF:-1, DIRECTV SPORT 2 🇦🇷
+http://play.flamaplus.tv:80/play/e62ZAivrqNVXlBKPWVjAsboLhp4IYKKIdLAURyX8bHNDG6oYGqq90JWZcKEd48sp/ts
+
 #EXTINF:-1, DIRECTV SPORT + 🇦🇷
 http://190.119.178.46:8000/play/a034/index.m3u8
+
+#EXTINF:-1, DIRECTV SPORT + 🇦🇷
+http://play.flamaplus.tv:80/play/e62ZAivrqNVXlBKPWVjAsb1F6YvZMkRREKqAuherq8NDu9NoGjE6fmrQ0MvvpPgU/ts
+
+#EXTINF:-1, ESPN 🇦🇷
+http://play.flamaplus.tv:80/play/e62ZAivrqNVXlBKPWVjAsdDtmKa_4VtWa3NSMuzqw8ShINNNRMg0_aECsctCFRZz/ts
+
+#EXTINF:-1, ESPN 2 🇦🇷
+http://play.flamaplus.tv:80/play/e62ZAivrqNVXlBKPWVjAsb-3vd4cvvzmz5r8NsltUT2S-f4-dGOlcvdPO52iyyCc/ts
+
+#EXTINF:-1, ESPN 3 🇦🇷
+http://play.flamaplus.tv:80/play/e62ZAivrqNVXlBKPWVjAsRoy1EMHPQ3nzTAiZKKnX0aECEl_DcWwLEcA9EFKkxZm/ts
 
 #EXTINF:-1, ESPN 🇦🇷
 http://170.83.242.8:5350/play/a00u
