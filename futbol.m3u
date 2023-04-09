@@ -414,6 +414,9 @@ http://mk3gi6qo.russtv.net/iptv/3PAWQ6X49YQUC8/2500/index.m3u8
 #EXTINF:-1, BEIN 3 🇫🇷 
 http://mk3gi6qo.russtv.net/iptv/3PAWQ6X49YQUC8/2501/index.m3u8
 
+#EXTINF:-1, BEIN 1 🇬🇧
+http://edge02.odtv.az/o4/beinsport/playlist.m3u8
+
 #EXTINF:-1, VIAPLAY SPORT 1 🇬🇧
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 
@@ -836,6 +839,9 @@ http://87.76.32.36:9100/udp/238.1.0.30:2000
 
 #EXTINF:-1,QAZSPORT 🇰🇿
 http://176.222.190.76/btv/SWM/Qazsport_HD/Qazsport_HD.m3u8
+
+#EXTINF:-1,3 SPORT 3 🇱🇹
+http://65.109.110.117:6070/play/a00s
 
 #EXTINF:-1, SPORT 1 🇮🇱
 http://nohn.me/play/hjGS-tDz3JSOQ6fHw721VsFjjmpsSuOFIaJbVA1DJhk
