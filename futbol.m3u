@@ -657,6 +657,12 @@ https://livetv.mylifeisgood.ml/channels/setantahd
 #EXTINF:-1,Setanta Sports 1 HD 🇷🇺
 https://livetv.mylifeisgood.ml/channels/setantahd.m3u8
 
+#EXTINF:-1,Setanta Sports 1 HD 🇷🇺
+http://hez1-flu.iptvstream.site/158/tracks-v1a1/mono.m3u8?token=957074%2C%2C%2C0369172256
+
+#EXTINF:-1,Setanta Sports 1 HD 🇷🇺
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiM2JmZWY2MzktMGNhYy00NTkwLTg3NjQtN2ZkMTZlOTgwYTYzIiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA0LTA5VDE4OjU4OjM5WiIsInN0cmVhbV9uYW1lIjoiNTEwMCIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6ImludCIsInByb2plY3QiOiJ2b2thX3Byb2R1Y3Rpb24ifQ%3D%3D/MCwCFGK8vkSzUKPtSKlSgBckD_Gm8GjFAhREyZ-Qe0TnfMFiLWo01QWqU_tq3g%3D%3D/ip_v5/5100.m3u8
+
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
 http://176.222.190.76/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD.m3u8
 
@@ -666,11 +672,17 @@ https://livetv.mylifeisgood.ml/channels/setantaplus
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
 https://livetv.mylifeisgood.ml/channels/setantaplus.m3u8
 
+#EXTINF:-1,Setanta Sports 2 HD 🇷🇺
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiZDRiNWE1ODgtNzI3Mi00MTllLTgwMzgtMTA1OGYzMjYxYTkxIiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA0LTA5VDE4OjU4OjQzWiIsInN0cmVhbV9uYW1lIjoiNTEwMSIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6ImludCIsInByb2plY3QiOiJ2b2thX3Byb2R1Y3Rpb24ifQ%3D%3D/MC0CFQCWUAeWzc-gZC1jzfCav8cKw5f34wIUVeupxB3sgNQSqAHN2ZOG-auynjQ%3D/ip_v5/5101.m3u8
+
 #EXTINF:-1,Setanta Sports Live 🇺🇦
 http://78.26.128.59:9876/play/4/index.m3u8
 
 #EXTINF:-1,Setanta Sports Live 🇺🇦
 http://78.26.128.59:9876/play/161/index.m3u8
+
+#EXTINF:-1,Setanta Sports + 🇺🇦
+http://hez1-flu.iptvstream.site/160/tracks-v1a1/mono.m3u8?token=957074%2C%2C%2C0369172256
 
 #EXTINF:-1,Setanta Sports 1 🇰🇿
 http://176.222.190.76/btv/SWM/setantasports1hdkz/setantasports1hdkz.m3u8
