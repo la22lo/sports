@@ -1247,5 +1247,28 @@ https://ds1.enjoyhd.club/stream/ch10/index.m3u8
 #EXTINF:-1, M LIGA CAMPEONES 🇪🇸
 http://457315247963246282.discoveryapp.xyz/play/vi101551/1875644199/246282.ts
 
+#EXTINF:-1,beIN Perimum 1 FHD
+http://88.99.144.223:1234/play/a00l/index.m3u8
+#EXTINF:-1,beIN Perimum 2 FHD
+http://88.99.144.223:1234/play/a00g/index.m3u8
+#EXTINF:-1,beIN Perimum 2 HD
+http://88.99.144.223:1234/play/a00f/index.m3u8
+#EXTINF:-1,beIN Perimum 3 FHD
+http://88.99.144.223:1234/play/a0oy/index.m3u8
+#EXTINF:-1,beIN Perimum 3 HD
+http://88.99.144.223:1234/play/a0ox/index.m3u8
+#EXTINF:-1,beIN Premium 1 HD
+http://88.99.144.223:1234/play/a00m/index.m3u8
+#EXTINF:-1,yes SPORT 1 HD
+http://88.99.144.223:1234/play/a004/index.m3u8
+#EXTINF:-1,yes SPORT 2 HD
+http://88.99.144.223:1234/play/a003/index.m3u8
+#EXTINF:-1,yes SPORT 3 HD
+http://88.99.144.223:1234/play/a001/index.m3u8
+#EXTINF:-1,yes SPORT 4 HD
+http://88.99.144.223:1234/play/a002/index.m3u8
+#EXTINF:-1,yes SPORT 5 HD
+http://88.99.144.223:1234/play/a005/index.m3u8
+
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
