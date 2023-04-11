@@ -57,6 +57,9 @@ http://114.99.242.228:18443/stream/channelid/1170019911?profile=pass
 #EXTINF:-1, BEIN 1 🇫🇷 
 http://mk3gi6qo.russtv.net/iptv/3PAWQ6X49YQUC8/2499/index.m3u8
 
+#EXTINF:-1, SONY TEN 2 🇮🇳
+https://lin-gd-001-cf.slivcdn.com:443/out/v1/6405a2743163448bba0f3ee5e68e7bc3/master_7.m3u8?hdntl=exp=1681283195~acl=*~hmac=acfd4c8ffe68984033ca2e34044e3705b9c1ed176ea5b4ce9ec951bf94c8695e&originpath=/linear/hls/pb/event/LK-ik89MQIi_pWBbg74KNQ/stream/fd56be76-7fa4-4802-9ce1-75369e9a1fd7:SIN/variant/7ca0fc483f3c374dfad14be30b22e5dc/bandwidth/1245332.m3u8
+
 #EXTINF:-1, FOX SPORTS 2 🇦🇷
 http://170.83.242.155:5350/play/a013
 
