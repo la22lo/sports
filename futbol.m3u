@@ -55,7 +55,7 @@ http://114.99.242.228:18443/stream/channelid/1170019911?profile=pass
 http://mk3gi6qo.russtv.net/iptv/3PAWQ6X49YQUC8/2499/index.m3u8
 
 #EXTINF:-1, Eleven 1 HD 🇵🇹
-http://hyqzethr.megatv.fun/iptv/XKUCY8VBNVLNB7/19158/index.m3u8
+http://176.57.50.167:25461/692803/264908/7626
 
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://176.57.50.167:25461/692803/264908/7629
@@ -131,9 +131,6 @@ http://live.budtvlight.com:25461/live/bud-1763358/7f63ee0473/39090.m3u8
 
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://176.57.50.167:25461/692803/264908/7626
-
-#EXTINF:-1, Eleven 1 HD 🇵🇹
-http://hyqzethr.megatv.fun/iptv/XKUCY8VBNVLNB7/19158/index.m3u8
 
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://176.57.50.167:25461/692803/264908/7629
