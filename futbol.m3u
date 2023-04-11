@@ -24,6 +24,9 @@ http://84.17.61.203:8086/udp/229.35.15.105:1234
 #EXTINF:-1, BT SPORT 1 🇬🇧
 https://e.fordems.biz/live/multiple_fd-1/live/fd-1_source/chunks.m3u8
 
+#EXTINF:-1, BT SPORT 2 🇬🇧
+https://e.fordems.biz/live/multiple_fd-2/live/fd-2_source/chunks.m3u8
+
 #EXTINF:-1,bein SPORTS 1 premium 🇶🇦
 http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test
 
