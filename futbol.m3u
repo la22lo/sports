@@ -73,6 +73,9 @@ http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test
 http://94.130.163.18:5080/WebRTCApp/streams/01_Bein_Premuim_1.m3u8
 
 #EXTINF:-1,bein SPORTS 2 premium 🇶🇦
+http://wixa.fire33.xyz:2052/live/663070308367/663070308367/525.m3u8
+
+#EXTINF:-1,bein SPORTS 2 premium 🇶🇦
 http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test
 
 #EXTINF:-1,bein SPORTS 2 premium 🇶🇦
