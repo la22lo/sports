@@ -18,6 +18,12 @@ http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 
+#EXTINF:-1, POLSAR SPORT PREMIUM 2 🇵🇱
+http://51.89.67.79:25461/stalker348574985793/stalker348574985793/67
+
+#EXTINF:-1, POLSAR SPORT PREMIUM 1 🇵🇱
+http://51.89.67.79:25461/stalker348574985793/stalker348574985793/66
+
 #EXTINF:-1,DIGI Sport 1 🇷🇴
 http://84.17.61.203:8086/udp/229.35.15.121:1234
 
@@ -51,18 +57,6 @@ http://82.118.0.14:8000/play/5100/index.m3u8
 #EXTINF:-1,Arena Premium 2 🇧🇦
 http://82.118.0.14:8000/play/5110/index.m3u8
 
-#EXTINF:-1, POLSAR SPORT PREMIUM 2 🇵🇱
-http://51.89.67.79:25461/stalker348574985793/stalker348574985793/67
-
-#EXTINF:-1, POLSAR SPORT PREMIUM 1 🇵🇱
-http://51.89.67.79:25461/stalker348574985793/stalker348574985793/66
-
-#EXTINF:-1, CCTV-5 🇨🇳
-http://114.99.242.228:18443/stream/channelid/1997158506?profile=pass
-
-#EXTINF:-1, CCTV-5+ 🇨🇳
-http://114.99.242.228:18443/stream/channelid/1170019911?profile=pass
-
 #EXTINF:-1, RMC 1 🇫🇷
 https://mo3ad.xyz/live/mo3ad90PpD5/mo3ad90PpD5/190.ts
 
@@ -75,8 +69,11 @@ https://mo3ad.xyz/live/mo3ad90PpD5/mo3ad90PpD5/185.ts
 #EXTINF:-1, SONY TEN 2 🇮🇳
 https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
 
-#EXTINF:-1, FOX SPORTS 2 🇦🇷
-http://170.83.242.155:5350/play/a013
+#EXTINF:-1, CCTV-5 🇨🇳
+http://114.99.242.228:18443/stream/channelid/1997158506?profile=pass
+
+#EXTINF:-1, CCTV-5+ 🇨🇳
+http://114.99.242.228:18443/stream/channelid/1170019911?profile=pass
 
 
 
