@@ -1,109 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,TV MAX 🇵🇦 
-https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?
-
-#EXTINF:-1,TUDN HD USA 🇲🇽
-http://45.182.21.251:33334/play/a077/index.m3u8
-
-#EXTINF:-1, LIGA CAMP 🇪🇸
-https://daddy.yurendtv.biz.id/https://ddy6.onlinewebtv.lol:443/ddy6/premium435/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,CITY SPORTS 🇦🇷
-https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
-
-#EXTINF:-1,ESPN 🇦🇷
-https://argusport.live:90/ESPN1SUR/index.m3u8
-
-#EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
-http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
-
-#EXTINF:-1, MATH 🇷🇺
-https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
-
-#EXTINF:-1, CBC SPORT 🇦🇿
-http://de.iptv.monster/play/434/1C8A51F9C90B579/video.m3u8
-
-#EXTINF:-1, HRT 2 🇭🇷
-http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
-
-#EXTINF:-1, МАТЧ Премьер HD 🇷🇺
-http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
-
-#EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
-http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
-
-#EXTINF:-1, POLSAR SPORT PREMIUM 2 🇵🇱
-http://51.89.67.79:25461/stalker348574985793/stalker348574985793/67
-
-#EXTINF:-1, POLSAR SPORT PREMIUM 1 🇵🇱
-http://51.89.67.79:25461/stalker348574985793/stalker348574985793/66
-
-#EXTINF:-1,DIGI Sport 1 🇷🇴
-http://84.17.61.203:8086/udp/229.35.15.121:1234
-
-#EXTINF:-1,DIGI Sport 1 🇷🇴
-https://mo3ad.xyz:443/live/mo3ad90PpD5/mo3ad90PpD5/199.ts
-
-#EXTINF:-1,DIGI Sport 2 🇷🇴
-http://84.17.61.203:8086/udp/229.35.15.105:1234
-
-#EXTINF:-1,DIGI Sport 2 🇷🇴
-https://mo3ad.xyz:443/live/mo3ad90PpD5/mo3ad90PpD5/201.ts
-
-#EXTINF:-1, BT SPORT 1 🇬🇧
-https://mo3ad.xyz/live/mo3ad90PpD5/mo3ad90PpD5/191.ts
-
-#EXTINF:-1, BT SPORT 2 🇬🇧
-https://mo3ad.xyz/live/mo3ad90PpD5/mo3ad90PpD5/219.ts
-
-#EXTINF:-1, RMC 1 🇫🇷
-https://mo3ad.xyz/live/mo3ad90PpD5/mo3ad90PpD5/190.ts
-
-#EXTINF:-1,bein SPORTS 1 premium 🇶🇦
-http://wixa.fire33.xyz:2052/live/663070308367/663070308367/523.m3u8
-
-#EXTINF:-1,bein SPORTS 1 premium 🇶🇦
-https://mo3ad.xyz:443/live/mo3ad90PpD5/mo3ad90PpD5/279.ts
-
-#EXTINF:-1,bein SPORTS 1 premium 🇶🇦
-http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test
-
-#EXTINF:-1,bein SPORTS 1 premium 🇶🇦
-http://94.130.163.18:5080/WebRTCApp/streams/01_Bein_Premuim_1.m3u8
-
-#EXTINF:-1,bein SPORTS 2 premium 🇶🇦
-http://wixa.fire33.xyz:2052/live/663070308367/663070308367/525.m3u8
-
-#EXTINF:-1,bein SPORTS 2 premium 🇶🇦
-http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test
-
-#EXTINF:-1,bein SPORTS 2 premium 🇶🇦
-http://94.130.163.18:5080/WebRTCApp/streams/02_Bein_Premuim_1.m3u8
-
-#EXTINF:-1,Arena Premium 1 🇧🇦
-http://82.118.0.14:8000/play/5100/index.m3u8
-
-#EXTINF:-1,Arena Premium 2 🇧🇦
-http://82.118.0.14:8000/play/5110/index.m3u8
-
-#EXTINF:-1, SONY TEN 1 🇮🇳
-https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
-
-#EXTINF:-1, SONY TEN 1 🇮🇳
-https://mo3ad.xyz/live/mo3ad90PpD5/mo3ad90PpD5/185.ts
-
-#EXTINF:-1, SONY TEN 2 🇮🇳
-https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
-
-
-
-
-
-
-
-
-
 #EXTINF:-1, VIX 1 🇨🇷
 https://linear-489.frequency.stream/dist/vix/489/hls/master/playlist.m3u8
 
@@ -1225,6 +1121,105 @@ http://176.57.50.167:25461/esaletv2/2226677442/83367
 
 #EXTINF:-1, SERVUS TV F1 🇩🇪
 https://s6.hopslan.com/servus2/index.m3u8
+
+
+
+
+#EXTINF:-1,TV MAX 🇵🇦 
+https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?
+
+#EXTINF:-1,TUDN HD USA 🇲🇽
+http://45.182.21.251:33334/play/a077/index.m3u8
+
+#EXTINF:-1, LIGA CAMP 🇪🇸
+https://daddy.yurendtv.biz.id/https://ddy6.onlinewebtv.lol:443/ddy6/premium435/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,CITY SPORTS 🇦🇷
+https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
+
+#EXTINF:-1,ESPN 🇦🇷
+https://argusport.live:90/ESPN1SUR/index.m3u8
+
+#EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
+http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1, MATH 🇷🇺
+https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
+
+#EXTINF:-1, CBC SPORT 🇦🇿
+http://de.iptv.monster/play/434/1C8A51F9C90B579/video.m3u8
+
+#EXTINF:-1, HRT 2 🇭🇷
+http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
+
+#EXTINF:-1, МАТЧ Премьер HD 🇷🇺
+http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1, POLSAR SPORT PREMIUM 2 🇵🇱
+http://51.89.67.79:25461/stalker348574985793/stalker348574985793/67
+
+#EXTINF:-1, POLSAR SPORT PREMIUM 1 🇵🇱
+http://51.89.67.79:25461/stalker348574985793/stalker348574985793/66
+
+#EXTINF:-1,DIGI Sport 1 🇷🇴
+http://84.17.61.203:8086/udp/229.35.15.121:1234
+
+#EXTINF:-1,DIGI Sport 1 🇷🇴
+https://mo3ad.xyz:443/live/mo3ad90PpD5/mo3ad90PpD5/199.ts
+
+#EXTINF:-1,DIGI Sport 2 🇷🇴
+http://84.17.61.203:8086/udp/229.35.15.105:1234
+
+#EXTINF:-1,DIGI Sport 2 🇷🇴
+https://mo3ad.xyz:443/live/mo3ad90PpD5/mo3ad90PpD5/201.ts
+
+#EXTINF:-1, BT SPORT 1 🇬🇧
+https://mo3ad.xyz/live/mo3ad90PpD5/mo3ad90PpD5/191.ts
+
+#EXTINF:-1, BT SPORT 2 🇬🇧
+https://mo3ad.xyz/live/mo3ad90PpD5/mo3ad90PpD5/219.ts
+
+#EXTINF:-1, RMC 1 🇫🇷
+https://mo3ad.xyz/live/mo3ad90PpD5/mo3ad90PpD5/190.ts
+
+#EXTINF:-1,bein SPORTS 1 premium 🇶🇦
+http://wixa.fire33.xyz:2052/live/663070308367/663070308367/523.m3u8
+
+#EXTINF:-1,bein SPORTS 1 premium 🇶🇦
+https://mo3ad.xyz:443/live/mo3ad90PpD5/mo3ad90PpD5/279.ts
+
+#EXTINF:-1,bein SPORTS 1 premium 🇶🇦
+http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test
+
+#EXTINF:-1,bein SPORTS 1 premium 🇶🇦
+http://94.130.163.18:5080/WebRTCApp/streams/01_Bein_Premuim_1.m3u8
+
+#EXTINF:-1,bein SPORTS 2 premium 🇶🇦
+http://wixa.fire33.xyz:2052/live/663070308367/663070308367/525.m3u8
+
+#EXTINF:-1,bein SPORTS 2 premium 🇶🇦
+http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test
+
+#EXTINF:-1,bein SPORTS 2 premium 🇶🇦
+http://94.130.163.18:5080/WebRTCApp/streams/02_Bein_Premuim_1.m3u8
+
+#EXTINF:-1,Arena Premium 1 🇧🇦
+http://82.118.0.14:8000/play/5100/index.m3u8
+
+#EXTINF:-1,Arena Premium 2 🇧🇦
+http://82.118.0.14:8000/play/5110/index.m3u8
+
+#EXTINF:-1, SONY TEN 1 🇮🇳
+https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+
+#EXTINF:-1, SONY TEN 1 🇮🇳
+https://mo3ad.xyz/live/mo3ad90PpD5/mo3ad90PpD5/185.ts
+
+#EXTINF:-1, SONY TEN 2 🇮🇳
+https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
