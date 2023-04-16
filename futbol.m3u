@@ -361,6 +361,12 @@ https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d3j7ofexbkp7q4.cloudfront.net:443/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/../../../manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/ab472ec7-025f-47ad-b7b6-1a1482665dda/3.m3u8
 
 #EXTINF:-1, BT SPORT 1 🇬🇧
+http://50.7.89.130:8080/g78fqx/video.m3u8?token=ZKF89T31BF
+
+#EXTINF:-1, BT SPORT 2 🇬🇧
+http://50.7.89.130:8080/4q4jwd/video.m3u8?token=ZKF89T31BF
+
+#EXTINF:-1, BT SPORT 1 🇬🇧
 http://mk3gi6qo.russtv.net/iptv/3PAWQ6X49YQUC8/2505/index.m3u8
 
 #EXTINF:-1, BT SPORT 2 🇬🇧
