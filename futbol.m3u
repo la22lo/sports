@@ -807,6 +807,24 @@ http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2518/index.m3u8
 #EXTINF:-1, Eleven Sports 2 HD PL 🇵🇱
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2517/index.m3u8
 
+#EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇱
+http://50.7.89.130:8080/s2bqur/video.m3u8?token=ZKF89T31BF
+
+#EXTINF:-1, ELEVEN SPORTS 2 HD 🇵🇱
+http://50.7.89.130:8080/rtjs8r/video.m3u8?token=ZKF89T31BF
+
+#EXTINF:-1, ELEVEN SPORTS 3 HD 🇵🇱
+http://50.7.89.130:8080/54elmn/video.m3u8?token=ZKF89T31BF
+
+#EXTINF:-1, ELEVEN SPORTS 4 HD 🇵🇱
+http://50.7.89.130:8080/iu7xd5/video.m3u8?token=ZKF89T31BF
+
+#EXTINF:-1, POLSAT SPORT 1 PREMIUM 🇵🇱
+http://50.7.89.130:8080/sy0x1x/video.m3u8?token=ZKF89T31BF
+
+#EXTINF:-1, POLSAT SPORT 2 PREMIUM 🇵🇱
+http://50.7.89.130:8080/j48ke9/video.m3u8?token=ZKF89T31BF
+
 #EXTINF:-1, POLSAT SPORT NEWS HD PL 🇵🇱
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7303/index.m3u8
 
