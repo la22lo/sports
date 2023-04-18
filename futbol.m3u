@@ -24,6 +24,9 @@ http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 
+#EXTINF:-1, TUDN EXTRA 🇲🇽
+http://maxpro.cc:2095/live/Area504/504restream/232293.ts
+
 #EXTINF:-1, FOX SPORTS 🇦🇷
 http://mokino.top:8080/live/361679779421334077/5281679779421334/18714.ts
 
@@ -93,6 +96,9 @@ http://204.12.247.162:8080/premium475/video.m3u8?
 #EXTINF:-1, M4 sport 🇭🇺
 http://star8iptv.com:2082/avanger-discord/UUYZM7aYjXCj/157635
 
+#EXTINF:-1, SPORT 1 🇭🇺
+http://star8iptv.com:2082/avanger-discord/UUYZM7aYjXCj/157662
+
 #EXTINF:-1, SUPERSPORT MAXIMO 1 🇿🇦
 http://ttv.bz:80/jRMAWCqMy5/Wi7pzbKj9X/66618
 
@@ -146,6 +152,9 @@ https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
 
 #EXTINF:-1,TV MAX 🇵🇦 
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?
+
+#EXTINF:-1, ARENA SPORT 7 🇭🇷
+http://star8iptv.com:2082/avanger-discord/UUYZM7aYjXCj/153575
 
 #EXTINF:-1, HRT 2 🇭🇷
 http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
