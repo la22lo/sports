@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,TUDN HD USA 🇲🇽
-http://45.182.21.251:33334/play/a077/index.m3u8
-
-#EXTINF:-1, LIGA CAMP 🇪🇸
-http://1sn.ns1.name:18800/dani/dani1/69725
-
 #EXTINF:-1, LIGA CAMP 🇪🇸
 https://daddy.yurendtv.biz.id/https://ddy6.onlinewebtv.lol:443/ddy6/premium435/tracks-v1a1/mono.m3u8
 
@@ -21,9 +15,6 @@ http://odenfull.co:2086/RodolfoCarcamo2023/g2KFtEmugeR8/269862
 #EXTINF:-1,CITY SPORTS 🇦🇷
 https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
 
-#EXTINF:-1,ESPN 🇦🇷
-https://argusport.live:90/ESPN1SUR/index.m3u8
-
 #EXTINF:-1,TUDN USA 🇲🇽
 http://odenfull.co:2086/RodolfoCarcamo2023/g2KFtEmugeR8/213914
 
@@ -32,9 +23,6 @@ http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
-
-#EXTINF:-1, CBC SPORT 🇦🇿
-http://de.iptv.monster/play/434/1C8A51F9C90B579/video.m3u8
 
 #EXTINF:-1, МАТЧ Премьер HD 🇷🇺
 http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
@@ -99,9 +87,6 @@ http://212.5.59.2:9882/play/a019/index.m3u8?
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://204.12.247.162:8080/premium475/video.m3u8?
 
-#EXTINF:-1, SUPERSPORT MAXIMO 1 🇿🇦
-http://45.12.1.14/dsxBAoARh2/sXF4Np39/28907
-
 #EXTINF:-1, M4 sport 🇭🇺
 http://star8iptv.com:2082/avanger-discord/UUYZM7aYjXCj/157635
 
@@ -135,9 +120,6 @@ http://82.118.0.14:8000/play/5110/index.m3u8
 #EXTINF:-1, SONY TEN 1 🇮🇳
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
 
-#EXTINF:-1, SONY TEN 1 🇮🇳
-https://mo3ad.xyz/live/mo3ad90PpD5/mo3ad90PpD5/185.ts
-
 #EXTINF:-1, SONY TEN 2 🇮🇳
 https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
 
@@ -146,6 +128,9 @@ https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/60580
 
 #EXTINF:-1, HRT 2 🇭🇷
 http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
+
+#EXTINF:-1,ESPN 🇦🇷
+https://argusport.live:90/ESPN1SUR/index.m3u8
 
 
 
