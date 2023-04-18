@@ -24,6 +24,9 @@ http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 
+#EXTINF:-1, TUDN EN VIVO 🇲🇽
+http://204.12.247.162:8080/premium66/mono.m3u8
+
 #EXTINF:-1, TUDN EXTRA 🇲🇽
 http://maxpro.cc:2095/live/Area504/504restream/232293.ts
 
