@@ -9,6 +9,9 @@ https://argusport.live:90/ESPN1SUR/index.m3u8
 #EXTINF:-1, LIGA CAMPEONES 🇪🇸
 http://51.91.8.161:18000/M_Liga_de_Campeones/hls/playlist.m3u8
 
+#EXTINF:-1, LIGA CAMPEONES 🇪🇸
+http://51.159.99.183:18000/M_Liga_de_Campeones/hls/playlist.m3u8
+
 #EXTINF:-1, LIGA CAMP 🇪🇸
 http://line.cableguy.pro:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/274813
 
@@ -255,6 +258,9 @@ http://45.5.118.226:8000/play/a051/index.m3u8
 
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://51.91.8.161:18000/M_LaLiga/hls/playlist.m3u8
+
+#EXTINF:-1, MOVISTAR LALIGA 🇪🇸
+http://51.159.99.183:18000/M_LaLiga/hls/playlist.m3u8
 
 #EXTINF:-1, DAZN LALIGA 🇪🇸
 http://50.7.89.130:8080/bxw70g/video.m3u8?token=ZKF89T31BF
