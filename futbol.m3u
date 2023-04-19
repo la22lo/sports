@@ -150,6 +150,12 @@ http://212.224.84.202:2200/ALB-EX/ART_Sport_1_HD_AL-alb/tracks-v1a1/mono.m3u8?to
 #EXTINF:-1, ART SPORT 2 🇽🇰
 http://212.224.84.202:2200/ALB-EX/ART_Sport_2_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
 
+#EXTINF:-1, CANAL ARABE 1 🇸🇦
+https://mo3ad@live-v13wgnv6.rmbl.ws/slot-91/rh0u-jwmt_720p/chunklist_DVR.m3u8
+
+#EXTINF:-1, CANAL ARABE 2 🇸🇦
+https://mo3ad@live-ol95fwjc.rmbl.ws/slot-57/wrvl-uji8_720p/chunklist_DVR.m3u8
+
 #EXTINF:-1,bein SPORTS 1 premium 🇶🇦
 http://wixa.fire33.xyz:2052/live/663070308367/663070308367/523.m3u8
 
