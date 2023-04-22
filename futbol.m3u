@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, Eleven 3 HD 🇵🇹
+http://50.7.89.130:8080/4se9ri/video.m3u8?token=ZKF89T31BF
+
 #EXTINF:-1, VIX 1 🇨🇷
 https://linear-489.frequency.stream/dist/vix/489/hls/master/playlist.m3u8
 
