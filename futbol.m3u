@@ -12,9 +12,6 @@ http://51.159.99.183:18000/M_LaLiga/hls/playlist.m3u8
 #EXTINF:-1,CBC SPORT 🇦🇿
 http://213.239.195.222/azerbaijan/cbc_sport_stream_hd_2023/playlist.m3u8
 
-#EXTINF:-1,SUPERSPORT LALIGA 🇿🇦
-http://45.12.1.14/dsxBAoARh2/sXF4Np39/28895
-
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://45.5.118.226:8000/play/a051/index.m3u8
 
