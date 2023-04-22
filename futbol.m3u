@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, VIX 🇨🇷
+https://linear-490.frequency.stream/dist/vix/490/hls/master/playlist_1024x576.m3u8
+
 #EXTINF:-1, BEIN SPORTS 1 🇶🇦
 http://109.202.99.203:8080/D2lWIJoM81/PaemWJL9gE/322
 
