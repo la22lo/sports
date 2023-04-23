@@ -36,11 +36,20 @@ http://hyqzethr.megatv.fun/iptv/Q6F448PSWCKGPC/6825/index.m3u8
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://hostengine.live/live/wrecks82/habsiptv82/58550.m3u8
 
+#EXTINF:-1, Eleven 1 HD 🇵🇹
+http://50.7.89.130:8080/z95bsa/video.m3u8?token=ZKF89T31BF
+
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://hostengine.live/live/wrecks82/habsiptv82/58551.m3u8
 
+#EXTINF:-1, Eleven 2 HD 🇵🇹
+http://50.7.89.130:8080/6moy9u/video.m3u8?token=ZKF89T31BF
+
 #EXTINF:-1, Eleven 3 HD 🇵🇹
 http://hostengine.live/live/wrecks82/habsiptv82/58552.m3u8
+
+#EXTINF:-1, Eleven 3 HD 🇵🇹
+http://50.7.89.130:8080/4se9ri/video.m3u8?token=ZKF89T31BF
 
 #EXTINF:-1, DAZN LALIGA 🇪🇸
 http://168.228.194.32:58001/play/z002/index.m3u8
