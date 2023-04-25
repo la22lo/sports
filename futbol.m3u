@@ -12,6 +12,9 @@ https://linear-489.frequency.stream:443/dist/vix/489/hls/master/playlist_1024x57
 #EXTINF:-1, VIX 2 HD 🇨🇷
 https://stream.broadpeak.io:443/dist/vix/490/hls/master/playlist_1024x576.m3u8?mm_sp&sessionid=10c0e19f68-c053fbe9-bc06-454f-a7f8-daae6ff20a43&serviceid=d54e99a6c03704e9262f66941d34c1bd&category=all
 
+#EXTINF:-1, ESPN 2 🇦🇷
+http://45.190.13.50:8002/play/a01k/index.m3u8
+
 #EXTINF:-1, DIRECTV SPORTS 🇦🇷
 http://gamsgo.cyou:8080/9a7c64ba/PJnnJEHm8BxxyKdg/67721
 
