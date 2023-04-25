@@ -9,6 +9,9 @@ https://linear-490.frequency.stream/dist/vix/490/hls/master/playlist.m3u8
 #EXTINF:-1, DIRECTV SPORTS 🇦🇷
 http://gamsgo.cyou:8080/9a7c64ba/PJnnJEHm8BxxyKdg/67721
 
+#EXTINF:-1, DIRECTV SPORT 🇦🇷
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234324
+
 #EXTINF:-1, BEIN SPORTS 1 🇶🇦
 http://109.202.99.203:8080/D2lWIJoM81/PaemWJL9gE/322
 
@@ -128,6 +131,15 @@ http://hostengine.live/live/wrecks82/habsiptv82/112415.m3u8
 
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
+
+#EXTINF:-1, DIRECTV SPORT 🇦🇷
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234324
+
+#EXTINF:-1, ESPN 🇦🇷
+http://45.190.13.50:8002/play/a01f/index.m3u8
+
+#EXTINF:-1, ESPN 2 🇦🇷
+http://45.190.13.50:8002/play/a01k/index.m3u8
 
 #EXTINF:-1, ESPN 🇦🇷
 http://170.83.242.8:5350/play/a00u
