@@ -24,17 +24,11 @@ http://51.159.99.183:18000/M_LaLiga/hls/playlist.m3u8
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://45.5.118.226:8000/play/a051/index.m3u8
 
-#EXTINF:-1, DAZN LALIGA 🇪🇸
-http://50.7.89.130:8080/bxw70g/video.m3u8?token=ZKF89T31BF
-
 #EXTINF:-1, LALIGA TV BAR 🇪🇸
 http://mokino.top:8080/live/361679779421334077/5281679779421334/5661.ts
 
 #EXTINF:-1, LALIGA TV BAR 🇪🇸
 http://odenfull.co:2086/RodolfoCarcamo2023/g2KFtEmugeR8/135346
-
-#EXTINF:-1, S SPORT 🇹🇷
-http://hyqzethr.megatv.fun/iptv/Q6F448PSWCKGPC/6825/index.m3u8
 
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://hostengine.live/live/wrecks82/habsiptv82/58550.m3u8
