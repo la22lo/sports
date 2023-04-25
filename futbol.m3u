@@ -1359,17 +1359,5 @@ http://star8iptv.com:2082/avanger-discord/UUYZM7aYjXCj/153575
 #EXTINF:-1, HRT 2 🇭🇷
 http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
 
-#EXTINF:-1, BeiN Sports 1 EN
-http://103.99.249.107:81/play/a07q
-
-#EXTINF:-1, Bein Sport 2 AR
-http://103.99.249.107:81/play/a06f
-
-#EXTINF:-1, BeiN Sports 3 AR
-http://103.99.249.107:81/play/a02d
-
-#EXTINF:-1, LaLiga HD
-http://103.99.249.107:81/play/a05h
-
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
