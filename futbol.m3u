@@ -6,12 +6,6 @@ https://linear-489.frequency.stream/dist/vix/489/hls/master/playlist.m3u8
 #EXTINF:-1, VIX 2 🇨🇷
 https://linear-490.frequency.stream/dist/vix/490/hls/master/playlist.m3u8
 
-#EXTINF:-1, DIRECTV SPORTS 🇦🇷
-http://gamsgo.cyou:8080/9a7c64ba/PJnnJEHm8BxxyKdg/67721
-
-#EXTINF:-1, DIRECTV SPORTS 🇦🇷
-http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234324
-
 #EXTINF:-1, ESPN DEPORTES 🇺🇸
 http://gamsgo.cyou:8080/9a7c64ba/PJnnJEHm8BxxyKdg/281417
 
@@ -26,6 +20,12 @@ http://faucontv.live:8080/wAWmFm67/xCemnPk/21623
 
 #EXTINF:-1, BEIN SPORTS 1 🇶🇦
 http://line.365tv.xyz:8060/live/HNf5n8njq9FK/betasee4j8Gq/90154.ts
+
+#EXTINF:-1, K SPORT 1 🇦🇱
+http://tbs-tv.com:8080/dark/kittylinetv/13572
+
+#EXTINF:-1, K SPORT 1 🇦🇱
+http://faucontv.live:8080/wAWmFm67/xCemnPk/115735
 
 #EXTINF:-1,CBC SPORT 🇦🇿
 http://130.185.236.8:12560/play/a081
