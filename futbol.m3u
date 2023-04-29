@@ -1366,6 +1366,8 @@ http://178.160.249.200:8000/play/a006/index.m3u8
 http://178.160.249.200:8000/play/a004/index.m3u8
 #EXTINF:-1,Vivaro sport +
 http://178.160.249.200:8000/play/a005/index.m3u8
+#EXTINF:-1,sport1tn
+http://14.225.44.14:5544/play/sport1tn/index.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
