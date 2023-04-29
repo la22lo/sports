@@ -1360,6 +1360,12 @@ http://5.15.2.36:4100/play/a018
 http://5.15.2.36:4100/play/a00o
 #EXTINF:-1,TV2 Sport 2 HD (NO)
 http://195.222.7.26:7011/play/a02j
+#EXTINF:-1,Vivaro Arena
+http://178.160.249.200:8000/play/a006/index.m3u8
+#EXTINF:-1,Vivaro sport
+http://178.160.249.200:8000/play/a004/index.m3u8
+#EXTINF:-1,Vivaro sport +
+http://178.160.249.200:8000/play/a005/index.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
