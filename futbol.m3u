@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, VIX 1 🇨🇷
-https://linear-489.frequency.stream/dist/vix/489/hls/master/playlist.m3u8
-
-#EXTINF:-1, VIX 2 🇨🇷
-https://linear-490.frequency.stream/dist/vix/490/hls/master/playlist.m3u8
-
 #EXTINF:-1, TELECOSTA
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
