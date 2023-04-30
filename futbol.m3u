@@ -36,9 +36,6 @@ http://51.159.99.183:18000/M_LaLiga/hls/playlist.m3u8
 #EXTINF:-1, MOVISTAR LALIGA 🇪🇸
 http://45.5.118.226:8000/play/a051/index.m3u8
 
-#EXTINF:-1, LALIGA TV BAR 🇪🇸
-http://mokino.top:8080/live/361679779421334077/5281679779421334/5661.ts
-
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://hostengine.live/live/wrecks82/habsiptv82/58550.m3u8
 
