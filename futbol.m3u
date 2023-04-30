@@ -3,9 +3,6 @@
 #EXTINF:-1, TELECOSTA
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
-#EXTINF:-1, CANAL CHINO 🇨🇳
-https://49c1f938208318cdf8288bc36b62472a.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=97260c2df0c4a7a2a94a756e4cc855ed&auth_key=1682877407-0-0-fa77719f739f5b916d17ba106ca47bdb
-
 #EXTINF:-1, ESPN ARG 🇦🇷
 http://45.190.13.50:8002/play/a01f/index.m3u8
 
