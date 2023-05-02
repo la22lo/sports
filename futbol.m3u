@@ -1345,6 +1345,20 @@ http://14.225.44.14:5544/play/sport1tn/index.m3u8
 http://103.82.24.168:5544/play/sdsport1/index.m3u8
 #EXTINF:-1,sdsport2
 http://103.82.24.168:5544/play/sdsport2/index.m3u8
+#EXTINF:-1, TV3 Sport Open HD 
+http://78.62.46.89:8000/play/a02b/index.m3u8
+
+#EXTINF:-1, TV3 Sport HD 
+http://78.62.46.89:8000/play/a0bm/index.m3u8
+
+#EXTINF:-1, TV3 Sport 
+http://78.62.46.89:8000/play/a07r/index.m3u8
+
+#EXTINF:-1,TV3 Sport2 
+http://78.62.46.89:8000/play/TVPlaySports/index.m3u8
+
+#EXTINF:-1, Sport1 Lt HD 
+http://78.62.46.89:8000/play/sport1-lt/index.m3u8
 
 #EXTINF:-1, ALCARAZ
 https://loja.rarp.com.br:443/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https:/playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
