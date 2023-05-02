@@ -9,14 +9,20 @@ http://130.185.236.8:12560/play/a081
 #EXTINF:-1, SPORTS 18 🇮🇳
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1, BELARUS 5
+#EXTINF:-1, BELARUS 5 🇧🇾
 rtmp://5.182.231.251//2175
+
+#EXTINF:-1, ELEVEN SPORT 1 🇵🇱
+http://51.89.67.79:25461/stalker348574985793/stalker348574985793/79
 
 #EXTINF:-1, ARENA SPORT 6 🇭🇷
 http://hostengine.live/live/wrecks82/habsiptv82/225662.m3u8
 
 #EXTINF:-1, ARENA SPORT 6 🇭🇷
 http://tbs-tv.com:8080/dark/kittylinetv/10251
+
+#EXTINF:-1, ELEVEN SPORT 1 🇵🇱
+http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/2518/index.m3u8
 
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://star8iptv.com:2082/avanger-discord/UUYZM7aYjXCj/224095
@@ -749,6 +755,12 @@ http://87.76.32.36:9100/udp/238.1.0.30:2000
 
 #EXTINF:-1,QAZSPORT 🇰🇿
 http://176.222.190.76/btv/SWM/Qazsport_HD/Qazsport_HD.m3u8
+
+#EXTINF:-1, ELEVEN SPORT 1 🇵🇱
+http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/2518/index.m3u8
+
+#EXTINF:-1, ELEVEN SPORT 2 🇵🇱
+http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/2517/index.m3u8
 
 #EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇱
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/79
