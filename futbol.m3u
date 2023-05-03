@@ -12,9 +12,6 @@ https://mo3ad@cdn2.livehd720.com/hlsbeinpp1/beinpp1/playlist.m3u8
 #EXTINF:-1, BELARUS 5 🇧🇾
 rtmp://5.182.231.251//2175
 
-#EXTINF:-1, USHER
-https://usher.ttvnw.net/api/channel/hls/lghiofgylgvioyfg.m3u8?player_type=pulsar&player_backend=mediaplayer&playlist_include_framerate=true&allow_source=true&transcode_mode=cbr_v2&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22lghiofgylgvioyfg%22%2C%22channel_id%22%3A902965400%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22TM1NLhDslmEfGdxyG9LquabZqyBiOMpQ%22%2C%22expires%22%3A1683051113%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22mobile_web%22%2C%22player_type%22%3A%22pulsar%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2279.116.103.202%22%2C%22version%22%3A2%7D&sig=fac86dfb9770cbc4135986bef36e972b1a97cf97&cdm=wv&player_version=1.18.0
-
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇱
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/79
 
