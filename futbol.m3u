@@ -3,6 +3,18 @@
 #EXTINF:-1, CANAL + 2 POLONIA 🇵🇱
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/86
 
+#EXTINF:-1,Orange Sport 3 HD 🇷🇴
+http://84.17.61.203:8086/udp/229.35.15.182:1234
+
+#EXTINF:-1,Orange Sport 3 HD 🇷🇴
+http://94.53.216.13:9981/stream/channelid/1320823112?profile=pass
+
+#EXTINF:-1,Prima Sport 3 🇷🇴
+http://84.17.61.203:8086/udp/229.35.21.1:1234
+
+#EXTINF:-1,Prima Sport 3 🇷🇴
+http://94.53.216.13:9981/stream/channelid/1042510375?profile=pass
+
 #EXTINF:-1, ARENA SPORT 1 🇭🇷
 http://hostengine.live/live/wrecks82/habsiptv82/225657.m3u8
 
@@ -390,30 +402,6 @@ http://cloudcdn.tk:80/Visarhem/lQzhj3068/3184
 #EXTINF:-1,Arena Sport 4 🇷🇸
 http://94.250.2.6:7374/play/a012/index.m3u8
 
-#EXTINF:-1,Arena Sport 4 🇷🇸
-http://cloudcdn.tk:80/Visarhem/lQzhj3068/3185
-
-#EXTINF:-1,Arena Sport 5 🇷🇸
-http://cloudcdn.tk:80/Visarhem/lQzhj3068/3186
-
-#EXTINF:-1,Arena Premium 1 🇧🇦
-http://82.118.0.14:8000/play/5100/index.m3u8
-
-#EXTINF:-1,Arena Premium 2 🇧🇦
-http://82.118.0.14:8000/play/5110/index.m3u8
-
-#EXTINF:-1,Arena Premium 3 🇧🇦
-http://82.118.0.14:8000/play/5120/index.m3u8
-
-#EXTINF:-1,Arena Sport 4 🇧🇦
-http://82.118.0.14:8000/play/10/index.m3u8
-
-#EXTINF:-1,Arena Sport 5 🇧🇦
-http://82.118.0.14:8000/play/11/index.m3u8
-
-#EXTINF:-1,Arena Sport 6 🇧🇦
-http://82.118.0.14:8000/play/12/index.m3u8
-
 #EXTINF:-1,Arena 1 HD  🇧🇦
 http://94.250.2.6:7374/play/a02m/index.m3u8
 
@@ -426,12 +414,6 @@ http://94.250.2.6:7374/play/a02o/index.m3u8
 #EXTINF:-1,Arena Sport 4 🇧🇦
 http://94.250.2.6:7374/play/a012/index.m3u8
 
-#EXTINF:-1, ARENA SPORT 1 🇭🇷
-http://cloudcdn.tk:80/Visarhem/lQzhj3068/19004
-
-#EXTINF:-1, ARENA SPORT 6 🇭🇷
-http://cloudcdn.tk:80/Visarhem/lQzhj3068/13828
-
 #EXTINF:-1,HRT2 🇭🇷
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
 
@@ -440,24 +422,6 @@ http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
 
 #EXTINF:-1, HRT 2 🇭🇷
 http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8?
-
-#EXTINF:-1, SK 1 🇭🇷
-http://cloudcdn.tk:80/Visarhem/lQzhj3068/17252
-
-#EXTINF:-1, SK 2 🇭🇷
-http://cloudcdn.tk:80/Visarhem/lQzhj3068/13833
-
-#EXTINF:-1, SK 3 🇭🇷
-http://cloudcdn.tk:80/Visarhem/lQzhj3068/13834
-
-#EXTINF:-1, SK 4 🇭🇷
-http://cloudcdn.tk:80/Visarhem/lQzhj3068/17249
-
-#EXTINF:-1, SK 5 🇭🇷
-http://cloudcdn.tk:80/Visarhem/lQzhj3068/17250
-
-#EXTINF:-1, SK 6 🇭🇷
-http://cloudcdn.tk:80/Visarhem/lQzhj3068/17251
 
 #EXTINF:-1, MAX SPORT 1HD 🇧🇬
 https://bit.ly/3U3cbf3
