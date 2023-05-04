@@ -786,6 +786,9 @@ http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7305/index.m3u8
 #EXTINF:-1, TVP Sport HD PL 🇵🇱
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2520/index.m3u8
 
+#EXTINF:-1,TV2 Sport 2 HD 🇳🇴
+http://195.222.7.26:7011/play/a02j
+
 #EXTINF:-1, SPORT 1 HD 🇮🇱
 http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/2353/index.m3u8
 
@@ -854,6 +857,12 @@ http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941564&extension=
 
 #EXTINF:-1, TVRI SPORTS INDONESIA 🇮🇩
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1, K+ Sport 1 🇰🇭
+http://103.82.24.168:5544/play/sdsport1/index.m3u8
+
+#EXTINF:-1, K+ Sport 2 🇰🇭
+http://103.82.24.168:5544/play/sdsport2/index.m3u8
 
 #EXTINF:-1, S SPORT 🇹🇷
 http://45.143.222.41:8080/dooby1312/b244f7ab/1753
@@ -1308,28 +1317,6 @@ http://star8iptv.com:2082/avanger-discord/UUYZM7aYjXCj/153575
 #EXTINF:-1, HRT 2 🇭🇷
 http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
 
-#EXTINF:-1,DIGI Sport 1
-http://5.15.2.36:4100/play/a017
-#EXTINF:-1,DIGI Sport 2
-http://5.15.2.36:4100/play/a005
-#EXTINF:-1,DIGI Sport 3
-http://5.15.2.36:4100/play/a018
-#EXTINF:-1,DIGI Sport 4
-http://5.15.2.36:4100/play/a00o
-#EXTINF:-1,TV2 Sport 2 HD (NO)
-http://195.222.7.26:7011/play/a02j
-#EXTINF:-1,Vivaro Arena
-http://178.160.249.200:8000/play/a006/index.m3u8
-#EXTINF:-1,Vivaro sport
-http://178.160.249.200:8000/play/a004/index.m3u8
-#EXTINF:-1,Vivaro sport +
-http://178.160.249.200:8000/play/a005/index.m3u8
-#EXTINF:-1,sport1tn
-http://14.225.44.14:5544/play/sport1tn/index.m3u8
-#EXTINF:-1,sdsport1
-http://103.82.24.168:5544/play/sdsport1/index.m3u8
-#EXTINF:-1,sdsport2
-http://103.82.24.168:5544/play/sdsport2/index.m3u8
 
 
 #EXTINF:-1, ALCARAZ
