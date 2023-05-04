@@ -1319,8 +1319,23 @@ http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
 
 
 
-#EXTINF:-1, ALCARAZ
+#EXTINF:-1, ALCARAZ pista 1
 https://loja.rarp.com.br:443/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https:/playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+
+#EXTINF:-1, PISTA 2
+https://loja.rarp.com.br:443/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https:/playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
+
+#EXTINF:-1, PISTA 3
+https://loja.rarp.com.br:443/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https:/playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f/g.m3u8
+
+#EXTINF:-1, PISTA 4
+https://loja.rarp.com.br:443/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https:/playoutengine.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd/g.m3u8
+
+#EXTINF:-1, PISTA 5
+https://loja.rarp.com.br:443/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https:/playoutengine.sinclairstoryline.com/playout/c05b21c0-e574-4b34-a26e-c6637dbd0fa5/g.m3u8
+
+#EXTINF:-1, PISTA 6
+https://loja.rarp.com.br:443/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https:/playoutengine.sinclairstoryline.com/playout/735dea87-2128-40b7-8eaa-4252092c6dae/g.m3u8
 
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
