@@ -42,6 +42,12 @@ http://star8iptv.com:2082/avanger-discord/UUYZM7aYjXCj/16024
 #EXTINF:-1, TRING SPORT 2 🇦🇱
 http://79.174.24.254:8002/play/a00n/index.m3u8
 
+#EXTINF:-1, ARENA SPORT 1 🇭🇷
+http://hostengine.live/live/wrecks82/habsiptv82/225657.m3u8
+
+#EXTINF:-1, ARENA SPORT 1 🇭🇷
+http://tbs-tv.com:8080/dark/kittylinetv/10246
+
 #EXTINF:-1, ART SPORT 1 🇽🇰
 http://212.224.84.202:2200/ALB-EX/ART_Sport_1_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
 
@@ -49,40 +55,16 @@ http://212.224.84.202:2200/ALB-EX/ART_Sport_1_HD_AL-alb/tracks-v1a1/mono.m3u8?to
 http://212.224.84.202:2200/ALB-EX/ART_Sport_2_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
 
 #EXTINF:-1,bein SPORTS 1 premium 🇶🇦
-http://wixa.fire33.xyz:2052/live/663070308367/663070308367/523.m3u8
-
-#EXTINF:-1,bein SPORTS 1 premium 🇶🇦
-https://mo3ad.xyz:443/live/mo3ad90PpD5/mo3ad90PpD5/279.ts
-
-#EXTINF:-1,bein SPORTS 1 premium 🇶🇦
 http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test
-
-#EXTINF:-1,bein SPORTS 1 premium 🇶🇦
-http://94.130.163.18:5080/WebRTCApp/streams/01_Bein_Premuim_1.m3u8
-
-#EXTINF:-1,bein SPORTS 2 premium 🇶🇦
-http://wixa.fire33.xyz:2052/live/663070308367/663070308367/525.m3u8
 
 #EXTINF:-1,bein SPORTS 2 premium 🇶🇦
 http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test
-
-#EXTINF:-1,bein SPORTS 2 premium 🇶🇦
-http://94.130.163.18:5080/WebRTCApp/streams/02_Bein_Premuim_2.m3u8
-
-#EXTINF:-1,Arena Premium 1 🇧🇦
-http://82.118.0.14:8000/play/5100/index.m3u8
-
-#EXTINF:-1,Arena Premium 2 🇧🇦
-http://82.118.0.14:8000/play/5110/index.m3u8
 
 #EXTINF:-1, SONY TEN 1 🇮🇳
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
 
 #EXTINF:-1, SONY TEN 2 🇮🇳
 https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
-
-#EXTINF:-1, ARENA SPORT 7 🇭🇷
-http://star8iptv.com:2082/avanger-discord/UUYZM7aYjXCj/153575
 
 #EXTINF:-1, HRT 2 🇭🇷
 http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
@@ -105,12 +87,6 @@ http://84.17.61.203:8086/udp/229.35.21.1:1234
 
 #EXTINF:-1,Prima Sport 3 🇷🇴
 http://94.53.216.13:9981/stream/channelid/1042510375?profile=pass
-
-#EXTINF:-1, ARENA SPORT 1 🇭🇷
-http://hostengine.live/live/wrecks82/habsiptv82/225657.m3u8
-
-#EXTINF:-1, ARENA SPORT 1 🇭🇷
-http://tbs-tv.com:8080/dark/kittylinetv/10246
 
 #EXTINF:-1, NOVA SPORTS 2 🇬🇷
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-UHY4EFXaTL62Eh947HkO8
