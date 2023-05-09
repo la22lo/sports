@@ -54,6 +54,9 @@ http://hostengine.live/live/wrecks82/habsiptv82/225657.m3u8
 #EXTINF:-1, ARENA SPORT 1 🇭🇷
 http://tbs-tv.com:8080/dark/kittylinetv/10246
 
+#EXTINF:-1, ZIGGO SPORT SELECT 🇳🇱
+http://tbs-tv.com:8080/dark/kittylinetv/1400
+
 #EXTINF:-1, ART SPORT 1 🇽🇰
 http://212.224.84.202:2200/ALB-EX/ART_Sport_1_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
 
