@@ -6,9 +6,6 @@ https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/161
 #EXTINF:-1,МАТЧ ПРЕМЬЕР HD 🇷🇺 
 https://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
 
-#EXTINF:-1, EUROSPORT GIRO 
-http://medotv.nl:8000/megaott1000/gtSwbCLSSS/77164
-
 #EXTINF:-1,CBC SPORT 🇦🇿
 http://130.185.236.8:12560/play/a081
 
@@ -997,6 +994,9 @@ https://loja.rarp.com.br:443/wp-content/plugins/super-links/application/helpers/
 
 #EXTINF:-1, PISTA 6
 https://loja.rarp.com.br:443/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https:/playoutengine.sinclairstoryline.com/playout/735dea87-2128-40b7-8eaa-4252092c6dae/g.m3u8
+
+#EXTINF:-1, EUROSPORT GIRO 
+http://medotv.nl:8000/megaott1000/gtSwbCLSSS/77164
 
 #EXTINF:-1, REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
