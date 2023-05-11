@@ -624,14 +624,32 @@ http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7305/index.m3u8
 #EXTINF:-1, POLSAT SPORT 🇵🇱
 http://37.48.101.149:5011/play/a00n/index.m3u8
 
+#EXTINF:-1, POLSAT SPORT 🇵🇱
+http://51.89.67.79:25461/stalker348574985793/stalker348574985793/72
+
+#EXTINF:-1, POLSAT SPORT EXTRA 🇵🇱
+http://51.89.67.79:25461/stalker348574985793/stalker348574985793/
+
 #EXTINF:-1, POLSAT SPORT EXTRA 🇵🇱
 http://37.48.101.149:5011/play/a00s/index.m3u8
 
 #EXTINF:-1, TVP Sport HD PL 🇵🇱
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2520/index.m3u8
 
+#EXTINF:-1, TVP Sport HD PL 🇵🇱
+http://51.89.67.79:25461/stalker348574985793/stalker348574985793/
+
+#EXTINF:-1, CANAL + POLONIA 🇵🇱
+http://51.89.67.79:25461/stalker348574985793/stalker348574985793/83
+
 #EXTINF:-1, CANAL + 2 POLONIA 🇵🇱
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/86
+
+#EXTINF:-1, CANAL + 3 POLONIA 🇵🇱
+http://51.89.67.79:25461/stalker348574985793/stalker348574985793/85
+
+#EXTINF:-1, CANAL + 4 POLONIA 🇵🇱
+http://51.89.67.79:25461/stalker348574985793/stalker348574985793/84
 
 #EXTINF:-1, SPORTKLUB HD 🇵🇱
 http://37.48.101.149:5013/play/a02j/index.m3u8
