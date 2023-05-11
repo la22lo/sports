@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, SPORT TV 2 🇵🇹
+http://84.91.204.231:9981/stream/channelid/180836387?profile=pass
+
 #EXTINF:-1,МАТЧ ПРЕМЬЕР HD 🇷🇺 
 https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
 
