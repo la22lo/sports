@@ -138,6 +138,24 @@ http://212.224.84.202:2200/ALB-EX/OverSport3_HD_AL-alb/tracks-v1a1/mono.m3u8?tok
 #EXTINF:-1, OVERSPORT 4 🇦🇱
 http://212.224.84.202:2200/ALB-EX/OverSport4_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
 
+#EXTINF:-1, TRING SPORTS 1 🇦🇱
+http://185.85.152.220:8999/play/a02m/index.m3u8
+
+#EXTINF:-1, TRING SPORTS 2 🇦🇱
+http://185.85.152.220:8999/play/a02k/index.m3u8
+
+#EXTINF:-1, TRING SPORTS 3 🇦🇱
+http://185.85.152.220:8999/play/a02l/index.m3u8
+
+#EXTINF:-1, TRING SPORTS 4 🇦🇱
+http://185.85.152.220:8999/play/a02j/index.m3u8
+
+#EXTINF:-1, TRING SPORTS 5 🇦🇱
+http://185.85.152.220:8999/play/a04b/index.m3u8
+
+#EXTINF:-1, RTSH SPORTS 🇦🇱
+http://185.85.152.220:8999/play/a049/index.m3u8
+
 #EXTINF:-1,Arena 2 HD 🇷🇸
 http://94.250.2.6:7374/play/a02n/index.m3u8
 
