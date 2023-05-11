@@ -141,20 +141,38 @@ http://hostengine.live/live/wrecks82/habsiptv82/56339.m3u8
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://213.202.230.82:8000/play/a00u
 
+#EXTINF:-1, Eleven 1 HD 🇵🇹
+http://84.91.204.231:9981/stream/channelid/1436751485?profile=pass
+
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://213.202.230.82:8000/play/a00v
+
+#EXTINF:-1, Eleven 2 HD 🇵🇹
+http://84.91.204.231:9981/stream/channelid/123297042?profile=pass
 
 #EXTINF:-1, Eleven 3 HD 🇵🇹
 http://213.202.230.82:8000/play/a00w
 
+#EXTINF:-1, Eleven 3 HD 🇵🇹
+http://84.91.204.231:9981/stream/channelid/687150791?profile=pass
+
 #EXTINF:-1, Eleven 4 HD 🇵🇹
 http://213.202.230.82:8000/play/a00x
+
+#EXTINF:-1, Eleven 4 HD 🇵🇹
+http://84.91.204.231:9981/stream/channelid/2020832066?profile=pass
 
 #EXTINF:-1, Eleven 5 HD 🇵🇹
 http://213.202.230.82:8000/play/a00y
 
+#EXTINF:-1, Eleven 5 HD 🇵🇹
+http://84.91.204.231:9981/stream/channelid/2019058744?profile=pass
+
 #EXTINF:-1, Eleven 6 HD 🇵🇹
 http://213.202.230.82:8000/play/a00z
+
+#EXTINF:-1, Eleven 6 HD 🇵🇹
+http://84.91.204.231:9981/stream/channelid/2052610929?profile=pass
 
 #EXTINF:-1, SPORT TV 1 🇵🇹
 http://213.202.230.82:8000/play/a00m
