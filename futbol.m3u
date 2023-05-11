@@ -120,6 +120,27 @@ http://pakin2.worldtvip.co:9090/za_ss_gstand/tracks-v1a1/mono.m3u8
 #EXTINF:-1, K SPORT 1 HD 🇦🇱
 http://homeuser22.hopto.me:22333/live?cId=1604&uid=1691&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
 
+#EXTINF:-1, SUPERSPORT 1 HD 🇦🇱
+http://31.171.154.21:9898/play/SS-1HD
+
+#EXTINF:-1, SUPERSPORT 2 HD 🇦🇱
+http://31.171.154.21:9898/play/SS-2HD
+
+#EXTINF:-1, SUPERSPORT 3 HD 🇦🇱
+http://31.171.154.21:9898/play/SS-3HD
+
+#EXTINF:-1, SUPERSPORT 4 HD 🇦🇱
+http://31.171.154.21:9898/play/SS-4HD
+
+#EXTINF:-1, SUPERSPORT 5 HD 🇦🇱
+http://31.171.154.21:9898/play/SS-5HD
+
+#EXTINF:-1, SUPERSPORT 6 HD 🇦🇱
+http://31.171.154.21:9898/play/SS-6HD
+
+#EXTINF:-1, SUPERSPORT 7 HD 🇦🇱
+http://31.171.154.21:9898/play/SS-7HD
+
 #EXTINF:-1,SPORT 1 HD 🇦🇱
 http://79.174.24.254:8002/play/a00m/index.m3u8
 
