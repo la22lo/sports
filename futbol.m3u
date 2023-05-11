@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, SPORT TV 2 🇵🇹
-http://84.91.204.231:9981/stream/channelid/180836387?profile=pass
-
-#EXTINF:-1,МАТЧ ПРЕМЬЕР HD 🇷🇺 
-https://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
-
 #EXTINF:-1,CBC SPORT 🇦🇿
 http://130.185.236.8:12560/play/a081
 
