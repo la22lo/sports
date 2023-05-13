@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,CBC SPORT 🇦🇿
-http://130.185.236.8:12560/play/a081
-
 #EXTINF:-1, SPORTS 18 🇮🇳
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 
@@ -74,6 +71,9 @@ http://humiptv.live:8080/live/242425/242425/130714.ts
 
 #EXTINF:-1, MTV INDIA 🇮🇳
 https://yupplivefragcp6.yuppcdn.net/050523/smil:mtvau.smil/playlist.m3u8
+
+#EXTINF:-1,CBC SPORT 🇦🇿
+http://130.185.236.8:12560/play/a081
 
 #EXTINF:-1, DIRECTV SPORT 🇦🇷
 http://190.119.178.46:8000/play/a032/index.m3u
