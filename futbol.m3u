@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1, Eleven 2 HD 🇵🇹
+http://84.91.204.231:9981/stream/channelid/123297042?profile=pass
+
+#EXTINF:-1, ESPN + 🇺🇸 
+http://45.190.13.50:8000/play/a040/index.m3u8
+
 #EXTINF:-1, SPORTS 18 🇮🇳
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 
@@ -23,9 +29,6 @@ http://tvla.xyz/get.php?username=vrhqyawo&password=87e0n2pQcM&type=m3u_plus
 
 #EXTINF:-1, ESPN DEPORTES 🇺🇸 
 http://45.190.13.50:8002/play/a01f/index.m3u8
-
-#EXTINF:-1, ESPN + 🇺🇸 
-http://45.190.13.50:8000/play/a040/index.m3u8
 
 #EXTINF:-1, ARENA SPORT 6 🇭🇷
 http://hostengine.live/live/wrecks82/habsiptv82/225662.m3u8
