@@ -60,6 +60,9 @@ http://humiptv.live:8080/live/242425/242425/130714.ts
 #EXTINF:-1, MTV INDIA 🇮🇳
 https://yupplivefragcp6.yuppcdn.net/050523/smil:mtvau.smil/playlist.m3u8
 
+#EXTINF:-1, DIRECTV SPORT 🇦🇷
+http://190.119.178.46:8000/play/a032/index.m3u
+
 #EXTINF:-1, ESPN ARG 🇦🇷
 http://170.83.242.8:5350/play/a00u
 
