@@ -9,6 +9,9 @@ http://51.89.67.79:25461/stalker348574985793/stalker348574985793/83
 #EXTINF:-1, ESPN + 🇺🇸 
 http://45.190.13.50:8000/play/a040/index.m3u8
 
+#EXTINF:-1,DIGI Sport 4 HD 🇷🇴
+http://84.17.61.203:8086/udp/229.35.15.151:1234
+
 #EXTINF:-1, SPORTS 18 🇮🇳
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 
