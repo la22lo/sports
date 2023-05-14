@@ -3,11 +3,8 @@
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://84.91.204.231:9981/stream/channelid/1436751485?profile=pass
 
-#EXTINF:-1, CANAL + POLONIA 🇵🇱
-http://51.89.67.79:25461/stalker348574985793/stalker348574985793/83
-
-#EXTINF:-1, ESPN + 🇺🇸 
-http://45.190.13.50:8000/play/a040/index.m3u8
+#EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇱
+http://51.89.67.79:25461/stalker348574985793/stalker348574985793/79
 
 #EXTINF:-1, ESPN DEPORTES 🇺🇸
 https://cdn.live.vidgo.com/Content/HLS/Live/channel(71914-ESPNDHD)/02.m3u8?fbclid=PAAaYO7ZAo_fCAZYiQ9p2pEj6ZY-vgMfQrFNybW_TiJxe8o9O_NWo3CT4fUvY
@@ -56,6 +53,9 @@ http://tvla.xyz/get.php?username=vrhqyawo&password=87e0n2pQcM&type=m3u_plus
 
 #EXTINF:-1, ESPN DEPORTES 🇺🇸 
 http://45.190.13.50:8002/play/a01f/index.m3u8
+
+#EXTINF:-1, ESPN + 🇺🇸 
+http://45.190.13.50:8000/play/a040/index.m3u8
 
 #EXTINF:-1, ARENA SPORT 6 🇭🇷
 http://hostengine.live/live/wrecks82/habsiptv82/225662.m3u8
