@@ -297,6 +297,9 @@ http://94.250.2.6:7374/play/a02o/index.m3u8
 #EXTINF:-1,Arena Sport 4 🇷🇸
 http://94.250.2.6:7374/play/a012/index.m3u8
 
+#EXTINF:-1,Arena Sport 1 PREMIUM 🇷🇸
+http://37.18.239.37:8000/play/a04p/index.m3u8
+
 #EXTINF:-1,Arena 2 HD 🇧🇦
 http://94.250.2.6:7374/play/a02n/index.m3u8
 
