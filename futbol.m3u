@@ -15,6 +15,9 @@ http://234f.pls45tv.site:80/tvsstv/tv.ss/134232
 #EXTINF:-1, ESPN + 🇺🇸 
 http://45.190.13.50:8000/play/a040/index.m3u8
 
+#EXTINF:-1, ESPN DEPORTES 🇺🇸
+https://cdn.live.vidgo.com/Content/HLS/Live/channel(71914-ESPNDHD)/02.m3u8?fbclid=PAAaYO7ZAo_fCAZYiQ9p2pEj6ZY-vgMfQrFNybW_TiJxe8o9O_NWo3CT4fUvY
+
 #EXTINF:-1,DIGI Sport 4 HD 🇷🇴
 http://84.17.61.203:8086/udp/229.35.15.151:1234
 
