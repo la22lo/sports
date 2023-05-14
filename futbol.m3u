@@ -15,6 +15,9 @@ http://45.190.13.50:8000/play/a040/index.m3u8
 #EXTINF:-1,DIGI Sport 4 HD 🇷🇴
 http://84.17.61.203:8086/udp/229.35.15.151:1234
 
+#EXTINF:-1,MAX SPORT 4 🇧🇬
+http://234f.pls45tv.site:80/tvsstv/tv.ss/133500
+
 #EXTINF:-1, K SPORT 1 HD 🇦🇱
 http://homeuser22.hopto.me:22333/live?cId=1604&uid=1691&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
 
