@@ -93,6 +93,18 @@ https://yupplivefragcp6.yuppcdn.net/050523/smil:mtvau.smil/playlist.m3u8
 #EXTINF:-1,CBC SPORT 🇦🇿
 http://130.185.236.8:12560/play/a081
 
+#EXTINF:-1,DAZN 1 BAR 🇩🇪
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/96685
+
+#EXTINF:-1,DAZN 1 🇩🇪
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/238118
+
+#EXTINF:-1,DAZN 2 BAR 🇩🇪
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/96688
+
+#EXTINF:-1,DAZN 2 🇩🇪
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/238120
+
 #EXTINF:-1, DIRECTV SPORT 🇦🇷
 http://190.119.178.46:8000/play/a032/index.m3u
 
