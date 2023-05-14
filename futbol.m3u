@@ -408,6 +408,18 @@ http://176.222.190.76/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD.m3u8
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
 https://livetv.mylifeisgood.ml/channels/setantaplus
 
+#EXTINF:-1,Setanta_Sports_1_HD 🇷🇺
+http://49.12.133.216:8000/play/a001/index.m3u8
+
+#EXTINF:-1,Setanta_Sports_2_HD 🇷🇺
+http://49.12.133.216:8000/play/a003/index.m3u8
+
+#EXTINF:-1,Setanta_Sports_Eurazia 🇺🇦
+http://49.12.133.216:8000/play/a002/index.m3u8
+
+#EXTINF:-1,Setanta_Sports_Ukraine 🇺🇦
+http://49.12.133.216:8000/play/a005/index.m3u8
+
 #EXTINF:-1,Setanta Sports uk 🇺🇦
 http://49.12.133.216:8000/play/a005/index.m3u8
 
