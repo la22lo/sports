@@ -177,6 +177,12 @@ http://45.228.234.77:4430/play/tudn
 #EXTINF:-1, beIN SPORTS 1 PREMIUM 🇶🇦
 http://hostengine.live/live/wrecks82/habsiptv82/56339.m3u8
 
+#EXTINF:-1, beIN SPORTS 2 PREMIUM 🇶🇦
+http://hostengine.live/live/wrecks82/habsiptv82/56344.m3u8
+
+#EXTINF:-1, beIN SPORTS 3 PREMIUM 🇶🇦
+http://hostengine.live/live/wrecks82/habsiptv82/56345.m3u8
+
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://84.91.204.231:9981/stream/channelid/1436751485?profile=pass
 
@@ -221,6 +227,15 @@ http://213.202.230.82:8000/play/a00l
 
 #EXTINF:-1, BEIN 1 🇬🇧
 http://edge02.odtv.az/o4/beinsport/playlist.m3u8
+
+#EXTINF:-1, BEIN 1 🇬🇧
+http://hostengine.live/live/wrecks82/habsiptv82/56341.m3u8
+
+#EXTINF:-1, BEIN 2 🇬🇧
+http://hostengine.live/live/wrecks82/habsiptv82/56342.m3u8
+
+#EXTINF:-1, BEIN 3 🇬🇧
+http://hostengine.live/live/wrecks82/habsiptv82/56343.m3u8
 
 #EXTINF:-1, BT SPORT 1 🇬🇧
 http://89.47.232.72:8080/live/Chris/Chris/4449.ts
