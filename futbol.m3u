@@ -240,39 +240,6 @@ http://pakin2.worldtvip.co:9090/za_ss_gstand/tracks-v1a1/mono.m3u8
 #EXTINF:-1, K SPORT 1 HD 🇦🇱
 http://homeuser22.hopto.me:22333/live?cId=1604&uid=1691&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
 
-#EXTINF:-1, K SPORT 1 HD 🇦🇱
-http://31.171.154.21:9898/play/K-Sport1
-
-#EXTINF:-1, K SPORT 2 HD 🇦🇱
-http://31.171.154.21:9898/play/K-Sport2
-
-#EXTINF:-1, K SPORT 3 HD 🇦🇱
-http://31.171.154.21:9898/play/K-Sport3
-
-#EXTINF:-1, K SPORT 4 HD 🇦🇱
-http://31.171.154.21:9898/play/K-Sport4
-
-#EXTINF:-1, SUPERSPORT 1 HD 🇦🇱
-http://31.171.154.21:9898/play/SS-1HD
-
-#EXTINF:-1, SUPERSPORT 2 HD 🇦🇱
-http://31.171.154.21:9898/play/SS-2HD
-
-#EXTINF:-1, SUPERSPORT 3 HD 🇦🇱
-http://31.171.154.21:9898/play/SS-3HD
-
-#EXTINF:-1, SUPERSPORT 4 HD 🇦🇱
-http://31.171.154.21:9898/play/SS-4HD
-
-#EXTINF:-1, SUPERSPORT 5 HD 🇦🇱
-http://31.171.154.21:9898/play/SS-5HD
-
-#EXTINF:-1, SUPERSPORT 6 HD 🇦🇱
-http://31.171.154.21:9898/play/SS-6HD
-
-#EXTINF:-1, SUPERSPORT 7 HD 🇦🇱
-http://31.171.154.21:9898/play/SS-7HD
-
 #EXTINF:-1,SPORT 1 HD 🇦🇱
 http://79.174.24.254:8002/play/a00m/index.m3u8
 
@@ -290,18 +257,6 @@ http://212.224.84.202:2200/ALB-EX/OverSport3_HD_AL-alb/tracks-v1a1/mono.m3u8?tok
 
 #EXTINF:-1, OVERSPORT 4 🇦🇱
 http://212.224.84.202:2200/ALB-EX/OverSport4_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
-
-#EXTINF:-1, OVERSPORT 1 🇦🇱
-http://31.171.154.21:9898/play/OS1
-
-#EXTINF:-1, OVERSPORT 2 🇦🇱
-http://31.171.154.21:9898/play/OS2
-
-#EXTINF:-1, OVERSPORT 3 🇦🇱
-http://31.171.154.21:9898/play/OS3
-
-#EXTINF:-1, OVERSPORT 4 🇦🇱
-http://31.171.154.21:9898/play/OS4
 
 #EXTINF:-1, OVERSPORT 1 🇦🇱
 http://46.19.226.152:4000/play/a0c3
@@ -330,32 +285,8 @@ http://185.85.152.220:8999/play/a02j/index.m3u8
 #EXTINF:-1, TRING SPORTS 5 🇦🇱
 http://185.85.152.220:8999/play/a04b/index.m3u8
 
-#EXTINF:-1, TRING SPORTS 1 🇦🇱
-http://31.171.154.21:9898/play/TringSport1HD
-
-#EXTINF:-1, TRING SPORTS 2 🇦🇱
-http://31.171.154.21:9898/play/TringSport2HD
-
 #EXTINF:-1, RTSH SPORTS 🇦🇱
 http://185.85.152.220:8999/play/a049/index.m3u8
-
-#EXTINF:-1, SPORT 1 🇦🇱
-http://31.171.154.21:9898/play/SPORT1
-
-#EXTINF:-1, SPORT 2 🇦🇱
-http://31.171.154.21:9898/play/SPORT2
-
-#EXTINF:-1, SPORT 3 🇦🇱
-http://31.171.154.21:9898/play/SPORT3
-
-#EXTINF:-1, SPORT 4 🇦🇱
-http://31.171.154.21:9898/play/SPORT4
-
-#EXTINF:-1, SPORT 5 🇦🇱
-http://31.171.154.21:9898/play/SPORT5
-
-#EXTINF:-1, SPORT 6 🇦🇱
-http://31.171.154.21:9898/play/SPORT6
 
 #EXTINF:-1,Arena 2 HD 🇷🇸
 http://94.250.2.6:7374/play/a02n/index.m3u8
