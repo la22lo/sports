@@ -297,6 +297,12 @@ http://185.85.152.220:8999/play/a02j/index.m3u8
 #EXTINF:-1, TRING SPORTS 5 🇦🇱
 http://185.85.152.220:8999/play/a04b/index.m3u8
 
+#EXTINF:-1, TRING SPORTS 1 🇦🇱
+http://homeuser22.hopto.me:22333/live?cId=1595&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
+
+#EXTINF:-1, TRING SPORTS 2 🇦🇱
+http://homeuser22.hopto.me:22333/live?cId=1596&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
+
 #EXTINF:-1, RTSH SPORTS 🇦🇱
 http://185.85.152.220:8999/play/a049/index.m3u8
 
