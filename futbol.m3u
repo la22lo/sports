@@ -1,17 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, TENNIS 
-https://loja.rarp.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/f.m3u8
-
-#EXTINF:-1, TENNIS CHANNEL 🇬🇧
-https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
-
-#EXTINF:-1,SKY SPORT TENNIS 🇩🇪
-http://45.143.222.41:8080/dooby1312/b244f7ab/297552
-
-#EXTINF:-1, TENIs
-https://Link_De_Fuck_La_Liga_Canal_Telegram_Que_No_Te_Mientan@mvcdn.soft4game.com/o51/stream169/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDIzIDEyOjAwOjAwIFBNJmhhc2hfdmFsdWU9QTU5VnV0b1dnbStxWFR4VUJCbmwxZz09JnZhbGlkbWludXRlcz0xMjAmaWQ9NQ==
-
 #EXTINF:-1,TV MAX 🇵🇦 
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?
 
@@ -1056,6 +1044,17 @@ https://loja.rarp.com.br/wp-content/plugins/super-links/application/helpers/supe
 
 
 
+#EXTINF:-1, TENNIS 
+https://loja.rarp.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/f.m3u8
+
+#EXTINF:-1, TENNIS CHANNEL 🇬🇧
+https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
+
+#EXTINF:-1,SKY SPORT TENNIS 🇩🇪
+http://45.143.222.41:8080/dooby1312/b244f7ab/297552
+
+#EXTINF:-1, TENIs
+https://Link_De_Fuck_La_Liga_Canal_Telegram_Que_No_Te_Mientan@mvcdn.soft4game.com/o51/stream169/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDIzIDEyOjAwOjAwIFBNJmhhc2hfdmFsdWU9QTU5VnV0b1dnbStxWFR4VUJCbmwxZz09JnZhbGlkbWludXRlcz0xMjAmaWQ9NQ==
 
 #EXTINF:-1, ALCARAZ pista 1
 https://loja.rarp.com.br:443/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https:/playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
