@@ -30,6 +30,9 @@ http://94.53.216.13:9981/stream/channelid/2119101735?profile=pass
 #EXTINF:-1, MAX SPORT 3 🇧🇬
 http://212.5.59.2:9882/play/a019/index.m3u8?
 
+#EXTINF:-1, BT SPORT 1 🇬🇧
+https://ring.realbitsport.com/live/n-3/chunks.m3u8
+
 #EXTINF:-1, ARENA SPORT 1 🇭🇷
 http://hostengine.live/live/wrecks82/habsiptv82/225657.m3u8
 
