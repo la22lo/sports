@@ -9,14 +9,17 @@ https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 
+#EXTINF:-1, POLSAR SPORT PREMIUM 1 🇵🇱
+http://51.89.67.79:25461/stalker348574985793/stalker348574985793/66
+
+#EXTINF:-1, TRING SPORTS 1 🇦🇱
+http://homeuser22.hopto.me:22333/live?cId=1595&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
+
 #EXTINF:-1, ESPN ARG 🇦🇷
 http://170.83.242.8:5350/play/a00u
 
 #EXTINF:-1,CITY SPORTS 🇦🇷
 https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
-
-#EXTINF:-1, POLSAR SPORT PREMIUM 1 🇵🇱
-http://51.89.67.79:25461/stalker348574985793/stalker348574985793/66
 
 #EXTINF:-1,CCTV5 🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
@@ -365,21 +368,6 @@ http://46.19.226.152:4000/play/a0bq
 
 #EXTINF:-1, OVERSPORT 4 🇦🇱
 http://46.19.226.152:4000/play/a0bj
-
-#EXTINF:-1, TRING SPORTS 1 🇦🇱
-http://185.85.152.220:8999/play/a02m/index.m3u8
-
-#EXTINF:-1, TRING SPORTS 2 🇦🇱
-http://185.85.152.220:8999/play/a02k/index.m3u8
-
-#EXTINF:-1, TRING SPORTS 3 🇦🇱
-http://185.85.152.220:8999/play/a02l/index.m3u8
-
-#EXTINF:-1, TRING SPORTS 4 🇦🇱
-http://185.85.152.220:8999/play/a02j/index.m3u8
-
-#EXTINF:-1, TRING SPORTS 5 🇦🇱
-http://185.85.152.220:8999/play/a04b/index.m3u8
 
 #EXTINF:-1, TRING SPORTS 1 🇦🇱
 http://homeuser22.hopto.me:22333/live?cId=1595&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
