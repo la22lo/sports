@@ -1,31 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1, Eleven 1 HD 🇵🇹
-http://84.91.204.231:9981/stream/channelid/1436751485?profile=pass
-
 #EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇱
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/79
 
 #EXTINF:-1, ESPN DEPORTES 🇺🇸
 https://cdn.live.vidgo.com/Content/HLS/Live/channel(71914-ESPNDHD)/02.m3u8?fbclid=PAAaYO7ZAo_fCAZYiQ9p2pEj6ZY-vgMfQrFNybW_TiJxe8o9O_NWo3CT4fUvY
-
-#EXTINF:-1,MAX SPORT 4 🇧🇬
-http://234f.pls45tv.site:80/tvsstv/tv.ss/133500
-
-#EXTINF:-1,SUPERSPORT 2 🇦🇱
-http://homeuser22.hopto.me:22333/live?cId=1587&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
-
-#EXTINF:-1,DAZN 1 🇩🇪
-http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/238118
-
-#EXTINF:-1, S SPORT 🇹🇷
-http://234f.pls45tv.site:80/tvsstv/tv.ss/135488
-
-EXTINF:-1, BEIN SPORTS 1 🇶🇦
-http://234f.pls45tv.site:80/tvsstv/tv.ss/124471
-
-#EXTINF:-1, BEIN 2 🇬🇧
-http://hostengine.live/live/wrecks82/habsiptv82/56342.m3u8
 
 #EXTINF:-1, SPORTS 18 🇮🇳
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
@@ -34,19 +13,10 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallbac
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sports18_1_HD_voot_MOB-audio_98835_eng=98800-video=3110800.m3u8
 
 #EXTINF:-1, ESPN DEPORTES 🇺🇸 
-http://sdmx.us:25461/legends/xHNG8HCVQBtC/2123475
-
-#EXTINF:-1, ESPN DEPORTES 🇺🇸 
 http://likea8bitboss.xyz:80/tquad/6305812479/5935
 
 #EXTINF:-1, ESPN DEPORTES 🇺🇸 
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/74909
-
-#EXTINF:-1, ESPN DEPORTES 🇺🇸 
-http://nmstreaming.live:25461/live/9811337006/vuXLNkLwAChq/158472.m3u8
-
-#EXTINF:-1, ESPN DEPORTES 🇺🇸
-http://tvla.xyz/get.php?username=vrhqyawo&password=87e0n2pQcM&type=m3u_plus
 
 #EXTINF:-1, ESPN DEPORTES 🇺🇸 
 http://45.190.13.50:8002/play/a01f/index.m3u8
