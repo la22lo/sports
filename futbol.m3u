@@ -1,5 +1,95 @@
 #EXTM3U
 
+#EXTINF:-1,TV MAX 🇵🇦 
+https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?
+
+#EXTINF:-1, MATH 🇷🇺
+https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
+
+#EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1, ESPN ARG 🇦🇷
+http://170.83.242.8:5350/play/a00u
+
+#EXTINF:-1,CITY SPORTS 🇦🇷
+https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
+
+#EXTINF:-1, POLSAR SPORT PREMIUM 1 🇵🇱
+http://51.89.67.79:25461/stalker348574985793/stalker348574985793/66
+
+#EXTINF:-1,CBC SPORT 🇦🇿
+http://130.185.236.8:12560/play/a081
+
+#EXTINF:-1, LIGA CAMPEONES 🇪🇸
+http://iptvch.com:2082/Un8sff3GFu9/7jsdKf8Jc6fNry/135970
+
+#EXTINF:-1, LIGA CAMPEONES 🇪🇸
+http://51.91.8.161:18000/M_Liga_de_Campeones/hls/playlist.m3u8
+
+#EXTINF:-1, LIGA CAMP 🇪🇸
+http://mokino.top:8080/live/361679779421334077/5281679779421334/5671.ts
+
+#EXTINF:-1,CCTV5 🇨🇳
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+
+#EXTINF:-1,PRIMA SPORT 1 🇷🇴
+http://94.53.216.13:9981/stream/channelid/2119101735?profile=pass
+
+#EXTINF:-1,DIGI Sport 1 🇷🇴
+http://84.17.61.203:8086/udp/229.35.15.121:1234
+
+#EXTINF:-1, MAX SPORT 3 🇧🇬
+http://212.5.59.2:9882/play/a019/index.m3u8?
+
+#EXTINF:-1, TRING SPORT 1 🇦🇱
+http://79.174.24.254:8002/play/a00m/index.m3u8
+
+#EXTINF:-1, M4 sport 🇭🇺
+http://star8iptv.com:2082/avanger-discord/UUYZM7aYjXCj/157635
+
+#EXTINF:-1, SPORT 1 🇭🇺
+http://star8iptv.com:2082/avanger-discord/UUYZM7aYjXCj/157662
+
+#EXTINF:-1, TV3 SPORT 🇩🇰
+http://star8iptv.com:2082/avanger-discord/UUYZM7aYjXCj/16024
+
+#EXTINF:-1, TRING SPORT 2 🇦🇱
+http://79.174.24.254:8002/play/a00n/index.m3u8
+
+#EXTINF:-1, ARENA SPORT 1 🇭🇷
+http://hostengine.live/live/wrecks82/habsiptv82/225657.m3u8
+
+#EXTINF:-1, ARENA SPORT 1 🇭🇷
+http://tbs-tv.com:8080/dark/kittylinetv/10246
+
+#EXTINF:-1, ZIGGO SPORT SELECT 🇳🇱
+http://tbs-tv.com:8080/dark/kittylinetv/1400
+
+#EXTINF:-1, ART SPORT 1 🇽🇰
+http://212.224.84.202:2200/ALB-EX/ART_Sport_1_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
+
+#EXTINF:-1, ART SPORT 2 🇽🇰
+http://212.224.84.202:2200/ALB-EX/ART_Sport_2_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
+
+#EXTINF:-1,bein SPORTS 1 premium 🇶🇦
+http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test
+
+#EXTINF:-1,bein SPORTS 2 premium 🇶🇦
+http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test
+
+#EXTINF:-1, SONY TEN 1 🇮🇳
+https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+
+#EXTINF:-1, SONY TEN 2 🇮🇳
+https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+
+#EXTINF:-1, HRT 2 🇭🇷
+http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
+
+
+
+
 #EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇱
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/79
 
@@ -948,94 +1038,6 @@ https://s6.hopslan.com/servus2/index.m3u8
 #EXTINF:-1, TENNIS
 https://loja.rarp.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https:/playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f/g.m3u8
 
-
-
-#EXTINF:-1,TV MAX 🇵🇦 
-https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?
-
-#EXTINF:-1, MATH 🇷🇺
-https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
-
-#EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
-http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
-
-#EXTINF:-1, ESPN ARG 🇦🇷
-http://170.83.242.8:5350/play/a00u
-
-#EXTINF:-1,CITY SPORTS 🇦🇷
-https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
-
-#EXTINF:-1, POLSAR SPORT PREMIUM 1 🇵🇱
-http://51.89.67.79:25461/stalker348574985793/stalker348574985793/66
-
-#EXTINF:-1,CBC SPORT 🇦🇿
-http://130.185.236.8:12560/play/a081
-
-#EXTINF:-1, LIGA CAMPEONES 🇪🇸
-http://iptvch.com:2082/Un8sff3GFu9/7jsdKf8Jc6fNry/135970
-
-#EXTINF:-1, LIGA CAMPEONES 🇪🇸
-http://51.91.8.161:18000/M_Liga_de_Campeones/hls/playlist.m3u8
-
-#EXTINF:-1, LIGA CAMP 🇪🇸
-http://mokino.top:8080/live/361679779421334077/5281679779421334/5671.ts
-
-#EXTINF:-1,CCTV5 🇨🇳
-https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-
-#EXTINF:-1,PRIMA SPORT 1 🇷🇴
-http://94.53.216.13:9981/stream/channelid/2119101735?profile=pass
-
-#EXTINF:-1,DIGI Sport 1 🇷🇴
-http://84.17.61.203:8086/udp/229.35.15.121:1234
-
-#EXTINF:-1, MAX SPORT 3 🇧🇬
-http://212.5.59.2:9882/play/a019/index.m3u8?
-
-#EXTINF:-1, TRING SPORT 1 🇦🇱
-http://79.174.24.254:8002/play/a00m/index.m3u8
-
-#EXTINF:-1, M4 sport 🇭🇺
-http://star8iptv.com:2082/avanger-discord/UUYZM7aYjXCj/157635
-
-#EXTINF:-1, SPORT 1 🇭🇺
-http://star8iptv.com:2082/avanger-discord/UUYZM7aYjXCj/157662
-
-#EXTINF:-1, TV3 SPORT 🇩🇰
-http://star8iptv.com:2082/avanger-discord/UUYZM7aYjXCj/16024
-
-#EXTINF:-1, TRING SPORT 2 🇦🇱
-http://79.174.24.254:8002/play/a00n/index.m3u8
-
-#EXTINF:-1, ARENA SPORT 1 🇭🇷
-http://hostengine.live/live/wrecks82/habsiptv82/225657.m3u8
-
-#EXTINF:-1, ARENA SPORT 1 🇭🇷
-http://tbs-tv.com:8080/dark/kittylinetv/10246
-
-#EXTINF:-1, ZIGGO SPORT SELECT 🇳🇱
-http://tbs-tv.com:8080/dark/kittylinetv/1400
-
-#EXTINF:-1, ART SPORT 1 🇽🇰
-http://212.224.84.202:2200/ALB-EX/ART_Sport_1_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
-
-#EXTINF:-1, ART SPORT 2 🇽🇰
-http://212.224.84.202:2200/ALB-EX/ART_Sport_2_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
-
-#EXTINF:-1,bein SPORTS 1 premium 🇶🇦
-http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test
-
-#EXTINF:-1,bein SPORTS 2 premium 🇶🇦
-http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test
-
-#EXTINF:-1, SONY TEN 1 🇮🇳
-https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
-
-#EXTINF:-1, SONY TEN 2 🇮🇳
-https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
-
-#EXTINF:-1, HRT 2 🇭🇷
-http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
 
 
 
