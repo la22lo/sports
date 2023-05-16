@@ -3,6 +3,9 @@
 #EXTINF:-1,TV MAX 🇵🇦 
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?
 
+#EXTINF:-1, ESPN ARG 🇦🇷
+http://190.119.178.46:8000/play/a02p/index.m3u8
+
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
 
