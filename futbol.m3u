@@ -18,14 +18,26 @@ http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://84.91.204.231:9981/stream/channelid/809610317?profile=pass
 
-#EXTINF:-1, Eleven 1 HD 🇵🇹
-http://tvdiptv.live:2082/abdu1234/abdu1234/1255134
-
 #EXTINF:-1, POLSAR SPORT PREMIUM 1 🇵🇱
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/66
 
-#EXTINF:-1,bein SPORTS 1 premium 🇶🇦
-http://tvdiptv.live:2082/abdu1234/abdu1234/102245
+#EXTINF:-1, TRING SPORTS 1 🇦🇱
+http://homeuser22.hopto.me:22333/live?cId=1595&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
+
+#EXTINF:-1,CCTV5 🇨🇳
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+
+#EXTINF:-1,PRIMA SPORT 1 🇷🇴
+http://94.53.216.13:9981/stream/channelid/2119101735?profile=pass
+
+#EXTINF:-1, ARENA SPORT 1 🇭🇷
+http://hostengine.live/live/wrecks82/habsiptv82/225657.m3u8
+
+#EXTINF:-1, ART SPORT 1 🇽🇰
+http://212.224.84.202:2200/ALB-EX/ART_Sport_1_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
+
+#EXTINF:-1, ESPN ARG 🇦🇷
+http://170.83.242.8:5350/play/a00u
 
 #EXTINF:-1,bein SPORTS 1 premium 🇶🇦
 https://cdn2.livehd720.com/hlsbeinp1/bein/playlist.m3u8
@@ -36,53 +48,14 @@ https://s1.thegentleclass.xyz/class2_hd/index.m3u8
 #EXTINF:-1, BT SPORT 1 🇬🇧
 https://mo3ad@ovre.realbitsport.com/live/n-1/chunks.m3u8
 
-#EXTINF:-1,SUPERSPORT MAXIMO 1 🇿🇦
-http://tvdiptv.live:2082/abdu1234/abdu1234/299570
-
-#EXTINF:-1, TRING SPORTS 1 🇦🇱
-http://homeuser22.hopto.me:22333/live?cId=1595&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
-
-#EXTINF:-1, ESPN ARG 🇦🇷
-http://170.83.242.8:5350/play/a00u
-
 #EXTINF:-1,CITY SPORTS 🇦🇷
 https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
-
-#EXTINF:-1,CCTV5 🇨🇳
-https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-
-#EXTINF:-1,PRIMA SPORT 1 🇷🇴
-http://94.53.216.13:9981/stream/channelid/2119101735?profile=pass
 
 #EXTINF:-1, MAX SPORT 3 🇧🇬
 http://212.5.59.2:9882/play/a019/index.m3u8?
 
-#EXTINF:-1, MAX SPORT 3 🇧🇬
-http://tvdiptv.live:2082/abdu1234/abdu1234/1256034
-
-#EXTINF:-1, ARENA SPORT 1 🇭🇷
-http://hostengine.live/live/wrecks82/habsiptv82/225657.m3u8
-
-#EXTINF:-1, ZIGGO SELECT 🇳🇱
-http://tvdiptv.live:2082/abdu1234/abdu1234/1256129
-
-#EXTINF:-1, SKY SPORT 1 AUS 🇦🇹
-http://tvdiptv.live:2082/abdu1234/abdu1234/1215758
-
-#EXTINF:-1, C MORE MAX 🇫🇮
-http://tvdiptv.live:2082/abdu1234/abdu1234/1215519
-
-#EXTINF:-1, ART SPORT 1 🇽🇰
-http://212.224.84.202:2200/ALB-EX/ART_Sport_1_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
-
 #EXTINF:-1, ART SPORT 2 🇽🇰
 http://212.224.84.202:2200/ALB-EX/ART_Sport_2_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
-
-#EXTINF:-1,bein SPORTS 1 premium 🇶🇦
-http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test
-
-#EXTINF:-1,bein SPORTS 2 premium 🇶🇦
-http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test
 
 #EXTINF:-1, SONY TEN 1 🇮🇳
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
