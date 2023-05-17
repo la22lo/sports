@@ -18,6 +18,9 @@ http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
 https://live-2-333.uma.media/LIVE/LIVE:126863/HLS/1684360135/qVJDvsmzF49czai8yZR9gw/live/126863_4/chunklist.m3u8
 
+#EXTINF:-1, ESPN ARG 🇦🇷
+http://181.78.4.186:8000/play/a0ex/index.m3u8
+
 #EXTINF:-1, HRT 2 🇭🇷
 http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
 
@@ -65,9 +68,6 @@ http://ssl.aabbyyzz.eu:80/GDeUVN49/2Fu1hP54/27566
 
 #EXTINF:-1, RMC SPORT 1 🇫🇷
 http://ssl.aabbyyzz.eu:80/GDeUVN49/2Fu1hP54/13182
-
-#EXTINF:-1, ESPN ARG 🇦🇷
-http://170.83.242.8:5350/play/a00u
 
 #EXTINF:-1, BLUE SPORT 2 🇨🇭
 http://ssl.aabbyyzz.eu:80/GDeUVN49/2Fu1hP54/16306
