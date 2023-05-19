@@ -723,24 +723,6 @@ http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/12256/index.m3u8
 #EXTINF:-1,SERVUS TV 🇩🇪
 https://s6.hopslan.com/servus2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, TSN 1 🇨🇦
-http://51.79.87.60:49214/TSN1/hls/playlist.m3u8
-
-#EXTINF:-1, TSN 2 🇨🇦
-http://51.79.87.60:49214/TSN2/hls/playlist.m3u8
-
-#EXTINF:-1, TSN 3 🇨🇦
-http://51.79.87.60:49214/TSN3/hls/playlist.m3u8
-
-#EXTINF:-1, TSN 4 🇨🇦
-http://51.79.87.60:49214/TSN4/hls/playlist.m3u8
-
-#EXTINF:-1, TSN 5 🇨🇦
-http://51.79.87.60:49214/TSN5/hls/playlist.m3u8
-
-#EXTINF:-1, TV2 SPORTS 🇨🇦
-http://51.79.87.60:49214/TV2_SPORTS/hls/playlist.m3u8
-
 #EXTINF:-1,GEO SUPER 🇮🇳
 http://hostengine.live/live/wrecks82/habsiptv82/69277.m3u8
 
