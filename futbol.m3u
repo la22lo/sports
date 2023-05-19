@@ -981,3 +981,9 @@ http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
 
 #EXTINF:-1,TV MAX 🇵🇦 
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?
+
+#EXTINF:-1, ON TIME SPORTS 1 HD
+http://149.100.10.202:4208/bysid/203.ts
+
+#EXTINF:-1, ON TIME SPORTS 2 HD
+http://149.100.10.202:4208/bysid/201.ts
