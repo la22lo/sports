@@ -102,8 +102,47 @@ http://181.119.66.30:8000/play/a002/index.m3u8
 #EXTINF:-1,ESPN HD 🇦🇷
 http://181.119.66.30:8000/play/02/index.m3u8
 
+#EXTINF:-1,ESPN HD 🇦🇷
+http://181.78.11.117:8000/play/a07o/index.m3u8
+
+#EXTINF:-1,ESPN 2 HD 🇦🇷
+http://181.78.11.117:8000/play/a08c/index.m3u8
+
+#EXTINF:-1,ESPN 3 HD 🇦🇷
+http://181.78.11.117:8000/play/a040/index.m3u8
+
+#EXTINF:-1,ESPN 4 HD 🇦🇷
+http://181.78.11.117:8000/play/a02n/index.m3u8
+
+#EXTINF:-1,ESPN HD 🇦🇷
+http://181.78.1.158:8000/play/a01u/index.m3u8
+
+#EXTINF:-1,ESPN 2 🇦🇷
+http://181.78.1.158:8000/play/a01v/index.m3u8
+
+#EXTINF:-1,ESPN 3 🇦🇷
+http://181.78.1.158:8000/play/a01g/index.m3u8
+
+#EXTINF:-1,Fox Sports 1 HD 🇦🇷
+http://181.78.11.117:8000/play/a07i/index.m3u8
+
+#EXTINF:-1,FOX Sports 2 🇦🇷
+http://181.78.1.158:8000/play/a01j/index.m3u8
+
+#EXTINF:-1,Fox Sports 3 HD 🇦🇷
+http://181.78.11.117:8000/play/a08m/index.m3u8
+
 #EXTINF:-1, FOX SPORTS 3 🇦🇷
 http://170.83.242.155:5350/play/a014
+
+#EXTINF:-1,Fox Sports 3 🇦🇷
+http://181.78.1.158:8000/play/a01k/index.m3u8
+
+#EXTINF:-1,TNT SPORTS 2 🇦🇷
+http://181.78.1.158:8000/play/a01n/index.m3u8
+
+#EXTINF:-1,TNT SPORTS 3 🇦🇷
+http://181.78.1.158:8000/play/a01o/index.m3u8
 
 #EXTINF:-1, TIGO SPORTS 🇦🇷
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
@@ -122,6 +161,15 @@ https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
 
 #EXTINF:-1,TUDN 🇲🇽
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
+
+#EXTINF:-1,Win Sports HD 🇨🇴
+http://181.78.11.117:8000/play/a02g/index.m3u8
+
+#EXTINF:-1,Win Sports+ HD 🇨🇴
+http://181.78.1.158:8000/play/a00q/index.m3u8
+
+#EXTINF:-1,Gol TV 🇪🇨
+http://181.78.1.158:8000/play/a01l/index.m3u8
 
 #EXTINF:-1, beIN SPORTS 1 PREMIUM 🇶🇦
 http://hostengine.live/live/wrecks82/habsiptv82/56339.m3u8
@@ -868,44 +916,13 @@ http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
 #EXTINF:-1,TV MAX 🇵🇦 
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?
 
-#EXTINF:-1,ESPN 2 HD
-http://181.78.11.117:8000/play/a08c/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://181.78.11.117:8000/play/a040/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://181.78.11.117:8000/play/a02n/index.m3u8
-#EXTINF:-1,ESPN EXTRA HD
-http://181.78.11.117:8000/play/a07s/index.m3u8
-#EXTINF:-1,ESPN HD
-http://181.78.11.117:8000/play/a07o/index.m3u8
-#EXTINF:-1,Fox Sports 1 HD
-http://181.78.11.117:8000/play/a07i/index.m3u8
-#EXTINF:-1,Fox Sports 3 HD
-http://181.78.11.117:8000/play/a08m/index.m3u8
-#EXTINF:-1,Win Sports HD
-http://181.78.11.117:8000/play/a02g/index.m3u8
-#EXTINF:-1,Win Sports+ HD
-http://181.78.1.158:8000/play/a00q/index.m3u8
-#EXTINF:-1,ESPN 2
-http://181.78.1.158:8000/play/a01v/index.m3u8
-#EXTINF:-1,ESPN 3
-http://181.78.1.158:8000/play/a01g/index.m3u8
-#EXTINF:-1,ESPN 4
-http://181.78.1.158:8000/play/a01h/index.m3u8
-#EXTINF:-1,ESPN HD
-http://181.78.1.158:8000/play/a01u/index.m3u8
-#EXTINF:-1,FOX Sports 2
-http://181.78.1.158:8000/play/a01j/index.m3u8
-#EXTINF:-1,Fox Sports 3
-http://181.78.1.158:8000/play/a01k/index.m3u8
-#EXTINF:-1,Gol TV
-http://181.78.1.158:8000/play/a01l/index.m3u8
-#EXTINF:-1,TNT HD
-http://181.78.1.158:8000/play/a00k/index.m3u8
-#EXTINF:-1,TNT SPORTS 2
-http://181.78.1.158:8000/play/a01n/index.m3u8
-#EXTINF:-1,TNT SPORTS 3
-http://181.78.1.158:8000/play/a01o/index.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1, GOL PLAY
 http://91.126.182.211:9981/stream/channelid/635853308?profile=pass
 #EXTINF:-1, M+ LaLigaTV
