@@ -34,9 +34,6 @@ http://84.91.204.231:9981/stream/channelid/123297042?profile=pass
 http://84.91.204.231:9981/stream/channelid/687150791?profile=pass
 
 #EXTINF:-1, BEIN SPORTS 1 🇶🇦
-http://ssl.aabbyyzz.eu:80/GDeUVN49/2Fu1hP54/14980
-
-#EXTINF:-1, BEIN SPORTS 1 🇶🇦
 http://hostengine.live/live/wrecks82/habsiptv82/57391.m3u8
 
 #EXTINF:-1, BEIN SPORTS 1 PREMIUM 🇶🇦
@@ -44,9 +41,6 @@ http://hostengine.live/live/wrecks82/habsiptv82/56339.m3u8
 
 #EXTINF:-1, MTV INDIA 🇮🇳
 https://yupplivefragcp6.yuppcdn.net/050523/smil:mtvau.smil/playlist.m3u8
-
-#EXTINF:-1,CBC SPORT 🇦🇿
-http://130.185.236.8:12560/play/a081
 
 #EXTINF:-1,DAZN 1 BAR 🇩🇪
 http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/96685
@@ -59,9 +53,6 @@ http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/96688
 
 #EXTINF:-1,DAZN 2 🇩🇪
 http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/238120
-
-#EXTINF:-1, direct sportv 🇦🇷
-http://190.119.178.46:8000/play/a032/index.m3u
 
 #EXTINF:-1, ESPN ARG 🇦🇷
 http://170.83.242.8:5350/play/a00u
@@ -96,20 +87,11 @@ http://45.190.13.50:8002/play/a01k/index.m3u8
 #EXTINF:-1, ESPN 🇦🇷
 http://170.83.242.8:5350/play/a00u
 
-#EXTINF:-1, ESPN 🇦🇷
-http://204.157.255.135:20001/play/a066/index.m3u8
-
 #EXTINF:-1, ESPN 2 🇦🇷
 http://170.83.242.8:5350/play/a02u
 
-#EXTINF:-1, ESPN 2 🇦🇷
-http://204.157.255.135:20001/play/a064/index.m3u8
-
 #EXTINF:-1, ESPN 2 LATIN 🇦🇷
 http://170.83.242.8:5350/play/a00t
-
-#EXTINF:-1, FOX SPORTS 3 🇦🇷
-http://204.157.255.135:20001/play/a03g/index.m3u8
 
 #EXTINF:-1, FOX SPORTS 3 🇦🇷
 http://170.83.242.155:5350/play/a014
@@ -131,9 +113,6 @@ https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
 
 #EXTINF:-1,TUDN 🇲🇽
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
-
-#EXTINF:-1,TUDN 🇲🇽
-http://45.228.234.77:4430/play/tudn
 
 #EXTINF:-1, beIN SPORTS 1 PREMIUM 🇶🇦
 http://hostengine.live/live/wrecks82/habsiptv82/56339.m3u8
@@ -217,16 +196,10 @@ http://hostengine.live/live/wrecks82/habsiptv82/56343.m3u8
 http://89.47.232.72:8080/live/Chris/Chris/4449.ts
 
 #EXTINF:-1, BT SPORT 1 🇬🇧
-http://ky-iptv.com:80/chris7676/chris7676/1846762.ts
-
-#EXTINF:-1, BT SPORT 1 🇬🇧
 http://hostengine.live/live/wrecks82/habsiptv82/53850.m3u8
 
 #EXTINF:-1, BT SPORT 2 🇬🇧
 http://89.47.232.72:8080/live/Chris/Chris/4450.ts
-
-#EXTINF:-1, BT SPORT 2 🇬🇧
-http://ky-iptv.com:80/chris7676/chris7676/1846763.ts
 
 #EXTINF:-1, BT SPORT 2 🇬🇧
 http://hostengine.live/live/wrecks82/habsiptv82/53851.m3u8
@@ -235,19 +208,13 @@ http://hostengine.live/live/wrecks82/habsiptv82/53851.m3u8
 http://89.47.232.72:8080/live/Chris/Chris/4451.ts
 
 #EXTINF:-1, BT SPORT 3 🇬🇧
-http://ky-iptv.com:80/chris7676/chris7676/1846764.ts
-
-#EXTINF:-1, BT SPORT 3 🇬🇧
 http://hostengine.live/live/wrecks82/habsiptv82/53852.m3u8
 
-#EXTINF:-1, VIAPLAY SPORT 1 🇬🇧
+#EXTINF:-1, VIAPLAY EXTRA 🇬🇧
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 
 #EXTINF:-1, VIAPLAY EXTRA 🇬🇧
 https://s@d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
-
-#EXTINF:-1, SUPER GRANDSTAND 🇬🇧
-http://pakin2.worldtvip.co:9090/za_ss_gstand/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, K SPORT 1 HD 🇦🇱
 http://homeuser22.hopto.me:22333/live?cId=1604&uid=1691&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
@@ -264,12 +231,6 @@ http://homeuser22.hopto.me:22333/live?cId=1588&uid=1690&deviceUser=PremiumIPTV12
 #EXTINF:-1,SUPERSPORT 4 🇦🇱
 http://homeuser22.hopto.me:22333/live?cId=1589&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
 
-#EXTINF:-1,SPORT 1 HD 🇦🇱
-http://79.174.24.254:8002/play/a00m/index.m3u8
-
-#EXTINF:-1,SPORT 2 HD 🇦🇱
-http://79.174.24.254:8002/play/a00n/index.m3u8
-
 #EXTINF:-1, OVERSPORT 1 🇦🇱
 http://212.224.84.202:2200/ALB-EX/OverSport1_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
 
@@ -281,18 +242,6 @@ http://212.224.84.202:2200/ALB-EX/OverSport3_HD_AL-alb/tracks-v1a1/mono.m3u8?tok
 
 #EXTINF:-1, OVERSPORT 4 🇦🇱
 http://212.224.84.202:2200/ALB-EX/OverSport4_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
-
-#EXTINF:-1, OVERSPORT 1 🇦🇱
-http://46.19.226.152:4000/play/a0c3
-
-#EXTINF:-1, OVERSPORT 2 🇦🇱
-http://46.19.226.152:4000/play/a0c2
-
-#EXTINF:-1, OVERSPORT 3 🇦🇱
-http://46.19.226.152:4000/play/a0bq
-
-#EXTINF:-1, OVERSPORT 4 🇦🇱
-http://46.19.226.152:4000/play/a0bj
 
 #EXTINF:-1, TRING SPORTS 1 🇦🇱
 http://homeuser22.hopto.me:22333/live?cId=1595&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
@@ -375,62 +324,11 @@ http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
 #EXTINF:-1, HRT 2 🇭🇷
 http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8?
 
-#EXTINF:-1, MAX SPORT 1HD 🇧🇬
-https://bit.ly/3U3cbf3
-
-#EXTINF:-1, MAX SPORT 2HD 🇧🇬
-https://bit.ly/3sAIeXX
-
-#EXTINF:-1, MAX SPORT 3HD 🇧🇬
-https://bit.ly/3zfvQQY
-
 #EXTINF:-1, MAX SPORT 3HD 🇧🇬
 http://62.176.77.22:9781/play/a00i
 
-#EXTINF:-1, MAX SPORT 1 🇧🇬
-http://212.5.59.2:9882/play/a017/index.m3u8
-
-#EXTINF:-1, MAX SPORT 2 🇧🇬
-http://212.5.59.2:9882/play/a018/index.m3u8
-
-#EXTINF:-1, MAX SPORT 3 🇧🇬
-http://212.5.59.2:9882/play/a019/index.m3u8
-
-#EXTINF:-1, DIEMA Sport 🇧🇬
-https://bit.ly/3fcwac7
-
-#EXTINF:-1, DIEMA Sport 2 🇧🇬
-https://bit.ly/3W1RfGW
-
-#EXTINF:-1,DIGI Sport 1 🇷🇴
-http://84.17.61.203:8086/udp/229.35.15.121:1234
-
-#EXTINF:-1,DIGI Sport 1 🇷🇴
-http://84.17.61.203:8086/udp/238.2.25.79:1234
-
-#EXTINF:-1,DIGI Sport 2 🇷🇴
-http://84.17.61.203:8086/udp/229.35.15.105:1234
-
-#EXTINF:-1,DIGI Sport 2 🇷🇴
-http://84.17.61.203:8086/udp/238.2.25.78:1234
-
-#EXTINF:-1,DIGI Sport 3 🇷🇴
-http://84.17.61.203:8086/udp/229.35.15.108:1234
-
-#EXTINF:-1,DIGI Sport 3 🇷🇴
-http://84.17.61.203:8086/udp/238.2.25.90:1234
-
-#EXTINF:-1,DIGI Sport 4 HD 🇷🇴
-http://84.17.61.203:8086/udp/229.35.15.151:1234
-
-#EXTINF:-1,Orange Sport 3 HD 🇷🇴
-http://84.17.61.203:8086/udp/229.35.15.182:1234
-
 #EXTINF:-1,Orange Sport 3 HD 🇷🇴
 http://94.53.216.13:9981/stream/channelid/1320823112?profile=pass
-
-#EXTINF:-1,Orange Sport 4 HD 🇷🇴
-http://84.17.61.203:8086/udp/229.35.15.183:1234
 
 #EXTINF:-1,Orange Sport 4 HD 🇷🇴
 http://94.53.216.13:9981/stream/channelid/538345017?profile=pass
@@ -439,13 +337,7 @@ http://94.53.216.13:9981/stream/channelid/538345017?profile=pass
 http://94.53.216.13:9981/stream/channelid/2119101735?profile=pass
 
 #EXTINF:-1,PRIMA SPORT 2 🇷🇴
-http://84.17.61.203:8086/udp/229.35.15.112:1234
-
-#EXTINF:-1,PRIMA SPORT 2 🇷🇴
 http://94.53.216.13:9981/stream/channelid/1796098648?profile=pass
-
-#EXTINF:-1,Prima Sport 3 🇷🇴
-http://84.17.61.203:8086/udp/229.35.21.1:1234
 
 #EXTINF:-1,Prima Sport 3 🇷🇴
 http://94.53.216.13:9981/stream/channelid/1042510375?profile=pass
@@ -466,13 +358,7 @@ http://178.160.249.210:8000/play/a004/index.m3u8
 http://178.160.249.210:8000/play/a005/index.m3u8
 
 #EXTINF:-1,Setanta Sports 1 HD 🇷🇺
-http://176.222.190.76/btv/SWM/SetantaSport_HD/SetantaSport_HD.m3u8
-
-#EXTINF:-1,Setanta Sports 1 HD 🇷🇺
 https://livetv.mylifeisgood.ml/channels/setantahd
-
-#EXTINF:-1,Setanta Sports 2 HD 🇷🇺
-http://176.222.190.76/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD.m3u8
 
 #EXTINF:-1,Setanta Sports 2 HD 🇷🇺
 https://livetv.mylifeisgood.ml/channels/setantaplus
@@ -492,12 +378,6 @@ http://49.12.133.216:8000/play/a005/index.m3u8
 #EXTINF:-1,Setanta Sports uk 🇺🇦
 http://49.12.133.216:8000/play/a005/index.m3u8
 
-#EXTINF:-1,Setanta Sports 1 🇰🇿
-http://176.222.190.76/btv/SWM/setantasports1hdkz/setantasports1hdkz.m3u8
-
-#EXTINF:-1,Setanta Sports 2 🇰🇿
-http://176.222.190.76/btv/SWM/setantasports2hdkz/setantasports2hdkz.m3u8
-
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
 
@@ -506,9 +386,6 @@ https://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
 
 #EXTINF:-1, MATH 🇷🇺
 http://193.33.240.8:8080/Match_HD/index.m3u8
-
-#EXTINF:-1, MATH 🇷🇺
-http://80.251.49.103:8001/play/20
 
 #EXTINF:-1, MATH 🇷🇺
 http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/535/index.m3u8
@@ -600,9 +477,6 @@ http://82.209.197.187:8080/udp/239.0.100.9:1234
 #EXTINF:-1,BELARUS 5 🇧🇾
 http://rn2yfxko.tvclub.xyz/iptv/ZWYUW9CXCYH4ZV/5060/index.m3u8
 
-#EXTINF:-1,CBC SPORT 🇦🇿
-http://130.185.236.8:12560/play/a081
-
 #EXTINF:-1, Uzbekistan Sport 🇺🇿
 http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/2239/index.m3u8
 
@@ -623,15 +497,6 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 
 #EXTINF:-1, Qirguistán sport 🇰🇬
 http://89.254.128.5:22280/qsport/index.m3u8
-
-#EXTINF:-1, Qirguistán sport 🇰🇬
-http://176.222.190.76/btv/SWM/Q/Q.m3u8
-
-#EXTINF:-1, Qirguistán sport 🇰🇬
-http://176.222.190.76/btv/SWM/Qsport_international/Qsport_international.m3u8
-
-#EXTINF:-1,QAZSPORT 🇰🇿
-http://87.76.32.36:9100/udp/238.1.0.30:2000
 
 #EXTINF:-1,QAZSPORT 🇰🇿
 http://176.222.190.76/btv/SWM/Qazsport_HD/Qazsport_HD.m3u8
@@ -754,9 +619,6 @@ http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/12256/index.m3u8
 https://s6.hopslan.com/servus2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,GEO SUPER 🇮🇳
-http://humiptv.live:8080/live/242425/242425/101.ts
-
-#EXTINF:-1,GEO SUPER 🇮🇳
 http://hostengine.live/live/wrecks82/habsiptv82/69277.m3u8
 
 #EXTINF:-1,PTV SPORTS 🇮🇳
@@ -777,32 +639,8 @@ http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
 #EXTINF:-1, BTV 5 🇻🇳
 http://171.238.181.52:18080/194.m3u8
 
-#EXTINF:-1,ELTA SPORT 🇹🇼
-http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, J SPORT 1 🇯🇵
-http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
-
-#EXTINF:-1, J SPORT 2 🇯🇵
-http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
-
-#EXTINF:-1, J SPORT 3 🇯🇵
-http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
-
-#EXTINF:-1, Asahi TV 🇯🇵
-http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
-
-#EXTINF:-1, SPOTV 1 🇮🇩
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941564&extension=ts&play_token=1kEm8DbZmS
-
 #EXTINF:-1, TVRI SPORTS INDONESIA 🇮🇩
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-
-#EXTINF:-1, K+ Sport 1 🇰🇭
-http://103.82.24.168:5544/play/sdsport1/index.m3u8
-
-#EXTINF:-1, K+ Sport 2 🇰🇭
-http://103.82.24.168:5544/play/sdsport2/index.m3u8
 
 #EXTINF:-1, S SPORT 🇹🇷
 http://45.143.222.41:8080/dooby1312/b244f7ab/1753
@@ -860,9 +698,6 @@ http://ott-cdn.ucom.am/s4/04.m3u8
 
 #EXTINF:-1, PREMIUM ARMENIA TV 🇦🇲
 http://ott-cdn.ucom.am/s83/03.m3u8
-
-#EXTINF:-1, DUBAI SPORTS 🇸🇦
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1,DUBAI SPORTS 3 FHD 🇸🇦
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby
@@ -954,41 +789,11 @@ http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115
 #EXTINF:-1, SERVUS TV F1 🇩🇪
 https://s6.hopslan.com/servus2/index.m3u8
 
-#EXTINF:-1, TENNIS
-https://loja.rarp.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https:/playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f/g.m3u8
-
-#EXTINF:-1, TENNIS 
-https://loja.rarp.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/f.m3u8
-
 #EXTINF:-1, TENNIS CHANNEL 🇬🇧
 https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
 
 #EXTINF:-1,SKY SPORT TENNIS 🇩🇪
 http://45.143.222.41:8080/dooby1312/b244f7ab/297552
-
-#EXTINF:-1,SKY SPORT TENNIS 🇮🇹
-http://ssl.aabbyyzz.eu:80/GDeUVN49/2Fu1hP54/93831
-
-#EXTINF:-1, TENIs
-https://Link_De_Fuck_La_Liga_Canal_Telegram_Que_No_Te_Mientan@mvcdn.soft4game.com/o51/stream169/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDIzIDEyOjAwOjAwIFBNJmhhc2hfdmFsdWU9QTU5VnV0b1dnbStxWFR4VUJCbmwxZz09JnZhbGlkbWludXRlcz0xMjAmaWQ9NQ==
-
-#EXTINF:-1, ALCARAZ pista 1
-https://loja.rarp.com.br:443/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https:/playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-
-#EXTINF:-1, PISTA 2
-https://loja.rarp.com.br:443/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https:/playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
-
-#EXTINF:-1, PISTA 3
-https://loja.rarp.com.br:443/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https:/playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f/g.m3u8
-
-#EXTINF:-1, PISTA 4
-https://loja.rarp.com.br:443/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https:/playoutengine.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd/g.m3u8
-
-#EXTINF:-1, PISTA 5
-https://loja.rarp.com.br:443/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https:/playoutengine.sinclairstoryline.com/playout/c05b21c0-e574-4b34-a26e-c6637dbd0fa5/g.m3u8
-
-#EXTINF:-1, PISTA 6
-https://loja.rarp.com.br:443/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https:/playoutengine.sinclairstoryline.com/playout/735dea87-2128-40b7-8eaa-4252092c6dae/g.m3u8
 
 
 
