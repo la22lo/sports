@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1, M+ LaLigaTV 🇪🇸
+http://91.126.182.211:9981/stream/channelid/403421735?profile=pass
+
+#EXTINF:-1, DAZN LaLiga 🇪🇸
+http://91.126.182.211:9981/stream/channelid/1825843097?profile=pass
+
 #EXTINF:-1, ESPN DEPORTES 🇺🇸
 https://cdn.live.vidgo.com/Content/HLS/Live/channel(71914-ESPNDHD)/02.m3u8?fbclid=PAAaYO7ZAo_fCAZYiQ9p2pEj6ZY-vgMfQrFNybW_TiJxe8o9O_NWo3CT4fUvY
 
@@ -170,6 +176,9 @@ http://181.78.1.158:8000/play/a00q/index.m3u8
 
 #EXTINF:-1,Gol TV 🇪🇨
 http://181.78.1.158:8000/play/a01l/index.m3u8
+
+#EXTINF:-1, GOL PLAY 🇪🇸
+http://91.126.182.211:9981/stream/channelid/635853308?profile=pass
 
 #EXTINF:-1, beIN SPORTS 1 PREMIUM 🇶🇦
 http://hostengine.live/live/wrecks82/habsiptv82/56339.m3u8
@@ -917,17 +926,5 @@ http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?
 
 
-
-
-
-
-
-
-#EXTINF:-1, GOL PLAY
-http://91.126.182.211:9981/stream/channelid/635853308?profile=pass
-#EXTINF:-1, M+ LaLigaTV
-http://91.126.182.211:9981/stream/channelid/403421735?profile=pass
-#EXTINF:-1, DAZN LaLiga
-http://91.126.182.211:9981/stream/channelid/1825843097?profile=pass
 #EXTINF:-1,Tring Sport 4 HD
 http://147.78.163.1:7002/play/a027/index.m3u8
