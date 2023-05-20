@@ -346,6 +346,9 @@ http://conexaoonline.top:80/IVONE123/IVONE321/261068
 http://84.91.204.231:9981/stream/channelid/1057764974?profile=pass
 
 #EXTINF:-1, SPORT TV 4 🇵🇹
+http://5.255.90.194:3001/play/a05e/index.m3u8
+
+#EXTINF:-1, SPORT TV 4 🇵🇹
 http://conexaoonline.top:80/IVONE123/IVONE321/261067
 
 #EXTINF:-1, SPORT TV 5 🇵🇹
@@ -362,6 +365,15 @@ http://conexaoonline.top:80/IVONE123/IVONE321/261065
 
 #EXTINF:-1, SPORT TV + 🇵🇹
 http://84.91.204.231:9981/stream/channelid/920042509?profile=pass
+
+#EXTINF:-1, SPORT TV + 🇵🇹
+http://5.255.90.194:3001/play/a04x/index.m3u8
+
+#EXTINF:-1, SPORT TV + 🇵🇹
+http://5.255.90.194:3001/play/a032/index.m3u8
+
+#EXTINF:-1, SPORT TV + 🇵🇹
+http://5.255.90.194:3001/play/a01s/index.m3u8
 
 #EXTINF:-1, SPORT TV + 🇵🇹
 http://conexaoonline.top:80/IVONE123/IVONE321/261070
