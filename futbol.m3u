@@ -994,6 +994,8 @@ http://37.18.239.37:8000/play/a00g/index.m3u8
 #EXTINF:-1, KANAL A 🇸🇮
 http://37.18.239.37:8000/play/a005/index.m3u8
 
+http://37.18.239.37:8000/play/a005/index.m3u8
+
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://84.91.204.231:9981/stream/channelid/809610317?profile=pass
 
