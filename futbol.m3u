@@ -495,6 +495,18 @@ http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8?
 #EXTINF:-1, MAX SPORT 3HD 🇧🇬
 http://62.176.77.22:9781/play/a00i
 
+#EXTINF:-1,DIEMA SPORT 1 🇧🇬
+http://84.54.179.207:8000/play/a03v
+
+#EXTINF:-1,DIEMA SPORT 2 🇧🇬
+http://84.54.179.207:8000/play/a04b
+
+#EXTINF:-1,NOVA SPORT 🇧🇬
+http://84.54.179.207:8000/play/a047
+
+#EXTINF:-1, BTV ACTION 🇧🇬
+http://84.54.179.207:8000/play/a04c
+
 #EXTINF:-1,Orange Sport 3 HD 🇷🇴
 http://94.53.216.13:9981/stream/channelid/1320823112?profile=pass
 
@@ -1033,17 +1045,3 @@ http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
 #EXTINF:-1,TV MAX 🇵🇦 
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?
 
-#EXTINF:-1,DIEMA SPORT 1
-http://84.54.179.207:8000/play/a03v
-
-#EXTINF:-1,DIEMA SPORT 2
-http://84.54.179.207:8000/play/a04b
-
-#EXTINF:-1,NOVA SPORT
-http://84.54.179.207:8000/play/a047
-
-#EXTINF:-1, BTV ACTION
-http://84.54.179.207:8000/play/a04c
-
-#EXTINF:-1, LALIGA BAR
-http://5.255.90.194:3003/play/a01p
