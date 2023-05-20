@@ -229,6 +229,9 @@ http://181.78.1.158:8000/play/a00q/index.m3u8
 http://181.78.1.158:8000/play/a01l/index.m3u8
 
 #EXTINF:-1, GOL PLAY 🇪🇸
+http://77.81.117.202:8000/play/ES_gol_play_sd/index.m3u8
+
+#EXTINF:-1, GOL PLAY 🇪🇸
 http://91.126.182.211:9981/stream/channelid/635853308?profile=pass
 
 #EXTINF:-1, beIN SPORTS 1 PREMIUM 🇶🇦
