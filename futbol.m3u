@@ -313,6 +313,12 @@ http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1506
 http://84.91.204.231:9981/stream/channelid/641992294?profile=pass
 
 #EXTINF:-1, SPORT TV 1 🇵🇹
+http://5.255.90.194:3000/play/a08b/index.m3u8
+
+#EXTINF:-1, SPORT TV 1 🇵🇹
+http://5.255.90.194:3000/play/a036/index.m3u8
+
+#EXTINF:-1, SPORT TV 1 🇵🇹
 http://tv19s.xyz:8080/Neil/Neil/78513
 
 #EXTINF:-1, SPORT TV 1 🇵🇹
@@ -320,6 +326,12 @@ http://conexaoonline.top:80/IVONE123/IVONE321/261071
 
 #EXTINF:-1, SPORT TV 2 🇵🇹
 http://84.91.204.231:9981/stream/channelid/180836387?profile=pass
+
+#EXTINF:-1, SPORT TV 2 🇵🇹
+http://5.255.90.194:3000/play/a08c/index.m3u8
+
+#EXTINF:-1, SPORT TV 2 🇵🇹
+http://5.255.90.194:3000/play/a07q/index.m3u8
 
 #EXTINF:-1, SPORT TV 2 🇵🇹
 http://conexaoonline.top:80/IVONE123/IVONE321/261069
