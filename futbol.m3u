@@ -31,6 +31,12 @@ http://45.190.13.50:8000/play/a040/index.m3u8
 http://84.91.204.231:9981/stream/channelid/809610317?profile=pass
 
 #EXTINF:-1,PRIMA SPORT 1 🇷🇴
+http://188.27.255.177:8000/play/a01v/index.m3u8
+
+#EXTINF:-1,PRIMA SPORT 1 HD 🇷🇴
+http://188.27.255.177:8000/play/a03h/index.m3u8
+
+#EXTINF:-1,PRIMA SPORT 1 🇷🇴
 http://94.53.216.13:9981/stream/channelid/2119101735?profile=pass
 
 #EXTINF:-1,PRIMA SPORT 1 🇷🇴
@@ -545,6 +551,48 @@ http://84.54.179.207:8000/play/a047
 
 #EXTINF:-1, BTV ACTION 🇧🇬
 http://84.54.179.207:8000/play/a04c
+
+#EXTINF:-1,DIGI Sport 1 🇷🇴
+http://188.27.255.177:8000/play/a019/index.m3u8
+
+#EXTINF:-1,DIGI Sport 1 HD 🇷🇴
+http://188.27.255.177:8000/play/a009/index.m3u8
+
+#EXTINF:-1,DIGI Sport 2 🇷🇴
+http://188.27.255.177:8000/play/a04d/index.m3u8
+
+#EXTINF:-1,DIGI Sport 2 HD 🇷🇴
+http://188.27.255.177:8000/play/a00e/index.m3u8
+
+#EXTINF:-1,DIGI Sport 3 🇷🇴
+http://188.27.255.177:8000/play/a01a/index.m3u8
+
+#EXTINF:-1,DIGI Sport 3 HD 🇷🇴
+http://188.27.255.177:8000/play/a02y/index.m3u8
+
+#EXTINF:-1,DIGI Sport 4 🇷🇴
+http://188.27.255.177:8000/play/a020/index.m3u8
+
+#EXTINF:-1,DIGI Sport 4 HD 🇷🇴
+http://188.27.255.177:8000/play/a02i/index.m3u8
+
+#EXTINF:-1,PRIMA SPORT 1 🇷🇴
+http://188.27.255.177:8000/play/a01v/index.m3u8
+
+#EXTINF:-1,PRIMA SPORT 1 HD 🇷🇴
+http://188.27.255.177:8000/play/a03h/index.m3u8
+
+#EXTINF:-1,PRIMA SPORT 2 🇷🇴
+http://188.27.255.177:8000/play/a02b/index.m3u8
+
+#EXTINF:-1,PRIMA SPORT 2 HD 🇷🇴
+http://188.27.255.177:8000/play/a06s/index.m3u8
+
+#EXTINF:-1,PRIMA SPORT 3 🇷🇴
+http://188.27.255.177:8000/play/a06j/index.m3u8
+
+#EXTINF:-1,PRIMA SPORT 3 HD 🇷🇴
+http://188.27.255.177:8000/play/a03i/index.m3u8
 
 #EXTINF:-1,Orange Sport 3 HD 🇷🇴
 http://94.53.216.13:9981/stream/channelid/1320823112?profile=pass
@@ -1083,33 +1131,3 @@ http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
 
 #EXTINF:-1,TV MAX 🇵🇦 
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?
-
-#EXTINF:-1,DIGI Sport 1
-http://188.27.255.177:8000/play/a019/index.m3u8
-#EXTINF:-1,DIGI Sport 1 HD
-http://188.27.255.177:8000/play/a009/index.m3u8
-#EXTINF:-1,DIGI Sport 2
-http://188.27.255.177:8000/play/a04d/index.m3u8
-#EXTINF:-1,DIGI Sport 2 HD
-http://188.27.255.177:8000/play/a00e/index.m3u8
-#EXTINF:-1,DIGI Sport 3
-http://188.27.255.177:8000/play/a01a/index.m3u8
-#EXTINF:-1,DIGI Sport 3 HD
-http://188.27.255.177:8000/play/a02y/index.m3u8
-#EXTINF:-1,DIGI Sport 4
-http://188.27.255.177:8000/play/a020/index.m3u8
-#EXTINF:-1,DIGI Sport 4 HD
-http://188.27.255.177:8000/play/a02i/index.m3u8
-#EXTINF:-1,PRIMA SPORT 1
-http://188.27.255.177:8000/play/a01v/index.m3u8
-#EXTINF:-1,PRIMA SPORT 1 HD
-http://188.27.255.177:8000/play/a03h/index.m3u8
-#EXTINF:-1,PRIMA SPORT 2
-http://188.27.255.177:8000/play/a02b/index.m3u8
-#EXTINF:-1,PRIMA SPORT 2 HD
-http://188.27.255.177:8000/play/a06s/index.m3u8
-#EXTINF:-1,PRIMA SPORT 3
-http://188.27.255.177:8000/play/a06j/index.m3u8
-#EXTINF:-1,PRIMA SPORT 3 HD
-http://188.27.255.177:8000/play/a03i/index.m3u8
-
