@@ -657,6 +657,9 @@ http://193.33.240.8:8080/Match_HD/index.m3u8
 #EXTINF:-1, MATH 🇷🇺
 http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/535/index.m3u8
 
+#EXTINF:-1, MATH 🇷🇺
+http://178.163.49.199:4022/udp/234.0.0.204:2000
+
 #EXTINF:-1,МАТЧ ПРЕМЬЕР HD 🇷🇺
 http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/531/index.m3u8
 
