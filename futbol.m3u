@@ -30,6 +30,9 @@ http://45.190.13.50:8000/play/a040/index.m3u8
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://84.91.204.231:9981/stream/channelid/809610317?profile=pass
 
+#EXTINF:-1,PRIMA SPORT 1 🇷🇴
+http://94.53.216.13:9981/stream/channelid/2119101735?profile=pass
+
 #EXTINF:-1, BELARUS 5 🇧🇾
 https://kinescope.io/203407780/master.m3u8
 
