@@ -3,9 +3,6 @@
 #EXTINF:-1, M+ LaLigaTV 🇪🇸
 http://91.126.182.211:9981/stream/channelid/403421735?profile=pass
 
-#EXTINF:-1, DAZN LaLiga 🇪🇸
-http://91.126.182.211:9981/stream/channelid/1825843097?profile=pass
-
 #EXTINF:-1, ESPN DEPORTES 🇺🇸
 https://cdn.live.vidgo.com/Content/HLS/Live/channel(71914-ESPNDHD)/02.m3u8?fbclid=PAAaYO7ZAo_fCAZYiQ9p2pEj6ZY-vgMfQrFNybW_TiJxe8o9O_NWo3CT4fUvY
 
@@ -164,6 +161,9 @@ http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/193376
 
 #EXTINF:-1, ASTERA SPORTS 🇮🇶
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/147456
+
+#EXTINF:-1, DAZN LaLiga 🇪🇸
+http://91.126.182.211:9981/stream/channelid/1825843097?profile=pass
 
 #EXTINF:-1, ESPN 🇦🇷
 http://45.190.13.50:8002/play/a01f/index.m3u8
