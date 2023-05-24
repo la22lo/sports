@@ -9,6 +9,9 @@ https://cdn.live.vidgo.com/Content/HLS/Live/channel(71914-ESPNDHD)/02.m3u8?fbcli
 #EXTINF:-1, ESPN 2 LIVE 🇺🇸
 https://oni.realbitsport.com/live/n-2/chunks.m3u8
 
+#EXTINF:-1, DIRECTV SPORT 2 🇦🇷
+http://190.83.60.34:1414/play/a06c
+
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/16433
 
