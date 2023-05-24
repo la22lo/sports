@@ -6,6 +6,9 @@ http://91.126.182.211:9981/stream/channelid/403421735?profile=pass
 #EXTINF:-1, ESPN DEPORTES 🇺🇸
 https://cdn.live.vidgo.com/Content/HLS/Live/channel(71914-ESPNDHD)/02.m3u8?fbclid=PAAaYO7ZAo_fCAZYiQ9p2pEj6ZY-vgMfQrFNybW_TiJxe8o9O_NWo3CT4fUvY
 
+#EXTINF:-1, ESPN 2 LIVE 🇺🇸
+https://oni.realbitsport.com/live/n-2/chunks.m3u8
+
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/16433
 
@@ -62,6 +65,9 @@ http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/197711
 
 #EXTINF:-1, SUPERSPORT LALIGA 🇿🇦
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/194358
+
+#EXTINF:-1, SUPERSPORT LALIGA 🇿🇦
+https://s1.thegentleclass.xyz/class3_hd/index.m3u8
 
 #EXTINF:-1, ARENA SPORT 6 🇭🇷
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/10961
