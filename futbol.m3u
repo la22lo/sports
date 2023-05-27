@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1,Setanta Sports 2 HD 🇷🇺
+http://94.158.54.107/95/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Setanta_Sports_2_HD 🇷🇺
+http://49.12.133.216:8000/play/a003/index.m3u8
+
+#EXTINF:-1,Setanta_Sports_2_HD 🇷🇺
+http://edge05.beetv.kz:80/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD.m3u8
+
+#EXTINF:-1,Setanta Sports 2 HD 🇷🇺
+https://livetv.mylifeisgood.ml/channels/setantaplus
+
 #EXTINF:-1, M+ LaLigaTV 🇪🇸
 http://91.126.182.211:9981/stream/channelid/403421735?profile=pass
 
