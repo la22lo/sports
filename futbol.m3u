@@ -30,12 +30,6 @@ http://45.190.13.50:8000/play/a040/index.m3u8
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://84.91.204.231:9981/stream/channelid/809610317?profile=pass
 
-#EXTINF:-1, Eleven 1 HD 🇵🇹
-http://tv.allkaicerteam.com:8080/Extele@mouilha20/dWJwFNVqAl/3279
-
-#EXTINF:-1, Eleven 1 HD 🇵🇹
-http://wweraw.club:8080/elattarall/elattar/56993
-
 #EXTINF:-1,PRIMA SPORT 1 🇷🇴
 http://94.53.216.13:9981/stream/channelid/2119101735?profile=pass
 
@@ -47,12 +41,6 @@ https://mo3ad@cdn2.livehd720.com/hlsbeinpp1/beinpp1/playlist.m3u8
 
 #EXTINF:-1, BEIN SPORTS 1 🇶🇦
 http://mo3ad@rtmp-ws-pull-stech.qtlglb.com/live/b806e369b1/playlist.m3u8
-
-#EXTINF:-1, BEIN SPORTS 1 🇶🇦
-http://tv.allkaicerteam.com:8080/Extele@mouilha20/dWJwFNVqAl/4172
-
-#EXTINF:-1,Setanta Sports + 🇺🇦
-http://hez1-flu.iptvstream.site/160/tracks-v1a1/mono.m3u8?token=671659%2C%2C%2C2044031989
 
 #EXTINF:-1, LALIGA TV 🇬🇧
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/197711
@@ -80,9 +68,6 @@ http://84.91.204.231:9981/stream/channelid/809610317?profile=pass
 
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://84.91.204.231:9981/stream/channelid/123297042?profile=pass
-
-#EXTINF:-1, Eleven 2 HD 🇵🇹
-http://wweraw.club:8080/elattarall/elattar/56994
 
 #EXTINF:-1, Eleven 3 HD 🇵🇹
 http://84.91.204.231:9981/stream/channelid/687150791?profile=pass
