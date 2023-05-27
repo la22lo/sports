@@ -3,20 +3,11 @@
 #EXTINF:-1, M+ LaLigaTV 🇪🇸
 http://91.126.182.211:9981/stream/channelid/403421735?profile=pass
 
-#EXTINF:-1, ESPN + 🇺🇸 
-http://45.170.225.212:58001/play/a043/index.m3u8
-
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://84.91.204.231:9981/stream/channelid/809610317?profile=pass
 
 #EXTINF:-1, ESPN DEPORTES 🇺🇸
 https://cdn.live.vidgo.com/Content/HLS/Live/channel(71914-ESPNDHD)/02.m3u8?fbclid=PAAaYO7ZAo_fCAZYiQ9p2pEj6ZY-vgMfQrFNybW_TiJxe8o9O_NWo3CT4fUvY
-
-#EXTINF:-1, ESPN VIVO 🇦🇷
-http://177.93.52.98:45001/play/a07g
-
-#EXTINF:-1, DIRECTV SPORT 2 🇦🇷
-http://190.83.60.34:1414/play/a06c
 
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/16433
