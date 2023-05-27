@@ -3,6 +3,15 @@
 #EXTINF:-1, M+ LaLigaTV 🇪🇸
 http://91.126.182.211:9981/stream/channelid/403421735?profile=pass
 
+#EXTINF:-1, DAZN LALIGA 🇪🇸
+http://31.42.185.216:8000/robertomartinez/MRCUsKskoh/140948
+
+#EXTINF:-1, Eleven 1 HD 🇵🇹
+http://84.91.204.231:9981/stream/channelid/809610317?profile=pass
+
+#EXTINF:-1, Eleven 1 HD 🇵🇹
+http://31.42.185.216:8000/robertomartinez/MRCUsKskoh/144821
+
 #EXTINF:-1, ESPN DEPORTES 🇺🇸
 https://cdn.live.vidgo.com/Content/HLS/Live/channel(71914-ESPNDHD)/02.m3u8?fbclid=PAAaYO7ZAo_fCAZYiQ9p2pEj6ZY-vgMfQrFNybW_TiJxe8o9O_NWo3CT4fUvY
 
@@ -26,9 +35,6 @@ http://likea8bitboss.xyz:80/tquad/6305812479/5935
 
 #EXTINF:-1, ESPN + 🇺🇸 
 http://45.190.13.50:8000/play/a040/index.m3u8
-
-#EXTINF:-1, Eleven 1 HD 🇵🇹
-http://84.91.204.231:9981/stream/channelid/809610317?profile=pass
 
 #EXTINF:-1,PRIMA SPORT 1 🇷🇴
 http://94.53.216.13:9981/stream/channelid/2119101735?profile=pass
