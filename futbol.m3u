@@ -573,6 +573,18 @@ http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
 #EXTINF:-1, HRT 2 🇭🇷
 http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8?
 
+#EXTINF:-1,141_MAX Sport 1 🇧🇬
+http://83.228.75.166:8000/play/a0be
+
+#EXTINF:-1,142_MAX Sport 2 🇧🇬
+http://83.228.75.166:8000/play/a0bf
+
+#EXTINF:-1,143_MAX Sport 3 🇧🇬
+http://83.228.75.166:8000/play/a0bg
+
+#EXTINF:-1,144_MAX sport 4 🇧🇬
+http://83.228.75.166:8000/play/a0e7
+
 #EXTINF:-1, MAX SPORT 3HD 🇧🇬
 http://62.176.77.22:9781/play/a00i
 
