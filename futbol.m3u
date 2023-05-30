@@ -384,6 +384,18 @@ http://212.224.84.202:2200/ALB-EX/OverSport3_HD_AL-alb/tracks-v1a1/mono.m3u8?tok
 #EXTINF:-1, OVERSPORT 4 🇦🇱
 http://212.224.84.202:2200/ALB-EX/OverSport4_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
 
+#EXTINF:-1,OVERSPORT1 🇦🇱
+http://88.214.19.82:35038
+
+#EXTINF:-1,OVERSPORT2 🇦🇱
+http://88.214.19.82:35039
+
+#EXTINF:-1,OVERSPORT3 🇦🇱
+http://88.214.19.82:35040
+
+#EXTINF:-1,OVERSPORT4 🇦🇱
+http://88.214.19.82:35041
+
 #EXTINF:-1, TRING SPORTS 1 🇦🇱
 http://homeuser22.hopto.me:22333/live?cId=1595&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
 
@@ -588,6 +600,9 @@ https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
 #EXTINF:-1, SPORT RU 🇷🇺
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
 
+#EXTINF:-1,SPORT4 🇷🇺
+http://91.233.215.250:7272/Wetd63YgcVe23Jk
+
 #EXTINF:-1, X SPORT 🇷🇺
 http://iptv.prosto.tv:7000/ch109/video.m3u8
 
@@ -617,6 +632,9 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 
 #EXTINF:-1, Qirguistán sport 🇰🇬
 http://89.254.128.5:22280/qsport/index.m3u8
+
+#EXTINF:-1,Qsport 🇰🇬
+http://91.233.215.250:7272/ipKJnd6cVw1Nu7a
 
 #EXTINF:-1,QAZSPORT 🇰🇿
 http://edge05.beetv.kz:80/btv/SWM/Qazsport_HD/Qazsport_HD.m3u8
@@ -961,20 +979,4 @@ http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
 #EXTINF:-1,TV MAX 🇵🇦 
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?
 
-#EXTINF:-1,Qsport
-http://91.233.215.250:7272/ipKJnd6cVw1Nu7a
 
-#EXTINF:-1,SPORT4
-http://91.233.215.250:7272/Wetd63YgcVe23Jk
-
-#EXTINF:-1,OVERSPORT1 🇦🇱
-http://88.214.19.82:35038
-
-#EXTINF:-1,OVERSPORT2 🇦🇱
-http://88.214.19.82:35039
-
-#EXTINF:-1,OVERSPORT3 🇦🇱
-http://88.214.19.82:35040
-
-#EXTINF:-1,OVERSPORT4 🇦🇱
-http://88.214.19.82:35041
