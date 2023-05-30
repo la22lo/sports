@@ -621,9 +621,6 @@ http://89.254.128.5:22280/qsport/index.m3u8
 #EXTINF:-1,QAZSPORT 🇰🇿
 http://edge05.beetv.kz:80/btv/SWM/Qazsport_HD/Qazsport_HD.m3u8
 
-#EXTINF:-1,QAZSPORT 🇰🇿
-http://176.222.190.76/btv/SWM/Qazsport_HD/Qazsport_HD.m3u8
-
 #EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇱
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/79
 
@@ -635,9 +632,6 @@ http://51.89.67.79:25461/stalker348574985793/stalker348574985793/81
 
 #EXTINF:-1, ELEVEN SPORTS 4 HD 🇵🇱
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/82
-
-#EXTINF:-1, ELEVEN SPORTS 4 HD 🇵🇱
-http://37.48.101.149:5013/play/a00f/index.m3u8
 
 #EXTINF:-1, Eleven Sports 1 HD PL 🇵🇱
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2518/index.m3u8
@@ -669,23 +663,11 @@ http://5.255.90.238:5004/play/a02a
 #EXTINF:-1, POLSAT SPORT PREMIUM 2 PL 🇵🇱
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7305/index.m3u8
 
-#EXTINF:-1, POLSAT SPORT PREMIUM 2 PL 🇵🇱
-http://5.255.90.238:5004/play/a02s
-
-#EXTINF:-1, POLSAT SPORT PREMIUM 2 PL 🇵🇱
-http://5.255.90.238:5004/play/a02b
-
-#EXTINF:-1, POLSAT SPORT 🇵🇱
-http://37.48.101.149:5011/play/a00n/index.m3u8
-
 #EXTINF:-1, POLSAT SPORT 🇵🇱
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/72
 
 #EXTINF:-1, POLSAT SPORT EXTRA 🇵🇱
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/
-
-#EXTINF:-1, POLSAT SPORT EXTRA 🇵🇱
-http://37.48.101.149:5011/play/a00s/index.m3u8
 
 #EXTINF:-1, TVP Sport HD PL 🇵🇱
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2520/index.m3u8
@@ -704,9 +686,6 @@ http://51.89.67.79:25461/stalker348574985793/stalker348574985793/85
 
 #EXTINF:-1, CANAL + 4 POLONIA 🇵🇱
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/84
-
-#EXTINF:-1, SPORTKLUB HD 🇵🇱
-http://37.48.101.149:5013/play/a02j/index.m3u8
 
 #EXTINF:-1, NOVA SPORTS 2 🇬🇷
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-UHY4EFXaTL62Eh947HkO8
@@ -740,12 +719,6 @@ http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/12256/index.m3u8
 
 #EXTINF:-1,SERVUS TV 🇩🇪
 https://s6.hopslan.com/servus2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,GEO SUPER 🇮🇳
-http://hostengine.live/live/wrecks82/habsiptv82/69277.m3u8
-
-#EXTINF:-1,PTV SPORTS 🇮🇳
-http://103.190.35.2:8082/PTV-Sports/tracks-a1v1/index.m3u8
 
 #EXTINF:-1,CCTV5 🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
