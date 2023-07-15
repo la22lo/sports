@@ -3,6 +3,9 @@
 #EXTINF:-1, 4 Sport 🇮🇶
 http://212.126.106.218:31000/play/a070
 
+#EXTINF:-1, SPORT 1
+http://84.22.33.218/ArTsPoRt.1.Uc/index.m3u8
+
 #EXTINF:-1,SUPER TENNIS 🇬🇧
 https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
 
