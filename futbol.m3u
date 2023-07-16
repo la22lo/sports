@@ -9,6 +9,9 @@ http://84.22.33.218/ArTsPoRt.1.Uc/index.m3u8
 #EXTINF:-1, STAR SPORT 2 🇮🇳
 http://50.7.237.7:8081/STARSPORTS2HD/tracks-v1a1/index.m3u8
 
+#EXTINF:-1,BT SPORT 1 🇬🇧
+http://212.8.253.117/BTSport1HD/index.m3u8
+
 #EXTINF:-1,SUPER TENNIS 🇬🇧
 https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
 
