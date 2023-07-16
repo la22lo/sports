@@ -9,6 +9,9 @@ http://84.22.33.218/ArTsPoRt.1.Uc/index.m3u8
 #EXTINF:-1, AIO SPORT 1 🇸🇦
 https://af.ayas.ir/hls2/aiosport.m3u8
 
+#EXTINF:-1, T SPORT 🇮🇳
+https://live.tsports.com/live/tsports_live_720/index.m3u8
+
 #EXTINF:-1, STAR SPORT 2 🇮🇳
 http://50.7.237.7:8081/STARSPORTS2HD/tracks-v1a1/index.m3u8
 
