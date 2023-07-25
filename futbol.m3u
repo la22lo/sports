@@ -48,6 +48,18 @@ http://51.79.87.60:49214/TSN4/hls/playlist.m3u8
 #EXTINF:-1, TSN 5 🇨🇦
 http://51.79.87.60:49214/TSN5/hls/playlist.m3u8
 
+#EXTINF:-1, Over sport 1 🇦🇱
+http://212.224.84.202:2200/ALB-EX/OverSport1_HD_AL-alb/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Over sport 2 🇦🇱
+http://212.224.84.202:2200/ALB-EX/OverSport2_HD_AL-alb/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Over sport 3 🇦🇱
+http://212.224.84.202:2200/ALB-EX/OverSport3_HD_AL-alb/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Over sport 4 🇦🇱
+http://212.224.84.202:2200/ALB-EX/OverSport4_HD_AL-alb/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, CANAL + 2 POLONIA 🇵🇱
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/86
 
