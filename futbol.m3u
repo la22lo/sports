@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, CAT SPORT3
-https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
-
 #EXTINF:-1, TV3
 https://Pericopalotes135@directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 
