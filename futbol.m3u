@@ -3,6 +3,9 @@
 #EXTINF:-1, CAT SPORT3
 https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
 
+#EXTINF:-1, TV3
+https://Pericopalotes135@directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
+
 #EXTINF:-1, SPORT ARAB
 https://mo3ad@admdn1.cdn.mgmlcdn.com:443/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
