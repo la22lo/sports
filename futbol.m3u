@@ -1,6 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1, TV3
+#EXTINF:-1,VAMOS TV 🇪🇸
+http://91.126.182.211:9981/stream/channelid/1048254491
+
+#EXTINF:-1, TV3 🇪🇸
 https://Pericopalotes135@directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 
 #EXTINF:-1, ESPN 🇦🇷
