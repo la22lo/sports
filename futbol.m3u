@@ -1,14 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,TV 2 Sport Premium 2 HD 🇳🇴
-http://194.76.186.15:8000/play/a02a
-
-#EXTINF:-1,TV 2 Sport Premium HD 🇳🇴
-http://194.76.186.15:8000/play/a029
-
-#EXTINF:-1,VAMOS TV 🇪🇸
-http://quebuscasaqui.xyz:8080/MoisesUlta/yNj7zFmj7w/255
-
 #EXTINF:-1, TV3 🇪🇸
 https://Pericopalotes135@directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 
@@ -30,53 +21,11 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/in
 #EXTINF:-1, T SPORT 🇮🇳
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 
-#EXTINF:-1, T SPORT 🇮🇳
-http://dpny3.1234.uno:6061/tsports/index.m3u8
-
-#EXTINF:-1, STAR SPORT 2 🇮🇳
-http://50.7.237.7:8081/STARSPORTS2HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,BT SPORT 1 🇬🇧
-http://212.8.253.117/BTSport1HD/index.m3u8
-
-#EXTINF:-1,BT SPORT 2 🇬🇧
-http://212.8.253.117/BTSport2HD/index.m3u8
-
 #EXTINF:-1,SUPER TENNIS 🇬🇧
 https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
 
 #EXTINF:-1, TV1 🇪🇸
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
-
-#EXTINF:-1, TSN 1 🇨🇦
-http://51.79.87.60:49214/TSN1/hls/playlist.m3u8
-
-#EXTINF:-1, TSN 2 🇨🇦
-http://51.79.87.60:49214/TSN2/hls/playlist.m3u8
-
-#EXTINF:-1, TSN 3 🇨🇦
-http://51.79.87.60:49214/TSN3/hls/playlist.m3u8
-
-#EXTINF:-1, TSN 4 🇨🇦
-http://51.79.87.60:49214/TSN4/hls/playlist.m3u8
-
-#EXTINF:-1, TSN 5 🇨🇦
-http://51.79.87.60:49214/TSN5/hls/playlist.m3u8
-
-#EXTINF:-1, Over sport 1 🇦🇱
-http://212.224.84.202:2200/ALB-EX/OverSport1_HD_AL-alb/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, Over sport 2 🇦🇱
-http://212.224.84.202:2200/ALB-EX/OverSport2_HD_AL-alb/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, Over sport 3 🇦🇱
-http://212.224.84.202:2200/ALB-EX/OverSport3_HD_AL-alb/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, Over sport 4 🇦🇱
-http://212.224.84.202:2200/ALB-EX/OverSport4_HD_AL-alb/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, CANAL + 2 POLONIA 🇵🇱
-http://51.89.67.79:25461/stalker348574985793/stalker348574985793/86
 
 #EXTINF:-1, Eleven 5 HD 🇵🇹
 http://conexaoonline.top:80/IVONE123/IVONE321/260998
@@ -84,47 +33,14 @@ http://conexaoonline.top:80/IVONE123/IVONE321/260998
 #EXTINF:-1, Eleven 5 HD 🇵🇹
 http://splaytv.io:80/Marcelo984258235/hbgy45df/140394
 
-#EXTINF:-1, M+ LaLiga 🇪🇸
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/269466
-
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://46.10.218.219:8000/play/a05n
 
 #EXTINF:-1, M+ LaLigaTV 🇪🇸
 http://91.126.182.211:9981/stream/channelid/403421735?profile=pass
 
-#EXTINF:-1, MAX SPORT 4 🇧🇬
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/16433
-
 #EXTINF:-1, ESPN DEPORTES 🇺🇸 
 http://likea8bitboss.xyz:80/tquad/6305812479/5935
-
-#EXTINF:-1,PRIMA SPORT 1 🇷🇴
-http://94.53.216.13:9981/stream/channelid/2119101735?profile=pass
-
-#EXTINF:-1, LALIGA TV 🇬🇧
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/197711
-
-#EXTINF:-1, SUPERSPORT LALIGA 🇿🇦
-https://s1.thegentleclass.xyz/class3_hd/index.m3u8
-
-#EXTINF:-1, ARENA SPORT 6 🇭🇷
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/10961
-
-#EXTINF:-1, S SPORT 🇹🇷
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1753
-
-#EXTINF:-1, S SPORT 2 🇹🇷
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/10167
-
-#EXTINF:-1, SPILER 2 🇭🇺
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/77769
-
-#EXTINF:-1, BEIN SPORTS 1 🇶🇦
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/100
-
-#EXTINF:-1, A SPORTS 🇮🇳
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/295025
 
 #EXTINF:-1,DAZN 1 🇩🇪
 http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/238118
@@ -132,44 +48,14 @@ http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/238118
 #EXTINF:-1,DAZN 2 🇩🇪
 http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/238120
 
-#EXTINF:-1, CBC SPORTS 🇦🇿
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/290202
-
-#EXTINF:-1, K1 SPORT 🇦🇱
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1863
-
-#EXTINF:-1, SUPERSSPORT 2 🇦🇱
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1312
-
-#EXTINF:-1, SKY SPORTS 🇲🇽
-http://31.42.185.216:8000/robertomartinez/MRCUsKskoh/140952
-
-#EXTINF:-1,Setanta Sports 1 HD 🇷🇺
-https://livetv.mylifeisgood.ml/channels/setantahd
-
-#EXTINF:-1,Setanta Sports 2 HD 🇷🇺
-https://livetv.mylifeisgood.ml/channels/setantaplus
-
 #EXTINF:-1,Setanta Ukraine + 🇺🇦
 http://95.67.12.89:9013
-
-#EXTINF:-1,BEIN 1 🇵🇭
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/282772
-
-#EXTINF:-1,BEIN 2 🇵🇭
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/282773
 
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
 
-#EXTINF:-1, ASO SPORTS 🇮🇶
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/193376
-
 #EXTINF:-1,ESPN 2 HD 🇦🇷
 http://181.119.66.30:8000/play/03/index.m3u8
-
-#EXTINF:-1,ESPN EXTRA HD 🇦🇷
-http://181.119.66.30:8000/play/a002/index.m3u8
 
 #EXTINF:-1,TV MAX 🇵🇦 
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?
@@ -177,53 +63,11 @@ https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/60580
 #EXTINF:-1, TELECOSTA GUATEMALA 🇬🇹
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
-#EXTINF:-1, ATV + 🇵🇪
-https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
-
 #EXTINF:-1,TUDN 🇲🇽
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 
-#EXTINF:-1,Gol TV 🇪🇨
-http://181.78.1.158:8000/play/a01l/index.m3u8
-
 #EXTINF:-1, GOL PLAY 🇪🇸
 http://77.81.117.202:8000/play/ES_gol_play_sd/index.m3u8
-
-#EXTINF:-1, GOL PLAY 🇪🇸
-http://91.126.182.211:9981/stream/channelid/635853308?profile=pass
-
-#EXTINF:-1, Eleven 1 HD 🇵🇹
-http://84.91.204.231:9981/stream/channelid/809610317?profile=pass
-
-#EXTINF:-1, Eleven 2 HD 🇵🇹
-http://84.91.204.231:9981/stream/channelid/123297042?profile=pass
-
-#EXTINF:-1, Eleven 3 HD 🇵🇹
-http://84.91.204.231:9981/stream/channelid/687150791?profile=pass
-
-#EXTINF:-1, Eleven 4 HD 🇵🇹
-http://84.91.204.231:9981/stream/channelid/2020832066?profile=pass
-
-#EXTINF:-1, Eleven 5 HD 🇵🇹
-http://84.91.204.231:9981/stream/channelid/2019058744?profile=pass
-
-#EXTINF:-1, Eleven 6 HD 🇵🇹
-http://84.91.204.231:9981/stream/channelid/2052610929?profile=pass
-
-#EXTINF:-1, Eleven 1 HD 🇵🇹
-http://tv19s.xyz:8080/Neil/Neil/167746
-
-#EXTINF:-1, Eleven 2 HD 🇵🇹
-http://tv19s.xyz:8080/Neil/Neil/167747
-
-#EXTINF:-1, Eleven 3 HD 🇵🇹
-http://tv19s.xyz:8080/Neil/Neil/167748
-
-#EXTINF:-1, Eleven 4 HD 🇵🇹
-http://tv19s.xyz:8080/Neil/Neil/167749
-
-#EXTINF:-1, Eleven 5 HD 🇵🇹
-http://tv19s.xyz:8080/Neil/Neil/167750
 
 #EXTINF:-1, Eleven 1 HD 🇵🇹
 http://conexaoonline.top:80/IVONE123/IVONE321/261002
@@ -243,44 +87,17 @@ http://conexaoonline.top:80/IVONE123/IVONE321/260998
 #EXTINF:-1, Eleven 6 HD 🇵🇹
 http://conexaoonline.top:80/IVONE123/IVONE321/260997
 
-#EXTINF:-1, Eleven 1 HD 🇵🇹
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1499
-
-#EXTINF:-1, Eleven 2 HD 🇵🇹
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1503
-
-#EXTINF:-1, Eleven 2 HD 🇵🇹
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1506
-
-#EXTINF:-1, SPORT TV 1 🇵🇹
-http://84.91.204.231:9981/stream/channelid/641992294?profile=pass
-
-#EXTINF:-1, SPORT TV 1 🇵🇹
-http://tv19s.xyz:8080/Neil/Neil/78513
-
 #EXTINF:-1, SPORT TV 1 🇵🇹
 http://conexaoonline.top:80/IVONE123/IVONE321/261071
-
-#EXTINF:-1, SPORT TV 2 🇵🇹
-http://84.91.204.231:9981/stream/channelid/180836387?profile=pass
 
 #EXTINF:-1, SPORT TV 2 🇵🇹
 http://conexaoonline.top:80/IVONE123/IVONE321/261069
 
 #EXTINF:-1, SPORT TV 3 🇵🇹
-http://84.91.204.231:9981/stream/channelid/1197159974?profile=pass
-
-#EXTINF:-1, SPORT TV 3 🇵🇹
 http://conexaoonline.top:80/IVONE123/IVONE321/261068
 
 #EXTINF:-1, SPORT TV 4 🇵🇹
-http://84.91.204.231:9981/stream/channelid/1057764974?profile=pass
-
-#EXTINF:-1, SPORT TV 4 🇵🇹
 http://conexaoonline.top:80/IVONE123/IVONE321/261067
-
-#EXTINF:-1, SPORT TV 5 🇵🇹
-http://84.91.204.231:9981/stream/channelid/229568160?profile=pass
 
 #EXTINF:-1, SPORT TV 5 🇵🇹
 http://conexaoonline.top:80/IVONE123/IVONE321/261066
@@ -305,51 +122,6 @@ https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1, VIAPLAY EXTRA 🇬🇧
 https://s@d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
-
-#EXTINF:-1, K SPORT 1 HD 🇦🇱
-http://homeuser22.hopto.me:22333/live?cId=1604&uid=1691&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
-
-#EXTINF:-1,SUPERSPORT 1 🇦🇱
-http://homeuser22.hopto.me:22333/live?cId=1609&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
-
-#EXTINF:-1,SUPERSPORT 2 🇦🇱
-http://homeuser22.hopto.me:22333/live?cId=1587&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
-
-#EXTINF:-1,SUPERSPORT 3 🇦🇱
-http://homeuser22.hopto.me:22333/live?cId=1588&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
-
-#EXTINF:-1,SUPERSPORT 4 🇦🇱
-http://homeuser22.hopto.me:22333/live?cId=1589&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
-
-#EXTINF:-1, OVERSPORT 1 🇦🇱
-http://212.224.84.202:2200/ALB-EX/OverSport1_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
-
-#EXTINF:-1, OVERSPORT 2 🇦🇱
-http://212.224.84.202:2200/ALB-EX/OverSport2_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
-
-#EXTINF:-1, OVERSPORT 3 🇦🇱
-http://212.224.84.202:2200/ALB-EX/OverSport3_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
-
-#EXTINF:-1, OVERSPORT 4 🇦🇱
-http://212.224.84.202:2200/ALB-EX/OverSport4_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
-
-#EXTINF:-1,OVERSPORT1 🇦🇱
-http://88.214.19.82:35038
-
-#EXTINF:-1,OVERSPORT2 🇦🇱
-http://88.214.19.82:35039
-
-#EXTINF:-1,OVERSPORT3 🇦🇱
-http://88.214.19.82:35040
-
-#EXTINF:-1,OVERSPORT4 🇦🇱
-http://88.214.19.82:35041
-
-#EXTINF:-1, TRING SPORTS 1 🇦🇱
-http://homeuser22.hopto.me:22333/live?cId=1595&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
-
-#EXTINF:-1, TRING SPORTS 2 🇦🇱
-http://homeuser22.hopto.me:22333/live?cId=1596&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
 
 #EXTINF:-1,Arena 2 HD 🇷🇸
 http://94.250.2.6:7374/play/a02n/index.m3u8
