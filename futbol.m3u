@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1,TV 2 Sport Premium 2 HD 🇳🇴
+http://194.76.186.15:8000/play/a02a
+
+#EXTINF:-1,TV 2 Sport Premium HD 🇳🇴
+http://194.76.186.15:8000/play/a029
+
 #EXTINF:-1,VAMOS TV 🇪🇸
 http://quebuscasaqui.xyz:8080/MoisesUlta/yNj7zFmj7w/255
 
