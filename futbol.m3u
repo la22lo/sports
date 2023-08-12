@@ -759,27 +759,3 @@ http://185.188.188.235/live/sport1/playlist.m3u8
 
 #EXTINF:-1,SPORT 2
 http://185.188.188.235/live/sport2/playlist.m3u8
-
-#EXTINF:-1,DIGI Sport 1 HD RO
-http://194.76.186.15:8000/play/a03u
-
-#EXTINF:-1,DIGI Sport 2 HD RO
-http://194.76.186.15:8000/play/a03v
-
-#EXTINF:-1,TV 2 SPORT HD
-http://194.76.186.15:8000/play/a00j
-
-#EXTINF:-1,TV 2 SPORT X
-http://194.76.186.15:8000/play/a00n
-
-#EXTINF:-1,TV 2 Sport 1 HD
-http://194.76.186.15:8000/play/a02b
-
-#EXTINF:-1,TV 2 Sport 2 HD
-http://194.76.186.15:8000/play/a02f
-
-#EXTINF:-1,TV 2 Sport Premium 2 HD
-http://194.76.186.15:8000/play/a02a
-
-#EXTINF:-1,TV 2 Sport Premium HD
-http://194.76.186.15:8000/play/a029
