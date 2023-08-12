@@ -484,3 +484,48 @@ https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
 #EXTINF:-1,TV MAX 🇵🇦 
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?
+
+#EXTINF:-1,Eleven Sports 1 HD
+http://85.198.235.96:8081/play/a0dp/index.m3u8
+
+#EXTINF:-1,Eleven Sports 2 HD
+http://85.198.235.96:8081/play/a0dr/index.m3u8
+
+#EXTINF:-1,Eleven Sports 3 HD
+http://85.198.235.96:8081/play/a0du/index.m3u8
+
+#EXTINF:-1,ELEVEN SPORTS 4 HD
+http://85.198.235.96:8081/play/a0bz/index.m3u8
+
+#EXTINF:-1,CANAL+ SPORT HD
+http://85.198.235.96:8081/play/a0ca/index.m3u8
+
+#EXTINF:-1,CANAL+ SPORT 2 HD
+http://85.198.235.96:8081/play/a0dm/index.m3u8
+
+#EXTINF:-1,CANAL+ SPORT 3 HD
+http://85.198.235.96:8081/play/a0e4/index.m3u8
+
+#EXTINF:-1,CANAL+ SPORT 4 HD
+http://85.198.235.96:8081/play/a0e5/index.m3u8
+
+#EXTINF:-1,CANAL+ SPORT 5 HD
+http://85.198.235.96:8081/play/a0e6/index.m3u8
+
+#EXTINF:-1,CANAL+ NOW
+http://85.198.235.96:8081/play/a0by/index.m3u8
+
+#EXTINF:-1,Polsat Sport HD
+http://85.198.235.96:8081/play/a0ft/index.m3u8
+
+#EXTINF:-1,Polsat Sport News HD
+http://85.198.235.96:8081/play/a0mh/index.m3u8
+
+#EXTINF:-1,Polsat Sport Extra HD
+http://85.198.235.96:8081/play/a0fy/index.m3u8
+
+#EXTINF:-1,Polsat Sport Premium 1
+http://85.198.235.96:8081/play/a0ie/index.m3u8
+
+#EXTINF:-1,Polsat Sport Premium 2
+http://85.198.235.96:8081/play/a0if/index.m3u8
