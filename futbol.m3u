@@ -3,12 +3,6 @@
 #EXTINF:-1, LALIGA TV BAR 🇪🇸
 http://playhispano.org:8080/FRANKTV/tZRPR2js4F/70743
 
-#EXTINF:-1,ESPN + 🇺🇸
-http://45.228.234.193:16000/play/a0bx/index.m3u8
-
-#EXTINF:-1,ESPN + 🇺🇸
-http://45.228.232.219:16000/play/a0me/index.m3u8
-
 #EXTINF:-1, TV3 🇪🇸
 https://Pericopalotes135@directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 
@@ -65,6 +59,12 @@ http://84.42.140.147:8890/hdmi
 
 #EXTINF:-1,ESPN 2 HD 🇦🇷
 http://181.119.66.30:8000/play/03/index.m3u8
+
+#EXTINF:-1,ESPN extra 🇦🇷
+http://45.228.234.193:16000/play/a0bx/index.m3u8
+
+#EXTINF:-1,ESPN extra 🇦🇷
+http://45.228.232.219:16000/play/a0me/index.m3u8
 
 #EXTINF:-1,TV MAX 🇵🇦 
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?
