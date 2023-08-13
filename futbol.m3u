@@ -48,6 +48,18 @@ https://tv.movielab.pro/943/video.m3u8
 #EXTINF:-1,Беларусь 5 🇧🇾
 http://82.209.197.187:8080/udp/239.0.100.9:1234
 
+#EXTINF:-1,BEIN SPORT 1 PREMIUM 🇶🇦
+http://vzagut73.megogo.xyz/iptv/5WS4WSUFCCHGQF/6131/index.m3u8
+
+#EXTINF:-1,BEIN SPORT 3 PREMIUM 🇶🇦
+http://vzagut73.megogo.xyz/iptv/5WS4WSUFCCHGQF/6124/index.m3u8
+
+#EXTINF:-1,BEIN SPORT 1 🇫🇷
+http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/2499/index.m3u8
+
+#EXTINF:-1,NOVA SPORT 1 🇨🇿
+http://x3nwn68u.megogo.xyz/iptv/C3BRABULQN3RDL/2555/index.m3u8
+
 #EXTINF:-1, TV3 🇪🇸
 https://Pericopalotes135@directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 
