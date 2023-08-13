@@ -36,6 +36,9 @@ https://tv.movielab.pro/942/video.m3u8
 #EXTINF:-1, Setanta Sports 2 HD 🇷🇺
 https://tv.movielab.pro/943/video.m3u8
 
+#EXTINF:-1,Беларусь 5 🇧🇾
+http://82.209.197.187:8080/udp/239.0.100.9:1234
+
 #EXTINF:-1, TV3 🇪🇸
 https://Pericopalotes135@directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 
