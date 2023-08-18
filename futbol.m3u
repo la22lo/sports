@@ -7,19 +7,7 @@ http://195.222.7.26:7011/play/a02j
 http://philgrim.online:2082/hamza/bdMBfBYCDcdQ/370270
 
 #EXTINF:-1, MACIAS 🇪🇸
-https://eee.catchystream.xyz/playlist/stream_e5.m3u8
-
-#EXTINF:-1, MACIAS 🇪🇸
 http://77.72.23.28/iptv/7PGD7DMWD2KXZ8/19042/index.m3u8
-
-#EXTINF:-1, MACIAS 🇪🇸
-https://Pericopalotes135@hls.bangdoyok.tv/live/sd-1-3939121.m3u8
-
-#EXTINF:-1, BUFA 🇨🇳 
-https://Pericopalotes135@pull06.scstream.net/live/stream-9911980_lhd.m3u8?auth_key=1691952390-0-0-87e289a2fac2ad8b63964f0e7d2f94e1
-
-#EXTINF:-1, BIZ 🇨🇳 
-https://Pericopalotes135@live2.51jslink.com/live/7178858_e65aee3cede04ee782e75b0c6fa8c3be.m3u8?auth_key=1691962225-0-0-14e77c624ef09d1d70532d0c7a920852
 
 #EXTINF:-1, DIRECTV SPORT 🇨🇴
 http://playhispano.org:8080/FRANKTV/tZRPR2js4F/245473
@@ -553,3 +541,9 @@ https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
 #EXTINF:-1,TV MAX 🇵🇦 
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?
+
+#EXTINF:-1, MACIAS 🇪🇸
+https://eee.catchystream.xyz/playlist/stream_e5.m3u8
+
+#EXTINF:-1, MACIAS 🇪🇸
+https://Pericopalotes135@hls.bangdoyok.tv/live/sd-1-3939121.m3u8
