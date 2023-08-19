@@ -1,17 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,Pucela
-https://Pericopalotes135@live2.51jslink.com/live/7291086_6c23ac771fba14ae6a8dfa9f5680d890.m3u8?auth_key=1692401247-0-0-560edd7bcfcfdd7a5a50db1e161ffb59
-
-#EXTINF:-1,TV2 Sport 2 HD 🇳🇴
-http://195.222.7.26:7011/play/a02j
-
-#EXTINF:-1, ELEVEN SPORT 2 🇧🇪
-http://philgrim.online:2082/hamza/bdMBfBYCDcdQ/370270
-
-#EXTINF:-1, ELEVEN SPORT 2 🇧🇪
-http://ua3.iptv.monster/play/1903/350B326FB34F4B8/video.m3u8
-
 #EXTINF:-1, TV2 SPORT X 🇩🇰
 http://live.iptvtotaal.com:8000/decoderbox8624494/pass2659155/66092
 
@@ -441,6 +429,12 @@ http://195.222.7.26:7011/play/a02j
 
 #EXTINF:-1, SPORT LIVE 🇩🇰
 http://195.222.7.26:7011/play/a00t
+
+#EXTINF:-1, ELEVEN SPORT 2 🇧🇪
+http://philgrim.online:2082/hamza/bdMBfBYCDcdQ/370270
+
+#EXTINF:-1, ELEVEN SPORT 2 🇧🇪
+http://ua3.iptv.monster/play/1903/350B326FB34F4B8/video.m3u8
 
 #EXTINF:-1,CCTV5 🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
