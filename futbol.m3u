@@ -9,6 +9,9 @@ http://185.188.188.235/live/novasport4/playlist.m3u8
 #EXTINF:-1, Setanta Sports 2 HD 🇷🇺
 https://tv.movielab.pro/943/video.m3u8
 
+#EXTINF:-1, BEIN 1 
+https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
+
 #EXTINF:-1, MACIAS
 https://Pericopalotes135@live.51jslink.com/live/7313235_3f1554788b952a365e7707886a0fafe6.m3u8?auth_key=1693000982-0-0-cbcf47b87c9b412cc5c37378f79292e4
 
