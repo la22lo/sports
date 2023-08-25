@@ -1,4 +1,6 @@
-#EXTM3U
+
+#EXTINF:-1 group-title="⚽  INT SPORT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300007PT_20230712T021115SQUARE.png_20230712021116.png", ╭─➤ ⚽  INT SPORT ▼
+https://d10p6g3t7yvbu2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1jk02i9tj8ofe/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1, LaLiga TV Bar HD 🇪🇸
 http://darg.site:2082/Joseveinew/5HkYPNWbfdfSnew/155933
