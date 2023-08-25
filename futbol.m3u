@@ -3,15 +3,6 @@
 #EXTINF:-1, LaLiga TV Bar HD 🇪🇸
 http://darg.site:2082/Joseveinew/5HkYPNWbfdfSnew/155933
 
-#EXTINF:-1, LaLiga TV Bar HD 🇪🇸
-http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1423.ts
-
-#EXTINF:-1, LALIGA TV HYPERMOTION 🇪🇸
-http://darg.site:2082/Joseveinew/5HkYPNWbfdfSnew/158916
-
-#EXTINF:-1, LALIGA TV HYPERMOTION 🇪🇸
-http://darg.site:2082/benyi/benyi/390307
-
 #EXTINF:-1,NOVA SPORT 4 🇸🇰
 http://185.188.188.235/live/novasport4/playlist.m3u8
 
@@ -613,6 +604,15 @@ https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
 #EXTINF:-1,TV MAX 🇵🇦 
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?
+
+#EXTINF:-1, LaLiga TV Bar HD 🇪🇸
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1423.ts
+
+#EXTINF:-1, LALIGA TV HYPERMOTION 🇪🇸
+http://darg.site:2082/Joseveinew/5HkYPNWbfdfSnew/158916
+
+#EXTINF:-1, LALIGA TV HYPERMOTION 🇪🇸
+http://darg.site:2082/benyi/benyi/390307
 
 #EXTINF:-1, MACIAS 🇪🇸
 https://eee.catchystream.xyz/playlist/stream_e5.m3u8
