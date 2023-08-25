@@ -12,6 +12,9 @@ http://185.188.188.235/live/novasport4/playlist.m3u8
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://conexaoonline.top:80/IVONE123/IVONE321/261001
 
+#EXTINF:-1, Eleven 2 HD 🇵🇹
+http://m3u.sea-iptv.com:80/11/22/789
+
 #EXTINF:-1, TV2 SPORT X 🇩🇰
 http://live.iptvtotaal.com:8000/decoderbox8624494/pass2659155/66092
 
@@ -116,6 +119,12 @@ https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/
 
 #EXTINF:-1, TV1 🇪🇸
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
+
+#EXTINF:-1, Eleven Sport 1 🇵🇹
+http://m3u.sea-iptv.com:80/11/22/14901
+
+#EXTINF:-1, Eleven 2 HD 🇵🇹
+http://m3u.sea-iptv.com:80/11/22/789
 
 #EXTINF:-1, Eleven Sport 1 🇵🇹
 http://195.201.61.48:8080/Ahmetozkan/25uVVD7PSz6/142418
