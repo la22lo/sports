@@ -21,6 +21,9 @@ https://tv.movielab.pro/943/video.m3u8
 #EXTINF:-1, BEIN 1 TRUE VISIONS 🇹🇭
 https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
 
+#EXTINF:-1, MAX SPORT 4 🇧🇬
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1515.ts
+
 #EXTINF:-1, MACIAS
 https://gameslive.akamaized.net/hls/live-cf7f4d9d-c73b-463d-9a1d-1fbb6ce66a1e_480p1300kbs/index.m3u8
 
