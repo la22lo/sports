@@ -108,6 +108,9 @@ http://vzagut73.megogo.xyz/iptv/5WS4WSUFCCHGQF/6131/index.m3u8
 #EXTINF:-1,BEIN SPORT 1 PREMIUM 🇶🇦
 https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/131_.m3u8?token=N4p6i2zI_swzGjlVenPujA&expires=1691640382
 
+#EXTINF:-1,BEIN SPORT 1 PREMIUM 🇶🇦
+https://bee.fun:2083/ssport1/index.m3u8
+
 #EXTINF:-1,BEIN SPORT 3 PREMIUM 🇶🇦
 http://vzagut73.megogo.xyz/iptv/5WS4WSUFCCHGQF/6124/index.m3u8
 
@@ -143,6 +146,9 @@ http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/2501/index.m3u8
 
 #EXTINF:-1,NOVA SPORT 1 🇨🇿
 http://x3nwn68u.megogo.xyz/iptv/C3BRABULQN3RDL/2555/index.m3u8
+
+#EXTINF:-1, SUPERSPORT 3 🇦🇱
+https://bee.fun:2083/ssport2/index.m3u8
 
 #EXTINF:-1, TV3 🇪🇸
 https://Pericopalotes135@directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
