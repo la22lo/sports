@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1,NOVA SPORT 4 🇸🇰
+http://185.188.188.235/live/novasport4/playlist.m3u8
+
+#EXTINF:-1, Setanta Sports 2 HD 🇷🇺
+https://tv.movielab.pro/943/video.m3u8
+
 #EXTINF:-1, LaLiga TV Bar HD 🇪🇸
 http://darg.site:2082/Joseveinew/5HkYPNWbfdfSnew/155933
 
@@ -8,12 +14,6 @@ http://darg.site:2082/Joseveinew/5HkYPNWbfdfSnew/190999
 
 #EXTINF:-1, LALIGA TV HYPERMOTION 🇪🇸
 http://darg.site:2082/Joseveinew/5HkYPNWbfdfSnew/158916
-
-#EXTINF:-1,NOVA SPORT 4 🇸🇰
-http://185.188.188.235/live/novasport4/playlist.m3u8
-
-#EXTINF:-1, Setanta Sports 2 HD 🇷🇺
-https://tv.movielab.pro/943/video.m3u8
 
 #EXTINF:-1, BEIN 1 TRUE VISIONS 🇹🇭
 https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
