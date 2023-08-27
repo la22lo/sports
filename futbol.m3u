@@ -465,6 +465,27 @@ http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7296/index.m3u8
 #EXTINF:-1, POLSAT SPORT PREMIUM 1 PL 🇵🇱
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7304/index.m3u8
 
+#EXTINF:-1,Eleven Sports 1 HD 🇵🇱
+http://85.198.235.98:8082/play/a0dp/index.m3u8
+
+#EXTINF:-1,Eleven Sports 2 HD 🇵🇱
+http://85.198.235.98:8082/play/a0dr/index.m3u8
+
+#EXTINF:-1,Eleven Sports 3 HD 🇵🇱
+http://85.198.235.98:8082/play/a0du/index.m3u8
+
+#EXTINF:-1,Eleven Sports 4 HD 🇵🇱
+http://85.198.235.98:8082/play/a0bz/index.m3u8
+
+#EXTINF:-1,CANAL+ SPORT HD 🇵🇱
+http://85.198.235.98:8082/play/a0ca/index.m3u8
+
+#EXTINF:-1, Polsat Sport Premium 1 🇵🇱
+http://85.198.235.98:8082/play/a0ie/index.m3u8
+
+#EXTINF:-1, Polsat Sport Premium 2 🇵🇱
+http://85.198.235.98:8082/play/a0if/index.m3u8
+
 #EXTINF:-1, TIVIBU SPORT 1 🇹🇷
 http://eypv0ag4.siauliairsavlt.pw/iptv/NW3M9M6N2H4NYM/19074/index.m3u8
 
