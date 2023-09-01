@@ -18,6 +18,15 @@ http://94.250.2.6:7374/play/a012/index.m3u8
 #EXTINF:-1, DirecTV Sports 🇦🇷
 http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/15614
 
+#EXTINF:-1, Directv Sports HD 🇦🇷
+http://181.177.255.253:8000/play/a075/index.m3u8
+
+#EXTINF:-1, Directv Sports 2 HD 🇦🇷
+http://181.177.255.253:8000/play/a076/index.m3u8
+
+#EXTINF:-1, Directv Sports + HD 🇦🇷
+http://181.177.255.253:8000/play/a078/index.m3u8
+
 #EXTINF:-1,NOVA SPORT 4 🇸🇰
 http://185.188.188.235/live/novasport4/playlist.m3u8
 
