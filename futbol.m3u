@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,MAX SPORTS 4 🇧🇬
+http://93.155.227.38:90/m3u8/webmtelsport4_web.m3u8
+
 #EXTINF:-1,NOVA SPORT 3 🇸🇰
 http://185.188.188.235/live/novasport3/playlist.m3u8
 
@@ -353,6 +356,18 @@ http://149.62.183.194:9293/play/a09b
 
 #EXTINF:-1,Spiler2 🇭🇺
 http://149.62.183.194:9293/play/a0c4
+
+#EXTINF:-1,MAX SPORTS 1 🇧🇬
+http://93.155.227.38:90/m3u8/webmtelsport_web.m3u8
+
+#EXTINF:-1,MAX SPORTS 2 🇧🇬
+http://93.155.227.38:90/m3u8/webmtelsport2_web.m3u8
+
+#EXTINF:-1,MAX SPORTS 3 🇧🇬
+http://93.155.227.38:90/m3u8/webmtelsport3_web.m3u8
+
+#EXTINF:-1,MAX SPORTS 4 🇧🇬
+http://93.155.227.38:90/m3u8/webmtelsport4_web.m3u8
 
 #EXTINF:-1, MAX Sport 1 🇧🇬
 http://83.228.75.166:8000/play/a0be
