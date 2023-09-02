@@ -15,6 +15,12 @@ http://116.202.231.21/hls/RedLine_beIN_Sports_1.m3u8
 #EXTINF:-1, bein sport 2 🇶🇦
 http://116.202.231.21/hls/RedLine_beIN_Sports_2.m3u8
 
+#EXTINF:-1,BEIN SPORT 1 🇶🇦
+https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/40_.m3u8?token=exZVOhKnZW8EXpdd4C8JAA&expires=1691641105
+
+#EXTINF:-1,BEIN SPORT 2 🇶🇦
+https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/38_.m3u8?token=exZVOhKnZW8EXpdd4C8JAA&expires=1691641105
+
 #EXTINF:-1, BEIN 3 TRUE VISIONS 🇹🇭
 https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 
@@ -96,17 +102,11 @@ http://116.202.231.21/hls/RedLine_beIN_Sports_4.m3u8
 #EXTINF:-1, bein sport 5 🇶🇦
 http://116.202.231.21/hls/RedLine_beIN_Sports_5.m3u8
 
-#EXTINF:-1,BEIN SPORT 1 PREMIUM 🇶🇦
-https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/131_.m3u8?token=N4p6i2zI_swzGjlVenPujA&expires=1691640382
-
-#EXTINF:-1,BEIN SPORT 1 PREMIUM 🇶🇦
-https://bee.fun:2083/ssport1/index.m3u8
-
-#EXTINF:-1,BEIN SPORT 3 PREMIUM 🇶🇦
-https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/128_.m3u8?token=1_UHDbn0L0mRf1was2ct8A&expires=1691640935
-
 #EXTINF:-1,beIN SPORTS 1 HD 🇶🇦
 http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/8
+
+#EXTINF:-1,BEIN SPORT 1 🇶🇦
+https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/40_.m3u8?token=exZVOhKnZW8EXpdd4C8JAA&expires=1691641105
 
 #EXTINF:-1,BEIN SPORT 2 🇶🇦
 https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/38_.m3u8?token=exZVOhKnZW8EXpdd4C8JAA&expires=1691641105
