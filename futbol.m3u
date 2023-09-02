@@ -81,6 +81,18 @@ http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/238118
 #EXTINF:-1,DAZN 2 🇩🇪
 http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/238120
 
+#EXTINF:-1,DAZN 1 🇩🇪
+http://@37.49.230.48:8080/GenIptvLast/cGW7qTY5txZ3DOfz/48355
+
+#EXTINF:-1,DAZN 2 🇩🇪
+http://@37.49.230.48:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2387
+
+#EXTINF:-1, BLUE SPORT 1HD 🇨🇭
+http://@37.49.230.48:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2815
+
+#EXTINF:-1, BLUE SPORT 2HD 🇨🇭
+http://@37.49.230.48:8080/GenIptvLast/cGW7qTY5txZ3DOfz/6187
+
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
 
@@ -333,6 +345,12 @@ http://185.188.188.235/live/novasport3/playlist.m3u8
 #EXTINF:-1,NOVA SPORT 4 🇸🇰
 http://185.188.188.235/live/novasport4/playlist.m3u8
 
+#EXTINF:-1,ARENA SPORT 1 SK 🇸🇰
+http://185.188.188.235/live/arenasport1/playlist.m3u8
+
+#EXTINF:-1,ARENA SPORT 2 SK 🇸🇰
+http://185.188.188.235/live/arenasport2/playlist.m3u8
+
 #EXTINF:-1,CT SPORT 🇸🇰
 http://185.188.188.235/live/ctsport/playlist.m3u8
 
@@ -524,6 +542,12 @@ http://83.149.118.170:8080/polsat_sport/manifest.m3u8
 
 #EXTINF:-1, POLSAT SPORT EXTRA HD PL 🇵🇱
 http://83.149.118.170:8080/polsat_sport_extra/manifest.m3u8
+
+#EXTINF:-1, ZIGGO SELECT HD 🇳🇱
+http://@37.49.230.48:8080/GenIptvLast/cGW7qTY5txZ3DOfz/851
+
+#EXTINF:-1, ZIGGO VOETBAL HD 🇳🇱
+http://@37.49.230.48:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2502
 
 #EXTINF:-1,TV2 Sport 2 HD 🇳🇴
 http://195.222.7.26:7011/play/a02j
