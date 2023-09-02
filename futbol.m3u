@@ -664,3 +664,15 @@ http://181.177.255.253:8000/play/a076/index.m3u8
 
 #EXTINF:-1, Directv Sports + HD 🇦🇷
 http://181.177.255.253:8000/play/a078/index.m3u8
+
+#EXTINF:-1, 1
+http://989423234229262413.of529.xyz:80/play/vi0210254/pTHg@YmFYV/262413.ts
+
+#EXTINF:-1, 2
+http://989423234229165393.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165393.ts
+
+#EXTINF:-1, 3
+http://989423234229165392.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165392.ts
+
+#EXTINF:-1, 4
+http://989423234229165385.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165385.ts
