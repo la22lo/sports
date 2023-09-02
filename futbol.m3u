@@ -441,8 +441,14 @@ http://91.233.215.250:7272/ipKJnd6cVw1Nu7a
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇱
 http://ua3.iptv.monster/play/1904/350B326FB34F4B8/video.m3u8
 
-#EXTINF:-1, ELEVEN SPORT 2 🇧🇪
+#EXTINF:-1, ELEVEN SPORT 2 🇵🇱
 http://ua3.iptv.monster/play/1903/350B326FB34F4B8/video.m3u8
+
+#EXTINF:-1, CANAL+ SPORTS 2 🇵🇱
+http://ua3.iptv.monster/play/1901/350B326FB34F4B8/video.m3u8
+
+#EXTINF:-1, TVP SPORTS 🇵🇱
+http://ua3.iptv.monster/play/1910/350B326FB34F4B8/video.m3u8
 
 #EXTINF:-1, Eleven Sports 1 HD PL 🇵🇱
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2518/index.m3u8
@@ -489,9 +495,6 @@ http://171.238.181.52:18080/194.m3u8
 #EXTINF:-1,SPORTS TV 🇹🇷
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 
-#EXTINF:-1, SPORTV TUR 🇹🇷
-https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
-
 #EXTINF:-1,SPORTS TV 🇹🇷
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
@@ -519,9 +522,6 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1, ESPORTE INTERACTIVO 🇧🇷
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
-#EXTINF:-1,PRENDETV LIGA MX 🇲🇽
-https://dip0m6wuccbi7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2d8j5h422463p-prod/dist/samsungtv/193/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
 #EXTINF:-1, WOW TV EL SALVADOR 🇸🇻
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
@@ -539,9 +539,6 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chun
 
 #EXTINF:-1, SHARJJAH SPORT 🇸🇦
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-
-#EXTINF:-1, Sharjah_Sports 🇸🇦
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
 
 #EXTINF:-1, ARAB CHANNEL 1 🇸🇦
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
