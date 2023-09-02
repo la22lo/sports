@@ -285,6 +285,21 @@ http://94.250.2.6:7374/play/a02o/index.m3u8
 #EXTINF:-1,Arena Sport 4 🇷🇸
 http://94.250.2.6:7374/play/a012/index.m3u8
 
+#EXTINF:-1,Arena Sport 1 HD 🇷🇸
+http://93.155.227.38:90/m3u8/arenasport1.m3u8
+
+#EXTINF:-1,Arena Sport 2 HD 🇷🇸
+http://93.155.227.38:90/m3u8/arenasport2.m3u8
+
+#EXTINF:-1,Arena Sport 3 HD 🇷🇸
+http://93.155.227.38:90/m3u8/arenasport3.m3u8
+
+#EXTINF:-1,Arena Sport 4 HD 🇷🇸
+http://93.155.227.38:90/m3u8/arenasport4.m3u8
+
+#EXTINF:-1,Arena Sport 5 HD 🇷🇸
+http://93.155.227.38:90/m3u8/arenasport5.m3u8
+
 #EXTINF:-1,Arena 2 HD 🇧🇦
 http://94.250.2.6:7374/play/a02n/index.m3u8
 
