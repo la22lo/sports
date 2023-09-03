@@ -48,8 +48,11 @@ http://103.162.136.103:25461/FAH/fah/482
 #EXTINF:-1,DIGI Sport 2 HD 🇷🇴
 http://149.62.183.194:9293/play/a0bp
 
-#EXTINF:-1,S SPORT 1 HD 🇹🇷
-http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/24
+#EXTINF:-1, ELEVEN Sports 1 🇵🇹
+http://localiptv.site:85/SuperMediaSk/kt5dMH5axtKF/1468
+
+#EXTINF:-1, ELEVEN Sports 2 🇵🇹
+http://localiptv.site:85/SuperMediaSk/kt5dMH5axtKF/1469
 
 #EXTINF:-1,MACIAS
 https://stream.dlivecdn.com/nifacak851/1693746215/src/live.m3u8
