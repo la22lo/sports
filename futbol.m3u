@@ -303,9 +303,6 @@ http://185.244.240.33:8000/play/a01i
 #EXTINF:-1,Arena 5 🇷🇸
 http://185.244.240.33:8000/play/a01j
 
-#EXTINF:-1,Arena Esport A1r 🇷🇸
-http://185.244.240.33:8000/play/a012
-
 #EXTINF:-1,Arena Premium 1 🇷🇸
 http://185.244.240.33:8000/play/a01q
 
@@ -314,6 +311,12 @@ http://185.244.240.33:8000/play/a01r
 
 #EXTINF:-1,Arena Premium 3 🇷🇸
 http://185.244.240.33:8000/play/a01s
+
+#EXTINF:-1,Nova S TK
+http://185.244.240.33:8000/play/a01m
+
+#EXTINF:-1,Nova Sport GS
+http://185.244.240.33:8000/play/a01e
 
 #EXTINF:-1,Arena 2 HD 🇧🇦
 http://94.250.2.6:7374/play/a02n/index.m3u8
@@ -332,6 +335,24 @@ http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
 
 #EXTINF:-1, HRT 2 🇭🇷
 http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8?
+
+#EXTINF:-1,SK1 HD Enc.
+http://185.244.240.33:8000/play/a03y
+
+#EXTINF:-1,SK2 HD Enc.
+http://185.244.240.33:8000/play/a03z
+
+#EXTINF:-1,SK3 HD TS
+http://185.244.240.33:8000/play/a040
+
+#EXTINF:-1,Sport Klub 4
+http://185.244.240.33:8000/play/a011
+
+#EXTINF:-1,Sport Klub 5
+http://185.244.240.33:8000/play/a02g
+
+#EXTINF:-1,Sport Klub HD TK
+http://185.244.240.33:8000/play/a01k
 
 #EXTINF:-1,SPORT 1 🇸🇰
 http://91.233.215.250:7272/Wetd63YgcVe23Jk
