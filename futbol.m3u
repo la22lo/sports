@@ -438,6 +438,12 @@ http://83.228.75.166:8000/play/a0bd
 #EXTINF:-1, Diema Sport 3 🇧🇬
 http://83.228.75.166:8000/play/a0e8
 
+#EXTINF:-1, Diema Sport 2 🇧🇬
+http://93.155.227.38:90/m3u8/diemasport2hd.m3u8
+
+#EXTINF:-1, Diema Sport 3 🇧🇬
+http://93.155.227.38:90/m3u8/diemasport3hd.m3u8
+
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
 
@@ -647,6 +653,9 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m
 
 #EXTINF:-1, YAS 🇸🇦
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+
+#EXTINF:-1, Aysh Sport 🇮🇷
+https://stream.live12.ir/hls2/persiana.m3u8
 
 #EXTINF:-1, TELETRAK 🇨🇱
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
