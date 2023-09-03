@@ -21,6 +21,12 @@ http://116.202.231.21/hls/RedLine_beIN_Sports_1.m3u8
 #EXTINF:-1, bein sport 2 🇶🇦
 http://116.202.231.21/hls/RedLine_beIN_Sports_2.m3u8
 
+#EXTINF:-1, BEIN 1 🇶🇦
+http://localiptv.site:85/SuperMediaSk/kt5dMH5axtKF/776
+
+#EXTINF:-1, BEIN 2 🇶🇦
+http://localiptv.site:85/SuperMediaSk/kt5dMH5axtKF/777
+
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇱
 http://ua3.iptv.monster/play/1904/350B326FB34F4B8/video.m3u8
 
