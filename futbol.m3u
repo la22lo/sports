@@ -213,6 +213,15 @@ https://Pericopalotes135@directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u
 #EXTINF:-1, EUROSPORT 🇪🇸
 http://SigueSoñandoPericopalotes135@185.188.188.235/live/eurosport/playlist.m3u8
 
+#EXTINF:-1,ESPN 2 HD
+http://190.90.251.18:8000/play/a003
+
+#EXTINF:-1,ESPN 3 HD
+http://190.90.251.18:8000/play/a004
+
+#EXTINF:-1,ESPN HD
+http://190.90.251.18:8000/play/a009
+
 #EXTINF:-1, SPORT ARAB
 https://mo3ad@admdn1.cdn.mgmlcdn.com:443/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
