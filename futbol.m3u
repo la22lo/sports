@@ -213,34 +213,35 @@ https://Pericopalotes135@directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u
 #EXTINF:-1, EUROSPORT 🇪🇸
 http://SigueSoñandoPericopalotes135@185.188.188.235/live/eurosport/playlist.m3u8
 
-#EXTINF:-1,ESPN 2 HD
-http://190.90.251.18:8000/play/a003
-
-#EXTINF:-1,ESPN 3 HD
-http://190.90.251.18:8000/play/a004
-
-#EXTINF:-1,ESPN HD
+#EXTINF:-1,ESPN HD 🇦🇷
 http://190.90.251.18:8000/play/a009
 
-#EXTINF:-1,ESPN 2 HD
-http://190.61.43.117:45000/play/a053
-#EXTINF:-1,ESPN 3 HD
-http://190.61.43.117:45000/play/a051
-#EXTINF:-1,ESPN 4
-http://190.61.43.117:45000/play/a06w
-#EXTINF:-1,ESPN EXTRA HD
-http://190.61.43.117:45000/play/a01v
-#EXTINF:-1,ESPN HD
+#EXTINF:-1,ESPN HD 🇦🇷
 http://190.61.43.117:45000/play/a01l
-#EXTINF:-1,FOX Sports 2 HD
-http://190.61.43.117:45000/play/a01g
-#EXTINF:-1,FX HD
-http://190.61.43.117:45000/play/a01k
-#EXTINF:-1,Fox Sports 3
-http://190.61.43.117:45000/play/a060
 
-#EXTINF:-1, SPORT ARAB
-https://mo3ad@admdn1.cdn.mgmlcdn.com:443/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1,ESPN 2 HD 🇦🇷
+http://190.90.251.18:8000/play/a003
+
+#EXTINF:-1,ESPN 2 HD 🇦🇷
+http://190.61.43.117:45000/play/a053
+
+#EXTINF:-1,ESPN 3 HD 🇦🇷
+http://190.90.251.18:8000/play/a004
+
+#EXTINF:-1,ESPN 3 HD 🇦🇷
+http://190.61.43.117:45000/play/a051
+
+#EXTINF:-1,ESPN 4 🇦🇷
+http://190.61.43.117:45000/play/a06w
+
+#EXTINF:-1,ESPN EXTRA HD 🇦🇷
+http://190.61.43.117:45000/play/a01v
+
+#EXTINF:-1,FOX Sports 2 HD 🇦🇷
+http://190.61.43.117:45000/play/a01g
+
+#EXTINF:-1,Fox Sports 3 🇦🇷
+http://190.61.43.117:45000/play/a060
 
 #EXTINF:-1, SPORT 1
 http://84.22.33.218/ArTsPoRt.1.Uc/index.m3u8
@@ -781,6 +782,9 @@ https://admdn1ta.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/chunklist_
 
 #EXTINF:-1, ARAB CHANNEL 3 🇸🇦
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1000000=3-mp4a_130400_qad=1.m3u8
+
+#EXTINF:-1, SPORT ARAB 🇸🇦
+https://mo3ad@admdn1.cdn.mgmlcdn.com:443/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1, AIO SPORT HD 🇸🇦
 https://af.ayas.ir/hls2/aiosport.m3u8
