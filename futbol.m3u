@@ -633,6 +633,12 @@ http://146.120.240.254:8888/play/a00t/index.m3u8
 #EXTINF:-1,SPORT UZB 🇺🇿
 http://146.120.240.254:8888/play/a00k/index.m3u8
 
+#EXTINF:-1, TV3 Sport Lietuva 🇱🇹
+http://watch.reflex.fun/1246/video.m3u8?token=ybgu8auke6
+
+#EXTINF:-1, TV3 Sport 2 🇱🇹
+http://watch.reflex.fun/TVPlaySportsplusHD/video.m3u8?token=ybgu8auke6
+
 #EXTINF:-1, Turkmenistan Sport 🇹🇲
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
