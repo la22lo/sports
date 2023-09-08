@@ -447,6 +447,15 @@ http://149.62.183.194:9293/play/a0bp
 #EXTINF:-1,DIGI Sport 4 🇷🇴
 http://149.62.183.194:9293/play/a08l
 
+#EXTINF:-1, DIGI Sport 1 HD 🇷🇴
+http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/2523/index.m3u8
+
+#EXTINF:-1, DIGI Sport 2 HD 🇷🇴
+http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/2522/index.m3u8
+
+#EXTINF:-1, DIGI Sport 3 HD 🇷🇴
+http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/2524/index.m3u8
+
 #EXTINF:-1,SPORT 1 🇭🇺
 http://149.62.183.194:9293/play/a0cn
 
