@@ -753,6 +753,15 @@ http://live.globalflix.net:80/Call-Me/Whatsapp8801971466614/154.m3u8
 #EXTINF:-1,GAZI TV 🇮🇳
 http://203.80.191.3:8089/jamio/gazitv//playlist.m3u8
 
+#EXTINF:-1,ESPN HD 🇧🇷
+http://190.90.251.18:8000/play/a009
+
+#EXTINF:-1,ESPN 2 HD 🇧🇷
+http://190.90.251.18:8000/play/a003
+
+#EXTINF:-1,ESPN 3 HD 🇧🇷
+http://190.90.251.18:8000/play/a004
+
 #EXTINF:-1, TNT SPORTS 🇧🇷
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 
