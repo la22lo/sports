@@ -962,14 +962,29 @@ https://84.54.148.38/TEST1/index.m3u8
 #EXTINF:-1, DIGI SPORT 2 
 https://84.54.148.38/TEST2/index.m3u8
 
+#EXTINF:-1, DIGI SPORT 3
+https://84.54.148.38/TEST3/index.m3u8
+
+#EXTINF:-1, DIGI SPORT 4
+https://84.54.148.38/TEST4/index.m3u8
+
+#EXTINF:-1, DIGI SPORT 5
+https://84.54.148.38/TEST5/index.m3u8
+
 #EXTINF:-1, ELEVEN  SPORT 1
 https://84.54.148.38/PEST1/index.m3u8
 
 #EXTINF:-1, ELEVEN  SPORT 2
 https://84.54.148.38/PEST2/index.m3u8 
 
+#EXTINF:-1, ELEVEN  SPORT 3
+https://84.54.148.38/PEST3/index.m3u8 
+
+#EXTINF:-1, DIEMA  SPORT 1
+https://84.54.148.38/DIEMA_SPORT_1_HD/index.m3u8 
+
+#EXTINF:-1, DIEMA  SPORT 2
+https://84.54.148.38/DIEMA_SPORT_2_HD/index.m3u8 
+
 #EXTINF:-1, DIEMA  SPORT 3
 https://84.54.148.38/DIEMA_SPORT_3_HD/index.m3u8 
-
-#EXTINF:-1, DSTV
-https://84.54.148.38/DSTV:/index.m3u8
