@@ -9,6 +9,12 @@ http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/2531/index.m3u8
 #EXTINF:-1, ArenaSport 3 🇭🇷
 http://localiptv.site:85/SuperMediaSk/kt5dMH5axtKF/29072
 
+#EXTINF:-1, ORANGE SPORT 1 🇷🇴
+http://localiptv.site:85/SuperMediaSk/kt5dMH5axtKF/1733
+
+#EXTINF:-1, ORANGE SPORT 2 🇷🇴
+http://localiptv.site:85/SuperMediaSk/kt5dMH5axtKF/1734
+
 #EXTINF:-1,DIRECTV SPORTS Ecuador 🇪🇨
 http://playhispano.org:8080/RolaM/TZRfjE6xGN/131149
 
@@ -518,6 +524,12 @@ https://84.54.148.38/TEST1/index.m3u8
 
 #EXTINF:-1, DIGI SPORT 2 🇷🇴
 https://84.54.148.38/TEST2/index.m3u8
+
+#EXTINF:-1, ORANGE SPORT 1 🇷🇴
+http://localiptv.site:85/SuperMediaSk/kt5dMH5axtKF/1733
+
+#EXTINF:-1, ORANGE SPORT 2 🇷🇴
+http://localiptv.site:85/SuperMediaSk/kt5dMH5axtKF/1734
 
 #EXTINF:-1,SPORT 1 🇭🇺
 http://149.62.183.194:9293/play/a0cn
