@@ -3,18 +3,6 @@
 #EXTINF:-1, ELEVEN Sports 1 🇵🇹
 http://localiptv.site:85/SuperMediaSk/kt5dMH5axtKF/1468
 
-#EXTINF:-1, ELEVEN Sports 1 🇵🇹
-http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2531/index.m3u8
-
-#EXTINF:-1, ELEVEN Sports 1 🇵🇹
-https://kusnadipepenk.github.io/ntn/ele1.m3u8
-
-#EXTINF:-1, ELEVEN Sports 1 🇵🇹
-http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/2531/index.m3u8
-
-#EXTINF:-1, ELEVEN Sports 1 🇵🇹
-http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/19158/index.m3u8
-
 #EXTINF:-1, ORANGE SPORT 1 🇷🇴
 http://localiptv.site:85/SuperMediaSk/kt5dMH5axtKF/1733
 
@@ -23,6 +11,18 @@ http://localiptv.site:85/SuperMediaSk/kt5dMH5axtKF/29072
 
 #EXTINF:-1, ArenaSport 3 🇭🇷
 https://kusnadipepenk.github.io/ntn/arns3.m3u8
+
+#EXTINF:-1, ELEVEN Sports 1 🇵🇹
+https://kusnadipepenk.github.io/ntn/ele1.m3u8
+
+#EXTINF:-1, ELEVEN Sports 1 🇵🇹
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2531/index.m3u8
+
+#EXTINF:-1, ELEVEN Sports 1 🇵🇹
+http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/2531/index.m3u8
+
+#EXTINF:-1, ELEVEN Sports 1 🇵🇹
+http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/19158/index.m3u8
 
 #EXTINF:-1, ArenaSport 3 🇭🇷
 http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/7331/index.m3u8
