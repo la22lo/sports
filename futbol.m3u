@@ -549,6 +549,12 @@ http://localiptv.site:85/SuperMediaSk/kt5dMH5axtKF/1733
 #EXTINF:-1, ORANGE SPORT 2 🇷🇴
 http://localiptv.site:85/SuperMediaSk/kt5dMH5axtKF/1734
 
+#EXTINF:-1,ORANGE SPORT 3HD 🇷🇴
+http://94.53.216.13:9981/stream/channelid/2138471472?&profile=pass
+
+#EXTINF:-1,ORANGE SPORT 4HD 🇷🇴
+http://94.53.216.13:9981/stream/channelid/1187997064?&profile=pass
+
 #EXTINF:-1,SPORT 1 🇭🇺
 http://149.62.183.194:9293/play/a0cn
 
