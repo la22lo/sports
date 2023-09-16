@@ -1,50 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, ELEVEN Sports 1 🇵🇹
-http://localiptv.site:85/SuperMediaSk/kt5dMH5axtKF/1468
-
-#EXTINF:-1, ORANGE SPORT 1 🇷🇴
-http://localiptv.site:85/SuperMediaSk/kt5dMH5axtKF/1733
-
-#EXTINF:-1, ArenaSport 3 🇭🇷
-http://localiptv.site:85/SuperMediaSk/kt5dMH5axtKF/29072
-
-#EXTINF:-1, ArenaSport 3 🇭🇷
-https://kusnadipepenk.github.io/ntn/arns3.m3u8
-
-#EXTINF:-1, ELEVEN Sports 1 🇵🇹
-https://kusnadipepenk.github.io/ntn/ele1.m3u8
-
-#EXTINF:-1, ELEVEN Sports 1 🇵🇹
-http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2531/index.m3u8
-
-#EXTINF:-1, ELEVEN Sports 1 🇵🇹
-http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/2531/index.m3u8
-
-#EXTINF:-1, ELEVEN Sports 1 🇵🇹
-http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/19158/index.m3u8
-
-#EXTINF:-1, ArenaSport 3 🇭🇷
-http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/7331/index.m3u8
-
-#EXTINF:-1, ArenaSport 3 🇭🇷
-http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/7265/index.m3u8
-
-#EXTINF:-1,DIRECTV SPORTS 🇦🇷
-http://playhispano.org:8080/RolaM/TZRfjE6xGN/79660
-
-#EXTINF:-1,DIRECTV SPORTS Ecuador 🇪🇨
-http://playhispano.org:8080/RolaM/TZRfjE6xGN/131149
-
-#EXTINF:-1,DIRECTV SPORTS Colombia 🇨🇴
-http://playhispano.org:8080/RolaM/TZRfjE6xGN/125780
-
-#EXTINF:-1,DIRECTV SPORTS Uruguay 🇺🇾
-http://playhispano.org:8080/RolaM/TZRfjE6xGN/215535
-
-#EXTINF:-1,DIRECTV SPORTS Chile 🇨🇱
-http://playhispano.org:8080/RolaM/TZRfjE6xGN/86584
-
 #EXTINF:-1,MAX SPORTS 4 🇧🇬
 http://93.155.227.38:90/m3u8/webmtelsport4_web.m3u8
 
@@ -1000,6 +955,51 @@ http://181.177.255.253:8000/play/a076/index.m3u8
 
 #EXTINF:-1, Directv Sports + HD 🇦🇷
 http://181.177.255.253:8000/play/a078/index.m3u8
+
+#EXTINF:-1, ELEVEN Sports 1 🇵🇹
+http://localiptv.site:85/SuperMediaSk/kt5dMH5axtKF/1468
+
+#EXTINF:-1, ORANGE SPORT 1 🇷🇴
+http://localiptv.site:85/SuperMediaSk/kt5dMH5axtKF/1733
+
+#EXTINF:-1, ArenaSport 3 🇭🇷
+http://localiptv.site:85/SuperMediaSk/kt5dMH5axtKF/29072
+
+#EXTINF:-1, ArenaSport 3 🇭🇷
+https://kusnadipepenk.github.io/ntn/arns3.m3u8
+
+#EXTINF:-1, ELEVEN Sports 1 🇵🇹
+https://kusnadipepenk.github.io/ntn/ele1.m3u8
+
+#EXTINF:-1, ELEVEN Sports 1 🇵🇹
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2531/index.m3u8
+
+#EXTINF:-1, ELEVEN Sports 1 🇵🇹
+http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/2531/index.m3u8
+
+#EXTINF:-1, ELEVEN Sports 1 🇵🇹
+http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/19158/index.m3u8
+
+#EXTINF:-1, ArenaSport 3 🇭🇷
+http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/7331/index.m3u8
+
+#EXTINF:-1, ArenaSport 3 🇭🇷
+http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/7265/index.m3u8
+
+#EXTINF:-1,DIRECTV SPORTS 🇦🇷
+http://playhispano.org:8080/RolaM/TZRfjE6xGN/79660
+
+#EXTINF:-1,DIRECTV SPORTS Ecuador 🇪🇨
+http://playhispano.org:8080/RolaM/TZRfjE6xGN/131149
+
+#EXTINF:-1,DIRECTV SPORTS Colombia 🇨🇴
+http://playhispano.org:8080/RolaM/TZRfjE6xGN/125780
+
+#EXTINF:-1,DIRECTV SPORTS Uruguay 🇺🇾
+http://playhispano.org:8080/RolaM/TZRfjE6xGN/215535
+
+#EXTINF:-1,DIRECTV SPORTS Chile 🇨🇱
+http://playhispano.org:8080/RolaM/TZRfjE6xGN/86584
 
 #EXTINF:-1, 1
 http://989423234229262413.of529.xyz:80/play/vi0210254/pTHg@YmFYV/262413.ts
