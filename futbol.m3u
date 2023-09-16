@@ -21,12 +21,6 @@ http://116.202.231.21/hls/RedLine_beIN_Sports_1.m3u8
 #EXTINF:-1, bein sport 2 🇶🇦
 http://116.202.231.21/hls/RedLine_beIN_Sports_2.m3u8
 
-#EXTINF:-1, BEIN 1 🇶🇦
-http://localiptv.site:85/SuperMediaSk/kt5dMH5axtKF/776
-
-#EXTINF:-1, BEIN 2 🇶🇦
-http://localiptv.site:85/SuperMediaSk/kt5dMH5axtKF/777
-
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇱
 http://ua3.iptv.monster/play/1904/350B326FB34F4B8/video.m3u8
 
@@ -50,12 +44,6 @@ http://103.162.136.103:25461/FAH/fah/482
 
 #EXTINF:-1,DIGI Sport 2 HD 🇷🇴
 http://149.62.183.194:9293/play/a0bp
-
-#EXTINF:-1, ELEVEN Sports 1 🇵🇹
-http://localiptv.site:85/SuperMediaSk/kt5dMH5axtKF/1468
-
-#EXTINF:-1, ELEVEN Sports 2 🇵🇹
-http://localiptv.site:85/SuperMediaSk/kt5dMH5axtKF/1469
 
 #EXTINF:-1, ELEVEN Sports 1 🇵🇹
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2531/index.m3u8
@@ -955,15 +943,6 @@ http://181.177.255.253:8000/play/a076/index.m3u8
 
 #EXTINF:-1, Directv Sports + HD 🇦🇷
 http://181.177.255.253:8000/play/a078/index.m3u8
-
-#EXTINF:-1, ELEVEN Sports 1 🇵🇹
-http://localiptv.site:85/SuperMediaSk/kt5dMH5axtKF/1468
-
-#EXTINF:-1, ORANGE SPORT 1 🇷🇴
-http://localiptv.site:85/SuperMediaSk/kt5dMH5axtKF/1733
-
-#EXTINF:-1, ArenaSport 3 🇭🇷
-http://localiptv.site:85/SuperMediaSk/kt5dMH5axtKF/29072
 
 #EXTINF:-1, ArenaSport 3 🇭🇷
 https://kusnadipepenk.github.io/ntn/arns3.m3u8
