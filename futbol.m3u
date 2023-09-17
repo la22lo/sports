@@ -24,12 +24,6 @@ http://ua3.iptv.monster/play/1904/350B326FB34F4B8/video.m3u8
 #EXTINF:-1, BEIN 3 TRUE VISIONS 🇹🇭
 https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 
-#EXTINF:-1,Sports18 🇮🇳
-http://14.102.123.50:4000/play/a048
-
-#EXTINF:-1, ARY SPORTS 🇮🇳
-http://103.162.136.103:25461/FAH/fah/482
-
 #EXTINF:-1,DIGI Sport 2 HD 🇷🇴
 http://149.62.183.194:9293/play/a0bp
 
@@ -38,9 +32,6 @@ http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2531/index.m3u8
 
 #EXTINF:-1, ELEVEN Sports 2 🇵🇹
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2532/index.m3u8
-
-#EXTINF:-1,MACIAS
-https://stream.dlivecdn.com/nifacak851/1693746215/src/live.m3u8
 
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://46.10.218.219:8000/play/a05n
@@ -60,18 +51,6 @@ http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/238118
 #EXTINF:-1,DAZN 2 🇩🇪
 http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/238120
 
-#EXTINF:-1,DAZN 1 🇩🇪
-http://@37.49.230.48:8080/GenIptvLast/cGW7qTY5txZ3DOfz/48355
-
-#EXTINF:-1,DAZN 2 🇩🇪
-http://@37.49.230.48:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2387
-
-#EXTINF:-1, BLUE SPORT 1HD 🇨🇭
-http://@37.49.230.48:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2815
-
-#EXTINF:-1, BLUE SPORT 2HD 🇨🇭
-http://@37.49.230.48:8080/GenIptvLast/cGW7qTY5txZ3DOfz/6187
-
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
 
@@ -83,9 +62,6 @@ http://iptvaruba.com:8080/mitrovic/f261dbc5c4/77769
 
 #EXTINF:-1, SuperSport LaLiga 🇿🇦
 http://iptvaruba.com:8080/mitrovic/f261dbc5c4/194358
-
-#EXTINF:-1, SuperSport LaLiga 🇿🇦
-http://lemon.catchmeifyo.com:8000/459157485718/532119584821/37620
 
 #EXTINF:-1, BEIN 1 TRUE VISIONS 🇹🇭
 https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
@@ -101,9 +77,6 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD5_DIG_MOB/Fallback/JV_S
 
 #EXTINF:-1,S SPORT 1 HD 🇹🇷
 http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/24
-
-#EXTINF:-1,S SPORT 1 HD 🇹🇷
-http://localiptv.site:85/SuperMediaSk/kt5dMH5axtKF/810
 
 #EXTINF:-1,S SPORT 2 HD 🇹🇷
 http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/20085
