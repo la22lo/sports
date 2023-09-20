@@ -762,6 +762,15 @@ http://live.globalflix.net:80/Call-Me/Whatsapp8801971466614/154.m3u8
 #EXTINF:-1,GAZI TV 🇮🇳
 http://203.80.191.3:8089/jamio/gazitv//playlist.m3u8
 
+#EXTINF:-1,ESPN 4 HD 🇧🇷
+http://fadder.eletrinho.shop:2095/live2/espn4/chunks.m3u8
+
+#EXTINF:-1,ESPN 2 HD 🇧🇷
+http://fadder.eletrinho.shop:2095/live2/espn2/chunks.m3u8
+
+#EXTINF:-1, Sportv 3 🇧🇷 
+http://fadder.eletrinho.shop:2095/live2/sportv3/chunks.m3u8
+
 #EXTINF:-1,ESPN HD 🇧🇷
 http://190.90.251.18:8000/play/a009
 
