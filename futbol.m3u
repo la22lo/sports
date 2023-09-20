@@ -24,6 +24,9 @@ http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1, ALKORA LIVE 🇶🇦
 https://mo3ad@live-global-cdn-v02.afreecatv.com:443/live-stm-11/auth_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Zle1w-9A0ahnguC5d2StKGJnEujrchnfMueVecF6qX4MGos-8FX9VfKUQago8U82gwUk6uPLfl89T5m1f_81VJomVW984Thw0sKW7mRPaYe9UNZsmxdl_kwhmTVEJOkI
 
+#EXTINF:-1, TNT SPORTS 1 🇮🇪
+https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/CGJ6dewfpSv-_raJHWdgDaZTYJok2w3L-vLcmA3-H_ob0jjFLxbgx-UiU4QMcbGOCfLju6S-jABDrecpHaM0Dw/non_transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/tw_master_dynamic_highlatency.m3u8?type=live
+
 #EXTINF:-1,CCTV5 🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
