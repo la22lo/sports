@@ -3,53 +3,8 @@
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://iptvaruba.com:8080/mitrovic/f261dbc5c4/16433
 
-#EXTINF:-1, TUDN 🇺🇸
-https://dcs-live-uc1.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/rendition.m3u8?track=video-0&anvsid=m177626908-n9a67649a447c84b4ffdf2ca9d434d104&ts=1695138655&anvtrid=4c15138b74ac39fc88f272421343a554
-
 #EXTINF:-1,NOVA SPORT 3 🇸🇰
 http://185.188.188.235/live/novasport3/playlist.m3u8
-
-#EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
-http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
-
-#EXTINF:-1, MATH 🇷🇺
-https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
-
-#EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
-http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
-
-#EXTINF:-1,МАТЧ Футбол 3 HD 🇷🇺
-http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
-
-#EXTINF:-1, ALKORA LIVE 🇶🇦
-https://mo3ad@live-global-cdn-v02.afreecatv.com:443/live-stm-11/auth_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Zle1w-9A0ahnguC5d2StKGJnEujrchnfMueVecF6qX4MGos-8FX9VfKUQago8U82gwUk6uPLfl89T5m1f_81VJomVW984Thw0sKW7mRPaYe9UNZsmxdl_kwhmTVEJOkI
-
-#EXTINF:-1, TNT SPORTS 1 🇮🇪
-https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/CGJ6dewfpSv-_raJHWdgDaZTYJok2w3L-vLcmA3-H_ob0jjFLxbgx-UiU4QMcbGOCfLju6S-jABDrecpHaM0Dw/non_transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/tw_master_dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1,CCTV5 🇨🇳
-https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-
-#EXTINF:-1, TNT SPORTS 1 🇮🇪
-https://gqgq.fordems.live/live/for-dems1/chunks.m3u8
-
-#EXTINF:-1, TNT SPORTS 1 🇮🇪
-https://spedd2work.realbitsport.com/live/n-1/chunks.m3u8
-
-#EXTINF:-1, TNT SPORTS 1 🇮🇪
-https://Pericopalotes135@spedd2work.realbitsport.com/live/n-5/chunks.m3u8
-
-#EXTINF:-1, TNT SPORTS 3 🇮🇪
-https://gqgq.fordems.live/live/for-dems2/chunks.m3u8
-
-#EXTINF:-1, TNT SPORTS 3 🇮🇪
-https://spedd2work.realbitsport.com/live/n-2/chunks.m3u8
-
-#EXTINF:-1, BEIN 3 🇶🇦
-https://mo3ad@cdn2.livehd720.com/hlsbeinp3/bein/playlist.m3u8
-
-#EXTINF:-1, S MAXIMO 🇿🇦
-https://Pericopalotes135@spedd2work.realbitsport.com/live/n-6/chunks.m3u8
 
 #EXTINF:-1,NOVA SPORT 4 🇸🇰
 http://185.188.188.235/live/novasport4/playlist.m3u8
@@ -898,12 +853,56 @@ https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8
 https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8
 
 
+#EXTINF:-1, TUDN 🇺🇸
+https://dcs-live-uc1.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/rendition.m3u8?track=video-0&anvsid=m177626908-n9a67649a447c84b4ffdf2ca9d434d104&ts=1695138655&anvtrid=4c15138b74ac39fc88f272421343a554
+
+#EXTINF:-1,NOVA SPORT 3 🇸🇰
+http://185.188.188.235/live/novasport3/playlist.m3u8
+
+#EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
+http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 
 #EXTINF:-1, MATH 🇷🇺
 https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1,МАТЧ Футбол 3 HD 🇷🇺
+http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1, ALKORA LIVE 🇶🇦
+https://mo3ad@live-global-cdn-v02.afreecatv.com:443/live-stm-11/auth_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Zle1w-9A0ahnguC5d2StKGJnEujrchnfMueVecF6qX4MGos-8FX9VfKUQago8U82gwUk6uPLfl89T5m1f_81VJomVW984Thw0sKW7mRPaYe9UNZsmxdl_kwhmTVEJOkI
+
+#EXTINF:-1, TNT SPORTS 1 🇮🇪
+https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/CGJ6dewfpSv-_raJHWdgDaZTYJok2w3L-vLcmA3-H_ob0jjFLxbgx-UiU4QMcbGOCfLju6S-jABDrecpHaM0Dw/non_transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/tw_master_dynamic_highlatency.m3u8?type=live
+
+#EXTINF:-1,CCTV5 🇨🇳
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+
+#EXTINF:-1, TNT SPORTS 1 🇮🇪
+https://gqgq.fordems.live/live/for-dems1/chunks.m3u8
+
+#EXTINF:-1, TNT SPORTS 1 🇮🇪
+https://spedd2work.realbitsport.com/live/n-1/chunks.m3u8
+
+#EXTINF:-1, TNT SPORTS 1 🇮🇪
+https://Pericopalotes135@spedd2work.realbitsport.com/live/n-5/chunks.m3u8
+
+#EXTINF:-1, TNT SPORTS 3 🇮🇪
+https://gqgq.fordems.live/live/for-dems2/chunks.m3u8
+
+#EXTINF:-1, TNT SPORTS 3 🇮🇪
+https://spedd2work.realbitsport.com/live/n-2/chunks.m3u8
+
+#EXTINF:-1, BEIN 3 🇶🇦
+https://mo3ad@cdn2.livehd720.com/hlsbeinp3/bein/playlist.m3u8
+
+#EXTINF:-1, S MAXIMO 🇿🇦
+https://Pericopalotes135@spedd2work.realbitsport.com/live/n-6/chunks.m3u8
+
+#EXTINF:-1,NOVA SPORT 4 🇸🇰
+http://185.188.188.235/live/novasport4/playlist.m3u8
 
 #EXTINF:-1, HRT 2 🇭🇷
 http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
@@ -913,6 +912,8 @@ http://37.18.239.37:8000/play/a00g/index.m3u8
 
 #EXTINF:-1,TV MAX 🇵🇦 
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?
+
+
 
 #EXTINF:-1, ARENA SPORT 1 🇭🇷
 http://185.82.108.21:4646/live/ab2/ba2/93.ts
