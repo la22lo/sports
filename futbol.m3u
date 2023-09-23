@@ -378,6 +378,9 @@ https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 #EXTINF:-1, RTSH Sport 🇦🇱
 http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
 
+#EXTINF:-1, RTSH Sport 🇦🇱
+http://stream.bestvideostreaming.is/8798/index.m3u8
+
 #EXTINF:-1,Arena 2 HD 🇷🇸
 http://94.250.2.6:7374/play/a02n/index.m3u8
 
