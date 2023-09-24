@@ -18,6 +18,9 @@ http://185.188.188.235/live/novasport4/playlist.m3u8
 #EXTINF:-1, S LALIGA 🇿🇦
 https://Pericopalotes135@work.ovo-line.com:443/live/n-5/chunks.m3u8
 
+#EXTINF:-1, WCUP
+https://fc.wcup.store/7334.m3u8
+
 #EXTINF:-1, Arena Sport 6 🇭🇷
 http://iptvaruba.com:8080/mitrovic/f261dbc5c4/36922
 
