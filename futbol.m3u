@@ -1,14 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, SEGUNDA DIVISION 
-http://restream.geniptv.com:8080/TomasArana_always/OJBHdsadsa112/8694
-
-#EXTINF:-1, SEGUNDA DIVISION 
-http://iptvaruba.com:8080/mitrovic/f261dbc5c4/297788
-
-#EXTINF:-1, SEGUNDA DIVISION
-http://live1.51jslink.com/live/7408161_638989839d720842cb1e2dcf99b943f8.m3u8?auth_key=1695580742-0-0-97014e08e8d288f568ab93086c50bb0f
-
 #EXTINF:-1,MAX SPORTS 4 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
@@ -1160,6 +1151,12 @@ http://playhispano.org:8080/RolaM/TZRfjE6xGN/215535
 
 #EXTINF:-1,DIRECTV SPORTS Chile 🇨🇱
 http://playhispano.org:8080/RolaM/TZRfjE6xGN/86584
+
+#EXTINF:-1, SEGUNDA DIVISION 
+http://restream.geniptv.com:8080/TomasArana_always/OJBHdsadsa112/8694
+
+#EXTINF:-1, SEGUNDA DIVISION 
+http://iptvaruba.com:8080/mitrovic/f261dbc5c4/297788
 
 #EXTINF:-1, 1
 http://989423234229262413.of529.xyz:80/play/vi0210254/pTHg@YmFYV/262413.ts
