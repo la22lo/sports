@@ -7,7 +7,7 @@ http://restream.geniptv.com:8080/TomasArana_always/OJBHdsadsa112/8694
 http://restream.geniptv.com:8080/TomasArana_always/OJBHdsadsa112/110120
 
 #EXTINF:-1,MAX SPORTS 4 🇧🇬
-http://93.155.227.38:90/m3u8/webmtelsport4_web.m3u8
+http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://iptvaruba.com:8080/mitrovic/f261dbc5c4/16433
@@ -122,9 +122,6 @@ http://iptvaruba.com:8080/mitrovic/f261dbc5c4/16433
 
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://ua3.iptv.monster/play/6878/350B326FB34F4B8/video.m3u8
-
-#EXTINF:-1,MAX SPORTS 4 🇧🇬
-http://93.155.227.38:90/m3u8/webmtelsport4_web.m3u8
 
 #EXTINF:-1,ESPN Brasil 🇧🇷
 http://mn.appserv19.xyz:2095/Xplus-1-VSmETvtBbb/AJjywwOynA/131
@@ -625,16 +622,16 @@ http://149.62.183.194:9293/play/a09b
 http://149.62.183.194:9293/play/a0c4
 
 #EXTINF:-1,MAX SPORTS 1 🇧🇬
-http://93.155.227.38:90/m3u8/webmtelsport_web.m3u8
+http://93.155.227.38:555/m3u8/webmtelsport1_web.m3u8
 
 #EXTINF:-1,MAX SPORTS 2 🇧🇬
-http://93.155.227.38:90/m3u8/webmtelsport2_web.m3u8
+http://93.155.227.38:555/m3u8/webmtelsport2_web.m3u8
 
 #EXTINF:-1,MAX SPORTS 3 🇧🇬
-http://93.155.227.38:90/m3u8/webmtelsport3_web.m3u8
+http://93.155.227.38:555/m3u8/webmtelsport3_web.m3u8
 
 #EXTINF:-1,MAX SPORTS 4 🇧🇬
-http://93.155.227.38:90/m3u8/webmtelsport4_web.m3u8
+http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
 #EXTINF:-1, MAX Sport 1 🇧🇬
 http://83.228.75.166:8000/play/a0be
@@ -725,6 +722,21 @@ http://iptv.prosto.tv:7000/ch109/video.m3u8
 
 #EXTINF:-1, Viju+ Sport 🇷🇺
 https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
+
+#EXTINF:-1 ,VIJU Sport 🇦🇲
+http://31.146.176.94/viasatsport/mpegts
+
+#EXTINF:-1 ,Setanta Sport 1 🇦🇲
+http://31.146.176.94/setanta1/index.m3u8
+
+#EXTINF:-1 ,Setanta Sport 2 🇦🇲
+http://31.146.176.94/setanta2/index.m3u8
+
+#EXTINF:-1 ,Setanta Sport 3 🇦🇲
+http://31.146.176.94/setanta3/mpegts
+
+#EXTINF:-1, Fast sports 🇦🇲
+http://91.196.39.252:4000/play/a01f
 
 #EXTINF:-1,BELARUS 5 🇧🇾
 http://82.209.197.187:8080/udp/239.0.100.9:1234
