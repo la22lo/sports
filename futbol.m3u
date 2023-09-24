@@ -15,6 +15,9 @@ http://185.188.188.235/live/novasport3/playlist.m3u8
 #EXTINF:-1,NOVA SPORT 4 🇸🇰
 http://185.188.188.235/live/novasport4/playlist.m3u8
 
+#EXTINF:-1, S LALIGA 🇿🇦
+https://Pericopalotes135@work.ovo-line.com:443/live/n-5/chunks.m3u8
+
 #EXTINF:-1, Arena Sport 6 🇭🇷
 http://iptvaruba.com:8080/mitrovic/f261dbc5c4/36922
 
@@ -29,18 +32,6 @@ https://r1.livemodo.click/pdg/qlMRTD0lWpoI_VW6Gjp7CA/616521/d4bd325b83337630/236
 
 #EXTINF:-1, NOVA SPORT 1 🇬🇷
 http://restream.geniptv.com:8080/TomasArana_always/OJBHdsadsa112/23146
-
-#EXTINF:-1, VIAPLAY SPORTS 1 🇮🇪
-https://sportsleading.online/live/stream_e2.m3u8
-
-#EXTINF:-1, S LALIGA 🇿🇦
-https://Pericopalotes135@work.ovo-line.com:443/live/n-5/chunks.m3u8
-
-#EXTINF:-1, S LALIGA 🇿🇦
-https://forlive01.fordems.live/live/for-dems5/chunks.m3u8
-
-#EXTINF:-1, S LALIGA 🇿🇦
-https://work.ovo-line.com/live/n-4/playlist.m3u8
 
 #EXTINF:-1, SUPERSPORT LALIGA 🇿🇦
 http://iptvaruba.com:8080/mitrovic/f261dbc5c4/194358
