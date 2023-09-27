@@ -24,9 +24,6 @@ http://restream.geniptv.com:8080/TomasArana_always/OJBHdsadsa112/80963
 #EXTINF:-1, ESPN DEPORTES 🇺🇸
 http://iptvaruba.com:8080/mitrovic/f261dbc5c4/281417
 
-#EXTINF:-1, ESPN DEPORTES 🇺🇸
-https://r1.livemodo.click/pdg/qlMRTD0lWpoI_VW6Gjp7CA/616521/d4bd325b83337630/236818/3139342e39392e3130342e3938/1695507527.m3u8
-
 #EXTINF:-1, NOVA SPORT 1 🇬🇷
 http://restream.geniptv.com:8080/TomasArana_always/OJBHdsadsa112/23146
 
@@ -69,17 +66,11 @@ http://176.119.29.7:8080/play/hls/Nm9sUDMyNHFCTUFjUzBrOlh1OEp5MGpoMldwQjQxRjowMD
 #EXTINF:-1,beIN SPORTS 3 HD 🇶🇦
 http://176.119.29.42:8080/play/hls/Nm9sUDMyNHFCTUFjUzBrOlh1OEp5MGpoMldwQjQxRjowMDFBNzlBNzhDOUQ6UWtWSlRpQlRVRTlTVkZNZ01TQlRSQT09OjIx/9ce5782e-0660-4235-b5b1-83a8e2984426.m3u8
 
-#EXTINF:-1, DZ PLAY
-http://69.164.206.110:8081/s1/cx1/playlist.m3u8
-
 #EXTINF:-1,BEIN SPORT 2 🇫🇷
 http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/2500/index.m3u8
 
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇱
 http://ua3.iptv.monster/play/1904/350B326FB34F4B8/video.m3u8
-
-#EXTINF:-1, BEIN 3 TRUE VISIONS 🇹🇭
-https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1, SPORT18 🇮🇳
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
@@ -102,15 +93,6 @@ http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2532/index.m3u8
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://46.10.218.219:8000/play/a05n
 
-#EXTINF:-1, MAX SPORT 4 🇧🇬
-http://iptvaruba.com:8080/mitrovic/f261dbc5c4/16433
-
-#EXTINF:-1, MAX SPORT 4 🇧🇬
-http://ua3.iptv.monster/play/6878/350B326FB34F4B8/video.m3u8
-
-#EXTINF:-1,ESPN Brasil 🇧🇷
-http://mn.appserv19.xyz:2095/Xplus-1-VSmETvtBbb/AJjywwOynA/131
-
 #EXTINF:-1,ESPN Brasil 🇧🇷
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/19059/index.m3u8
 
@@ -128,15 +110,6 @@ http://84.42.140.147:8890/hdmi
 
 #EXTINF:-1,Spiler2 🇭🇺
 http://149.62.183.194:9293/play/a0c4
-
-#EXTINF:-1, SuperSport LaLiga 🇿🇦
-http://iptvaruba.com:8080/mitrovic/f261dbc5c4/194358
-
-#EXTINF:-1, BEIN 1 TRUE VISIONS 🇹🇭
-https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
-
-#EXTINF:-1, BEIN 3 TRUE VISIONS 🇹🇭
-https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1, Окко Спорт HD 🇷🇺
 http://ru.iptv.monster/play/7337/58A6BB07681962A/video.m3u8
