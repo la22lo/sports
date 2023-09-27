@@ -396,6 +396,33 @@ http://93.155.227.38:90/m3u8/arenasport4.m3u8
 #EXTINF:-1,Arena Sport 5 HD 🇷🇸
 http://93.155.227.38:90/m3u8/arenasport5.m3u8
 
+#EXTINF:-1, Arena Premium 1 HD 🇷🇸
+http://176.104.105.86:1975/play/a0pk
+
+#EXTINF:-1, Arena Premium 2 HD 🇷🇸
+http://176.104.105.86:1975/play/a0pl
+
+#EXTINF:-1, Arena Premium 3 HD 🇷🇸
+http://176.104.105.86:1975/play/a0pm
+
+#EXTINF:-1, Arena Sport 1 HD 🇷🇸
+http://176.104.105.86:1975/play/a0ly
+
+#EXTINF:-1, Arena Sport 2 HD 🇷🇸
+http://176.104.105.86:1975/play/a0mf
+
+#EXTINF:-1, Arena Sport 4 HD 🇷🇸
+http://176.104.105.86:1975/play/a0pn
+
+#EXTINF:-1, Arena Sport 6 HD 🇷🇸
+http://176.104.105.86:1975/play/a0q8
+
+#EXTINF:-1, Arena Sport 7 HD 🇷🇸
+http://176.104.105.86:1975/play/a0oc
+
+#EXTINF:-1, Arena Sport 8 HD 🇷🇸
+http://176.104.105.86:1975/play/a0nw
+
 #EXTINF:-1,Arena 1 🇷🇸
 http://185.244.240.33:8000/play/a01f
 
