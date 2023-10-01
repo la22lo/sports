@@ -6,32 +6,11 @@ http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 #EXTINF:-1,NOVA SPORT 3 🇸🇰
 http://185.188.188.235/live/novasport3/playlist.m3u8
 
-#EXTINF:-1, MAX SPORT 4 🇧🇬
-http://restream.geniptv.com:8080/TomasArana_always/OJBHdsadsa112/75409
-
 #EXTINF:-1,NOVA SPORT 4 🇸🇰
 http://185.188.188.235/live/novasport4/playlist.m3u8
 
-#EXTINF:-1, Arena Sport 6 🇭🇷
-http://restream.geniptv.com:8080/TomasArana_always/OJBHdsadsa112/80963
-
-#EXTINF:-1, NOVA SPORT 1 🇬🇷
-http://restream.geniptv.com:8080/TomasArana_always/OJBHdsadsa112/23146
-
-#EXTINF:-1, SUPERSPORT LALIGA 🇿🇦
-http://restream.geniptv.com:8080/TomasArana_always/OJBHdsadsa112/111461
-
-#EXTINF:-1, SPILER 2 🇭🇺
-http://restream.geniptv.com:8080/TomasArana_always/OJBHdsadsa112/78577
-
 #EXTINF:-1, SPILER 2 🇭🇺
 http://149.62.183.194:9293/play/a0c8
-
-#EXTINF:-1, NOW SPORTS 2 🇭🇰
-http://restream.geniptv.com:8080/TomasArana_always/OJBHdsadsa112/112206
-
-#EXTINF:-1, PREMIERE SPORT 1 🇮🇪
-http://restream.geniptv.com:8080/TomasArana_always/OJBHdsadsa112/1808
 
 #EXTINF:-1, Setanta Sports 2 HD 🇷🇺
 https://tv.movielab.pro/943/video.m3u8
