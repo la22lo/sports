@@ -1,29 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, SEGUNDA
-http://proiptvdigic.com:8080/nacho65543/ZtQMBNtvykAK/219987
-
-#EXTINF:-1, SEGUNDA
-http://proiptvdigic.com:8080/nacho65543/ZtQMBNtvykAK/219988
-
-#EXTINF:-1, SEGUNDA
-http://clubberprosstl.tech:8080/12/12/272481
-
-#EXTINF:-1, MATH 🇷🇺
-https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
-
-#EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
-http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
-
-#EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
-http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
-
-#EXTINF:-1,МАТЧ Футбол 3 HD 🇷🇺
-http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
-
-#EXTINF:-1,ELEVEN SPORTS 1 HD 🇵🇹
-http://cdn.rtyh.xyz:80/IanSomma/Somma1982/77961
-
 #EXTINF:-1,MAX SPORTS 4 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
@@ -1154,6 +1130,15 @@ http://proiptvdigic.com:8080/nacho65543/ZtQMBNtvykAK/219985
 
 #EXTINF:-1,SEGUNDA
 http://proiptvdigic.com:8080/nacho65543/ZtQMBNtvykAK/219986
+
+#EXTINF:-1, SEGUNDA
+http://proiptvdigic.com:8080/nacho65543/ZtQMBNtvykAK/219987
+
+#EXTINF:-1, SEGUNDA
+http://proiptvdigic.com:8080/nacho65543/ZtQMBNtvykAK/219988
+
+#EXTINF:-1, SEGUNDA
+http://clubberprosstl.tech:8080/12/12/272481
 
 #EXTINF:-1, 1
 http://989423234229262413.of529.xyz:80/play/vi0210254/pTHg@YmFYV/262413.ts
