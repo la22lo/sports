@@ -15,6 +15,9 @@ http://149.62.183.194:9293/play/a0c8
 #EXTINF:-1, ESPN DEPORTES 🇺🇸
 https://mo3ad@storage.googleapis.com:443/thizovoreal3/mux_video_ts/index-1.m3u8
 
+#EXTINF:-1, ESPN DEPORTES 🇺🇸
+https://mo3ad@storage.googleapis.com/thizovoreal3/selector.m3u8
+
 #EXTINF:-1, PERSIANA SPORTS 🇶🇦
 https://mo3ad@af.ayas.ir/hls2/persiana.m3u8
 
