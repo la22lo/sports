@@ -30,6 +30,12 @@ http://185.188.188.235/live/novasport3/playlist.m3u8
 #EXTINF:-1, SPILER 2 🇭🇺
 http://149.62.183.194:9293/play/a0c8
 
+#EXTINF:-1, Premier sport 1 🇸🇰
+http://185.188.188.235/live/premiersport/playlist.m3u8
+
+#EXTINF:-1, Premier sport 2 🇸🇰
+http://185.188.188.235/live/premiersport2/playlist.m3u8
+
 #EXTINF:-1, ESPN DEPORTES 🇺🇸
 https://mo3ad@storage.googleapis.com:443/thizovoreal3/mux_video_ts/index-1.m3u8
 
