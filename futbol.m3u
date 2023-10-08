@@ -1,23 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,SEGUNDA 1
-http://clubberprosstl.tech:8080/12/12/272480
-
-#EXTINF:-1,SEGUNDA 1 
-http://clubberprosstl.tech:8080/12/12/204813
-
-#EXTINF:-1,SEGUNDA 1
-http://blackpanther.life:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/402
-
-#EXTINF:-1,SEGUNDA 1
-http://blackpanther.life:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/403
-
-#EXTINF:-1,SEGUNDA 1
-http://proiptvdigic.com:8080/nacho65543/ZtQMBNtvykAK/219985
-
-#EXTINF:-1,SEGUNDA 1
-http://proiptvdigic.com:8080/nacho65543/ZtQMBNtvykAK/219986
-
 #EXTINF:-1,MAX SPORTS 4 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
@@ -44,6 +26,12 @@ https://mo3ad@storage.googleapis.com/thizovoreal3/selector.m3u8
 
 #EXTINF:-1, PERSIANA SPORTS 🇶🇦
 https://mo3ad@af.ayas.ir/hls2/persiana.m3u8
+
+#EXTINF:-1,SEGUNDA 1
+http://clubberprosstl.tech:8080/12/12/272480
+
+#EXTINF:-1,SEGUNDA 1 
+http://clubberprosstl.tech:8080/12/12/204813
 
 #EXTINF:-1, Setanta Sports 2 HD 🇷🇺
 https://tv.movielab.pro/943/video.m3u8
