@@ -52,6 +52,9 @@ http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/2500/index.m3u8
 http://ua3.iptv.monster/play/1904/350B326FB34F4B8/video.m3u8
 
 #EXTINF:-1, SPORT18 🇮🇳
+http://103.180.112.66:8087/tsports/tracks-v1/index.fmp4.m3u8?token=d7a17d374ca3f15df0a5dbbd1fe7647a203671e6-913a3bd34fd9640bd3342934356356ba-1697896730-1697885930
+
+#EXTINF:-1, SPORT18 🇮🇳
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1,DIGI Sport 2 HD 🇷🇴
