@@ -12,6 +12,12 @@ http://185.188.188.235/live/novasport4/playlist.m3u8
 #EXTINF:-1,NOVA SPORT 3 🇸🇰
 http://185.188.188.235/live/novasport3/playlist.m3u8
 
+#EXTINF:-1,beIN SPORTS 3 HD 🇶🇦
+http://vzagut73.megogo.xyz/iptv/5WS4WSUFCCHGQF/6124/index.m3u8
+
+#EXTINF:-1,Spiler2 🇭🇺
+http://149.62.183.194:9293/play/a0c4
+
 #EXTINF:-1, SPILER 2 🇭🇺
 http://149.62.183.194:9293/play/a0c8
 
@@ -33,14 +39,14 @@ http://185.188.188.235/live/premiersport/playlist.m3u8
 #EXTINF:-1, Premier sport 2 🇸🇰
 http://185.188.188.235/live/premiersport2/playlist.m3u8
 
-#EXTINF:-1,beIN SPORTS 3 HD 🇶🇦
-http://vzagut73.megogo.xyz/iptv/5WS4WSUFCCHGQF/6124/index.m3u8
-
-#EXTINF:-1, PERSIANA SPORTS 🇶🇦
-https://mo3ad@af.ayas.ir/hls2/persiana.m3u8
-
 #EXTINF:-1, Setanta Sports 2 HD 🇷🇺
 https://tv.movielab.pro/943/video.m3u8
+
+#EXTINF:-1, ELEVEN Sports 1 🇵🇹
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2531/index.m3u8
+
+#EXTINF:-1, ELEVEN Sports 2 🇵🇹
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2532/index.m3u8
 
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇱
 http://ua3.iptv.monster/play/1904/350B326FB34F4B8/video.m3u8
@@ -51,29 +57,14 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/in
 #EXTINF:-1,DIGI Sport 2 HD 🇷🇴
 http://149.62.183.194:9293/play/a0bp
 
-#EXTINF:-1, ELEVEN Sports 1 🇵🇹
-http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2531/index.m3u8
-
-#EXTINF:-1, ELEVEN Sports 2 🇵🇹
-http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2532/index.m3u8
-
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://46.10.218.219:8000/play/a05n
 
 #EXTINF:-1,ESPN Brasil 🇧🇷
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/19059/index.m3u8
 
-#EXTINF:-1,DAZN 1 🇩🇪
-http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/238118
-
-#EXTINF:-1,DAZN 2 🇩🇪
-http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/238120
-
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
-
-#EXTINF:-1,Spiler2 🇭🇺
-http://149.62.183.194:9293/play/a0c4
 
 #EXTINF:-1, MACIAS 🇪🇸
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD5_DIG_MOB/Fallback/JV_SportsHD5_DIG_MOB-audio_98835_eng=98800-video=1173600.m3u8
