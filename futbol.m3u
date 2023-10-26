@@ -1103,3 +1103,62 @@ http://45.5.151.151:8000/play/a02e/index.m3u8
 
 #EXTINF:-1,ESPN Premium HD 🇦🇷
 http://45.5.151.151:8000/play/a001/index.m3u8
+
+#EXTINF:-1,--109.SPORT 1
+http://185.188.248.2:2008/play/a039
+#EXTINF:-1,--110.Sport 2
+http://185.188.248.2:2008/play/a03a
+#EXTINF:-1,--111.Sport 3
+http://185.188.248.2:2008/play/artsport3
+#EXTINF:-1,--112.Sport 4
+http://185.188.248.2:2008/play/a07z
+#EXTINF:-1,--113.Sport 5
+http://185.188.248.2:2008/play/a080
+#EXTINF:-1,--114.Sport 6
+http://185.188.248.2:2008/play/a081
+#EXTINF:-1,--115.K SPORT 1
+http://185.188.248.2:2008/play/a091
+#EXTINF:-1,--116.K SPORT 2
+http://185.188.248.2:2008/play/a092
+#EXTINF:-1,--117.K SPORT 3
+http://185.188.248.2:2008/play/a093
+#EXTINF:-1,--118.K SPORT 4
+http://185.188.248.2:2008/play/a094
+#EXTINF:-1,--119.K SPORT 5
+http://185.188.248.2:2008/play/a095
+#EXTINF:-1,--120.SUPER SPORT 1
+http://185.188.248.2:2008/play/a096
+#EXTINF:-1,--121.SUPER SPORT 2
+http://185.188.248.2:2008/play/a097
+#EXTINF:-1,--122.SUPER SPORT 3
+http://185.188.248.2:2008/play/a098
+#EXTINF:-1,--123.SUPER SPORT 4
+http://185.188.248.2:2008/play/a099
+#EXTINF:-1,--124. SUPER SPORT 5
+http://185.188.248.2:2008/play/a09a
+#EXTINF:-1,--125.SUPER SPORT 6
+http://185.188.248.2:2008/play/a09b
+#EXTINF:-1,--126.SUPER SPORT 7
+http://185.188.248.2:2008/play/a09c
+#EXTINF:-1,--127.SUPERSPORT KOSOVA 1
+http://185.188.248.2:2008/play/a09d
+#EXTINF:-1,--128.SUPERSPORT KOSOVA 2
+http://185.188.248.2:2008/play/a09e
+#EXTINF:-1,--129.SUPERSPORT KOSOVA 3
+http://185.188.248.2:2008/play/a09f
+#EXTINF:-1,--130.Arena Sport Premium 1
+http://185.188.248.2:2008/play/a082
+#EXTINF:-1,--131.Arena Sport Premium 2
+http://185.188.248.2:2008/play/a083
+#EXTINF:-1,--132.Arena Sport Premium 3
+http://185.188.248.2:2008/play/a084
+#EXTINF:-1,--133.Arena Sport
+http://185.188.248.2:2008/play/a03c
+#EXTINF:-1,--134.Arena Sport 2
+http://185.188.248.2:2008/play/a03d
+#EXTINF:-1,--135.Arena Sport 3
+http://185.188.248.2:2008/play/a03e
+#EXTINF:-1,--136.Arena Sport 4
+http://185.188.248.2:2008/play/a03f
+#EXTINF:-1,--137.Arena Sport 5
+http://185.188.248.2:2008/play/a03g
