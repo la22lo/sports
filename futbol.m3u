@@ -18,6 +18,9 @@ http://185.188.188.235/live/novasport3/playlist.m3u8
 #EXTINF:-1, SPILER 2 🇭🇺
 http://149.62.183.194:9293/play/a0c8
 
+#EXTINF:-1,S SPORT 1 HD 🇹🇷
+http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/24
+
 #EXTINF:-1, Premier sport 1 🇸🇰
 http://185.188.188.235/live/premiersport/playlist.m3u8
 
@@ -83,6 +86,9 @@ https://tv.movielab.pro/942/video.m3u8
 
 #EXTINF:-1, Setanta Sports 2 HD 🇷🇺
 https://tv.movielab.pro/943/video.m3u8
+
+#EXTINF:-1,Setanta Ukraine + HD 🇺🇦
+http://194.33.181.28:9010/udp/238.255.51.33:1234
 
 #EXTINF:-1,Беларусь 5 🇧🇾
 http://82.209.197.187:8080/udp/239.0.100.9:1234
@@ -1076,12 +1082,6 @@ http://proiptvdigic.com:8080/nacho65543/ZtQMBNtvykAK/219988
 
 #EXTINF:-1, SEGUNDA
 http://clubberprosstl.tech:8080/12/12/272481
-
-#EXTINF:-1,Sport4_h264 
-http://194.33.181.28:9010/udp/238.255.51.13:1234
-
-#EXTINF:-1,Setanta Ukraine + HD 
-http://194.33.181.28:9010/udp/238.255.51.33:1234
 
 #EXTINF:-1, 1
 http://989423234229262413.of529.xyz:80/play/vi0210254/pTHg@YmFYV/262413.ts
