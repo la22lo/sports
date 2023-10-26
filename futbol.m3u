@@ -210,15 +210,6 @@ http://15.204.217.195/SPORTTV1/index.m3u8
 #EXTINF:-1, Sport TV2 🇵🇹
 http://15.204.217.195/SPORTTV2/index.m3u8
 
-#EXTINF:-1, MAX SPORT 4 🇧🇬
-http://46.10.218.219:8000/play/a05n
-
-#EXTINF:-1,Setanta Ukraine + 🇺🇦
-http://95.67.12.89:9013
-
-#EXTINF:-1,ESPN extra 🇦🇷
-http://45.228.232.219:16000/play/a0me/index.m3u8
-
 #EXTINF:-1,TV MAX 🇵🇦 
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?
 
