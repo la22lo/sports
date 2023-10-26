@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, TNT
-http://89.187.167.93:80/live.ts?channelId=1137&deviceUser=alex1234&devicePass=alex1234&uid=21890
-
 #EXTINF:-1,Arena Sport 3 HD 🇷🇸
 http://93.155.227.38:90/m3u8/arenasport3.m3u8
 
