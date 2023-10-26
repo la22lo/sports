@@ -138,6 +138,9 @@ http://91.237.170.206:43210/channel/n7722e17b/index.m3u8?q=1696530240920
 #EXTINF:-1,SPORT 2 🇨🇿
 http://91.237.170.206:43210/channel/n7722e17a/index.m3u8?q=1696530240920
 
+#EXTINF:-1, TNT SPORTS 1 🇮🇪 
+https://chop.fordems.live/hls/for-1.m3u8
+
 #EXTINF:-1, TNT SPORTS 4 🇮🇪 
 https://chop.fordems.live/hls/for-2.m3u8
 
