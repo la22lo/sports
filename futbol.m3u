@@ -114,6 +114,12 @@ https://stream.ayas.ir/hls2/bein4.m3u8
 #EXTINF:-1,BEIN SPORT LIVE 🇶🇦
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
 
+#EXTINF:-1, NOVA SPORT 1 🇨🇿
+http://91.237.170.206:43210/channel/2a497e91/index.m3u8?q=1696530240920
+
+#EXTINF:-1,SPORT 1 🇨🇿
+http://91.237.170.206:43210/channel/n7722e17b/index.m3u8?q=1696530240920
+
 #EXTINF:-1, TV3 🇪🇸
 https://Pericopalotes135@directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 
