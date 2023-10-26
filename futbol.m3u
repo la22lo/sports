@@ -438,24 +438,6 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1, Qirguistán sport 🇰🇬
 http://89.254.128.5:22280/qsport/index.m3u8
 
-#EXTINF:-1, ELEVEN SPORT 1 🇵🇱
-http://ua3.iptv.monster/play/1904/350B326FB34F4B8/video.m3u8
-
-#EXTINF:-1, ELEVEN SPORT 2 🇵🇱
-http://ua3.iptv.monster/play/1903/350B326FB34F4B8/video.m3u8
-
-#EXTINF:-1, CANAL+ SPORTS 2 🇵🇱
-http://ua3.iptv.monster/play/1901/350B326FB34F4B8/video.m3u8
-
-#EXTINF:-1, TVP SPORTS 🇵🇱
-http://ua3.iptv.monster/play/1910/350B326FB34F4B8/video.m3u8
-
-#EXTINF:-1, Eleven Sports 1 HD PL 🇵🇱
-http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2518/index.m3u8
-
-#EXTINF:-1, Eleven Sports 2 HD PL 🇵🇱
-http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2517/index.m3u8
-
 #EXTINF:-1, POLSAT SPORT NEWS HD PL 🇵🇱
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7303/index.m3u8
 
@@ -471,32 +453,11 @@ http://83.149.118.170:8080/polsat_sport/manifest.m3u8
 #EXTINF:-1, POLSAT SPORT EXTRA HD PL 🇵🇱
 http://83.149.118.170:8080/polsat_sport_extra/manifest.m3u8
 
-#EXTINF:-1, ZIGGO SELECT HD 🇳🇱
-http://@37.49.230.48:8080/GenIptvLast/cGW7qTY5txZ3DOfz/851
-
-#EXTINF:-1, ZIGGO VOETBAL HD 🇳🇱
-http://@37.49.230.48:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2502
-
 #EXTINF:-1,TV2 Sport 2 HD 🇳🇴
 http://195.222.7.26:7011/play/a02j
 
 #EXTINF:-1, SPORT LIVE 🇩🇰
 http://195.222.7.26:7011/play/a00t
-
-#EXTINF:-1, TV 2 Sport 2 HD 🇳🇴
-http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/2540/index.m3u8
-
-#EXTINF:-1, C More Sport 1 HD 🇫🇮
-http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/2541/index.m3u8
-
-#EXTINF:-1, C More Sport HD 🇸🇪
-http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/2515/index.m3u8
-
-#EXTINF:-1, TRUE PREMIER HD 1 🇹🇭
-https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
-
-#EXTINF:-1, TRUE PREMIER HD 3 🇹🇭
-https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
 
 #EXTINF:-1,CCTV5 🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
@@ -507,50 +468,11 @@ https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8?|referer:https://olevod.tv/
 #EXTINF:-1,CCTV5 + 🇨🇳
 https://live.olelive.com:6443/live/CCTV5PHD/hls.m3u8?|referer:https://olevod.tv/
 
-#EXTINF:-1,VTV6 🇻🇳
-http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
-
 #EXTINF:-1, BTV 5 🇻🇳
 http://171.238.181.52:18080/194.m3u8
 
 #EXTINF:-1,SPORTS TV 🇹🇷
-https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-
-#EXTINF:-1,SPORTS TV 🇹🇷
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-
-#EXTINF:-1, Geo Super 🇮🇳
-http://103.162.136.103:25461/live/FAH/fah/98.m3u8
-
-#EXTINF:-1, T SPORTS 🇮🇳
-http://203.80.191.3:8089/jamio/tsportsbd//playlist.m3u8
-
-#EXTINF:-1, TNT SPORTS 3 🇮🇳
-https://live.rftv.wtf/test/1616/index.m3u8
-
-#EXTINF:-1, PTV SPORTS 🇮🇳
-http://live.globalflix.net:80/Call-Me/Whatsapp8801971466614/154.m3u8
-
-#EXTINF:-1,GAZI TV 🇮🇳
-http://203.80.191.3:8089/jamio/gazitv//playlist.m3u8
-
-#EXTINF:-1,ESPN 4 HD 🇧🇷
-http://fadder.eletrinho.shop:2095/live2/espn4/chunks.m3u8
-
-#EXTINF:-1,ESPN 2 HD 🇧🇷
-http://fadder.eletrinho.shop:2095/live2/espn2/chunks.m3u8
-
-#EXTINF:-1, Sportv 3 🇧🇷 
-http://fadder.eletrinho.shop:2095/live2/sportv3/chunks.m3u8
-
-#EXTINF:-1,ESPN HD 🇧🇷
-http://190.90.251.18:8000/play/a009
-
-#EXTINF:-1,ESPN 2 HD 🇧🇷
-http://190.90.251.18:8000/play/a003
-
-#EXTINF:-1,ESPN 3 HD 🇧🇷
-http://190.90.251.18:8000/play/a004
 
 #EXTINF:-1, TNT SPORTS 🇧🇷
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
