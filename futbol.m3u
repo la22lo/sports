@@ -1005,14 +1005,6 @@ https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/60580
 
 
 
-#EXTINF:-1, ARENA SPORT 1 🇭🇷
-http://185.82.108.21:4646/live/ab2/ba2/93.ts
-
-#EXTINF:-1, ARENA SPORT 2 🇭🇷
-http://185.82.108.21:4646/live/ab2/ba2/94.ts
-
-#EXTINF:-1,Arena Sport 4 🇧🇦
-http://94.250.2.6:7374/play/a012/index.m3u8
 
 #EXTINF:-1, ARENA SPORT 1 🇭🇷
 http://80.252.37.194:5000/udp/233.233.233.3:12000
@@ -1023,53 +1015,8 @@ http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/7263/index.m3u8
 #EXTINF:-1, ARENA SPORT 5 🇷🇸
 http://80.252.37.194:5000/udp/233.233.233.7:12000
 
-#EXTINF:-1, DirecTV Sports 🇦🇷
-http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/15614
-
-#EXTINF:-1, Directv Sports HD 🇦🇷
-http://181.177.255.253:8000/play/a075/index.m3u8
-
-#EXTINF:-1, Directv Sports 2 HD 🇦🇷
-http://181.177.255.253:8000/play/a076/index.m3u8
-
-#EXTINF:-1, Directv Sports + HD 🇦🇷
-http://181.177.255.253:8000/play/a078/index.m3u8
-
-#EXTINF:-1, ArenaSport 3 🇭🇷
-https://kusnadipepenk.github.io/ntn/arns3.m3u8
-
-#EXTINF:-1, ELEVEN Sports 1 🇵🇹
-https://kusnadipepenk.github.io/ntn/ele1.m3u8
-
 #EXTINF:-1, ELEVEN Sports 1 🇵🇹
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2531/index.m3u8
-
-#EXTINF:-1, ELEVEN Sports 1 🇵🇹
-http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/2531/index.m3u8
-
-#EXTINF:-1, ELEVEN Sports 1 🇵🇹
-http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/19158/index.m3u8
-
-#EXTINF:-1, ArenaSport 3 🇭🇷
-http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/7331/index.m3u8
-
-#EXTINF:-1, ArenaSport 3 🇭🇷
-http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/7265/index.m3u8
-
-#EXTINF:-1,DIRECTV SPORTS 🇦🇷
-http://playhispano.org:8080/RolaM/TZRfjE6xGN/79660
-
-#EXTINF:-1,DIRECTV SPORTS Ecuador 🇪🇨
-http://playhispano.org:8080/RolaM/TZRfjE6xGN/131149
-
-#EXTINF:-1,DIRECTV SPORTS Colombia 🇨🇴
-http://playhispano.org:8080/RolaM/TZRfjE6xGN/125780
-
-#EXTINF:-1,DIRECTV SPORTS Uruguay 🇺🇾
-http://playhispano.org:8080/RolaM/TZRfjE6xGN/215535
-
-#EXTINF:-1,DIRECTV SPORTS Chile 🇨🇱
-http://playhispano.org:8080/RolaM/TZRfjE6xGN/86584
 
 #EXTINF:-1,SEGUNDA
 http://proiptvdigic.com:8080/nacho65543/ZtQMBNtvykAK/218261
