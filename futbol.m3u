@@ -156,29 +156,14 @@ http://170.254.172.10:8000/play/a07z/index.m3u8
 #EXTINF:-1, ESPN 2 HD 🇦🇷
 http://170.254.172.10:8000/play/a081/index.m3u8
 
-#EXTINF:-1, ESPN 3 HD 🇦🇷
-http://170.254.172.10:8000/play/a080/index.m3u8
-
 #EXTINF:-1, ESPN 4 HD 🇦🇷
 http://170.254.172.10:8000/play/a07a/index.m3u8
-
-#EXTINF:-1, ESPN EXTRA 🇦🇷
-http://170.254.172.10:8000/play/a03r/index.m3u8
-
-#EXTINF:-1,ESPN HD 🇦🇷
-http://190.90.251.18:8000/play/a009
 
 #EXTINF:-1,ESPN HD 🇦🇷
 http://190.61.43.117:45000/play/a01l
 
 #EXTINF:-1,ESPN 2 HD 🇦🇷
-http://190.90.251.18:8000/play/a003
-
-#EXTINF:-1,ESPN 2 HD 🇦🇷
 http://190.61.43.117:45000/play/a053
-
-#EXTINF:-1,ESPN 3 HD 🇦🇷
-http://190.90.251.18:8000/play/a004
 
 #EXTINF:-1,ESPN 3 HD 🇦🇷
 http://190.61.43.117:45000/play/a051
@@ -198,44 +183,26 @@ http://190.61.43.117:45000/play/a01g
 #EXTINF:-1,Fox Sports 3 🇦🇷
 http://190.61.43.117:45000/play/a060
 
-#EXTINF:-1, TNT SPORTS HD 🇦🇷
-http://200.114.68.133:8000/play/a0v5/index.m3u8
-
-#EXTINF:-1, SPORT 1
-http://84.22.33.218/ArTsPoRt.1.Uc/index.m3u8
-
 #EXTINF:-1,SPORTS 18 🇮🇳
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
-
-#EXTINF:-1, T SPORT 🇮🇳
-https://live.tsports.com/live/tsports_live_720/index.m3u8
 
 #EXTINF:-1, TV1 🇪🇸
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
 
-#EXTINF:-1, SPORT TV + 🇵🇹
-http://almanya888.com:80/rahmisaylam35/x19112019x/155455
-
 #EXTINF:-1, SPORT TV 1 🇵🇹
-http://almanya888.com:80/rahmisaylam35/x19112019x/155456
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2525/index.m3u8
 
 #EXTINF:-1, SPORT TV 2 🇵🇹
-http://almanya888.com:80/rahmisaylam35/x19112019x/155457
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2526/index.m3u8
 
 #EXTINF:-1, SPORT TV 3 🇵🇹
-http://almanya888.com:80/rahmisaylam35/x19112019x/155458
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2527/index.m3u8
 
 #EXTINF:-1, SPORT TV 4 🇵🇹
-http://almanya888.com:80/rahmisaylam35/x19112019x/155459
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2528/index.m3u8
 
 #EXTINF:-1, SPORT TV 5 🇵🇹
-http://almanya888.com:80/rahmisaylam35/x19112019x/155460
-
-#EXTINF:-1, SPORT TV 6 🇵🇹
-http://almanya888.com:80/rahmisaylam35/x19112019x/155461
-
-#EXTINF:-1, SPORT TV NBA 🇵🇹
-http://almanya888.com:80/rahmisaylam35/x19112019x/155462
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2529/index.m3u8
 
 #EXTINF:-1, Sport TV1 🇵🇹
 http://15.204.217.195/SPORTTV1/index.m3u8
