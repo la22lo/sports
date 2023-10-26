@@ -1095,35 +1095,11 @@ http://989423234229165392.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165392.ts
 #EXTINF:-1, 4
 http://989423234229165385.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165385.ts
 
-#EXTINF:-1,ESPN
+#EXTINF:-1,ESPN 🇦🇷
 http://45.5.151.151:8000/play/a0bq/index.m3u8
-#EXTINF:-1,ESPN
-http://45.5.151.151:8000/play/a0b3/index.m3u8
-#EXTINF:-1,ESPN +
-http://45.5.151.151:8000/play/a070/index.m3u8
-#EXTINF:-1,ESPN 2
-http://45.5.151.151:8000/play/a0bp/index.m3u8
-#EXTINF:-1,ESPN 2
-http://45.5.151.151:8000/play/a0b5/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://45.5.151.151:8000/play/a0cb/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://45.5.151.151:8000/play/a0b4/index.m3u8
-#EXTINF:-1,ESPN 2 VK
-http://45.5.151.151:8000/play/a01r/index.m3u8
-#EXTINF:-1,ESPN 3
+
+#EXTINF:-1,ESPN 3 🇦🇷
 http://45.5.151.151:8000/play/a02e/index.m3u8
-#EXTINF:-1,ESPN 3
-http://45.5.151.151:8000/play/a0br/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://45.5.151.151:8000/play/a0cd/index.m3u8
-#EXTINF:-1,ESPN 4
-http://45.5.151.151:8000/play/a0ba/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://45.5.151.151:8000/play/a0b9/index.m3u8
-#EXTINF:-1,ESPN HD
-http://45.5.151.151:8000/play/a0cc/index.m3u8
-#EXTINF:-1,ESPN HD
-http://45.5.151.151:8000/play/a0b2/index.m3u8
-#EXTINF:-1,ESPN Premium HD
+
+#EXTINF:-1,ESPN Premium HD 🇦🇷
 http://45.5.151.151:8000/play/a001/index.m3u8
