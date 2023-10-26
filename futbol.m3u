@@ -174,6 +174,15 @@ http://190.61.43.117:45000/play/a06w
 #EXTINF:-1,ESPN EXTRA HD 🇦🇷
 http://190.61.43.117:45000/play/a01v
 
+#EXTINF:-1,ESPN 🇦🇷
+http://45.5.151.151:8000/play/a0bq/index.m3u8
+
+#EXTINF:-1,ESPN 3 🇦🇷
+http://45.5.151.151:8000/play/a02e/index.m3u8
+
+#EXTINF:-1,ESPN Premium HD 🇦🇷
+http://45.5.151.151:8000/play/a001/index.m3u8
+
 #EXTINF:-1,Fox Sports 1 HD 🇦🇷
 http://190.108.85.20:9999/play/a011
 
@@ -671,12 +680,3 @@ http://989423234229165392.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165392.ts
 
 #EXTINF:-1, 4
 http://989423234229165385.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165385.ts
-
-#EXTINF:-1,ESPN 🇦🇷
-http://45.5.151.151:8000/play/a0bq/index.m3u8
-
-#EXTINF:-1,ESPN 3 🇦🇷
-http://45.5.151.151:8000/play/a02e/index.m3u8
-
-#EXTINF:-1,ESPN Premium HD 🇦🇷
-http://45.5.151.151:8000/play/a001/index.m3u8
