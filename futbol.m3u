@@ -99,9 +99,6 @@ http://95.216.6.244:8000/play/a001/index.m3u8
 #EXTINF:-1,Setanta_Sports_2_HD
 http://95.216.6.244:8000/play/a003/index.m3u8
 
-#EXTINF:-1,Setanta_Sports_Eurazia
-http://95.216.6.244:8000/play/a002/index.m3u8
-
 #EXTINF:-1,Setanta_Sports_Ukraine
 http://95.216.6.244:8000/play/a005/index.m3u8
 
