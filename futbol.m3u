@@ -771,6 +771,20 @@ http://93.155.227.38:90/m3u8/arenasport3.m3u8
 #EXTINF:-1, ELEVEN Sports 6 🇵🇹
 http://b1g.me:80/William123/William123/611785
 
+
+#EXTINF:-1,Eleven Sports 1 4K
+http://45.65.112.49:8000/play/a0bt
+#EXTINF:-1,Eleven Sports 1 HD
+http://45.65.112.49:8000/play/a05d
+#EXTINF:-1,Eleven Sports 2 HD
+http://45.65.112.49:8000/play/a052
+#EXTINF:-1,Eleven Sports 3 HD
+http://45.65.112.49:8000/play/a05b
+#EXTINF:-1,Eleven Sports 3 HD
+http://45.65.112.49:8000/play/a04r
+#EXTINF:-1,ELEVEN SPORTS 4 HD
+http://45.65.112.49:8000/play/a02s
+
 #EXTINF:-1, 1
 http://989423234229262413.of529.xyz:80/play/vi0210254/pTHg@YmFYV/262413.ts
 
