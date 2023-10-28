@@ -672,6 +672,43 @@ http://93.155.227.38:90/m3u8/arenasport3.m3u8
 #EXTINF:-1, ELEVEN Sports 6 🇵🇹
 http://b1g.me:80/William123/William123/611785
 
+#EXTINF:-1,Novasports 24 HD
+http://95.214.235.32:557/play/a001
+#EXTINF:-1,Novasports Premier League
+http://95.214.235.32:557/play/a002
+#EXTINF:-1,Novasports Prime HD
+http://95.214.235.32:557/play/a003
+#EXTINF:-1,Novasports Start HD
+http://95.214.235.32:557/play/a004
+#EXTINF:-1,Novasports1HD
+http://95.214.235.32:557/play/a005
+#EXTINF:-1,Novasports2HD
+http://95.214.235.32:557/play/a006
+#EXTINF:-1,Novasports3HD
+http://95.214.235.32:557/play/a007
+#EXTINF:-1,Novasports4HD
+http://95.214.235.32:557/play/a008
+#EXTINF:-1,Novasports5HD
+http://95.214.235.32:557/play/a009
+#EXTINF:-1,Novasports6HD
+http://95.214.235.32:557/play/a00a
+#EXTINF:-1,Novasportsextra1HD
+http://95.214.235.32:557/play/a00b
+#EXTINF:-1,Novasportsextra2HD
+http://95.214.235.32:557/play/a00c
+#EXTINF:-1,Novasportsextra3HD
+http://95.214.235.32:557/play/a00d
+#EXTINF:-1,Novasportsextra4HD
+http://95.214.235.32:557/play/a00e
+#EXTINF:-1,Novastars
+http://95.214.235.32:557/play/stars
+#EXTINF:-1,Primetel1
+http://95.214.235.32:557/play/primetel1
+#EXTINF:-1,Primetel2
+http://95.214.235.32:557/play/primetel2
+#EXTINF:-1,Primetel3
+http://95.214.235.32:557/play/primetel3
+
 #EXTINF:-1, 1
 http://989423234229262413.of529.xyz:80/play/vi0210254/pTHg@YmFYV/262413.ts
 
