@@ -498,6 +498,12 @@ http://45.65.112.49:8000/play/a0ku
 #EXTINF:-1,CANAL+ SPORT HD 🇵🇱
 http://45.65.112.49:8000/play/a03a
 
+#EXTINF:-1,Polsat Sport Premium 1 🇵🇱
+http://45.65.112.49:8000/play/a0br
+
+#EXTINF:-1,Polsat Sport Premium 2 🇵🇱
+http://45.65.112.49:8000/play/a0bs
+
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
 
