@@ -15,6 +15,12 @@ http://95.214.235.32:557/play/a005
 #EXTINF:-1,Eleven 1 HD 🇵🇹
 http://92.114.85.99:8000/play/a00n
 
+#EXTINF:-1,CANAL+ PREMIUM HD 🇵🇱
+http://45.65.112.49:8000/play/a03h
+
+#EXTINF:-1,Eleven Sports 1 HD 🇵🇱
+http://45.65.112.49:8000/play/a05d
+
 #EXTINF:-1,NOVA SPORT 4 🇸🇰
 http://185.188.188.235/live/novasport4/playlist.m3u8
 
@@ -456,6 +462,42 @@ http://95.214.235.32:557/play/primetel2
 #EXTINF:-1,Primetel3 🇨🇾
 http://95.214.235.32:557/play/primetel3
 
+#EXTINF:-1,Eleven Sports 1 4K 🇵🇱
+http://45.65.112.49:8000/play/a0bt
+
+#EXTINF:-1,Eleven Sports 1 HD 🇵🇱
+http://45.65.112.49:8000/play/a05d
+
+#EXTINF:-1,Eleven Sports 2 HD 🇵🇱
+http://45.65.112.49:8000/play/a052
+
+#EXTINF:-1,Eleven Sports 3 HD 🇵🇱
+http://45.65.112.49:8000/play/a05b
+
+#EXTINF:-1,Eleven Sports 3 HD 🇵🇱
+http://45.65.112.49:8000/play/a04r
+
+#EXTINF:-1,ELEVEN SPORTS 4 HD 🇵🇱
+http://45.65.112.49:8000/play/a02s
+
+#EXTINF:-1,CANAL+ PREMIUM HD 🇵🇱
+http://45.65.112.49:8000/play/a03h
+
+#EXTINF:-1,CANAL+ SPORT 2 HD 🇵🇱
+http://45.65.112.49:8000/play/a04j
+
+#EXTINF:-1,CANAL+ SPORT 3 HD 🇵🇱
+http://45.65.112.49:8000/play/a0kq
+
+#EXTINF:-1,CANAL+ SPORT 4 HD 🇵🇱
+http://45.65.112.49:8000/play/a0kr
+
+#EXTINF:-1,CANAL+ SPORT 5 HD 🇵🇱
+http://45.65.112.49:8000/play/a0ku
+
+#EXTINF:-1,CANAL+ SPORT HD 🇵🇱
+http://45.65.112.49:8000/play/a03a
+
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
 
@@ -771,31 +813,6 @@ http://93.155.227.38:90/m3u8/arenasport3.m3u8
 #EXTINF:-1, ELEVEN Sports 6 🇵🇹
 http://b1g.me:80/William123/William123/611785
 
-
-#EXTINF:-1,Eleven Sports 1 4K
-http://45.65.112.49:8000/play/a0bt
-#EXTINF:-1,Eleven Sports 1 HD
-http://45.65.112.49:8000/play/a05d
-#EXTINF:-1,Eleven Sports 2 HD
-http://45.65.112.49:8000/play/a052
-#EXTINF:-1,Eleven Sports 3 HD
-http://45.65.112.49:8000/play/a05b
-#EXTINF:-1,Eleven Sports 3 HD
-http://45.65.112.49:8000/play/a04r
-#EXTINF:-1,ELEVEN SPORTS 4 HD
-http://45.65.112.49:8000/play/a02s
-#EXTINF:-1,CANAL+ PREMIUM HD
-http://45.65.112.49:8000/play/a03h
-#EXTINF:-1,CANAL+ SPORT 2 HD
-http://45.65.112.49:8000/play/a04j
-#EXTINF:-1,CANAL+ SPORT 3 HD
-http://45.65.112.49:8000/play/a0kq
-#EXTINF:-1,CANAL+ SPORT 4 HD
-http://45.65.112.49:8000/play/a0kr
-#EXTINF:-1,CANAL+ SPORT 5 HD
-http://45.65.112.49:8000/play/a0ku
-#EXTINF:-1,CANAL+ SPORT HD
-http://45.65.112.49:8000/play/a03a
 
 #EXTINF:-1, 1
 http://989423234229262413.of529.xyz:80/play/vi0210254/pTHg@YmFYV/262413.ts
