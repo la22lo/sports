@@ -111,6 +111,9 @@ http://82.209.197.187:8080/udp/239.0.100.9:1234
 #EXTINF:-1, BEIN 1 🇬🇧
 http://edge02.odtv.az/o4/beinsport/playlist.m3u8
 
+#EXTINF:-1, TNT SPORTS 2 🇬🇧
+https://storage.googleapis.com/atnticatoreovo2/mux_video_ts/index-1.m3u8
+
 #EXTINF:-1,beIN SPORTS 1 HD 🇶🇦
 http://212.224.84.200:2200/Plus/beIN_Sports1_HD-ar/tracks-v1a1/mono.m3u8
 
