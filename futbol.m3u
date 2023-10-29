@@ -114,6 +114,15 @@ http://edge02.odtv.az/o4/beinsport/playlist.m3u8
 #EXTINF:-1, TNT SPORTS 2 🇬🇧
 https://storage.googleapis.com/atnticatoreovo2/mux_video_ts/index-1.m3u8
 
+#EXTINF:-1, BEIN SPORTS 1 🇫🇷
+http://154.54.220.244:47256/play/a03b/index.m3u8
+
+#EXTINF:-1, CANAL + SPORTS 🇫🇷
+http://154.54.220.244:47256/play/a004/index.m3u8
+
+#EXTINF:-1, CANAL + FOOT 🇫🇷
+http://154.54.220.244:47256/play/a02y/index.m3u8
+
 #EXTINF:-1,beIN SPORTS 1 HD 🇶🇦
 http://212.224.84.200:2200/Plus/beIN_Sports1_HD-ar/tracks-v1a1/mono.m3u8
 
