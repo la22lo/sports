@@ -18,6 +18,9 @@ http://95.214.235.32:557/play/a005
 #EXTINF:-1,beIN SPORTS 3 HD 🇶🇦
 http://212.224.84.200:2200/Plus/beIN_Sports3_HD-ar/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,beIN SPORTS 3 HD 🇶🇦
+http://212.224.84.200:2200/Plus/beIN_Sports3_SD-ar/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,Spiler2 🇭🇺
 http://149.62.183.194:9293/play/a0c4
 
@@ -131,6 +134,27 @@ http://212.224.84.200:2200/Plus/beIN_Sports6_HD-ar/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,beIN SPORTS 7 HD 🇶🇦
 http://212.224.84.200:2200/Plus/beIN_Sports7_HD-ar/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SPORTS 1 HD 🇶🇦
+http://212.224.84.200:2200/Plus/beIN_Sports1_SD-ar/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SPORTS 2 HD 🇶🇦
+http://212.224.84.200:2200/Plus/beIN_Sports2_SD-ar/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SPORTS 3 HD 🇶🇦
+http://212.224.84.200:2200/Plus/beIN_Sports3_SD-ar/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SPORTS 4 HD 🇶🇦
+http://212.224.84.200:2200/Plus/beIN_Sports4_SD-ar/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SPORTS 5 HD 🇶🇦
+http://212.224.84.200:2200/Plus/beIN_Sports5_SD-ar/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SPORTS 6 HD 🇶🇦
+http://212.224.84.200:2200/Plus/beIN_Sports6_SD-ar/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SPORTS 7 HD 🇶🇦
+http://212.224.84.200:2200/Plus/beIN_Sports7_SD-ar/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,beIN SPORTS 1 HD 🇶🇦
 http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/8
