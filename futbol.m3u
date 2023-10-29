@@ -9,12 +9,6 @@ http://185.188.188.235/live/novasport3/playlist.m3u8
 #EXTINF:-1,NOVA SPORT 4 🇸🇰
 http://185.188.188.235/live/novasport4/playlist.m3u8
 
-#EXTINF:-1,Primetel2 🇨🇾
-http://95.214.235.32:557/play/primetel2
-
-#EXTINF:-1,Novasports1HD 🇬🇷
-http://95.214.235.32:557/play/a005
-
 #EXTINF:-1,ESPN + 🇺🇸
 https://sportsleading.online/live/stream_e101.m3u8
 
