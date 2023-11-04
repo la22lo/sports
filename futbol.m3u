@@ -21,6 +21,12 @@ http://185.188.188.235/live/novasport3/playlist.m3u8
 #EXTINF:-1,NOVA SPORT 4 🇸🇰
 http://185.188.188.235/live/novasport4/playlist.m3u8
 
+#EXTINF:-1,Megogo 1 (ip Kyivstar) 🇺🇦
+http://45.146.7.90:8000/play/a00l
+
+#EXTINF:-1,megogo 1 🇺🇦
+http://45.146.7.90:8000/play/a00i
+
 #EXTINF:-1,ESPN + 🇺🇸
 https://sportsleading.online/live/stream_e101.m3u8
 
@@ -861,24 +867,9 @@ http://proiptvdigic.com:8080/nacho65543/ZtQMBNtvykAK/219988
 #EXTINF:-1,Arena Sport 3 HD 🇷🇸
 http://93.155.227.38:90/m3u8/arenasport3.m3u8
 
-#EXTINF:-1,Megogo 1 (ip Kyivstar)
-http://45.146.7.90:8000/play/a00l
-#EXTINF:-1,Setanta Moldova 
+
+#EXTINF:-1,megogo 4
 http://45.146.7.90:8000/play/a00k
-#EXTINF:-1,Setanta Sport Plus UA
-http://45.146.7.90:8000/play/a00e
-#EXTINF:-1,Setanta Sport UA 
-http://45.146.7.90:8000/play/a00c
-#EXTINF:-1,megogo test
-http://45.146.7.90:8000/play/a00i
-#EXTINF:-1,Беларусь 5
-http://45.146.7.90:8000/play/a00g
-#EXTINF:-1,Телеканал Футбол 
-http://45.146.7.90:8000/play/a00h
-#EXTINF:-1,УПЛ ТВ 1
-http://45.146.7.90:8000/play/a005
-#EXTINF:-1,УПЛ ТВ 2
-http://45.146.7.90:8000/play/a00a
 #EXTINF:-1,OverSport1
 http://195.206.234.17:8000/play/a001
 #EXTINF:-1,OverSport2
@@ -889,8 +880,6 @@ http://195.206.234.17:8000/play/a004
 http://195.206.234.17:8000/play/a013
 #EXTINF:-1,OverSportNews
 http://195.206.234.17:8000/play/a006
-#EXTINF:-1,RTSH 1
-http://195.206.234.17:8000/play/a012
 #EXTINF:-1,RTSH Sport
 http://195.206.234.17:8000/play/a011
 #EXTINF:-1,SportAlb
@@ -913,8 +902,6 @@ http://185.30.144.231:8001/play/a08q
 http://185.30.144.231:8001/play/a08r
 #EXTINF:-1,Oversport 4
 http://185.30.144.231:8001/play/a08t
-#EXTINF:-1,PROMO SPORT
-http://185.30.144.231:8001/play/a08a
 
 #EXTINF:-1, 1
 http://989423234229262413.of529.xyz:80/play/vi0210254/pTHg@YmFYV/262413.ts
