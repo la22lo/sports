@@ -907,6 +907,14 @@ http://185.6.22.6:8000/play/a040
 http://185.6.22.6:8000/play/a042
 #EXTINF:-1,SK 3 HR HD
 http://185.6.22.6:8000/play/a041
+#EXTINF:-1,Oversport 1
+http://185.30.144.231:8001/play/a08q
+#EXTINF:-1,Oversport 2
+http://185.30.144.231:8001/play/a08r
+#EXTINF:-1,Oversport 4
+http://185.30.144.231:8001/play/a08t
+#EXTINF:-1,PROMO SPORT
+http://185.30.144.231:8001/play/a08a
 
 #EXTINF:-1, 1
 http://989423234229262413.of529.xyz:80/play/vi0210254/pTHg@YmFYV/262413.ts
