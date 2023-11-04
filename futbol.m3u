@@ -895,6 +895,18 @@ http://195.206.234.17:8000/play/a012
 http://195.206.234.17:8000/play/a011
 #EXTINF:-1,SportAlb
 http://195.206.234.17:8000/play/a00w
+#EXTINF:-1,Arena Premium 1 HD (PP)
+http://185.6.22.6:8000/play/a03n
+#EXTINF:-1,Arena Premium 2 HD (PP)
+http://185.6.22.6:8000/play/a04l
+#EXTINF:-1,Arena Premium 3 HD (PP)
+http://185.6.22.6:8000/play/a04m
+#EXTINF:-1,SK 1 HR HD
+http://185.6.22.6:8000/play/a040
+#EXTINF:-1,SK 2 HR HD
+http://185.6.22.6:8000/play/a042
+#EXTINF:-1,SK 3 HR HD
+http://185.6.22.6:8000/play/a041
 
 #EXTINF:-1, 1
 http://989423234229262413.of529.xyz:80/play/vi0210254/pTHg@YmFYV/262413.ts
