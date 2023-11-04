@@ -1,20 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, ELEVEN SPORTS 4 HD 🇵🇹
-http://902801723609670621.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/670621.ts
-
-#EXTINF:-1, ELEVEN SPORTS 4 HD 🇵🇹
-http://c.strzzi.site:80/Rosavalentina/Valentina/2985200
-
-#EXTINF:-1, ELEVEN SPORTS 4 HD 🇵🇹
-http://001004.eu:8080/g6kZ9ycGrk/eiJxdY40Pz/78
-
-#EXTINF:-1, ELEVEN SPORTS 4 HD 🇵🇹
-http://smartsistem.xyz:8080/oguzozkan/6726159823/73358
-
-#EXTINF:-1, ELEVEN SPORTS 4 HD 🇵🇹
-http://31.42.185.216:8000/aeronicsaol/75Q1QVU1ZH/187476
-
 #EXTINF:-1,MAX SPORTS 4 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
@@ -23,6 +8,9 @@ http://185.188.188.235/live/novasport3/playlist.m3u8
 
 #EXTINF:-1,NOVA SPORT 4 🇸🇰
 http://185.188.188.235/live/novasport4/playlist.m3u8
+
+#EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇹
+http://634665223615637251.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/637251.ts
 
 #EXTINF:-1,Megogo 1 (ip Kyivstar) 🇺🇦
 http://45.146.7.90:8000/play/a00l
@@ -278,6 +266,21 @@ http://92.114.85.99:8000/play/a022
 
 #EXTINF:-1,Eleven 6 🇵🇹
 http://92.114.85.99:8000/play/a024
+
+#EXTINF:-1, ELEVEN SPORTS 4 HD 🇵🇹
+http://902801723609670621.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/670621.ts
+
+#EXTINF:-1, ELEVEN SPORTS 4 HD 🇵🇹
+http://c.strzzi.site:80/Rosavalentina/Valentina/2985200
+
+#EXTINF:-1, ELEVEN SPORTS 4 HD 🇵🇹
+http://001004.eu:8080/g6kZ9ycGrk/eiJxdY40Pz/78
+
+#EXTINF:-1, ELEVEN SPORTS 4 HD 🇵🇹
+http://smartsistem.xyz:8080/oguzozkan/6726159823/73358
+
+#EXTINF:-1, ELEVEN SPORTS 4 HD 🇵🇹
+http://31.42.185.216:8000/aeronicsaol/75Q1QVU1ZH/187476
 
 #EXTINF:-1,SPORT TV 1 HD 🇵🇹
 http://92.114.85.99:8000/play/a00c
