@@ -357,6 +357,24 @@ http://93.155.227.38:90/m3u8/arenasport4.m3u8
 #EXTINF:-1,Arena Sport 5 HD 🇷🇸
 http://93.155.227.38:90/m3u8/arenasport5.m3u8
 
+#EXTINF:-1,Arena Premium 1 HD (PP) 🇷🇸
+http://185.6.22.6:8000/play/a03n
+
+#EXTINF:-1,Arena Premium 2 HD (PP) 🇷🇸
+http://185.6.22.6:8000/play/a04l
+
+#EXTINF:-1,Arena Premium 3 HD (PP) 🇷🇸
+http://185.6.22.6:8000/play/a04m
+
+#EXTINF:-1,SK 1 HR HD 🇭🇷
+http://185.6.22.6:8000/play/a040
+
+#EXTINF:-1,SK 2 HR HD 🇭🇷
+http://185.6.22.6:8000/play/a042
+
+#EXTINF:-1,SK 3 HR HD 🇭🇷
+http://185.6.22.6:8000/play/a041
+
 #EXTINF:-1,HRT2 🇭🇷
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
 
@@ -875,18 +893,7 @@ http://195.206.234.17:8000/play/a006
 http://195.206.234.17:8000/play/a011
 #EXTINF:-1,SportAlb
 http://195.206.234.17:8000/play/a00w
-#EXTINF:-1,Arena Premium 1 HD (PP)
-http://185.6.22.6:8000/play/a03n
-#EXTINF:-1,Arena Premium 2 HD (PP)
-http://185.6.22.6:8000/play/a04l
-#EXTINF:-1,Arena Premium 3 HD (PP)
-http://185.6.22.6:8000/play/a04m
-#EXTINF:-1,SK 1 HR HD
-http://185.6.22.6:8000/play/a040
-#EXTINF:-1,SK 2 HR HD
-http://185.6.22.6:8000/play/a042
-#EXTINF:-1,SK 3 HR HD
-http://185.6.22.6:8000/play/a041
+
 #EXTINF:-1,Oversport 1
 http://185.30.144.231:8001/play/a08q
 #EXTINF:-1,Oversport 2
