@@ -879,6 +879,22 @@ http://45.146.7.90:8000/play/a00h
 http://45.146.7.90:8000/play/a005
 #EXTINF:-1,УПЛ ТВ 2
 http://45.146.7.90:8000/play/a00a
+#EXTINF:-1,OverSport1
+http://195.206.234.17:8000/play/a001
+#EXTINF:-1,OverSport2
+http://195.206.234.17:8000/play/a003
+#EXTINF:-1,OverSport3
+http://195.206.234.17:8000/play/a004
+#EXTINF:-1,OverSport4
+http://195.206.234.17:8000/play/a013
+#EXTINF:-1,OverSportNews
+http://195.206.234.17:8000/play/a006
+#EXTINF:-1,RTSH 1
+http://195.206.234.17:8000/play/a012
+#EXTINF:-1,RTSH Sport
+http://195.206.234.17:8000/play/a011
+#EXTINF:-1,SportAlb
+http://195.206.234.17:8000/play/a00w
 
 #EXTINF:-1, 1
 http://989423234229262413.of529.xyz:80/play/vi0210254/pTHg@YmFYV/262413.ts
