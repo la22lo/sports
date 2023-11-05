@@ -235,6 +235,15 @@ https://Pericopalotes135@directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u
 http://SigueSoñandoPericopalotes135@185.188.188.235/live/eurosport/playlist.m3u8
 
 #EXTINF:-1, ESPN HD 🇦🇷
+http://190.90.251.18:8000/play/a009/index.m3u8
+
+#EXTINF:-1, ESPN 2 HD 🇦🇷
+http://190.90.251.18:8000/play/a003/index.m3u8
+
+#EXTINF:-1, ESPN 3 HD 🇦🇷
+http://190.90.251.18:8000/play/a004/index.m3u8
+
+#EXTINF:-1, ESPN HD 🇦🇷
 http://170.254.172.10:8000/play/a07z/index.m3u8
 
 #EXTINF:-1, ESPN 2 HD 🇦🇷
