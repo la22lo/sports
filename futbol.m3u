@@ -699,6 +699,18 @@ http://45.146.7.90:8000/play/a00k
 #EXTINF:-1, BELARUS 5 🇧🇾
 http://ca.ukrainske.tv/1467/5FB414E1EC8D010/video.m3u8
 
+#EXTINF:-1, TV3 Sport Open HD 🇱🇹
+http://ca.ukrainske.tv/6712/5FB414E1EC8D010/video.m3u8
+
+#EXTINF:-1,TV3 Sport HD 🇱🇹
+http://ca.ukrainske.tv/6709/5FB414E1EC8D010/video.m3u8
+
+#EXTINF:-1,TV3 Sport 2 HD 🇱🇹
+http://ca.ukrainske.tv/6710/5FB414E1EC8D010/video.m3u8
+
+#EXTINF:-1,TV3 Sport 3 HD 🇱🇹
+http://ca.ukrainske.tv/6711/5FB414E1EC8D010/video.m3u8
+
 #EXTINF:-1 ,VIJU Sport 🇦🇲
 http://31.146.176.94/viasatsport/mpegts
 
