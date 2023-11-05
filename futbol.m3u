@@ -75,9 +75,6 @@ http://185.188.188.235/live/premiersport2/playlist.m3u8
 #EXTINF:-1, Setanta Sports 2 HD 🇷🇺
 https://tv.movielab.pro/943/video.m3u8
 
-#EXTINF:-1, Окко Спорт HD 🇷🇺
-http://ru.iptv.monster/play/7337/58A6BB07681962A/video.m3u8
-
 #EXTINF:-1, ELEVEN SPORTS 2 HD 🇵🇹
 http://312834923831394664.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/394664.ts
 
@@ -546,18 +543,6 @@ http://95.214.235.32:557/play/a00e
 #EXTINF:-1,Novastars 🇬🇷
 http://95.214.235.32:557/play/stars
 
-#EXTINF:-1,Primetel1 🇨🇾
-http://95.214.235.32:557/play/primetel1
-
-#EXTINF:-1,Primetel2 🇨🇾
-http://95.214.235.32:557/play/primetel2
-
-#EXTINF:-1,Primetel3 🇨🇾
-http://95.214.235.32:557/play/primetel3
-
-#EXTINF:-1,Eleven Sports 1 4K 🇵🇱
-http://45.65.112.49:8000/play/a0bt
-
 #EXTINF:-1,Eleven Sports 1 HD 🇵🇱
 http://45.65.112.49:8000/play/a05d
 
@@ -623,6 +608,9 @@ http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 
 #EXTINF:-1,МАТЧ Футбол 3 HD 🇷🇺
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1, Окко Спорт HD 🇷🇺
+http://ru.iptv.monster/play/7337/58A6BB07681962A/video.m3u8
 
 #EXTINF:-1, VIASAT SPORT 🇷🇺
 https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
