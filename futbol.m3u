@@ -42,6 +42,18 @@ http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1,М LIGA CAMPEONES 🇪🇸
 http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8
 
+#EXTINF:-1, TNT Sports 1 🇮🇪
+http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/110708
+
+#EXTINF:-1, TNT Sports 2 🇮🇪
+http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/89213
+
+#EXTINF:-1, TNT Sports 3 🇮🇪
+http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/89212
+
+#EXTINF:-1, TNT Sports 4 🇮🇪
+http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/89211
+
 #EXTINF:-1,CCTV5 🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
