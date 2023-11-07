@@ -108,6 +108,13 @@ http://158.101.214.187:8080/channel/18b15187/index.m3u8?q=103bce48d8fe1dcdb5781d
 #EXTINF:-1, Setanta Sports 2 HD 🇷🇺
 http://158.101.214.187:8080/channel/62654053/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
+#EXTINF:-1, Megogo Футбол 1 HD 🇺🇦
+http://158.101.214.187:8080/channel/n6107de45/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+
+#EXTINF:-1, Megogo Футбол 3 HD 🇺🇦
+http://158.101.214.187:8080/channel/n6107de43/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+
+
 
 
 #EXTINF:-1,BAR 🇪🇸
