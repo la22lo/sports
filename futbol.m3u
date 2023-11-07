@@ -90,6 +90,13 @@ http://view.my-tv.biz/tv/3c9374f5ae/c55b4351b4/video.m3u8
 #EXTINF:-1, Setanta Sports+ Ukraine HD 🇺🇦
 http://view.my-tv.biz/tv/3c9374f5ae/239f30684c/video.m3u8
 
+#EXTINF:-1, Setanta Sports 1 HD 🇷🇺
+http://158.101.214.187:8080/channel/18b15187/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+
+#EXTINF:-1, Setanta Sports 2 HD 🇷🇺
+http://158.101.214.187:8080/channel/62654053/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+
+
 
 #EXTINF:-1,BAR 🇪🇸
 http://250557523696165407.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/165407.ts
