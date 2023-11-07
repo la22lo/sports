@@ -3,6 +3,12 @@
 #EXTINF:-1,LIGA CAMPEONES 🇪🇸
 http://667782866163165358.of1030ok.xyz:80/play/vi913363/C5aFau8@D4/165358.ts
 
+#EXTINF:-1,NOVA SPORT 4 🇸🇰
+http://185.188.188.235/live/novasport4/playlist.m3u8
+
+#EXTINF:-1,MAX SPORTS 4 🇧🇬
+http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
+
 #EXTINF:-1,NOVA SPORT 3 🇸🇰
 http://185.188.188.235/live/novasport3/playlist.m3u8
 
@@ -26,9 +32,6 @@ http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8
 
 #EXTINF:-1,CCTV5 🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-
-#EXTINF:-1,NOVA SPORT 4 🇸🇰
-http://185.188.188.235/live/novasport4/playlist.m3u8
 
 #EXTINF:-1, HRT 2 🇭🇷
 http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
