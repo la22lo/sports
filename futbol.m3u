@@ -9,6 +9,9 @@ http://312834923831678927.of1030ok.xyz:80/play/vi913363/C5aFau8@D4/165358.ts
 #EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 
+#EXTINF:-1, Megogo Футбол 2 HD 🇺🇦
+http://45.146.7.90:8000/play/a00m
+
 #EXTINF:-1, Premier sport 2 🇸🇰
 http://185.188.188.235/live/premiersport2/playlist.m3u8
 
@@ -86,6 +89,12 @@ http://158.101.214.187:8080/channel/62654053/index.m3u8?q=103bce48d8fe1dcdb5781d
 
 #EXTINF:-1, Megogo Футбол 1 HD 🇺🇦
 http://158.101.214.187:8080/channel/n6107de45/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+
+#EXTINF:-1, Megogo Футбол 1 HD 🇺🇦
+http://45.146.7.90:8000/play/a00l
+
+#EXTINF:-1, Megogo Футбол 2 HD 🇺🇦
+http://45.146.7.90:8000/play/a00m
 
 #EXTINF:-1, Megogo Футбол 3 HD 🇺🇦
 http://158.101.214.187:8080/channel/n6107de43/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
