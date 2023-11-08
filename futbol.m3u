@@ -224,6 +224,9 @@ http://45.146.7.90:8000/play/a00i
 #EXTINF:-1,megogo 1 🇺🇦
 http://pl.seetv.cc/play/317/DAF7E574BE5237A/video.m3u8
 
+#EXTINF:-1,megogo 1 🇺🇦
+http://158.101.214.187:8080/channel/n6107de45/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+
 #EXTINF:-1,megogo 2 🇺🇦
 http://pl.seetv.cc/play/318/DAF7E574BE5237A/video.m3u8
 
