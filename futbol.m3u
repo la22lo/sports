@@ -54,8 +54,14 @@ http://bl.uma.media/live/126863/HLS/6866944_2/2/1/playlist.m3u8
 #EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
 http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 
+#EXTINF:-1,МАТЧ Футбол 2 🇷🇺
+http://bl.uma.media/live/126864/HLS/6866944_2/2/1/playlist.m3u8
+
 #EXTINF:-1,МАТЧ Футбол 3 HD 🇷🇺
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1,МАТЧ Футбол 3 🇷🇺
+http://bl.uma.media/live/126865/HLS/6866944_2/2/1/playlist.m3u8
 
 #EXTINF:-1,М LIGA CAMPEONES 🇪🇸
 http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8
