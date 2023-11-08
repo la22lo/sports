@@ -18,6 +18,27 @@ http://45.146.7.90:8000/play/a00m
 #EXTINF:-1, Megogo Футбол 2 HD 🇺🇦
 http://158.101.214.187:8080/channel/n6107de44/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
+#EXTINF:-1, MATH 🇷🇺
+https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
+
+#EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1,МАТЧ Футбол 1 🇷🇺
+http://bl.uma.media/live/126863/HLS/6866944_2/2/1/playlist.m3u8
+
+#EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
+http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1,МАТЧ Футбол 2 🇷🇺
+http://bl.uma.media/live/126864/HLS/6866944_2/2/1/playlist.m3u8
+
+#EXTINF:-1,МАТЧ Футбол 3 HD 🇷🇺
+http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1,МАТЧ Футбол 3 🇷🇺
+http://bl.uma.media/live/126865/HLS/6866944_2/2/1/playlist.m3u8
+
 #EXTINF:-1, Premier sport 2 🇸🇰
 http://185.188.188.235/live/premiersport2/playlist.m3u8
 
@@ -44,27 +65,6 @@ http://185.188.188.235/live/novasport3/playlist.m3u8
 
 #EXTINF:-1,MAX SPORTS 3 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport3_web.m3u8
-
-#EXTINF:-1, MATH 🇷🇺
-https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
-
-#EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
-http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
-
-#EXTINF:-1,МАТЧ Футбол 1 🇷🇺
-http://bl.uma.media/live/126863/HLS/6866944_2/2/1/playlist.m3u8
-
-#EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
-http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
-
-#EXTINF:-1,МАТЧ Футбол 2 🇷🇺
-http://bl.uma.media/live/126864/HLS/6866944_2/2/1/playlist.m3u8
-
-#EXTINF:-1,МАТЧ Футбол 3 HD 🇷🇺
-http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
-
-#EXTINF:-1,МАТЧ Футбол 3 🇷🇺
-http://bl.uma.media/live/126865/HLS/6866944_2/2/1/playlist.m3u8
 
 #EXTINF:-1,М LIGA CAMPEONES 🇪🇸
 http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8
