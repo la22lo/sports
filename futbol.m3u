@@ -15,6 +15,9 @@ http://bl.uma.media/live/126863/HLS/6866944_2/2/1/playlist.m3u8
 #EXTINF:-1, Megogo Футбол 2 HD 🇺🇦
 http://45.146.7.90:8000/play/a00m
 
+#EXTINF:-1, Megogo Футбол 2 HD 🇺🇦
+http://158.101.214.187:8080/channel/n6107de44/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+
 #EXTINF:-1, Premier sport 2 🇸🇰
 http://185.188.188.235/live/premiersport2/playlist.m3u8
 
