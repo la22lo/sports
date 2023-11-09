@@ -405,6 +405,42 @@ http://185.188.188.235/live/sport1/playlist.m3u8
 #EXTINF:-1,SPORT 2 🇸🇰
 http://185.188.188.235/live/sport2/playlist.m3u8
 
+#EXTINF:-1, Digi Sport 1 HD 🇷🇴
+http://ru2.troya.one:34000/ch1108/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LbZBIHA3QqR4co_Sgw4a80phPJItYSstvBRcFdsv4KSe
+
+#EXTINF:-1, Digi Sport 2 HD 🇷🇴
+http://ru2.troya.one:34000/ch1112/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LX9wMf6Q6-_8ecaqMhabqM8MZrWKpftHK00QJYbni7PQ
+
+#EXTINF:-1, Digi Sport 3 HD 🇷🇴
+http://ru2.troya.one:34000/ch1113/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LS3RbmoYUZ8Ve6iZ6waDoplL4GTh53iPcmxrXbDr3qxX
+
+#EXTINF:-1, Digi Sport 3 HD 🇷🇴
+http://ru2.troya.one:34000/ch1117/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LdvILSRkrbWt6y8euAFciCIVdNdu5vpVsWODXYb7ICtj
+
+#EXTINF:-1, Orange Sport 1 HD 🇷🇴
+http://ru2.troya.one:34000/ch1683/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LfnPoQELa6Z1aK-oOL_C18WL6pskKmEuJcO5AYgUjjAm
+
+#EXTINF:-1, Orange Sport 2 HD 🇷🇴
+http://ru2.troya.one:34000/ch1684/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LaiLVKJa9sgpdiQX9oiqxmBR0R2g9CivC_JzV-4XIEVn
+
+#EXTINF:-1, Orange Sport 3 HD 🇷🇴
+http://ru2.troya.one:34000/ch1685/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LRNlCGqk7AVl0iX4OZbLvbtuPvuvboNToIOxmtI5rjIq
+
+#EXTINF:-1, Orange Sport 4 HD 🇷🇴
+http://ru2.troya.one:34000/ch1686/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LbFdeglTglE9tZa9YDbEIKx-kQ_JHgRxEVdrp57ULXAp
+
+#EXTINF:-1, Prima Sport 1 HD 🇷🇴
+http://ru2.troya.one:34000/ch1844/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3Ldpmn6jh0ODwEHhD28S_emnN2-3pbIfcnW14TMCtMIwf
+
+#EXTINF:-1, Prima Sport 2 HD 🇷🇴
+http://ru2.troya.one:34000/ch1847/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LccSPHug5KAfN_HlUqQSB3knOcTLKiHE-HL7raLFKb6A
+
+#EXTINF:-1, Prima Sport 3 HD 🇷🇴
+http://ru2.troya.one:34000/ch1845/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LRKnmnel2sH1gbQ1ApfmWjW2XqUMQqwCN3kTfP89K_C2
+
+#EXTINF:-1, Prima Sport 4 HD 🇷🇴
+http://ru2.troya.one:34000/ch1846/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LRHbI3KN0mmEZSkuSH61IkGg-6vCFqehR5FKc0dOiNZI
+
 #EXTINF:-1,MAX SPORTS 1 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport1_web.m3u8
 
