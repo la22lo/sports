@@ -546,6 +546,18 @@ http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1, Turkmenistan Sport 🇹🇲
 http://217.174.225.146/hls/ch004_720/index.m3u8
 
+#EXTINF:-1, Qazsport HD 🇰🇿
+http://ru2.troya.one:34000/ch474/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LTP7qZOrCqEbjhNQ9Od8nurAjPAs2WZ1mUMFi8yitwE6
+
+#EXTINF:-1, QAZ SPORT 🇰🇿
+http://ru2.troya.one:34000/ch570/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LeQF0f-e511tdRrqeXc0wwbhYwqdu6qDHAHj-0CjE9s5
+
+#EXTINF:-1, Q SPORT ARENA 🇰🇿
+http://ru2.troya.one:34000/ch1091/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LXFgbpzRVcnmnbjbqiZCoq2fiLfOAI_cd0pXpjxphLor
+
+#EXTINF:-1, Q LIVE 🇰🇿
+http://ru2.troya.one:34000/ch1092/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LWIvHoLQZYpwwnBWGib9NBaqHf9F-CaJDPsLIxNTrYPa
+
 #EXTINF:-1, Qirguistán sport 🇰🇬
 http://89.254.128.5:22280/qsport/index.m3u8
 
