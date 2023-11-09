@@ -546,6 +546,21 @@ http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1, Turkmenistan Sport 🇹🇲
 http://217.174.225.146/hls/ch004_720/index.m3u8
 
+#EXTINF:-1, Go3 Sport 1 HD 🇱🇹
+http://ru2.troya.one:34000/ch137/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LbNm5WaSkzEA02bVax-V5YkMQm4QBXWjAPB9oZ3Q21P3
+
+#EXTINF:-1, Go3 Sport 2 HD 🇱🇹
+http://ru2.troya.one:34000/ch622/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3Le5EkkflKAnsmcbNEiVryHhK4vFnahmtVO5XWsHGXjYh
+
+#EXTINF:-1, Go3 Sport 3 HD 🇱🇹
+http://ru2.troya.one:34000/ch1629/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LSY5QgQzGOxPC63DYJ441nlqsl6gZYkOwAN4oX0WUqhO
+
+#EXTINF:-1, Go3 Sport Open HD 🇱🇹
+http://ru2.troya.one:34000/ch458/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LQWU8Bme3AqbsVcZTSrG2OoAg1LeLmXQPE8ryQ5Lv9VZ
+
+#EXTINF:-1, SPORT 1 🇱🇹
+http://ru2.troya.one:34000/ch676/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LaS6Eayd-x0nlob2wMNtzmEOQmJgSKzm3WL7ty28PEOm
+
 #EXTINF:-1, Qazsport HD 🇰🇿
 http://ru2.troya.one:34000/ch474/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LTP7qZOrCqEbjhNQ9Od8nurAjPAs2WZ1mUMFi8yitwE6
 
