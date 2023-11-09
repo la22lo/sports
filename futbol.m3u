@@ -546,6 +546,24 @@ https://tbs01-edge11.itdc.ge/silksport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Silk 3 HD 🇬🇪
 https://tbs01-edge11.itdc.ge/silksport3/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, Silk 1 HD 🇬🇪
+http://ru2.troya.one:34000/ch1603/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LbItC5i9X_H6o3cB84myOMETlbOIeMHM01_-k0cO5ziy
+
+#EXTINF:-1, Silk 2 HD 🇬🇪
+http://ru2.troya.one:34000/ch1604/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LT4i5adgn70G-GGWBsds9h15JgYXp0-6Utqh9oDkpGgj
+
+#EXTINF:-1, Silk 3 HD 🇬🇪
+http://ru2.troya.one:34000/ch1605/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LUK8rBiIw21dWtiKYsWiK1qOK0bv00jb1UvR-YAn-gGA
+
+#EXTINF:-1, Setanta Sport 1 🇬🇪
+http://ru2.troya.one:34000/ch1199/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LaKvyQ9AAlRFOoy4lsSDru8psS5c04uJNsgecluihPCi
+
+#EXTINF:-1, Setanta Sport 2 🇬🇪
+http://ru2.troya.one:34000/ch1206/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LbHf9ZYqLjes8tDrjGuEOBoAZx-nTWFDdB0JU9CTQi-r
+
+#EXTINF:-1, Setanta Sport 3 🇬🇪
+http://ru2.troya.one:34000/ch2060/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LRehjq7lwBo9f7Skqo_egi89qJyvKobIxm-3VgzgxBHu
+
 #EXTINF:-1, Turkmenistan Sport 🇹🇲
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
