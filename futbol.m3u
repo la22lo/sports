@@ -9,6 +9,9 @@ http://667782866163165407.of1030ok.xyz:80/play/vi913363/C5aFau8@D4/165407.ts
 #EXTINF:-1,MAX SPORTS 4 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
+#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
+http://paco@181.78.105.146:2000/play/a08m/index.m3u8
+
 #EXTINF:-1,NOVA SPORT 4 🇸🇰
 http://185.188.188.235/live/novasport4/playlist.m3u8
 
@@ -20,15 +23,6 @@ http://185.188.188.235/live/premiersport/playlist.m3u8
 
 #EXTINF:-1, Setanta Sports 2 HD 🇷🇺
 https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
-
-#EXTINF:-1, Setanta Sports 2 HD 🇷🇺
-http://ca.ukrainske.tv/943/5FB414E1EC8D010/video.m3u8
-
-#EXTINF:-1,Окко Спорт HD 🇷🇺
-http://ca.ukrainske.tv/7337/5FB414E1EC8D010/video.m3u8
-
-#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
-http://paco@181.78.105.146:2000/play/a08m/index.m3u8
 
 #EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇹
 http://634665223615637251.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/637251.ts
@@ -47,12 +41,6 @@ http://312834923831628466.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/628466.ts
 
 #EXTINF:-1,MAX SPORTS 4 🇧🇬
 http://667782866163165407.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/628466.ts
-
-#EXTINF:-1,MAX SPORTS 4 🇧🇬
-http://ca.ukrainske.tv/6878/5FB414E1EC8D010/video.m3u8
-
-#EXTINF:-1,MAX SPORTS 4 🇧🇬
-http://ru.seetv.cc/play/6878/5347DCCEF2C3AA0/video.m3u8
 
 #EXTINF:-1, ARENA SPORT 6 🇭🇷
 http://312834923831637079.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/637079.ts
@@ -81,9 +69,6 @@ http://312834923831678927.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/678927.ts
 #EXTINF:-1,S SPORT 1 HD 🇹🇷
 http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/24
 
-#EXTINF:-1,S SPORT 1 HD 🇹🇷
-http://399116223421623673.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/623673.ts
-
 #EXTINF:-1,SEGUNDA 🇪🇸
 http://sdmx.vip:8080/Rodolfo01/Rodolfo01/220429
 
@@ -106,22 +91,13 @@ http://45.146.7.90:8000/play/a00l
 http://45.146.7.90:8000/play/a00i
 
 #EXTINF:-1,megogo 1 🇺🇦
-http://pl.seetv.cc/play/317/DAF7E574BE5237A/video.m3u8
-
-#EXTINF:-1,megogo 1 🇺🇦
 http://158.101.214.187:8080/channel/n6107de45/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-
-#EXTINF:-1,megogo 2 🇺🇦
-http://pl.seetv.cc/play/318/DAF7E574BE5237A/video.m3u8
 
 #EXTINF:-1, Megogo Футбол 2 HD 🇺🇦
 http://45.146.7.90:8000/play/a00m
 
 #EXTINF:-1, Megogo Футбол 2 HD 🇺🇦
 http://158.101.214.187:8080/channel/n6107de44/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-
-#EXTINF:-1,megogo 3 🇺🇦
-http://pl.seetv.cc/play/319/DAF7E574BE5237A/video.m3u8
 
 #EXTINF:-1, Premier sport 1 🇸🇰
 http://185.188.188.235/live/premiersport/playlist.m3u8
@@ -150,29 +126,11 @@ http://ua3.iptv.monster/play/1904/350B326FB34F4B8/video.m3u8
 #EXTINF:-1, SPORT18 🇮🇳
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1, PRIMA Sport 2 HD 🇷🇴
-http://ca.ukrainske.tv/11147/5FB414E1EC8D010/video.m3u8
-
-#EXTINF:-1,DIGI Sport 2 HD 🇷🇴
-http://149.62.183.194:9293/play/a0bp
-
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://46.10.218.219:8000/play/a05n
 
-#EXTINF:-1,Spiler2 🇭🇺
-http://149.62.183.194:9293/play/a0c4
-
-#EXTINF:-1, SPILER 2 🇭🇺
-http://149.62.183.194:9293/play/a0c8
-
-#EXTINF:-1,ESPN Brasil 🇧🇷
-http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/19059/index.m3u8
-
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
-
-#EXTINF:-1, MACIAS 🇪🇸
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD5_DIG_MOB/Fallback/JV_SportsHD5_DIG_MOB-audio_98835_eng=98800-video=1173600.m3u8
 
 #EXTINF:-1,S SPORT 1 HD 🇹🇷
 http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/24
@@ -182,9 +140,6 @@ http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/20085
 
 #EXTINF:-1, S SPORT 2 HD 🇹🇷
 http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/20086
-
-#EXTINF:-1,Eleven Sports 1 HD 🇵🇱
-http://45.65.112.49:8000/play/a05d
 
 #EXTINF:-1, Setanta Sports 1 HD 🇷🇺
 https://tv.movielab.pro/942/video.m3u8
@@ -201,44 +156,11 @@ http://158.101.214.187:8080/channel/62654053/index.m3u8?q=103bce48d8fe1dcdb5781d
 #EXTINF:-1, Setanta Sports 2 HD 🇷🇺
 https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
 
-#EXTINF:-1,Setanta Ukraine + HD 🇺🇦
-http://194.33.181.28:9010/udp/238.255.51.33:1234
-
-#EXTINF:-1,Setanta_1
-http://95.216.6.244:8000/play/a013/index.m3u8
-
-#EXTINF:-1,Setanta_Sports_1_HD
-http://95.216.6.244:8000/play/a001/index.m3u8
-
-#EXTINF:-1,Setanta_Sports_2_HD
-http://95.216.6.244:8000/play/a003/index.m3u8
-
-#EXTINF:-1,Setanta_Sports_Ukraine
-http://95.216.6.244:8000/play/a005/index.m3u8
-
-#EXTINF:-1,Беларусь 5 🇧🇾
-http://82.209.197.187:8080/udp/239.0.100.9:1234
-
-#EXTINF:-1, BEIN 1 🇬🇧
-http://edge02.odtv.az/o4/beinsport/playlist.m3u8
-
-#EXTINF:-1, TNT SPORTS 2 🇬🇧
-https://storage.googleapis.com/atnticatoreovo2/mux_video_ts/index-1.m3u8
-
-#EXTINF:-1, PREMIER SPORT 1 🇬🇧
-http://ru.seetv.cc/play/930/5347DCCEF2C3AA0/video.m3u8
+#EXTINF:-1, Беларусь 5 🇧🇾
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 
 #EXTINF:-1, BEIN SPORTS 1 🇫🇷
 http://154.54.220.244:47256/play/a03b/index.m3u8
-
-#EXTINF:-1, BEIN SPORTS 1 🇫🇷
-http://ca.ukrainske.tv/1101/5FB414E1EC8D010/video.m3u8
-
-#EXTINF:-1, BEIN SPORTS 2 🇫🇷
-http://ca.ukrainske.tv/1102/5FB414E1EC8D010/video.m3u8
-
-#EXTINF:-1, BEIN SPORTS 3 🇫🇷
-http://ca.ukrainske.tv/1103/5FB414E1EC8D010/video.m3u8
 
 #EXTINF:-1, CANAL + SPORTS 🇫🇷
 http://154.54.220.244:47256/play/a004/index.m3u8
@@ -260,18 +182,6 @@ https://stream.ayas.ir/hls2/bein4.m3u8
 
 #EXTINF:-1,BEIN SPORT LIVE 🇶🇦
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
-
-#EXTINF:-1, NOVA SPORT 1 🇨🇿
-http://91.237.170.206:43210/channel/2a497e91/index.m3u8?q=1696530240920
-
-#EXTINF:-1, NOVA SPORT 2 🇨🇿
-http://91.237.170.206:43210/channel/2a497e92/index.m3u8?q=1696530240920
-
-#EXTINF:-1,SPORT 1 🇨🇿
-http://91.237.170.206:43210/channel/n7722e17b/index.m3u8?q=1696530240920
-
-#EXTINF:-1,SPORT 2 🇨🇿
-http://91.237.170.206:43210/channel/n7722e17a/index.m3u8?q=1696530240920
 
 #EXTINF:-1, TV3 🇪🇸
 https://Pericopalotes135@directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
@@ -1000,8 +910,6 @@ http://158.101.214.187:8080/channel/n6107de44/index.m3u8?q=103bce48d8fe1dcdb5781
 #EXTINF:-1, Megogo Футбол 3 HD 🇺🇦
 http://158.101.214.187:8080/channel/n6107de43/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
-#EXTINF:-1, Беларусь 5 🇧🇾
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 
 
 
