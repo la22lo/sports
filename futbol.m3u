@@ -156,6 +156,24 @@ http://154.54.220.244:47256/play/a004/index.m3u8
 #EXTINF:-1, CANAL + FOOT 🇫🇷
 http://154.54.220.244:47256/play/a02y/index.m3u8
 
+#EXTINF:-1, Dazn 1 Bar HD 🇩🇪
+http://ru2.troya.one:34000/ch086/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3Lf9Wqz-i7efjITzTQFejvN4AE_EdBrLttl9UTxsjrEeY
+
+#EXTINF:-1,Dazn 1 Sat HD 🇩🇪
+http://ru2.troya.one:34000/ch2512/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LW5zh1wLalJSlyhOsOkklinkUBki96hA94NaOP9SztYU
+
+#EXTINF:-1,Dazn Kabel 1 HD 🇩🇪
+http://ru2.troya.one:34000/ch1292/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LYknynTanKO3EQaxifrcCcPn1G6J1aS8HVhAXh_0B9Ll
+
+#EXTINF:-1, Dazn 2 Bar HD 🇩🇪
+http://ru2.troya.one:34000/ch035/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LVXGFJ_OxG83yRvY5vtckNUlC7bg95X_t0JPg7mABqu9
+
+#EXTINF:-1, Dazn 2 Sat HD 🇩🇪
+http://ru2.troya.one:34000/ch2513/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3Ldsn_3XtbG9_mvA-nvGIH0Nm2n_d-MJLzRhmD4lqRkWn
+
+#EXTINF:-1,Dazn Kabel 2 HD 🇩🇪
+http://ru2.troya.one:34000/ch1293/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LQZOKh77MT0uQBE-PRFC4nbX_wq23AqCRiSv8nRbjE6t
+
 #EXTINF:-1,beIN SPORTS 1 HD 🇶🇦
 https://stream.ayas.ir/hls2/bein1.m3u8
 
