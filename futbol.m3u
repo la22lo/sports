@@ -465,6 +465,12 @@ http://iptv.prosto.tv:7000/ch109/video.m3u8
 #EXTINF:-1, Viju+ Sport 🇷🇺
 https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
 
+#EXTINF:-1, Setanta Sports Ukraine HD 🇺🇦
+http://ru2.troya.one:34000/ch146/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LfzipRkGuulRGjpYxhZT46DNg0tz5MYGd3us25a6FxuA
+
+Setanta Sports+ Ukraine HD 🇺🇦
+http://ru2.troya.one:34000/ch333/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LT74z9kHpTqlBpAdpnOmdvaDjDGNMCii6unJQWIuP3QR
+
 #EXTINF:-1 ,VIJU Sport 🇦🇲
 http://31.146.176.94/viasatsport/mpegts
 
