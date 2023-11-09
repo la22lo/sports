@@ -159,6 +159,33 @@ http://154.54.220.244:47256/play/a004/index.m3u8
 #EXTINF:-1, CANAL + FOOT 🇫🇷
 http://154.54.220.244:47256/play/a02y/index.m3u8
 
+#EXTINF:-1, L'EQUIPE 🇫🇷
+https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
+
+#EXTINF:-1,Premier Sports 1 HD 🇮🇪
+http://ru2.troya.one:34000/ch2440/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3Le6uERqG7Zov9z3B3uN_D2fmaTnjkIOvmBMJhqkiQJSD
+
+#EXTINF:-1,Premier Sports 2 HD 🇮🇪
+http://ru2.troya.one:34000/ch2441/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LTXJNDPlyoJdaNRzjrHGfqvJk9l8kniYwHA_Pi1JxGTm
+
+#EXTINF:-1, TNT SPORT 1 HD 🇬🇧
+http://ru2.troya.one:34000/ch236/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LYhLlCwQPsrnmZG3zW-9rDedh-R8o8JAbviWN1pbMwN5
+
+#EXTINF:-1, TNT SPORT 2 HD 🇬🇧
+http://ru2.troya.one:34000/ch334/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LXglH9IDJ4M1GEUjeJTm37UE_e1p_fR9R-Y7NJJDmNMW
+
+#EXTINF:-1, TNT SPORT 3 HD 🇬🇧
+http://ru2.troya.one:34000/ch233/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LZl87bFa5e8co4HTQ9PDqJAquyxpKtU_mEbZXi3jRe4n
+
+#EXTINF:-1, TNT SPORT 4 HD 🇬🇧
+http://ru2.troya.one:34000/ch2002/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LVsBFdKK0e2N2P-cZAn0YPDVGRVfO76zO4MUX3t3VMWc
+
+#EXTINF:-1, VIAPLAY EXTRA 🇬🇧
+https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
+
+#EXTINF:-1, VIAPLAY EXTRA 🇬🇧
+https://d3j7ofexbkp7q4.cloudfront.net:443/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/../../../manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/d9684174-b39b-45a5-b47b-6d037fecbfee/3.m3u8
+
 #EXTINF:-1, Dazn 1 Bar HD 🇩🇪
 http://ru2.troya.one:34000/ch086/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3Lf9Wqz-i7efjITzTQFejvN4AE_EdBrLttl9UTxsjrEeY
 
@@ -284,15 +311,6 @@ http://conexaoonline.top:80/IVONE123/IVONE321/261002
 
 #EXTINF:-1, Eleven 2 HD 🇵🇹
 http://conexaoonline.top:80/IVONE123/IVONE321/261001
-
-#EXTINF:-1, VIAPLAY EXTRA 🇬🇧
-https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
-
-#EXTINF:-1, VIAPLAY EXTRA 🇬🇧
-https://d3j7ofexbkp7q4.cloudfront.net:443/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/../../../manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/d9684174-b39b-45a5-b47b-6d037fecbfee/3.m3u8
-
-#EXTINF:-1, L'EQUIPE 🇫🇷
-https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
 
 #EXTINF:-1, RTSH Sport 🇦🇱
 http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
