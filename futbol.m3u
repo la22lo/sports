@@ -15,6 +15,12 @@ http://93.155.227.38:90/m3u8/webmtelsport4_web.m3u8
 #EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
 http://paco@181.78.105.146:2000/play/a08m/index.m3u8
 
+#EXTINF:-1, ESPN DEPORTE 🇺🇸
+http://sdmx.vip:8080/Rodolfo01/Rodolfo01/158472
+
+#EXTINF:-1, ESPN DEPORTE 🇺🇸
+http://sdmx.vip:8080/Rodolfo01/Rodolfo01/2123475
+
 #EXTINF:-1, Setanta Sports 2 HD 🇷🇺
 https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
 
@@ -44,9 +50,6 @@ http://312834923831637079.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/637079.ts
 
 #EXTINF:-1, ARENA SPORT 6 🇭🇷
 http://667782866163165407.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/637079.ts
-
-#EXTINF:-1, ESPN DEPORTE 🇺🇸
-http://sdmx.vip:8080/Rodolfo01/Rodolfo01/158472
 
 #EXTINF:-1, ESPN DEPORTE 🇺🇸
 http://250557523696676477.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/676477.ts
