@@ -471,6 +471,9 @@ http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1,МАТЧ Футбол 3 HD 🇷🇺
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 
+#EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
+http://158.101.194.132:8080/channel/n4b582dbe/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
+
 #EXTINF:-1, VIASAT SPORT 🇷🇺
 https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
 
