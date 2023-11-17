@@ -237,6 +237,12 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
 #EXTINF:-1,AI SPORT 🇮🇷
 https://af.ayas.ir/hls2/aiosport.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1, DAZN 1 🇮🇹
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/303702
+
+#EXTINF:-1, DAZN 2 🇮🇹
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/303703
+
 #EXTINF:-1, TV3 🇪🇸
 https://Pericopalotes135@directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 
