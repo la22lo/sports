@@ -231,6 +231,21 @@ https://stream.ayas.ir/hls2/bein4.m3u8
 #EXTINF:-1,beIN SPORTS 6 HD 🇶🇦
 http://176.119.29.14:8082/2033e44d-fb78-4d1d-87c5-e113009f710a.m3u8
 
+#EXTINF:-1,beIN SPORTS 1 HD 🇶🇦
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqy6VRX9SCVn6_-xPyGdjifA/ts
+
+#EXTINF:-1,beIN SPORTS 2 HD 🇶🇦
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq9ur1ZsUstvF3NwRuFJBkco/
+
+#EXTINF:-1,beIN SPORTS 3 HD 🇶🇦
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq15m6dNIkup7EArRh1j6kzg/ts
+
+#EXTINF:-1,beIN SPORTS 4 HD 🇶🇦
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq6_Vf2t62rzJlmiB6pCXa5g/ts
+
+#EXTINF:-1,beIN SPORTS 5 HD 🇶🇦
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq1RA2TBo7dFjYMSqxseMNgs/ts
+
 #EXTINF:-1,BEIN SPORT LIVE 🇶🇦
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
 
