@@ -565,7 +565,7 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 http://89.254.128.5:22280/qsport/index.m3u8
 
 #EXTINF:-1, CBC SPORT 🇦🇿
-http://ru2.troya.one:34000/ch1534/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3Lc58-Dsyo7zufBpw-LuqBVWdj-rU0JVLsFvo3O1dW-N7
+http://85.187.218.116:19002/play/a06h/index.m3u8
 
 #EXTINF:-1,TV2 Sport 2 HD 🇳🇴
 http://195.222.7.26:7011/play/a02j
