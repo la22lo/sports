@@ -594,6 +594,18 @@ http://195.222.7.26:7011/play/a02j
 #EXTINF:-1, SPORT LIVE 🇩🇰
 http://195.222.7.26:7011/play/a00t
 
+#EXTINF:-1,TV3 Sport DK 🇩🇰
+http://103.176.90.228:47925/play/a017
+
+#EXTINF:-1,TV2 Sport 🇳🇴
+http://103.176.90.228:47925/play/a019
+
+#EXTINF:-1,TV2 Sport X 🇳🇴
+http://103.176.90.228:47925/play/a01a
+
+#EXTINF:-1,Sport Live 🇩🇰
+http://103.176.90.228:47925/play/a01d
+
 #EXTINF:-1,CCTV5 🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
