@@ -579,6 +579,15 @@ http://89.254.128.5:22280/qsport/index.m3u8
 #EXTINF:-1, CBC SPORT 🇦🇿
 http://85.187.218.116:19002/play/a06h/index.m3u8
 
+#EXTINF:-1, Ziggo Sport Select HD 🇳🇱
+http://78.130.250.2:8023/play/a00n/index.m3u8
+
+#EXTINF:-1, Ziggo Sport Voetbal 🇳🇱
+http://78.130.250.2:8023/play/a00f/index.m3u8
+
+#EXTINF:-1, Ziggo Sport Golf 🇳🇱
+http://78.130.250.2:8023/play/a00g/index.m3u8
+
 #EXTINF:-1,TV2 Sport 2 HD 🇳🇴
 http://195.222.7.26:7011/play/a02j
 
