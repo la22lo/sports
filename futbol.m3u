@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,MAX SPORTS 2 🇧🇬
+http://93.155.227.38:555/m3u8/webmtelsport2_web.m3u8
+
 #EXTINF:-1,Arena Sport 3 HD 🇷🇸
 http://93.155.227.38:90/m3u8/arenasport3.m3u8
 
