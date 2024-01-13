@@ -12,11 +12,11 @@ http://163.172.55.74:8080/ChrisM22/sAQQVR2smjsT/143476
 #EXTINF:-1,LALIGA TV 🇬🇧
 http://163.172.55.74:8080/ChrisM22/sAQQVR2smjsT/156065
 
-#EXTINF:-1,MAX SPORTS 4 🇧🇬
-http://93.155.227.38:90/m3u8/webmtelsport4_web.m3u8
-
 #EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
 http://181.78.105.146:2000/play/a08m/index.m3u8
+
+#EXTINF:-1, SEGUNDA HYPERMOTION 🇪🇸
+http://185.155.103.50:8080/live/Tony1Cuellar/eHSreBzZkg7a/220429.m3u8
 
 #EXTINF:-1, Setanta Sports 2 HD 🇷🇺
 https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
