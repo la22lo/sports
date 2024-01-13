@@ -138,6 +138,9 @@ http://158.101.214.187:8080/channel/62654053/index.m3u8?q=103bce48d8fe1dcdb5781d
 #EXTINF:-1, Setanta Sports 2 HD 🇷🇺
 https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
 
+#EXTINF:-1, Setanta Sports + 🇷🇺
+http://146.59.85.40:89/setantaplus/mono.m3u8
+
 #EXTINF:-1, Беларусь 5 🇧🇾
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 
