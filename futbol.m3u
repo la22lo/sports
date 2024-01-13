@@ -4,10 +4,13 @@
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
 #EXTINF:-1, S LALIGA 🇿🇦
-https://paco@wenkisterin.latsyoving.xyz/live/n-4/chunks.m3u8
+http://163.172.55.74:8080/ChrisM22/sAQQVR2smjsT/14630
 
-#EXTINF:-1,LALIGA TV 🇪🇸 
-https://paco@mlb.mrgamingstreams.com/prem.m3u8
+#EXTINF:-1, S LALIGA 🇿🇦
+http://163.172.55.74:8080/ChrisM22/sAQQVR2smjsT/143476
+
+#EXTINF:-1,LALIGA TV 🇬🇧
+http://163.172.55.74:8080/ChrisM22/sAQQVR2smjsT/156065
 
 #EXTINF:-1,MAX SPORTS 4 🇧🇬
 http://93.155.227.38:90/m3u8/webmtelsport4_web.m3u8
