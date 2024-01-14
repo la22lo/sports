@@ -579,6 +579,9 @@ http://89.254.128.5:22280/qsport/index.m3u8
 #EXTINF:-1, CBC SPORT 🇦🇿
 http://85.187.218.116:19002/play/a06h/index.m3u8
 
+#EXTINF:-1,ACISPORT TV 🇮🇹
+http://45.65.112.49:8000/play/a0ns
+
 #EXTINF:-1, Ziggo Sport Select HD 🇳🇱
 http://78.130.250.2:8023/play/a00n/index.m3u8
 
