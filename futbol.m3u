@@ -6,9 +6,6 @@ http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 #EXTINF:-1, S LALIGA 🇿🇦
 https://paco@hls.streambtw.com/live/stream_6.m3u8
 
-#EXTINF:-1, ESPN HD 🇺🇸
-https://mlb.mrgamingstreams.com/espnd.m3u8
-
 #EXTINF:-1, ESPN DEPORTES 🇺🇸
 http://215602c2.kazaktelekom.com/iptv/D72CVTDTWM4NGY/19166/index.m3u8
 
@@ -56,6 +53,9 @@ http://99f6ad7e.ottrast.com/iptv/6XFVDYBV8KUMDU/19070/index.m3u8
 
 #EXTINF:-1,S SPORT 2 HD 🇹🇷
 http://99f6ad7e.ottrast.com/iptv/6XFVDYBV8KUMDU/19071/index.m3u8
+
+#EXTINF:-1, ESPN HD 🇺🇸
+https://mlb.mrgamingstreams.com/espnd.m3u8
 
 #EXTINF:-1,SEGUNDA 🇪🇸
 http://250557523696320786.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/320786.ts
