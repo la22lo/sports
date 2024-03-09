@@ -21,9 +21,6 @@ http://213.13.16.138/shls/LIVE$Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&st
 #EXTINF:-1,ELEVEN SPORTS 6 🇵🇹
 http://213.13.16.138/shls/LIVE$Eleven_Sports_6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
-#EXTINF:-1,ELEVEN SPORTS 7 🇵🇹
-http://213.13.16.138/shls/LIVE$Eleven_Sports_7_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-
 #EXTINF:-1,MAX SPORTS 4 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
