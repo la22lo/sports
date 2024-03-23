@@ -3,23 +3,26 @@
 #EXTINF:-1,SPILER 2 🇭🇺
 http://163.172.210.95:8000/play/a01c/index.m3u8
 
-#EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
-http://213.13.16.138/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1,BEIN SPORTS 1 🇸🇦
+http://37.122.156.107:4000/play/a0c4/index.m3u8
 
-#EXTINF:-1,ELEVEN SPORTS 2 🇵🇹
-http://213.13.16.138/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1,BEIN SPORTS 2 🇸🇦
+http://37.122.156.107:4000/play/a0by/index.m3u8
 
-#EXTINF:-1,ELEVEN SPORTS 3 🇵🇹
-http://213.13.16.138/shls/LIVE$Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1,BEIN SPORTS 3 🇸🇦
+http://37.122.156.107:4000/play/a0bz/index.m3u8
 
-#EXTINF:-1,ELEVEN SPORTS 4 🇵🇹
-http://213.13.16.138/shls/LIVE$Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1,BEIN SPORTS 4 🇸🇦
+http://37.122.156.107:4000/play/a0c0/index.m3u8
 
-#EXTINF:-1,ELEVEN SPORTS 5 🇵🇹
-http://213.13.16.138/shls/LIVE$Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1,BEIN SPORTS 5 🇸🇦
+http://37.122.156.107:4000/play/a0c1/index.m3u8
 
-#EXTINF:-1,ELEVEN SPORTS 6 🇵🇹
-http://213.13.16.138/shls/LIVE$Eleven_Sports_6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1,BEIN SPORTS 6 🇸🇦
+http://37.122.156.107:4000/play/a0c2/index.m3u8
+
+#EXTINF:-1,BEIN SPORTS 7 🇸🇦
+http://37.122.156.107:4000/play/a0c3/index.m3u8
 
 #EXTINF:-1,MAX SPORTS 4 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
