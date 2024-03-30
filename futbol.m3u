@@ -96,40 +96,13 @@ https://af.ayas.ir/hls2/aiosport.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,AI SPORT 2 🇮🇷
 https://af.ayas.ir/hls2/aiosport2.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1, DAZN 1 🇮🇹
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/303702
-
-#EXTINF:-1, DAZN 2 🇮🇹
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/303703
-
 #EXTINF:-1, TV3 🇪🇸
 https://Pericopalotes135@directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
-
-#EXTINF:-1, EUROSPORT 🇪🇸
-http://SigueSoñandoPericopalotes135@185.188.188.235/live/eurosport/playlist.m3u8
-
-#EXTINF:-1, ESPN HD 🇦🇷
-http://190.90.251.18:8000/play/a009/index.m3u8
-
-#EXTINF:-1, ESPN VIVO HD 🇦🇷
-http://190.90.251.18:8000/play/a003/index.m3u8
-
-#EXTINF:-1, ESPN 3 HD 🇦🇷
-http://190.90.251.18:8000/play/a004/index.m3u8
-
-#EXTINF:-1, ESPN HD 🇦🇷
-http://170.254.172.10:8000/play/a07z/index.m3u8
-
-#EXTINF:-1, ESPN 2 HD 🇦🇷
-http://170.254.172.10:8000/play/a081/index.m3u8
-
-#EXTINF:-1, ESPN 4 HD 🇦🇷
-http://170.254.172.10:8000/play/a07a/index.m3u8
 
 #EXTINF:-1,ESPN HD 🇦🇷
 http://190.61.43.117:45000/play/a01l
 
-#EXTINF:-1,ESPN VIVO HD 🇦🇷
+#EXTINF:-1,ESPN 2 HD 🇦🇷
 http://190.61.43.117:45000/play/a053
 
 #EXTINF:-1,ESPN 3 HD 🇦🇷
@@ -140,12 +113,6 @@ http://190.61.43.117:45000/play/a06w
 
 #EXTINF:-1,ESPN EXTRA HD 🇦🇷
 http://190.61.43.117:45000/play/a01v
-
-#EXTINF:-1,ESPN 🇦🇷
-http://45.5.151.151:8000/play/a0bq/index.m3u8
-
-#EXTINF:-1,ESPN 3 🇦🇷
-http://45.5.151.151:8000/play/a02e/index.m3u8
 
 #EXTINF:-1,Fox Sports 1 HD 🇦🇷
 http://190.108.85.20:9999/play/a011
