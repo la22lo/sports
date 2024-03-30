@@ -96,6 +96,12 @@ https://af.ayas.ir/hls2/aiosport.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,AI SPORT 2 🇮🇷
 https://af.ayas.ir/hls2/aiosport2.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1, ARENA SPORT 1 🇭🇷
+http://80.252.37.194:5000/udp/233.233.233.3:12000
+
+#EXTINF:-1, ARENA SPORT 5 🇷🇸
+http://80.252.37.194:5000/udp/233.233.233.7:12000
+
 #EXTINF:-1, TV3 🇪🇸
 https://Pericopalotes135@directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 
@@ -507,55 +513,3 @@ https://hls.streambtw.com/live/stream_6.m3u8
 
 #EXTINF:-1,TV MAX 🇵🇦 
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?
-
-#EXTINF:-1, S LALIGA 🇿🇦
-https://hisoverline.crystalnew.pro/live/n-4/chunks.m3u8
-
-#EXTINF:-1, Megogo Футбол 1 HD 🇺🇦
-http://158.101.214.187:8080/channel/n6107de45/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-
-#EXTINF:-1, Megogo Футбол 1 HD 🇺🇦
-http://45.146.7.90:8000/play/a00l
-
-#EXTINF:-1, Megogo Футбол 2 HD 🇺🇦
-http://45.146.7.90:8000/play/a00m
-
-#EXTINF:-1, Megogo Футбол 2 HD 🇺🇦
-http://158.101.214.187:8080/channel/n6107de44/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-
-#EXTINF:-1, Megogo Футбол 3 HD 🇺🇦
-http://158.101.214.187:8080/channel/n6107de43/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-
-
-
-
-
-
-
-#EXTINF:-1, ARENA SPORT 1 🇭🇷
-http://80.252.37.194:5000/udp/233.233.233.3:12000
-
-#EXTINF:-1, ARENA SPORT 1 🇭🇷
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/7263/index.m3u8
-
-#EXTINF:-1, ARENA SPORT 5 🇷🇸
-http://80.252.37.194:5000/udp/233.233.233.7:12000
-
-#EXTINF:-1, ELEVEN Sports 1 🇵🇹
-http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2531/index.m3u8
-
-#EXTINF:-1,Arena Sport 3 HD 🇷🇸
-http://93.155.227.38:90/m3u8/arenasport3.m3u8
-
-
-#EXTINF:-1, 1
-http://989423234229262413.of529.xyz:80/play/vi0210254/pTHg@YmFYV/262413.ts
-
-#EXTINF:-1, 2
-http://989423234229165393.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165393.ts
-
-#EXTINF:-1, 3
-http://989423234229165392.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165392.ts
-
-#EXTINF:-1, 4
-http://989423234229165385.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165385.ts
