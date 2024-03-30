@@ -30,6 +30,24 @@ https://edge1.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1,BEIN 2 🇲🇾
 https://edge1.laotv.la/live/Bsport2/index.m3u8
 
+#EXTINF:-1, TNT SPORTS 1 🇬🇧
+https://catowrap.live/mrgamingbtsport1.m3u8
+
+#EXTINF:-1, TNT SPORTS 1 🇬🇧
+http://185.177.125.251:8080/BTSport1HD/index.m3u8
+
+#EXTINF:-1, TNT SPORTS 2 🇬🇧
+https://catowrap.live/mrgamingbtsport2.m3u8
+
+#EXTINF:-1, TNT SPORTS 2 🇬🇧
+http://185.177.125.251:8080/BTSport2HD/index.m3u8
+
+#EXTINF:-1, TNT SPORTS 3 🇬🇧
+https://catowrap.live/mrgamingbtsport3.m3u8
+
+#EXTINF:-1, TNT SPORTS 3 🇬🇧
+http://185.177.125.251:8080/BTSport3HD/index.m3u8
+
 #EXTINF:-1,MAX SPORTS 4 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
