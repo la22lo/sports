@@ -84,33 +84,6 @@ http://46.10.218.219:8000/play/a05n
 #EXTINF:-1, NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
 
-#EXTINF:-1,S SPORT 1 HD 🇹🇷
-http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/24
-
-#EXTINF:-1,S SPORT 2 HD 🇹🇷
-http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/20085
-
-#EXTINF:-1, S SPORT 2 HD 🇹🇷
-http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/20086
-
-#EXTINF:-1, Setanta Sports 1 HD 🇷🇺
-https://tv.movielab.pro/942/video.m3u8
-
-#EXTINF:-1, Setanta Sports 1 HD 🇷🇺
-https://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
-
-#EXTINF:-1, Setanta Sports 1 HD 🇷🇺
-http://158.101.214.187:8080/channel/18b15187/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-
-#EXTINF:-1, Setanta Sports 2 HD 🇷🇺
-http://158.101.214.187:8080/channel/62654053/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-
-#EXTINF:-1, Setanta Sports 2 HD 🇷🇺
-https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
-
-#EXTINF:-1, Setanta Sports + 🇷🇺
-http://146.59.85.40:89/setantaplus/mono.m3u8
-
 #EXTINF:-1, Беларусь 5 🇧🇾
 http://moobl.ru/hls/Belarus5_hd.m3u8
 
