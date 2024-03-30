@@ -57,12 +57,6 @@ http://181.78.105.146:2000/play/a08m/index.m3u8
 #EXTINF:-1,S SPORT 1 HD 🇹🇷
 http://215602c2.kazaktelekom.com/iptv/D72CVTDTWM4NGY/6825/index.m3u8
 
-#EXTINF:-1, ELEVEN 2 🇵🇹
-http://jokerprotectd.xyz:8080/JoaoSilva/45465423/46519
-
-#EXTINF:-1, ELEVEN 3 🇵🇹
-http://jokerprotectd.xyz:8080/JoaoSilva/45465423/42976
-
 #EXTINF:-1,S SPORT 1 HD 🇹🇷
 http://99f6ad7e.ottrast.com/iptv/6XFVDYBV8KUMDU/19070/index.m3u8
 
@@ -71,21 +65,6 @@ http://99f6ad7e.ottrast.com/iptv/6XFVDYBV8KUMDU/19071/index.m3u8
 
 #EXTINF:-1, ESPN HD 🇺🇸
 https://mlb.mrgamingstreams.com/espnd.m3u8
-
-#EXTINF:-1,SEGUNDA 🇪🇸
-http://250557523696320786.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/320786.ts
-
-#EXTINF:-1,SEGUNDA 🇪🇸
-http://250557523696571904.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/571904.ts
-
-#EXTINF:-1, Setanta Sports 2 HD 🇷🇺
-https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
-
-#EXTINF:-1, ELEVEN SPORTS 2 HD 🇵🇹
-http://312834923831394664.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/394664.ts
-
-#EXTINF:-1, ELEVEN SPORTS 2 HD 🇵🇹
-http://667782866163165407.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/394664.ts
 
 #EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇹
 http://99f6ad7e.ottrast.com/iptv/6XFVDYBV8KUMDU/19158/index.m3u8
