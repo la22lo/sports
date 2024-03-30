@@ -408,14 +408,5 @@ https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 #EXTINF:-1, TENNIS
 https://d3qg0hadt0dkov.cloudfront.net:443/amgtennisus/playlist1080_p.m3u8
 
-#EXTINF:-1, WEBOTV 1 🇷🇺
-https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
-
-#EXTINF:-1, WEBOTV 2 🇷🇺
-https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8
-
-#EXTINF:-1, WEBOTV 3 🇷🇺
-https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8
-
 #EXTINF:-1,CCTV5 🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
