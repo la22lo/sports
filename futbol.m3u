@@ -87,60 +87,6 @@ http://84.42.140.147:8890/hdmi
 #EXTINF:-1, Беларусь 5 🇧🇾
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 
-#EXTINF:-1, BEIN SPORTS 1 🇫🇷
-http://154.54.220.244:47256/play/a03b/index.m3u8
-
-#EXTINF:-1, CANAL + SPORTS 🇫🇷
-http://154.54.220.244:47256/play/a004/index.m3u8
-
-#EXTINF:-1, CANAL + FOOT 🇫🇷
-http://154.54.220.244:47256/play/a02y/index.m3u8
-
-#EXTINF:-1, L'EQUIPE 🇫🇷
-https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
-
-#EXTINF:-1, VIAPLAY EXTRA 🇬🇧
-https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
-
-#EXTINF:-1, VIAPLAY EXTRA 🇬🇧
-https://d3j7ofexbkp7q4.cloudfront.net:443/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/../../../manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/d9684174-b39b-45a5-b47b-6d037fecbfee/3.m3u8
-
-#EXTINF:-1,beIN SPORTS 1 HD 🇶🇦
-https://stream.ayas.ir/hls2/bein1.m3u8
-
-#EXTINF:-1,beIN SPORTS 2 HD 🇶🇦
-https://stream.ayas.ir/hls2/bein2.m3u8
-
-#EXTINF:-1,beIN SPORTS 3 HD 🇶🇦
-https://stream.ayas.ir/hls2/bein3.m3u8
-
-#EXTINF:-1,beIN SPORTS 4 HD 🇶🇦
-https://stream.ayas.ir/hls2/bein4.m3u8
-
-#EXTINF:-1,beIN SPORTS 6 HD 🇶🇦
-http://176.119.29.14:8082/2033e44d-fb78-4d1d-87c5-e113009f710a.m3u8
-
-#EXTINF:-1,beIN SPORTS 1 HD 🇶🇦
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqy6VRX9SCVn6_-xPyGdjifA/ts
-
-#EXTINF:-1,beIN SPORTS 2 HD 🇶🇦
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq9ur1ZsUstvF3NwRuFJBkco/
-
-#EXTINF:-1,beIN SPORTS 3 HD 🇶🇦
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq15m6dNIkup7EArRh1j6kzg/ts
-
-#EXTINF:-1,beIN SPORTS 4 HD 🇶🇦
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq6_Vf2t62rzJlmiB6pCXa5g/ts
-
-#EXTINF:-1,beIN SPORTS 5 HD 🇶🇦
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq1RA2TBo7dFjYMSqxseMNgs/ts
-
-#EXTINF:-1,beIN SPORTS 6 HD 🇶🇦
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqwE1DVWhNIhc6wxdSrC1rz0/ts
-
-#EXTINF:-1,beIN SPORTS 7 HD 🇶🇦
-http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq3tkRzs9C_wCUupGUFFS8mE/ts
-
 #EXTINF:-1,BEIN SPORT LIVE 🇶🇦
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
 
