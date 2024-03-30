@@ -93,6 +93,9 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
 #EXTINF:-1,AI SPORT 🇮🇷
 https://af.ayas.ir/hls2/aiosport.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1,AI SPORT 2 🇮🇷
+https://af.ayas.ir/hls2/aiosport2.m3u8?checkedby:iptvcat.com
+
 #EXTINF:-1, DAZN 1 🇮🇹
 http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/303702
 
