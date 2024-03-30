@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,SPILER 2 🇭🇺
-http://163.172.210.95:8000/play/a01c/index.m3u8
-
 #EXTINF:-1,BEIN SPORTS 1 🇸🇦
 http://37.122.156.107:4000/play/a0c4/index.m3u8
 
@@ -36,21 +33,6 @@ http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 #EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
 http://181.78.105.146:2000/play/a08m/index.m3u8
 
-#EXTINF:-1, Setanta Sports 2 HD 🇷🇺
-https://kinescope.io/otaALtprAjbbfBJpXQep9p/master.m3u8
-
-#EXTINF:-1, SPILER 2 🇭🇺
-http://312834923831466462.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/466462.ts
-
-#EXTINF:-1, SPILER 2 🇭🇺
-http://667782866163165407.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/466462.ts
-
-#EXTINF:-1, FAST SPORT 🇦🇲
-http://3.troya.one:34000/ch1492/mono.m3u8?token=romik2023.GEQCZh7EnpKYyvkM90qT4V39kyi7xBDkOTX9-38SaBOu0lGJzH8BkZfoOjKo8e7T
-
-#EXTINF:-1, GO3 SPORT 1 🇱🇹
-https://eu01.spr24.net/17864/index.m3u8?token=Dv98T7iEm5a7aB
-
 #EXTINF:-1,S SPORT 1 HD 🇹🇷
 http://215602c2.kazaktelekom.com/iptv/D72CVTDTWM4NGY/6825/index.m3u8
 
@@ -59,12 +41,6 @@ http://jokerprotectd.xyz:8080/JoaoSilva/45465423/46519
 
 #EXTINF:-1, ELEVEN 3 🇵🇹
 http://jokerprotectd.xyz:8080/JoaoSilva/45465423/42976
-
-#EXTINF:-1,MAX SPORTS 4 🇧🇬
-http://312834923831628466.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/628466.ts
-
-#EXTINF:-1,MAX SPORTS 4 🇧🇬
-http://667782866163165407.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/628466.ts
 
 #EXTINF:-1,S SPORT 1 HD 🇹🇷
 http://99f6ad7e.ottrast.com/iptv/6XFVDYBV8KUMDU/19070/index.m3u8
