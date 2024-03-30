@@ -144,6 +144,9 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1,TUDN 🇲🇽
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 
+#EXTINF:-1, MAX SPORT 1 🇧🇬
+http://79.124.21.250:9981/play/MaxSport1HD/index.m3u8?token=test
+
 #EXTINF:-1, RTSH Sport 🇦🇱
 http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
 
