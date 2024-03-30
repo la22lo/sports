@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
+http://181.78.105.146:2000/play/a08m/index.m3u8
+
 #EXTINF:-1,BEIN SPORTS 1 🇸🇦
 http://37.122.156.107:4000/play/a0c4/index.m3u8
 
