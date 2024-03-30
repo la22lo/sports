@@ -123,32 +123,8 @@ http://190.61.43.117:45000/play/a01g
 #EXTINF:-1,Fox Sports 3 🇦🇷
 http://190.61.43.117:45000/play/a060
 
-#EXTINF:-1,SPORTS 18 🇮🇳
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
-
 #EXTINF:-1, TV1 🇪🇸
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
-
-#EXTINF:-1, ELEVEN SPORTS 4 HD 🇵🇹
-http://902801723609670621.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/670621.ts
-
-#EXTINF:-1, ELEVEN SPORTS 4 HD 🇵🇹
-http://001004.eu:8080/g6kZ9ycGrk/eiJxdY40Pz/78
-
-#EXTINF:-1, ELEVEN SPORTS 4 HD 🇵🇹
-http://31.42.185.216:8000/aeronicsaol/75Q1QVU1ZH/187476
-
-#EXTINF:-1, Sport TV1 🇵🇹
-http://15.204.217.195/SPORTTV1/index.m3u8
-
-#EXTINF:-1, Sport TV2 🇵🇹
-http://15.204.217.195/SPORTTV2/index.m3u8
-
-#EXTINF:-1, Sport TV3 🇵🇹
-http://15.204.217.195/SPORTTV3/index.m3u8
-
-#EXTINF:-1,TV MAX 🇵🇦 
-https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?
 
 #EXTINF:-1,TV MAX 🇵🇦 
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
@@ -159,62 +135,8 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1,TUDN 🇲🇽
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 
-#EXTINF:-1, Eleven 1 HD 🇵🇹
-http://conexaoonline.top:80/IVONE123/IVONE321/261002
-
-#EXTINF:-1, Eleven 2 HD 🇵🇹
-http://conexaoonline.top:80/IVONE123/IVONE321/261001
-
 #EXTINF:-1, RTSH Sport 🇦🇱
 http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
-
-#EXTINF:-1,SportAlb 🇦🇱
-http://195.206.234.17:8000/play/a00w
-
-#EXTINF:-1,Arena Sport 1 HD 🇷🇸
-http://93.155.227.38:90/m3u8/arenasport1.m3u8
-
-#EXTINF:-1,Arena Sport 2 HD 🇷🇸
-http://93.155.227.38:90/m3u8/arenasport2.m3u8
-
-#EXTINF:-1,Arena Sport 3 HD 🇷🇸
-http://93.155.227.38:90/m3u8/arenasport3.m3u8
-
-#EXTINF:-1,Arena Sport 4 HD 🇷🇸
-http://93.155.227.38:90/m3u8/arenasport4.m3u8
-
-#EXTINF:-1,Arena Sport 5 HD 🇷🇸
-http://93.155.227.38:90/m3u8/arenasport5.m3u8
-
-#EXTINF:-1,Arena Premium 1 HD (PP) 🇷🇸
-http://185.6.22.6:8000/play/a03n
-
-#EXTINF:-1,Arena Premium 2 HD (PP) 🇷🇸
-http://185.6.22.6:8000/play/a04l
-
-#EXTINF:-1,Arena Premium 3 HD (PP) 🇷🇸
-http://185.6.22.6:8000/play/a04m
-
-#EXTINF:-1,ARENA SPORT 3 🇷🇸
-http://93.155.227.38:90/m3u8/arenasport3.m3u8
-
-#EXTINF:-1,ARENA SPORT 3 🇭🇷
-http://mail.195-62-32-107.cprapid.com:8080/etzi.patrizio/vMzMcEyk5N/192164
-
-#EXTINF:-1,ARENA SPORT 3 🇷🇸
-http://mail.195-62-32-107.cprapid.com:8080/etzi.patrizio/vMzMcEyk5N/192170
-
-#EXTINF:-1,ARENA SPORT 3 🇷🇸
-http://mail.195-62-32-107.cprapid.com:8080/etzi.patrizio/vMzMcEyk5N/286403
-
-#EXTINF:-1,SK 1 HR HD 🇭🇷
-http://185.6.22.6:8000/play/a040
-
-#EXTINF:-1,SK 2 HR HD 🇭🇷
-http://185.6.22.6:8000/play/a042
-
-#EXTINF:-1,SK 3 HR HD 🇭🇷
-http://185.6.22.6:8000/play/a041
 
 #EXTINF:-1,HRT2 🇭🇷
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
@@ -224,120 +146,6 @@ http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
 
 #EXTINF:-1, HRT 2 🇭🇷
 http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8?
-
-#EXTINF:-1,NOVA SPORT 1 🇸🇰
-http://185.188.188.235/live/novasport1/playlist.m3u8
-
-#EXTINF:-1,NOVA SPORT 2 🇸🇰
-http://185.188.188.235/live/novasport2/playlist.m3u8
-
-#EXTINF:-1,NOVA SPORT 3 🇸🇰
-http://185.188.188.235/live/novasport3/playlist.m3u8
-
-#EXTINF:-1,NOVA SPORT 4 🇸🇰
-http://185.188.188.235/live/novasport4/playlist.m3u8
-
-#EXTINF:-1, Premier sport 1 🇸🇰
-http://185.188.188.235/live/premiersport/playlist.m3u8
-
-#EXTINF:-1, Premier sport 2 🇸🇰
-http://185.188.188.235/live/premiersport2/playlist.m3u8
-
-#EXTINF:-1,ARENA SPORT 1 SK 🇸🇰
-http://185.188.188.235/live/arenasport1/playlist.m3u8
-
-#EXTINF:-1,ARENA SPORT 2 SK 🇸🇰
-http://185.188.188.235/live/arenasport2/playlist.m3u8
-
-#EXTINF:-1,CT SPORT 🇸🇰
-http://185.188.188.235/live/ctsport/playlist.m3u8
-
-#EXTINF:-1,SPORT 1 🇸🇰
-http://185.188.188.235/live/sport1/playlist.m3u8
-
-#EXTINF:-1,SPORT 2 🇸🇰
-http://185.188.188.235/live/sport2/playlist.m3u8
-
-#EXTINF:-1,MAX SPORTS 1 🇧🇬
-http://93.155.227.38:555/m3u8/webmtelsport1_web.m3u8
-
-#EXTINF:-1,MAX SPORTS 2 🇧🇬
-http://93.155.227.38:555/m3u8/webmtelsport2_web.m3u8
-
-#EXTINF:-1,MAX SPORTS 3 🇧🇬
-http://93.155.227.38:555/m3u8/webmtelsport3_web.m3u8
-
-#EXTINF:-1,MAX SPORTS 3 🇧🇬
-http://93.155.227.38:90/m3u8/webmtelsport3_web.m3u8
-
-#EXTINF:-1,MAX SPORTS 4 🇧🇬
-http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
-
-#EXTINF:-1,MAX SPORTS 4 🇧🇬
-http://93.155.227.38:90/m3u8/webmtelsport4_web.m3u8
-
-#EXTINF:-1, MAX SPORT 3HD 🇧🇬
-http://62.176.77.22:9781/play/a00i
-
-#EXTINF:-1, Diema Sport 2 🇧🇬
-http://93.155.227.38:90/m3u8/diemasport2hd.m3u8
-
-#EXTINF:-1, Diema Sport 3 🇧🇬
-http://93.155.227.38:90/m3u8/diemasport3hd.m3u8
-
-#EXTINF:-1,Nova Sp 🇧🇬
-http://88.203.157.4:9770/play/a00l/index.m3u8
-
-#EXTINF:-1,Nova Sp 🇧🇬
-http://88.203.157.4:9770/play/a00m/index.m3u8
-
-#EXTINF:-1,Ring_1 🇧🇬
-http://88.203.157.4:9770/play/a00n/index.m3u8
-
-#EXTINF:-1,Ring_2 🇧🇬
-http://88.203.157.4:9770/play/a00o/index.m3u8
-
-#EXTINF:-1,Eleven Sports 1 HD 🇵🇱
-http://45.65.112.49:8000/play/a05d
-
-#EXTINF:-1,Eleven Sports 2 HD 🇵🇱
-http://45.65.112.49:8000/play/a052
-
-#EXTINF:-1,Eleven Sports 3 HD 🇵🇱
-http://45.65.112.49:8000/play/a04r
-
-#EXTINF:-1,ELEVEN SPORTS 4 HD 🇵🇱
-http://45.65.112.49:8000/play/a02s
-
-#EXTINF:-1,CANAL+ PREMIUM HD 🇵🇱
-http://45.65.112.49:8000/play/a03h
-
-#EXTINF:-1,CANAL+ SPORT 2 HD 🇵🇱
-http://45.65.112.49:8000/play/a04j
-
-#EXTINF:-1,CANAL+ SPORT 3 HD 🇵🇱
-http://45.65.112.49:8000/play/a0kq
-
-#EXTINF:-1,CANAL+ SPORT 4 HD 🇵🇱
-http://45.65.112.49:8000/play/a0kr
-
-#EXTINF:-1,CANAL+ SPORT 5 HD 🇵🇱
-http://45.65.112.49:8000/play/a0ku
-
-#EXTINF:-1,CANAL+ SPORT HD 🇵🇱
-http://45.65.112.49:8000/play/a03a
-
-#EXTINF:-1,Polsat Sport Extra HD 🇵🇱
-http://45.65.112.49:8000/play/a08h
-
-#EXTINF:-1,Polsat Sport HD 🇵🇱
-http://45.65.112.49:8000/play/a08n
-
-#EXTINF:-1,Polsat Sport Premium 1 🇵🇱
-http://45.65.112.49:8000/play/a0br
-
-#EXTINF:-1,Polsat Sport Premium 2 🇵🇱
-http://45.65.112.49:8000/play/a0bs
 
 #EXTINF:-1, POLSAT SPORT NEWS HD PL 🇵🇱
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7303/index.m3u8
