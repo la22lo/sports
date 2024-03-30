@@ -30,6 +30,9 @@ https://edge1.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1,BEIN 2 🇲🇾
 https://edge1.laotv.la/live/Bsport2/index.m3u8
 
+#EXTINF:-1,ONE SPORT 🇮🇱
+http://37.122.156.107:4000/play/2/index.m3u8
+
 #EXTINF:-1, TNT SPORTS 1 🇬🇧
 https://catowrap.live/mrgamingbtsport1.m3u8
 
