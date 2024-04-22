@@ -3,11 +3,17 @@
 #EXTINF:-1, Nova Sport 1 🇨🇿
 http://91.237.170.193:8002/play/13203/index.m3u8
 
+#EXTINF:-1, Nova Sport 2 🇨🇿
+http://91.237.170.193:8003/play/14110/index.m3u8
+
 #EXTINF:-1, Nova Sport 3 🇨🇿
 http://91.237.170.193:8001/play/14054/index.m3u8
 
 #EXTINF:-1, Nova Sport 4 🇨🇿
 http://91.237.170.193:8001/play/14055/index.m3u8
+
+#EXTINF:-1, Nova Sport 5 🇨🇿
+http://91.237.170.193:8003/play/15216/index.m3u8
 
 #EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
 http://181.78.105.146:2000/play/a08m/index.m3u8
