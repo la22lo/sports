@@ -18,57 +18,6 @@ http://91.237.170.193:8003/play/15216/index.m3u8
 #EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
 http://181.78.105.146:2000/play/a08m/index.m3u8
 
-#EXTINF:-1,ONE SPORT 🇮🇱
-http://37.122.156.107:4000/play/2/index.m3u8
-
-#EXTINF:-1,BEIN SPORTS 1 🇸🇦
-http://37.122.156.107:4000/play/a0c4/index.m3u8
-
-#EXTINF:-1,BEIN SPORTS 2 🇸🇦
-http://37.122.156.107:4000/play/a0by/index.m3u8
-
-#EXTINF:-1,BEIN SPORTS 3 🇸🇦
-http://37.122.156.107:4000/play/a0bz/index.m3u8
-
-#EXTINF:-1,BEIN SPORTS 4 🇸🇦
-http://37.122.156.107:4000/play/a0c0/index.m3u8
-
-#EXTINF:-1,BEIN SPORTS 5 🇸🇦
-http://37.122.156.107:4000/play/a0c1/index.m3u8
-
-#EXTINF:-1,BEIN SPORTS 6 🇸🇦
-http://37.122.156.107:4000/play/a0c2/index.m3u8
-
-#EXTINF:-1,BEIN SPORTS 7 🇸🇦
-http://37.122.156.107:4000/play/a0c3/index.m3u8
-
-#EXTINF:-1,BEIN 1 🇲🇾
-https://edge1.laotv.la/live/Bsport1/index.m3u8
-
-#EXTINF:-1,BEIN 2 🇲🇾
-https://edge1.laotv.la/live/Bsport2/index.m3u8
-
-#EXTINF:-1,M Liga 🇪🇸
-http://215602c2.kazaktelekom.com/iptv/D72CVTDTWM4NGY/6073/index.m3u8
-
-#EXTINF:-1, TNT SPORTS 1 🇬🇧
-https://catowrap.live/mrgamingbtsport1.m3u8
-
-#EXTINF:-1, TNT SPORTS 1 🇬🇧
-http://185.177.125.251:8080/BTSport1HD/index.m3u8
-
-#EXTINF:-1, TNT SPORTS 2 🇬🇧
-https://catowrap.live/mrgamingbtsport2.m3u8
-
-#EXTINF:-1, TNT SPORTS 2 🇬🇧
-http://185.177.125.251:8080/BTSport2HD/index.m3u8
-
-#EXTINF:-1, TNT SPORTS 3 🇬🇧
-https://catowrap.live/mrgamingbtsport3.m3u8
-
-#EXTINF:-1, TNT SPORTS 3 🇬🇧
-http://185.177.125.251:8080/BTSport3HD/index.m3u8
-
 #EXTINF:-1,MAX SPORTS 4 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
