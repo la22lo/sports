@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, Nova Sport 1 🇨🇿
+http://91.237.170.193:8002/play/13203/index.m3u8
+
 #EXTINF:-1, Nova Sport 3 🇨🇿
 http://91.237.170.193:8001/play/14054/index.m3u8
 
