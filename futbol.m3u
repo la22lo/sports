@@ -66,6 +66,12 @@ http://str28.tv/1846/video.m3u8?token=443838617b5249cf1f748aa0f47fbb74
 #EXTINF:-1,SETANTA SPORT 2 🇺🇦
 http://ru.iptv.monster/play/943/58A6BB07681962A/video.m3u8
 
+#EXTINF:-1, Ziggo Sport Select HD 🇳🇱
+http://78.130.250.2:8023/play/a00n/index.m3u8
+
+#EXTINF:-1, Ziggo Sport Voetbal 🇳🇱
+http://78.130.250.2:8023/play/a00f/index.m3u8
+
 #EXTINF:-1,bTVActionHD 🇧🇬
 http://185.163.244.10:204/play/bTVActionHD/index.m3u8
 
