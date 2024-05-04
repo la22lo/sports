@@ -3,12 +3,6 @@
 #EXTINF:-1,VIX LALIGA 🇨🇷
 http://190.185.121.102:58092/play/a00t
 
-#EXTINF:-1,LALIGA 🇨🇷
-https://linear-507.frequency.stream/mt/studio/507/hls/master/playlist.m3u8
-
-#EXTINF:-1,LALIGA 🇨🇷
-https://linear-506.frequency.stream/mt/studio/506/hls/master/playlist.m3u8
-
 #EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
 http://181.78.105.146:2000/play/a08m/index.m3u8
 
@@ -383,3 +377,9 @@ https://d3qg0hadt0dkov.cloudfront.net:443/amgtennisus/playlist1080_p.m3u8
 
 #EXTINF:-1,CCTV5 🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+
+#EXTINF:-1,LALIGA 🇨🇷
+https://linear-507.frequency.stream/mt/studio/507/hls/master/playlist.m3u8
+
+#EXTINF:-1,LALIGA 🇨🇷
+https://linear-506.frequency.stream/mt/studio/506/hls/master/playlist.m3u8
