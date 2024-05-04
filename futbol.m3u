@@ -9,6 +9,33 @@ http://181.78.105.146:2000/play/a08m/index.m3u8
 #EXTINF:-1,SuperSport 2 🇦🇱
 http://185.248.173.79:9999/play/arep
 
+#EXTINF:-1,SUPER SPORT 3 🇦🇱
+http://185.248.173.79:9999/play/asp3
+
+#EXTINF:-1,SUPER SPORT 4 🇦🇱
+http://185.248.173.79:9999/play/a06c
+
+#EXTINF:-1,SUPER SPORT 5 🇦🇱
+http://185.248.173.79:9999/play/a004
+
+#EXTINF:-1,SUPER SPORT 6 🇦🇱
+http://185.248.173.79:9999/play/a00j
+
+#EXTINF:-1,SUPER SPORT 7 🇦🇱
+http://185.248.173.79:9999/play/a00k
+
+#EXTINF:-1,SUPER SPORT KOSOVA 1 🇽🇰
+http://185.248.173.79:9999/play/a00l
+
+#EXTINF:-1,OverSport2 🇦🇱
+http://185.248.173.79:9999/play/a006
+
+#EXTINF:-1,OverSport3 🇦🇱
+http://185.248.173.79:9999/play/a009
+
+#EXTINF:-1,Over Sport 4 🇦🇱
+http://185.248.173.79:9999/play/a00b
+
 #EXTINF:-1, Match HD--КК 🇷🇺
 http://178.212.71.253:8002/play/a00k/index.m3u8
 
@@ -17,6 +44,9 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 
 #EXTINF:-1,BEIN SPORT LIVE 🇶🇦
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
+
+#EXTINF:-1,SuperSport 2 🇦🇱
+http://185.248.173.79:9999/play/arep
 
 #EXTINF:-1, ARENA SPORT 1 🇭🇷
 http://80.252.37.194:5000/udp/233.233.233.3:12000
