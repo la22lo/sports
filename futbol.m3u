@@ -27,11 +27,11 @@ http://190.61.43.117:45000/play/a053
 #EXTINF:-1,ESPN 3 HD 🇦🇷
 http://190.61.43.117:45000/play/a051
 
-#EXTINF:-1,ESPN 4 🇦🇷
-http://190.61.43.117:45000/play/a06w
-
-#EXTINF:-1,ESPN EXTRA HD 🇦🇷
+#EXTINF:-1,ESPN 4 HD 🇦🇷
 http://190.61.43.117:45000/play/a01v
+
+#EXTINF:-1,ESPN 5 🇦🇷
+http://190.61.43.117:45000/play/a06w
 
 #EXTINF:-1,Fox Sports 1 HD 🇦🇷
 http://190.108.85.20:9999/play/a011
@@ -54,12 +54,6 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1,TUDN 🇲🇽
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 
-#EXTINF:-1, MAX SPORT 1 🇧🇬
-http://79.124.21.250:9981/play/MaxSport1HD/index.m3u8?token=test
-
-#EXTINF:-1, RTSH Sport 🇦🇱
-http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
-
 #EXTINF:-1,HRT2 🇭🇷
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
 
@@ -68,15 +62,6 @@ http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
 
 #EXTINF:-1, HRT 2 🇭🇷
 http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8?
-
-#EXTINF:-1, POLSAT SPORT NEWS HD PL 🇵🇱
-http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7303/index.m3u8
-
-#EXTINF:-1, POLSAT SPORT 1 PL 🇵🇱
-http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7296/index.m3u8
-
-#EXTINF:-1, POLSAT SPORT PREMIUM 1 PL 🇵🇱
-http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7304/index.m3u8
 
 #EXTINF:-1, NOVA Sport 1 🇨🇿 
 http://78.130.250.2:8023/play/a009/index.m3u8
