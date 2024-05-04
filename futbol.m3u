@@ -57,6 +57,12 @@ http://str28.tv/7881/video.m3u8?token=443838617b5249cf1f748aa0f47fbb74
 #EXTINF:-1,Матч! Футбол 2 HD 🇷🇺
 http://91.207.114.209:5000/c115
 
+#EXTINF:-1,Матч! Футбол 2 HD 🇷🇺
+http://str28.tv/2222/video.m3u8?token=443838617b5249cf1f748aa0f47fbb74
+
+#EXTINF:-1,Матч! Футбол 3 HD 🇷🇺
+http://str28.tv/1846/video.m3u8?token=443838617b5249cf1f748aa0f47fbb74
+
 #EXTINF:-1,SETANTA SPORT 2 🇺🇦
 http://ru.iptv.monster/play/943/58A6BB07681962A/video.m3u8
 
