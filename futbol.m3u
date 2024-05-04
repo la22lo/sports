@@ -42,6 +42,9 @@ http://185.248.173.79:9999/play/a00b
 #EXTINF:-1, Match HD--КК 🇷🇺
 http://178.212.71.253:8002/play/a00k/index.m3u8
 
+#EXTINF:-1,bTVActionHD 🇧🇬
+http://185.163.244.10:204/play/bTVActionHD/index.m3u8
+
 #EXTINF:-1, Беларусь 5 🇧🇾
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 
