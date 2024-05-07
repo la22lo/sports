@@ -21,6 +21,9 @@ http://190.185.121.102:58092/play/a00t
 #EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
 http://181.78.105.146:2000/play/a08m/index.m3u8
 
+#EXTINF:-1, SUPERSPORT LaLiga 🇿🇦
+http://185.71.64.20:23000/marinoducati/94hBcQzd3A/48795
+
 #EXTINF:-1,SuperSport 2 🇦🇱
 http://185.248.173.79:9999/play/arep
 
