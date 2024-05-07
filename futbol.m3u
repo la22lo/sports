@@ -12,6 +12,9 @@ http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1, Ziggo Sport Select HD 🇳🇱
 http://78.130.250.2:8023/play/a00n/index.m3u8
 
+#EXTINF:-1, CHAMP
+http://paco@www.oha.to/play/3566202896/index.m3u8
+
 #EXTINF:-1, Tring Sport 1 FHD 🇦🇱
 http://aziptv.net:8080/EMIRETVIptv200conn/7RBJU2tfdYDy/1762
 
