@@ -9,9 +9,6 @@ https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
 #EXTINF:-1,Матч! Футбол 1 HD 🇷🇺
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 
-#EXTINF:-1,Матч! Футбол 1 HD 🇷🇺
-http://str28.tv/7881/video.m3u8?token=443838617b5249cf1f748aa0f47fbb74
-
 #EXTINF:-1, Ziggo Sport Select HD 🇳🇱
 http://78.130.250.2:8023/play/a00n/index.m3u8
 
