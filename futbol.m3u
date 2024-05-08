@@ -354,6 +354,13 @@ https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 #EXTINF:-1, TENNIS
 https://d3qg0hadt0dkov.cloudfront.net:443/amgtennisus/playlist1080_p.m3u8
 
+#EXTINF:-1,Match HD
+http://194.143.148.28/MatchHD/mpegts
+#EXTINF:-1,Match Arena
+http://194.143.148.28/MatchArena/mpegts
+#EXTINF:-1,Match Futbol 1
+http://194.143.148.28/MatchFutbol1/mpegts
+
 #EXTINF:-1,LALIGA 🇨🇷
 https://linear-507.frequency.stream/mt/studio/507/hls/master/playlist.m3u8
 
