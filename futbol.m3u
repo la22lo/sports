@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,TV MAX 🇵🇦 
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+
 #EXTINF:-1, Match HD 🇷🇺
 http://91.142.158.107:8092/play/33/index.m3u8
 
@@ -11,21 +14,6 @@ http://194.143.148.28:8080/MatchFutbol1/mpegts
 
 #EXTINF:-1, Ziggo Sport Select HD 🇳🇱
 http://78.130.250.2:8023/play/a00n/index.m3u8
-
-#EXTINF:-1, CHAMP
-http://paco@www.oha.to/play/3566202896/index.m3u8
-
-#EXTINF:-1, TNT
-https://s@d2fzbxqedm1sx.cloudfront.net/zone-11_1.m3u8
-
-#EXTINF:-1, TNT
-https://s@dns.crystalnew.pro:443/n-1_1.m3u8
-
-#EXTINF:-1, TNT
-https://plpl111.fdhgfdha.space/playlist/22126/jcvjcks.cloudcdn5.com/caxi.m3u8
-
-#EXTINF:-1, TNT
-https://pl.rrrewwq888.shop/playlist/22126/goozr.uyyvbc4558d6gg.shop/caxi.m3u8
 
 #EXTINF:-1, Tring Sport 1 FHD 🇦🇱
 http://aziptv.net:8080/EMIRETVIptv200conn/7RBJU2tfdYDy/1762
@@ -176,9 +164,6 @@ http://190.61.43.117:45000/play/a060
 
 #EXTINF:-1, TV1 🇪🇸
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
-
-#EXTINF:-1,TV MAX 🇵🇦 
-https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 
 #EXTINF:-1,TV MAX 🇵🇦 
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
