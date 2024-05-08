@@ -42,6 +42,9 @@ https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
 #EXTINF:-1, VARZISH SPORT 🇹🇯
 https://live.teleradiocom.tj/5/3m.m3u8
 
+#EXTINF:-1, CBC SPORT 🇦🇿
+https://bozztv.com/dvrfl05/gin-cbc-sport/index.m3u8
+
 #EXTINF:-1, Ziggo Sport Select HD 🇳🇱
 http://78.130.250.2:8023/play/a00n/index.m3u8
 
