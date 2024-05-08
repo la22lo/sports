@@ -357,6 +357,19 @@ https://d3qg0hadt0dkov.cloudfront.net:443/amgtennisus/playlist1080_p.m3u8
 #EXTINF:-1,CCTV5 🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
+#EXTINF:-1,Arena 1 Premium
+http://94.250.2.6:10600/play/gtIDEfibBy
+#EXTINF:-1,Arena 2 Premium
+http://94.250.2.6:10600/play/LjzYChqCJD
+#EXTINF:-1,Arena 3 Premium
+http://94.250.2.6:10600/play/0QhXJ9nCVj
+#EXTINF:-1,Arena Sport 1
+http://94.250.2.6:10600/play/sfwZs8fQbA
+#EXTINF:-1,Arena Sport 2
+http://94.250.2.6:10600/play/uOcKOWbtpc
+#EXTINF:-1,Arena Sport 3
+http://94.250.2.6:10600/play/Fj6334HwK3
+
 #EXTINF:-1,LALIGA 🇨🇷
 https://linear-507.frequency.stream/mt/studio/507/hls/master/playlist.m3u8
 
