@@ -15,6 +15,9 @@ http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1, AIO SPORT 🇮🇷
 https://live.aionet.ir/hls/tv3/tv3_540/index.m3u8
 
+#EXTINF:-1, QAZ SPORT 🇰🇿
+https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
+
 #EXTINF:-1, Ziggo Sport Select HD 🇳🇱
 http://78.130.250.2:8023/play/a00n/index.m3u8
 
