@@ -21,6 +21,9 @@ http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/index.m3u8
 #EXTINF:-1, BEIN Sports 1 HD 🇸🇦
 http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, BEIN Sports 1 HD 🇸🇦
+http://mixbix.xyz:8080/live/mafg5ebzza4b/9czcEJQdxpC2/268504.m3u8
+
 #EXTINF:-1,bTVActionHD 🇧🇬
 http://185.163.244.10:204/play/bTVActionHD/index.m3u8
 
