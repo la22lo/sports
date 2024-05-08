@@ -162,6 +162,15 @@ http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1,Матч! Футбол 2 HD 🇷🇺
 http://91.207.114.209:5000/c115
 
+#EXTINF:-1, Setanta Sports 1 🇷🇺
+https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
+
+#EXTINF:-1, Setanta Sports 2 🇷🇺
+https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
+
+#EXTINF:-1, Setanta Sports KZ 🇰🇿
+https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
+
 #EXTINF:-1,SETANTA SPORT 2 🇺🇦
 http://ru.iptv.monster/play/943/58A6BB07681962A/video.m3u8
 
