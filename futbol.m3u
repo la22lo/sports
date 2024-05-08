@@ -39,6 +39,12 @@ https://live.aionet.ir/hls/tv3/tv3_540/index.m3u8
 #EXTINF:-1, QAZ SPORT 🇰🇿
 https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
 
+#EXTINF:-1, QAZ SPORT 🇰🇿
+http://87.99.87.203:2007/channel/n7c9a2d6e/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
+
+#EXTINF:-1, QAZ SPORT 🇰🇿
+http://158.101.214.187:8080/channel/6a187c2a/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
+
 #EXTINF:-1, VARZISH SPORT 🇹🇯
 https://live.teleradiocom.tj/5/3m.m3u8
 
