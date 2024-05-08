@@ -12,6 +12,9 @@ https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
 #EXTINF:-1,Матч! Футбол 1 HD 🇷🇺
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 
+#EXTINF:-1, AIO SPORT 🇮🇷
+https://live.aionet.ir/hls/tv3/tv3_540/index.m3u8
+
 #EXTINF:-1, Ziggo Sport Select HD 🇳🇱
 http://78.130.250.2:8023/play/a00n/index.m3u8
 
