@@ -279,6 +279,9 @@ http://178.219.128.68:64889/POLSSPORHD
 #EXTINF:-1,Polsat Sport NEWS 🇵🇱
 http://178.219.128.68:64889/POLSSPORNEWSHD
 
+#EXTINF:-1, Nova Sport Bulgaria 🇧🇬
+http://87.120.142.8:18000/bs_nova_sport
+
 #EXTINF:-1,Match Arena 🇷🇺
 http://194.143.148.28/MatchArena/mpegts
 
