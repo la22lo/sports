@@ -51,6 +51,21 @@ http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/tracks-v1a1/mono.m3u8
 #EXTINF:-1,T SPORTS 🇮🇳
 http://103.151.60.214:7444/1101/video.m3u8
 
+#EXTINF:-1, beIN SPORT 01 SD 🇸🇦
+http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/242881.m3u8
+
+#EXTINF:-1, beIN SPORT 02 SD 🇸🇦
+http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/242882.m3u8
+
+#EXTINF:-1, beIN SPORT 03 SD 🇸🇦
+http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/242883.m3u8
+
+#EXTINF:-1, beIN SPORT 04 SD 🇸🇦
+http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/242884.m3u8
+
+#EXTINF:-1, beIN SPORT 05 SD 🇸🇦
+http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/242885.m3u8
+
 #EXTINF:-1,SuperSport 2 🇦🇱
 http://185.248.173.79:9999/play/arep
 
