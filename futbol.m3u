@@ -66,6 +66,12 @@ http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/242884.m3u8
 #EXTINF:-1, beIN SPORT 05 SD 🇸🇦
 http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/242885.m3u8
 
+#EXTINF:-1, beIN SPORT 1 🇬🇧
+http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/237237.m3u8
+
+#EXTINF:-1, beIN SPORT 2 🇬🇧
+http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/237254.m3u8
+
 #EXTINF:-1,SuperSport 2 🇦🇱
 http://185.248.173.79:9999/play/arep
 
