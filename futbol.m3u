@@ -51,6 +51,12 @@ http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/tracks-v1a1/mono.m3u8
 #EXTINF:-1,T SPORTS 🇮🇳
 http://103.151.60.214:7444/1101/video.m3u8
 
+#EXTINF:-1,T SPORTS 🇮🇳
+http://portal.code-crafters.app/app/play.m3u8?id=10741
+
+#EXTINF:-1,T SPORTS 🇮🇳
+https://tv5.hoichoi24.com/1000/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, beIN SPORT 01 SD 🇸🇦
 http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/242881.m3u8
 
