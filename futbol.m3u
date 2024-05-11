@@ -336,6 +336,9 @@ http://78.130.250.2:8023/play/a00f/index.m3u8
 #EXTINF:-1, Ziggo Sport Golf 🇳🇱
 http://78.130.250.2:8023/play/a00g/index.m3u8
 
+#EXTINF:-1, Sport5 🇮🇱
+https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
+
 #EXTINF:-1, SSC 1 HD 🇶🇦
 http://mixbix.xyz:8080/live/3VHmwTKF6qmN/eP3LNRbuUZ3w/294865.m3u8
 
