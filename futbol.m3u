@@ -105,15 +105,6 @@ http://185.248.173.79:9999/play/a00l
 #EXTINF:-1, Bein Sports 1 France 🇫🇷
 http://51.178.65.238/BeinSport/mono.m3u8
 
-#EXTINF:-1,OverSport2 🇦🇱
-http://185.248.173.79:9999/play/a006
-
-#EXTINF:-1,OverSport3 🇦🇱
-http://185.248.173.79:9999/play/a009
-
-#EXTINF:-1,Over Sport 4 🇦🇱
-http://185.248.173.79:9999/play/a00b
-
 #EXTINF:-1, Match HD--КК 🇷🇺
 http://178.212.71.253:8002/play/a00k/index.m3u8
 
