@@ -360,6 +360,12 @@ http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=108186
 #EXTINF:-1, SSC EXTRA 2 SD 🇶🇦
 http://mixbix.xyz:8080/live/3VHmwTKF6qmN/eP3LNRbuUZ3w/294875.m3u8
 
+#EXTINF:-1,AIO Sport 1 🇶🇦
+https://live.aionet.ir/hls/aiosport/aiosport_1080/index.m3u8
+
+#EXTINF:-1,AIO Sport 2 🇶🇦
+https://live.aionet.ir/hls/aiosport2/aiosport2.m3u8
+
 #EXTINF:-1,CCTV5 🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
