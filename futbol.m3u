@@ -4,9 +4,6 @@
 http://185.71.64.20:23000/marinoducati/94hBcQzd3A/48642
 
 #EXTINF:-1, Arena Sport 4 (HR) 🇭🇷
-http://215602c2.kazaktelekom.com/iptv/Q9ZPNXGPEYBRN3KARM7LTYTB/7266/index.m3u8
-
-#EXTINF:-1, Arena Sport 4 (HR) 🇭🇷
 http://80.252.37.194:5000/udp/233.233.233.6:12000
 
 #EXTINF:-1,VIX LALIGA 🇨🇷
@@ -23,9 +20,6 @@ http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/237254.m3u8
 
 #EXTINF:-1, KORA 360 🇸🇦
 https://prod-fastly-us-west-1.video.pscp.tv/Transcoding/v1/hls/ggJEu8Jbjyiu6c0XWM7fqxl_X5rTIY2lQA6DzZ9k2IY433Jg93yzhCIRxxRYaz3eXd2MCMff04xm1bAYKV4H-A/non_transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/master_dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1, LIGA 🇪🇸
-http://215602c2.kazaktelekom.com/iptv/Q9ZPNXGPEYBRN3KARM7LTYTB/6073/index.m3u8
 
 #EXTINF:-1,beIN SPORTS 1 🇸🇦
 http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/index.m3u8
