@@ -30,8 +30,20 @@ https://paco@www.oha.to/play/1019163502/index.m3u8
 #EXTINF:-1,beIN SPORTS 1 🇸🇦
 http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/index.m3u8
 
+#EXTINF:-1,beIN SPORTS 1 🇸🇦
+http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, beIN SPORT 01 SD 🇸🇦
+http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/242881.m3u8
+
 #EXTINF:-1,beIN SPORTS 2 🇸🇦
 http://85.237.89.6:9590/ar-s/B-S-pre-2-stop-TimeSheft/index.m3u8
+
+#EXTINF:-1,beIN SPORTS 2 🇸🇦
+http://85.237.89.6:9590/ar-s/B-S-pre-2-stop-TimeSheft/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, beIN SPORT 02 SD 🇸🇦
+http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/242882.m3u8
 
 #EXTINF:-1,beIN SPORTS 3 🇸🇦
 http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/index.m3u8
@@ -42,26 +54,8 @@ http://178.162.225.182:2082/suspected-TR1-fq85I084Ql/GLbftMx5o3/901
 #EXTINF:-1,beIN SPORTS 3 🇸🇦
 http://178.162.225.182:2082/suspected-TR1-fq85I084Ql/GLbftMx5o3/903
 
-#EXTINF:-1,beIN SPORTS 1 🇸🇦
-http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,beIN SPORTS 2 🇸🇦
-http://85.237.89.6:9590/ar-s/B-S-pre-2-stop-TimeSheft/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1,beIN SPORTS 3 🇸🇦
 http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,T SPORTS 🇮🇳
-http://103.151.60.214:7444/1101/video.m3u8
-
-#EXTINF:-1,T SPORTS 🇮🇳
-http://portal.code-crafters.app/app/play.m3u8?id=10741
-
-#EXTINF:-1, beIN SPORT 01 SD 🇸🇦
-http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/242881.m3u8
-
-#EXTINF:-1, beIN SPORT 02 SD 🇸🇦
-http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/242882.m3u8
 
 #EXTINF:-1, beIN SPORT 03 SD 🇸🇦
 http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/242883.m3u8
@@ -71,6 +65,12 @@ http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/242884.m3u8
 
 #EXTINF:-1, beIN SPORT 05 SD 🇸🇦
 http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/242885.m3u8
+
+#EXTINF:-1,T SPORTS 🇮🇳
+http://103.151.60.214:7444/1101/video.m3u8
+
+#EXTINF:-1,T SPORTS 🇮🇳
+http://portal.code-crafters.app/app/play.m3u8?id=10741
 
 #EXTINF:-1, beIN SPORT 1 🇬🇧
 http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/237237.m3u8
