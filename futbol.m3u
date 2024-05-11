@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, HYP 🇪🇸
-http://185.71.64.20:23000/marinoducati/94hBcQzd3A/48642
-
-#EXTINF:-1, Arena Sport 4 (HR) 🇭🇷
-http://80.252.37.194:5000/udp/233.233.233.6:12000
-
 #EXTINF:-1,VIX LALIGA 🇨🇷
 http://190.185.121.102:58092/play/a00t
 
@@ -53,6 +47,9 @@ http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/242884.m3u8
 
 #EXTINF:-1, beIN SPORT 05 SD 🇸🇦
 http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/242885.m3u8
+
+#EXTINF:-1, HYP 🇪🇸
+http://185.71.64.20:23000/marinoducati/94hBcQzd3A/48642
 
 #EXTINF:-1, SUPERSPORT LaLiga 🇿🇦
 http://185.71.64.20:23000/marinoducati/94hBcQzd3A/48795
@@ -161,6 +158,9 @@ http://185.248.173.79:9999/play/arep
 
 #EXTINF:-1, ARENA SPORT 1 🇭🇷
 http://80.252.37.194:5000/udp/233.233.233.3:12000
+
+#EXTINF:-1, Arena Sport 4 (HR) 🇭🇷
+http://80.252.37.194:5000/udp/233.233.233.6:12000
 
 #EXTINF:-1, ARENA SPORT 5 🇷🇸
 http://80.252.37.194:5000/udp/233.233.233.7:12000
