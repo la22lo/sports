@@ -15,6 +15,9 @@ https://vsd115.mycdn.me/hls/6659747351157.m3u8/sig/vuC99CmQqJE/expires/171553106
 #EXTINF:-1, Sports18 1 HD 🇮🇳
 http://tv.cloudcdn.me/live.ts?channelId=102479&uid=4944&deviceMac=00:1A:79:94:98:FE
 
+#EXTINF:-1, Sports18 1 HD 🇮🇳
+http://103.131.214.129:9985/stream/channelid/48596000
+
 #EXTINF:-1,beIN SPORTS 1 🇸🇦
 http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/index.m3u8
 
@@ -65,9 +68,6 @@ http://80.252.37.194:5000/udp/233.233.233.8:12000
 
 #EXTINF:-1, A SPORT  🇮🇳
 http://mixbix.xyz:8080/Zx5WVffKH747/xxhPzTc8etFw/236842
-
-#EXTINF:-1, Sports18 1 HD 🇮🇳
-http://103.131.214.129:9985/stream/channelid/48596000
 
 #EXTINF:-1,T SPORTS 🇮🇳
 http://103.151.60.214:7444/1101/video.m3u8
