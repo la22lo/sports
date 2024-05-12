@@ -18,6 +18,9 @@ http://tv.cloudcdn.me/live.ts?channelId=102479&uid=4944&deviceMac=00:1A:79:94:98
 #EXTINF:-1, Sports18 1 HD 🇮🇳
 http://103.131.214.129:9985/stream/channelid/48596000
 
+#EXTINF:-1, Arena Sport 6 (HR) 🇭🇷
+http://restream.globaltv1.net:8080/MarcG/x10072022x/55359
+
 #EXTINF:-1,beIN SPORTS 1 🇸🇦
 http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/index.m3u8
 
