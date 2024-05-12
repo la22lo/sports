@@ -9,6 +9,9 @@ http://181.78.105.146:2000/play/a08m/index.m3u8
 #EXTINF:-1, LIGA 🇪🇸
 https://paco@www.oha.to/play/1019163502/index.m3u8
 
+#EXTINF:-1, Sports18 1 HD 🇮🇳
+http://tv.cloudcdn.me/live.ts?channelId=102479&uid=4944&deviceMac=00:1A:79:94:98:FE
+
 #EXTINF:-1,beIN SPORTS 1 🇸🇦
 http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/index.m3u8
 
