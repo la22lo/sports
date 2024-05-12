@@ -75,11 +75,23 @@ http://portal.code-crafters.app/app/play.m3u8?id=10741
 #EXTINF:-1, beIN SPORT 1 🇬🇧
 http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/237237.m3u8
 
+#EXTINF:-1, beIN SPORT 1 🇬🇧
+https://7pal.short.gy/tntspts1
+
 #EXTINF:-1, beIN SPORT 2 🇬🇧
 http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/237254.m3u8
 
 #EXTINF:-1, TNT SPORT 2 🇬🇧
 http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4449&extension=m3u8
+
+#EXTINF:-1, TNT SPORT 2 🇬🇧
+https://7pal.short.gy/tntspts2
+
+#EXTINF:-1, TNT SPORT 3 🇬🇧
+https://7pal.short.gy/tntspts3
+
+#EXTINF:-1, TNT SPORT 4 🇬🇧
+https://7pal.short.gy/tntspts4
 
 #EXTINF:-1,SuperSport 2 🇦🇱
 http://185.248.173.79:9999/play/arep
@@ -131,6 +143,12 @@ http://194.143.148.28:8080/MatchFutbol1/mpegts
 
 #EXTINF:-1,Матч! Футбол 2 HD 🇷🇺
 http://91.207.114.209:5000/c115
+
+#EXTINF:-1,Матч! Футбол 3 HD 🇷🇺
+http://91.207.114.209:5000/c116
+
+#EXTINF:-1,Матч! Футбол 3 HD 🇷🇺
+http://193.201.98.10:5000/c116
 
 #EXTINF:-1, Setanta Sports 1 🇷🇺
 https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
@@ -460,8 +478,14 @@ https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
 #EXTINF:-1,Матч! Футбол 1 HD 🇷🇺
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 
+#EXTINF:-1,Матч! Футбол 1 HD 🇷🇺
+http://193.201.98.10:5000/c114
+
 #EXTINF:-1, Match HD 🇷🇺
 https://7o8gab7zdd.a.trbcdn.net/hls-livef1/matchtv/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1, Match HD 🇷🇺
+http://tv.streams.baikal-telecom.net/MatchHD/index.m3u8
 
 #EXTINF:-1, BEIN Sports 1 HD 🇸🇦
 http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/index.m3u8
