@@ -291,6 +291,9 @@ http://45.5.116.178:8000/play/a03k/index.m3u8
 #EXTINF:-1, TELECOSTA GUATEMALA 🇬🇹
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
+#EXTINF:-1, TIGO SPORTS 🇨🇷
+http://170.82.37.21:8000/play/a047/index.m3u8
+
 #EXTINF:-1, TIGO SPORTS 🇧🇴
 http://131.161.53.2:8000/play/a05i/index.m3u8
 
