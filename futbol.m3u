@@ -231,8 +231,14 @@ http://88.135.128.20:7272/ipKJnd6cVw1Nu7a
 #EXTINF:-1,ESPN VIVO 🇦🇷
 http://170.82.37.21:8000/play/a04g/index.m3u8
 
+#EXTINF:-1,ESPN VIVO 🇦🇷
+http://204.199.122.4:8000/play/b031/index.m3u8
+
 #EXTINF:-1,ESPN HD 🇦🇷
 http://190.61.43.117:45000/play/a01l
+
+#EXTINF:-1,ESPN 2 VIVO HD 🇦🇷
+http://204.199.122.4:8000/play/b032/index.m3u8
 
 #EXTINF:-1,ESPN 2 HD 🇦🇷
 http://190.61.43.117:45000/play/a053
@@ -240,11 +246,29 @@ http://190.61.43.117:45000/play/a053
 #EXTINF:-1,ESPN 3 HD 🇦🇷
 http://190.61.43.117:45000/play/a051
 
+#EXTINF:-1,ESPN 3 HD 🇦🇷
+http://204.199.122.4:8000/play/b033/index.m3u8
+
 #EXTINF:-1,ESPN 4 HD 🇦🇷
 http://190.61.43.117:45000/play/a01v
 
+#EXTINF:-1,ESPN 4 HD 🇦🇷
+http://204.199.122.4:8000/play/c015/index.m3u8
+
+#EXTINF:-1,ESPN 4 HD 🇦🇷
+http://204.199.122.4:8000/play/b005/index.m3u8
+
 #EXTINF:-1,ESPN 5 🇦🇷
 http://190.61.43.117:45000/play/a06w
+
+#EXTINF:-1,ESPN 5 🇦🇷
+http://204.199.122.4:8000/play/b028/index.m3u8
+
+#EXTINF:-1,ESPN 6 🇦🇷
+http://204.199.122.4:8000/play/b030/index.m3u8
+
+#EXTINF:-1,ESPN 7 🇦🇷
+http://204.199.122.4:8000/play/b029/index.m3u8
 
 #EXTINF:-1,Fox Sports 1 HD 🇦🇷
 http://190.108.85.20:9999/play/a011
