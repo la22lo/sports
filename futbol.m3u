@@ -54,6 +54,9 @@ http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/242884.m3u8
 #EXTINF:-1, beIN SPORT 05 SD 🇸🇦
 http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/242885.m3u8
 
+#EXTINF:-1, beIN 4K 🇸🇦
+http://154.6.239.7:2082/play/live.php?mac=00:1a:79:d8:29:96&stream=190369&extension=.m3u8&play_token=R7csVr7azU
+
 #EXTINF:-1, HYP 🇪🇸
 http://185.71.64.20:23000/marinoducati/94hBcQzd3A/48642
 
