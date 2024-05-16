@@ -33,6 +33,9 @@ http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/tracks-v1a1/mono.m3u8
 #EXTINF:-1, beIN SPORT 01 SD 🇸🇦
 http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/242881.m3u8
 
+#EXTINF:-1, beIN-SPORTS HD1 🇸🇦
+http://154.6.239.7:2082/play/live.php?mac=00:1a:79:d8:29:96&stream=1&extension=m3u8
+
 #EXTINF:-1,beIN SPORTS 2 🇸🇦
 http://85.237.89.6:9590/ar-s/B-S-pre-2-stop-TimeSheft/index.m3u8
 
@@ -41,6 +44,9 @@ http://85.237.89.6:9590/ar-s/B-S-pre-2-stop-TimeSheft/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, beIN SPORT 02 SD 🇸🇦
 http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/242882.m3u8
+
+#EXTINF:-1, beIN-SPORTS HD 2 🇸🇦
+http://154.6.239.7:2082/play/live.php?mac=00:1a:79:d8:29:96&stream=2&extension=m3u8
 
 #EXTINF:-1,beIN SPORTS 3 🇸🇦
 http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/index.m3u8
@@ -57,11 +63,32 @@ http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/tracks-v1a1/mono.m3u8
 #EXTINF:-1, beIN SPORT 03 SD 🇸🇦
 http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/242883.m3u8
 
+#EXTINF:-1, beIN-SPORTS HD 3 🇸🇦
+http://154.6.239.7:2082/play/live.php?mac=00:1a:79:d8:29:96&stream=4&extension=m3u8
+
 #EXTINF:-1, beIN SPORT 04 SD 🇸🇦
 http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/242884.m3u8
 
+#EXTINF:-1, beIN-SPORTS HD 4 🇸🇦
+http://154.6.239.7:2082/play/live.php?mac=00:1a:79:d8:29:96&stream=5&extension=m3u8
+
 #EXTINF:-1, beIN SPORT 05 SD 🇸🇦
 http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/242885.m3u8
+
+#EXTINF:-1, beIN-SPORTS HD 5 🇸🇦
+http://154.6.239.7:2082/play/live.php?mac=00:1a:79:d8:29:96&stream=6&extension=m3u8
+
+#EXTINF:-1, beIN-SPORTS HD 6 🇸🇦
+http://154.6.239.7:2082/play/live.php?mac=00:1a:79:d8:29:96&stream=7&extension=m3u8
+
+#EXTINF:-1, beIN-SPORTS HD 7 🇸🇦
+http://154.6.239.7:2082/play/live.php?mac=00:1a:79:d8:29:96&stream=8&extension=m3u8
+
+#EXTINF:-1, beIN-SPORTS HD 8 🇸🇦
+http://154.6.239.7:2082/play/live.php?mac=00:1a:79:d8:29:96&stream=9&extension=m3u8
+
+#EXTINF:-1, beIN-SPORTS HD 9 🇸🇦
+http://154.6.239.7:2082/play/live.php?mac=00:1a:79:d8:29:96&stream=10&extension=m3u8
 
 #EXTINF:-1, beIN 4K 🇸🇦
 http://154.6.239.7:2082/play/live.php?mac=00:1a:79:d8:29:96&stream=190369&extension=.m3u8&play_token=R7csVr7azU
@@ -93,8 +120,14 @@ http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/237237.m3u8
 #EXTINF:-1, beIN SPORT 1 🇬🇧
 https://7pal.short.gy/tntspts1
 
+#EXTINF:-1, BEIN SPORTS ENGLISH 1 🇬🇧
+http://154.6.239.7:2082/play/live.php?mac=00:1a:79:d8:29:96&stream=11&extension=m3u8
+
 #EXTINF:-1, beIN SPORT 2 🇬🇧
 http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/237254.m3u8
+
+#EXTINF:-1, BEIN SPORTS ENGLISH 2 🇬🇧
+http://154.6.239.7:2082/play/live.php?mac=00:1a:79:d8:29:96&stream=12&extension=m3u8
 
 #EXTINF:-1, TNT SPORT 2 🇬🇧
 http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4449&extension=m3u8
@@ -113,6 +146,12 @@ http://51.178.65.238/BeinSport/mono.m3u8
 
 #EXTINF:-1, BEIN 1 🇫🇷
 http://102.129.186.98:8080/4519833353199323/4519833353199323/327311
+
+#EXTINF:-1, BEIN SPORTS FRENSH 1 🇫🇷
+http://154.6.239.7:2082/play/live.php?mac=00:1a:79:d8:29:96&stream=14&extension=m3u8
+
+#EXTINF:-1, BEIN SPORTS FRENSH 2 🇫🇷
+http://154.6.239.7:2082/play/live.php?mac=00:1a:79:d8:29:96&stream=15&extension=m3u8
 
 #EXTINF:-1, BEIN 2 🇫🇷
 http://102.129.186.98:8080/4519833353199323/4519833353199323/327312
