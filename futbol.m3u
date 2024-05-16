@@ -15,6 +15,12 @@ http://103.131.214.129:9985/stream/channelid/48596000
 #EXTINF:-1, Arena Sport 6 (HR) 🇭🇷
 http://restream.globaltv1.net:8080/MarcG/x10072022x/55359
 
+#EXTINF:-1, PREMIERE SPORT 1 🇮🇪
+http://restream.globaltv1.net:8080/MarcG/x10072022x/255761
+
+#EXTINF:-1, PREMIERE SPORT 2 🇮🇪
+https://live.notebulk.xyz/4LJDijI7HiBnFPfeZ5MhBg/1715910544/uk_premiersports2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, Premier Sport 1ᴴᴰ 🇨🇿
 http://olam.telka.uk/premiersport_JnD4eF8ALBI4HWrUOpDMUj9sqakB/playlist.m3u8
 
@@ -68,9 +74,6 @@ http://185.71.64.20:23000/marinoducati/94hBcQzd3A/48795
 
 #EXTINF:-1, Arena Sport 6 (HR) 🇭🇷
 http://80.252.37.194:5000/udp/233.233.233.8:12000
-
-#EXTINF:-1, PREMIERE SPORT 1 🇬🇧
-http://restream.globaltv1.net:8080/MarcG/x10072022x/255761
 
 #EXTINF:-1, A SPORT  🇮🇳
 http://mixbix.xyz:8080/live/afVZb46zeZrT/LdZyXr6ZeqaY/236842.m3u8
