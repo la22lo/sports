@@ -231,6 +231,9 @@ http://80.252.37.194:5000/udp/233.233.233.7:12000
 #EXTINF:-1, TV3 🇪🇸
 https://Pericopalotes135@directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 
+#EXTINF:-1,La liga Plusᴴᴰ 🇬🇧 
+https://daiconnect.com/live/hls/tvup/lg-laliga/613313bc66ac393ed26fc09d82851082/.m3u8
+
 #EXTINF:-1, Q SPORT 🇰🇬
 http://88.135.128.20:7272/ipKJnd6cVw1Nu7a
 
