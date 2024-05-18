@@ -619,9 +619,6 @@ http://195.158.222.113:8000/play/156/index.m3u8
 #EXTINF:-1, Match HD 🇷🇺
 http://91.142.158.107:8092/play/33/index.m3u8
 
-#EXTINF:-1, Match HD 🇷🇺
-https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
-
 #EXTINF:-1,Матч! Футбол 1 HD 🇷🇺
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 
