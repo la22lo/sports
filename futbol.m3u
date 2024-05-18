@@ -558,6 +558,9 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
 #EXTINF:-1, IRIB TV 3 Iran 🇮🇷
 https://live.aionet.ir/hls/tv3/tv3_720/index.m3u8
 
+#EXTINF:-1, K24 🇿🇦
+https://livestream.angani.africa/livestream/k24/1/k24.m3u8
+
 #EXTINF:-1,CCTV5 🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
