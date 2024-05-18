@@ -363,6 +363,9 @@ http://190.185.121.102:58092/play/a00m
 #EXTINF:-1,TUDN 🇲🇽
 http://app.agametv.com:25461/CatherineP1963/Catherine1963/77056
 
+#EXTINF:-1,TELEMUNDO 🇲🇽
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+
 #EXTINF:-1,HRT2 🇭🇷
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
 
@@ -567,6 +570,9 @@ http://mixbix.xyz:8080/Zx5WVffKH747/xxhPzTc8etFw/236840
 #EXTINF:-1, WOW TV EL SALVADOR 🇸🇻
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
+#EXTINF:-1, Football HD Tajikistan 🇹🇯
+https://live.teleradiocom.tj/8/3m.m3u8
+
 #EXTINF:-1, ARMENIA TV 🇦🇲
 http://ott-cdn.ucom.am/s4/04.m3u8
 
@@ -667,6 +673,9 @@ http://158.101.214.187:8080/channel/6a187c2a/index.m3u8?q=b92e505ee8a30dc40ddf8c
 #EXTINF:-1, VARZISH SPORT 🇹🇯
 https://live.teleradiocom.tj/5/3m.m3u8
 
+#EXTINF:-1, VARZISH SPORT 🇹🇯
+https://live.aionet.ir/hls/varzesh/varzesh_720/index.m3u8
+
 #EXTINF:-1, CBC SPORT 🇦🇿
 https://bozztv.com/dvrfl05/gin-cbc-sport/index.m3u8
 
@@ -681,6 +690,9 @@ http://119338040796387491.tkop413.xyz:80/play/429TKYVPKC/UGGB3e8DwWe7/387491.m3u
 
 #EXTINF:-1, PERSIANA SPORT 🇮🇷 
 https://cdn.footballii.ir/hls2/persianas.m3u8
+
+#EXTINF:-1, PERSIANA SPORT 🇮🇷 
+https://persiana.mastercast.cloud/memfs/f1accec0-3b52-476b-ada9-65f74ead985e.m3u8
 
 #EXTINF:-1,Polsat SPORT 1 🇵🇱
 http://178.219.128.68:64889/POLSSPORHD
