@@ -366,6 +366,9 @@ http://app.agametv.com:25461/CatherineP1963/Catherine1963/77056
 #EXTINF:-1,TELEMUNDO 🇲🇽
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
+#EXTINF:-1,DAZN CANADA 🇨🇦
+https://r.mjh.nz/PlutoTV/647f07e74cfc2c0008a2e557-alt.m3u8
+
 #EXTINF:-1,HRT2 🇭🇷
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
 
@@ -407,6 +410,9 @@ http://87.120.142.8:18000/bs_nova_sport
 
 #EXTINF:-1, Nova Sport 3 🇬🇷
 http://213.7.193.54:4000/play/a005/index.m3u8
+
+#EXTINF:-1, Sport5 🇮🇱
+https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 
 #EXTINF:-1,Match Arena 🇷🇺
 http://194.143.148.28/MatchArena/mpegts
@@ -546,6 +552,12 @@ https://live.aionet.ir/hls/aiosport/aiosport_1080/index.m3u8
 #EXTINF:-1,AIO Sport 2 🇶🇦
 https://live.aionet.ir/hls/aiosport2/aiosport2.m3u8
 
+#EXTINF:-1, MMN Sport 🇶🇦
+http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
+
+#EXTINF:-1, IRIB TV 3 Iran 🇮🇷
+https://live.aionet.ir/hls/tv3/tv3_720/index.m3u8
+
 #EXTINF:-1,CCTV5 🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
@@ -572,6 +584,15 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 #EXTINF:-1, Football HD Tajikistan 🇹🇯
 https://live.teleradiocom.tj/8/3m.m3u8
+
+#EXTINF:-1, Dazn Football 🇬🇧
+https://r.mjh.nz/PlutoTV/6509bb783a0d700008c700aa-alt.m3u8
+
+#EXTINF:-1, Dazn Int Football 🇬🇧
+https://r.mjh.nz/PlutoTV/64b79c057d934100080b3583-alt.m3u8
+
+#EXTINF:-1, FIFA+ TV 🇬🇧
+https://fbbd2a5b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0ZJRkFQbHVzX0hMUw/playlist.m3u8
 
 #EXTINF:-1, ARMENIA TV 🇦🇲
 http://ott-cdn.ucom.am/s4/04.m3u8
@@ -636,6 +657,9 @@ https://7o8gab7zdd.a.trbcdn.net/hls-livef1/matchtv/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1, Match HD 🇷🇺
 http://tv.streams.baikal-telecom.net/MatchHD/index.m3u8
+
+#EXTINF:-1, Match HD 🇷🇺
+https://streaming.televizor-24-tochka.ru/live/6.m3u8
 
 #EXTINF:-1, BEIN Sports 1 HD 🇸🇦
 http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/index.m3u8
