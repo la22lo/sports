@@ -135,9 +135,6 @@ https://7pal.short.gy/tntspts4
 #EXTINF:-1, Bein Sports 1 France 🇫🇷
 http://51.178.65.238/BeinSport/mono.m3u8
 
-#EXTINF:-1,TIGO SPORTS 🇨🇷
-http://190.185.121.102:58092/play/a00s
-
 #EXTINF:-1, Match HD--КК 🇷🇺
 http://178.212.71.253:8002/play/a00k/index.m3u8
 
@@ -177,6 +174,9 @@ http://78.130.250.2:8023/play/a00n/index.m3u8
 #EXTINF:-1, Ziggo Sport Voetbal 🇳🇱
 http://78.130.250.2:8023/play/a00f/index.m3u8
 
+#EXTINF:-1, Ziggo Sport Golf 🇳🇱
+http://78.130.250.2:8023/play/a00g/index.m3u8
+
 #EXTINF:-1,bTVActionHD 🇧🇬
 http://185.163.244.10:204/play/bTVActionHD/index.m3u8
 
@@ -189,11 +189,8 @@ https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1, Беларусь 5 🇧🇾
 http://strm.yandex.ru/kal/belarus_5/belarus_50.m3u8
 
-#EXTINF:-1,BEIN SPORT LIVE 🇶🇦
+#EXTINF:-1, MMN Sport 🇶🇦
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
-
-#EXTINF:-1,SuperSport 2 🇦🇱
-http://185.248.173.79:9999/play/arep
 
 #EXTINF:-1, ARENA SPORT 1 🇭🇷
 http://80.252.37.194:5000/udp/233.233.233.3:12000
@@ -229,16 +226,10 @@ http://38.252.218.10:4000/play/a091/index.m3u8
 http://170.82.37.21:8000/play/a04g/index.m3u8
 
 #EXTINF:-1,ESPN VIVO 🇦🇷
-http://204.199.122.4:8000/play/b031/index.m3u8
-
-#EXTINF:-1,ESPN VIVO 🇦🇷
 http://181.78.8.90:16123/play/ch16
 
-#EXTINF:-1,ESPN HD 🇦🇷
+#EXTINF:-1,ESPN VIVO HD 🇦🇷
 http://190.61.43.117:45000/play/a01l
-
-#EXTINF:-1,ESPN 2 VIVO HD 🇦🇷
-http://204.199.122.4:8000/play/b032/index.m3u8
 
 #EXTINF:-1,ESPN 2 HD 🇦🇷
 http://190.61.43.117:45000/play/a053
@@ -252,14 +243,14 @@ http://190.61.43.117:45000/play/a051
 #EXTINF:-1,ESPN 3 HD 🇦🇷
 http://204.199.122.4:8000/play/b033/index.m3u8
 
+#EXTINF:-1,ESPN 3 HD 🇦🇷
+http://181.78.8.90:16123/play/ch18
+
 #EXTINF:-1,ESPN 4 HD 🇦🇷
 http://190.61.43.117:45000/play/a01v
 
-#EXTINF:-1,ESPN 4 HD 🇦🇷
-http://204.199.122.4:8000/play/c015/index.m3u8
-
-#EXTINF:-1,ESPN 4 HD 🇦🇷
-http://204.199.122.4:8000/play/b005/index.m3u8
+#EXTINF:-1,ESPN 5 🇦🇷
+http://181.78.8.90:16123/play/ch19
 
 #EXTINF:-1,ESPN 5 🇦🇷
 http://190.61.43.117:45000/play/a06w
@@ -270,17 +261,14 @@ http://204.199.122.4:8000/play/b028/index.m3u8
 #EXTINF:-1,ESPN 6 🇦🇷
 http://204.199.122.4:8000/play/b030/index.m3u8
 
+#EXTINF:-1, ESPN 6 🇦🇷
+http://190.61.43.117:45000/play/a060
+
 #EXTINF:-1,ESPN 7 🇦🇷
 http://204.199.122.4:8000/play/b029/index.m3u8
 
-#EXTINF:-1,Fox Sports 1 HD 🇦🇷
-http://190.108.85.20:9999/play/a011
-
-#EXTINF:-1,FOX Sports 2 HD 🇦🇷
+#EXTINF:-1,ESPN 7 🇦🇷
 http://190.61.43.117:45000/play/a01g
-
-#EXTINF:-1,Fox Sports 3 🇦🇷
-http://190.61.43.117:45000/play/a060
 
 #EXTINF:-1,SPORT TV+ 🇵🇹
 http://90.5.77.128:8001/play/a0qw/index.m3u8
@@ -318,8 +306,8 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1, TIGO SPORTS 🇨🇷
 http://170.82.37.21:8000/play/a047/index.m3u8
 
-#EXTINF:-1, TIGO SPORTS 🇧🇴
-http://131.161.53.2:8000/play/a05i/index.m3u8
+#EXTINF:-1,TIGO SPORTS 🇨🇷
+http://190.185.121.102:58092/play/a00s
 
 #EXTINF:-1,TUDN 🇲🇽
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
@@ -372,17 +360,11 @@ http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7296/index.m3u8
 #EXTINF:-1,Polsat Sport NEWS 🇵🇱
 http://178.219.128.68:64889/POLSSPORNEWSHD
 
-#EXTINF:-1, Nova Sport Bulgaria 🇧🇬
-http://87.120.142.8:18000/bs_nova_sport
-
 #EXTINF:-1, Nova Sport 3 🇬🇷
 http://213.7.193.54:4000/play/a005/index.m3u8
 
 #EXTINF:-1, Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
-
-#EXTINF:-1,Match Arena 🇷🇺
-http://194.143.148.28/MatchArena/mpegts
 
 #EXTINF:-1, SPORT RU 🇷🇺
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
@@ -415,19 +397,10 @@ http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 http://217.174.225.146/hls/ch004_720/index.m3u8
 
 #EXTINF:-1, S-SPORT 1 🇹🇷
-https://www.oha.to/play/4108728197/index.m3u8
-
-#EXTINF:-1, S-SPORT 1 🇹🇷
 https://www.oha.to/play/2666527925/index.m3u8
-
-#EXTINF:-1, S-SPORT 1 🇹🇷
-https://www.oha.to/play/896754509/index.m3u8
 
 #EXTINF:-1, S-SPORT 2 🇹🇷
 https://www.oha.to/play/4226047772/index.m3u8
-
-#EXTINF:-1, S-SPORT 2 🇹🇷
-https://www.oha.to/play/3153880238/index.m3u8
 
 #EXTINF:-1, S-SPORT 2 🇹🇷
 https://www.oha.to/play/2573123488/index.m3u8
@@ -477,21 +450,6 @@ https://bit.ly/48XfUCc?profile=inspirationFreetv.m3u8
 #EXTINF:-1,ACISPORT TV 🇮🇹
 http://45.65.112.49:8000/play/a0ns
 
-#EXTINF:-1, Ziggo Sport Select HD 🇳🇱
-http://78.130.250.2:8023/play/a00n/index.m3u8
-
-#EXTINF:-1, Ziggo Sport Voetbal 🇳🇱
-http://78.130.250.2:8023/play/a00f/index.m3u8
-
-#EXTINF:-1, Ziggo Sport Golf 🇳🇱
-http://78.130.250.2:8023/play/a00g/index.m3u8
-
-#EXTINF:-1, Sport5 🇮🇱
-https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
-
-#EXTINF:-1, SSC 1 HD 🇶🇦
-http://mixbix.xyz:8080/live/3VHmwTKF6qmN/eP3LNRbuUZ3w/294865.m3u8
-
 #EXTINF:-1, SSC SPORTS 1 SD 🇶🇦
 http://mixbix.xyz:8080/live/3VHmwTKF6qmN/eP3LNRbuUZ3w/294856.m3u8
 
@@ -518,9 +476,6 @@ https://live.aionet.ir/hls/aiosport/aiosport_1080/index.m3u8
 
 #EXTINF:-1,AIO Sport 2 🇶🇦
 https://live.aionet.ir/hls/aiosport2/aiosport2.m3u8
-
-#EXTINF:-1, MMN Sport 🇶🇦
-http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
 
 #EXTINF:-1, IRIB TV 3 Iran 🇮🇷
 https://live.aionet.ir/hls/tv3/tv3_720/index.m3u8
@@ -576,9 +531,6 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chun
 #EXTINF:-1, SHARJJAH SPORT 🇸🇦
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
-#EXTINF:-1, ARAB CHANNEL 1 🇸🇦
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1000000=3-mp4a_130400_qad=1.m3u8
-
 #EXTINF:-1, TELETRAK 🇨🇱
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
@@ -607,26 +559,14 @@ https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 https://d3qg0hadt0dkov.cloudfront.net:443/amgtennisus/playlist1080_p.m3u8
 
 
-#EXTINF:-1, M CAMPEONES 🇪🇸
-https://63oa6gbllzujj5j.ngolpdkyoctjcddxshli469r.org/sunshine/QB9fDMyoO7hDbUoWLMvtr0nUyeLf4-KIBvj7z9DmBTQHM_gnqRq7RfCsnZOEaoR9EaPurUg0E3-4hCq7NdmxhVNy0iITl0LxV5LzOcvEpFhRnuUb7fKwLa5gz1QDXLi4d4PHq_EVvE4lkkiunPhKRQJzRLSuPgKFdvb6Psf27hOwgPlacBeo3SDbxYCif7_l/hls/index.m3u8
 
-#EXTINF:-1, Match HD 🇷🇺
-http://195.158.222.113:8000/play/156/index.m3u8
+
 
 #EXTINF:-1, Match HD 🇷🇺
 http://91.142.158.107:8092/play/33/index.m3u8
 
 #EXTINF:-1,Матч! Футбол 1 HD 🇷🇺
-http://194.143.148.28:8080/MatchFutbol1/mpegts
-
-#EXTINF:-1,Матч! Футбол 1 HD 🇷🇺
 http://193.201.98.10:5000/c114
-
-#EXTINF:-1, Match HD 🇷🇺
-https://7o8gab7zdd.a.trbcdn.net/hls-livef1/matchtv/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1, Match HD 🇷🇺
-http://tv.streams.baikal-telecom.net/MatchHD/index.m3u8
 
 #EXTINF:-1, Match HD 🇷🇺
 https://streaming.televizor-24-tochka.ru/live/6.m3u8
@@ -659,9 +599,6 @@ https://live.aionet.ir/hls/tv3/tv3_540/index.m3u8
 https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
 
 #EXTINF:-1, QAZ SPORT 🇰🇿
-http://87.99.87.203:2007/channel/n7c9a2d6e/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-
-#EXTINF:-1, QAZ SPORT 🇰🇿
 http://158.101.214.187:8080/channel/6a187c2a/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
 
 #EXTINF:-1, VARZISH SPORT 🇹🇯
@@ -678,12 +615,6 @@ https://vs1758.vcdn.biz/2a89fb5c1ea0e32fc03ff26e7c46fc8f_megogo/live/hls/b/4000/
 
 #EXTINF:-1, Ziggo Sport Select HD 🇳🇱
 http://78.130.250.2:8023/play/a00n/index.m3u8
-
-#EXTINF:-1, M4 sport 🇭🇺
-http://119338040796387491.tkop413.xyz:80/play/429TKYVPKC/UGGB3e8DwWe7/387491.m3u8
-
-#EXTINF:-1, PERSIANA SPORT 🇮🇷 
-https://cdn.footballii.ir/hls2/persianas.m3u8
 
 #EXTINF:-1, PERSIANA SPORT 🇮🇷 
 https://persiana.mastercast.cloud/memfs/f1accec0-3b52-476b-ada9-65f74ead985e.m3u8
