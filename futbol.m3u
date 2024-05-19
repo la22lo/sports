@@ -282,6 +282,9 @@ http://204.199.122.4:8000/play/b029/index.m3u8
 #EXTINF:-1,ESPN 7 🇦🇷
 http://190.61.43.117:45000/play/a01g
 
+#EXTINF:-1,ESPN PREMIUM 🇦🇷
+http://170.81.241.222:31589/play/a063/index.m3u8
+
 #EXTINF:-1,SPORT TV+ 🇵🇹
 http://90.5.77.128:8001/play/a0qw/index.m3u8
 
@@ -639,6 +642,24 @@ http://178.219.128.68:64889/POLSSPORHD
 
 
 
+#EXTINF:-1,E! HD
+http://170.81.241.222:31589/play/a05j/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://170.81.241.222:31589/play/a04b/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://170.81.241.222:31589/play/a049/index.m3u8
+#EXTINF:-1,ESPN 4HD
+http://170.81.241.222:31589/play/a054/index.m3u8
+#EXTINF:-1,ESPN 5HD
+http://170.81.241.222:31589/play/a04q/index.m3u8
+#EXTINF:-1,ESPN 6HD
+http://170.81.241.222:31589/play/a04a/index.m3u8
+#EXTINF:-1,ESPN 7HD
+http://170.81.241.222:31589/play/a04r/index.m3u8
+#EXTINF:-1,ESPN Extra
+http://170.81.241.222:31589/play/a04t/index.m3u8
+#EXTINF:-1,ESPN HD
+http://170.81.241.222:31589/play/a043/index.m3u8
 
 #EXTINF:-1,LALIGA 🇨🇷
 https://linear-507.frequency.stream/mt/studio/507/hls/master/playlist.m3u8
