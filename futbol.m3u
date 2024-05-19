@@ -127,16 +127,7 @@ http://mixbix.xyz:8080/Zx5WVffKH747/xxhPzTc8etFw/237254
 http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/237254.m3u8
 
 #EXTINF:-1, TNT SPORT 1 🇬🇧
-https://7pal.short.gy/tntspts1
-
-#EXTINF:-1, TNT SPORT 1 🇬🇧
 http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4449&extension=m3u8
-
-#EXTINF:-1, TNT SPORT 2 🇬🇧
-https://7pal.short.gy/tntspts2
-
-#EXTINF:-1, TNT SPORT 3 🇬🇧
-https://7pal.short.gy/tntspts3
 
 #EXTINF:-1, TNT SPORT 4 🇬🇧
 https://7pal.short.gy/tntspts4
@@ -144,32 +135,8 @@ https://7pal.short.gy/tntspts4
 #EXTINF:-1, Bein Sports 1 France 🇫🇷
 http://51.178.65.238/BeinSport/mono.m3u8
 
-#EXTINF:-1,SuperSport 2 🇦🇱
-http://185.248.173.79:9999/play/arep
-
-#EXTINF:-1,SuperSport 2 🇦🇱
-http://185.222.138.163:9000/play/a0tt
-
 #EXTINF:-1,TIGO SPORTS 🇨🇷
 http://190.185.121.102:58092/play/a00s
-
-#EXTINF:-1,SUPER SPORT 3 🇦🇱
-http://185.248.173.79:9999/play/asp3
-
-#EXTINF:-1,SUPER SPORT 4 🇦🇱
-http://185.248.173.79:9999/play/a06c
-
-#EXTINF:-1,SUPER SPORT 5 🇦🇱
-http://185.248.173.79:9999/play/a004
-
-#EXTINF:-1,SUPER SPORT 6 🇦🇱
-http://185.248.173.79:9999/play/a00j
-
-#EXTINF:-1,SUPER SPORT 7 🇦🇱
-http://185.248.173.79:9999/play/a00k
-
-#EXTINF:-1,SUPER SPORT KOSOVA 1 🇽🇰
-http://185.248.173.79:9999/play/a00l
 
 #EXTINF:-1, Match HD--КК 🇷🇺
 http://178.212.71.253:8002/play/a00k/index.m3u8
@@ -177,14 +144,8 @@ http://178.212.71.253:8002/play/a00k/index.m3u8
 #EXTINF:-1, Match HD 🇷🇺
 http://91.142.158.107:8092/play/33/index.m3u8
 
-#EXTINF:-1,Match HD 🇷🇺
-http://194.143.148.28/MatchHD/mpegts
-
-#EXTINF:-1,Match Futbol 1 🇷🇺
-http://194.143.148.28/MatchFutbol1/mpegts
-
 #EXTINF:-1,Матч! Футбол 1 HD 🇷🇺
-http://194.143.148.28:8080/MatchFutbol1/mpegts
+http://91.207.114.209:5000/c114
 
 #EXTINF:-1,Матч! Футбол 2 HD 🇷🇺
 http://91.207.114.209:5000/c115
@@ -209,9 +170,6 @@ https://hls.sweet.tv/stream/qfq2fp954aui9guc8e4d5526tu8uudcnyj342af9kxq8sry8g7n4
 
 #EXTINF:-1,SETANTA SPORT 2 🇺🇦
 http://ru.iptv.monster/play/943/58A6BB07681962A/video.m3u8
-
-#EXTINF:-1,SETANTA SPORT 2 🇺🇦
-https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
 
 #EXTINF:-1, Ziggo Sport Select HD 🇳🇱
 http://78.130.250.2:8023/play/a00n/index.m3u8
