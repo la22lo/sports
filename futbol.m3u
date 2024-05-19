@@ -666,6 +666,14 @@ http://170.81.241.222:31589/play/a05q/index.m3u8
 http://170.81.241.222:31589/play/a04w/index.m3u8
 #EXTINF:-1,Fox Sports 1 HD
 http://170.81.241.222:31589/play/a067a/index.m3u8
+#EXTINF:-1,Fox Sports 1 HD
+http://200.37.186.109:8000/play/a054/index.m3u8
+#EXTINF:-1,FOX Sports 2 HD
+http://200.37.186.109:8000/play/a05j/index.m3u8
+#EXTINF:-1,Fox Sports 3
+http://200.37.186.109:8000/play/a01p/index.m3u8
+#EXTINF:-1,Fox Sports 3 HD
+http://200.37.186.109:8000/play/a05x/index.m3u8
 #EXTINF:-1,TyC Sports HD
 http://170.81.241.222:31589/play/a05o/index.m3u8
 #EXTINF:-1,Win Sports HD
