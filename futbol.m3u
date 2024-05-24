@@ -462,6 +462,15 @@ http://145.239.5.177:8080/537/index.m3u8
 #EXTINF:-1, Canal + Sports 2 🇫🇷
 http://145.239.5.177:8080/538/index.m3u8
 
+#EXTINF:-1, Canal + Sports 2 🇫🇷
+https://cdn-notpub-london.lolokoko.tv/canalplussport2.stream/chunks.m3u8
+
+#EXTINF:-1, Canal + Sports 3 🇫🇷
+https://cdn-notpub-london.lolokoko.tv/canalplussport3.stream/chunks.m3u8
+
+#EXTINF:-1, Canal + Sports 4 🇫🇷
+https://cdn-notpub-london.lolokoko.tv/canalplussport4.stream/chunks.m3u8
+
 #EXTINF:-1, SSC SPORTS 1 SD 🇶🇦
 http://homeip.biz/KSA_SSC1/index.m3u8
 
