@@ -441,6 +441,9 @@ http://45.65.112.49:8000/play/a0ns
 #EXTINF:-1, SKY SPORT MAINT EVENT 🇬🇧
 https://eu02.dmca.run/247-skymain/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, Canal + Sports 2 🇫🇷
+http://145.239.5.177:8080/538/index.m3u8
+
 #EXTINF:-1, SSC SPORTS 1 SD 🇶🇦
 http://homeip.biz/KSA_SSC1/index.m3u8
 
