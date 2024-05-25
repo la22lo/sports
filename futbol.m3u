@@ -309,6 +309,21 @@ http://app.agametv.com:25461/CatherineP1963/Catherine1963/77056
 #EXTINF:-1,TELEMUNDO 🇲🇽
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
+#EXTINF:-1, TSN 1 🇨🇦
+http://45.41.213.34:70/TSN1/index.m3u8
+
+#EXTINF:-1, TSN 2 🇨🇦
+http://45.41.213.34:70/TSN2/index.m3u8
+
+#EXTINF:-1, TSN 3 🇨🇦
+http://45.41.213.34:70/TSN3/index.m3u8
+
+#EXTINF:-1, TSN 4 🇨🇦
+http://45.41.213.34:70/TSN4/index.m3u8
+
+#EXTINF:-1, TSN 5 🇨🇦
+http://45.41.213.34:70/TSN5/index.m3u8
+
 #EXTINF:-1,DAZN CANADA 🇨🇦
 https://r.mjh.nz/PlutoTV/647f07e74cfc2c0008a2e557-alt.m3u8
 
