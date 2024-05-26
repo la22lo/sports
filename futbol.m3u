@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, BEIN SPORTS MAX 10 HD 🇫🇷
+http://sf.bleutv.net:8080/live/172016382891759/172012817095810/340.ts
+
 #EXTINF:-1,VIX LALIGA 🇨🇷
 http://190.185.121.102:58092/play/a00t
 
