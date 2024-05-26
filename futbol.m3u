@@ -36,6 +36,12 @@ http://restream.globaltv1.net:8080/MarcG/x10072022x/255763
 #EXTINF:-1, S LALIGA 🇿🇦
 https://ovo.eelov.com/live/n-1/chunks.m3u8
 
+#EXTINF:-1, S SPORT 1 🇹🇷
+http://tvs.lol:8080/play/WNlrFYAKGYvNLo3JwNIga20b706Se0tOyCMqB5MNBVU/ts
+
+#EXTINF:-1, S SPORT 2 🇹🇷
+http://tvs.lol:8080/play/WNlrFYAKGYvNLo3JwNIga_z7kiW9ZWXvoaQ8MZ3rRbw/ts
+
 #EXTINF:-1, Premier Sport 1ᴴᴰ 🇨🇿
 http://olam.telka.uk/premiersport_JnD4eF8ALBI4HWrUOpDMUj9sqakB/playlist.m3u8
 
