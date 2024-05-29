@@ -1,10 +1,79 @@
 #EXTM3U
 
-#EXTINF:-1, ELEVEN SPORTS 5 🇵🇹
-http://50.7.137.106:8080/ELEVEN_SPORTS_5/index.m3u8
+#EXTINF:-1, Match HD 🇷🇺
+http://91.142.158.107:8092/play/33/index.m3u8
 
-#EXTINF:-1, EUROLIGA 🇪🇸
-https://www.oha.to/play/2344934304/index.m3u8
+#EXTINF:-1,Матч! Футбол 1 HD 🇷🇺
+http://193.201.98.10:5000/c114
+
+#EXTINF:-1, Match HD 🇷🇺
+https://streaming.televizor-24-tochka.ru/live/6.m3u8
+
+#EXTINF:-1, BEIN Sports 1 HD 🇸🇦
+http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/index.m3u8
+
+#EXTINF:-1, BEIN Sports 1 HD 🇸🇦
+http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, BEIN Sports 1 HD 🇸🇦
+http://mixbix.xyz:8080/live/mafg5ebzza4b/9czcEJQdxpC2/268504.m3u8
+
+#EXTINF:-1,bTVActionHD 🇧🇬
+http://185.163.244.10:204/play/bTVActionHD/index.m3u8
+
+#EXTINF:-1,HRT2 🇭🇷
+http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
+
+#EXTINF:-1, HRT 2 🇭🇷
+http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
+
+#EXTINF:-1, HRT 2 🇭🇷
+http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8?
+
+#EXTINF:-1, AIO SPORT 🇮🇷
+https://live.aionet.ir/hls/tv3/tv3_540/index.m3u8
+
+#EXTINF:-1, QAZ SPORT 🇰🇿
+https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
+
+#EXTINF:-1, QAZ SPORT 🇰🇿
+http://158.101.214.187:8080/channel/6a187c2a/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
+
+#EXTINF:-1, VARZISH SPORT 🇹🇯
+https://live.teleradiocom.tj/5/3m.m3u8
+
+#EXTINF:-1, VARZISH SPORT 🇹🇯
+https://live.aionet.ir/hls/varzesh/varzesh_720/index.m3u8
+
+#EXTINF:-1, CBC SPORT 🇦🇿
+https://bozztv.com/dvrfl05/gin-cbc-sport/index.m3u8
+
+#EXTINF:-1, UZ SPORT 🇺🇿
+https://vs1758.vcdn.biz/2a89fb5c1ea0e32fc03ff26e7c46fc8f_megogo/live/hls/b/4000/u_sid/0/o/140085841/rsid/73723949-6c32-43e3-aa6a-80c33e100322/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/84.54.73.172*asn/u_srvc/83576/u_did/web_U9ij9aVdY2r1FMHFZmJd2CoxXvGlCGgX/type.live/chunklist-sid230322689978648235-b4000000-a72531.m3u8
+
+#EXTINF:-1, Ziggo Sport Select HD 🇳🇱
+http://78.130.250.2:8023/play/a00n/index.m3u8
+
+#EXTINF:-1, PERSIANA SPORT 🇮🇷 
+https://persiana.mastercast.cloud/memfs/f1accec0-3b52-476b-ada9-65f74ead985e.m3u8
+
+#EXTINF:-1, PERSIANA SPORT 🇮🇷 
+https://cdn.footballii.ir/hls2/persianas.m3u8
+
+#EXTINF:-1,Polsat SPORT 1 🇵🇱
+http://178.219.128.68:64889/POLSSPORHD
+
+#EXTINF:-1,CHAMPIONS LEAGUE 1 HD
+http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/753
+
+#EXTINF:-1,CHAMPIONS LEAGUE 2 HD
+http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/754
+
+#EXTINF:-1,CHAMPIONS LEAGUE 3 HD
+http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/755
+
+
+
 
 #EXTINF:-1,VIX LALIGA 🇨🇷
 http://190.185.121.102:58092/play/a00t
