@@ -108,6 +108,18 @@ http://mixbix.xyz:8080/live/fAueYvrzHX58/9xTFRAYVjxbj/236842.m3u8
 #EXTINF:-1,T SPORTS 🇮🇳
 http://portal.code-crafters.app/app/play.m3u8?id=10741
 
+#EXTINF:-1, SUPERSPORT 🇿🇦
+http://145.239.5.177:8080/564/index.m3u8
+
+#EXTINF:-1, SUPERSPORT 🇿🇦
+http://145.239.5.177:8080/565/index.m3u8
+
+#EXTINF:-1, SUPERSPORT 🇿🇦
+http://145.239.5.177:8080/566/index.m3u8
+
+#EXTINF:-1, SUPERSPORT 🇿🇦
+http://145.239.5.177:8080/567/index.m3u8
+
 #EXTINF:-1, TNT SPORT 1 🇬🇧
 http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4449&extension=m3u8
 
