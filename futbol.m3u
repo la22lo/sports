@@ -525,17 +525,32 @@ http://homeip.biz/KSA_SSC1/index.m3u8
 #EXTINF:-1, SSC SPORTS 1 SD 🇶🇦
 https://cdn.footballii.ir/hls2/ssc1s.m3u8
 
+#EXTINF:-1, SSC SPORTS 1 SD 🇶🇦
+https://www.sportina.app/SSC-1-HQ/index.m3u8
+
 #EXTINF:-1,  SSC SPORTS 2 SD 🇶🇦
 http://homeip.biz/KSA_SSC2/index.m3u8
+
+#EXTINF:-1, SSC SPORTS 2 SD 🇶🇦
+https://www.sportina.app/SSC-2-HQ/index.m3u8
 
 #EXTINF:-1, SSC SPORTS 3 SD 🇶🇦
 http://homeip.biz/KSA_SSC3/index.m3u8
 
+#EXTINF:-1, SSC SPORTS 3 SD 🇶🇦
+https://www.sportina.app/SSC-3-HQ/index.m3u8
+
 #EXTINF:-1, SSC SPORTS 4 SD 🇶🇦
 http://homeip.biz/KSA_SSC4/index.m3u8
 
+#EXTINF:-1, SSC SPORTS 4 SD 🇶🇦
+https://www.sportina.app/SSC-4-HQ/index.m3u8
+
 #EXTINF:-1, SSC SPORTS 5 SD 🇶🇦
 http://homeip.biz/KSA_SSC5/index.m3u8
+
+#EXTINF:-1, SSC SPORTS 5 SD 🇶🇦
+https://www.sportina.app/SSC-5-HQ/index.m3u8
 
 #EXTINF:-1, SSC EXTRA 1 HD 🇶🇦
 http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=1081867&extension=m3u8
