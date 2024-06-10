@@ -18,9 +18,6 @@ http://restream.globaltv1.net:8080/MarcG/x10072022x/55359
 #EXTINF:-1, Sports18 1 HD 🇮🇳
 http://tv.cloudcdn.me/live.ts?channelId=102479&uid=4944&deviceMac=00:1A:79:94:98:FE
 
-#EXTINF:-1, Sports18 1 HD 🇮🇳
-http://103.131.214.129:9985/stream/channelid/48596000
-
 #EXTINF:-1, Arena Sport 3 (HR) 🇭🇷
 http://restream.globaltv1.net:8080/MarcG/x10072022x/55356
 
@@ -63,23 +60,11 @@ http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/index.m3u8
 #EXTINF:-1,beIN SPORTS 3 🇸🇦
 http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, SUPERSPORT LaLiga 🇿🇦
-http://185.71.64.20:23000/marinoducati/94hBcQzd3A/48795
-
 #EXTINF:-1, Arena Sport 6 (HR) 🇭🇷
 http://80.252.37.194:5000/udp/233.233.233.8:12000
 
 #EXTINF:-1, HYP 🇪🇸
-http://185.71.64.20:23000/marinoducati/94hBcQzd3A/48642
-
-#EXTINF:-1, HYP 🇪🇸
 http://491832524308571905.ofsd5513.xyz:80/play/tello3/23122023/571905.ts
-
-#EXTINF:-1, M Liga 🇪🇸
-https://www.oha.to/play/2718243933/index.m3u8
-
-#EXTINF:-1, M+ 🇪🇸
-https://www.oha.to/play/2344934304/index.m3u8
 
 #EXTINF:-1, ELEVEN SPORTS 3 🇵🇹
 http://50.7.137.106:8080/ELEVEN_SPORTS_3/index.m3u8
@@ -91,27 +76,12 @@ http://50.7.137.106:8080/ELEVEN_SPORTS_4/index.m3u8
 http://50.7.137.106:8080/ELEVEN_SPORTS_5/index.m3u8
 
 #EXTINF:-1, A SPORT  🇮🇳
-http://homeip.biz/PK_PS/index.m3u8
-
-#EXTINF:-1, A SPORT  🇮🇳
-http://mixbix.xyz:8080/live/afVZb46zeZrT/LdZyXr6ZeqaY/236842.m3u8
-
-#EXTINF:-1, A SPORT  🇮🇳
-http://mixbix.xyz:8080/Zx5WVffKH747/xxhPzTc8etFw/236842
-
-#EXTINF:-1, A SPORT  🇮🇳
 http://121.91.61.106:8000/play/a03o/index.m3u8
-
-#EXTINF:-1, A SPORT  🇮🇳
-http://mixbix.xyz:8080/live/fAueYvrzHX58/9xTFRAYVjxbj/236842.m3u8
-
-#EXTINF:-1,T SPORTS 🇮🇳
-http://portal.code-crafters.app/app/play.m3u8?id=10741
 
 #EXTINF:-1, SUPERSPORT 🇿🇦
 http://145.239.5.177:8080/564/index.m3u8
 
-#EXTINF:-1, SUPERSPORT 🇿🇦
+#EXTINF:-1, SUPERSPORT LaLiga 🇿🇦
 http://145.239.5.177:8080/565/index.m3u8
 
 #EXTINF:-1, SUPERSPORT 🇿🇦
