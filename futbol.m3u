@@ -9,6 +9,9 @@ https://d1u68oyra9spme.cloudfront.net/master.m3u8
 #EXTINF:-1,SPORTV 🇧🇷
 http://179.124.14.153:8080/19/index.m3u8
 
+#EXTINF:-1,LENZ SPORT 🇸🇦
+https://lenz.ayassport.ir/wh7f454c46tw2474804582_-1612534433/PLTV/88888888/224/3221226935/index.m3u8
+
 #EXTINF:-1,VIX LALIGA 🇨🇷
 http://190.185.121.102:58092/play/a00t
 
