@@ -6,6 +6,9 @@ https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1,TV2 🇪🇸
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
+#EXTINF:-1,TELEDEPORTE 🇪🇸
+https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main.m3u8
+
 #EXTINF:-1,TRT1 🇹🇷
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
 
