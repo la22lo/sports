@@ -27,6 +27,9 @@ http://185.236.229.62:9981/play/a05l
 #EXTINF:-1, TVP Sport HD 🇵🇱
 http://185.236.229.62:9981/play/a05c
 
+#EXTINF:-1, CCTV 5 Sports 🇨🇳
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+
 #EXTINF:-1,Матч! Футбол 1 HD 🇷🇺
 http://88.85.172.243:7002/play/a02j
 
