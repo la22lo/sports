@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,TENIS 🇮🇳
+http://50.7.218.122:80/sp2hd/index.m3u8
+
 #EXTINF:-1,TV1 🇪🇸
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 
