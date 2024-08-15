@@ -270,6 +270,12 @@ http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1, Turkmenistan Sport 🇹🇲
 http://217.174.225.146/hls/ch004_720/index.m3u8
 
+#EXTINF:-1, BEIN SOORT HABER 🇹🇷
+https://bozztv.com/dvrfl05/gin-beinsportshaber/index.m3u8
+
+#EXTINF:-1, TRT SPORT 🇹🇷
+http://ttk0811.xyz:8080/live/drs3433/cn.0905/353402.m3u8
+
 #EXTINF:-1, S-SPORT 1 🇹🇷
 https://www.oha.to/play/2666527925/index.m3u8
 
