@@ -90,6 +90,15 @@ https://hls.sweet.tv/stream/qfq2fp954aui9guc8e4d5526tu8uudcnyj342af9kxq8sry8g7n4
 #EXTINF:-1, Ziggo Sport Select HD 🇳🇱
 http://78.130.250.2:8023/play/a00n/index.m3u8
 
+#EXTINF:-1, ELEVEN SPORT 1 🇵🇱
+http://185.236.229.62:9981/play/a05w
+
+#EXTINF:-1, ELEVEN SPORT 2 🇵🇱
+http://185.236.229.62:9981/play/a05y
+
+#EXTINF:-1, ELEVEN SPORT 3 🇵🇱
+http://185.236.229.62:9981/play/a061
+
 #EXTINF:-1, Беларусь 5 🇧🇾
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 
