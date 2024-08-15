@@ -96,6 +96,9 @@ http://178.212.71.253:8002/play/a00k/index.m3u8
 #EXTINF:-1, Match HD 🇷🇺
 http://91.142.158.107:8092/play/33/index.m3u8
 
+#EXTINF:-1, Футбол 1 HD 🇷🇺
+http://194.143.148.28:8080/MatchFutbol1/mpegts
+
 #EXTINF:-1, Setanta Sports KZ 🇰🇿
 https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
 
