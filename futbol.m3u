@@ -294,6 +294,9 @@ http://178.219.128.68:64889/POLSSPORNEWSHD
 #EXTINF:-1, Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 
+#EXTINF:-1, TV4 Fotbol 🇸🇪
+http://81.170.137.124:9998/stream/channelid/602448551
+
 #EXTINF:-1, SPORT RU 🇷🇺
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
 
