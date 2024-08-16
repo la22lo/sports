@@ -108,6 +108,9 @@ http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4448&e
 #EXTINF:-1, TNT SPORT 5 🇬🇧
 http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4462&extension=ts
 
+#EXTINF:-1, Bein Sports 1 🇬🇧
+http://worldcup1.sawatvplus.store/streams_cach/158552.m3u8?token=
+
 #EXTINF:-1, Bein Sports 1 France 🇫🇷
 http://51.178.65.238/BeinSport/mono.m3u8
 
