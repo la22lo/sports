@@ -192,6 +192,18 @@ https://Pericopalotes135@directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u
 #EXTINF:-1, Movistar Deportes HD 🇪🇸
 http://200.60.124.19:29000/play/a06p/index.m3u8
 
+#EXTINF:-1, DIRECTV SPORT 1 HD 🇦🇷
+http://masplay.net:80/play/oEcPdncA1OherpWq1eyfNlhxX8lV088kyGE9Jl3AwBo/ts
+
+#EXTINF:-1, DIRECTV SPORT 1 HD 🇦🇷
+http://209.45.103.201:8000/play/a067/index.m3u8
+
+#EXTINF:-1, DIRECTV SPORT 1 HD 🇦🇷
+http://38.43.151.206:8000/play/a04m/index.m3u8
+
+#EXTINF:-1, DIRECTV SPORT 2 HD 🇦🇷
+http://masplay.net:80/play/oEcPdncA1OherpWq1eyfNtPy6h5zQWdS7EyFHTfbxSQ/ts
+
 #EXTINF:-1,ESPN VIVO 🇦🇷
 http://170.82.37.21:8000/play/a04g/index.m3u8
 
