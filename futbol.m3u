@@ -204,6 +204,9 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1,TELEDEPORTE 🇪🇸
 https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main.m3u8
 
+#EXTINF:-1,EUROSPORT 🇪🇸
+http://185.189.225.157/EuroSport1/index.m3u8
+
 #EXTINF:-1, TV3 🇪🇸
 https://Pericopalotes135@directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 
