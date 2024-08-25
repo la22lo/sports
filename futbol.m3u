@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, TSN 4 🇨🇦
+http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=1130114&extension=ts
+
 #EXTINF:-1, PERSIANA SPORT 🇮🇷 
 https://cdn.footballii.ir/hls2/persianas.m3u8
 
