@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, ELEVEN SPORTS 3 🇵🇹
+http://50.7.137.106:8080/ELEVEN_SPORTS_3/index.m3u8
+
 #EXTINF:-1, CANAL+ SPORT HD 🇵🇱
 http://185.236.229.62:9981/play/a04c
 
