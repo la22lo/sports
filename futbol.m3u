@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, CANAL+ SPORT HD 🇵🇱
+http://185.236.229.62:9981/play/a04c
+
 #EXTINF:-1, Bein Sports 1 France 🇫🇷
 http://51.178.65.238/BeinSport/mono.m3u8
 
