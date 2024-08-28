@@ -9,12 +9,6 @@ http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1, CANAL+ SPORT HD 🇵🇱
 http://185.236.229.62:9981/play/a04c
 
-#EXTINF:-1, ESPN 3 VIVO 🇦🇷
-http://190.90.18.161:15082/play/a05h/index.m3u8
-
-#EXTINF:-1, ESPN 3 VIVO 🇦🇷
-http://181.78.8.90:16123/play/ch18
-
 #EXTINF:-1, Bein Sports 1 France 🇫🇷
 http://51.178.65.238/BeinSport/mono.m3u8
 
@@ -269,6 +263,9 @@ http://181.78.8.90:16123/play/ch18
 
 #EXTINF:-1,ESPN 3 HD 🇦🇷
 http://200.60.124.19:29000/play/a02e/index.m3u8
+
+#EXTINF:-1, ESPN 3 VIVO 🇦🇷
+http://190.90.18.161:15082/play/a05h/index.m3u8
 
 #EXTINF:-1,ESPN 5 🇦🇷
 http://181.78.8.90:16123/play/ch19
