@@ -3,6 +3,9 @@
 #EXTINF:-1, Bein Sports 1 France 🇫🇷
 http://51.178.65.238/BeinSport/mono.m3u8
 
+#EXTINF:-1, PERSIANA SPORT 🇮🇷 
+https://cdn.footballii.ir/hls2/persianas.m3u8
+
 #EXTINF:-1, TV4 Fotbol 🇸🇪
 http://81.170.137.124:9998/stream/channelid/602448551
 
@@ -41,9 +44,6 @@ http://181.78.105.146:8800/play/a07h
 
 #EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
 http://190.185.121.102:58092/play/a00t
-
-#EXTINF:-1, PERSIANA SPORT 🇮🇷 
-https://cdn.footballii.ir/hls2/persianas.m3u8
 
 #EXTINF:-1, BEIN 3 🇶🇦
 http://z88.ubtvfans.com/live/rx1/2405/b2e567a130b342be942234f5e48c28dc/index.m3u8
