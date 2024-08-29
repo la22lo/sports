@@ -18,12 +18,6 @@ https://1.goalglory.org/n-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1, S SPORT 1 🇹🇷
 http://tvs.lol:8080/play/WNlrFYAKGYvNLo3JwNIga20b706Se0tOyCMqB5MNBVU/ts
 
-#EXTINF:-1, PERSIANA SPORT 🇮🇷 
-https://cdn.footballii.ir/hls2/persianas.m3u8
-
-#EXTINF:-1, BEIN 3 🇶🇦
-http://z88.ubtvfans.com/live/rx1/2405/b2e567a130b342be942234f5e48c28dc/index.m3u8
-
 #EXTINF:-1,VIX LALIGA 🇨🇷
 http://190.185.121.102:58092/play/a00t
 
@@ -44,6 +38,12 @@ http://181.78.105.146:8800/play/a07h
 
 #EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
 http://190.185.121.102:58092/play/a00t
+
+#EXTINF:-1, PERSIANA SPORT 🇮🇷 
+https://cdn.footballii.ir/hls2/persianas.m3u8
+
+#EXTINF:-1, BEIN 3 🇶🇦
+http://z88.ubtvfans.com/live/rx1/2405/b2e567a130b342be942234f5e48c28dc/index.m3u8
 
 #EXTINF:-1, M+ LALIGA HD 🇪🇸
 https://www.oha.to/play/2428779244/index.m3u8
