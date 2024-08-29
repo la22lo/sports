@@ -1,19 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1, ELEVEN SPORTS 3 🇵🇹
-http://50.7.137.106:8080/ELEVEN_SPORTS_3/index.m3u8
-
-#EXTINF:-1, Футбол 1 HD 🇷🇺
-http://194.143.148.28:8080/MatchFutbol1/mpegts
+#EXTINF:-1, Bein Sports 1 France 🇫🇷
+http://51.178.65.238/BeinSport/mono.m3u8
 
 #EXTINF:-1, CANAL+ SPORT HD 🇵🇱
 http://185.236.229.62:9981/play/a04c
 
 #EXTINF:-1, S SPORT 2 🇹🇷
 http://tvs.lol:8080/play/WNlrFYAKGYvNLo3JwNIga_z7kiW9ZWXvoaQ8MZ3rRbw/ts
-
-#EXTINF:-1, Bein Sports 1 France 🇫🇷
-http://51.178.65.238/BeinSport/mono.m3u8
 
 #EXTINF:-1, TV4 Fotbol 🇸🇪
 http://81.170.137.124:9998/stream/channelid/602448551
