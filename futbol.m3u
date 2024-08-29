@@ -21,6 +21,12 @@ https://1.goalglory.org/n-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1, TSN 2 🇨🇦
 http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=1130112&extension=ts
 
+#EXTINF:-1, Turkmenistan Sport 🇹🇲
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+
+#EXTINF:-1, Turkmenistan Sport 🇹🇲
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+
 #EXTINF:-1, S SPORT 1 🇹🇷
 http://tvs.lol:8080/play/WNlrFYAKGYvNLo3JwNIga20b706Se0tOyCMqB5MNBVU/ts
 
