@@ -18,6 +18,9 @@ http://185.236.229.62:9981/play/a05w
 #EXTINF:-1, S LALIGA 🇿🇦
 https://1.goalglory.org/n-1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, Setanta Sports 1 🇷🇺
+https://stream2.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, TSN 2 🇨🇦
 http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=1130112&extension=ts
 
@@ -146,6 +149,12 @@ http://185.57.68.33/110/mpegts
 
 #EXTINF:-1, Fast Sports 🇦🇲
 http://stream01.vnet.am/Channel_131/mono.m3u8
+
+#EXTINF:-1, Setanta Sports 1 🇷🇺
+https://stream2.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Setanta Sports 2 🇷🇺
+https://stream2.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Setanta Sports KZ 🇰🇿
 https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
