@@ -15,12 +15,6 @@ http://51.178.65.238/BeinSport/mono.m3u8
 #EXTINF:-1, PERSIANA SPORT 🇮🇷 
 https://cdn.footballii.ir/hls2/persianas.m3u8
 
-#EXTINF:-1, TV4 Fotbol 🇸🇪
-http://81.170.137.124:9998/stream/channelid/602448551
-
-#EXTINF:-1,ESPN DEPORTES 🇺🇸
-http://190.92.10.66:4000/play/a003/index.m3u8
-
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇱
 http://185.236.229.62:9981/play/a05w
 
