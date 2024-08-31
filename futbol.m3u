@@ -18,6 +18,9 @@ https://stream2.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 #EXTINF:-1, TSN 2 🇨🇦
 http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=1130112&extension=ts
 
+#EXTINF:-1, ARY Sports🇮🇳
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+
 #EXTINF:-1, S SPORT 1 🇹🇷
 http://tvs.lol:8080/play/WNlrFYAKGYvNLo3JwNIga20b706Se0tOyCMqB5MNBVU/ts
 
