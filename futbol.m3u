@@ -10,6 +10,9 @@ https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/mjOYoXButymG9ysR8d
 https://1.goalglory.org/n-6/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, LIGA
+https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_6.m3u8
+
+#EXTINF:-1, LIGA
 https://play1nm.hnyongshun.cn/live/ballbar_40420.m3u8
 
 #EXTINF:-1, LIGA
