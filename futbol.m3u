@@ -99,33 +99,6 @@ http://50.7.137.106:8080/ELEVEN_SPORTS_4/index.m3u8
 #EXTINF:-1, ELEVEN SPORTS 5 🇵🇹
 http://50.7.137.106:8080/ELEVEN_SPORTS_5/index.m3u8
 
-#EXTINF:-1, BEIN Sports 1 🇶🇦
-http://uccio.privres.xyz:80/jokerpersonale/qYurq7TIam/341348
-
-#EXTINF:-1, BEIN Sports 2 🇶🇦
-http://uccio.privres.xyz:80/jokerpersonale/qYurq7TIam/341337
-
-#EXTINF:-1, BEIN Sports 3 🇶🇦
-http://uccio.privres.xyz:80/jokerpersonale/qYurq7TIam/341338
-
-#EXTINF:-1, Bein Sports 1 France 🇫🇷
-http://uccio.privres.xyz:80/jokerpersonale/qYurq7TIam/341355
-
-#EXTINF:-1, Bein Sports 2 France 🇫🇷
-http://uccio.privres.xyz:80/jokerpersonale/qYurq7TIam/341356
-
-#EXTINF:-1, Bein Sports 3 France 🇫🇷
-http://uccio.privres.xyz:80/jokerpersonale/qYurq7TIam/329213
-
-#EXTINF:-1, SUPERSPORT FOOTBALL 🇿🇦
-http://145.239.5.177:8080/564/index.m3u8
-
-#EXTINF:-1, SUPERSPORT PREMIER LEAGUE 🇿🇦
-http://145.239.5.177:8080/566/index.m3u8
-
-#EXTINF:-1, SUPERSPORT 🇿🇦
-http://145.239.5.177:8080/567/index.m3u8
-
 #EXTINF:-1, TNT SPORT 1 🇬🇧
 http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4449&extension=m3u8
 
