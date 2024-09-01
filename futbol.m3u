@@ -1,25 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1, LIGA
-https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_6.m3u8
-
-#EXTINF:-1, ARENA SPORT 6 🇭🇷
-http://uccio.privres.xyz:80/jokerpersonale/qYurq7TIam/250826
-
-#EXTINF:-1, MAX SPORT 4 🇧🇬
-http://uccio.privres.xyz:80/jokerpersonale/qYurq7TIam/280186
-
-#EXTINF:-1, ELEVEN SPORTS 3 🇵🇹
-http://50.7.137.106:8080/ELEVEN_SPORTS_3/index.m3u8
-
-#EXTINF:-1, TV4 Fotbol 🇸🇪
-http://81.170.137.124:9998/stream/channelid/602448551
+#EXTINF:-1, Bein Sports 1 France 🇫🇷
+http://51.178.65.238/BeinSport/mono.m3u8
 
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://190.92.10.66:4000/play/a003/index.m3u8
 
-#EXTINF:-1, ELEVEN SPORT 1 🇵🇱
-http://185.236.229.62:9981/play/a05w
+#EXTINF:-1,CANAL+ SPORT 2 HD 🇵🇱
+http://185.236.229.62:9981/play/a05t
+
+#EXTINF:-1, LIGA
+https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_6.m3u8
+
+#EXTINF:-1, TV4 Fotbol 🇸🇪
+http://81.170.137.124:9998/stream/channelid/602448551
 
 #EXTINF:-1, Setanta Sports 2 🇷🇺
 https://stream2.cinerama.uz/1264/tracks-v1a1/mono.m3u8
@@ -38,9 +32,6 @@ https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 #EXTINF:-1, Turkmenistan Sport 🇹🇲
 http://217.174.225.146/legacyhls/ch004_720/index.m3u8
-
-#EXTINF:-1, Bein Sports 1 France 🇫🇷
-http://51.178.65.238/BeinSport/mono.m3u8
 
 #EXTINF:-1, PERSIANA SPORT 🇮🇷 
 https://cdn.footballii.ir/hls2/persianas.m3u8
@@ -212,9 +203,6 @@ http://185.236.229.62:9981/play/a061
 
 #EXTINF:-1, CANAL+ SPORT HD 🇵🇱
 http://185.236.229.62:9981/play/a04c
-
-#EXTINF:-1,CANAL+ SPORT 2 HD 🇵🇱
-http://185.236.229.62:9981/play/a05t
 
 #EXTINF:-1, Беларусь 5 🇧🇾
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
