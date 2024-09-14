@@ -393,6 +393,21 @@ http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=113011
 #EXTINF:-1, TSN 5 🇨🇦
 http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=1130115&extension=ts
 
+#EXTINF:-1, Arena Sport 1 🇭🇷
+http://5.206.237.85:8600/play/a014/index.m3u8
+
+#EXTINF:-1, Arena Sport 2 🇭🇷
+http://5.206.237.85:8600/play/a015/index.m3u8
+
+#EXTINF:-1, Arena Sport 3 🇭🇷
+http://5.206.237.85:8600/play/a016/index.m3u8
+
+#EXTINF:-1, Arena Sport 4 🇭🇷
+http://5.206.237.85:8600/play/a017/index.m3u8
+
+#EXTINF:-1, Arena Sport 5 🇭🇷
+http://5.206.237.85:8600/play/a018/index.m3u8
+
 #EXTINF:-1,HRT2 🇭🇷
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
 
