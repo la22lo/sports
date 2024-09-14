@@ -24,6 +24,9 @@ http://190.92.10.66:4000/play/a003/index.m3u8
 #EXTINF:-1, PERSIANA SPORT 🇮🇷 
 https://cdn.footballii.ir/hls2/persianas.m3u8
 
+#EXTINF:-1, Match HD 🇷🇺
+http://65.21.85.175:8000/play/a006/index.m3u8?token=livetv
+
 #EXTINF:-1, Матч! (EDTV 576p) 🇷🇺
 http://91.142.158.107:8092/play/33/index.m3u8
 
@@ -151,6 +154,9 @@ http://145.239.5.177:8080/521/index.m3u8
 http://178.212.71.253:8002/play/a00k/index.m3u8
 
 #EXTINF:-1, Match HD 🇷🇺
+http://65.21.85.175:8000/play/a006/index.m3u8?token=livetv
+
+#EXTINF:-1, Match HD 🇷🇺
 http://91.142.158.107:8092/play/33/index.m3u8
 
 #EXTINF:-1, Match HD 🇷🇺
@@ -189,8 +195,20 @@ http://stream01.vnet.am/Channel_131/mono.m3u8
 #EXTINF:-1, Setanta Sports 1 🇷🇺
 https://stream2.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, Setanta Sports 1 🇷🇺
+https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
+
+#EXTINF:-1, Setanta Sports 1 🇷🇺
+http://95.216.40.210:80/setanta1/tracks-v1a1/manifest.m3u8
+
 #EXTINF:-1, Setanta Sports 2 🇷🇺
 https://stream2.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Setanta Sports 2 🇷🇺
+https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
+
+#EXTINF:-1, Setanta Sports 2 🇷🇺
+http://95.216.40.210:80/setanta2/tracks-v1a1/manifest.m3u8
 
 #EXTINF:-1, Setanta Sports KZ 🇰🇿
 https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
