@@ -453,6 +453,9 @@ http://88.99.66.6:8080/str.yodacdn.net/cbcsport/tracks-v1a1/mono.m3u8?token=f321
 #EXTINF:-1, CBC SPORT 🇦🇿
 http://50.7.144.122:1935/livetv/cbcsport.stream/sec-f5-v1-a1.m3u8
 
+#EXTINF:-1, Tivibu Spor 🇹🇷
+http://stream.tvcdn.net/spor/tivibu-spor.m3u8
+
 #EXTINF:-1, BEIN SPORT HABER 🇹🇷
 https://bozztv.com/dvrfl05/gin-beinsportshaber/index.m3u8
 
