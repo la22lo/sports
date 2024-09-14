@@ -309,6 +309,9 @@ http://200.60.124.19:29000/play/a06p/index.m3u8
 #EXTINF:-1, Movistar Deportes 🇪🇸
 http://38.43.151.206:8000/play/a02z/index.m3u8
 
+#EXTINF:-1, DIRECTV SPORT HD 🇦🇷
+http://209.45.20.210:50001/play/a03o/index.m3u8
+
 #EXTINF:-1, DIRECTV SPORT 1 HD 🇦🇷
 http://masplay.net:80/play/oEcPdncA1OherpWq1eyfNlhxX8lV088kyGE9Jl3AwBo/ts
 
