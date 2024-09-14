@@ -144,6 +144,12 @@ http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4462&e
 #EXTINF:-1, Bein Sports 1 🇬🇧
 http://worldcup1.sawatvplus.store/streams_cach/158552.m3u8?token=
 
+#EXTINF:-1, Premier Sports 1 🇮🇪
+https://7pal.short.gy/prsport1
+
+#EXTINF:-1, Premier Sports 2 🇮🇪
+https://7pal.short.gy/prsport2
+
 #EXTINF:-1, Bein Sports 1 France 🇫🇷
 http://51.178.65.238/BeinSport/mono.m3u8
 
