@@ -15,6 +15,9 @@ https://7.tutl24.xyz/live/STa1e37b42ad44cef.m3u8
 #EXTINF:-1, МАТЧ! Футбол2 🇷🇺
 http://65.21.85.175:8000/play/a008/index.m3u8?token=livetv
 
+#EXTINF:-1, МАТЧ! Футбол2 🇷🇺
+http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
+
 #EXTINF:-1,BEIN 3 🇶🇦
 http://188.93.236.142:8080/live/431714716778004/68da21d2dca3/25108.m3u8?token=Q0FaWEpZFFsXU1dSAFVTUgQDUFNUD10FAAUFV1cHBgYIUFQBD1QFAA0VGEZGFUdTUl9qWwIVAlNXAgBcGENHQ10RbVBdEwxDAwINVARUFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRmYRceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ=
 
@@ -180,6 +183,9 @@ http://65.21.85.175:8000/play/a007/index.m3u8?token=livetv
 #EXTINF:-1, Футбол 1 HD 🇷🇺
 http://88.85.172.243:7002/play/a02j
 
+#EXTINF:-1, Футбол 1 HD 🇷🇺
+http://194.26.229.213/matc-futbol-1/index.m3u8?token=Panda
+
 #EXTINF:-1, МАТЧ! Футбол1 🇷🇺
 http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1Mjo4ODg3LzgwMjEvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImEyM2Y2ZWZmIiwicCI6ImEyM2Y2ZWZmYWU3N2ZjMWEiLCJjIjoiMjEiLCJ0IjoiNTQ5YmViOWIxNmYyMTUxMDE4M2M1MjNiZmI4N2EzZjEiLCJkIjoiNjg0NDgiLCJyIjoiNjk3NzYiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODAyMS9pbmRleC5tM3U4P3R/index.m3u8
 
@@ -192,6 +198,9 @@ http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1ND
 #EXTINF:-1, МАТЧ! Футбол2 🇷🇺
 http://65.21.85.175:8000/play/a008/index.m3u8?token=livetv
 
+#EXTINF:-1, МАТЧ! Футбол2 🇷🇺
+http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
+
 #EXTINF:-1, МАТЧ! Футбол3 🇷🇺
 http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1Mjo4ODg3LzgwMjkvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImEyM2Y2ZWZmIiwicCI6ImEyM2Y2ZWZmYWU3N2ZjMWEiLCJjIjoiMjkiLCJ0IjoiNTQ5YmViOWIxNmYyMTUxMDE4M2M1MjNiZmI4N2EzZjEiLCJkIjoiNjg0NDgiLCJyIjoiNjk3NzYiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODAyOS9pbmRleC5tM3U4P3R/index.m3u8
 
@@ -200,6 +209,9 @@ http://185.57.68.33/110/mpegts
 
 #EXTINF:-1, Матч! Футбол 3 HD 🇷🇺
 http://65.21.85.175:8000/play/a009/index.m3u8?token=livetv
+
+#EXTINF:-1, Матч! Футбол 3 HD 🇷🇺
+http://194.26.229.213/matc-futbol-3/index.m3u8?token=Panda
 
 #EXTINF:-1, Fast Sports 🇦🇲
 http://stream01.vnet.am/Channel_131/mono.m3u8
