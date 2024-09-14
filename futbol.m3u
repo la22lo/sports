@@ -546,3 +546,6 @@ https://cdn.footballii.ir/hls2/persianas.m3u8
 
 #EXTINF:-1,Polsat SPORT 1 🇵🇱
 http://178.219.128.68:64889/POLSSPORHD
+
+#EXTINF:-1, Real Madrid TV 🇪🇸
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
