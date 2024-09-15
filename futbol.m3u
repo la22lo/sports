@@ -570,6 +570,9 @@ http://stream.tvcdn.net/spor/tivibu-spor.m3u8
 #EXTINF:-1, BEIN SPORT HABER 🇹🇷
 https://bozztv.com/dvrfl05/gin-beinsportshaber/index.m3u8
 
+#EXTINF:-1, BEIN SPORT CANLI 🇹🇷
+http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/5849.ts
+
 #EXTINF:-1, TRT SPORT 🇹🇷
 http://ttk0811.xyz:8080/live/drs3433/cn.0905/353402.m3u8
 
