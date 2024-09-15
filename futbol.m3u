@@ -264,6 +264,18 @@ http://158.101.214.187:8080/channel/55bea1f0/index.m3u8?q=b92e505ee8a30dc40ddf8c
 #EXTINF:-1, Setanta Sports 1 🇺🇦
 http://158.101.214.187:8080/channel/4eb18fdb/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
 
+#EXTINF:-1, Setanta Sports 1 🇺🇦
+http://135.125.235.54/0502/video.m3u8?token=01867E7BE1C1
+
+#EXTINF:-1, Setanta Sports 2 🇺🇦
+http://135.125.235.54/0503/video.m3u8?token=01867E7BE1C1
+
+#EXTINF:-1, Setanta Sports 🇺🇦
+http://135.125.235.54/0504/video.m3u8?token=01867E7BE1C1 
+
+#EXTINF:-1, Setanta Sports LIVE 1 🇺🇦
+http://135.125.235.54/0505/video.m3u8?token=01867E7BE1C1 
+
 #EXTINF:-1, MEGOGO Sports 1 🇺🇦
 http://135.125.235.54/0509/video.m3u8?token=01867E7BE1C1
 
