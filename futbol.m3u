@@ -286,7 +286,7 @@ http://135.125.235.54/0510/video.m3u8?token=01867E7BE1C1
 http://135.125.235.54/0511/video.m3u8?token=01867E7BE1C1
 
 #EXTINF:-1, MEGOGO CNOPT 🇺🇦
-http://de.seetv.cc/play/1001/996DA9781004412/video.m3u8
+http://135.125.235.54/0516/video.m3u8?token=01867E7BE1C1  
 
 #EXTINF:-1, MEGOGO ROHR 🇺🇦
 http://135.125.235.54/0512/video.m3u8?token=01867E7BE1C1
@@ -536,6 +536,9 @@ http://88.218.242.237:8000/play/a00d
 
 #EXTINF:-1, MNPA 🇷🇺
 http://135.125.235.54/0513/video.m3u8?token=01867E7BE1C1
+
+#EXTINF:-1,ФУТБОЛ ö 🇷🇺
+http://135.125.235.54/0515/video.m3u8?token=01867E7BE1C1  
 
 #EXTINF:-1, Turkmenistan Sport 🇹🇲
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
