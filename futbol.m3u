@@ -18,6 +18,9 @@ http://65.21.85.175:8000/play/a008/index.m3u8?token=livetv
 #EXTINF:-1, TERA PLAY
 https://80abdb7ac79b.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.442426874016.channel.8ZcaiEPi05tT.m3u8
 
+#EXTINF:-1, S LALIGA 🇿🇦
+https://sportnext.online/hls/M2.m3u8
+
 #EXTINF:-1, DIRECTV SPORT HD 🇦🇷
 http://209.45.20.210:50001/play/a03o/index.m3u8
 
