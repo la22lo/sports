@@ -12,6 +12,9 @@ http://103.84.57.155:8000/play/a027/index.m3u8
 #EXTINF:-1, Sony Ten 1 HD 🇮🇳
 http://119.156.26.155:8000/play/a06b/index.m3u8
 
+#EXTINF:-1, sky sport calcio 🇮🇹
+http://77.247.109.143:1500/stream/dvb/skysportcalcioit/master.m3u8
+
 #EXTINF:-1, Sony Ten 1 HD 🇮🇳
 http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
