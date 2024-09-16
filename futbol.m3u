@@ -15,6 +15,9 @@ http://119.156.26.155:8000/play/a06b/index.m3u8
 #EXTINF:-1, Sony Ten 1 HD 🇮🇳
 http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
+#EXTINF:-1, Digi Sport 2 🇷🇴
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2522/index.m3u8
+
 
 
 #EXTINF:-1, GXR WORLD 🇮🇳
@@ -619,21 +622,6 @@ http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2522/index.m3u8
 
 #EXTINF:-1, Digi Sport 3 🇷🇴
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2524/index.m3u8
-
-#EXTINF:-1,Digi Sport 1 🇷🇴
-http://188.27.197.142:9981/stream/channelid/1064455829?profile=pass
-
-#EXTINF:-1,Digi Sport 2 🇷🇴
-http://188.27.197.142:9981/stream/channelid/370345158?profile=pass
-
-#EXTINF:-1,Digi Sport 3 🇷🇴
-http://188.27.197.142:9981/stream/channelid/2019507813?profile=pass
-
-#EXTINF:-1,Digi Sport 4 🇷🇴
-http://188.27.197.142:9981/stream/channelid/1764331214?profile=pass
-
-#EXTINF:-1,Prima Sport 2 🇷🇴
-http://188.27.197.142:9981/stream/channelid/964077449?profile=pass
 
 #EXTINF:-1, SoloCalcioᴴᴰ 🇮🇹 
 https://bit.ly/48XfUCc?profile=inspirationFreetv.m3u8
