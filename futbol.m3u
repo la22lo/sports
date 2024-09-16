@@ -9,6 +9,9 @@ http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
 #EXTINF:-1, Sony Ten 1 HD- Rs 19 🇮🇳
 http://103.84.57.155:8000/play/a027/index.m3u8
 
+#EXTINF:-1, Sony Ten 1 HD 🇮🇳
+http://119.156.26.155:8000/play/a06b/index.m3u8
+
 
 #EXTINF:-1, GXR WORLD 🇮🇳
 https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_6.m3u8
