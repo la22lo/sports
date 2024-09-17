@@ -470,6 +470,12 @@ http://209.45.20.210:50001/play/a00w/index.m3u8
 #EXTINF:-1, ESPN Premium HD 🇦🇷
 http://209.45.20.210:50001/play/a02p/index.m3u8
 
+#EXTINF:-1, FOX Sports 🇦🇷
+https://8.tutl24.xyz/live/ST1d09a313fa8ad88.m3u8
+
+#EXTINF:-1, FOX Sports 2 🇦🇷
+https://8.tutl24.xyz/live/STa413a92a1e3892d.m3u8
+
 #EXTINF:-1,TV MAX 🇵🇦 
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 
