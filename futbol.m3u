@@ -479,8 +479,20 @@ http://209.45.20.210:50001/play/a02p/index.m3u8
 #EXTINF:-1, FOX Sports 🇦🇷
 https://8.tutl24.xyz/live/ST1d09a313fa8ad88.m3u8
 
+#EXTINF:-1, FOX Sports 🇦🇷
+https://7.tutl24.xyz/live/ST0187475b27ccd9e.m3u8
+
 #EXTINF:-1, FOX Sports 2 🇦🇷
 https://8.tutl24.xyz/live/STa413a92a1e3892d.m3u8
+
+#EXTINF:-1, FOX Sports 2 🇦🇷
+https://7.tutl24.xyz/live/ST3c7d45c4b19ec99.m3u8
+
+#EXTINF:-1, FOX Sports 3 🇦🇷
+https://7.tutl24.xyz/live/STf66c01258b2c798.m3u8
+
+#EXTINF:-1, FOX Sports PREMIUM 🇦🇷
+https://8.tutl24.xyz/live/ST589f8d07edb69df.m3u8
 
 #EXTINF:-1,TV MAX 🇵🇦 
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
