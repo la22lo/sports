@@ -401,6 +401,9 @@ http://200.60.124.19:29000/play/a06p/index.m3u8
 #EXTINF:-1, Movistar Deportes 🇪🇸
 http://38.43.151.206:8000/play/a02z/index.m3u8
 
+#EXTINF:-1, Movistar + 🇪🇸
+https://7.tutl24.xyz/live/STa17d1d4740e2686.m3u8
+
 #EXTINF:-1, DIRECTV SPORT HD 🇦🇷
 http://209.45.20.210:50001/play/a03o/index.m3u8
 
