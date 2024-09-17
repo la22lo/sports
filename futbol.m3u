@@ -425,6 +425,12 @@ http://38.43.151.206:8000/play/a04m/index.m3u8
 #EXTINF:-1, DIRECTV SPORT 2 HD 🇦🇷
 http://masplay.net:80/play/oEcPdncA1OherpWq1eyfNtPy6h5zQWdS7EyFHTfbxSQ/ts
 
+#EXTINF:-1, DSPORTS 🇦🇷
+https://8.tutl24.xyz/live/STe6f666cfe0cd37f.m3u8
+
+#EXTINF:-1, DSPORTS 2 HD 🇦🇷
+https://8.tutl24.xyz/live/STa85eed54f39c385.m3u8
+
 #EXTINF:-1,ESPN VIVO 🇦🇷
 http://170.82.37.21:8000/play/a04g/index.m3u8
 
@@ -487,6 +493,9 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
 #EXTINF:-1, TIGO SPORTS 🇨🇷
 http://170.82.37.21:8000/play/a047/index.m3u8
+
+#EXTINF:-1, TIGO SPORTS 🇨🇷
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7357
 
 #EXTINF:-1,TIGO SPORTS 🇨🇷
 http://190.185.121.102:58092/play/a00s
