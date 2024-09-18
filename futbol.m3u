@@ -36,8 +36,8 @@ http://stream01.vnet.am/Channel_131/mono.m3u8
 #EXTINF:-1, QAZ SPORT 🇰🇿
 https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
 
-#EXTINF:-1, KAZAJISTAN SPORT 🇰🇿 
-https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv_720/playlist.m3u8
+#EXTINF:-1,TUDN EN VIVO 🇲🇽
+http://190.92.10.66:4000/play/a002/index.m3u8
 
 #EXTINF:-1, Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
@@ -155,9 +155,6 @@ http://181.78.105.146:8800/play/a07h
 
 #EXTINF:-1, M+ LALIGA HD 🇪🇸
 https://www.oha.to/play/2428779244/index.m3u8
-
-#EXTINF:-1,VIX 🇨🇷
-http://190.92.10.66:4000/play/a002/index.m3u8
 
 #EXTINF:-1,HYPERMOTION 🇪🇸
 https://7.tutl24.xyz/live/STc98783bbeb1fd56.m3u8
