@@ -477,9 +477,6 @@ http://190.185.121.102:58092/play/a00m
 #EXTINF:-1,TUDN EN VIVO 🇲🇽
 https://7.tutl24.xyz/live/STbf8e8e95160e2a0.m3u8
 
-#EXTINF:-1,TUDN 🇲🇽
-http://190.92.10.66:4000/play/a002/index.m3u8
-
 #EXTINF:-1, TSN 1 🇨🇦
 http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=1130111&extension=ts
 
