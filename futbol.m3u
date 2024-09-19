@@ -235,9 +235,6 @@ http://213.176.3.72:1234/stream/FRANCE/bein3hdfr/master.m3u8
 #EXTINF:-1, Bein Sports 3 France 🇫🇷
 http://213.176.3.72:1234/stream/FRANCE/971/master.m3u8
 
-#EXTINF:-1, Canal + Sport 🇫🇷
-http://78.130.250.2:8023/play/a02v/index.m3u8
-
 #EXTINF:-1, Match HD--КК 🇷🇺
 http://178.212.71.253:8002/play/a00k/index.m3u8
 
@@ -543,6 +540,9 @@ http://78.130.250.2:8023/play/a02u/index.m3u8
 
 #EXTINF:-1, ARENA Sport 1 🇨🇿
 http://78.130.250.2:8023/play/a02o/index.m3u8
+
+#EXTINF:-1, Canal + Sport 🇨🇿
+http://78.130.250.2:8023/play/a02v/index.m3u8
 
 #EXTINF:-1,Polsat SPORT 1 🇵🇱
 http://178.219.128.68:64889/POLSSPORHD
