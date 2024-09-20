@@ -1,85 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, LC 🇪🇸
-https://flussonic.1mrgamingstreams.com/daznlaliga/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, sky sport calcio 🇮🇹
-http://77.247.109.143:1500/stream/dvb/skysportcalcioit/master.m3u8
-
-#EXTINF:-1, CBC SPORT 🇦🇿
-https://bozztv.com/dvrfl05/gin-cbc-sport/index.m3u8
-
-#EXTINF:-1, Sport5 🇮🇱
-https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
-
-#EXTINF:-1,BEIN SPORT 1 🇶🇦
-http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
-
-#EXTINF:-1, Sony Ten 1 HD- Rs 19 🇮🇳
-http://103.84.57.155:8000/play/a027/index.m3u8
-
-#EXTINF:-1, Sony Ten 1 HD 🇮🇳
-http://119.156.26.155:8000/play/a06b/index.m3u8
-
-#EXTINF:-1, Sony Ten 1 HD 🇮🇳
-http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-
-#EXTINF:-1, PERSIANA SPORT 🇮🇷 
-https://cdn.footballii.ir/hls2/persianas.m3u8
-
-#EXTINF:-1, TNT SPORT 2 🇬🇧
-http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4446&extension=ts
-
-#EXTINF:-1, TRT 1 🇹🇷
-https://canlitvulusal.xyz/live/trt1/index.m3u8
-
-#EXTINF:-1, TRT 1 🇹🇷
-https://helga.iptv2022.com/sh/trt_1/index.m3u8
-
-#EXTINF:-1, TRT 1 🇹🇷
-https://trt.daioncdn.net/trt-1/master.m3u8?app=web
-
-#EXTINF:-1, TRT 1 🇹🇷
-https://trt.daioncdn.net/trt-1/master.m3u8?app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2
-
-#EXTINF:-1, TRT 1 🇹🇷
-https://trt.daioncdn.net/trt-1/master.m3u8?app=e435840d-2653-45a3-afef-082d4ea998f3
-
-#EXTINF:-1, aio Sport 🇸🇦
-https://liveproxy.splus.ir/hls/aiosport/aiosport.m3u8
-
-#EXTINF:-1, Fast Sports 🇦🇲
-http://stream01.vnet.am/Channel_131/mono.m3u8
-
-#EXTINF:-1, QAZ SPORT 🇰🇿
-https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
-
-#EXTINF:-1,HRT2 🇭🇷
-http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
-
-#EXTINF:-1, HRT 2 🇭🇷
-http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
-
-#EXTINF:-1, HRT 2 🇭🇷
-http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8?
-
-#EXTINF:-1,BEIN SPORT 2 🇶🇦
-http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
-
-#EXTINF:-1,TUDN EN VIVO 🇲🇽
-http://190.92.10.66:4000/play/a002/index.m3u8
-
-#EXTINF:-1, TNT SPORT 1 🇬🇧
-http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4449&extension=m3u8
-
-#EXTINF:-1, TNT SPORT 1 🇬🇧
-http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4445&extension=ts
-
-
-
-
-
-
 #EXTINF:-1, GXR WORLD 🇮🇳
 https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_6.m3u8
 
@@ -730,6 +650,87 @@ https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 
 #EXTINF:-1, TENNIS
 https://d3qg0hadt0dkov.cloudfront.net:443/amgtennisus/playlist1080_p.m3u8
+
+
+
+
+
+#EXTINF:-1, LC 🇪🇸
+https://flussonic.1mrgamingstreams.com/daznlaliga/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, sky sport calcio 🇮🇹
+http://77.247.109.143:1500/stream/dvb/skysportcalcioit/master.m3u8
+
+#EXTINF:-1, CBC SPORT 🇦🇿
+https://bozztv.com/dvrfl05/gin-cbc-sport/index.m3u8
+
+#EXTINF:-1, Sport5 🇮🇱
+https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
+
+#EXTINF:-1,BEIN SPORT 1 🇶🇦
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+
+#EXTINF:-1, Sony Ten 1 HD- Rs 19 🇮🇳
+http://103.84.57.155:8000/play/a027/index.m3u8
+
+#EXTINF:-1, Sony Ten 1 HD 🇮🇳
+http://119.156.26.155:8000/play/a06b/index.m3u8
+
+#EXTINF:-1, Sony Ten 1 HD 🇮🇳
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+
+#EXTINF:-1, PERSIANA SPORT 🇮🇷 
+https://cdn.footballii.ir/hls2/persianas.m3u8
+
+#EXTINF:-1, TNT SPORT 2 🇬🇧
+http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4446&extension=ts
+
+#EXTINF:-1, TRT 1 🇹🇷
+https://canlitvulusal.xyz/live/trt1/index.m3u8
+
+#EXTINF:-1, TRT 1 🇹🇷
+https://helga.iptv2022.com/sh/trt_1/index.m3u8
+
+#EXTINF:-1, TRT 1 🇹🇷
+https://trt.daioncdn.net/trt-1/master.m3u8?app=web
+
+#EXTINF:-1, TRT 1 🇹🇷
+https://trt.daioncdn.net/trt-1/master.m3u8?app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2
+
+#EXTINF:-1, TRT 1 🇹🇷
+https://trt.daioncdn.net/trt-1/master.m3u8?app=e435840d-2653-45a3-afef-082d4ea998f3
+
+#EXTINF:-1, aio Sport 🇸🇦
+https://liveproxy.splus.ir/hls/aiosport/aiosport.m3u8
+
+#EXTINF:-1, Fast Sports 🇦🇲
+http://stream01.vnet.am/Channel_131/mono.m3u8
+
+#EXTINF:-1, QAZ SPORT 🇰🇿
+https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
+
+#EXTINF:-1,HRT2 🇭🇷
+http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
+
+#EXTINF:-1, HRT 2 🇭🇷
+http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
+
+#EXTINF:-1, HRT 2 🇭🇷
+http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8?
+
+#EXTINF:-1,BEIN SPORT 2 🇶🇦
+http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
+
+#EXTINF:-1,TUDN EN VIVO 🇲🇽
+http://190.92.10.66:4000/play/a002/index.m3u8
+
+#EXTINF:-1, TNT SPORT 1 🇬🇧
+http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4449&extension=m3u8
+
+#EXTINF:-1, TNT SPORT 1 🇬🇧
+http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4445&extension=ts
+
+
 
 #EXTINF:-1, Real Madrid TV 🇪🇸
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
