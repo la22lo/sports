@@ -54,6 +54,9 @@ http://190.92.10.66:4000/play/a003/index.m3u8
 #EXTINF:-1, PERSIANA SPORT 🇮🇷 
 https://cdn.footballii.ir/hls2/persianas.m3u8
 
+#EXTINF:-1, BEIN SPORT 3 TRUE VISION 🇹🇭
+https://live444.xyz/stream/8/index.m3u8
+
 #EXTINF:-1, Match HD 🇷🇺
 http://65.21.85.175:8000/play/a006/index.m3u8?token=livetv
 
