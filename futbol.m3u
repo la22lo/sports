@@ -621,6 +621,9 @@ http://ttk0811.xyz:8080/live/drs3433/cn.0905/353402.m3u8
 #EXTINF:-1,SPORTS TV 🇹🇷
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
+#EXTINF:-1, A Sports 🇹🇷 
+https://bozztv.com/inim03/live1/aspor/playlist.m3u8
+
 #EXTINF:-1,TV 8,5 🇹🇷
 https://hw1.jemtv.com/app/tv85/chunks.m3u8
 
