@@ -489,6 +489,9 @@ https://cdn-5.nxplay.com.br/ESPN_3/index.m3u8
 #EXTINF:-1, ESPN 4 BRASIL 🇧🇷
 https://cdn-5.nxplay.com.br/ESPN_4/index.m3u8
 
+#EXTINF:-1, SPORT FANS 🇧🇷
+http://91.132.74.4:7374/play/a00k/index.m3u8
+
 #EXTINF:-1, TSN 1 🇨🇦
 http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=1130111&extension=ts
 
