@@ -324,6 +324,21 @@ http://135.125.235.54/0512/video.m3u8?token=01867E7BE1C1
 #EXTINF:-1, Ziggo Sport Select HD 🇳🇱
 http://78.130.250.2:8023/play/a00n/index.m3u8
 
+#EXTINF:-1, SportKlub 1 🇧🇦 
+http://89.187.191.99:8080/sk1/index.m3u8
+
+#EXTINF:-1, SportKlub 2 🇧🇦 
+http://89.187.191.99:8080/sk2/index.m3u8
+
+#EXTINF:-1, SportKlub 3 🇧🇦 
+http://89.187.191.99:8080/sk3/index.m3u8
+
+#EXTINF:-1 ,SportKlub 4 🇧🇦 
+http://89.187.191.99:8080/sk5/index.m3u8
+
+#EXTINF:-1, SportKlub 6 🇧🇦 
+http://89.187.191.99:8080/sk6/index.m3u8
+
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇱
 http://185.236.229.62:9981/play/a05w
 
@@ -656,6 +671,9 @@ https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ad
 
 #EXTINF:-1, Sport en Franceᴴᴰ 🇫🇷 
 https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
+
+#EXTINF:-1, INFOSPORT 🇫🇷 
+http://212.102.60.80/Infosport/index.m3u8
 
 #EXTINF:-1, Gaora Sports 🇯🇵
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
