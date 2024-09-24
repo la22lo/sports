@@ -60,9 +60,6 @@ http://65.21.85.175:8000/play/a006/index.m3u8?token=livetv
 #EXTINF:-1, Матч! (EDTV 576p) 🇷🇺
 http://91.142.158.107:8092/play/33/index.m3u8
 
-#EXTINF:-1, МАТЧ! Футбол2 🇷🇺
-http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1Mjo4ODg3LzgwMjIvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImEyM2Y2ZWZmIiwicCI6ImEyM2Y2ZWZmYWU3N2ZjMWEiLCJjIjoiMjIiLCJ0IjoiNTQ5YmViOWIxNmYyMTUxMDE4M2M1MjNiZmI4N2EzZjEiLCJkIjoiNjg0NDgiLCJyIjoiNjk3NzYiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODAyMi9pbmRleC5tM3U4P3R/index.m3u8
-
 #EXTINF:-1, TV4 Fotbol 🇸🇪
 http://81.170.137.124:9998/stream/channelid/602448551
 
@@ -78,14 +75,8 @@ http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1,BEIN SPORT 1 🇶🇦
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 
-#EXTINF:-1,BEIN SPORT 1 🇶🇦
-https://live.moviball.online/BeinSport1/index.m3u8?token=PqskwQ2cvX9XL3
-
 #EXTINF:-1,BEIN SPORT 2 🇶🇦
 http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
-
-#EXTINF:-1,BEIN SPORT 2 🇶🇦
-https://live.moviball.online/BeinSport2/index.m3u8?token=PqskwQ2cvX9XL3
 
 #EXTINF:-1, S SPORT 1 🇹🇷
 http://tvs.lol:8080/play/WNlrFYAKGYvNLo3JwNIga20b706Se0tOyCMqB5MNBVU/ts
@@ -106,19 +97,10 @@ http://190.92.10.66:4000/play/a001/index.m3u8
 http://181.78.109.49:8000/play/a06r/index.m3u8
 
 #EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
-http://45.5.117.182:8000/play/jnl0/index.m3u8
-
-#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
 http://181.78.105.146:8800/play/a07h
 
 #EXTINF:-1, M+ LALIGA HD 🇪🇸
 https://www.oha.to/play/2428779244/index.m3u8
-
-#EXTINF:-1,HYPERMOTION 🇪🇸
-https://7.tutl24.xyz/live/STc98783bbeb1fd56.m3u8
-
-#EXTINF:-1,HYPERMOTION 🇪🇸
-https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/yEPT2LGXKCnFNCY9imLP1rwnLaAgtFtqJnPUNMGam9gs-3-wmb4NDpdJVvIj8JTnz_TSiI8L7eGNAFKieJf9paZ06u_9IbXh-ff_BLfwKk1UqU5KhVGDNbCY-cp5Hk4_eK_twXM8oUE2Q8JVermWBCP1Spxkt3qiiMuZQcUgdug/hls/index.m3u8
 
 #EXTINF:-1, Sports18 1 HD 🇮🇳
 http://tv.cloudcdn.me/live.ts?channelId=102479&uid=4944&deviceMac=00:1A:79:94:98:FE
@@ -217,9 +199,6 @@ http://91.142.158.107:8092/play/33/index.m3u8
 http://91.207.114.220:9001/play/a050/index.m3u8
 
 #EXTINF:-1, Match 🇷🇺
-http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1Mjo4ODg3LzgwMTYvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImEyM2Y2ZWZmIiwicCI6ImEyM2Y2ZWZmYWU3N2ZjMWEiLCJjIjoiMTYiLCJ0IjoiNTQ5YmViOWIxNmYyMTUxMDE4M2M1MjNiZmI4N2EzZjEiLCJkIjoiNjg0NDgiLCJyIjoiNjk3NzYiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODAxNi9pbmRleC5tM3U4P3R/index.m3u8
-
-#EXTINF:-1, Match 🇷🇺
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8
 
 #EXTINF:-1, Футбол 1 HD 🇷🇺
@@ -234,23 +213,11 @@ http://88.85.172.243:7002/play/a02j
 #EXTINF:-1, Футбол 1 HD 🇷🇺
 http://194.26.229.213/matc-futbol-1/index.m3u8?token=Panda
 
-#EXTINF:-1, МАТЧ! Футбол1 🇷🇺
-http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1Mjo4ODg3LzgwMjEvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImEyM2Y2ZWZmIiwicCI6ImEyM2Y2ZWZmYWU3N2ZjMWEiLCJjIjoiMjEiLCJ0IjoiNTQ5YmViOWIxNmYyMTUxMDE4M2M1MjNiZmI4N2EzZjEiLCJkIjoiNjg0NDgiLCJyIjoiNjk3NzYiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODAyMS9pbmRleC5tM3U4P3R/index.m3u8
-
-#EXTINF:-1, МАТЧ! Футбол2 🇷🇺
-http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1Mjo4ODg3LzgwMjIvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImEyM2Y2ZWZmIiwicCI6ImEyM2Y2ZWZmYWU3N2ZjMWEiLCJjIjoiMjIiLCJ0IjoiNTQ5YmViOWIxNmYyMTUxMDE4M2M1MjNiZmI4N2EzZjEiLCJkIjoiNjg0NDgiLCJyIjoiNjk3NzYiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODAyMi9pbmRleC5tM3U4P3R/index.m3u8
-
-#EXTINF:-1, МАТЧ! Футбол2 🇷🇺
-http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1NDo4ODg3LzgyMzcvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImEyM2Y2ZWZmIiwicCI6ImEyM2Y2ZWZmYWU3N2ZjMWEiLCJjIjoiMjIzIiwidCI6IjU0OWJlYjliMTZmMjE1MTAxODNjNTIzYmZiODdhM2YxIiwiZCI6IjY4NDQ4IiwiciI6IjY5Nzc2IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODIzNy9pbmRleC5tM3U4P3R/index.m3u8
-
 #EXTINF:-1, МАТЧ! Футбол2 🇷🇺
 http://65.21.85.175:8000/play/a008/index.m3u8?token=livetv
 
 #EXTINF:-1, МАТЧ! Футбол2 🇷🇺
 http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
-
-#EXTINF:-1, МАТЧ! Футбол3 🇷🇺
-http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1Mjo4ODg3LzgwMjkvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImEyM2Y2ZWZmIiwicCI6ImEyM2Y2ZWZmYWU3N2ZjMWEiLCJjIjoiMjkiLCJ0IjoiNTQ5YmViOWIxNmYyMTUxMDE4M2M1MjNiZmI4N2EzZjEiLCJkIjoiNjg0NDgiLCJyIjoiNjk3NzYiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODAyOS9pbmRleC5tM3U4P3R/index.m3u8
 
 #EXTINF:-1, Матч! Футбол 3 HD 🇷🇺
 http://185.57.68.33/110/mpegts
@@ -399,12 +366,6 @@ http://200.60.124.19:29000/play/a06p/index.m3u8
 #EXTINF:-1, Movistar Deportes 🇪🇸
 http://38.43.151.206:8000/play/a02z/index.m3u8
 
-#EXTINF:-1, Movistar Deportes 🇪🇸
-https://7.tutl24.xyz/live/STbc87b12328d99c1.m3u8
-
-#EXTINF:-1, Movistar + 🇪🇸
-https://7.tutl24.xyz/live/STa17d1d4740e2686.m3u8
-
 #EXTINF:-1,La liga Inside 🇪🇸
 https://is.gd/P9HFAg?LaligaInside.m3u8
 
@@ -421,25 +382,13 @@ http://209.45.20.210:50001/play/a03q/index.m3u8
 http://masplay.net:80/play/oEcPdncA1OherpWq1eyfNlhxX8lV088kyGE9Jl3AwBo/ts
 
 #EXTINF:-1, DIRECTV SPORT 1 HD 🇦🇷
-http://209.45.103.201:8000/play/a067/index.m3u8
-
-#EXTINF:-1, DIRECTV SPORT 1 HD 🇦🇷
 http://38.43.151.206:8000/play/a04m/index.m3u8
 
 #EXTINF:-1, DIRECTV SPORT 2 HD 🇦🇷
 http://masplay.net:80/play/oEcPdncA1OherpWq1eyfNtPy6h5zQWdS7EyFHTfbxSQ/ts
 
-#EXTINF:-1, DSPORTS 🇦🇷
-https://8.tutl24.xyz/live/STe6f666cfe0cd37f.m3u8
-
-#EXTINF:-1, DSPORTS 2 HD 🇦🇷
-https://8.tutl24.xyz/live/STa85eed54f39c385.m3u8
-
 #EXTINF:-1,ESPN VIVO 🇦🇷
 http://181.78.8.90:16123/play/ch16
-
-#EXTINF:-1,ESPN VIVO 🇦🇷
-https://7.tutl24.xyz/live/STb88a289438c3944.m3u8
 
 #EXTINF:-1,ESPN 2 HD 🇦🇷
 http://181.78.8.90:16123/play/ch17
@@ -455,24 +404,6 @@ http://209.45.20.210:50001/play/a00w/index.m3u8
 
 #EXTINF:-1, ESPN Premium HD 🇦🇷
 http://209.45.20.210:50001/play/a02p/index.m3u8
-
-#EXTINF:-1, FOX Sports 🇦🇷
-https://8.tutl24.xyz/live/ST1d09a313fa8ad88.m3u8
-
-#EXTINF:-1, FOX Sports 🇦🇷
-https://7.tutl24.xyz/live/ST0187475b27ccd9e.m3u8
-
-#EXTINF:-1, FOX Sports 2 🇦🇷
-https://8.tutl24.xyz/live/STa413a92a1e3892d.m3u8
-
-#EXTINF:-1, FOX Sports 2 🇦🇷
-https://7.tutl24.xyz/live/ST3c7d45c4b19ec99.m3u8
-
-#EXTINF:-1, FOX Sports 3 🇦🇷
-https://7.tutl24.xyz/live/STf66c01258b2c798.m3u8
-
-#EXTINF:-1, FOX Sports PREMIUM 🇦🇷
-https://8.tutl24.xyz/live/ST589f8d07edb69df.m3u8
 
 #EXTINF:-1,TV MAX 🇵🇦 
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
