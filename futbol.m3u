@@ -405,9 +405,6 @@ http://209.45.20.210:50001/play/a00w/index.m3u8
 #EXTINF:-1, ESPN Premium HD 🇦🇷
 http://209.45.20.210:50001/play/a02p/index.m3u8
 
-#EXTINF:-1,TV MAX 🇵🇦 
-https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-
 #EXTINF:-1, TELECOSTA GUATEMALA 🇬🇹
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
@@ -419,9 +416,6 @@ http://190.185.121.102:58092/play/a00s
 
 #EXTINF:-1,TUDN 🇲🇽
 http://190.185.121.102:58092/play/a00m
-
-#EXTINF:-1,TUDN EN VIVO 🇲🇽
-https://7.tutl24.xyz/live/STbf8e8e95160e2a0.m3u8
 
 #EXTINF:-1,TUDN 🇲🇽
 http://181.78.105.146:2000/play/a08j/index.m3u8
@@ -495,9 +489,6 @@ http://178.219.128.68:64889/POLSSPORNEWSHD
 #EXTINF:-1, Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 
-#EXTINF:-1, TV4 Fotbol 🇸🇪
-http://81.170.137.124:9998/stream/channelid/602448551
-
 #EXTINF:-1, Viju+ Sport 🇷🇺
 https://stream1.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 
@@ -509,12 +500,6 @@ http://str06.ottg.online/5442/video.m3u8?token=4a9eba62163dbcf15c802a17757c52cf
 
 #EXTINF:-1, МАТЧ! АРЕНА 🇷🇺
 http://65.21.85.175:8000/play/a004/index.m3u8?token=livetv
-
-#EXTINF:-1, МАТЧ! СТРАНА 🇷🇺
-http://195.211.27.149:8887/8019/index.m3u8?token=test
-
-#EXTINF:-1, МАТЧ! Боец 🇷🇺
-http://65.21.85.175:8000/play/a005/index.m3u8?token=livetv
 
 #EXTINF:-1, SPORT RU 🇷🇺
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
@@ -579,10 +564,10 @@ http://ttk0811.xyz:8080/live/drs3433/cn.0905/353402.m3u8
 #EXTINF:-1,SPORTS TV 🇹🇷
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
-#EXTINF:-1, A Sports 🇹🇷 
+#EXTINF:-1, A Spor 🇹🇷 
 https://bozztv.com/inim03/live1/aspor/playlist.m3u8
 
-#EXTINF:-1,TV 8,5 🇹🇷
+#EXTINF:-1,TV8,5 🇹🇷
 https://hw1.jemtv.com/app/tv85/chunks.m3u8
 
 #EXTINF:-1, Digi Sport 1 🇷🇴
@@ -627,7 +612,7 @@ https://liveh12.vtvcab.vn/hls/ONBTV5/04.m3u8
 #EXTINF:-1, WOW TV EL SALVADOR 🇸🇻
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
-#EXTINF:-1, Seo Tv Deportes
+#EXTINF:-1, Seo Tv Deportes 🇧🇴
 https://seo.tv.bo/tv/SEO-TV-5.2.m3u8
 
 #EXTINF:-1, Football HD Tajikistan 🇹🇯
@@ -639,23 +624,8 @@ http://ott-cdn.ucom.am/s4/04.m3u8
 #EXTINF:-1, PREMIUM ARMENIA TV 🇦🇲
 http://ott-cdn.ucom.am/s83/03.m3u8
 
-#EXTINF:-1, Sky Sports 1 NZ 🇳🇿
-https://7pal.short.gy/skyspt1nz
-
-#EXTINF:-1, Sky Sports 2 NZ 🇳🇿
-https://7pal.short.gy/skyspt2nz
-
-#EXTINF:-1, Sky Sports 3 NZ 🇳🇿
-https://7pal.short.gy/skyspt3nz
-
-#EXTINF:-1, Sky Sports 4 NZ 🇳🇿
-https://7pal.short.gy/skyspt4nz
-
 #EXTINF:-1, aio Sport 🇸🇦
 https://liveproxy.splus.ir/hls/aiosport/aiosport.m3u8
-
-#EXTINF:-1, aio Sport 🇸🇦
-https://cdn.footballii.ir/hls2/stream01.m3u8
 
 #EXTINF:-1,DUBAI SPORTS 3 FHD 🇸🇦
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby
@@ -744,9 +714,6 @@ https://trt.daioncdn.net/trt-1/master.m3u8?app=e435840d-2653-45a3-afef-082d4ea99
 
 #EXTINF:-1, aio Sport 🇸🇦
 https://liveproxy.splus.ir/hls/aiosport/aiosport.m3u8
-
-#EXTINF:-1, aio Sport 🇸🇦
-https://cdn.footballii.ir/hls2/stream01.m3u8
 
 #EXTINF:-1, Fast Sports 🇦🇲
 http://stream01.vnet.am/Channel_131/mono.m3u8
