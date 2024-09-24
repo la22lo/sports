@@ -474,6 +474,9 @@ http://190.185.121.102:58092/play/a00m
 #EXTINF:-1,TUDN EN VIVO 🇲🇽
 https://7.tutl24.xyz/live/STbf8e8e95160e2a0.m3u8
 
+#EXTINF:-1,TUDN 🇲🇽
+http://181.78.105.146:2000/play/a08j/index.m3u8
+
 #EXTINF:-1, ESPN 1 BRASIL 🇧🇷
 https://cdn-5.nxplay.com.br/ESPN/index.m3u8
 
