@@ -66,6 +66,9 @@ http://65.21.85.175:8000/play/a006/index.m3u8?token=livetv
 #EXTINF:-1, Матч! (EDTV 576p) 🇷🇺
 http://91.142.158.107:8092/play/33/index.m3u8
 
+#EXTINF:-1, Match HD 🇷🇺
+http://91.207.114.220:9001/play/a050/index.m3u8
+
 #EXTINF:-1, TV4 Fotbol 🇸🇪
 http://81.170.137.124:9998/stream/channelid/602448551
 
@@ -196,13 +199,13 @@ http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31601/index.m3u8
 http://178.212.71.253:8002/play/a00k/index.m3u8
 
 #EXTINF:-1, Match HD 🇷🇺
+http://91.207.114.220:9001/play/a050/index.m3u8
+
+#EXTINF:-1, Match HD 🇷🇺
 http://65.21.85.175:8000/play/a006/index.m3u8?token=livetv
 
 #EXTINF:-1, Match HD 🇷🇺
 http://91.142.158.107:8092/play/33/index.m3u8
-
-#EXTINF:-1, Match HD 🇷🇺
-http://91.207.114.220:9001/play/a050/index.m3u8
 
 #EXTINF:-1, Match 🇷🇺
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8
