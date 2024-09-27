@@ -681,6 +681,9 @@ http://212.102.60.80/Infosport/index.m3u8
 #EXTINF:-1, Gaora Sports 🇯🇵
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
 
+#EXTINF:-1, Siam Sports 🇯🇵
+https://live444.xyz/cloud/stream/cf790206cc7f420d8ca3e5b6777dd5ea/60/index.m3u8
+
 #EXTINF:-1,GEO SUPER 🇮🇳
 http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 
