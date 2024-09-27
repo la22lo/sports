@@ -99,6 +99,9 @@ http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1,BEIN SPORT 1 🇶🇦
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 
+#EXTINF:-1,BEIN SPORT 1 🇶🇦
+https://live444.xyz/cloud/stream/7d210b87616b48e187a1dbd3b8c836cc/141/index.m3u8
+
 #EXTINF:-1,BEIN SPORT 2 🇶🇦
 http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
 
@@ -350,6 +353,9 @@ http://89.187.191.99:8080/sk3/index.m3u8
 
 #EXTINF:-1 ,SportKlub 4 🇧🇦 
 http://89.187.191.99:8080/sk5/index.m3u8
+
+#EXTINF:-1 ,SportKlub 4 🇧🇦 
+https://live444.xyz/cloud/stream/2972930eb7724b46a5f0eb0627a3c463/132/index.m3u8
 
 #EXTINF:-1, SportKlub 6 🇧🇦 
 http://89.187.191.99:8080/sk6/index.m3u8
@@ -746,6 +752,9 @@ http://ott-cdn.ucom.am/s4/04.m3u8
 
 #EXTINF:-1, PREMIUM ARMENIA TV 🇦🇲
 http://ott-cdn.ucom.am/s83/03.m3u8
+
+#EXTINF:-1, SSC 1 🇸🇦
+https://live444.xyz/cloud/stream/002d4990e0cb452bb1edfa625b0c0707/150/index.m3u8
 
 #EXTINF:-1, aio Sport 🇸🇦
 https://liveproxy.splus.ir/hls/aiosport/aiosport.m3u8
