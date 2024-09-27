@@ -33,18 +33,6 @@ https://sportnext.online/hls/M2.m3u8
 #EXTINF:-1, Arena Sport6 🇭🇷
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31607/index.m3u8
 
-#EXTINF:-1, Arena Sport6 🇭🇷
-http://73839426810874095.ofkp0923.xyz:80/live/vi1213347/gTQ@YuQkSK/874095.ts
-
-#EXTINF:-1, MAX SPORT 4 🇧🇬
-http://73839426810272284.ofkp0923.xyz:80/live/vi1213347/gTQ@YuQkSK/272284.ts
-
-#EXTINF:-1, SPILER 2 🇭🇺
-http://73839426810910178.ofkp0923.xyz:80/live/vi1213347/gTQ@YuQkSK/910178.ts
-
-#EXTINF:-1, NOVA SPORTS 1 🇬🇷
-http://73839426810873721.ofkp0923.xyz:80/live/vi1213347/gTQ@YuQkSK/873721.ts
-
 #EXTINF:-1, DIRECTV SPORT HD 🇦🇷
 http://209.45.20.210:50001/play/a03o/index.m3u8
 
@@ -62,12 +50,6 @@ https://flussonic.1mrgamingstreams.com/daznlaliga/index.m3u8
 
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.Qca78Txnmqx3.m3u8?&token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9RY2E3OFR4bm1xeDMiLCJleHAiOjE3MjY5NTE0NTAyNzcsImlhdCI6MTcyNjkwODI1MH0.TUTaAf2WlxyCkPUykDVV1I9kZwtn9ddK9JQC1D4kKq1BAVRAfM5rT8AZdu3oulCRKpU5l7vmK38QP8ulOFmtsDEgmjN0yLw2YYnUu722_EqMd2m4VEpaJpCOUUkSCMsN
-
-#EXTINF:-1,ELEVEN 1 🇵🇹
-http://73839426810894661.ofkp0923.xyz:80/live/vi1213347/gTQ@YuQkSK/894661.ts
-
-#EXTINF:-1,ELEVEN 2 🇵🇹
-http://73839426810908088.ofkp0923.xyz:80/live/vi1213347/gTQ@YuQkSK/908088.ts
 
 #EXTINF:-1, PERSIANA SPORT 🇮🇷 
 https://cdn.footballii.ir/hls2/persianas.m3u8
