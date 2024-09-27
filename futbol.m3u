@@ -138,6 +138,12 @@ http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4449&e
 #EXTINF:-1, TNT SPORT 1 🇬🇧
 http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4445&extension=ts
 
+#EXTINF:-1, TNT SPORT 1 🇬🇧
+http://cdn.klimedia.online/lb/BTSport1/index.m3u8?token=klimedia.space:VXNwZWh0djpVc3BlaHR2
+
+#EXTINF:-1, TNT SPORT 2 🇬🇧
+http://cdn.klimedia.online/lb/BTSport2/index.m3u8?token=klimedia.space:VXNwZWh0djpVc3BlaHR2
+
 #EXTINF:-1, TNT SPORT 2 🇬🇧
 http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4446&extension=ts
 
