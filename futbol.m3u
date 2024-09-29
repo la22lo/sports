@@ -726,6 +726,12 @@ http://212.102.60.80/Infosport/index.m3u8
 #EXTINF:-1, Gaora Sports 🇯🇵
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
 
+#EXTINF:-1,GXR 🇮🇳
+https://s@d29vola26poupl.cloudfront.net:443/out/v1/20a0a9c90ff0479e84ede2f0759a7c7b/index_7.m3u8
+
+#EXTINF:-1,GXR 🇮🇳
+https://s@d1yz7zmm8mka3t.cloudfront.net:443/out/v1/cad8af14714e4affa48e07d2f48ebf5f/index_7.m3u8
+
 #EXTINF:-1,GEO SUPER 🇮🇳
 http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 
