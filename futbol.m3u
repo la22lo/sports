@@ -21,9 +21,6 @@ http://91.246.45.126:8080/live/501713267546155/6768e43df355/25125.m3u8?token=Q0F
 #EXTINF:-1, DAZN LIGA 🇪🇸
 http://91.246.45.126:8080/live/501713267546155/6768e43df355/57344.m3u8?token=Q0FaWEpZFFsXAABQAVlQAQRTUVEDBQgDUAIFVQMHVAQIAgYJC1ACVQwVGEZGFUdTUl9qWwIVAlRVAARQGENHQ10RbVBdEwxDAwIEUgZUFxoRRlxfAxUCUU4RQA1QQwgSCVYKABsdFARNQ1EWWwBZaVdXQ1sFUhpbDEZcCBhDXV5nB1dUWF9SQw8VBUYZQ1xFQxAPXBNbVE1AUVkQRgBGVRpZEA0NCQJDGRVXC0APQURKEA8QI2QaTUBWSBBRD0FZVw0QAxtcBRQNFRhGXBJqRFZBQUADVlUEEBEKRgRDHhJVAkpmWl5YD1BUQA1aD0YUCRAEEEoVVQ4MWkQLRj5CWVxBCBsIBARSF0o=
 
-#EXTINF:-1, HYPERMOTION 🇪🇸
-https://live444.xyz/cloud/stream/941a13305c844b468a96202cb4022e4e/109/index.m3u8
-
 #EXTINF:-1, МАТЧ! Футбол2 🇷🇺
 http://65.21.85.175:8000/play/a008/index.m3u8?token=livetv
 
@@ -93,15 +90,6 @@ http://bdtb.io:80/328331/K8PTjw/191284.ts
 #EXTINF:-1, PERSIANA SPORT 🇮🇷 
 https://cdn.footballii.ir/hls2/persianas.m3u8
 
-#EXTINF:-1, BEIN SPORT 3 TRUE VISION 🇹🇭
-https://live444.xyz/stream/8/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 3 TRUE VISION 🇹🇭
-https://live444.xyz/cloud/stream/4fa511ed829a47b89fa572cf1f8f1046/08/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 1 TRUE VISION 🇹🇭
-https://live444.xyz/cloud/stream/ddbff45394054f2b8e99c96e076634a0/75/index.m3u8
-
 #EXTINF:-1, Match HD 🇷🇺
 http://65.21.85.175:8000/play/a006/index.m3u8?token=livetv
 
@@ -125,9 +113,6 @@ http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 
 #EXTINF:-1,BEIN SPORT 1 🇶🇦
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
-
-#EXTINF:-1,BEIN SPORT 1 🇶🇦
-https://live444.xyz/cloud/stream/7d210b87616b48e187a1dbd3b8c836cc/141/index.m3u8
 
 #EXTINF:-1,BEIN SPORT 2 🇶🇦
 http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
@@ -213,32 +198,14 @@ http://213.176.3.72:1234/stream/FRANCE/bein3hdfr/master.m3u8
 #EXTINF:-1, Bein Sports 3 France 🇫🇷
 http://213.176.3.72:1234/stream/FRANCE/971/master.m3u8
 
-#EXTINF:-1, SPORT TV 🇵🇹
-https://live444.xyz/cloud/stream/fbe3397180c3422daff7c4b19af965df/103/index.m3u8
-
-#EXTINF:-1, SPORT TV2 🇵🇹
-https://live444.xyz/cloud/stream/58dce840447d4a71892ca95c173c2078/16/index.m3u8
-
-#EXTINF:-1, DAZN 2 🇩🇪
-https://live444.xyz/cloud/stream/f487afd9814b4010a55f66931943c150/77/index.m3u8
-
-#EXTINF:-1, Arena Sport2 🇭🇷
-https://live444.xyz/cloud/stream/be27025389d14b9e9bee56176c4fbdc5/37/index.m3u8
-
 #EXTINF:-1, Arena Sport3 🇭🇷
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31603/index.m3u8
-
-#EXTINF:-1, Arena Sport3 🇭🇷
-https://live444.xyz/cloud/stream/76235e9ccf3c418283d112b8a1a466ab/89/index.m3u8
 
 #EXTINF:-1, Arena Sport4 🇭🇷
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31605/index.m3u8
 
 #EXTINF:-1, Arena Sport5 🇭🇷
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31606/index.m3u8
-
-#EXTINF:-1, Arena Sport5 🇭🇷
-https://live444.xyz/cloud/stream/a01d37c43ac0474e88dcb6ed84c61280/94/index.m3u8
 
 #EXTINF:-1, Arena Sport6 🇭🇷
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31607/index.m3u8
@@ -525,9 +492,6 @@ http://209.45.20.210:50001/play/a02p/index.m3u8
 #EXTINF:-1, FOX DEPORTES 🇦🇷
 https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8?playback_start_ts=1727276199.351&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
 
-#EXTINF:-1, TYC SPORTS 🇦🇷
-https://live444.xyz/cloud/stream/49a59552f0c34bfbae5f520fd2c4b38c/81/index.m3u8
-
 #EXTINF:-1, TELECOSTA GUATEMALA 🇬🇹
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
@@ -545,9 +509,6 @@ http://190.185.121.102:58092/play/a00m
 
 #EXTINF:-1,TUDN 🇲🇽
 http://181.78.105.146:2000/play/a08j/index.m3u8
-
-#EXTINF:-1,TUDN 🇲🇽
-https://live444.xyz/cloud/stream/c10e9212fafa454fb341ccda772e95a2/66/index.m3u8
 
 #EXTINF:-1, ITV DEPORTES 🇲🇽
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
@@ -714,12 +675,6 @@ https://bozztv.com/inim03/live1/aspor/playlist.m3u8
 #EXTINF:-1,TV8,5 🇹🇷
 https://hw1.jemtv.com/app/tv85/chunks.m3u8
 
-#EXTINF:-1, PRIMA Sport 1 🇷🇴
-https://live444.xyz/stream/69/index.m3u8
-
-#EXTINF:-1, Digi Sport 1 🇷🇴
-https://live444.xyz/cloud/stream/68/index.m3u8
-
 #EXTINF:-1, Digi Sport 1 🇷🇴
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2523/index.m3u8
 
@@ -749,9 +704,6 @@ http://212.102.60.80/Infosport/index.m3u8
 
 #EXTINF:-1, Gaora Sports 🇯🇵
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
-
-#EXTINF:-1, Siam Sports 🇯🇵
-https://live444.xyz/cloud/stream/cf790206cc7f420d8ca3e5b6777dd5ea/60/index.m3u8
 
 #EXTINF:-1,GEO SUPER 🇮🇳
 http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
@@ -783,14 +735,8 @@ http://ott-cdn.ucom.am/s4/04.m3u8
 #EXTINF:-1, PREMIUM ARMENIA TV 🇦🇲
 http://ott-cdn.ucom.am/s83/03.m3u8
 
-#EXTINF:-1, SSC 1 🇸🇦
-https://live444.xyz/cloud/stream/002d4990e0cb452bb1edfa625b0c0707/150/index.m3u8
-
 #EXTINF:-1, aio Sport 🇸🇦
 https://liveproxy.splus.ir/hls/aiosport/aiosport.m3u8
-
-#EXTINF:-1, ARAB CHANNEL 🇸🇦
-https://live444.xyz/cloud/stream/172f92488b684e5b9cd53064d9309092/23/index.m3u8
 
 #EXTINF:-1,DUBAI SPORTS 3 FHD 🇸🇦
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby
