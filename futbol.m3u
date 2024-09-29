@@ -573,6 +573,12 @@ http://78.130.250.2:8023/play/a004/index.m3u8
 #EXTINF:-1, SPORT 1 🇨🇿 
 http://78.130.250.2:8023/play/a02u/index.m3u8
 
+#EXTINF:-1, SPORT 1 🇨🇿
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=727&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016
+
+#EXTINF:-1, SPORT 2 🇨🇿
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=729&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016
+
 #EXTINF:-1, ARENA Sport 1 🇨🇿
 http://78.130.250.2:8023/play/a02o/index.m3u8
 
@@ -581,6 +587,12 @@ https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=681&device=2b6073bc96d5
 
 #EXTINF:-1, Canal + Sport 🇨🇿
 http://78.130.250.2:8023/play/a02v/index.m3u8
+
+#EXTINF:-1, RTVS Sport 🇨🇿
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2120&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=172664301
+
+#EXTINF:-1, JOJ Sport 🇨🇿
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2164&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=172664301
 
 #EXTINF:-1,Polsat SPORT 1 🇵🇱
 http://178.219.128.68:64889/POLSSPORHD
