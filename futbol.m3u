@@ -858,6 +858,9 @@ http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 #EXTINF:-1,PTV SPORT 🇮🇳
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 
+#EXTINF:-1,PTV SPORT 🇮🇳
+http://117.102.16.2:34567/play/ptvsports/index.m3u8
+
 #EXTINF:-1,TEN SPORTS LIVE 🇮🇳
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
