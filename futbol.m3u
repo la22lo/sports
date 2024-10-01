@@ -1,13 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, LC 🇪🇸
-https://flussonic.1mrgamingstreams.com/daznlaliga/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, LC 🇪🇸
 http://3bca4210.rossteleccom.net/iptv/EZHVRPF8TL2RPK/6074/index.m3u8
-
-#EXTINF:-1, sky sport calcio 🇮🇹
-http://77.247.109.143:1500/stream/dvb/skysportcalcioit/master.m3u8
 
 #EXTINF:-1, sky sport calcio 🇮🇹
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/19129/index.m3u8
@@ -56,9 +50,6 @@ https://liveproxy.splus.ir/hls/aiosport/aiosport.m3u8
 
 #EXTINF:-1, Fast Sports 🇦🇲
 http://stream01.vnet.am/Channel_131/mono.m3u8
-
-#EXTINF:-1, QAZ SPORT 🇰🇿
-https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
 
 #EXTINF:-1,HRT2 🇭🇷
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
