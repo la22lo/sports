@@ -30,6 +30,18 @@ http://119.156.26.155:8000/play/a06b/index.m3u8
 #EXTINF:-1, Sony Ten 1 HD 🇮🇳
 http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
+#EXTINF:-1, Sony Ten 1 HD 🇮🇳
+http://117.102.16.2:34567/play/a08u/index.m3u8
+
+#EXTINF:-1, Sony Ten 2 HD 🇮🇳
+http://117.102.16.2:34567/play/a08a/index.m3u8
+
+#EXTINF:-1, Sony Ten 3 HD 🇮🇳
+http://117.102.16.2:34567/play/a090/index.m3u8
+
+#EXTINF:-1, Sony Ten 5 HD 🇮🇳
+http://117.102.16.2:34567/play/a08v/index.m3u8
+
 #EXTINF:-1, PERSIANA SPORT 🇮🇷 
 https://cdn.footballii.ir/hls2/persianas.m3u8
 
@@ -242,12 +254,6 @@ http://181.78.105.146:8800/play/a07h
 
 #EXTINF:-1, M+ LALIGA HD 🇪🇸
 https://www.oha.to/play/2428779244/index.m3u8
-
-#EXTINF:-1, Sports18 1 HD 🇮🇳
-http://tv.cloudcdn.me/live.ts?channelId=102479&uid=4944&deviceMac=00:1A:79:94:98:FE
-
-#EXTINF:-1, ARY Sports🇮🇳
-http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
 #EXTINF:-1, S SPORT 1 🇹🇷
 http://tvs.lol:8080/play/WNlrFYAKGYvNLo3JwNIga20b706Se0tOyCMqB5MNBVU/ts
@@ -836,6 +842,15 @@ https://s@d29vola26poupl.cloudfront.net:443/out/v1/20a0a9c90ff0479e84ede2f0759a7
 
 #EXTINF:-1,GXR 🇮🇳
 https://s@d1yz7zmm8mka3t.cloudfront.net:443/out/v1/cad8af14714e4affa48e07d2f48ebf5f/index_7.m3u8
+
+#EXTINF:-1, Sports18 1 HD 🇮🇳
+http://tv.cloudcdn.me/live.ts?channelId=102479&uid=4944&deviceMac=00:1A:79:94:98:FE
+
+#EXTINF:-1, Sports18 1 HD 🇮🇳
+http://117.102.16.2:34567/play/a093/index.m3u8
+
+#EXTINF:-1, ARY Sports🇮🇳
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
 #EXTINF:-1,GEO SUPER 🇮🇳
 http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
