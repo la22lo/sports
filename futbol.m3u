@@ -447,6 +447,12 @@ http://135.125.235.54/0511/video.m3u8?token=01867E7BE1C1
 #EXTINF:-1, MEGOGO CNOPT 🇺🇦
 http://135.125.235.54/0516/video.m3u8?token=01867E7BE1C1  
 
+#EXTINF:1, MEGOGO Спорт HD 🇺🇦
+http://de.seetv.cc/play/1001/996DA9781004412/video.m3u8
+
+#EXTINF:1, MEGOGO Спорт 2 HD 🇺🇦
+http://eqatmiyg.megogo.xyz/iptv/EBUCGK992DRF6L/20103/index.m3u8
+
 #EXTINF:-1, MEGOGO ROHR 🇺🇦
 http://135.125.235.54/0512/video.m3u8?token=01867E7BE1C1
 
@@ -778,6 +784,9 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 https://vs1758.vcdn.biz/2a89fb5c1ea0e32fc03ff26e7c46fc8f_megogo/live/hls/b/4000/u_sid/0/o/140085841/rsid/73723949-6c32-43e3-aa6a-80c33e100322/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/84.54.73.172*asn/u_srvc/83576/u_did/web_U9ij9aVdY2r1FMHFZmJd2CoxXvGlCGgX/type.live/chunklist-sid230322689978648235-b4000000-a72531.m3u8
 
 #EXTINF:-1, UZ SPORT 🇺🇿
+https://vs1759.vcdn.biz/519f03ad03fe54e0d772b98cf1be2087_megogo/live/hls/b/4000/u_sid/0/o/140085841/rsid/e31ac304-6b51-4858-8220-2426f7ba0679/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/213.230.87.109*asn/u_srvc/83576/u_did/web_A3X9Ki7uk5l71nHQLj1IQyMVwDVRnQLz/type.live/chunklist-sid8417518138264452615-b4000000-a72531.m3u8
+
+#EXTINF:-1, UZ SPORT 🇺🇿
 https://stream1.cinerama.uz/1004/index.m3u8
 
 #EXTINF:-1, UzreportTV 🇺🇿
@@ -893,6 +902,12 @@ http://ott-cdn.ucom.am/s83/03.m3u8
 
 #EXTINF:-1, aio Sport 🇸🇦
 https://liveproxy.splus.ir/hls/aiosport/aiosport.m3u8
+
+#EXTINF:-1, aio Sport 2 🇸🇦
+https://ss.90minlive.online/sport/aiosport2/chunks.m3u8
+
+#EXTINF:-1, Lenz Sport 🇸🇦
+https://ss.90minlive.online/sport/Lenz/chunks.m3u8
 
 #EXTINF:-1,DUBAI SPORTS 3 FHD 🇸🇦
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby
