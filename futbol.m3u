@@ -9,9 +9,6 @@ http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1, Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 
-#EXTINF:-1, FOX SPORT 3 🇦🇷
-http://107.175.32.211:1234/stream/latino/foxsports3/master.m3u8
-
 #EXTINF:-1, Sony Ten 1 HD- Rs 19 🇮🇳
 http://103.84.57.155:8000/play/a027/index.m3u8
 
@@ -26,9 +23,6 @@ http://117.102.16.2:34567/play/a08u/index.m3u8
 
 #EXTINF:-1, TRT SPORT 🇹🇷
 http://ttk0811.xyz:8080/live/drs3433/cn.0905/353402.m3u8
-
-#EXTINF:-1, MEGOGO Sports 2 🇺🇦
-http://135.125.235.54/0510/video.m3u8?token=01867E7BE1C1
 
 #EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇹
 http://bdtb.io:80/328331/K8PTjw/191277.ts
@@ -89,9 +83,6 @@ http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
 
 #EXTINF:-1, HRT 2 🇭🇷
 http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8?
-
-#EXTINF:-1,BEIN SPORT 2 🇶🇦
-http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
 
 #EXTINF:-1,TUDN EN VIVO 🇲🇽
 http://190.92.10.66:4000/play/a002/index.m3u8
