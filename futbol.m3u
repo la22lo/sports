@@ -33,6 +33,9 @@ http://ttk0811.xyz:8080/live/drs3433/cn.0905/353402.m3u8
 #EXTINF:-1, sky sport calcio 🇮🇹
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/19129/index.m3u8
 
+#EXTINF:-1, aio Sport 🇸🇦
+https://liveproxy.splus.ir/hls/aiosport/aiosport.m3u8
+
 #EXTINF:-1, CBC SPORT 🇦🇿
 https://bozztv.com/dvrfl05/gin-cbc-sport/index.m3u8
 
@@ -65,9 +68,6 @@ https://trt.daioncdn.net/trt-1/master.m3u8?app=ed3904e8-737b-4a5e-856a-1b0d7a0a9
 
 #EXTINF:-1, TRT 1 🇹🇷
 https://trt.daioncdn.net/trt-1/master.m3u8?app=e435840d-2653-45a3-afef-082d4ea998f3
-
-#EXTINF:-1, aio Sport 🇸🇦
-https://liveproxy.splus.ir/hls/aiosport/aiosport.m3u8
 
 #EXTINF:-1, Fast Sports 🇦🇲
 http://stream01.vnet.am/Channel_131/mono.m3u8
