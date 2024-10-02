@@ -30,6 +30,9 @@ http://117.102.16.2:34567/play/a08u/index.m3u8
 #EXTINF:-1, TRT SPORT 🇹🇷
 http://ttk0811.xyz:8080/live/drs3433/cn.0905/353402.m3u8
 
+#EXTINF:-1, MEGOGO Sports 2 🇺🇦
+http://135.125.235.54/0510/video.m3u8?token=01867E7BE1C1
+
 #EXTINF:-1, sky sport calcio 🇮🇹
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/19129/index.m3u8
 
