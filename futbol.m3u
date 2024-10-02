@@ -6,6 +6,9 @@ http://kstv.us:8080/live/jgarcia31/224178522/48443.m3u8
 #EXTINF:-1,BEIN SPORT 1 🇶🇦
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 
+#EXTINF:-1, FOX SPORT 3 🇦🇷
+http://168.197.196.98:82/stream/channelid/33594286?profile=pass
+
 #EXTINF:-1, Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 
