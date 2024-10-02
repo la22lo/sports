@@ -9,8 +9,8 @@ http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1, Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 
-#EXTINF:-1, Arena Sport4 🇭🇷
-http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31605/index.m3u8
+#EXTINF:-1, FOX SPORT 3 🇦🇷
+http://107.175.32.211:1234/stream/latino/foxsports3/master.m3u8
 
 #EXTINF:-1, Sony Ten 1 HD- Rs 19 🇮🇳
 http://103.84.57.155:8000/play/a027/index.m3u8
@@ -30,6 +30,9 @@ http://ttk0811.xyz:8080/live/drs3433/cn.0905/353402.m3u8
 #EXTINF:-1, MEGOGO Sports 2 🇺🇦
 http://135.125.235.54/0510/video.m3u8?token=01867E7BE1C1
 
+#EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇹
+http://bdtb.io:80/328331/K8PTjw/191277.ts
+
 #EXTINF:-1, sky sport calcio 🇮🇹
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/19129/index.m3u8
 
@@ -38,6 +41,9 @@ https://liveproxy.splus.ir/hls/aiosport/aiosport.m3u8
 
 #EXTINF:-1, ELEVEN 4 🇵🇹
 http://kstv.us:8080/live/jgarcia31/224178522/48446.m3u8
+
+#EXTINF:-1, Arena Sport4 🇭🇷
+http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31605/index.m3u8
 
 #EXTINF:-1, CBC SPORT 🇦🇿
 https://bozztv.com/dvrfl05/gin-cbc-sport/index.m3u8
