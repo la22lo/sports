@@ -676,6 +676,9 @@ https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 http://212.102.60.10/FOX_Sports_1/index.m3u8
 
 #EXTINF:-1, FS 2 SPORT 🇺🇸
+https://v11.thetvapp.to/hls/FoxSports2/index.m3u8?token=RHZPaWVxMXlidFFzTnZyczdaM0QzRWk4d3REcEkzc2RCZE1wbmdlSQ==
+
+#EXTINF:-1, FS 2 SPORT 🇺🇸
 http://212.102.60.231/FOX_Sports_2/index.m3u8
 
 #EXTINF:-1,HRT2 🇭🇷
