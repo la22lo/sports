@@ -609,6 +609,15 @@ https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tu
 #EXTINF:-1, FOX SPORT 1 🇦🇷
 http://187.102.208.83:50000/play/a04h/index.m3u8
 
+#EXTINF:-1, FOX SPORT 1 🇦🇷
+http://168.197.196.98:82/stream/channelid/781949579?profile=pass
+
+#EXTINF:-1, FOX SPORT 2 🇦🇷
+http://168.197.196.98:82/stream/channelid/2098149736?profile=pass
+
+#EXTINF:-1, FOX SPORT 3 🇦🇷
+http://168.197.196.98:82/stream/channelid/33594286?profile=pass
+
 #EXTINF:-1, TELECOSTA GUATEMALA 🇬🇹
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
