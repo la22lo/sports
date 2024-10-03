@@ -215,6 +215,9 @@ http://bdtb.io:80/328331/K8PTjw/191284.ts
 https://cdn.footballii.ir/hls2/persianas.m3u8
 
 #EXTINF:-1, Match HD 🇷🇺
+http://103.97.89.234/match/index.m3u8
+
+#EXTINF:-1, Match HD 🇷🇺
 http://65.21.85.175:8000/play/a006/index.m3u8?token=livetv
 
 #EXTINF:-1, Матч! (EDTV 576p) 🇷🇺
@@ -362,6 +365,9 @@ http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31601/index.m3u8
 http://178.212.71.253:8002/play/a00k/index.m3u8
 
 #EXTINF:-1, Match HD 🇷🇺
+http://103.97.89.234/match/index.m3u8
+
+#EXTINF:-1, Match HD 🇷🇺
 http://91.207.114.220:9001/play/a050/index.m3u8
 
 #EXTINF:-1, Match HD 🇷🇺
@@ -441,6 +447,9 @@ http://135.125.235.54/0503/video.m3u8?token=01867E7BE1C1
 
 #EXTINF:-1, Setanta Sports 🇺🇦
 http://135.125.235.54/0504/video.m3u8?token=01867E7BE1C1 
+
+#EXTINF:-1, Setanta Sports + 🇺🇦
+http://103.97.89.234/setantaplus/index.m3u8
 
 #EXTINF:-1, Setanta Sports LIVE 1 🇺🇦
 http://135.125.235.54/0505/video.m3u8?token=01867E7BE1C1 
