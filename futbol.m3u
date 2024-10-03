@@ -155,7 +155,7 @@ https://7pal.short.gy/sperspllg
 https://sportnext.online/hls/M2.m3u8
 
 #EXTINF:-1, S LALIGA 🇿🇦
-http://ktv.im:8080/0567616054/0567616054/21355
+http://sp1.ath.cx:50800/ibrahim21/21ibrahim/781
 
 #EXTINF:-1, Arena Sport6 🇭🇷
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31607/index.m3u8
@@ -556,6 +556,9 @@ https://is.gd/P9HFAg?LaligaInside.m3u8
 #EXTINF:-1,BEIN SPORT EXTRA Ñ 🇪🇸
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
+#EXTINF:-1,BEIN SPORT EXTRA Ñ 🇪🇸
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
 #EXTINF:-1, DIRECTV SPORT HD 🇦🇷
 http://209.45.20.210:50001/play/a03o/index.m3u8
 
@@ -657,6 +660,15 @@ http://181.78.105.146:2000/play/a08j/index.m3u8
 
 #EXTINF:-1, ITV DEPORTES 🇲🇽
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
+
+#EXTINF:-1, SUPERSPORT PSL 🇿🇦
+http://sp1.ath.cx:50800/ibrahim21/21ibrahim/778
+
+#EXTINF:-1, SUPERSPORT MAXIMO 1 🇿🇦
+http://sp1.ath.cx:50800/ibrahim21/21ibrahim/799
+
+#EXTINF:-1, SUPERSPORT ACTION 🇿🇦
+http://sp1.ath.cx:50800/ibrahim21/21ibrahim/784
 
 #EXTINF:-1, ESPN 1 BRASIL 🇧🇷
 https://cdn-5.nxplay.com.br/ESPN/index.m3u8
