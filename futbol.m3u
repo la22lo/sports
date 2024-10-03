@@ -307,14 +307,23 @@ http://51.178.65.238/BeinSport/mono.m3u8
 #EXTINF:-1, Bein Sports 1 France 🇫🇷
 http://213.176.3.72:1234/stream/FRANCE/966/master.m3u8
 
+#EXTINF:-1, Bein Sports 1 France 🇫🇷
+http://213.176.3.72:1234/stream/FRANCE/beinsports1fhd/master.m3u8
+
 #EXTINF:-1, Bein Sports 2 France 🇫🇷
 http://213.176.3.72:1234/stream/FRANCE/970/master.m3u8
+
+#EXTINF:-1, Bein Sports 2 France 🇫🇷
+http://213.176.3.72:1234/stream/FRANCE/beinsports2fhd/master.m3u8
 
 #EXTINF:-1, Bein Sports 3 France 🇫🇷
 http://213.176.3.72:1234/stream/FRANCE/bein3hdfr/master.m3u8
 
 #EXTINF:-1, Bein Sports 3 France 🇫🇷
 http://213.176.3.72:1234/stream/FRANCE/971/master.m3u8
+
+#EXTINF:-1, Bein Sports 3 France 🇫🇷
+http://213.176.3.72:1234/stream/FRANCE/beinsports3fhd/master.m3u8
 
 #EXTINF:-1, Arena Sport3 🇭🇷
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31603/index.m3u8
