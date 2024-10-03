@@ -406,6 +406,9 @@ http://65.21.85.175:8000/play/a009/index.m3u8?token=livetv
 #EXTINF:-1, Матч! Футбол 3 HD 🇷🇺
 http://194.26.229.213/matc-futbol-3/index.m3u8?token=Panda
 
+#EXTINF:-1, Матч! Футбол 3 HD 🇷🇺
+http://103.97.89.234/football3/index.m3u8
+
 #EXTINF:-1, Fast Sports 🇦🇲
 http://stream01.vnet.am/Channel_131/mono.m3u8
 
