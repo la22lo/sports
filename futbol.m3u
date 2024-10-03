@@ -102,6 +102,9 @@ http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4449&e
 #EXTINF:-1, TNT SPORT 1 🇬🇧
 http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4445&extension=ts
 
+#EXTINF:-1, CBS SPORT 🇺🇸
+https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
 
 
 
