@@ -45,6 +45,9 @@ http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31607/index.m3u8
 #EXTINF:-1, Arena Sport6 🇭🇷
 http://ktv.im:8080/0567616054/0567616054/116970
 
+#EXTINF:-1, NovaSports 1 🇬🇷
+http://cdn.ottshow.net:80/kanaliURedirect2442/kd0dk39dkyxs0A/81188
+
 #EXTINF:-1, Bein Sports 1 France 🇫🇷
 http://51.178.65.238/BeinSport/mono.m3u8
 
@@ -578,6 +581,15 @@ https://v11.thetvapp.to/hls/FoxSports2/index.m3u8?token=RHZPaWVxMXlidFFzTnZyczda
 
 #EXTINF:-1, FS 2 SPORT 🇺🇸
 http://212.102.60.231/FOX_Sports_2/index.m3u8
+
+#EXTINF:-1, NovaSports 1 🇬🇷
+http://cdn.ottshow.net:80/kanaliURedirect2442/kd0dk39dkyxs0A/81188
+
+#EXTINF:-1, NovaSports 2 🇬🇷
+http://cdn.ottshow.net:80/kanaliURedirect2442/kd0dk39dkyxs0A/81189
+
+#EXTINF:-1, NovaSports 3 🇬🇷
+http://cdn.ottshow.net:80/kanaliURedirect2442/kd0dk39dkyxs0A/81190
 
 #EXTINF:-1,HRT2 🇭🇷
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
