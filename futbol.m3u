@@ -843,6 +843,9 @@ http://ott-cdn.ucom.am/s83/03.m3u8
 #EXTINF:-1, aio Sport 🇸🇦
 https://liveproxy.splus.ir/hls/aiosport/aiosport.m3u8
 
+#EXTINF:-1, aio Sport 🇸🇦
+https://cdn.footballii.ir/hls2/stream01.m3u8
+
 #EXTINF:-1, aio Sport 2 🇸🇦
 https://ss.90minlive.online/sport/aiosport2/chunks.m3u8
 
