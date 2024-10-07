@@ -678,6 +678,9 @@ https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=681&device=2b6073bc96d5
 #EXTINF:-1, Canal + Sport 🇨🇿
 http://78.130.250.2:8023/play/a02v/index.m3u8
 
+#EXTINF:-1, ČT Sport (720p) 🇨🇿
+http://88.212.15.27/live/test_ctsport_25p/playlist.m3u8
+
 #EXTINF:-1, RTVS Sport 🇨🇿
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2120&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=172664301
 
