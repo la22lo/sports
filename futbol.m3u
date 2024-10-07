@@ -846,6 +846,9 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1, BTV5 — On Sports Action 🇹🇭
 https://liveh12.vtvcab.vn/hls/ONBTV5/04.m3u8
 
+#EXTINF:-1, VTC 1 HD 🇹🇭
+https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
+
 #EXTINF:-1, WOW TV EL SALVADOR 🇸🇻
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
