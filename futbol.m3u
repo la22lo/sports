@@ -384,6 +384,12 @@ http://135.125.235.54/0512/video.m3u8?token=01867E7BE1C1
 #EXTINF:-1, Ziggo Sport Select HD 🇳🇱
 http://78.130.250.2:8023/play/a00n/index.m3u8
 
+#EXTINF:-1, SPORTV1 🇵🇹
+https://cloudserve.world/live/stream_12.m3u8
+
+#EXTINF:-1, SPORTV3 🇵🇹
+https://cloudserve.world/live/stream_11.m3u8
+
 #EXTINF:-1, SportKlub 1 🇧🇦 
 http://89.187.191.99:8080/sk1/index.m3u8
 
