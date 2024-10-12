@@ -705,6 +705,9 @@ http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=113011
 #EXTINF:-1, CBS SPORT 🇺🇸
 https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
+#EXTINF:-1, ESPN 🇺🇸
+http://103.97.89.234/espn/index.m3u8
+
 #EXTINF:-1, FS 1 SPORT 🇺🇸
 http://212.102.60.10/FOX_Sports_1/index.m3u8
 
@@ -713,6 +716,9 @@ https://v11.thetvapp.to/hls/FoxSports2/index.m3u8?token=RHZPaWVxMXlidFFzTnZyczda
 
 #EXTINF:-1, FS 2 SPORT 🇺🇸
 http://212.102.60.231/FOX_Sports_2/index.m3u8
+
+#EXTINF:-1, SKY SPORT F1 🇺🇸
+http://103.97.89.234/skysportsf1/index.m3u8
 
 #EXTINF:-1, NovaSports 1 🇬🇷
 http://cdn.ottshow.net:80/kanaliURedirect2442/kd0dk39dkyxs0A/81188
