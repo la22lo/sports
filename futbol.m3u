@@ -525,6 +525,15 @@ http://209.45.20.210:50001/play/a02p/index.m3u8
 #EXTINF:-1, FOX DEPORTES 🇦🇷
 https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8?playback_start_ts=1727276199.351&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
 
+#EXTINF:-1,Fox Sports 🇦🇷
+http://streamsy.online:2999/korrigan17/25AUFBdqOi/92
+
+#EXTINF:-1,Fox Sports 2 🇦🇷
+http://streamsy.online:2999/korrigan17/25AUFBdqOi/93
+
+#EXTINF:-1,Fox Sports 3 🇦🇷
+http://streamsy.online:2999/korrigan17/25AUFBdqOi/100
+
 #EXTINF:-1, TELECOSTA GUATEMALA 🇬🇹
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
