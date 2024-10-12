@@ -147,6 +147,12 @@ http://45.5.117.182:8000/play/jnl0/index.m3u8
 #EXTINF:-1, M+ LALIGA HD 🇪🇸
 https://www.oha.to/play/2428779244/index.m3u8
 
+#EXTINF:-1, DAZN LALIGA 🇪🇸
+https://oha.to/play/3461295847/index.m3u8
+
+#EXTINF:-1, DAZN F1 🇪🇸
+http://oha.to/play/1826839470/index.m3u8
+
 #EXTINF:-1, TNT SPORT 1 🇬🇧
 http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4449&extension=m3u8
 
