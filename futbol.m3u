@@ -834,6 +834,9 @@ http://ott-cdn.ucom.am/s4/04.m3u8
 #EXTINF:-1, PREMIUM ARMENIA TV 🇦🇲
 http://ott-cdn.ucom.am/s83/03.m3u8
 
+#EXTINF:-1, ON Sport 🇸🇦
+http://cdn.footballii.ir:8080/hls2/stream03.m3u8
+
 #EXTINF:-1, Lenz Sport 🇸🇦
 https://ss.90minlive.online/sport/Lenz/chunks.m3u8
 
