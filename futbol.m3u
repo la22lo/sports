@@ -273,14 +273,23 @@ http://91.132.74.4:7374/play/a00k/index.m3u8
 #EXTINF:-1,Arena Sport 1 🇷🇸
 http://89.187.191.99:8080/arena1/index.m3u8
 
+#EXTINF:-1,Arena Sport 1 🇷🇸
+http://109.105.201.198/ARENASPORT1/video.m3u8?token=test
+
 #EXTINF:-1,Arena Sport 2 🇷🇸
 http://89.187.191.99:8080/arena2/index.m3u8
 
 #EXTINF:-1,Arena Sport 3 🇷🇸
 http://89.187.191.99:8080/arena3/index.m3u8
 
+#EXTINF:-1,Arena Sport 3 🇷🇸
+http://109.105.201.198/ARENASPORT3/video.m3u8?token=test
+
 #EXTINF:-1,Arena Sport 4 🇷🇸
 http://89.187.191.99:8080/arena4/index.m3u8
+
+#EXTINF:-1,Arena Sport 4 🇷🇸
+http://109.105.201.198/ARENASPORT4/video.m3u8?token=test
 
 #EXTINF:-1,Arena Sport 5 🇷🇸
 http://89.187.191.99:8080/arena5/index.m3u8
