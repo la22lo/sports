@@ -687,6 +687,9 @@ https://stream1.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Матч! Планета 🇷🇺
 https://stream1.cinerama.uz/1049/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, NASH FOOTBALL 🇷🇺
+http://95.216.40.210/nashfootball/index.m3u8
+
 #EXTINF:-1, SPORT RU 🇷🇺
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
 
@@ -800,6 +803,9 @@ http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 
 #EXTINF:-1,TEN SPORTS LIVE 🇮🇳
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+
+#EXTINF:-1, SPORTV 🇧🇷
+https://cr7v.short.gy/ManoTV/Whats75991634025/1/Index.m3u8
 
 #EXTINF:-1, VTC 1 HD 🇹🇭
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
