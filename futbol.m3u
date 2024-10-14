@@ -186,6 +186,21 @@ http://sd4sd54ds54f5sd4f54df54dsyuu.ottclub.xyz/iptv/YAG6W4BD6QN38Q/2535/index.m
 #EXTINF:-1,ELEVEN SPORTS 6 HD 🇵🇹
 http://sd4sd54ds54f5sd4f54df54dsyuu.ottclub.xyz/iptv/YAG6W4BD6QN38Q/2536/index.m3u8
 
+#EXTINF:-1,SPORTV1 🇵🇹
+https://8r1fp7ro6am.a.trbcdn.net/SportTV1/index.m3u8
+
+#EXTINF:-1,SPORTV2 🇵🇹
+https://8r1fp7ro6am.a.trbcdn.net/SportTV2/index.m3u8
+
+#EXTINF:-1,SPORTV3 🇵🇹
+https://8r1fp7ro6am.a.trbcdn.net/SportTV3/index.m3u8
+
+#EXTINF:-1,SPORTV4 🇵🇹
+https://8r1fp7ro6am.a.trbcdn.net/SportTV4/index.m3u8
+
+#EXTINF:-1,SPORTV6 🇵🇹
+https://8r1fp7ro6am.a.trbcdn.net/SportTV6/index.m3u8
+
 #EXTINF:-1, TNT SPORT 1 🇬🇧
 http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4449&extension=m3u8
 
@@ -704,6 +719,9 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
 
 #EXTINF:-1, X SPORT 🇷🇺
 http://iptv.prosto.tv:7000/ch109/video.m3u8
+
+#EXTINF:-1,Футбол 🇷🇺
+https://f77zvuxbr89.a.trbcdn.net/reserv9/index.m3u8
 
 #EXTINF:-1, SUSPILNE SPORT 🇷🇺
 http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/52093/hls/pl.m3u8
