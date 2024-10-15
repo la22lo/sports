@@ -600,6 +600,9 @@ https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 #EXTINF:-1,TIGO SPORTS 🇨🇷
 http://190.185.121.102:58092/play/a00s
 
+#EXTINF:-1,TIGO SPORTS 🇬🇹
+https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
+
 #EXTINF:-1,TUDN 🇲🇽
 http://190.185.121.102:58092/play/a00m
 
