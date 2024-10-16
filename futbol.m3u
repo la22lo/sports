@@ -57,6 +57,9 @@ https://cdn-azd2046.telewebion.com/ek/tv3/live/720p/index.m3u8?isp=NA&city=NA
 #EXTINF:-1, AIO SPORT 🇶🇦
 https://cdn-azd2044.telewebion.com/tv3/live/720p/index.m3u8?isp=NA&city=NA
 
+#EXTINF:-1, Bien sport 3 🇶🇦
+https://live2.beinconnect.us/YallaGoalApp/beINSports3.m3u8
+
 #EXTINF:-1, BEIN SPORT 3 🇶🇦
 http://1.1usd.tv:34000/ch229/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdO_JESnnGWLZymSHJgVfwOOvN7KZQBjhDpGdgRLBL9zW
 
@@ -203,6 +206,24 @@ https://8r1fp7ro6am.a.trbcdn.net/SportTV5/index.m3u8
 
 #EXTINF:-1,SPORTV6 🇵🇹
 https://8r1fp7ro6am.a.trbcdn.net/SportTV6/index.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+https://live2.beinconnect.us/YallaGoalApp/beINSports1.m3u8
+
+#EXTINF:-1, Bien sport 2 🇶🇦
+https://live2.beinconnect.us/YallaGoalApp/beINSports2.m3u8
+
+#EXTINF:-1, Bien sport 3 🇶🇦
+https://live2.beinconnect.us/YallaGoalApp/beINSports3.m3u8
+
+#EXTINF:-1, Bien sport 4 🇶🇦
+https://live2.beinconnect.us/YallaGoalApp/beINSports4.m3u8
+
+#EXTINF:-1, Bien sport 5 🇶🇦
+https://live2.beinconnect.us/YallaGoalApp/beINSports5.m3u8
+
+#EXTINF:-1, Bien sport 6 🇶🇦
+https://live2.beinconnect.us/YallaGoalApp/beINSports6.m3u8
 
 #EXTINF:-1, BEIN 1 ENGLISH 🇬🇧
 http://206.212.244.182:25461/live/jgarcia31/224178522/12554.m3u8?token=TUEMUBFQFVsUUVwCAwVRBgEAB1pcBgEBAFZUDgQBBFZSUQUFVw8GAFAWFRdHQxcHWQk6UV0SAwBQBlYCGhpGEFMRO1gGGg1DBAMIAgwPR04aEAxVXBIDAU4RE19SGglBB1RdAlMaG0NTTE1QRlkEDmcAAE5QU1wTWF0WWloUEQxYPABUD1lZBRQOGwUWG0cLSxRHAldFVV1OEQFfQkpSF1NBXhNUDA5DGhZaWkFZERBBRl8afGMbHUBWG0JTVkAKWQ1GC0BVBBQOFhUXXUQ6EF0XEUpcUVRUEBFZFAYaH0FbAhxuAVdZD1NXTVxbWRZAAkZQGhUSVF4MWhdZRGdDClJBXhNTCQBRARZE
