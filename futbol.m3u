@@ -903,6 +903,18 @@ http://ott-cdn.ucom.am/s4/04.m3u8
 #EXTINF:-1, PREMIUM ARMENIA TV 🇦🇲
 http://ott-cdn.ucom.am/s83/03.m3u8
 
+#EXTINF:-1, SSC 1 🇸🇦
+https://live4.beinconnect.us/YallaGoalApp/SSC1.m3u8
+
+#EXTINF:-1, SSC 3 🇸🇦
+https://live4.beinconnect.us/YallaGoalApp/SSC3.m3u8
+
+#EXTINF:-1, SSC 4 🇸🇦
+https://live4.beinconnect.us/YallaGoalApp/SSC4.m3u8
+
+#EXTINF:-1, SSC 5 🇸🇦
+https://live4.beinconnect.us/YallaGoalApp/SSC5.m3u8
+
 #EXTINF:-1, ON Sport 🇸🇦
 http://cdn.footballii.ir:8080/hls2/stream03.m3u8
 
