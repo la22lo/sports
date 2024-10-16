@@ -774,6 +774,9 @@ https://f77zvuxbr89.a.trbcdn.net/reserv9/index.m3u8
 #EXTINF:-1, SUSPILNE SPORT 🇷🇺
 http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/52093/hls/pl.m3u8
 
+#EXTINF:-1, SUSPILNE SPORT 🇷🇺
+http://5.178.129.13/suspilne_sport_ott/index.m3u8
+
 #EXTINF:-1, ТЕЛЕКАНАЛ ФУТБОЛ 🇷🇺
 http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
 
@@ -914,6 +917,9 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
 #EXTINF:-1, RTA SPORT 🇸🇦
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1, KSA SPORT 🇸🇦
+http://93.209.250.184:8001/1:0:19:4B6:23F0:13E:820000:0:0:0.ts
 
 #EXTINF:-1, TELETRAK 🇨🇱
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
