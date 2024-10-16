@@ -462,6 +462,9 @@ http://95.216.40.210:80/setanta2/tracks-v1a1/manifest.m3u8
 #EXTINF:-1, SETANTA ua 🇷🇺
 https://s44gx6hkds2.a.trbcdn.net/SetantaUA/index.m3u8
 
+#EXTINF:-1, Setanta Sports 🇺🇦
+http://103.97.89.234/setantaua/index.m3u8
+
 #EXTINF:-1, Setanta Sports 1 🇺🇦
 https://hls.sweet.tv/stream/qfq2fp954aui9guc8e4d5526tu8uudcnyj342af9kxq8sry8g7n44bwe5rw4k6q68mxhy99h7z5abid8gkju2pcund6c4x89hq96789999.m3u8
 
@@ -530,6 +533,9 @@ https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/chunklist_
 
 #EXTINF:-1, Беларусь 5 (HD) 🇧🇾
 http://93.189.224.246:52900/play/a005/index.m3u8
+
+#EXTINF:-1, Беларусь 5 🇧🇾
+http://103.97.89.234/belarus5/index.m3u8
 
 #EXTINF:-1, MMN Sport 🇶🇦
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
