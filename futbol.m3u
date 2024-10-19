@@ -417,6 +417,12 @@ https://Pericopalotes135@directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u
 #EXTINF:-1, Movistar Deportes HD 🇪🇸
 http://200.60.124.19:29000/play/a06p/index.m3u8
 
+#EXTINF:-1, Movistar + 🇪🇸
+https://teledeportiva@oha.to/play/2881668464/index.m3u8
+
+#EXTINF:-1, Movistar + 🇪🇸
+https://teledeportiva@oha.to/play/3585307980/index.m3u8
+
 #EXTINF:-1,La liga Inside 🇪🇸
 https://is.gd/P9HFAg?LaligaInside.m3u8
 
