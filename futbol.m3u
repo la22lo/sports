@@ -385,10 +385,13 @@ https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/chunklist_
 http://93.189.224.246:52900/play/a005/index.m3u8
 
 #EXTINF:-1, MMN Sport 🇶🇦
-http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
+http://mmn.mypsx.net:1935/live/mmnhdsport/
 
 #EXTINF:-1,M+ 🇪🇸
 https://www.oha.to/play/2881668464/index.m3u8
+
+#EXTINF:-1,DAZN F1 🇪🇸
+https://oha.to/play/3129220252/index.m3u8
 
 #EXTINF:-1,TV1 🇪🇸
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
@@ -518,6 +521,9 @@ https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
 #EXTINF:-1, FS 1 SPORT 🇺🇸
 http://212.102.60.10/FOX_Sports_1/index.m3u8
+
+#EXTINF:-1, ESPN2 🇺🇸
+https://b.trydarius.shop/espn2.m3u8
 
 #EXTINF:-1,HRT2 🇭🇷
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
