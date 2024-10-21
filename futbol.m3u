@@ -381,6 +381,15 @@ http://eqatmiyg.megogo.xyz/iptv/EBUCGK992DRF6L/20103/index.m3u8
 #EXTINF:-1, Ziggo Sport Select HD 🇳🇱
 http://78.130.250.2:8023/play/a00n/index.m3u8
 
+#EXTINF:-1, DIGI SPORT 1 🇷🇴
+http://45.90.106.98/digisport1/index.m3u8
+
+#EXTINF:-1, DIGI SPORT 2 🇷🇴
+http://45.90.106.98/digisport2/index.m3u8
+
+#EXTINF:-1, DIGI SPORT 3 🇷🇴
+http://45.90.106.98/digisport3/index.m3u8
+
 #EXTINF:-1, CANAL+ SPORT HD 🇵🇱
 http://185.236.229.62:9981/play/a04c
 
