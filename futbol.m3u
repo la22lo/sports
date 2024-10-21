@@ -750,6 +750,9 @@ https://cdn-azd2046.telewebion.com/ek/tv3/live/720p/index.m3u8?isp=NA&city=NA
 #EXTINF:-1, AIO SPORT 🇶🇦
 https://cdn-azd2044.telewebion.com/tv3/live/720p/index.m3u8?isp=NA&city=NA
 
+#EXTINF:-1,TELEWEBION SPORT 2 🇶🇦
+http://cdn.footballii.ir:8080/hls2/stream02.m3u8
+
 #EXTINF:-1, SSC 1 🇸🇦
 https://live4.beinconnect.us/YallaGoalApp/SSC1.m3u8
 
