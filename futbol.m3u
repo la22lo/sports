@@ -51,12 +51,6 @@ http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125442.ts
 #EXTINF:-1, S LALIGA 🇿🇦
 https://s@centerinfomess.lol/live/2/chunks.m3u8
 
-#EXTINF:-1, AIO SPORT 🇶🇦
-https://cdn-azd2046.telewebion.com/ek/tv3/live/720p/index.m3u8?isp=NA&city=NA
-
-#EXTINF:-1, AIO SPORT 🇶🇦
-https://cdn-azd2044.telewebion.com/tv3/live/720p/index.m3u8?isp=NA&city=NA
-
 #EXTINF:-1, Bien sport 3 🇶🇦
 https://live2.beinconnect.us/YallaGoalApp/beINSports3.m3u8
 
@@ -746,6 +740,15 @@ http://ott-cdn.ucom.am/s4/04.m3u8
 
 #EXTINF:-1, PREMIUM ARMENIA TV 🇦🇲
 http://ott-cdn.ucom.am/s83/03.m3u8
+
+#EXTINF:-1, AIO SPORT 🇶🇦
+http://cdn.footballii.ir:8080/hls2/bein1.m3u8
+
+#EXTINF:-1, AIO SPORT 🇶🇦
+https://cdn-azd2046.telewebion.com/ek/tv3/live/720p/index.m3u8?isp=NA&city=NA
+
+#EXTINF:-1, AIO SPORT 🇶🇦
+https://cdn-azd2044.telewebion.com/tv3/live/720p/index.m3u8?isp=NA&city=NA
 
 #EXTINF:-1, SSC 1 🇸🇦
 https://live4.beinconnect.us/YallaGoalApp/SSC1.m3u8
