@@ -3,6 +3,9 @@
 #EXTINF:-1,LC 🇪🇸
 https://n8ls15kh.whystream.pro/hls/SYTijlpoDcpt/index.m3u8?st=hWtSuJ0fT6yW_pNWL1ANLZxojUvcymGJllT_QZDeD1o&e=1727905847
 
+#EXTINF:-1, TUDN USA 🇺🇸
+http://165.1.79.137:1235/stream/directv/tudnhd/master.m3u8
+
 #EXTINF:-1, Bien sport 1 🇶🇦
 https://live4.beinconnect.us/YallaGoalApp/beINSports1.m3u8
 
@@ -24,11 +27,14 @@ https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 #EXTINF:-1, Fast Sports 🇦🇲
 http://stream01.vnet.am/Channel_131/mono.m3u8
 
-#EXTINF:-1, TUDN USA 🇺🇸
-http://165.1.79.137:1235/stream/directv/tudnhd/master.m3u8
-
 #EXTINF:-1, UNIMAS 🇺🇸
 http://209.126.105.136:8181/stream/asd/434/master.m3u8
+
+#EXTINF:-1, FOX SPORT 🇦🇷
+http://192.141.95.253:8000/play/a03e/index.m3u8
+
+#EXTINF:-1, FOX SPORT 2 🇦🇷
+http://192.141.95.253:8000/play/a00k/index.m3u8
 
 #EXTINF:-1, sky sport calcio 🇮🇹
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/19129/index.m3u8
