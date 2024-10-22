@@ -15,6 +15,9 @@ https://live4.beinconnect.us/YallaGoalApp/beINSports1.m3u8
 #EXTINF:-1, DIGI SPORT 1 🇷🇴
 http://45.90.106.98/digisport1/index.m3u8
 
+#EXTINF:-1, UNIMAS 🇺🇸
+http://209.126.105.136:8181/stream/asd/434/master.m3u8
+
 #EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇹
 https://p13.lol/centra_live_a_b/n907iOxHult0/1782189.ts
 
@@ -29,9 +32,6 @@ https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 
 #EXTINF:-1, Fast Sports 🇦🇲
 http://stream01.vnet.am/Channel_131/mono.m3u8
-
-#EXTINF:-1, UNIMAS 🇺🇸
-http://209.126.105.136:8181/stream/asd/434/master.m3u8
 
 #EXTINF:-1, FOX SPORT 2 🇦🇷
 http://192.141.95.253:8000/play/a00k/index.m3u8
