@@ -76,6 +76,12 @@ http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4445&e
 http://165.1.79.137:1235/stream/directv/cbssportsnetworkhd/master.m3u8
 
 #EXTINF:-1, CBS SPORT 🇺🇸
+http://209.126.105.136:8181/stream/asd/26/master.m3u8
+
+#EXTINF:-1, CBS SPORT 🇺🇸
+http://209.126.105.136:8181/stream/asd/239/master.m3u8
+
+#EXTINF:-1, CBS SPORT 🇺🇸
 https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
 #EXTINF:-1, Arena Sport4 🇭🇷
