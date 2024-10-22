@@ -69,6 +69,9 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1, ESPN PREMIUM 🇦🇷
 http://38.41.8.1:8000/play/a02z
 
+#EXTINF:-1, ESPN PREMIUM 🇦🇷
+http://192.141.95.253:8000/play/a03f/index.m3u8
+
 #EXTINF:-1, TNT SPORT 1 🇬🇧
 http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4449&extension=m3u8
 
