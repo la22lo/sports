@@ -99,6 +99,9 @@ http://45.71.254.1:8000/play/a06m/index.m3u8
 #EXTINF:-1, ESPN 🇨🇴
 http://45.71.254.1:8000/play/a06k/index.m3u8
 
+#EXTINF:-1, ESPN 🇨🇴
+http://192.141.99.3:8000/play/a05h
+
 #EXTINF:-1, ESPN 2 🇨🇴
 http://45.71.254.1:8000/play/a0ep/index.m3u8
 
