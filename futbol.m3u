@@ -42,6 +42,12 @@ http://stream01.vnet.am/Channel_131/mono.m3u8
 #EXTINF:-1, FOX SPORT 2 🇦🇷
 http://192.141.95.253:8000/play/a00k/index.m3u8
 
+#EXTINF:-1, S CHAMPIONS 🇿🇦
+https://bongls.com/zone-11.m3u8
+
+#EXTINF:-1, S CHAMPIONS 🇿🇦
+https://cloudserve.world/live/stream_6.m3u8
+
 #EXTINF:-1, CHAMP 🇪🇺
 https://s@sportnext.online/hls/M2.m3u8
 
@@ -110,6 +116,9 @@ http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31605/index.m3u8
 
 #EXTINF:-1, Tnt Sport 1 🇬🇧
 https://fs.fscdn.fun/tnt1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Tnt Sport 2 🇬🇧
+https://cheapmdhal.lol/live/3/chunks.m3u8?bongls.com
 
 #EXTINF:-1, Tnt Sport 3 🇬🇧
 https://fs.qwertyisaddictedtodxm.pw/tnt3/index.m3u8
