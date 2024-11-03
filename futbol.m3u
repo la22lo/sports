@@ -342,6 +342,39 @@ http://213.176.3.72:1234/stream/FRANCE/971/master.m3u8
 #EXTINF:-1, Bein Sports 3 France 🇫🇷
 http://213.176.3.72:1234/stream/FRANCE/beinsports3fhd/master.m3u8
 
+#EXTINF:-1, K SPORT 1 🇦🇱
+http://84.22.41.184:8001/play/332/index.m3u8
+
+#EXTINF:-1, K SPORT 2 🇦🇱
+http://84.22.41.184:8001/play/333/index.m3u8
+
+#EXTINF:-1, K SPORT 3 🇦🇱
+http://84.22.41.184:8001/play/334/index.m3u8
+
+#EXTINF:-1, K SPORT 4 🇦🇱
+http://84.22.41.184:8001/play/335/index.m3u8
+
+#EXTINF:-1, SUPERSPORT 1 🇦🇱
+http://84.22.41.184:8001/play/337/index.m3u8
+
+#EXTINF:-1, SUPERSPORT 2 🇦🇱
+http://84.22.41.184:8001/play/537/index.m3u8
+
+#EXTINF:-1, SUPERSPORT 3 🇦🇱
+http://84.22.41.184:8001/play/338/index.m3u8
+
+#EXTINF:-1, SUPERSPORT 4 🇦🇱
+http://84.22.41.184:8001/play/339/index.m3u8
+
+#EXTINF:-1, SUPERSPORT 5 🇦🇱
+http://84.22.41.184:8001/play/340/index.m3u8
+
+#EXTINF:-1, SUPERSPORT 6 🇦🇱
+http://84.22.41.184:8001/play/341/index.m3u8
+
+#EXTINF:-1, SUPERSPORT 7 🇦🇱
+http://84.22.41.184:8001/play/342/index.m3u8
+
 #EXTINF:-1, Arena Sport3 🇭🇷
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31603/index.m3u8
 
