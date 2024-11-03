@@ -124,6 +124,24 @@ http://181.78.105.146:8800/play/a07h
 http://45.5.117.182:8000/play/jnl0/index.m3u8
 
 #EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇹
+http://176.65.146.108:8022/play/a06r/index.m3u8
+
+#EXTINF:-1, ELEVEN SPORTS 2 HD 🇵🇹
+http://176.65.146.108:8022/play/a072/index.m3u8
+
+#EXTINF:-1, ELEVEN SPORTS 3 HD 🇵🇹
+http://176.65.146.108:8022/play/a073/index.m3u8
+
+#EXTINF:-1, ELEVEN SPORTS 4 HD 🇵🇹
+http://176.65.146.108:8022/play/a06t/index.m3u8
+
+#EXTINF:-1, ELEVEN SPORTS 5 HD 🇵🇹
+http://176.65.146.108:8022/play/a06u/index.m3u8
+
+#EXTINF:-1, ELEVEN SPORTS 6 HD 🇵🇹
+http://176.65.146.108:8022/play/a074/index.m3u8
+
+#EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇹
 https://zjdmi53knyt.a.trbcdn.net/dazn1/index.m3u8
 
 #EXTINF:-1, ELEVEN SPORTS 2 HD 🇵🇹
