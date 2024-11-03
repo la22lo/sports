@@ -417,6 +417,9 @@ http://45.90.106.98/digisport2/index.m3u8
 #EXTINF:-1, DIGI SPORT 3 🇷🇴
 http://45.90.106.98/digisport3/index.m3u8
 
+#EXTINF:-1, PRIMA SPORT 1 🇷🇴
+http://193.106.124.204:8002/play/a01l
+
 #EXTINF:-1, CANAL+ SPORT HD 🇵🇱
 http://185.236.229.62:9981/play/a04c
 
