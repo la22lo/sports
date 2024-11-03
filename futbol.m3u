@@ -834,6 +834,9 @@ https://s6.hopslan.com:443/servus2/tracks-v1a1/mono.m3u8?token=1b87cad22ca07d93a
 #EXTINF:-1, SKY SPORT F1 🇬🇧
 https://s@cloudserve.world/live/stream_f1.m3u8
 
+#EXTINF:-1, ESPN NEWS F1 🇺🇸
+https://c.trydarius.shop/espnnews.m3u8
+
 #EXTINF:-1,GXR 🇮🇳
 https://s@d1yz7zmm8mka3t.cloudfront.net:443/out/v1/cad8af14714e4affa48e07d2f48ebf5f/index_7.m3u8
 
