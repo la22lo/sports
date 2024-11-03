@@ -189,6 +189,27 @@ http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:B2:99&stream=1021589&ext
 #EXTINF:-1,ELEVEN SPORTS 6 HD 🇵🇹
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:B2:99&stream=1021587&extension=m3u8
 
+#EXTINF:-1,SPORTV + 🇵🇹
+http://176.65.146.108:8022/play/a07t/index.m3u8
+
+#EXTINF:-1,SPORTV1 🇵🇹
+http://176.65.146.108:8022/play/a06h/index.m3u8
+
+#EXTINF:-1,SPORTV2 🇵🇹
+http://176.65.146.108:8022/play/a06i/index.m3u8
+
+#EXTINF:-1,SPORTV3 🇵🇹
+http://176.65.146.108:8022/play/a06j/index.m3u8
+
+#EXTINF:-1,SPORTV4 🇵🇹
+http://176.65.146.108:8022/play/a05z/index.m3u8
+
+#EXTINF:-1,SPORTV5 🇵🇹
+http://176.65.146.108:8022/play/a06f/index.m3u8
+
+#EXTINF:-1,SPORTV6 🇵🇹
+http://176.65.146.108:8022/play/a06g/index.m3u8
+
 #EXTINF:-1,SPORTV1 🇵🇹
 https://8r1fp7ro6am.a.trbcdn.net/SportTV1/index.m3u8
 
