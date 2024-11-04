@@ -834,6 +834,9 @@ http://212.102.60.80/Infosport/index.m3u8
 #EXTINF:-1, DAZN 🇩🇪
 https://s6.hopslan.com:443/servus2/tracks-v1a1/mono.m3u8?token=1b87cad22ca07d93a79863dfd2a6956023c7c37a-69f976a75a735d432fae46bb678241b4-1727998093-1727987293
 
+#EXTINF:-1, Scooore 🇩🇪
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/660e97bce8fba8000853d43flivestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc861668-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=55465346-19d5-4828-9cf1-a9dc5950fa5e&profilesFromStream=true
+
 #EXTINF:-1, SKY SPORT F1 🇬🇧
 https://s@cloudserve.world/live/stream_f1.m3u8
 
