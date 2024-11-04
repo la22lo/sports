@@ -888,6 +888,12 @@ http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 #EXTINF:-1,TEN SPORTS LIVE 🇮🇳
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
+#EXTINF:-1, SPOTV 🇲🇾
+https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+
+#EXTINF:-1, SPOTV 2 🇲🇾
+https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
+
 #EXTINF:-1, SPORTV 🇧🇷
 https://cr7v.short.gy/ManoTV/Whats75991634025/1/Index.m3u8
 
