@@ -207,6 +207,12 @@ https://7pal.short.gy/prsport2
 #EXTINF:-1, Bein Sports 1 France 🇫🇷
 http://51.178.65.238/BeinSport/mono.m3u8
 
+#EXTINF:-1, Bein Sports 1 🇬🇧
+http://kstv.us/live/jgarcia31/224178522/12554.m3u8
+
+#EXTINF:-1, Bein Sports 🇬🇧
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+
 #EXTINF:-1, K SPORT 1 🇦🇱
 http://84.22.41.184:8001/play/332/index.m3u8
 
@@ -648,6 +654,9 @@ http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 #EXTINF:-1,TEN SPORTS LIVE 🇮🇳
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
+#EXTINF:-1,STAR SPORTS 1 🇮🇳
+http://41.205.93.154/STARSPORTS1/index.m3u8
+
 #EXTINF:-1, SPOTV 🇲🇾
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 
@@ -674,6 +683,9 @@ https://cdn-azd2046.telewebion.com/ek/tv3/live/720p/index.m3u8?isp=NA&city=NA
 
 #EXTINF:-1, AIO SPORT 🇶🇦
 https://cdn-azd2044.telewebion.com/tv3/live/720p/index.m3u8?isp=NA&city=NA
+
+#EXTINF:-1, AI TV3 sport 🇶🇦
+https://liveproxy.splus.ir/hls/tv3/tv3.m3u8
 
 #EXTINF:-1,TELEWEBION SPORT 2 🇶🇦
 http://cdn.footballii.ir:8080/hls2/stream02.m3u8
