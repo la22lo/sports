@@ -633,6 +633,24 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 #EXTINF:-1,SPORT MAX EN VIVO 🇦🇷
 https://fl1002.bozztv.com:443/ssh101/australar/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, ESPN 1 🇧🇷
+https://anonmedia.foo/espn/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, ESPN 2 🇧🇷
+https://anonmedia.foo/espn2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, ESPN 3 🇧🇷
+https://anonmedia.foo/espn3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, ESPN 4 🇧🇷
+https://anonmedia.foo/espn4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, ESPN 5 🇧🇷
+https://anonmedia.foo/espn5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, ESPN 6 🇧🇷
+https://anonmedia.foo/espn6/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, SPORT FANS 🇧🇷
 http://91.132.74.4:7374/play/a00k/index.m3u8
 
