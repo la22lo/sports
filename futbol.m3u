@@ -315,8 +315,14 @@ http://stream01.vnet.am/Channel_131/mono.m3u8
 #EXTINF:-1, Setanta Sports 1 🇷🇺
 https://stream2.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, Setanta Sports 1 🇷🇺
+http://82.215.111.227/1263/index.m3u8
+
 #EXTINF:-1, Setanta Sports 2 🇷🇺
 https://stream2.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Setanta Sports 2 🇷🇺
+http://82.215.111.227/1264/index.m3u8
 
 #EXTINF:-1, Setanta Sports 1 🇺🇦
 https://hls.sweet.tv/stream/qfq2fp954aui9guc8e4d5526tu8uudcnyj342af9kxq8sry8g7n44bwe5rw4k6q68mxhy99h7z5abid8gkju2pcund6c4x89hq96789999.m3u8
