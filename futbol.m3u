@@ -9,6 +9,9 @@ https://live4.beinconnect.us/YallaGoalApp/beINSports1.m3u8
 #EXTINF:-1, Bien sport 1 🇶🇦
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 
+#EXTINF:-1, Bien sport 1 🇶🇦
+http://www.teledunet.com:8080/tdn/tdn/456487.m3u8
+
 #EXTINF:-1, PRIMA SPORT 1 🇷🇴
 http://193.106.124.204:8002/play/a01l
 
