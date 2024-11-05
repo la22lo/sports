@@ -24,24 +24,6 @@ http://kstv.us:8080/live/jgarcia31/224178522/48443.m3u8
 #EXTINF:-1, TNT SPORT 4 🇬🇧
 http://109.61.81.147:2080/cdn2/5054/video.m3u8?token=4444
 
-#EXTINF:-1, ESPN 🇨🇱
-http://45.71.254.1:8000/play/a06k/index.m3u8
-
-#EXTINF:-1, ESPN 🇨🇴
-http://45.71.254.1:8000/play/a012/index.m3u8
-
-#EXTINF:-1, ESPN 🇨🇴
-http://45.71.254.1:8000/play/a05z/index.m3u8
-
-#EXTINF:-1, ESPN 🇨🇱
-http://45.71.254.1:8000/play/a04e/index.m3u8
-
-#EXTINF:-1, ESPN 🇦🇷
-http://45.71.254.1:8000/play/a038/index.m3u8
-
-#EXTINF:-1, ESPN 🇦🇷
-http://45.71.254.1:8000/play/a01r/index.m3u8
-
 #EXTINF:-1, Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 
@@ -149,6 +131,24 @@ http://109.61.81.147:2080/cdn2/560/video.m3u8?token=4444
 
 #EXTINF:-1, TNT SPORT 3 🇬🇧
 http://109.61.81.147:2080/cdn2/295/video.m3u8?token=4444
+
+#EXTINF:-1, ESPN 🇨🇱
+http://45.71.254.1:8000/play/a06k/index.m3u8
+
+#EXTINF:-1, ESPN 🇨🇴
+http://45.71.254.1:8000/play/a012/index.m3u8
+
+#EXTINF:-1, ESPN 🇨🇴
+http://45.71.254.1:8000/play/a05z/index.m3u8
+
+#EXTINF:-1, ESPN 🇨🇱
+http://45.71.254.1:8000/play/a04e/index.m3u8
+
+#EXTINF:-1, ESPN 🇦🇷
+http://45.71.254.1:8000/play/a038/index.m3u8
+
+#EXTINF:-1, ESPN 🇦🇷
+http://45.71.254.1:8000/play/a01r/index.m3u8
 
 
 
