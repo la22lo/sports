@@ -6,6 +6,9 @@ http://45.71.254.1:8000/play/a06k/index.m3u8
 #EXTINF:-1, ESPN 🇨🇴
 http://45.71.254.1:8000/play/a012/index.m3u8
 
+#EXTINF:-1, ESPN 🇨🇴
+http://45.71.254.1:8000/play/a05z/index.m3u8
+
 #EXTINF:-1, Bien sport 1 🇶🇦
 http://p2.7aramoawa.site/hls/918454578001/index.m3u8?t=tBBAozoxg-5dIDoedsbESQ&e=1730579025
 
