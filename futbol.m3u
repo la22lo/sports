@@ -812,6 +812,9 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1, Football HD Tajikistan 🇹🇯
 https://live.teleradiocom.tj/8/3m.m3u8
 
+#EXTINF:-1, NOW SPORT 1 🇭🇰
+http://manik@15.235.181.35/live.ts?channelId=129136&uid=14505&deviceMac=00:1A:79:A7:53:75&id=nowprem1
+
 #EXTINF:-1, ARMENIA TV 🇦🇲
 http://ott-cdn.ucom.am/s4/04.m3u8
 
