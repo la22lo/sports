@@ -6,9 +6,6 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.m3u8
 #EXTINF:-1, UNIMAS 🇺🇸
 http://529308742378955148.ofnm1026.xyz:80/play/Serg0226L/Akdykeefd122/955148.ts
 
-#EXTINF:-1, FOX SPORT 🇦🇷
-http://181.78.27.128:8000/play/a062/index.m3u8
-
 #EXTINF:-1, Bien sport 1 🇶🇦
 http://p2.7aramoawa.site/hls/918454578001/index.m3u8?t=tBBAozoxg-5dIDoedsbESQ&e=1730579025
 
@@ -104,6 +101,9 @@ http://45.71.254.1:8000/play/a0e6/index.m3u8
 
 #EXTINF:-1, ESPN 2 NORTE 🇩🇴
 http://45.71.254.1:8000/play/a0e7/index.m3u8
+
+#EXTINF:-1, FOX SPORT 🇦🇷
+http://181.78.27.128:8000/play/a062/index.m3u8
 
 #EXTINF:-1, CBS SPORT 🇺🇸
 https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
