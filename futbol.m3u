@@ -623,6 +623,9 @@ http://212.102.60.10/FOX_Sports_1/index.m3u8
 #EXTINF:-1, ESPN2 🇺🇸
 https://b.trydarius.shop/espn2.m3u8
 
+#EXTINF:-1, SPORT NETWORK 🇺🇸
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports.m3u8
+
 #EXTINF:-1,HRT2 🇭🇷
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
 
