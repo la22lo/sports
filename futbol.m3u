@@ -39,6 +39,18 @@ http://stream01.vnet.am/Channel_131/mono.m3u8
 #EXTINF:-1, S CHAMPIONS 🇿🇦
 https://cloudserve.world/live/stream_6.m3u8
 
+#EXTINF:-1, LIVE 1 🇪🇺
+https://cheapmdhal.lol/live/1/chunks.m3u8?bongls.com
+
+#EXTINF:-1, LIVE 2 🇪🇺
+https://cheapmdhal.lol/live/2/chunks.m3u8?bongls.com
+
+#EXTINF:-1, LIVE 3 🇪🇺
+https://cheapmdhal.lol/live/3/chunks.m3u8?bongls.com
+
+#EXTINF:-1, LIVE 4 🇪🇺
+https://cheapmdhal.lol/live/4/chunks.m3u8?bongls.com
+
 #EXTINF:-1, CHAMP 🇪🇺
 https://s@sportnext.online/hls/M2.m3u8
 
@@ -111,8 +123,7 @@ https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1, Arena Sport4 🇭🇷
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31605/index.m3u8
 
-#EXTINF:-1, Tnt Sport 2 🇬🇧
-https://cheapmdhal.lol/live/3/chunks.m3u8?bongls.com
+
 
 
 
