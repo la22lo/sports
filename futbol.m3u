@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, UNIMAS 🇺🇸
-http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.m3u8
-
-#EXTINF:-1, UNIMAS 🇺🇸
-http://529308742378955148.ofnm1026.xyz:80/play/Serg0226L/Akdykeefd122/955148.ts
-
 #EXTINF:-1, ESPN 🇨🇴
 http://45.71.254.1:8000/play/a06k/index.m3u8
 
