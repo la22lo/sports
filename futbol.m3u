@@ -838,6 +838,9 @@ https://s@dx12yig2oz0vp.cloudfront.net:443/out/v1/48bb590edb2f4bcd91e0ab46950bf9
 #EXTINF:-1, SPORT 18 🇮🇳
 https://iptvcable.netlify.app/Altogether-007/Sports18-1.m3u8
 
+#EXTINF:-1, SPORT 18 (3) 🇮🇳
+http://15.235.181.35/live.ts?channelId=132374&uid=14505&deviceMac=00:1A:79:A7:53:75&id=18sports3
+
 #EXTINF:-1, ARY Sports 🇮🇳
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
