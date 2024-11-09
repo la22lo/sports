@@ -90,6 +90,12 @@ https://cdn002.varsportscdn1.lol/607/index.m3u8
 #EXTINF:-1, S SPORT 1 🇹🇷
 https://cdn.srectv1.xyz/live/ss1/index.m3u8
 
+#EXTINF:-1, S SPORT 1 🇹🇷
+https://cdn.srectv1.xyz/live/ss1/index.m3u8?token=YY5iXtl8tSBgvyFszg4f7Q&tms=1729240670
+
+#EXTINF:-1, S SPORT 2 🇹🇷
+https://lives.anystreamrectv3.live/live/ssport2.m3u8?token=YY5iXtl8tSBgvyFszg4f7Q&tms=1729240670
+
 #EXTINF:-1, S SPORT 2 🇹🇷
 https://cdn002.varsportscdn1.lol/608/index.m3u8
 
