@@ -615,6 +615,9 @@ https://hw1.jemtv.com/app/tv85/chunks.m3u8
 #EXTINF:-1,SPOR SMART 🇹🇷
 http://extraott-iptv.com:88/live/0229477349/8104258135/392043.m3u8
 
+#EXTINF:-1,HT SPOR 🇹🇷
+https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
+
 #EXTINF:-1, Ring 🇧🇬
 http://195.24.90.119:800/play/a0b3
 
