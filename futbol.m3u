@@ -52,7 +52,10 @@ https://sportnext.online/hls/M2.m3u8
 https://pepebong.online/live/3/chunks.m3u8
 
 #EXTINF:-1, Bien sport 3 🇶🇦
-https://live2.beinconnect.us/YallaGoalApp/beINSports3.m3u8
+https://live4.beinconnect.us/YallaGoalApp/beINSports3.m3u8
+
+#EXTINF:-1, Bien sport 3 🇶🇦
+https://flu.systemnet.tv/Bein.Hd.3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, BEIN SPORT 3 🇶🇦
 http://authxplus-2.xyz:2082/Tourobox1-i9RUztB0W2/ewz5h48dVV/901
@@ -193,7 +196,7 @@ https://p13.lol/centra_live_a_b/n907iOxHult0/1782180.ts
 https://p13.lol/centra_live_a_b/n907iOxHult0/1782184.ts
 
 #EXTINF:-1, Bien sport 1 🇶🇦
-http://p2.7aramoawa.site/hls/918454578001/index.m3u8?t=tBBAozoxg-5dIDoedsbESQ&e=1730579025
+https://ca.yalla-shootj.com/memfs/55ad155f-a5a6-4980-9d98-c04cf3101c51.m3u8
 
 #EXTINF:-1, Bien sport 1 🇶🇦
 https://live4.beinconnect.us/YallaGoalApp/beINSports1.m3u8
@@ -201,11 +204,20 @@ https://live4.beinconnect.us/YallaGoalApp/beINSports1.m3u8
 #EXTINF:-1, Bien sport 1 🇶🇦
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 
+#EXTINF:-1, Bien sport 1 🇶🇦
+https://flu.systemnet.tv/Bein.Hd.1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, Bien sport 2 🇶🇦
 https://live4.beinconnect.us/YallaGoalApp/beINSports2.m3u8
 
+#EXTINF:-1, Bien sport 2 🇶🇦
+https://flu.systemnet.tv/Bein.Hd.2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, Bien sport 3 🇶🇦
 https://live4.beinconnect.us/YallaGoalApp/beINSports3.m3u8
+
+#EXTINF:-1, Bien sport 3 🇶🇦
+https://flu.systemnet.tv/Bein.Hd.3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Bien sport 4 🇶🇦
 https://live4.beinconnect.us/YallaGoalApp/beINSports4.m3u8
