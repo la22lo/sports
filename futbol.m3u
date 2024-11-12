@@ -195,6 +195,24 @@ https://p13.lol/centra_live_a_b/n907iOxHult0/1782180.ts
 #EXTINF:-1, Sport TV 6 🇵🇹
 https://p13.lol/centra_live_a_b/n907iOxHult0/1782184.ts
 
+EXTINF:-1, Sport TV 1 🇵🇹
+http://216.227.145.114:8000/SPORT_TV1_ALTERNATIVE/index.m3u8
+
+#EXTINF:-1, Sport TV 2 🇵🇹
+http://216.227.145.114:8000/SPORT_TV2_ALTERNATIVE/index.m3u8
+
+#EXTINF:-1, Sport TV 3 🇵🇹
+http://216.227.145.114:8000/SPORT_TV3/index.m3u8?token=test
+
+#EXTINF:-1, Sport TV 4 🇵🇹
+http://216.227.145.114:8000/SPORT_TV4/index.m3u8?token=test
+
+#EXTINF:-1, Sport TV 5 🇵🇹
+http://216.227.145.114:8000/SPORT_TV5/index.m3u8?token=test
+
+#EXTINF:-1, Sport TV 6 🇵🇹
+http://216.227.145.114:8000/SPORT_TV6/index.m3u8?token=test
+
 #EXTINF:-1, Bien sport 1 🇶🇦
 https://ca.yalla-shootj.com/memfs/55ad155f-a5a6-4980-9d98-c04cf3101c51.m3u8
 
