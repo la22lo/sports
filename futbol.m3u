@@ -756,6 +756,9 @@ http://ott-cdn.ucom.am/s4/04.m3u8
 #EXTINF:-1, PREMIUM ARMENIA TV 🇦🇲
 http://ott-cdn.ucom.am/s83/03.m3u8
 
+#EXTINF:-1, PERSIANA SPORT 🇮🇷
+https://spstr.abntv.live/hls/psstream.m3u8
+
 #EXTINF:-1, AIO SPORT 🇶🇦
 http://cdn.footballii.ir:8080/hls2/bein1.m3u8
 
