@@ -453,6 +453,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1,BEIN SPORT EXTRA Ñ 🇪🇸
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
+#EXTINF:-1,DIRECT SPORT 🇦🇷
+http://38.183.183.249:8000/play/a0gl/index.m3u8
+
 #EXTINF:-1,ESPN VIVO 🇦🇷
 http://hzcdn.vood.top:80/hls/309458_.m3u8
 
