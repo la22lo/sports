@@ -778,6 +778,9 @@ http://ott-cdn.ucom.am/s83/03.m3u8
 https://spstr.abntv.live/hls/psstream.m3u8
 
 #EXTINF:-1, PERSIANA SPORT 🇮🇷
+https://edge10.776740.ir.cdn.ir/hls2/persianas.m3u8
+
+#EXTINF:-1, PERSIANA SPORT 🇮🇷
 https://stream.live12.ir/hls2/persianas.m3u8
 
 #EXTINF:-1, AIO SPORT 🇶🇦
