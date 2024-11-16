@@ -555,6 +555,9 @@ http://212.102.60.10/FOX_Sports_1/index.m3u8
 #EXTINF:-1, FS 1 SPORT 🇺🇸
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 
+#EXTINF:-1, FOX DEPORTES USA 🇺🇸
+http://109.107.185.43:8181/channel/48f38d09/index.m3u8?q=1731480224244
+
 #EXTINF:-1, ESPN2 🇺🇸
 https://b.trydarius.shop/espn2.m3u8
 
