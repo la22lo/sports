@@ -399,6 +399,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7357
 #EXTINF:-1,TIGO SPORTS 🇨🇷
 http://190.185.121.102:58092/play/a00s
 
+#EXTINF:-1,TIGO SPORTS 🇨🇷
+https://acceso.radiosportstv.online:3795/stream/play.m3u8
+
 #EXTINF:-1,TIGO SPORTS 🇬🇹
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 
