@@ -582,6 +582,9 @@ http://212.102.60.80/Infosport/index.m3u8
 #EXTINF:-1, Scooore 🇩🇪
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/660e97bce8fba8000853d43flivestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc861668-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=55465346-19d5-4828-9cf1-a9dc5950fa5e&profilesFromStream=true
 
+#EXTINF:-1, Scooore 🇩🇪
+https://jmp2.uk/sam-ATBD26000124P.m3u8
+
 #EXTINF:-1, ESPN NEWS F1 🇺🇸
 https://c.trydarius.shop/espnnews.m3u8
 
