@@ -39,6 +39,9 @@ http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1, Bien sport 1 🇶🇦
 http://www.teledunet.com:8080/tdn/tdn/456487.m3u8
 
+#EXTINF:-1, Bien sport 1 🇶🇦
+http://84.16.252.211:2082/Xplus-1-DAGJkRe5o7/qqjEcPmU62/901
+
 #EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇹
 http://176.65.146.108:8022/play/a06r/index.m3u8
 
