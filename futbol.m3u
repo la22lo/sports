@@ -9,6 +9,9 @@ https://bzz.chafmed.online/hls/1/stream.m3u8
 #EXTINF:-1, arab 🇸🇦
 https://31fd75ec4027.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.241533150767.channel.Tz6igGsunWBl.m3u8
 
+#EXTINF:-1, arab 🇸🇦
+https://40cd4bf34d66.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.241533150767.channel.zyGPPkKx1Icg.m3u8
+
 #EXTINF:-1, USA 🇺🇸
 https://marcosdos@dc.vipstreams.in/daznca5/index.m3u8
 
