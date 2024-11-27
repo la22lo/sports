@@ -87,6 +87,9 @@ https://trt.daioncdn.net/trt-1/master.m3u8?app=e435840d-2653-45a3-afef-082d4ea99
 #EXTINF:-1, Ten Sport HD 🇮🇳
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
+#EXTINF:-1, Sony ten 1 🇮🇳
+http://109.61.81.45:43756/4863/tracks-v1a1/mono.m3u8?token=4444
+
 #EXTINF:-1, ESPN PREMIUM 🇦🇷
 http://38.41.8.1:8000/play/a02z
 
