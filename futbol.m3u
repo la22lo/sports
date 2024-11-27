@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1, arab 🇸🇦
+https://bzz.chafmed.online/hls/0/stream.m3u8
+
+#EXTINF:-1, arab 🇸🇦
+https://bzz.chafmed.online/hls/1/stream.m3u8
+
 #EXTINF:-1, TNT SPORT 1 🇬🇧
 http://109.61.81.147:2080/cdn2/559/video.m3u8?token=4444
 
