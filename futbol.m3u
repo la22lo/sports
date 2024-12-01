@@ -3,6 +3,12 @@
 #EXTINF:-1, TV BAR 🇪🇸
 https://www.oha.to/play/1980907224/index.m3u8
 
+#EXTINF:-1, S LALIGA 🇿🇦
+https://7pal.short.gy/sperspllg
+
+#EXTINF:-1, Bien sport 3 🇶🇦
+https://live4.beinconnect.us/YallaGoalApp/beINSports3.m3u8
+
 #EXTINF:-1, МАТЧ! Футбол2 🇷🇺
 http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
 
@@ -10,28 +16,7 @@ http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
 https://nexahub.biz/live/2/chunks.m3u8?bongls.com
 
 #EXTINF:-1, S LALIGA 🇿🇦
-https://zylotech.xyz/live/1/chunks.m3u8?bongls.com
-
-#EXTINF:-1, S LALIGA 🇿🇦
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125442.ts
-
-#EXTINF:-1, S LALIGA 🇿🇦
-https://7pal.short.gy/sperspllg
-
-#EXTINF:-1, S LALIGA 🇿🇦
-https://pepebong.online/live/3/chunks.m3u8
-
-#EXTINF:-1, S LALIGA 🇿🇦
-https://b2.cys2.online/hls/0/stream.m3u8
-
-#EXTINF:-1, S LALIGA 🇿🇦
-https://b2.cys2.online/hls/1/stream.m3u8
-
-#EXTINF:-1, Bien sport 3 🇶🇦
-https://live4.beinconnect.us/YallaGoalApp/beINSports3.m3u8
-
-#EXTINF:-1, Bien sport 3 🇶🇦
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/901
 
 #EXTINF:-1, Bein Sports 1 France 🇫🇷
 http://51.178.65.238/BeinSport/mono.m3u8
