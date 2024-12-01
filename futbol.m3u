@@ -1,29 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, GXR WORLD 🇮🇳
-https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_6.m3u8
-
-#EXTINF:-1, GXR WORLD 🇮🇳
-https://db7g5t2s3y0c9.cloudfront.net/out/v1/1c7f5a41c9934f24916b7ce5d1ea381e/index.m3u8
-
-#EXTINF:-1, GXR WORLD 🇮🇳
-https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index.m3u8
-
-#EXTINF:-1, GXR WORLD 🇮🇳
-https://s@db7g5t2s3y0c9.cloudfront.net:443/out/v1/1c7f5a41c9934f24916b7ce5d1ea381e/index_7.m3u8
-
-#EXTINF:-1, GXR WORLD 🇮🇳
-https://s@drjpy7suzu4c5.cloudfront.net:443/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_7.m3u8
-
-#EXTINF:-1, GXR WORLD 🇮🇳
-https://s@dz6knuujo9z7i.cloudfront.net:443/out/v1/a54d9b3234aa4b61a2d1f475bfad6a58/index_8.m3u8
-
-#EXTINF:-1, GXR WORLD 🇮🇳
-https://s@d2yxu0gr4ksneg.cloudfront.net:443/out/v1/ed259f6465634f6382767e23f564e695/index_7.m3u8
-
-#EXTINF:-1, GXR WORLD 🇮🇳
-https://s@d1c63sglopbuo.cloudfront.net:443/out/v1/b9b23c4adf414582af2f2b480bbefddc/index_7.m3u8
-
 #EXTINF:-1, TV BAR 🇪🇸
 https://www.oha.to/play/1980907224/index.m3u8
 
@@ -964,7 +940,29 @@ https://zylotech.xyz/live/5/chunks.m3u8?bongls.com
 
 
 
+#EXTINF:-1, GXR WORLD 🇮🇳
+https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_6.m3u8
 
+#EXTINF:-1, GXR WORLD 🇮🇳
+https://db7g5t2s3y0c9.cloudfront.net/out/v1/1c7f5a41c9934f24916b7ce5d1ea381e/index.m3u8
+
+#EXTINF:-1, GXR WORLD 🇮🇳
+https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index.m3u8
+
+#EXTINF:-1, GXR WORLD 🇮🇳
+https://s@db7g5t2s3y0c9.cloudfront.net:443/out/v1/1c7f5a41c9934f24916b7ce5d1ea381e/index_7.m3u8
+
+#EXTINF:-1, GXR WORLD 🇮🇳
+https://s@drjpy7suzu4c5.cloudfront.net:443/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_7.m3u8
+
+#EXTINF:-1, GXR WORLD 🇮🇳
+https://s@dz6knuujo9z7i.cloudfront.net:443/out/v1/a54d9b3234aa4b61a2d1f475bfad6a58/index_8.m3u8
+
+#EXTINF:-1, GXR WORLD 🇮🇳
+https://s@d2yxu0gr4ksneg.cloudfront.net:443/out/v1/ed259f6465634f6382767e23f564e695/index_7.m3u8
+
+#EXTINF:-1, GXR WORLD 🇮🇳
+https://s@d1c63sglopbuo.cloudfront.net:443/out/v1/b9b23c4adf414582af2f2b480bbefddc/index_7.m3u8
 
 #EXTINF:-1, Real Madrid TV 🇪🇸
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
