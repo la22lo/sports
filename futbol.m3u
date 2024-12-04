@@ -3,6 +3,9 @@
 #EXTINF:-1, Bein Sports 1 France 🇫🇷
 http://51.178.65.238/BeinSport/mono.m3u8
 
+#EXTINF:-1, TB3 iran 🇮🇷
+https://stream.sainaertebat.com/hls2/tv3test.m3u8
+
 #EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
 http://45.5.117.182:8000/play/jnl0/index.m3u8
 
