@@ -21,9 +21,6 @@ http://190.92.10.66:4000/play/a003/index.m3u8
 #EXTINF:-1, МАТЧ! Футбол2 🇷🇺
 http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
 
-#EXTINF:-1, МАТЧ! Футбол2 🇷🇺
-http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
-
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 https://nexahub.biz/live/2/chunks.m3u8?bongls.com
 
