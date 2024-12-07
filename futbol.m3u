@@ -6,12 +6,6 @@ https://www.oha.to/play/1980907224/index.m3u8
 #EXTINF:-1, Bein Sports 1 France 🇫🇷
 http://51.178.65.238/BeinSport/mono.m3u8
 
-#EXTINF:-1, TB3 iran 🇮🇷
-https://stream.sainaertebat.com/hls2/tv3test.m3u8
-
-#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
-http://45.5.117.182:8000/play/jnl0/index.m3u8
-
 #EXTINF:-1, TV BAR 🇪🇸
 https://www.oha.to/play/1980907224/index.m3u8
 
@@ -68,6 +62,12 @@ http://181.78.109.49:8000/play/a06r/index.m3u8
 
 #EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
 http://181.78.105.146:8800/play/a07h
+
+#EXTINF:-1, TB3 iran 🇮🇷
+https://stream.sainaertebat.com/hls2/tv3test.m3u8
+
+#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
+http://45.5.117.182:8000/play/jnl0/index.m3u8
 
 #EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇹
 http://176.65.146.108:8022/play/a06r/index.m3u8
