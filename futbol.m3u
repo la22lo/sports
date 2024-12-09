@@ -463,6 +463,18 @@ http://raalbatros.serv00.net/Gledai.php?ID=diemasport3
 #EXTINF:-1, NOVA SPORT 🇧🇬
 http://raalbatros.serv00.net/Gledai.php?ID=novasport
 
+#EXTINF:-1, ELEVEN SPORT 1 🇵🇱
+https://cdn-nvm-chicago3.lolokoko.tv/elevensports1.stream/chunks.m3u8
+
+#EXTINF:-1, ELEVEN SPORT 2 🇵🇱
+https://cdn-nvm-chicago3.lolokoko.tv/elevensports2.stream/chunks.m3u8
+
+#EXTINF:-1, ELEVEN SPORT 3 🇵🇱
+https://cdn-nvm-chicago3.lolokoko.tv/elevensports3.stream/chunks.m3u8
+
+#EXTINF:-1, ELEVEN SPORT 4 🇵🇱
+https://cdn-nvm-chicago3.lolokoko.tv/elevensports4.stream/chunks.m3u8
+
 #EXTINF:-1, CANAL+ SPORT HD 🇵🇱
 http://185.236.229.62:9981/play/a04c
 
