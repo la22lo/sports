@@ -12,14 +12,14 @@ https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 #EXTINF:-1, SKY SPORT 253 🇮🇹
 http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/203.ts
 
-#EXTINF:-1, Unimas Miami 🇲🇽🇺🇸
-http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.m3u8
-
 #EXTINF:-1, PRIMA SPORT 1 🇷🇴
 http://193.106.124.204:8002/play/a01l
 
 #EXTINF:-1, Fast Sports 🇦🇲
 http://stream01.vnet.am/Channel_131/mono.m3u8
+
+#EXTINF:-1, Unimas Miami 🇲🇽🇺🇸
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.m3u8
 
 #EXTINF:-1, PERSIANA SPORT 🇮🇷
 https://spstr.abntv.live/hls/psstream.m3u8
