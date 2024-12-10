@@ -6,12 +6,6 @@ http://109.61.81.147:2080/cdn2/559/video.m3u8?token=4444
 #EXTINF:-1, TNT SPORT 1 🇬🇧
 http://109.61.81.43:43756/559/tracks-v1a1/mono.m3u8?token=4444
 
-#EXTINF:-1, Bien sport 1 🇶🇦
-http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-http://125.209.88.166:45793/BRN/beINSP11.stream/chunklist_w319570480.m3u8
-
 #EXTINF:-1, Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 
@@ -56,6 +50,12 @@ http://42490-fred.oot-mx.me:80/live/63d576d12c/747308777cbd/801855.m3u8
 
 #EXTINF:-1, ARENA SPORT 2 🇭🇷
 http://42490-fred.oot-mx.me:80/live/63d576d12c/747308777cbd/110736.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+http://125.209.88.166:45793/BRN/beINSP11.stream/chunklist_w319570480.m3u8
 
 #EXTINF:-1, Unimas Miami 🇲🇽🇺🇸
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.m3u8
