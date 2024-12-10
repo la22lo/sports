@@ -30,6 +30,12 @@ http://raalbatros.serv00.net/Gledai.php?ID=maxsport3
 #EXTINF:-1, BEIN SPORT 3 🇭🇰
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86299
 
+#EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇹
+https://p13.lol/centra_live_a_b/n907iOxHult0/1782189.ts
+
+#EXTINF:-1, ELEVEN 1 🇵🇹
+http://kstv.us:8080/live/jgarcia31/224178522/48443.m3u8
+
 #EXTINF:-1, Fast Sports 🇦🇲
 http://stream01.vnet.am/Channel_131/mono.m3u8
 
@@ -47,12 +53,6 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.m3u8
 
 #EXTINF:-1, PERSIANA SPORT 🇮🇷
 https://spstr.abntv.live/hls/psstream.m3u8
-
-#EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇹
-https://p13.lol/centra_live_a_b/n907iOxHult0/1782189.ts
-
-#EXTINF:-1, ELEVEN 1 🇵🇹
-http://kstv.us:8080/live/jgarcia31/224178522/48443.m3u8
 
 #EXTINF:-1, SKY SPORT CALCIO 🇮🇹
 http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/39.ts
