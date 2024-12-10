@@ -445,6 +445,18 @@ http://78.130.250.2:8023/play/a00n/index.m3u8
 #EXTINF:-1, PRIMA SPORT 1 🇷🇴
 http://193.106.124.204:8002/play/a01l
 
+#EXTINF:-1, DIGI SPORT 1 🇷🇴
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86413
+
+#EXTINF:-1, DIGI SPORT 2 🇷🇴
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86414
+
+#EXTINF:-1, DIGI SPORT 3 🇷🇴
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86415
+
+#EXTINF:-1, DIGI SPORT 4 🇷🇴
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86416
+
 #EXTINF:-1, MAX SPORT 1 🇧🇬
 http://raalbatros.serv00.net/Gledai.php?ID=maxsport1
 
