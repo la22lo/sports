@@ -27,6 +27,9 @@ http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86413
 #EXTINF:-1, MAX SPORT 3 🇧🇬
 http://raalbatros.serv00.net/Gledai.php?ID=maxsport3
 
+#EXTINF:-1, BEIN SPORT 3 🇭🇰
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86299
+
 #EXTINF:-1, Fast Sports 🇦🇲
 http://stream01.vnet.am/Channel_131/mono.m3u8
 
@@ -38,9 +41,6 @@ http://42490-fred.oot-mx.me:80/live/63d576d12c/747308777cbd/801855.m3u8
 
 #EXTINF:-1, ARENA SPORT 2 🇭🇷
 http://42490-fred.oot-mx.me:80/live/63d576d12c/747308777cbd/110736.m3u8
-
-#EXTINF:-1, BEIN SPORT 3 🇭🇰
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86299
 
 #EXTINF:-1, Unimas Miami 🇲🇽🇺🇸
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.m3u8
