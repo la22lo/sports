@@ -9,9 +9,6 @@ http://109.61.81.43:43756/559/tracks-v1a1/mono.m3u8?token=4444
 #EXTINF:-1, TNT SPORT 1 🇬🇧
 https://randomsiteslist.xyz/live/1/chunks.m3u8?bongls.com
 
-#EXTINF:-1, ARAB 🇸🇦
-https://customer-34ophoi9ksvq9pjp.cloudflarestream.com/f97dbd41c3bed18d562efd9b34230e2b/manifest/video.m3u8
-
 #EXTINF:-1, Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 
@@ -21,14 +18,8 @@ http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/203.ts
 #EXTINF:-1, PRIMA SPORT 1 🇷🇴
 http://193.106.124.204:8002/play/a01l
 
-#EXTINF:-1, DIGI SPORT 1 🇷🇴
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86413
-
 #EXTINF:-1, MAX SPORT 3 🇧🇬
 http://raalbatros.serv00.net/Gledai.php?ID=maxsport3
-
-#EXTINF:-1, BEIN SPORT 3 🇭🇰
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86299
 
 #EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇹
 http://176.65.146.108:8022/play/a06r/index.m3u8
