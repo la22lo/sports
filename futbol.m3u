@@ -6,6 +6,15 @@ http://109.61.81.147:2080/cdn2/5054/video.m3u8?token=4444
 #EXTINF:-1, TNT SPORT 4 🇬🇧
 http://109.61.81.43:43756/5054/tracks-v1a1/mono.m3u8?token=4444
 
+#EXTINF:-1, CHAMPIONS
+https://b4.truetastes.site/hls/0/stream.m3u8
+
+#EXTINF:-1, CHAMPIONS
+https://play1nm.hnyongshun.cn/live/ballbar_22610.m3u8
+
+#EXTINF:-1, CHAMPIONS
+http://het127a.4rouwanda-shop.store/live/918454578001/index.m3u8?t=OQxjNFpe7h7fmmdeRBSFhA&e=1733862478
+
 #EXTINF:-1, PERSIANA SPORT 🇮🇷
 https://spstr.abntv.live/hls/psstream.m3u8
 
