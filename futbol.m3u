@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1, TNT SPORT 1 🇬🇧
-http://109.61.81.147:2080/cdn2/559/video.m3u8?token=4444
+#EXTINF:-1, TNT SPORT 4 🇬🇧
+http://109.61.81.147:2080/cdn2/5054/video.m3u8?token=4444
 
-#EXTINF:-1, TNT SPORT 1 🇬🇧
-http://109.61.81.43:43756/559/tracks-v1a1/mono.m3u8?token=4444
+#EXTINF:-1, TNT SPORT 4 🇬🇧
+http://109.61.81.43:43756/5054/tracks-v1a1/mono.m3u8?token=4444
 
 #EXTINF:-1, TNT SPORT 1 🇬🇧
 https://randomsiteslist.xyz/live/1/chunks.m3u8?bongls.com
@@ -128,6 +128,12 @@ http://45.71.254.1:8000/play/a0e7/index.m3u8
 
 #EXTINF:-1, CBS SPORT 🇺🇸
 https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
+#EXTINF:-1, TNT SPORT 1 🇬🇧
+http://109.61.81.147:2080/cdn2/559/video.m3u8?token=4444
+
+#EXTINF:-1, TNT SPORT 1 🇬🇧
+http://109.61.81.43:43756/559/tracks-v1a1/mono.m3u8?token=4444
 
 #EXTINF:-1, TNT SPORT 2 🇬🇧
 http://109.61.81.147:2080/cdn2/560/video.m3u8?token=4444
