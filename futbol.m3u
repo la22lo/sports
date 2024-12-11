@@ -9,6 +9,21 @@ http://109.61.81.43:43756/5054/tracks-v1a1/mono.m3u8?token=4444
 #EXTINF:-1, TNT SPORT 1 🇬🇧
 https://randomsiteslist.xyz/live/1/chunks.m3u8?bongls.com
 
+#EXTINF:-1, PERSIANA SPORT 🇮🇷
+https://spstr.abntv.live/hls/psstream.m3u8
+
+#EXTINF:-1, PERSIANA SPORT 🇮🇷
+https://edge10.776740.ir.cdn.ir/hls2/persianas.m3u8
+
+#EXTINF:-1, PERSIANA SPORT 🇮🇷
+https://stream.live12.ir/hls2/persianas.m3u8
+
+#EXTINF:-1, PERSIANA SPORT 🇮🇷
+https://ayassport.776740.ir.cdn.ir/hls2/persianas.m3u8
+
+#EXTINF:-1, PERSIANA SPORT 🇮🇷
+https://stream.sainaertebat.com/hls2/persianas.m3u8
+
 #EXTINF:-1, Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 
@@ -74,9 +89,6 @@ http://125.209.88.166:45793/BRN/beINSP11.stream/chunklist_w319570480.m3u8
 
 #EXTINF:-1, Unimas Miami 🇲🇽🇺🇸
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.m3u8
-
-#EXTINF:-1, PERSIANA SPORT 🇮🇷
-https://spstr.abntv.live/hls/psstream.m3u8
 
 #EXTINF:-1, SKY SPORT 253 🇮🇹
 http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/203.ts
