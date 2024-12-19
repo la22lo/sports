@@ -441,26 +441,8 @@ http://stream.tvcdn.net/spor/tivibu-spor.m3u8
 #EXTINF:-1, BEIN SPORT 1 CANLI 🇹🇷
 https://cdn.srectv1.xyz/live/bs11/index.m3u8
 
-#EXTINF:-1, BEIN SPORT 1 🇹🇷
-https://100.zortstream.shop/601/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 2 🇹🇷
-https://100.zortstream.shop/602/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 3 🇹🇷
-https://100.zortstream.shop/603/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 4 🇹🇷
-https://100.zortstream.shop/604/index.m3u8
-
-#EXTINF:-1, BEIN SPORT 5 🇹🇷
-https://100.zortstream.shop/605/index.m3u8
-
 #EXTINF:-1,SPORTS TV 🇹🇷
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-
-#EXTINF:-1,TV8,5 🇹🇷
-https://hw1.jemtv.com/app/tv85/chunks.m3u8
 
 #EXTINF:-1,HT SPOR 🇹🇷
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
@@ -510,15 +492,6 @@ https://jmp2.uk/sam-ATBD26000124P.m3u8
 #EXTINF:-1, ESPN NEWS F1 🇺🇸
 https://c.trydarius.shop/espnnews.m3u8
 
-#EXTINF:-1,GXR 🇮🇳
-https://s@d1yz7zmm8mka3t.cloudfront.net:443/out/v1/cad8af14714e4affa48e07d2f48ebf5f/index_7.m3u8
-
-#EXTINF:-1,GXR 🇮🇳
-https://s@dx12yig2oz0vp.cloudfront.net:443/out/v1/48bb590edb2f4bcd91e0ab46950bf94a/index_5.m3u8
-
-#EXTINF:-1, SPORT 18 🇮🇳
-https://iptvcable.netlify.app/Altogether-007/Sports18-1.m3u8
-
 #EXTINF:-1, SPORT 18 (3) 🇮🇳
 http://15.235.181.35/live.ts?channelId=132374&uid=14505&deviceMac=00:1A:79:A7:53:75&id=18sports3
 
@@ -546,9 +519,6 @@ https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 #EXTINF:-1, WOW TV EL SALVADOR 🇸🇻
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
-#EXTINF:-1, NOW SPORT 1 🇭🇰
-http://manik@15.235.181.35/live.ts?channelId=129136&uid=14505&deviceMac=00:1A:79:A7:53:75&id=nowprem1
-
 #EXTINF:-1, ARMENIA TV 🇦🇲
 http://ott-cdn.ucom.am/s4/04.m3u8
 
@@ -567,38 +537,14 @@ https://stream.live12.ir/hls2/persianas.m3u8
 #EXTINF:-1, PERSIANA SPORT 🇮🇷
 https://ayassport.776740.ir.cdn.ir/hls2/persianas.m3u8
 
-#EXTINF:-1, PERSIANA SPORT 🇮🇷
-https://stream.sainaertebat.com/hls2/persianas.m3u8
-
-#EXTINF:-1, VARZESH IRAN 🇮🇷
-https://stream.sainaertebat.com/hls2/varzeshtest.m3u8
-
 #EXTINF:-1, AIO SPORT 🇶🇦
 https://cdn-azd2046.telewebion.com/ek/tv3/live/720p/index.m3u8?isp=NA&city=NA
 
 #EXTINF:-1, AIO SPORT 🇶🇦
 https://cdn-azd2044.telewebion.com/tv3/live/720p/index.m3u8?isp=NA&city=NA
 
-#EXTINF:-1,SPORT 1 🇶🇦
-https://stream.live12.ir/hls2/stream01.m3u8
-
-#EXTINF:-1,SPORT 2 🇶🇦
-https://stream.live12.ir/hls2/stream02.m3u8
-
-#EXTINF:-1,SPORT 3 🇶🇦
-https://stream.live12.ir/hls2/stream03.m3u8
-
-#EXTINF:-1, AI TV3 sport 🇶🇦
-https://liveproxy.splus.ir/hls/tv3/tv3.m3u8
-
-#EXTINF:-1,NETO TV 🇶🇦
+#EXTINF:-1,NETO SPORTS 🇶🇦
 https://netohls.wns.live/hls/stream.m3u8
-
-#EXTINF:-1, SSC 1 🇸🇦
-https://live4.beinconnect.us/YallaGoalApp/SSC1.m3u8
-
-#EXTINF:-1, SSC 4 🇸🇦
-https://live4.beinconnect.us/YallaGoalApp/SSC4.m3u8
 
 #EXTINF:-1, Lenz Sport 🇸🇦
 https://ss.90minlive.online/sport/Lenz/chunks.m3u8
@@ -627,15 +573,6 @@ https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 #EXTINF:-1, ATG1 🇸🇪
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 
-#EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 1 🇬🇧
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-
-#EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 2 🇬🇧
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-
-#EXTINF:-1, TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-
 #EXTINF:-1, TENNIS
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 
@@ -643,52 +580,6 @@ https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 https://d3qg0hadt0dkov.cloudfront.net:443/amgtennisus/playlist1080_p.m3u8
 
 
-
-
-#EXTINF:-1, GXR WORLD 🇮🇳
-https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_6.m3u8
-
-#EXTINF:-1, GXR WORLD 🇮🇳
-https://db7g5t2s3y0c9.cloudfront.net/out/v1/1c7f5a41c9934f24916b7ce5d1ea381e/index.m3u8
-
-#EXTINF:-1, GXR WORLD 🇮🇳
-https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index.m3u8
-
-#EXTINF:-1, GXR WORLD 🇮🇳
-https://s@db7g5t2s3y0c9.cloudfront.net:443/out/v1/1c7f5a41c9934f24916b7ce5d1ea381e/index_7.m3u8
-
-#EXTINF:-1, GXR WORLD 🇮🇳
-https://s@drjpy7suzu4c5.cloudfront.net:443/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_7.m3u8
-
-#EXTINF:-1, GXR WORLD 🇮🇳
-https://s@dz6knuujo9z7i.cloudfront.net:443/out/v1/a54d9b3234aa4b61a2d1f475bfad6a58/index_8.m3u8
-
-#EXTINF:-1, GXR WORLD 🇮🇳
-https://s@d2yxu0gr4ksneg.cloudfront.net:443/out/v1/ed259f6465634f6382767e23f564e695/index_7.m3u8
-
-#EXTINF:-1, GXR WORLD 🇮🇳
-https://s@d1c63sglopbuo.cloudfront.net:443/out/v1/b9b23c4adf414582af2f2b480bbefddc/index_7.m3u8
-
-#EXTINF:-1, GXR
-https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_1.m3u8
-
-#EXTINF:-1, GXR
-https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_2.m3u8
-
-#EXTINF:-1, GXR
-https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_3.m3u8
-
-#EXTINF:-1, GXR
-https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_4.m3u8
-
-#EXTINF:-1, GXR
-https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_5.m3u8
-
-#EXTINF:-1, GXR
-https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_6.m3u8
-
-#EXTINF:-1, GXR
-https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_7.m3u8
 
 
 
