@@ -276,6 +276,12 @@ http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86415
 #EXTINF:-1, DIGI SPORT 4 🇷🇴
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86416
 
+#EXTINF:-1, DIGI SPORT 1 🇷🇴
+http://europatv.sytes.net:8008/Cristian@Roman/hMNkNg6kaG/33797
+
+#EXTINF:-1, DIGI SPORT 4 🇷🇴
+http://europatv.sytes.net:8008/Cristian@Roman/hMNkNg6kaG/33803
+
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇱
 https://cdn-nvm-chicago3.lolokoko.tv/elevensports1.stream/chunks.m3u8
 
@@ -320,6 +326,9 @@ http://178.219.128.68:64889/POLSSPORHD
 
 #EXTINF:-1,Polsat Sport NEWS 🇵🇱
 http://178.219.128.68:64889/POLSSPORNEWSHD
+
+#EXTINF:-1, TVP_Sport HD 🇵🇱
+http://109.233.89.166/TVP_Sport_HD/mono.m3u8
 
 #EXTINF:-1, Беларусь 5 🇧🇾
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
