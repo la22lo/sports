@@ -19,6 +19,9 @@ https://5.44.253.146:2096/live/163333/554432133/17507.ts
 http://5.troya.info:34000/ch2098/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B0poFvFWj7a8qV2HpTSisjDsU6EDIBiTdBZNPARJM6ie
 
 #EXTINF:-1, Bien sport 1 🇶🇦
+http://45.139.122.148:8000/play/a004
+
+#EXTINF:-1, Bien sport 1 🇶🇦
 https://cma.footballii.ir/hls2/b1.m3u8
 
 #EXTINF:-1, LIGA 🇪🇸
@@ -209,6 +212,33 @@ http://5.troya.info:34000/ch232/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B
 
 #EXTINF:-1, Bien sport 7 🇶🇦
 http://5.troya.info:34000/ch1062/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B0l31Im3F-6_ort5n-0SPVo5spIHlws8ulYNeF2eH38A
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+http://45.139.122.148:8000/play/a004
+
+#EXTINF:-1, Bien sport 2 🇶🇦
+http://45.139.122.148:8000/play/a005
+
+#EXTINF:-1, Bien sport 3 🇶🇦
+http://45.139.122.148:8000/play/a006
+
+#EXTINF:-1, Bien sport 4 🇶🇦
+http://45.139.122.148:8000/play/a007
+
+#EXTINF:-1, Bien sport 5 🇶🇦
+http://45.139.122.148:8000/play/a008
+
+#EXTINF:-1, Bien sport 6 🇶🇦
+http://45.139.122.148:8000/play/a009
+
+#EXTINF:-1, Bien sport 7 🇶🇦
+http://45.139.122.148:8000/play/a00a
+
+#EXTINF:-1, Bien sport 8 🇶🇦
+http://45.139.122.148:8000/play/a00b
+
+#EXTINF:-1, Bien sport 9 🇶🇦
+http://45.139.122.148:8000/play/a00c
 
 #EXTINF:-1, Bien sport 1 🇶🇦
 https://live4.beinconnect.us/YallaGoalApp/beINSports1.m3u8
