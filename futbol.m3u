@@ -847,6 +847,17 @@ http://109.105.201.198/ARENASPORT3/video.m3u8?token=test
 #EXTINF:-1, ARENA SPORT 4 🇭🇷
 http://109.105.201.198/ARENASPORT4/video.m3u8?token=test
 
+#EXTINF:-1, TNT SPORT 1 🇬🇧
+http://5.troya.info:34000/ch236/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B6wmRvXCU3bzr59AIzJOfwo_WYbKPDhdwGufMy6haHLK
+
+#EXTINF:-1, TNT SPORT 2 🇬🇧
+http://5.troya.info:34000/ch334/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B_ogSSS0Z7xEcYq9voGK7xQH5SHx-9RmblrVdeynRjUB
+
+#EXTINF:-1, TNT SPORT 3 🇬🇧
+http://5.troya.info:34000/ch233/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B4U4gfFvH_E8AtxIpSdu4ugVVlOotYR4Q1u5Qg_2rGEq
+
+
+
 
 #EXTINF:-1, Real Madrid TV 🇪🇸
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
