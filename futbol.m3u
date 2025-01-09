@@ -21,6 +21,9 @@ https://cdn-nvm-chicago3.lolokoko.tv/elevensports1.stream/chunks.m3u8
 #EXTINF:-1,SPORTV3 🇵🇹
 http://176.65.146.108:8022/play/a06j/index.m3u8
 
+#EXTINF:-1, DIGI SPORT 1 🇷🇴
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86413
+
 #EXTINF:-1, L'Equipe Live 1 🇫🇷
 https://jmp2.uk/sam-FRBC4200004XH.m3u8
 
