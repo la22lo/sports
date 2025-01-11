@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1, LIGA
+https://1111.koora-live.video/hls/0/stream.m3u8
+
+#EXTINF:-1, LIGA
+https://1111.koora-live.video/hls/1/stream.m3u8
+
 #EXTINF:-1, TV BAR 🇪🇸
 https://5.44.253.146:2096/live/163333/554432133/305875.ts
 
