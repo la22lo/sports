@@ -676,6 +676,9 @@ http://ott-cdn.ucom.am/s4/04.m3u8
 http://ott-cdn.ucom.am/s83/03.m3u8
 
 #EXTINF:-1, PERSIANA SPORT 🇮🇷
+https://live12.ir/sp/hls.html?link=https://wo.cma.footballii.ir/hls2/persiana.m3u8&title=persiana
+
+#EXTINF:-1, PERSIANA SPORT 🇮🇷
 https://spstr.abntv.live/hls/psstream.m3u8
 
 #EXTINF:-1, PERSIANA SPORT 🇮🇷
@@ -981,6 +984,9 @@ https://shls-masr2-enc.edgenextcdn.net:443/out/v1/f683685242b549f48ea8a5171e3e99
 
 #EXTINF:-1, MBC Masr 2 🇸🇦
 https://shls-masr2-enc.edgenextcdn.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_6.m3u8
+
+#EXTINF:-1, SOLH SPORT 🇦🇫
+https://live12.ir/sp/hls.html?link=https://wo.cma.footballii.ir/hls2/solhtv.m3u8&title=solhsport
 
 #EXTINF:-1, SOLH SPORT 🇦🇫
 https://cma.footballii.ir/hls2/solhtv.m3u8
