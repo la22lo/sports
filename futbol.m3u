@@ -15,6 +15,18 @@ https://shls-masr2-enc.edgenextcdn.net:443/out/v1/f683685242b549f48ea8a5171e3e99
 #EXTINF:-1, MBC Masr 2 🇸🇦
 https://shls-masr2-enc.edgenextcdn.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_6.m3u8
 
+#EXTINF:-1, ARAB 🇸🇦
+https://3333.koora-live.video/hls/0/stream.m3u8
+
+#EXTINF:-1, ARAB 🇸🇦
+https://3333.koora-live.video/hls/1/stream.m3u8
+
+#EXTINF:-1, ESPN 🇺🇸
+https://hostnetword.lol/live/1/chunks.m3u8?bongls.com
+
+#EXTINF:-1, ESPN 🇺🇸
+https://sparkforge.store/live/1/chunks.m3u8?bongls.com
+
 #EXTINF:-1, TV BAR 🇪🇸
 https://5.44.253.146:2096/live/163333/554432133/305875.ts
 
