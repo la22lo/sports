@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, SKY SPORTS 🇲🇽
+https://cdnhd.iblups.com/hls/7EPHO63NC4.m3u8
+
 #EXTINF:-1, MBC Masr 2 🇸🇦
 https://shls-masr2-enc.edgenextcdn.net:443/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
 
