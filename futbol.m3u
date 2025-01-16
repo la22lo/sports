@@ -1,44 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, SOLH SPORT 🇦🇫
-https://cma.footballii.ir/hls2/solhtv.m3u8
-
-#EXTINF:-1, SOLH SPORT 🇦🇫
-https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
-
-#EXTINF:-1, ESPN DEPORTES 🇺🇸
-https://elkiosko@hastycast.live/hls/377qj1h890g40.m3u8?st=Q-zao1ljlyrVqr6N8Y1bVE-Np67eIKqX-IAis5SBbuE&e=1735945042
-
-#EXTINF:-1, ESPN DEPORTES 🇺🇸
-https://hastycast.live/hls/377qj1h890g40.m3u8
-
-#EXTINF:-1, ELEVEN SPORT 1 🇵🇱
-http://109.233.89.166/Eleven_Sports_1_HD/mono.m3u8
-
-#EXTINF:-1, ELEVEN SPORT 1 🇵🇱
-https://cdn-nvm-chicago3.lolokoko.tv/elevensports1.stream/chunks.m3u8
-
-#EXTINF:-1,SPORTV3 🇵🇹
-http://176.65.146.108:8022/play/a06j/index.m3u8
-
-#EXTINF:-1, DIGI SPORT 1 🇷🇴
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86413
-
-#EXTINF:-1, L'Equipe Live 1 🇫🇷
-https://jmp2.uk/sam-FRBC4200004XH.m3u8
-
-#EXTINF:-1,bTV Action HD 🇧🇬
-http://195.24.90.119:800/play/a0aw
-
-#EXTINF:-1,bTV Action 🇧🇬
-http://195.24.90.119:800/play/a099
-
-#EXTINF:-1,SKY SPORTS 3 
-https://handshakegen.xyz/live/1/chunks.m3u8?bongls.com
-
-#EXTINF:-1,SKY SPORTS 3 
-https://securetoolideas.art/live/1/chunks.m3u8?bongls.com
-
 #EXTINF:-1, D LIGA 🇪🇸
 https://5.44.253.146:2096/live/163333/554432133/17508.ts
 
