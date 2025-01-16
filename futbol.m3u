@@ -417,6 +417,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66
 #EXTINF:-1, Scooore 🇩🇪
 https://jmp2.uk/sam-ATBD26000124P.m3u8
 
+#EXTINF:-1, T SPORT 🇮🇳
+http://103.96.235.18:8080/sports1/index.m3u8
+
 #EXTINF:-1, SPORT 18 (3) 🇮🇳
 http://15.235.181.35/live.ts?channelId=132374&uid=14505&deviceMac=00:1A:79:A7:53:75&id=18sports3
 
@@ -446,6 +449,15 @@ https://cdn-azd2046.telewebion.com/ek/tv3/live/720p/index.m3u8?isp=NA&city=NA
 
 #EXTINF:-1,NETO SPORTS 🇶🇦
 https://netohls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1, SSC1 🇸🇦
+https://live.eighty-eight.tv:8880/eighty-eight_SSC-Sports-1_A/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, SSC1 🇸🇦
+https://live.eighty-eight.tv:8880/eighty-eight_SSC-Sports-1_B/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, SSC1 🇸🇦
+https://live.eighty-eight.tv:8880/eighty-eight_SSC-Sports-1_A/index.m3u8
 
 #EXTINF:-1, Lenz Sport 🇸🇦
 https://ss.90minlive.online/sport/Lenz/chunks.m3u8
