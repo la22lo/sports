@@ -474,6 +474,9 @@ https://shls-masr2-enc.edgenextcdn.net:443/out/v1/f683685242b549f48ea8a5171e3e99
 #EXTINF:-1, MBC Masr 2 🇸🇦
 https://shls-masr2-enc.edgenextcdn.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_6.m3u8
 
+#EXTINF:-1, GEM SPORT 🇸🇦
+https://live12.ir/sp/hls.html?link=https://cdn.sainaertebat.com/hls/gemsport/stream.m3u8&title=GemSport
+
 #EXTINF:-1, Sport A 🇨🇳
 http://37.27.111.214:8080/live/13/hls.m3u8
 
