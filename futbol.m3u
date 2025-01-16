@@ -1,29 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, SKY SPORTS 🇲🇽
-https://cdnhd.iblups.com/hls/7EPHO63NC4.m3u8
-
-#EXTINF:-1, ESPN DEPORTES 🇺🇸
-https://Rp@securetoolideas.art/live/2/chunks.m3u8?bongls.com
-
-#EXTINF:-1, ESPN DEPORTES 🇺🇸
-https://Rp@nametopallsite.click/live/2/chunks.m3u8?bongls.com
-
-#EXTINF:-1, MBC Masr 2 🇸🇦
-https://shls-masr2-enc.edgenextcdn.net:443/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
-
-#EXTINF:-1, MBC Masr 2 🇸🇦
-https://shls-masr2-enc.edgenextcdn.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_6.m3u8
-
-#EXTINF:-1, ESPN 🇺🇸
-https://hostnetword.lol/live/1/chunks.m3u8?bongls.com
-
-#EXTINF:-1, ESPN 🇺🇸
-https://sparkforge.store/live/1/chunks.m3u8?bongls.com
-
-#EXTINF:-1, TV BAR 🇪🇸
-https://5.44.253.146:2096/live/163333/554432133/305875.ts
-
 #EXTINF:-1, SOLH SPORT 🇦🇫
 https://cma.footballii.ir/hls2/solhtv.m3u8
 
@@ -773,6 +749,12 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
 #EXTINF:-1, RTA SPORT 🇸🇦
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1, MBC Masr 2 🇸🇦
+https://shls-masr2-enc.edgenextcdn.net:443/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
+
+#EXTINF:-1, MBC Masr 2 🇸🇦
+https://shls-masr2-enc.edgenextcdn.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_6.m3u8
 
 #EXTINF:-1, Sport A 🇨🇳
 http://37.27.111.214:8080/live/13/hls.m3u8
