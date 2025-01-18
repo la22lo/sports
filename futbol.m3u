@@ -18,17 +18,17 @@ http://f01.live:8080/ManuelM/151022/135614
 #EXTINF:-1, Bien sport 3 🇶🇦
 http://45.139.122.148:8000/play/a006
 
+#EXTINF:-1, ARENA 2 PREMIUM 🇷🇸
+http://f01.live:8080/ManuelM/151022/640578
+
+#EXTINF:-1, ARENA 1 🇭🇷
+http://f01.live:8080/ManuelM/151022/640558
+
 #EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇹
 http://176.65.146.108:8022/play/a06r/index.m3u8
 
 #EXTINF:-1, ELEVEN SPORTS 2 HD 🇵🇹
 http://176.65.146.108:8022/play/a072/index.m3u8
-
-#EXTINF:-1, ARENA 1 PREMIUM 🇷🇸
-http://f01.live:8080/ManuelM/151022/640580
-
-#EXTINF:-1, ARENA 1 🇭🇷
-http://f01.live:8080/ManuelM/151022/640558
 
 #EXTINF:-1, TV BAR 🇪🇸
 https://p@www.vavoo.to/play/1980907224/index.m3u8
@@ -269,6 +269,9 @@ http://93.189.224.246:52900/play/a005/index.m3u8
 
 #EXTINF:-1, ARENA SPORT 5 🇭🇷
 http://f01.live:8080/ManuelM/151022/640550
+
+#EXTINF:-1, ARENA 1 PREMIUM 🇷🇸
+http://f01.live:8080/ManuelM/151022/640580
 
 #EXTINF:-1,TV1 🇪🇸
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
