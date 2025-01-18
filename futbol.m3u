@@ -9,6 +9,9 @@ https://hastycast.live/hls/377qj1h890g40.m3u8
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://190.92.10.66:4000/play/a003/index.m3u8
 
+#EXTINF:-1, Bien sport 1 🇶🇦
+http://45.139.122.148:8000/play/a004
+
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇱
 http://f01.live:8080/ManuelM/151022/135614
 
@@ -29,9 +32,6 @@ http://176.65.146.108:8022/play/a06r/index.m3u8
 
 #EXTINF:-1, TV BAR 🇪🇸
 https://p@www.vavoo.to/play/1980907224/index.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-http://45.139.122.148:8000/play/a004
 
 #EXTINF:-1, LIGA 🇪🇸
 https://marcosdos@www.oha.to/play/3461295847/index.m3u8
