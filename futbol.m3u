@@ -1,16 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1, Sport5 🇮🇱
-https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
-
 #EXTINF:-1, Bien sport 1 🇶🇦
 http://45.139.122.148:8000/play/a004
-
-#EXTINF:-1, SOLH SPORT 🇦🇫
-https://cma.footballii.ir/hls2/solhtv.m3u8
-
-#EXTINF:-1, SOLH SPORT 🇦🇫
-https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
 
 #EXTINF:-1, DIGI Sport 1 HD 🇷🇴
 http://89.238.193.38:8000/play/a061/index.m3u8
@@ -20,6 +11,15 @@ http://89.238.193.38:8000/play/a07c/index.m3u8
 
 #EXTINF:-1, PRIMA Sport 1 🇷🇴
 http://89.238.193.38:8000/play/a07z/index.m3u8
+
+#EXTINF:-1, SOLH SPORT 🇦🇫
+https://cma.footballii.ir/hls2/solhtv.m3u8
+
+#EXTINF:-1, SOLH SPORT 🇦🇫
+https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
+
+#EXTINF:-1, Sport5 🇮🇱
+https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 
 #EXTINF:-1,SPORTV5 🇵🇹
 http://176.65.146.108:8022/play/a06f/index.m3u8
