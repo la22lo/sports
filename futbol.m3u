@@ -24,6 +24,9 @@ http://109.105.201.198/ARENASPORT1/video.m3u8?token=test
 #EXTINF:-1, Fast Sports 🇦🇲
 http://stream01.vnet.am/Channel_131/mono.m3u8
 
+#EXTINF:-1, Bien sport 1 🇶🇦
+http://x1.gvniptv4k.com:80/live/metpolvr004mg/52chub4ed/190198.ts
+
 #EXTINF:-1, MAX SPORT 3 🇧🇬
 http://raalbatros.serv00.net/Gledai.php?ID=maxsport3
 
