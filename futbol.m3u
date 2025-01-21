@@ -1,5 +1,133 @@
 #EXTM3U
 
+#EXTINF:-1, Sport5 🇮🇱
+https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
+
+#EXTINF:-1, SKY SPORT CALCIO 🇮🇹
+http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/39.ts
+
+#EXTINF:-1, TV8 🇮🇹
+http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/52869.ts
+
+#EXTINF:-1, SKY SPORT 254 🇮🇹
+http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/38947.ts
+
+#EXTINF:-1, PRIMA SPORT 1 🇷🇴
+http://193.106.124.204:8002/play/a01l
+
+#EXTINF:-1, ELEVEN SPORTS 2 HD 🇵🇹
+http://176.65.146.108:8022/play/a072/index.m3u8
+
+#EXTINF:-1,ELEVEN SPORTS 2 HD 🇵🇹
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27030
+
+#EXTINF:-1, ARENA SPORT 3 🇭🇷
+http://109.105.201.198/ARENASPORT3/video.m3u8?token=test
+
+#EXTINF:-1, Fast Sports 🇦🇲
+http://stream01.vnet.am/Channel_131/mono.m3u8
+
+#EXTINF:-1, MAX SPORT 3 🇧🇬
+http://raalbatros.serv00.net/Gledai.php?ID=maxsport3
+
+#EXTINF:-1,bTV Action HD 🇧🇬
+http://195.24.90.119:800/play/a0aw
+
+#EXTINF:-1,bTV Action 🇧🇬
+http://195.24.90.119:800/play/a099
+
+#EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇹
+http://176.65.146.108:8022/play/a06r/index.m3u8
+
+#EXTINF:-1, ELEVEN 1 🇵🇹
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27028
+
+#EXTINF:-1, ARENA SPORT 2 🇭🇷
+http://109.105.201.198/Arenasport2/video.m3u8?token=test
+
+#EXTINF:-1, TRING SPORT 🇦🇱
+http://42490-fred.oot-mx.me:80/live/63d576d12c/747308777cbd/116211.m3u8
+
+#EXTINF:-1, ARENA PREMIUM 1 🇷🇸
+http://42490-fred.oot-mx.me:80/live/63d576d12c/747308777cbd/801855.m3u8
+
+#EXTINF:-1, ARENA SPORT 2 🇭🇷
+http://42490-fred.oot-mx.me:80/live/63d576d12c/747308777cbd/110736.m3u8
+
+#EXTINF:-1, Unimas Miami 🇲🇽🇺🇸
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.m3u8
+
+#EXTINF:-1, SKY SPORT 253 🇮🇹
+http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/203.ts
+
+#EXTINF:-1, SKY SPORT 257 🇮🇹
+http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/193.ts
+
+#EXTINF:-1, ELEVEN SPORTS 3 HD 🇵🇹
+http://176.65.146.108:8022/play/a073/index.m3u8
+
+#EXTINF:-1, TRT 1 🇹🇷
+https://trt.daioncdn.net/trt-1/master.m3u8?app=web
+
+#EXTINF:-1, TRT 1 🇹🇷
+https://trt.daioncdn.net/trt-1/master.m3u8?app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2
+
+#EXTINF:-1, TRT 1 🇹🇷
+https://trt.daioncdn.net/trt-1/master.m3u8?app=e435840d-2653-45a3-afef-082d4ea998f3
+
+#EXTINF:-1, ESPN PREMIUM 🇦🇷
+http://45.71.254.1:8000/play/a06m/index.m3u8
+
+#EXTINF:-1, ESPN PREMIUM 🇦🇷
+http://190.102.246.93:9005/play/a00x
+
+#EXTINF:-1, ESPN 2 🇨🇴
+http://190.102.246.93:9005/play/a029
+
+#EXTINF:-1, ESPN 3 🇨🇴
+http://190.102.246.93:9005/play/a02l
+
+#EXTINF:-1, ESPN 4 🇨🇴
+http://190.102.246.93:9005/play/a019
+
+#EXTINF:-1, ESPN 6 🇨🇴
+http://190.102.246.93:9005/play/a02m
+
+#EXTINF:-1, ESPN 1 NORTE 🇩🇴
+http://45.71.254.1:8000/play/a0e6/index.m3u8
+
+#EXTINF:-1, ESPN 2 NORTE 🇩🇴
+http://45.71.254.1:8000/play/a0e7/index.m3u8
+
+#EXTINF:-1, CBS SPORT 🇺🇸
+https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
+#EXTINF:-1, ESPN 🇨🇱
+http://45.71.254.1:8000/play/a06k/index.m3u8
+
+#EXTINF:-1, ESPN VIVO 🇦🇷
+http://45.71.254.1:8000/play/a038/index.m3u8
+
+#EXTINF:-1, ESPN VIVO 🇦🇷
+http://45.71.254.1:8000/play/a01r/index.m3u8
+
+#EXTINF:-1, ESPN VIVO 🇦🇷
+http://168.227.131.66:8000/play/tfc0/index.m3u8
+
+#EXTINF:-1, ARENA SPORT 1 🇭🇷
+http://109.105.201.198/ARENASPORT1/video.m3u8?token=test
+
+#EXTINF:-1, ARENA SPORT 3 🇭🇷
+http://109.105.201.198/ARENASPORT3/video.m3u8?token=test
+
+#EXTINF:-1, ARENA SPORT 4 🇭🇷
+http://109.105.201.198/ARENASPORT4/video.m3u8?token=test
+
+
+
+
+
+
 #EXTINF:-1, ESPN DEPORTES 🇺🇸
 https://elkiosko@hastycast.live/hls/377qj1h890g40.m3u8?st=Q-zao1ljlyrVqr6N8Y1bVE-Np67eIKqX-IAis5SBbuE&e=1735945042
 
@@ -536,129 +664,6 @@ https://d3qg0hadt0dkov.cloudfront.net:443/amgtennisus/playlist1080_p.m3u8
 
 
 
-
-#EXTINF:-1, Sport5 🇮🇱
-https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
-
-#EXTINF:-1, SKY SPORT CALCIO 🇮🇹
-http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/39.ts
-
-#EXTINF:-1, TV8 🇮🇹
-http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/52869.ts
-
-#EXTINF:-1, SKY SPORT 254 🇮🇹
-http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/38947.ts
-
-#EXTINF:-1, PRIMA SPORT 1 🇷🇴
-http://193.106.124.204:8002/play/a01l
-
-#EXTINF:-1, ELEVEN SPORTS 2 HD 🇵🇹
-http://176.65.146.108:8022/play/a072/index.m3u8
-
-#EXTINF:-1,ELEVEN SPORTS 2 HD 🇵🇹
-http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27030
-
-#EXTINF:-1, ARENA SPORT 3 🇭🇷
-http://109.105.201.198/ARENASPORT3/video.m3u8?token=test
-
-#EXTINF:-1, Fast Sports 🇦🇲
-http://stream01.vnet.am/Channel_131/mono.m3u8
-
-#EXTINF:-1, MAX SPORT 3 🇧🇬
-http://raalbatros.serv00.net/Gledai.php?ID=maxsport3
-
-#EXTINF:-1,bTV Action HD 🇧🇬
-http://195.24.90.119:800/play/a0aw
-
-#EXTINF:-1,bTV Action 🇧🇬
-http://195.24.90.119:800/play/a099
-
-#EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇹
-http://176.65.146.108:8022/play/a06r/index.m3u8
-
-#EXTINF:-1, ELEVEN 1 🇵🇹
-http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27028
-
-#EXTINF:-1, ARENA SPORT 2 🇭🇷
-http://109.105.201.198/Arenasport2/video.m3u8?token=test
-
-#EXTINF:-1, TRING SPORT 🇦🇱
-http://42490-fred.oot-mx.me:80/live/63d576d12c/747308777cbd/116211.m3u8
-
-#EXTINF:-1, ARENA PREMIUM 1 🇷🇸
-http://42490-fred.oot-mx.me:80/live/63d576d12c/747308777cbd/801855.m3u8
-
-#EXTINF:-1, ARENA SPORT 2 🇭🇷
-http://42490-fred.oot-mx.me:80/live/63d576d12c/747308777cbd/110736.m3u8
-
-#EXTINF:-1, Unimas Miami 🇲🇽🇺🇸
-http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.m3u8
-
-#EXTINF:-1, SKY SPORT 253 🇮🇹
-http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/203.ts
-
-#EXTINF:-1, SKY SPORT 257 🇮🇹
-http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/193.ts
-
-#EXTINF:-1, ELEVEN SPORTS 3 HD 🇵🇹
-http://176.65.146.108:8022/play/a073/index.m3u8
-
-#EXTINF:-1, TRT 1 🇹🇷
-https://trt.daioncdn.net/trt-1/master.m3u8?app=web
-
-#EXTINF:-1, TRT 1 🇹🇷
-https://trt.daioncdn.net/trt-1/master.m3u8?app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2
-
-#EXTINF:-1, TRT 1 🇹🇷
-https://trt.daioncdn.net/trt-1/master.m3u8?app=e435840d-2653-45a3-afef-082d4ea998f3
-
-#EXTINF:-1, ESPN PREMIUM 🇦🇷
-http://45.71.254.1:8000/play/a06m/index.m3u8
-
-#EXTINF:-1, ESPN PREMIUM 🇦🇷
-http://190.102.246.93:9005/play/a00x
-
-#EXTINF:-1, ESPN 2 🇨🇴
-http://190.102.246.93:9005/play/a029
-
-#EXTINF:-1, ESPN 3 🇨🇴
-http://190.102.246.93:9005/play/a02l
-
-#EXTINF:-1, ESPN 4 🇨🇴
-http://190.102.246.93:9005/play/a019
-
-#EXTINF:-1, ESPN 6 🇨🇴
-http://190.102.246.93:9005/play/a02m
-
-#EXTINF:-1, ESPN 1 NORTE 🇩🇴
-http://45.71.254.1:8000/play/a0e6/index.m3u8
-
-#EXTINF:-1, ESPN 2 NORTE 🇩🇴
-http://45.71.254.1:8000/play/a0e7/index.m3u8
-
-#EXTINF:-1, CBS SPORT 🇺🇸
-https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-
-#EXTINF:-1, ESPN 🇨🇱
-http://45.71.254.1:8000/play/a06k/index.m3u8
-
-#EXTINF:-1, ESPN VIVO 🇦🇷
-http://45.71.254.1:8000/play/a038/index.m3u8
-
-#EXTINF:-1, ESPN VIVO 🇦🇷
-http://45.71.254.1:8000/play/a01r/index.m3u8
-
-#EXTINF:-1, ESPN VIVO 🇦🇷
-http://168.227.131.66:8000/play/tfc0/index.m3u8
-
-#EXTINF:-1, ARENA SPORT 1 🇭🇷
-http://109.105.201.198/ARENASPORT1/video.m3u8?token=test
-
-#EXTINF:-1, ARENA SPORT 3 🇭🇷
-http://109.105.201.198/ARENASPORT3/video.m3u8?token=test
-
-#EXTINF:-1, ARENA SPORT 4 🇭🇷
-http://109.105.201.198/ARENASPORT4/video.m3u8?token=test
 
 
 
