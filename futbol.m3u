@@ -27,6 +27,9 @@ http://stream01.vnet.am/Channel_131/mono.m3u8
 #EXTINF:-1, MAX SPORT 3 🇧🇬
 http://raalbatros.serv00.net/Gledai.php?ID=maxsport3
 
+#EXTINF:-1, ARENA 3 PREMIUM 🇷🇸
+http://f01.live:8080/ManuelM/151022/640576
+
 #EXTINF:-1, Unimas Miami 🇲🇽🇺🇸
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.m3u8
 
