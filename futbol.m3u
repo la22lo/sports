@@ -9,9 +9,6 @@ http://45.139.122.148:8000/play/a004
 #EXTINF:-1,SPORTV5 🇵🇹
 http://176.65.146.108:8022/play/a06f/index.m3u8
 
-#EXTINF:-1, PRIMA SPORT 1 🇷🇴
-http://193.106.124.204:8002/play/a01l
-
 #EXTINF:-1, ARENA 1 🇭🇷
 http://f01.live:8080/ManuelM/151022/640558
 
@@ -118,18 +115,6 @@ https://hastycast.live/hls/377qj1h890g40.m3u8
 
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://190.92.10.66:4000/play/a003/index.m3u8
-
-#EXTINF:-1, MADRID
-https://3.hajma.online/hls/0/stream.m3u8
-
-#EXTINF:-1, MADRID
-https://3.hajma.online/hls/1/stream.m3u8
-
-#EXTINF:-1, MADRID
-https://tvpull.careryun.com/live/ballbar_23840.m3u8
-
-#EXTINF:-1, MADRID
-https://echocraft.store/live/4/chunks.m3u8?bongls.com
 
 #EXTINF:-1, Bien sport 3 🇶🇦
 http://45.139.122.148:8000/play/a006
