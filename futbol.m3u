@@ -33,6 +33,9 @@ http://stream01.vnet.am/Channel_131/mono.m3u8
 #EXTINF:-1, TEN SPORTS 🇮🇳
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
+#EXTINF:-1, Ring 🇧🇬
+http://195.24.90.119:800/play/a0b3
+
 #EXTINF:-1, SOLH SPORT 🇦🇫
 https://cma.footballii.ir/hls2/solhtv.m3u8
 
