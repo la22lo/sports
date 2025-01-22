@@ -12,6 +12,12 @@ http://89.238.193.38:8000/play/a075/index.m3u8
 #EXTINF:-1, PRIMA Sport 2 🇷🇴
 http://89.238.193.38:8000/play/a08h/index.m3u8
 
+#EXTINF:-1, ELEVEN SPORTS 2 HD 🇵🇹
+http://176.65.146.108:8022/play/a072/index.m3u8
+
+#EXTINF:-1,ELEVEN SPORTS 2 HD 🇵🇹
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27030
+
 #EXTINF:-1, SOLH SPORT 🇦🇫
 https://cma.footballii.ir/hls2/solhtv.m3u8
 
@@ -65,12 +71,6 @@ http://176.65.146.108:8022/play/a06r/index.m3u8
 
 #EXTINF:-1, ELEVEN 1 🇵🇹
 http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27028
-
-#EXTINF:-1, ELEVEN SPORTS 2 HD 🇵🇹
-http://176.65.146.108:8022/play/a072/index.m3u8
-
-#EXTINF:-1,ELEVEN SPORTS 2 HD 🇵🇹
-http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27030
 
 #EXTINF:-1, ELEVEN SPORTS 3 HD 🇵🇹
 http://176.65.146.108:8022/play/a073/index.m3u8
