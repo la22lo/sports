@@ -27,6 +27,12 @@ http://185.236.229.62:9981/play/a05i
 #EXTINF:-1, ARENA SPORT 3 🇭🇷
 http://109.105.201.198/ARENASPORT3/video.m3u8?token=test
 
+#EXTINF:-1, Fast Sports 🇦🇲
+http://stream01.vnet.am/Channel_131/mono.m3u8
+
+#EXTINF:-1, TEN SPORTS 🇮🇳
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+
 #EXTINF:-1, SOLH SPORT 🇦🇫
 https://cma.footballii.ir/hls2/solhtv.m3u8
 
@@ -39,14 +45,8 @@ https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 #EXTINF:-1,SPORTV5 🇵🇹
 http://176.65.146.108:8022/play/a06f/index.m3u8
 
-#EXTINF:-1, Fast Sports 🇦🇲
-http://stream01.vnet.am/Channel_131/mono.m3u8
-
 #EXTINF:-1, MAX SPORT 3 🇧🇬
 http://raalbatros.serv00.net/Gledai.php?ID=maxsport3
-
-#EXTINF:-1, TEN SPORTS 🇮🇳
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
 #EXTINF:-1, TNT SPORTS 1 🇬🇧
 http://f01.live:8080/ManuelM/151022/135650
