@@ -18,6 +18,9 @@ https://wo.cma.footballii.ir/hls2/b1.m3u8
 #EXTINF:-1, PERSIANA SPORT 🇮🇷
 https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
 
+#EXTINF:-1, TRUE VISION 3 🇹🇭
+http://myserver.myphuket.net:25461/test2/test2/50
+
 #EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇹
 http://176.65.146.108:8022/play/a06r/index.m3u8
 
