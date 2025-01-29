@@ -6,20 +6,20 @@ https://cma.footballii.ir/hls2/solhtv.m3u8
 #EXTINF:-1, SOLH SPORT 🇦🇫
 https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
 
-#EXTINF:-1, ESPN 1 NORTE 🇩🇴
-http://45.71.254.1:8000/play/a0e6/index.m3u8
-
 #EXTINF:-1, Bien sport 3 🇶🇦
 http://45.139.122.148:8000/play/a006
+
+#EXTINF:-1, Bien sport 3 🇶🇦
+http://het125a.4rouwanda-shop.store/live/645587700/index.m3u8
+
+#EXTINF:-1, ESPN 1 NORTE 🇩🇴
+http://45.71.254.1:8000/play/a0e6/index.m3u8
 
 #EXTINF:-1, DIGI Sport 2 🇷🇴
 http://89.238.193.38:8000/play/a075/index.m3u8
 
 #EXTINF:-1, PRIMA Sport 2 🇷🇴
 http://89.238.193.38:8000/play/a08h/index.m3u8
-
-#EXTINF:-1, Bien sport 3 🇶🇦
-http://het125a.4rouwanda-shop.store/live/645587700/index.m3u8
 
 #EXTINF:-1, S CHAMP 🇸🇦
 https://2.hajma.online/hls/0/stream.m3u8
