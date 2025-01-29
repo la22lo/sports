@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1, SOLH SPORT 🇦🇫
+https://cma.footballii.ir/hls2/solhtv.m3u8
+
+#EXTINF:-1, SOLH SPORT 🇦🇫
+https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
+
 #EXTINF:-1, ESPN 1 NORTE 🇩🇴
 http://45.71.254.1:8000/play/a0e6/index.m3u8
 
@@ -53,12 +59,6 @@ https://4.hajma.online/hls/1/stream.m3u8
 
 #EXTINF:-1, CHAMP 🇿🇦
 https://unixetersport.my/live/1/chunks.m3u8?bongls.com
-
-#EXTINF:-1, SOLH SPORT 🇦🇫
-https://cma.footballii.ir/hls2/solhtv.m3u8
-
-#EXTINF:-1, SOLH SPORT 🇦🇫
-https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
 
 #EXTINF:-1, Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
