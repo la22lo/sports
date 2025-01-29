@@ -552,6 +552,9 @@ http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1, SPORT NETWORK 🇺🇸
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports.m3u8
 
+#EXTINF:-1, AYM SPORT 🇺🇸
+https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
+
 #EXTINF:-1, NovaSports 2 🇬🇷
 http://cdn.ottshow.net:80/kanaliURedirect2442/kd0dk39dkyxs0A/81189
 
