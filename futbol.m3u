@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1, SSC1 🇸🇦
+https://live.eighty-eight.tv:8880/eighty-eight_SSC-Sports-1_A/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, SSC1 🇸🇦
+https://live.eighty-eight.tv:8880/eighty-eight_SSC-Sports-1_B/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, SSC1 🇸🇦
+https://live.eighty-eight.tv:8880/eighty-eight_SSC-Sports-1_A/index.m3u8
+
 #EXTINF:-1, SOLH SPORT 🇦🇫
 https://cma.footballii.ir/hls2/solhtv.m3u8
 
