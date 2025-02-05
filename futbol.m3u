@@ -9,6 +9,9 @@ https://live.eighty-eight.tv:8880/eighty-eight_SSC-Sports-1_B/tracks-v1a1/mono.t
 #EXTINF:-1, SSC1 🇸🇦
 https://live.eighty-eight.tv:8880/eighty-eight_SSC-Sports-1_A/index.m3u8
 
+#EXTINF:-1, PERSIANA SPORT 🇮🇷
+https://spstr.abntv.live/hls/psstream.m3u8
+
 #EXTINF:-1, SOLH SPORT 🇦🇫
 https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
 
@@ -24,7 +27,8 @@ http://109.233.89.166/TVP_Sport_HD/mono.m3u8
 #EXTINF:-1, DIGI Sport 2 🇷🇴
 http://89.238.193.38:8000/play/a075/index.m3u8
 
-
+#EXTINF:-1,4Sports 🇮🇱
+https://hls.pokertvfa.live/hls/stream.m3u8
 
 
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
