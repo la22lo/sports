@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1, SOLH SPORT 🇦🇫
+https://cma.footballii.ir/hls2/solhtv.m3u8
+
+#EXTINF:-1, SOLH SPORT 🇦🇫
+https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
+
+
+
+
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://190.92.10.66:4000/play/a003/index.m3u8
 
