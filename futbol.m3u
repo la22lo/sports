@@ -1,24 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, SOLH SPORT 🇦🇫
-https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
-
-#EXTINF:-1,Sport TV 1 HD 🇵🇹
-http://195.23.75.15:8000/udp/239.100.6.21:1234
-
-#EXTINF:-1, MAX SPORT 4 🇧🇬
-http://raalbatros.serv00.net/Gledai.php?ID=maxsport4
-
-#EXTINF:-1, TVP_Sport HD 🇵🇱
-http://109.233.89.166/TVP_Sport_HD/mono.m3u8
-
-#EXTINF:-1, DIGI Sport 2 🇷🇴
-http://89.238.193.38:8000/play/a075/index.m3u8
-
-#EXTINF:-1,4Sports 🇮🇱
-https://hls.pokertvfa.live/hls/stream.m3u8
-
-
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://190.92.10.66:4000/play/a003/index.m3u8
 
@@ -468,6 +449,9 @@ https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2164&device=2b6073bc96d
 
 #EXTINF:-1, Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
+
+#EXTINF:-1,4Sports 🇮🇱
+https://hls.pokertvfa.live/hls/stream.m3u8
 
 #EXTINF:-1, SPORT RU 🇷🇺
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
