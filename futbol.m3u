@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, DIGI Sport 3 🇷🇴
+http://89.238.193.38:8000/play/a07d/index.m3u8
+
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://190.92.10.66:4000/play/a003/index.m3u8
 
