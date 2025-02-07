@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, PERSIANA SPORT 🇮🇷
-https://spstr.abntv.live/hls/psstream.m3u8
-
 #EXTINF:-1, SOLH SPORT 🇦🇫
 https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
 
@@ -42,6 +39,9 @@ https://wo.cma.footballii.ir/hls2/b1.m3u8
 
 #EXTINF:-1, PERSIANA SPORT 🇮🇷
 https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
+
+#EXTINF:-1, PERSIANA SPORT 🇮🇷
+https://spstr.abntv.live/hls/psstream.m3u8
 
 #EXTINF:-1, PERSIANA SPORT 🇮🇷
 https://stream.live12.ir/hls2/persiana.m3u8
