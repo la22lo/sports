@@ -51,6 +51,9 @@ http://89.238.193.38:8000/play/a08h/index.m3u8
 #EXTINF:-1, ESPN 1 NORTE 🇩🇴
 http://45.71.254.1:8000/play/a0e6/index.m3u8
 
+#EXTINF:-1, SONY TEN 1 🇮🇳
+https://cdn.hoichoi24.com/sonyten1hd/video.m3u8
+
 #EXTINF:-1, ELEVEN SPORTS 2 HD 🇵🇹
 http://176.65.146.108:8022/play/a072/index.m3u8
 
