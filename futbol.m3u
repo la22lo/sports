@@ -706,6 +706,9 @@ http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 #EXTINF:-1,STAR SPORTS 1 🇮🇳
 http://41.205.93.154/STARSPORTS1/index.m3u8
 
+#EXTINF:-1,WILLOW TV 🇮🇳
+https://zekonew.iosplayer.ru/zeko/premium346/mono.m3u8?token=none
+
 #EXTINF:-1, SPOTV 🇲🇾
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 
