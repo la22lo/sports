@@ -795,6 +795,9 @@ https://cdn-azd2046.telewebion.com/ek/tv3/live/720p/index.m3u8?isp=NA&city=NA
 #EXTINF:-1,NETO SPORTS 🇶🇦
 https://netohls.wns.live/hls/stream.m3u8
 
+#EXTINF:-1,ALFAJR 🇪🇬
+http://platform.topuphost.com:8577/live/alfajr.stream/playlist.m3u8
+
 #EXTINF:-1, SSC1 🇸🇦
 https://live.eighty-eight.tv:8880/eighty-eight_SSC-Sports-1_A/tracks-v1a1/mono.ts.m3u8
 
