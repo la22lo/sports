@@ -183,6 +183,9 @@ https://streamer1.nexgen.bz/SPORTSMAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TNT SPORTS 1 🇬🇧
 http://176.97.123.29/live.ts?channelId=267&uid=8&deviceMac=00:1A:79:6A:43:86
 
+#EXTINF:-1,TNT SPORTS 1 🇬🇧
+https://cma.footballii.ir/hls2/tnt1.m3u8
+
 #EXTINF:-1,TNT SPORTS 2 🇬🇧
 http://176.97.123.29/live.ts?channelId=268&uid=8&deviceMac=00:1A:79:6A:43:86
 
