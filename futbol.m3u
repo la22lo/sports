@@ -108,9 +108,6 @@ http://195.24.90.119:800/play/a0b3
 #EXTINF:-1,SPORTV5 🇵🇹
 http://176.65.146.108:8022/play/a06f/index.m3u8
 
-#EXTINF:-1, TNT SPORTS 2 🇬🇧
-https://cdn.hoichoi24.com/tntsports2hd/video.m3u8
-
 #EXTINF:-1, ARENA 3 PREMIUM 🇷🇸
 http://f01.live:8080/ManuelM/151022/640576
 
@@ -188,6 +185,12 @@ http://176.97.123.29/live.ts?channelId=267&uid=8&deviceMac=00:1A:79:6A:43:86
 
 #EXTINF:-1,TNT SPORTS 2 🇬🇧
 http://176.97.123.29/live.ts?channelId=268&uid=8&deviceMac=00:1A:79:6A:43:86
+
+#EXTINF:-1, TNT SPORTS 2 🇬🇧
+https://cdn.hoichoi24.com/tntsports2hd/video.m3u8
+
+#EXTINF:-1,TNT SPORTS 3 🇬🇧
+http://176.97.123.29/live.ts?channelId=269&uid=8&deviceMac=00:1A:79:6A:43:86
 
 
 
