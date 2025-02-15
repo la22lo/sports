@@ -21,6 +21,9 @@ https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-3_A/index.m3u8
 #EXTINF:-1, Bien sport 3 🇶🇦
 https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-3_A/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1,ALFAJR 🇪🇬
+http://platform.topuphost.com:8577/live/alfajr.stream/playlist.m3u8
+
 #EXTINF:-1, Bien sport 3 🇶🇦
 http://45.139.122.148:8000/play/a006
 
