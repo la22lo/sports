@@ -33,6 +33,9 @@ https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1, PERSIANA SPORT 🇮🇷
 https://stream.live12.ir/hls2/persiana.m3u8
 
+#EXTINF:-1,DAZN 2 HD 🇵🇹
+http://195.23.75.15:8000/udp/239.100.6.49:1234
+
 #EXTINF:-1, Fast Sports 🇦🇲
 http://stream01.vnet.am/Channel_131/mono.m3u8
 
