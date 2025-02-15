@@ -426,6 +426,9 @@ https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2120&device=2b6073bc96d
 #EXTINF:-1, JOJ Sport 🇨🇿
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2164&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=172664301
 
+#EXTINF:-1, SPORTYTV 🇨🇿
+https://dash2.antik.sk/live/sporty_tv/index.m3u8
+
 #EXTINF:-1, Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 
