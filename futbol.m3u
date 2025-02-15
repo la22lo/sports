@@ -330,6 +330,15 @@ http://89.238.193.38:8000/play/a089/index.m3u8
 #EXTINF:-1, PRIMA Sport 3 🇷🇴
 http://89.238.193.38:8000/play/a080/index.m3u8
 
+#EXTINF:-1, SK1 🇭🇷
+http://nl.iptvsolution.info:80/sk1/index.m3u8?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+
+#EXTINF:-1, SK2 🇭🇷
+http://nl.iptvsolution.info:80/sk2/index.m3u8?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+
+#EXTINF:-1, SK3 🇭🇷
+http://nl.iptvsolution.info:80/sk3/index.m3u8?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+
 #EXTINF:-1,TV1 🇪🇸
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 
