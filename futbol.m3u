@@ -30,6 +30,9 @@ http://185.236.229.62:9981/play/a04c
 #EXTINF:-1, DIGI Sport 1 🇷🇴
 http://89.238.193.38:8000/play/a07c/index.m3u8
 
+#EXTINF:-1, PRIMA Sport 2 🇷🇴
+http://89.238.193.38:8000/play/a08h/index.m3u8
+
 #EXTINF:-1, Bien sport 1 🇶🇦
 http://45.139.122.148:8000/play/a004
 
