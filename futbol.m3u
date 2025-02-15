@@ -9,6 +9,18 @@ https://paco@liveua.score806.cc/espn1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 https://paco@liveua.score806.cc/espn1/index.m3u8
 
+#EXTINF:-1, Bien sport 3 🇶🇦
+http://45.139.122.148:8000/play/a006
+
+#EXTINF:-1, Bien sport 3 🇶🇦
+http://het125a.4rouwanda-shop.store/live/645587700/index.m3u8
+
+#EXTINF:-1, Bien sport 3 🇶🇦
+http://het120a.4rouwanda-shop.store/live/645587700/index.m3u8
+
+#EXTINF:-1, Bien sport 3 🇶🇦
+https://cma.footballii.ir/hls2/b3.m3u8
+
 #EXTINF:-1, Bien sport 1 🇶🇦
 http://45.139.122.148:8000/play/a004
 
@@ -50,18 +62,6 @@ https://streamer1.nexgen.bz/SPORTSMAX2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, PRIMA Sport 1 🇷🇴
 http://89.238.193.38:8000/play/a07z/index.m3u8
-
-#EXTINF:-1, Bien sport 3 🇶🇦
-http://45.139.122.148:8000/play/a006
-
-#EXTINF:-1, Bien sport 3 🇶🇦
-http://het125a.4rouwanda-shop.store/live/645587700/index.m3u8
-
-#EXTINF:-1, Bien sport 3 🇶🇦
-http://het120a.4rouwanda-shop.store/live/645587700/index.m3u8
-
-#EXTINF:-1, Bien sport 3 🇶🇦
-https://cma.footballii.ir/hls2/b3.m3u8
 
 #EXTINF:-1, TRUE VISION 3 🇹🇭
 http://myserver.myphuket.net:25461/test2/test2/50
