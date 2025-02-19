@@ -42,6 +42,9 @@ https://wo.cma.footballii.ir:443/hls2/b1_high.m3u8
 #EXTINF:-1, DIGI Sport 1 🇷🇴
 http://89.238.193.38:8000/play/a07c/index.m3u8
 
+#EXTINF:-1, DIGI Sport 1 🇷🇴
+https://p13.magicplaces.eu:443/digisport1hd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=35fc900816140f2e96bbfc96d898f1e7729cf338-275826c0f4bfff80139cf74a762ea5ca-1740004687-1739993887
+
 #EXTINF:-1, PRIMA Sport 1 🇷🇴
 http://89.238.193.38:8000/play/a07z/index.m3u8
 
