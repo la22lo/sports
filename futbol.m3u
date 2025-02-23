@@ -6,18 +6,6 @@ http://190.92.10.66:4000/play/a003/index.m3u8
 #EXTINF:-1, SOLH SPORT 🇦🇫
 https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
 
-#EXTINF:-1, Bien sport 1 🇶🇦
-https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-1_B/tracks-v1/index.fmp4.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-http://45.139.122.148:8000/play/a004
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-http://bdd78.4rouwanda-shop.store/live/918454578001/index.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-https://wo.cma.footballii.ir/hls2/b1.m3u8
-
 #EXTINF:-1, Bien sport 3 🇶🇦
 https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-3_A/tracks-v1a1/mono.ts.m3u8
 
@@ -47,6 +35,18 @@ https://dffgtrda.vffddd.online:8181/bein3/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1, Bien sport 3 🇶🇦
 https://dffgtrda.vffddd.online:8181/bein3/index.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-1_B/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+http://45.139.122.148:8000/play/a004
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+http://bdd78.4rouwanda-shop.store/live/918454578001/index.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+https://wo.cma.footballii.ir/hls2/b1.m3u8
 
 #EXTINF:-1, CANAL+ SPORT HD 🇵🇱
 http://185.236.229.62:9981/play/a04c
