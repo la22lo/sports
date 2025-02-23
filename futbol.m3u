@@ -21,15 +21,6 @@ http://platform.topuphost.com:8577/live/alfajr.stream/playlist.m3u8
 #EXTINF:-1, Bien sport 3 🇶🇦
 http://45.139.122.148:8000/play/a006
 
-#EXTINF:-1, PERSIANA SPORT 🇮🇷
-https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
-
-#EXTINF:-1, PERSIANA SPORT 🇮🇷
-https://spstr.abntv.live/hls/psstream.m3u8
-
-#EXTINF:-1, PERSIANA SPORT 🇮🇷
-https://stream.live12.ir/hls2/persiana.m3u8
-
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://raalbatros.serv00.net/Gledai.php?ID=maxsport4
 
@@ -50,6 +41,15 @@ http://45.5.117.182:8000/play/jnl0/index.m3u8
 
 #EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
 http://181.78.105.146:8800/play/a07h
+
+#EXTINF:-1, PERSIANA SPORT 🇮🇷
+https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
+
+#EXTINF:-1, PERSIANA SPORT 🇮🇷
+https://spstr.abntv.live/hls/psstream.m3u8
+
+#EXTINF:-1, PERSIANA SPORT 🇮🇷
+https://stream.live12.ir/hls2/persiana.m3u8
 
 #EXTINF:-1, Bien sport 1 🇶🇦
 http://45.139.122.148:8000/play/a004
