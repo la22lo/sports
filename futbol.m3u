@@ -15,6 +15,21 @@ http://raalbatros.serv00.net/Gledai.php?ID=maxsport4
 #EXTINF:-1,DAZN 2 HD 🇵🇹
 http://195.23.75.15:8000/udp/239.100.6.49:1234
 
+#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
+http://181.78.105.146:2000/play/a08m/index.m3u8
+
+#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
+http://190.92.10.66:4000/play/a001/index.m3u8
+
+#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
+http://181.78.109.49:8000/play/a06r/index.m3u8
+
+#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
+http://45.5.117.182:8000/play/jnl0/index.m3u8
+
+#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
+http://181.78.105.146:8800/play/a07h
+
 #EXTINF:-1, Bien sport 5 🇶🇦
 http://45.139.122.148:8000/play/a008
 
@@ -32,21 +47,6 @@ http://platform.topuphost.com:8577/live/alfajr.stream/playlist.m3u8
 
 #EXTINF:-1, Bien sport 3 🇶🇦
 http://45.139.122.148:8000/play/a006
-
-#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
-http://181.78.105.146:2000/play/a08m/index.m3u8
-
-#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
-http://190.92.10.66:4000/play/a001/index.m3u8
-
-#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
-http://181.78.109.49:8000/play/a06r/index.m3u8
-
-#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
-http://45.5.117.182:8000/play/jnl0/index.m3u8
-
-#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
-http://181.78.105.146:8800/play/a07h
 
 #EXTINF:-1,SPORTSMAX2 🇩🇴
 https://streamer1.nexgen.bz/SPORTSMAX2/tracks-v1a1/mono.m3u8
