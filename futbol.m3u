@@ -27,6 +27,9 @@ http://raalbatros.serv00.net/Gledai.php?ID=maxsport4
 #EXTINF:-1,ALFAJR 🇪🇬
 http://platform.topuphost.com:8577/live/alfajr.stream/playlist.m3u8
 
+#EXTINF:-1, S LALIGA 🇿🇦
+http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125442.ts
+
 #EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
 http://181.78.105.146:2000/play/a08m/index.m3u8
 
@@ -95,12 +98,6 @@ http://42490-fred.oot-mx.me:80/live/63d576d12c/747308777cbd/110732.m3u8
 
 #EXTINF:-1, Bein Sports 1 France 🇫🇷
 http://51.178.65.238/BeinSport/mono.m3u8
-
-#EXTINF:-1, МАТЧ! Футбол2 🇷🇺
-http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
-
-#EXTINF:-1, S LALIGA 🇿🇦
-http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125442.ts
 
 #EXTINF:-1, Turkmenistan Sport 🇹🇲
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
