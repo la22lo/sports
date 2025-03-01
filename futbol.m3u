@@ -3,6 +3,9 @@
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://190.92.10.66:4000/play/a003/index.m3u8
 
+#EXTINF:-1, Bien sport 1 🇶🇦
+http://45.139.122.148:8000/play/a004
+
 #EXTINF:-1, Bien 🇶🇦
 https://dffgtrdb.vffddd.online/bein3/index.m3u8
 
@@ -51,9 +54,6 @@ https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
 #EXTINF:-1,ALFAJR 🇪🇬
 http://platform.topuphost.com:8577/live/alfajr.stream/playlist.m3u8
 
-#EXTINF:-1, Bien sport 3 🇶🇦
-http://45.139.122.148:8000/play/a006
-
 #EXTINF:-1,SPORTSMAX2 🇩🇴
 https://streamer1.nexgen.bz/SPORTSMAX2/tracks-v1a1/mono.m3u8
 
@@ -65,9 +65,6 @@ https://spstr.abntv.live/hls/psstream.m3u8
 
 #EXTINF:-1, PERSIANA SPORT 🇮🇷
 https://stream.live12.ir/hls2/persiana.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-http://45.139.122.148:8000/play/a004
 
 #EXTINF:-1,DAZN 2 HD 🇵🇹
 http://195.23.75.15:8000/udp/239.100.6.49:1234
