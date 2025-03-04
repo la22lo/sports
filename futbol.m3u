@@ -301,6 +301,9 @@ http://42490-fred.oot-mx.me:80/live/63d576d12c/747308777cbd/110732.m3u8
 #EXTINF:-1, Bein Sports 1 France 🇫🇷
 http://51.178.65.238/BeinSport/mono.m3u8
 
+#EXTINF:-1, ZIGGO SPORT 🇳🇱
+https://sprintsex.pics/live/foot2/chunks.m3u8
+
 #EXTINF:-1, Turkmenistan Sport 🇹🇲
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
