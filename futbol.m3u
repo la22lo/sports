@@ -27,6 +27,9 @@ http://stream01.vnet.am/Channel_131/mono.m3u8
 #EXTINF:-1,Sport TV 5 HD 🇵🇹
 http://195.23.75.15:8000/udp/239.100.6.25:1234
 
+#EXTINF:-1, ARENA SPORT 1 🇭🇷
+http://109.105.201.198/ARENASPORT1/index.m3u8?token=test
+
 #EXTINF:-1, Bien sport 1 🇶🇦
 https://wo.cma.footballii.ir/hls2/b1.m3u8
 
@@ -44,9 +47,6 @@ http://platform.topuphost.com:8577/live/alfajerhd.stream/chunklist_w244765454.m3
 
 #EXTINF:-1, TEN SPORTS 🇮🇳
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-
-#EXTINF:-1, ARENA SPORT 1 🇭🇷
-http://109.105.201.198/ARENASPORT1/video.m3u8?token=test
 
 #EXTINF:-1, Bien sport 2 🇶🇦
 https://dokko1new.iosplayer.ru/dokko1/premium92/mono.m3u8
