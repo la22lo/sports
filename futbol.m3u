@@ -418,6 +418,9 @@ http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
 #EXTINF:-1, Матч! Футбол 3 HD 🇷🇺
 http://185.57.68.33/110/mpegts
 
+#EXTINF:-1, Футбол 🇷🇺
+http://flu.ttk.mx:90/Futbol/mono.m3u8?token=hs06e
+
 #EXTINF:-1, Setanta Sports 1 🇺🇦
 https://hls.sweet.tv/stream/qfq2fp954aui9guc8e4d5526tu8uudcnyj342af9kxq8sry8g7n44bwe5rw4k6q68mxhy99h7z5abid8gkju2pcund6c4x89hq96789999.m3u8
 
