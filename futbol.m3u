@@ -3,6 +3,15 @@
 #EXTINF:-1, SOLH SPORT 🇦🇫
 https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
 
+#EXTINF:-1, Bien sport 2 🇶🇦
+http://45.139.122.148:8000/play/a005
+
+#EXTINF:-1,TNT SPORTS 3 🇬🇧
+http://176.97.123.29/live.ts?channelId=269&uid=8&deviceMac=00:1A:79:6A:43:86
+
+#EXTINF:-1, Fast Sports 🇦🇲
+http://stream01.vnet.am/Channel_131/mono.m3u8
+
 #EXTINF:-1, PERSIANA SPORT 🇮🇷
 https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
 
