@@ -400,6 +400,21 @@ http://109.105.201.198/ARENASPORT4/video.m3u8?token=test
 #EXTINF:-1, Матч! 🇷🇺
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, Матч! 🇷🇺
+http://185.23.80.29:8080/MATCH!_HD/index.m3u8?token=test
+
+#EXTINF:-1, Матч! Футбол 1 HD 🇷🇺
+http://flu.ttk.mx:90/Football_1HD/mono.m3u8?token=hs06e
+
+#EXTINF:-1, Матч! Футбол 2 HD 🇷🇺
+http://flu.ttk.mx:90/Football_2HD/mono.m3u8?token=hs06e
+
+#EXTINF:-1, Матч! Футбол 3 HD 🇷🇺
+http://flu.ttk.mx:90/Football_3HD/mono.m3u8?token=hs06e
+
+#EXTINF:-1, Okko Спорт 🇷🇺
+http://89.23.113.132/oksphd/video.m3u8
+
 #EXTINF:-1, Футбол 1 HD 🇷🇺
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 
@@ -423,6 +438,9 @@ http://45.159.74.14/AutoPlus/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Футбол 🇷🇺
 http://flu.ttk.mx:90/Futbol/mono.m3u8?token=hs06e
+
+#EXTINF:-1, Футбол 🇷🇺
+http://93.189.224.246:52900/play/a00c/index.m3u8
 
 #EXTINF:-1, Setanta Sports 1 🇺🇦
 https://hls.sweet.tv/stream/qfq2fp954aui9guc8e4d5526tu8uudcnyj342af9kxq8sry8g7n44bwe5rw4k6q68mxhy99h7z5abid8gkju2pcund6c4x89hq96789999.m3u8
