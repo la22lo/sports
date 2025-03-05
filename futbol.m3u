@@ -3,6 +3,9 @@
 #EXTINF:-1, SOLH SPORT 🇦🇫
 https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
 
+#EXTINF:-1, TUDN USA 🇺🇸
+http://45.68.35.218:4001/play/a00x/index.m3u8
+
 #EXTINF:-1, Bien sport 2 🇶🇦
 http://45.139.122.148:8000/play/a005
 
