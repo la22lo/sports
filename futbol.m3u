@@ -3,9 +3,6 @@
 #EXTINF:-1, SOLH SPORT 🇦🇫
 https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
 
-#EXTINF:-1, TUDN USA 🇺🇸
-http://45.68.35.218:4001/play/a00x/index.m3u8
-
 #EXTINF:-1, Bien sport 2 🇶🇦
 https://dffgtrde.vffddd.online/bein1/index.m3u8
 
@@ -110,6 +107,9 @@ http://f01.live:8080/ManuelM/151022/640576
 
 #EXTINF:-1, Unimas Miami 🇲🇽🇺🇸
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.m3u8
+
+#EXTINF:-1, TUDN USA 🇺🇸
+http://45.68.35.218:4001/play/a00x/index.m3u8
 
 #EXTINF:-1, DIGI Sport 1 HD 🇷🇴
 http://89.238.193.38:8000/play/a061/index.m3u8
