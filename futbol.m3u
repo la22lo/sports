@@ -421,6 +421,9 @@ https://hls.sweet.tv/stream/qfq2fp954aui9guc8e4d5526tu8uudcnyj342af9kxq8sry8g7n4
 #EXTINF:-1, BELARUS 5 🇧🇾
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
 
+#EXTINF:-1, BELARUS 5 🇧🇾
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/playlist.m3u8
+
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇱
 http://109.233.89.166/Eleven_Sports_1_HD/mono.m3u8
 
