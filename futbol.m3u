@@ -51,6 +51,9 @@ http://45.139.122.148:8000/play/a004
 #EXTINF:-1,TNT SPORTS 1 🇬🇧
 https://sprintsex.pics/live/foot1/chunks.m3u8
 
+#EXTINF:-1,TNT SPORTS 2 🇬🇧
+https://footys.b-cdn.net/live/foot5/chunks.m3u8
+
 #EXTINF:-1, Bien sport 1 🇶🇦
 https://wo.cma.footballii.ir:443/hls2/b1_src.m3u8
 
