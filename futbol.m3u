@@ -24,6 +24,9 @@ https://windnew.koskoros.ru/wind/premium475/mono.m3u8
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://raalbatros.serv00.net/Gledai.php?ID=maxsport4
 
+#EXTINF:-1,SPORTSMAX2 🇩🇴
+https://streamer1.nexgen.bz/SPORTSMAX2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, S LALIGA 🇿🇦
 https://wikinew.koskoros.ru/wiki/eplayerSuperSportLaLiga/mono.m3u8
 
@@ -101,9 +104,6 @@ https://hls.pokertvfa.live/hls/stream.m3u8
 
 #EXTINF:-1, CANAL+ SPORT HD 🇵🇱
 http://185.236.229.62:9981/play/a04c
-
-#EXTINF:-1,SPORTSMAX2 🇩🇴
-https://streamer1.nexgen.bz/SPORTSMAX2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, PERSIANA SPORT 🇮🇷
 https://stream.live12.ir/hls2/persiana.m3u8
