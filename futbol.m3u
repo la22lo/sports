@@ -102,101 +102,17 @@ http://stream01.vnet.am/Channel_131/mono.m3u8
 #EXTINF:-1,4Sports 🇮🇱
 https://hls.pokertvfa.live/hls/stream.m3u8
 
-#EXTINF:-1, CANAL+ SPORT HD 🇵🇱
-http://185.236.229.62:9981/play/a04c
-
-#EXTINF:-1, PERSIANA SPORT 🇮🇷
-https://stream.live12.ir/hls2/persiana.m3u8
-
-#EXTINF:-1,DAZN 2 HD 🇵🇹
-http://195.23.75.15:8000/udp/239.100.6.49:1234
-
-#EXTINF:-1, DIGI Sport 1 🇷🇴
-http://89.238.193.38:8000/play/a07c/index.m3u8
-
-#EXTINF:-1, PRIMA Sport 2 🇷🇴
-http://89.238.193.38:8000/play/a08h/index.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-http://45.139.122.148:8000/play/a004
-
-#EXTINF:-1, ELEVEN SPORT 1 🇵🇱
-http://185.236.229.62:9981/play/a05w
-
-#EXTINF:-1, ELEVEN SPORT 1 🇵🇱
-https://cdn-nvm-chicago3.lolokoko.tv/elevensports1.stream/chunks.m3u8
-
-#EXTINF:-1, PRIMA Sport 1 🇷🇴
-http://89.238.193.38:8000/play/a07z/index.m3u8
-
-#EXTINF:-1, TRUE VISION 3 🇹🇭
-http://myserver.myphuket.net:25461/test2/test2/50
-
-#EXTINF:-1, ARENA SPORT 6 🇭🇷
-http://42490-fred.oot-mx.me:80/live/63d576d12c/747308777cbd/110732.m3u8
-
-#EXTINF:-1, Bein Sports 1 France 🇫🇷
-http://51.178.65.238/BeinSport/mono.m3u8
-
-#EXTINF:-1, ZIGGO SPORT 🇳🇱
-https://sprintsex.pics/live/foot2/chunks.m3u8
-
 #EXTINF:-1, Turkmenistan Sport 🇹🇲
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 #EXTINF:-1, Turkmenistan Sport 🇹🇲
 http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 
-#EXTINF:-1, SOLH SPORT 🇦🇫
-https://cma.footballii.ir/hls2/solhtv.m3u8
-
-#EXTINF:-1, SOLH SPORT 🇦🇫
-https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
-
-#EXTINF:-1,DAZN 1 HD 🇵🇹
-http://195.23.75.15:8000/udp/239.100.6.48:1234
-
-#EXTINF:-1,DAZN 2 HD 🇵🇹
-http://195.23.75.15:8000/udp/239.100.6.49:1234
-
-#EXTINF:-1,DAZN 3 HD 🇵🇹
-http://195.23.75.15:8000/udp/239.100.6.50:1234
-
-#EXTINF:-1,DAZN 4 HD 🇵🇹
-http://195.23.75.15:8000/udp/239.100.6.51:1234
-
-#EXTINF:-1,DAZN 5 HD 🇵🇹
-http://195.23.75.15:8000/udp/239.100.6.52:1234
-
-#EXTINF:-1,DAZN 6 HD 🇵🇹
-http://195.23.75.15:8000/udp/239.100.6.53:1234
-
-#EXTINF:-1,Sport TV 1 HD 🇵🇹
-http://195.23.75.15:8000/udp/239.100.6.21:1234
-
-#EXTINF:-1,Sport TV 3 HD 🇵🇹
-http://195.23.75.15:8000/udp/239.100.6.23:1234
-
-#EXTINF:-1,Sport TV 2 HD 🇵🇹
-http://195.23.75.15:8000/udp/239.100.6.22:1234
-
-#EXTINF:-1,Sport TV 4 HD 🇵🇹
-http://195.23.75.15:8000/udp/239.100.6.24:1234
-
-#EXTINF:-1,Sport TV 5 HD 🇵🇹
-http://195.23.75.15:8000/udp/239.100.6.25:1234
-
-#EXTINF:-1,Sport TV 6 HD 🇵🇹
-http://195.23.75.15:8000/udp/239.100.6.26:1234
-
 #EXTINF:-1, Bien sport 1 🇶🇦
 http://45.139.122.148:8000/play/a004
 
 #EXTINF:-1, Bien sport 2 🇶🇦
 http://45.139.122.148:8000/play/a005
-
-#EXTINF:-1, Bien sport 2 🇶🇦
-https://cma.footballii.ir/hls2/b2.m3u8
 
 #EXTINF:-1, Bien sport 3 🇶🇦
 http://45.139.122.148:8000/play/a006
@@ -224,9 +140,6 @@ http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
 
 #EXTINF:-1, Bien sport 4 🇶🇦
 http://pl.seetv.cc/play/1104/1E20008EF0CBB6F/video.m3u8
-
-#EXTINF:-1, CANAL + France 🇫🇷
-https://daddy.nayeem-parvez.workers.dev/122.m3u8
 
 #EXTINF:-1, Bein Sports 🇬🇧
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
@@ -259,19 +172,7 @@ http://flu.ttk.mx:90/Football_3HD/mono.m3u8?token=hs06e
 http://89.23.113.132/oksphd/video.m3u8
 
 #EXTINF:-1, Футбол 1 HD 🇷🇺
-http://194.143.148.28:8080/MatchFutbol1/mpegts
-
-#EXTINF:-1, Футбол 1 HD 🇷🇺
 http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
-
-#EXTINF:-1, Футбол 1 HD 🇷🇺
-http://194.26.229.213/matc-futbol-1/index.m3u8?token=Panda
-
-#EXTINF:-1, Матч! Футбол 1 🇷🇺
-http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/mpegts
-
-#EXTINF:-1, МАТЧ! Футбол2 🇷🇺
-http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
 
 #EXTINF:-1, Матч! Футбол 3 HD 🇷🇺
 http://185.57.68.33/110/mpegts
@@ -284,15 +185,6 @@ http://flu.ttk.mx:90/Futbol/mono.m3u8?token=hs06e
 
 #EXTINF:-1, Футбол 🇷🇺
 http://93.189.224.246:52900/play/a00c/index.m3u8
-
-#EXTINF:-1, Setanta Sports 1 🇺🇦
-https://hls.sweet.tv/stream/qfq2fp954aui9guc8e4d5526tu8uudcnyj342af9kxq8sry8g7n44bwe5rw4k6q68mxhy99h7z5abid8gkju2pcund6c4x89hq96789999.m3u8
-
-#EXTINF:-1, BELARUS 5 🇧🇾
-https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
-
-#EXTINF:-1, BELARUS 5 🇧🇾
-https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/playlist.m3u8
 
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇱
 http://109.233.89.166/Eleven_Sports_1_HD/mono.m3u8
@@ -333,6 +225,12 @@ http://178.219.128.68:64889/POLSSPORNEWSHD
 #EXTINF:-1, TVP_Sport HD 🇵🇱
 http://109.233.89.166/TVP_Sport_HD/mono.m3u8
 
+#EXTINF:-1, BELARUS 5 🇧🇾
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
+
+#EXTINF:-1, BELARUS 5 🇧🇾
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/playlist.m3u8
+
 #EXTINF:-1, Беларусь 5 🇧🇾
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 
@@ -345,35 +243,32 @@ https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/chunklist_
 #EXTINF:-1, Беларусь 5 (HD) 🇧🇾
 http://93.189.224.246:52900/play/a005/index.m3u8
 
-#EXTINF:-1, DIGI Sport 1 HD 🇷🇴
-http://89.238.193.38:8000/play/a061/index.m3u8
-
 #EXTINF:-1, DIGI Sport 1 🇷🇴
-http://89.238.193.38:8000/play/a07c/index.m3u8
+https://top2new.koskoros.ru/top2/premium400/mono.m3u8
 
 #EXTINF:-1, DIGI Sport 2 🇷🇴
-http://89.238.193.38:8000/play/a075/index.m3u8
+https://top2new.koskoros.ru/top2/premium401/mono.m3u8
 
 #EXTINF:-1, DIGI Sport 3 🇷🇴
-http://89.238.193.38:8000/play/a07d/index.m3u8
+https://top2new.koskoros.ru/top2/premium402/mono.m3u8
 
 #EXTINF:-1, DIGI Sport 4 🇷🇴
-http://89.238.193.38:8000/play/a07p/index.m3u8
+https://top2new.koskoros.ru/top2/premium403/mono.m3u8
 
 #EXTINF:-1, PRIMA SPORT 1 🇷🇴
-http://193.106.124.204:8002/play/a01l
+https://wikinew.koskoros.ru/wiki/premium583/mono.m3u8
 
-#EXTINF:-1, PRIMA Sport 1 🇷🇴
-http://89.238.193.38:8000/play/a07z/index.m3u8
+#EXTINF:-1, PRIMA SPORT 1 🇷🇴
+https://wikinew.koskoros.ru/wiki/premium439/mono.m3u8
 
 #EXTINF:-1, PRIMA Sport 2 🇷🇴
-http://89.238.193.38:8000/play/a08h/index.m3u8
+https://wikinew.koskoros.ru/wiki/premium584/mono.m3u8
 
 #EXTINF:-1, PRIMA Sport 3 🇷🇴
-http://89.238.193.38:8000/play/a089/index.m3u8
+https://wikinew.koskoros.ru/wiki/premium585/mono.m3u8
 
-#EXTINF:-1, PRIMA Sport 3 🇷🇴
-http://89.238.193.38:8000/play/a080/index.m3u8
+#EXTINF:-1, PRIMA Sport 4 🇷🇴
+https://wikinew.koskoros.ru/wiki/premium586/mono.m3u8
 
 #EXTINF:-1, SK1 🇭🇷
 http://nl.iptvsolution.info:80/sk1/index.m3u8?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
