@@ -13,7 +13,7 @@ http://45.68.35.218:4001/play/a01s/index.m3u8
 https://top2new.koskoros.ru/top2/eplayerespn_dep/mono.m3u8
 
 #EXTINF:-1, S LALIGA 🇿🇦
-https://wikinew.koskoros.ru/wiki/eplayerSuperSportLaLiga/mono.m3u8
+https://ddy6new.koskoros.ru/ddy6/premium415/mono.m3u8
 
 #EXTINF:-1, Матч! Футбол 2 HD 🇷🇺
 http://flu.ttk.mx:90/Football_2HD/mono.m3u8?token=hs06e
@@ -23,6 +23,9 @@ https://windnew.koskoros.ru/wind/premium475/mono.m3u8
 
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://raalbatros.serv00.net/Gledai.php?ID=maxsport4
+
+#EXTINF:-1, S LALIGA 🇿🇦
+https://wikinew.koskoros.ru/wiki/eplayerSuperSportLaLiga/mono.m3u8
 
 #EXTINF:-1, SOLH SPORT 🇦🇫
 https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
