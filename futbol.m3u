@@ -15,6 +15,9 @@ http://109.105.201.198/ARENASPORT3/video.m3u8?token=test
 #EXTINF:-1, Fast Sports 🇦🇲
 http://stream01.vnet.am/Channel_131/mono.m3u8
 
+#EXTINF:-1, DAZN 1 🇩🇪
+https://nix1-dc4new.koskoros.ru/nix1-dc4/dazn1de/mono.m3u8
+
 #EXTINF:-1, Bien sport 2 🇶🇦
 https://dffgtrde.vffddd.online/bein2/index.m3u8
 
