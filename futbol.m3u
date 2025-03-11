@@ -91,6 +91,9 @@ https://top2new.koskoros.ru/top2/ftkcosmote6/mono.m3u8
 https://nix1-dc4new.koskoros.ru/nix1-dc4/beinsports2arb/mono.m3u8
 
 #EXTINF:-1, Bien sport 2 🇶🇦
+https://wo.cma.footballii.ir:443/hls2/b2_src.m3u8
+
+#EXTINF:-1, Bien sport 2 🇶🇦
 http://45.139.122.148:8000/play/a005
 
 #EXTINF:-1, Bien sport 2 🇶🇦
@@ -113,6 +116,9 @@ http://109.105.201.198/Arenasport2/video.m3u8?token=test
 
 #EXTINF:-1, Bien sport 1 🇶🇦
 https://nix1-dc4new.koskoros.ru/nix1-dc4/beinsports1arb/mono.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+https://wo.cma.footballii.ir:443/hls2/b1_src.m3u8
 
 #EXTINF:-1, Bien sport 1 🇶🇦
 https://dffgtrde.vffddd.online/bein1/index.m3u8
