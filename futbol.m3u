@@ -9,6 +9,12 @@ https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
 #EXTINF:-1, ESPN 🇦🇷
 https://top2new.koskoros.ru/top2/arg_espn/mono.m3u8
 
+#EXTINF:-1, PERSIANA SPORT 🇮🇷
+https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
+
+#EXTINF:-1, PERSIANA SPORT 🇮🇷
+https://spstr.abntv.live/hls/psstream.m3u8
+
 #EXTINF:-1, Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 
@@ -104,12 +110,6 @@ http://176.97.123.29/live.ts?channelId=269&uid=8&deviceMac=00:1A:79:6A:43:86
 
 #EXTINF:-1, ARENA SPORT 2 🇭🇷
 http://109.105.201.198/Arenasport2/video.m3u8?token=test
-
-#EXTINF:-1, PERSIANA SPORT 🇮🇷
-https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
-
-#EXTINF:-1, PERSIANA SPORT 🇮🇷
-https://spstr.abntv.live/hls/psstream.m3u8
 
 #EXTINF:-1, Bien sport 1 🇶🇦
 https://nix1-dc4new.koskoros.ru/nix1-dc4/beinsports1arb/mono.m3u8
