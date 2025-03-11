@@ -138,6 +138,9 @@ http://109.105.201.198/ARENASPORT1/index.m3u8?token=test
 #EXTINF:-1, CANAL+ SPORT HD 🇵🇱
 http://185.236.229.62:9981/play/a04c
 
+#EXTINF:-1,TNT SPORTS 3 🇬🇧
+https://nfsnew.koskoros.ru/nfs/premium33/mono.m3u8
+
 #EXTINF:-1, Cosmote Sport 2 🇬🇷
 https://dokko1new.koskoros.ru/dokko1/premium623/mono.m3u8
 
