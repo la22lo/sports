@@ -36,6 +36,9 @@ http://stream01.vnet.am/Channel_131/mono.m3u8
 #EXTINF:-1, DAZN 1 🇩🇪
 https://nix1-dc4new.koskoros.ru/nix1-dc4/dazn1de/mono.m3u8
 
+#EXTINF:-1, Cytavision Sports 3 🇨🇾
+https://windnew.koskoros.ru/wind/premium913/mono.m3u8
+
 #EXTINF:-1, Bien sport 2 🇶🇦
 http://45.139.122.148:8000/play/a005
 
