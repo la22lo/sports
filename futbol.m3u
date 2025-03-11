@@ -31,6 +31,9 @@ http://stream01.vnet.am/Channel_131/mono.m3u8
 https://nix1-dc4new.koskoros.ru/nix1-dc4/dazn1de/mono.m3u8
 
 #EXTINF:-1, Bien sport 2 🇶🇦
+http://45.139.122.148:8000/play/a005
+
+#EXTINF:-1, Bien sport 2 🇶🇦
 https://dffgtrde.vffddd.online/bein2/index.m3u8
 
 #EXTINF:-1, Bien sport 2 🇶🇦
@@ -39,17 +42,8 @@ https://dffgtrdb.vffddd.online:8880/bein2/index.m3u8
 #EXTINF:-1, Bien sport 2 🇶🇦
 https://dffgtrdb.vffddd.online:8880/bein2/index.m3u8
 
-#EXTINF:-1, Bien sport 2 🇶🇦
-http://45.139.122.148:8000/play/a005
-
 #EXTINF:-1,TNT SPORTS 1 🇬🇧
 http://176.97.123.29/live.ts?channelId=267&uid=8&deviceMac=00:1A:79:6A:43:86
-
-#EXTINF:-1,TNT SPORTS 1 🇬🇧
-https://cma.footballii.ir/hls2/tnt1.m3u8
-
-#EXTINF:-1,TNT SPORTS 3 🇬🇧
-https://footys.b-cdn.net/live/foot3/chunks.m3u8
 
 #EXTINF:-1,TNT SPORTS 3 🇬🇧
 http://176.97.123.29/live.ts?channelId=269&uid=8&deviceMac=00:1A:79:6A:43:86
@@ -81,38 +75,8 @@ https://a.gggsjmjh756hgffreewguiijnbvcfg7.store:443/bein1en/tracks-v1a1/mono.ts.
 #EXTINF:-1, Bien sport 1 🇶🇦
 http://45.139.122.148:8000/play/a004
 
-#EXTINF:-1,TNT SPORTS 1 🇬🇧
-https://sprintsex.pics/live/foot1/chunks.m3u8
-
-#EXTINF:-1,TNT SPORTS 1 🇬🇧
-https://footys.b-cdn.net/live/foot6/chunks.m3u8
-
-#EXTINF:-1,TNT SPORTS 2 🇬🇧
-https://footys.b-cdn.net/live/foot5/chunks.m3u8
-
-#EXTINF:-1,TNT SPORTS 3 🇬🇧
-https://footys.b-cdn.net/live/foot3/chunks.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-https://wo.cma.footballii.ir:443/hls2/b1_src.m3u8
-
-#EXTINF:-1, Sport5 🇮🇱
-https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
-
-#EXTINF:-1, Fast Sports 🇦🇲
-http://stream01.vnet.am/Channel_131/mono.m3u8
-
 #EXTINF:-1, ARENA SPORT 1 🇭🇷
 http://109.105.201.198/ARENASPORT1/index.m3u8?token=test
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-https://wo.cma.footballii.ir/hls2/b1.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-https://wo.cma.footballii.ir:443/hls2/b1_high.m3u8
-
-#EXTINF:-1, MAX SPORT 3 🇧🇬
-http://raalbatros.serv00.net/Gledai.php?ID=maxsport3
 
 #EXTINF:-1, CANAL+ SPORT HD 🇵🇱
 http://185.236.229.62:9981/play/a04c
@@ -146,12 +110,6 @@ http://f01.live:8080/ManuelM/151022/640576
 
 #EXTINF:-1, Unimas Miami 🇲🇽🇺🇸
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.m3u8
-
-#EXTINF:-1, DIGI Sport 1 HD 🇷🇴
-http://89.238.193.38:8000/play/a061/index.m3u8
-
-#EXTINF:-1, ELEVEN SPORTS 3 HD 🇵🇹
-http://176.65.146.108:8022/play/a073/index.m3u8
 
 #EXTINF:-1, TRT 1 🇹🇷
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
@@ -216,14 +174,8 @@ https://streamer1.nexgen.bz/SPORTSMAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TNT SPORTS 1 🇬🇧
 http://176.97.123.29/live.ts?channelId=267&uid=8&deviceMac=00:1A:79:6A:43:86
 
-#EXTINF:-1,TNT SPORTS 1 🇬🇧
-https://cma.footballii.ir/hls2/tnt1.m3u8
-
 #EXTINF:-1,TNT SPORTS 2 🇬🇧
 http://176.97.123.29/live.ts?channelId=268&uid=8&deviceMac=00:1A:79:6A:43:86
-
-#EXTINF:-1, TNT SPORTS 2 🇬🇧
-https://cdn.hoichoi24.com/tntsports2hd/video.m3u8
 
 #EXTINF:-1,TNT SPORTS 3 🇬🇧
 http://176.97.123.29/live.ts?channelId=269&uid=8&deviceMac=00:1A:79:6A:43:86
