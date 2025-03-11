@@ -42,6 +42,9 @@ https://windnew.koskoros.ru/wind/premium913/mono.m3u8
 #EXTINF:-1, Canal+ Sport 🇫🇷
 https://windnew.koskoros.ru/wind/premium122/mono.m3u8
 
+#EXTINF:-1, Cosmote Sport 7 🇬🇷
+https://dokko1new.koskoros.ru/dokko1/premium628/mono.m3u8
+
 #EXTINF:-1, Bien sport 2 🇶🇦
 http://45.139.122.148:8000/play/a005
 
@@ -92,6 +95,9 @@ http://109.105.201.198/ARENASPORT1/index.m3u8?token=test
 
 #EXTINF:-1, CANAL+ SPORT HD 🇵🇱
 http://185.236.229.62:9981/play/a04c
+
+#EXTINF:-1, Cosmote Sport 2 🇬🇷
+https://dokko1new.koskoros.ru/dokko1/premium623/mono.m3u8
 
 #EXTINF:-1, Bien sport 1 🇶🇦
 http://platform.topuphost.com:8577/live/alfajerhd.stream/chunklist_w244765454.m3u8
