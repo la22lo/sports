@@ -48,6 +48,9 @@ http://195.24.90.119:800/play/a099
 #EXTINF:-1, ARENA SPORT 1 🇭🇷
 http://109.105.201.198/ARENASPORT1/index.m3u8?token=test
 
+#EXTINF:-1,TNT SPORTS 3 🇬🇧
+http://176.97.123.29/live.ts?channelId=269&uid=8&deviceMac=00:1A:79:6A:43:86
+
 #EXTINF:-1, TUDN USA 🇺🇸
 https://windnew.koskoros.ru/wind/premium66/mono.m3u8
 
@@ -120,8 +123,6 @@ https://windnew.koskoros.ru/wind/premium61/mono.m3u8
 #EXTINF:-1,TNT SPORTS 3 🇬🇧
 https://nfsnew.koskoros.ru/nfs/premium33/mono.m3u8
 
-#EXTINF:-1,TNT SPORTS 3 🇬🇧
-http://176.97.123.29/live.ts?channelId=269&uid=8&deviceMac=00:1A:79:6A:43:86
 
 #EXTINF:-1, MAX SPORT 3 🇧🇬
 http://raalbatros.serv00.net/Gledai.php?ID=maxsport3
