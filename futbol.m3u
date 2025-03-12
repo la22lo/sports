@@ -291,6 +291,9 @@ http://45.68.35.218:4001/play/a01s/index.m3u8
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 https://top2new.koskoros.ru/top2/eplayerespn_dep/mono.m3u8
 
+#EXTINF:-1,LALIGA TV 🇬🇧
+https://windnew.koskoros.ru/wind/premium276/mono.m3u8
+
 #EXTINF:-1, S LALIGA 🇿🇦
 https://ddy6new.koskoros.ru/ddy6/premium415/mono.m3u8
 
