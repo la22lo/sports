@@ -42,6 +42,9 @@ https://windnew.koskoros.ru/wind/premium66/mono.m3u8
 #EXTINF:-1, TUDN USA 🇺🇸
 https://top2new.koskoros.ru/top2/tudnusa/mono.m3u8
 
+#EXTINF:-1, UNIMAS 🇺🇸
+https://nfsnew.koskoros.ru/nfs/premium133/mono.m3u8
+
 #EXTINF:-1, Fast Sports 🇦🇲
 http://stream01.vnet.am/Channel_131/mono.m3u8
 
@@ -56,6 +59,27 @@ https://top2new.koskoros.ru/top2/eplayerSPORTTV5/mono.m3u8
 
 #EXTINF:-1, SuperSport MaXimo 1 🇿🇦
 https://dokko1new.koskoros.ru/dokko1/premium572/mono.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+https://nix1-dc4new.koskoros.ru/nix1-dc4/beinsports1arb/mono.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+https://wo.cma.footballii.ir:443/hls2/b1_src.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+https://dffgtrde.vffddd.online/bein1/index.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+https://dffgtrdb.vffddd.online:8880/bein1/index.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+https://dffgtrde.vffddd.online:443/bein1/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+http://45.139.122.148:8000/play/a004
+
+#EXTINF:-1, ARENA SPORT 1 🇭🇷
+http://109.105.201.198/ARENASPORT1/index.m3u8?token=test
 
 
 
@@ -88,9 +112,6 @@ https://nfsnew.koskoros.ru/nfs/premium31/mono.m3u8
 
 #EXTINF:-1,TNT SPORTS 1 🇬🇧
 https://agebaraveg.shop/live/1/chunks.m3u8
-
-#EXTINF:-1, UNIMAS 🇺🇸
-https://nfsnew.koskoros.ru/nfs/premium133/mono.m3u8
 
 #EXTINF:-1, Cytavision Sports 3 🇨🇾
 https://windnew.koskoros.ru/wind/premium913/mono.m3u8
@@ -133,27 +154,6 @@ http://176.97.123.29/live.ts?channelId=269&uid=8&deviceMac=00:1A:79:6A:43:86
 
 #EXTINF:-1, ARENA SPORT 2 🇭🇷
 http://109.105.201.198/Arenasport2/video.m3u8?token=test
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-https://nix1-dc4new.koskoros.ru/nix1-dc4/beinsports1arb/mono.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-https://wo.cma.footballii.ir:443/hls2/b1_src.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-https://dffgtrde.vffddd.online/bein1/index.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-https://dffgtrdb.vffddd.online:8880/bein1/index.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-https://dffgtrde.vffddd.online:443/bein1/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-http://45.139.122.148:8000/play/a004
-
-#EXTINF:-1, ARENA SPORT 1 🇭🇷
-http://109.105.201.198/ARENASPORT1/index.m3u8?token=test
 
 #EXTINF:-1, CANAL+ SPORT HD 🇵🇱
 http://185.236.229.62:9981/play/a04c
