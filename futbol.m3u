@@ -39,6 +39,12 @@ https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 #EXTINF:-1, Fast Sports 🇦🇲
 http://stream01.vnet.am/Channel_131/mono.m3u8
 
+#EXTINF:-1,bTV Action HD 🇧🇬
+http://195.24.90.119:800/play/a0aw
+
+#EXTINF:-1,bTV Action 🇧🇬
+http://195.24.90.119:800/play/a099
+
 #EXTINF:-1, ARENA SPORT 1 🇭🇷
 http://109.105.201.198/ARENASPORT1/index.m3u8?token=test
 
@@ -107,12 +113,6 @@ https://windnew.koskoros.ru/wind/premium134/mono.m3u8
 
 #EXTINF:-1,TV3+ 🇩🇰
 https://ddy6new.koskoros.ru/ddy6/premium819/mono.m3u8
-
-#EXTINF:-1,bTV Action HD 🇧🇬
-http://195.24.90.119:800/play/a0aw
-
-#EXTINF:-1,bTV Action 🇧🇬
-http://195.24.90.119:800/play/a099
 
 #EXTINF:-1,BIEN SPORTS 1 🇬🇧
 https://windnew.koskoros.ru/wind/premium61/mono.m3u8
