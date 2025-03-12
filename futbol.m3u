@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, FOX SPORTS 🇦🇷
-https://nix1-dc4new.koskoros.ru/nix1-dc4/argfoxsports1/mono.m3u8
-
 #EXTINF:-1, PERSIANA SPORT 🇮🇷
 https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
 
@@ -26,6 +23,9 @@ https://nfsnew.koskoros.ru/nfs/premium133/mono.m3u8
 
 #EXTINF:-1, TUDN USA 🇺🇸
 http://45.68.35.218:4001/play/a00x/index.m3u8
+
+#EXTINF:-1, FOX SPORTS 🇦🇷
+https://nix1-dc4new.koskoros.ru/nix1-dc4/argfoxsports1/mono.m3u8
 
 #EXTINF:-1, PRIMA SPORT 1 🇷🇴
 https://wikinew.koskoros.ru/wiki/premium583/mono.m3u8
