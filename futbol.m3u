@@ -18,9 +18,6 @@ https://wikinew.koskoros.ru/wiki/premium583/mono.m3u8
 #EXTINF:-1, PRIMA SPORT 1 🇷🇴
 https://wikinew.koskoros.ru/wiki/premium439/mono.m3u8
 
-#EXTINF:-1,TNT SPORTS 3 🇬🇧
-https://nfsnew.koskoros.ru/nfs/premium33/mono.m3u8
-
 #EXTINF:-1, Cosmote Sport 2 🇬🇷
 https://dokko1new.koskoros.ru/dokko1/premium623/mono.m3u8
 
@@ -92,6 +89,18 @@ https://windnew.koskoros.ru/wind/premium134/mono.m3u8
 
 #EXTINF:-1, Arena Sport 1 Premium 🇷🇸
 https://nix1-dc4new.koskoros.ru/nix1-dc4/arena1premiumserbia/mono.m3u8
+
+#EXTINF:-1,bTV Action HD 🇧🇬
+http://195.24.90.119:800/play/a0aw
+
+#EXTINF:-1,bTV Action 🇧🇬
+http://195.24.90.119:800/play/a099
+
+#EXTINF:-1,TNT SPORTS 3 🇬🇧
+https://nfsnew.koskoros.ru/nfs/premium33/mono.m3u8
+
+#EXTINF:-1,TNT SPORTS 3 🇬🇧
+http://176.97.123.29/live.ts?channelId=269&uid=8&deviceMac=00:1A:79:6A:43:86
 
 
 
@@ -242,12 +251,6 @@ http://109.105.201.198/Arenasport2/video.m3u8?token=test
 #EXTINF:-1, ARENA SPORT 4 🇭🇷
 http://109.105.201.198/ARENASPORT4/video.m3u8?token=test
 
-#EXTINF:-1,bTV Action HD 🇧🇬
-http://195.24.90.119:800/play/a0aw
-
-#EXTINF:-1,bTV Action 🇧🇬
-http://195.24.90.119:800/play/a099
-
 #EXTINF:-1,SPORTSMAX 🇩🇴
 https://streamer1.nexgen.bz/SPORTSMAX/tracks-v1a1/mono.m3u8
 
@@ -256,9 +259,6 @@ http://176.97.123.29/live.ts?channelId=267&uid=8&deviceMac=00:1A:79:6A:43:86
 
 #EXTINF:-1,TNT SPORTS 2 🇬🇧
 http://176.97.123.29/live.ts?channelId=268&uid=8&deviceMac=00:1A:79:6A:43:86
-
-#EXTINF:-1,TNT SPORTS 3 🇬🇧
-http://176.97.123.29/live.ts?channelId=269&uid=8&deviceMac=00:1A:79:6A:43:86
 
 
 
