@@ -12,6 +12,18 @@ https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1, SOLH SPORT 🇦🇫
 https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
 
+#EXTINF:-1, TUDN USA 🇺🇸
+https://windnew.koskoros.ru/wind/premium66/mono.m3u8
+
+#EXTINF:-1, TUDN USA 🇺🇸
+https://top2new.koskoros.ru/top2/tudnusa/mono.m3u8
+
+#EXTINF:-1, UNIMAS 🇺🇸
+https://nfsnew.koskoros.ru/nfs/premium133/mono.m3u8
+
+#EXTINF:-1, TUDN USA 🇺🇸
+http://45.68.35.218:4001/play/a00x/index.m3u8
+
 #EXTINF:-1, DIGI Sport 1 🇷🇴
 https://top2new.koskoros.ru/top2/premium400/mono.m3u8
 
@@ -38,18 +50,6 @@ https://windnew.koskoros.ru/wind/premium481/mono.m3u8
 
 #EXTINF:-1, Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
-
-#EXTINF:-1, TUDN USA 🇺🇸
-http://45.68.35.218:4001/play/a00x/index.m3u8
-
-#EXTINF:-1, TUDN USA 🇺🇸
-https://windnew.koskoros.ru/wind/premium66/mono.m3u8
-
-#EXTINF:-1, TUDN USA 🇺🇸
-https://top2new.koskoros.ru/top2/tudnusa/mono.m3u8
-
-#EXTINF:-1, UNIMAS 🇺🇸
-https://nfsnew.koskoros.ru/nfs/premium133/mono.m3u8
 
 #EXTINF:-1, Fast Sports 🇦🇲
 http://stream01.vnet.am/Channel_131/mono.m3u8
