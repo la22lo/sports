@@ -12,6 +12,27 @@ https://top2new.koskoros.ru/top2/premium400/mono.m3u8
 #EXTINF:-1, SOLH SPORT 🇦🇫
 https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
 
+#EXTINF:-1, Bien sport 1 🇶🇦
+https://wo.cma.footballii.ir:443/hls2/b1_src.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+https://dffgtrde.vffddd.online/bein1/index.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+https://dffgtrdb.vffddd.online:8880/bein1/index.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+https://dffgtrde.vffddd.online:443/bein1/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+http://45.139.122.148:8000/play/a004
+
+#EXTINF:-1, Sport5 🇮🇱
+https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
+
+#EXTINF:-1, Fast Sports 🇦🇲
+http://stream01.vnet.am/Channel_131/mono.m3u8
+
 #EXTINF:-1, TUDN USA 🇺🇸
 https://windnew.koskoros.ru/wind/premium66/mono.m3u8
 
@@ -48,12 +69,6 @@ https://top2new.koskoros.ru/top2/ftkcosmote2/mono.m3u8
 #EXTINF:-1,bTV Action HD 🇧🇬
 https://windnew.koskoros.ru/wind/premium481/mono.m3u8
 
-#EXTINF:-1, Sport5 🇮🇱
-https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
-
-#EXTINF:-1, Fast Sports 🇦🇲
-http://stream01.vnet.am/Channel_131/mono.m3u8
-
 #EXTINF:-1, DAZN 1 🇩🇪
 https://nix1-dc4new.koskoros.ru/nix1-dc4/dazn1de/mono.m3u8
 
@@ -74,21 +89,6 @@ https://dokko1new.koskoros.ru/dokko1/premium91/mono.m3u8
 
 #EXTINF:-1, Bien sport 1 🇶🇦
 https://nix1-dc4new.koskoros.ru/nix1-dc4/beinsports1arb/mono.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-https://wo.cma.footballii.ir:443/hls2/b1_src.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-https://dffgtrde.vffddd.online/bein1/index.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-https://dffgtrdb.vffddd.online:8880/bein1/index.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-https://dffgtrde.vffddd.online:443/bein1/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-http://45.139.122.148:8000/play/a004
 
 #EXTINF:-1, ARENA SPORT 1 🇭🇷
 https://ddy6new.koskoros.ru/ddy6/premium432/mono.m3u8
