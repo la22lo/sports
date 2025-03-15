@@ -12,6 +12,9 @@ http://45.68.35.218:4001/play/a01s/index.m3u8
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://raalbatros.serv00.net/Gledai.php?ID=maxsport4
 
+#EXTINF:-1,LALIGA TV 🇬🇧
+https://windnew.koskoros.ru/wind/premium276/mono.m3u8
+
 #EXTINF:-1,4Sports 🇮🇱
 https://hls.pokertvfa.live/hls/stream.m3u8
 
@@ -38,9 +41,6 @@ https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
 
 #EXTINF:-1, PERSIANA SPORT 🇮🇷
 https://spstr.abntv.live/hls/psstream.m3u8
-
-#EXTINF:-1,LALIGA TV 🇬🇧
-https://windnew.koskoros.ru/wind/premium276/mono.m3u8
 
 #EXTINF:-1, S LALIGA 🇿🇦
 https://ddy6new.koskoros.ru/ddy6/premium415/mono.m3u8
