@@ -24,6 +24,9 @@ http://181.78.74.69:8000/play/a060/index.m3u8
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://thevdm.xyz:25461/Vargasfam99/fBTVegQTCz/19888
 
+#EXTINF:-1,SPORTSMAX2 🇩🇴
+https://streamer1.nexgen.bz/SPORTSMAX2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, Матч! Футбол 2 HD 🇷🇺
 http://flu.ttk.mx:90/Football_2HD/mono.m3u8?token=hs06e
 
@@ -50,9 +53,6 @@ https://ddy6new.koskoros.ru/ddy6/premium137/mono.m3u8
 
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 https://windnew.koskoros.ru/wind/premium475/mono.m3u8
-
-#EXTINF:-1,SPORTSMAX2 🇩🇴
-https://streamer1.nexgen.bz/SPORTSMAX2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, S LALIGA 🇿🇦
 https://wikinew.koskoros.ru/wiki/eplayerSuperSportLaLiga/mono.m3u8
