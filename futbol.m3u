@@ -12,6 +12,9 @@ http://45.68.35.218:4001/play/a01s/index.m3u8
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://raalbatros.serv00.net/Gledai.php?ID=maxsport4
 
+#EXTINF:-1,4Sports 🇮🇱
+https://hls.pokertvfa.live/hls/stream.m3u8
+
 #EXTINF:-1, Матч! Футбол 2 HD 🇷🇺
 http://flu.ttk.mx:90/Football_2HD/mono.m3u8?token=hs06e
 
@@ -107,9 +110,6 @@ http://181.78.105.146:8800/play/a07h
 
 #EXTINF:-1, Fast Sports 🇦🇲
 http://stream01.vnet.am/Channel_131/mono.m3u8
-
-#EXTINF:-1,4Sports 🇮🇱
-https://hls.pokertvfa.live/hls/stream.m3u8
 
 #EXTINF:-1, Turkmenistan Sport 🇹🇲
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
