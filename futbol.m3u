@@ -30,6 +30,24 @@ http://stream01.vnet.am/Channel_131/mono.m3u8
 #EXTINF:-1, Bien sport 1 🇶🇦
 http://45.139.122.148:8000/play/a004
 
+#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
+http://181.78.105.146:2000/play/a08m/index.m3u8
+
+#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
+http://190.92.10.66:4000/play/a001/index.m3u8
+
+#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
+http://181.78.105.146:6060/play/a05i
+
+#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
+http://181.78.109.49:8000/play/a06r/index.m3u8
+
+#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
+http://45.5.117.182:8000/play/jnl0/index.m3u8
+
+#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
+http://181.78.105.146:8800/play/a07h
+
 #EXTINF:-1, PERSIANA SPORT 🇮🇷
 https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
 
@@ -41,9 +59,6 @@ https://windnew.koskoros.ru/wind/premium276/mono.m3u8
 
 #EXTINF:-1,ESPN ARGENTINA 🇦🇷
 http://181.78.74.69:8000/play/a060/index.m3u8
-
-#EXTINF:-1, Матч! Футбол 2 HD 🇷🇺
-http://flu.ttk.mx:90/Football_2HD/mono.m3u8?token=hs06e
 
 #EXTINF:-1,4Sports 🇮🇱
 https://hls.pokertvfa.live/hls/stream.m3u8
@@ -83,24 +98,6 @@ http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125442.ts
 
 #EXTINF:-1, ARENA SPORT 2 🇭🇷
 http://109.105.201.198/Arenasport2/video.m3u8?token=test
-
-#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
-http://181.78.105.146:2000/play/a08m/index.m3u8
-
-#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
-http://190.92.10.66:4000/play/a001/index.m3u8
-
-#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
-http://181.78.105.146:6060/play/a05i
-
-#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
-http://181.78.109.49:8000/play/a06r/index.m3u8
-
-#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
-http://45.5.117.182:8000/play/jnl0/index.m3u8
-
-#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
-http://181.78.105.146:8800/play/a07h
 
 #EXTINF:-1, Turkmenistan Sport 🇹🇲
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
