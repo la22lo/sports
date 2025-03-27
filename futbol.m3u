@@ -273,14 +273,26 @@ http://93.189.224.246:52900/play/a005/index.m3u8
 #EXTINF:-1, DIGI Sport 1 🇷🇴
 https://top2new.koskoros.ru/top2/premium400/mono.m3u8
 
+#EXTINF:-1, DIGI Sport 1 🇷🇴
+http://ru02.sh365.org/22937/mpegts?token=Dubx4Vi2wQYxbY
+
 #EXTINF:-1, DIGI Sport 2 🇷🇴
 https://top2new.koskoros.ru/top2/premium401/mono.m3u8
+
+#EXTINF:-1, DIGI Sport 2 🇷🇴
+http://ru02.sh365.org/22382/mpegts?token=Dubx4Vi2wQYxbY
 
 #EXTINF:-1, DIGI Sport 3 🇷🇴
 https://top2new.koskoros.ru/top2/premium402/mono.m3u8
 
+#EXTINF:-1, DIGI Sport 3 🇷🇴
+http://ru02.sh365.org/22394/mpegts?token=Dubx4Vi2wQYxbY
+
 #EXTINF:-1, DIGI Sport 4 🇷🇴
 https://top2new.koskoros.ru/top2/premium403/mono.m3u8
+
+#EXTINF:-1, DIGI Sport 4 🇷🇴
+http://ru02.sh365.org/22967/mpegts?token=Dubx4Vi2wQYxbY
 
 #EXTINF:-1, PRIMA SPORT 1 🇷🇴
 https://wikinew.koskoros.ru/wiki/premium583/mono.m3u8
@@ -288,8 +300,14 @@ https://wikinew.koskoros.ru/wiki/premium583/mono.m3u8
 #EXTINF:-1, PRIMA SPORT 1 🇷🇴
 https://wikinew.koskoros.ru/wiki/premium439/mono.m3u8
 
+#EXTINF:-1, PRIMA SPORT 1 🇷🇴
+http://ru02.sh365.org/23072/mpegts?token=Dubx4Vi2wQYxbY
+
 #EXTINF:-1, PRIMA Sport 2 🇷🇴
 https://wikinew.koskoros.ru/wiki/premium584/mono.m3u8
+
+#EXTINF:-1, PRIMA Sport 2 🇷🇴
+http://ru02.sh365.org/23073/mpegts?token=Dubx4Vi2wQYxbY
 
 #EXTINF:-1, PRIMA Sport 3 🇷🇴
 https://wikinew.koskoros.ru/wiki/premium585/mono.m3u8
