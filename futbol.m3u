@@ -31,6 +31,12 @@ http://181.78.74.69:8000/play/a056/index.m3u8
 http://stream01.vnet.am/Channel_131/mono.m3u8
 
 #EXTINF:-1, Bien sport 1 🇶🇦
+https://dffgtrdc.vffddd.online/bein1/index.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+https://dffgtrdc.vffddd.online:443/bein1/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
 https://dffgtrdb.vffddd.online:8880/bein1/index.m3u8
 
 #EXTINF:-1, Bien sport 1 🇶🇦
