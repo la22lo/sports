@@ -225,6 +225,9 @@ http://flu.ttk.mx:90/Futbol/mono.m3u8?token=hs06e
 #EXTINF:-1, Футбол 🇷🇺
 http://93.189.224.246:52900/play/a00c/index.m3u8
 
+#EXTINF:-1, SUPERSPORT 2 🇦🇱
+https://stream.veo.buzz:6074/sport/ch3/ch3_1080.m3u8
+
 #EXTINF:-1, ELEVEN SPORT 1 🇵🇱
 http://109.233.89.166/Eleven_Sports_1_HD/mono.m3u8
 
