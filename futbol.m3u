@@ -90,6 +90,9 @@ http://45.5.117.182:8000/play/jnl0/index.m3u8
 #EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
 http://181.78.105.146:8800/play/a07h
 
+#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
+http://190.111.16.106:40000/play/a09r
+
 #EXTINF:-1, PERSIANA SPORT 🇮🇷
 https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
 
