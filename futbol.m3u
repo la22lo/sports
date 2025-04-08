@@ -15,6 +15,12 @@ https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1, LC 🇪🇸
 http://thebestiptv.gsuscam.net:2018/play/Q7DAAX3IvEDpDBkhYZkqWqBgD7B5Be2ZS0YA06J21rI/ts
 
+#EXTINF:-1, LC 🇪🇺
+https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/EJcZNxrcrEKHcEAig0pHhoDzHRV4KEXFHI36vOHiFkObE2yJ2nvZvKziSEQJCJOmSMc610w8E9xtgxlnbtTfWg/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_delta.m3u8?type=live
+
+#EXTINF:-1, LC 🇪🇺
+https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/1C-wqcAglGXX1NTty9E9LlyqegmqAv2ryPGbQPnTkI8PjjG0lu5GhnqEY-NVCCgqR5154AxiH3wBxwuSl5HzsQ/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_delta.m3u8?type=live
+
 #EXTINF:-1, Bien sport 1 🇶🇦
 https://dffgtrdc.vffddd.online/bein1/index.m3u8
 
