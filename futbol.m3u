@@ -474,6 +474,12 @@ https://wikinew.koskoros.ru/wiki/premium585/mono.m3u8
 #EXTINF:-1, PRIMA Sport 4 🇷🇴
 https://wikinew.koskoros.ru/wiki/premium586/mono.m3u8
 
+#EXTINF:-1, CANAL + 🇫🇷
+http://116.202.237.33:8080/CNLS3/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+
+#EXTINF:-1, CANAL + 2 🇫🇷
+http://116.202.237.33:8080/CNLS2/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+
 #EXTINF:-1, SK1 🇭🇷
 http://nl.iptvsolution.info:80/sk1/index.m3u8?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
 
@@ -707,6 +713,9 @@ https://5db853d9942a.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.
 
 #EXTINF:-1,ALFAJR 🇪🇬
 http://platform.topuphost.com:8577/live/alfajr.stream/playlist.m3u8
+
+#EXTINF:-1, 4SPORT 🇪🇬
+https://hls.pokertvfa.live/hls/stream.m3u8
 
 #EXTINF:-1, SSC1 🇸🇦
 https://live.eighty-eight.tv:8880/eighty-eight_SSC-Sports-1_A/tracks-v1a1/mono.ts.m3u8
