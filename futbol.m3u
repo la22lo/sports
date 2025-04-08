@@ -426,6 +426,9 @@ https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/chunklist_
 #EXTINF:-1, Беларусь 5 (HD) 🇧🇾
 http://93.189.224.246:52900/play/a005/index.m3u8
 
+#EXTINF:-1,NOVA SPORT 5 🇨🇿
+http://116.202.237.33:8080/NS5/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+
 #EXTINF:-1, DIGI Sport 1 🇷🇴
 https://top2new.koskoros.ru/top2/premium400/mono.m3u8
 
