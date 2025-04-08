@@ -705,9 +705,6 @@ http://ott-cdn.ucom.am/s83/03.m3u8
 #EXTINF:-1, AIO SPORT 🇶🇦
 https://cdn-azd2046.telewebion.com/ek/tv3/live/720p/index.m3u8?isp=NA&city=NA
 
-#EXTINF:-1,NETO SPORTS 🇶🇦
-https://netohls.wns.live/hls/stream.m3u8
-
 #EXTINF:-1,JIO HOTSTAR LINK 🇶🇦
 https://5db853d9942a.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.755921704393.channel.GkGr7jkb85qa.m3u8
 
