@@ -39,6 +39,9 @@ http://45.71.254.1:8000/play/a038/index.m3u8
 #EXTINF:-1, ESPN VIVO 🇦🇷
 http://45.71.254.1:8000/play/a01r/index.m3u8
 
+#EXTINF:-1, MAX Sport 3 HD 🇧🇬
+http://213.91.178.133:8000/play/a0ar
+
 #EXTINF:-1, ARENA SPORT 1 🇭🇷
 http://109.105.201.198/ARENASPORT1/index.m3u8?token=test
 
@@ -194,6 +197,9 @@ http://45.139.122.148:8000/play/a004
 
 #EXTINF:-1, LaLiga TV 🇬🇧 
 https://directplaylive.sbs/live/foot6/chunks.m3u8
+
+#EXTINF:-1, Max Sport 4 🇧🇬
+http://213.91.178.133:8000/play/a05n
 
 #EXTINF:-1, S SPORT 1 🇹🇷
 http://smrtcn2803.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/115598
@@ -436,7 +442,31 @@ http://93.189.224.246:52900/play/a005/index.m3u8
 http://116.202.237.33:8080/NS5/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 
 #EXTINF:-1, M4 Sport HD 🇭🇺
-http://91.146.94.234:10000/play/a064
+http://91.146.94.234:10000/play/a064 
+
+#EXTINF:-1, Diema Sport HD 🇧🇬
+http://213.91.178.133:8000/play/a06q
+
+#EXTINF:-1, Diema Sport 2 HD 🇧🇬
+http://213.91.178.133:8000/play/a08e
+
+#EXTINF:-1, Diema Sport 3 HD 🇧🇬
+http://213.91.178.133:8000/play/a08f
+
+#EXTINF:-1, Nova Sport 🇧🇬
+http://213.91.178.133:8000/play/a04a
+
+#EXTINF:-1, MAX Sport 1 HD 🇧🇬
+http://213.91.178.133:8000/play/a0as
+
+#EXTINF:-1, MAX Sport 2 HD 🇧🇬
+http://213.91.178.133:8000/play/a0at
+
+#EXTINF:-1, MAX Sport 3 HD 🇧🇬
+http://213.91.178.133:8000/play/a0ar
+
+#EXTINF:-1, Max Sport 4 🇧🇬
+http://213.91.178.133:8000/play/a05n
 
 #EXTINF:-1, DIGI Sport 1 🇷🇴
 https://top2new.koskoros.ru/top2/premium400/mono.m3u8
