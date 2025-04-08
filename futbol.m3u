@@ -202,6 +202,12 @@ https://directplaylive.sbs/live/foot6/chunks.m3u8
 http://213.91.178.133:8000/play/a05n
 
 #EXTINF:-1, S SPORT 1 🇹🇷
+https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+
+#EXTINF:-1, S SPORT 2 🇹🇷
+https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+
+#EXTINF:-1, S SPORT 1 🇹🇷
 http://smrtcn2803.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/115598
 
 #EXTINF:-1, S SPORT 2 🇹🇷
