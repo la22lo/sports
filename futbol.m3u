@@ -6,6 +6,9 @@ http://45.68.35.218:4001/play/a00x/index.m3u8
 #EXTINF:-1, TUDN USA 🇺🇸
 http://181.78.106.127:9000/play/ca036/index.m3u8
 
+#EXTINF:-1, FOX 🇦🇷
+https://aavee3eer7us7x.thintheory.net/hls/84296fc815baf88c-58d34603d903e4b5838543ef9e2aa0b9ef085324490e5da39ab53c4feeefa9e5/live.m3u8
+
 #EXTINF:-1, ESPN 1 NORTE 🇩🇴
 http://45.71.254.1:8000/play/a0e6/index.m3u8
 
