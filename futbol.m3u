@@ -1,150 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, TUDN USA 🇺🇸
-http://45.68.35.218:4001/play/a00x/index.m3u8
-
-#EXTINF:-1, TUDN USA 🇺🇸
-http://181.78.106.127:9000/play/ca036/index.m3u8
-
-#EXTINF:-1, FOX 🇦🇷
-https://aavee3eer7us7x.thintheory.net/hls/84296fc815baf88c-58d34603d903e4b5838543ef9e2aa0b9ef085324490e5da39ab53c4feeefa9e5/live.m3u8
-
-#EXTINF:-1, ESPN 1 NORTE 🇩🇴
-http://45.71.254.1:8000/play/a0e6/index.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-http://s.only4.tv/5588/index.m3u8?token=TbCjsoc2cc
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-https://dffgtrdc.vffddd.online/bein1/index.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-https://dffgtrdc.vffddd.online:443/bein1/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-https://dffgtrdb.vffddd.online:8880/bein1/index.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-https://dffgtrdb.vffddd.online:8880/bein1/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-http://backup.gradina2.info/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/12644
-
-#EXTINF:-1, TUDN USA 🇺🇸
-https://x4-cdnnew.newkso.ru/x4-cdn/mono30/mono.m3u8
-
-#EXTINF:-1, ARENA SPORT 1 🇭🇷
-http://nl.iptvsolution.info/arena1hr/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
-
-#EXTINF:-1, HRT2 🇭🇷
-http://nl.iptvsolution.info/hrt2/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
-
-#EXTINF:-1, Sport5 🇮🇱
-https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
-
-#EXTINF:-1, DIGI SPORT 1 🇷🇴
-http://backup.gradina2.info/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/39886
-
-#EXTINF:-1, SPORTV5 🇵🇹
-https://stream.veo.buzz:6072/sport/ch1/adaptive.m3u8
-
-#EXTINF:-1, SPORTV5 🇵🇹
-http://backup.gradina2.info/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/69687
-
-#EXTINF:-1, ARENA SPORT 1 🇭🇷
-http://109.105.201.198/ARENASPORT1/index.m3u8?token=test
-
-#EXTINF:-1, PERSIANA SPORT 🇮🇷
-https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
-
-#EXTINF:-1, PERSIANA SPORT 🇮🇷
-https://spstr.abntv.live/hls/psstream.m3u8
-
-#EXTINF:-1, ESPN VIVO 🇦🇷
-http://45.71.254.1:8000/play/a038/index.m3u8
-
-#EXTINF:-1, ESPN VIVO 🇦🇷
-http://45.71.254.1:8000/play/a01r/index.m3u8
-
-#EXTINF:-1, MAX Sport 3 HD 🇧🇬
-http://213.91.178.133:8000/play/a0ar
-
-#EXTINF:-1, Fast Sports 🇦🇲
-http://stream01.vnet.am/Channel_131/mono.m3u8
-
-#EXTINF:-1, SOLH SPORT 🇦🇫
-https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
-
-#EXTINF:-1,TNT SPORTS 3 🇬🇧
-http://176.97.123.29/live.ts?channelId=269&uid=8&deviceMac=00:1A:79:6A:43:86
-
-#EXTINF:-1, ARENA SPORT 3 🇭🇷
-http://109.105.201.198/ARENASPORT3/video.m3u8?token=test
-
-#EXTINF:-1, Bien sport 2 🇶🇦
-http://45.139.122.148:8000/play/a005
-
-#EXTINF:-1,TNT SPORTS 1 🇬🇧
-http://176.97.123.29/live.ts?channelId=267&uid=8&deviceMac=00:1A:79:6A:43:86
-
-#EXTINF:-1,TNT SPORTS 3 🇬🇧
-http://176.97.123.29/live.ts?channelId=269&uid=8&deviceMac=00:1A:79:6A:43:86
-
-#EXTINF:-1, ARENA SPORT 2 🇭🇷
-http://109.105.201.198/Arenasport2/video.m3u8?token=test
-
-#EXTINF:-1, TEN SPORTS 🇮🇳
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-
-#EXTINF:-1, Bien sport 3 🇶🇦
-http://45.139.122.148:8000/play/a006
-
-#EXTINF:-1,TVP Sport HD 🇵🇱
-http://185.236.229.62:9981/play/a05l
-
-#EXTINF:-1,TVP 1 🇵🇱
-http://185.236.229.62:9981/play/a05i
-
-#EXTINF:-1, Ring 🇧🇬
-http://87.246.60.6:11021
-
-#EXTINF:-1, ESPN PREMIUM 🇦🇷
-http://190.102.246.93:9005/play/a00x
-
-#EXTINF:-1, ESPN PREMIUM 🇦🇷
-http://190.102.246.93:9005/play/a029
-
-#EXTINF:-1, ESPN 3 🇨🇴
-http://190.102.246.93:9005/play/a02l
-ñ
-#EXTINF:-1, ESPN 2 NORTE 🇩🇴
-http://45.71.254.1:8000/play/a0e7/index.m3u8
-
-#EXTINF:-1, CBS SPORT 🇺🇸
-https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-
-#EXTINF:-1, ARENA SPORT 2 🇭🇷
-http://109.105.201.198/Arenasport2/video.m3u8?token=test
-
-#EXTINF:-1, ARENA SPORT 4 🇭🇷
-http://109.105.201.198/ARENASPORT4/video.m3u8?token=test
-
-#EXTINF:-1,TNT SPORTS 1 🇬🇧
-http://176.97.123.29/live.ts?channelId=267&uid=8&deviceMac=00:1A:79:6A:43:86
-
-#EXTINF:-1,TNT SPORTS 1 🇬🇧
-http://pl.seetv.cc/play/922/1E20008EF0CBB6F/video.m3u8
-
-#EXTINF:-1,TNT SPORTS 2 🇬🇧
-http://176.97.123.29/live.ts?channelId=268&uid=8&deviceMac=00:1A:79:6A:43:86
-
-#EXTINF:-1,TNT SPORTS 2 🇬🇧
-http://pl.seetv.cc/play/923/1E20008EF0CBB6F/video.m3u8
-
-
-
-
-
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://190.92.10.66:4000/play/a003/index.m3u8
 
@@ -592,6 +447,148 @@ https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 #EXTINF:-1, TENNIS
 https://d3qg0hadt0dkov.cloudfront.net:443/amgtennisus/playlist1080_p.m3u8
 
+
+
+#EXTINF:-1, TUDN USA 🇺🇸
+http://45.68.35.218:4001/play/a00x/index.m3u8
+
+#EXTINF:-1, TUDN USA 🇺🇸
+http://181.78.106.127:9000/play/ca036/index.m3u8
+
+#EXTINF:-1, FOX 🇦🇷
+https://aavee3eer7us7x.thintheory.net/hls/84296fc815baf88c-58d34603d903e4b5838543ef9e2aa0b9ef085324490e5da39ab53c4feeefa9e5/live.m3u8
+
+#EXTINF:-1, ESPN 1 NORTE 🇩🇴
+http://45.71.254.1:8000/play/a0e6/index.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+http://s.only4.tv/5588/index.m3u8?token=TbCjsoc2cc
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+https://dffgtrdc.vffddd.online/bein1/index.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+https://dffgtrdc.vffddd.online:443/bein1/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+https://dffgtrdb.vffddd.online:8880/bein1/index.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+https://dffgtrdb.vffddd.online:8880/bein1/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+http://backup.gradina2.info/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/12644
+
+#EXTINF:-1, TUDN USA 🇺🇸
+https://x4-cdnnew.newkso.ru/x4-cdn/mono30/mono.m3u8
+
+#EXTINF:-1, ARENA SPORT 1 🇭🇷
+http://nl.iptvsolution.info/arena1hr/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+
+#EXTINF:-1, HRT2 🇭🇷
+http://nl.iptvsolution.info/hrt2/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
+
+#EXTINF:-1, Sport5 🇮🇱
+https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
+
+#EXTINF:-1, DIGI SPORT 1 🇷🇴
+http://backup.gradina2.info/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/39886
+
+#EXTINF:-1, SPORTV5 🇵🇹
+https://stream.veo.buzz:6072/sport/ch1/adaptive.m3u8
+
+#EXTINF:-1, SPORTV5 🇵🇹
+http://backup.gradina2.info/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/69687
+
+#EXTINF:-1, ARENA SPORT 1 🇭🇷
+http://109.105.201.198/ARENASPORT1/index.m3u8?token=test
+
+#EXTINF:-1, PERSIANA SPORT 🇮🇷
+https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
+
+#EXTINF:-1, PERSIANA SPORT 🇮🇷
+https://spstr.abntv.live/hls/psstream.m3u8
+
+#EXTINF:-1, ESPN VIVO 🇦🇷
+http://45.71.254.1:8000/play/a038/index.m3u8
+
+#EXTINF:-1, ESPN VIVO 🇦🇷
+http://45.71.254.1:8000/play/a01r/index.m3u8
+
+#EXTINF:-1, MAX Sport 3 HD 🇧🇬
+http://213.91.178.133:8000/play/a0ar
+
+#EXTINF:-1, Fast Sports 🇦🇲
+http://stream01.vnet.am/Channel_131/mono.m3u8
+
+#EXTINF:-1, SOLH SPORT 🇦🇫
+https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
+
+#EXTINF:-1,TNT SPORTS 3 🇬🇧
+http://176.97.123.29/live.ts?channelId=269&uid=8&deviceMac=00:1A:79:6A:43:86
+
+#EXTINF:-1, ARENA SPORT 3 🇭🇷
+http://109.105.201.198/ARENASPORT3/video.m3u8?token=test
+
+#EXTINF:-1, Bien sport 2 🇶🇦
+http://45.139.122.148:8000/play/a005
+
+#EXTINF:-1,TNT SPORTS 1 🇬🇧
+http://176.97.123.29/live.ts?channelId=267&uid=8&deviceMac=00:1A:79:6A:43:86
+
+#EXTINF:-1,TNT SPORTS 3 🇬🇧
+http://176.97.123.29/live.ts?channelId=269&uid=8&deviceMac=00:1A:79:6A:43:86
+
+#EXTINF:-1, ARENA SPORT 2 🇭🇷
+http://109.105.201.198/Arenasport2/video.m3u8?token=test
+
+#EXTINF:-1, TEN SPORTS 🇮🇳
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+
+#EXTINF:-1, Bien sport 3 🇶🇦
+http://45.139.122.148:8000/play/a006
+
+#EXTINF:-1,TVP Sport HD 🇵🇱
+http://185.236.229.62:9981/play/a05l
+
+#EXTINF:-1,TVP 1 🇵🇱
+http://185.236.229.62:9981/play/a05i
+
+#EXTINF:-1, Ring 🇧🇬
+http://87.246.60.6:11021
+
+#EXTINF:-1, ESPN PREMIUM 🇦🇷
+http://190.102.246.93:9005/play/a00x
+
+#EXTINF:-1, ESPN PREMIUM 🇦🇷
+http://190.102.246.93:9005/play/a029
+
+#EXTINF:-1, ESPN 3 🇨🇴
+http://190.102.246.93:9005/play/a02l
+ñ
+#EXTINF:-1, ESPN 2 NORTE 🇩🇴
+http://45.71.254.1:8000/play/a0e7/index.m3u8
+
+#EXTINF:-1, CBS SPORT 🇺🇸
+https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
+#EXTINF:-1, ARENA SPORT 2 🇭🇷
+http://109.105.201.198/Arenasport2/video.m3u8?token=test
+
+#EXTINF:-1, ARENA SPORT 4 🇭🇷
+http://109.105.201.198/ARENASPORT4/video.m3u8?token=test
+
+#EXTINF:-1,TNT SPORTS 1 🇬🇧
+http://176.97.123.29/live.ts?channelId=267&uid=8&deviceMac=00:1A:79:6A:43:86
+
+#EXTINF:-1,TNT SPORTS 1 🇬🇧
+http://pl.seetv.cc/play/922/1E20008EF0CBB6F/video.m3u8
+
+#EXTINF:-1,TNT SPORTS 2 🇬🇧
+http://176.97.123.29/live.ts?channelId=268&uid=8&deviceMac=00:1A:79:6A:43:86
+
+#EXTINF:-1,TNT SPORTS 2 🇬🇧
+http://pl.seetv.cc/play/923/1E20008EF0CBB6F/video.m3u8
 
 
 
