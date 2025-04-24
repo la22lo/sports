@@ -9,6 +9,15 @@ http://45.68.35.218:4001/play/a015/index.m3u8
 #EXTINF:-1, VIX LALIGA 🇲🇽
 http://45.68.35.218:4001/play/a01s/index.m3u8
 
+#EXTINF:-1, Bien sport 3 🇶🇦
+https://dffgtrdb.vffddd.online:8880/bein3/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Bien sport 3 🇶🇦
+https://dffgtrdc.vffddd.online/bein3/index.m3u8 
+
+#EXTINF:-1, Bien sport 3 🇶🇦
+https://dffgtrdc.vffddd.online:443/bein3/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1, Bien sport 1 🇶🇦
 https://dffgtrdc.vffddd.online/bein1/index.m3u8
 
@@ -53,15 +62,6 @@ https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/64
 
 #EXTINF:-1, S SPORT 2 🇹🇷
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-
-#EXTINF:-1, Bien sport 3 🇶🇦
-https://dffgtrdb.vffddd.online:8880/bein3/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1, Bien sport 3 🇶🇦
-https://dffgtrdc.vffddd.online/bein3/index.m3u8 
-
-#EXTINF:-1, Bien sport 3 🇶🇦
-https://dffgtrdc.vffddd.online:443/bein3/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1, ESPN BRAZIL 🇧🇷
 http://main.fonte021.com:80/Mestre1/102030mestre/91227
