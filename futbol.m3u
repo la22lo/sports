@@ -9,6 +9,9 @@ http://45.68.35.218:4001/play/a015/index.m3u8
 #EXTINF:-1, VIX LALIGA 🇲🇽
 http://45.68.35.218:4001/play/a01s/index.m3u8
 
+#EXTINF:-1, SKY LALIGA 🇲🇽
+http://45.228.234.173:9999/play/a00a/index.m3u8
+
 #EXTINF:-1, Bien sport 3 🇶🇦
 https://dffgtrdb.vffddd.online:8880/bein3/tracks-v1a1/mono.ts.m3u8
 
