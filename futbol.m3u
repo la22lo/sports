@@ -45,6 +45,9 @@ http://190.92.10.66:4000/play/a003/index.m3u8?elkiosko
 #EXTINF:-1,LALIGA TV 🇬🇧
 http://pddqrmu.mmastertv.xyz:80/RafetSalii/2893482853/191145
 
+#EXTINF:-1,BEIN 1 🇬🇧
+http://51.89.148.37:8080/catena-9-100-streamer-bein_sports_1_fhd/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+
 #EXTINF:-1,ESPN 🇨🇴
 http://181.78.74.69:8000/play/a056/index.m3u8
 
