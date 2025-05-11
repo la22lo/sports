@@ -12,6 +12,9 @@ http://45.68.35.218:4001/play/a01s/index.m3u8
 #EXTINF:-1, SKY LALIGA 🇲🇽
 http://45.228.234.173:9999/play/a00a/index.m3u8
 
+#EXTINF:-1, ESPN 🇦🇷
+https://wechtata.pro/hls/377qj1h2727.m3u8?st=r9zWdHD_lyoif-VbiwXjxoIcOjv5U2OI7HmV_SVaRqo&e=1745160433
+
 #EXTINF:-1, S SPORT 🇹🇷
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 
