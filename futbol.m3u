@@ -15,6 +15,12 @@ http://45.228.234.173:9999/play/a00a/index.m3u8
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://thevdm.xyz:25461/Vargasfam99/fBTVegQTCz/19888
 
+#EXTINF:-1,DIGI SPORT 1 🇷🇴
+https://p13.magicplaces.eu/digisport1hd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=63e731a1063e22e03dac867dce82fd4a63b00fb5-aee52db6f75aad8d9a21b2ac751ceea0-1746982192-1746971392
+
+#EXTINF:-1, ESPN 🇦🇷
+https://da6c7ced2e7a.us-east-1.playback.live-video.net/api/video/v1/us-east-1.119944160185.channel.YssGv6m7EPVb.m3u8
+
 #EXTINF:-1, ESPN 🇦🇷
 https://wechtata.pro/hls/377qj1h2727.m3u8?st=r9zWdHD_lyoif-VbiwXjxoIcOjv5U2OI7HmV_SVaRqo&e=1745160433
 
