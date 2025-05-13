@@ -42,6 +42,9 @@ https://dffgtrdc.vffddd.online:443/bein1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, Bien sport 1 🇶🇦
 https://dffgtrdb.vffddd.online:8880/bein1/index.m3u8
 
+#EXTINF:-1, ESPN 2 🇦🇷
+http://181.205.130.194:4000/play/a07i
+
 #EXTINF:-1, ELEVEN 2 🇵🇹
 https://stream.veo.buzz:6073/sport/ch2/adaptive.m3u8
 
