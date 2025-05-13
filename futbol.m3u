@@ -165,6 +165,15 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1,BEIN SPORT EXTRA Ñ 🇪🇸
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
+#EXTINF:-1,FOX SPORT 1 🇦🇷
+http://190.11.130.46/mnp/fox_sport_hls/playlist.m3u8
+
+#EXTINF:-1,FOX SPORT 2 🇦🇷
+http://190.11.130.46/mnp/fox_sport2_hls/playlist.m3u8
+
+#EXTINF:-1,FOX SPORT 3 🇦🇷
+http://190.11.130.46/mnp/fox_sport3_hls/playlist.m3u8
+
 #EXTINF:-1, TELECOSTA GUATEMALA 🇬🇹
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
