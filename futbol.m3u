@@ -168,6 +168,12 @@ http://116.202.237.33:8080/CNLS3/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4
 #EXTINF:-1, CANAL + SPORT 2 🇫🇷
 http://116.202.237.33:8080/CNLS2/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 
+#EXTINF:-1, ESPN VIVO 🇨🇴
+http://190.60.56.41:8000/play/a00z/index.m3u8
+
+#EXTINF:-1, ESPN 5 🇨🇴
+http://190.60.56.41:8000/play/a00p/index.m3u8
+
 #EXTINF:-1,TV1 🇪🇸
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 
