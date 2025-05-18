@@ -99,6 +99,9 @@ http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Матч! 🇷🇺
 https://tv.movielab.pro/397/video.m3u8?token=a1482ee4e66b46d4eaa25cd70164d9ba869910e5-92de6ea78159a61c6c26b17de6bd8b5e-1747637717-1747551317
 
+#EXTINF:-1, Матч! 🇷🇺
+https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
+
 #EXTINF:-1, Матч! Футбол 1 HD 🇷🇺
 https://tv.movielab.pro/260/video.m3u8?token=bdc3439aa67c433022f4412ad54e90b1cd2ef09e-a1d69541788a9b3102291351de025ffb-1747637717-1747551317
 
