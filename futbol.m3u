@@ -192,6 +192,9 @@ http://190.60.37.118:4000/play/a02z
 #EXTINF:-1, ESPN 7 🇨🇴
 http://190.60.37.118:4000/play/a09j
 
+#EXTINF:-1, CARACOL TV 🇨🇴
+http://181.78.14.26:8000/play/a00d
+
 #EXTINF:-1,TV1 🇪🇸
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 
