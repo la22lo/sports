@@ -12,6 +12,9 @@ http://45.228.234.173:9999/play/a03z/index.m3u8
 #EXTINF:-1, AZTECA GUATE 🇬🇹
 http://45.228.234.173:9999/play/a00l/index.m3u8
 
+#EXTINF:-1, AZTECA GUATE 🇬🇹
+http://45.68.35.218:4001/play/a00n/index.m3u8
+
 #EXTINF:-1, WIN SPORTS 🇨🇴
 http://200.59.188.3:8000/play/a03y
 
