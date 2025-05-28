@@ -27,6 +27,9 @@ http://45.68.35.218:4001/play/a00x/index.m3u8
 #EXTINF:-1, TUDN 🇲🇽
 http://45.228.234.173:9999/play/a069/index.m3u8
 
+#EXTINF:-1, F1 🇪🇸
+https://bigboss.bemtv.cn/STREAM/23021/chunks.m3u8
+
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://190.92.10.66:4000/play/a003/index.m3u8
 
