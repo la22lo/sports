@@ -6,6 +6,9 @@ http://172.93.102.112:8989/158753_.m3u8
 #EXTINF:-1,UNIVISION 🇺🇸
 http://172.93.102.112:8989/158765_.m3u8
 
+#EXTINF:-1, WIN SPORTS 🇨🇴
+http://200.59.188.3:8000/play/a03y
+
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://190.92.10.66:4000/play/a003/index.m3u8
 
