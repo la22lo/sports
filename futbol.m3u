@@ -21,6 +21,9 @@ http://200.59.188.3:8000/play/a03y
 #EXTINF:-1, WIN SPORTS 🇨🇴
 http://190.60.38.45:8000/play/a0hz/index.m3u8
 
+#EXTINF:-1, TUDN 🇺🇸
+http://45.68.35.218:4001/play/a00x/index.m3u8
+
 #EXTINF:-1, TUDN 🇲🇽
 http://45.228.234.173:9999/play/a069/index.m3u8
 
