@@ -144,11 +144,23 @@ http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1, Bein Sports 1 HD 🇶🇦
 http://bdd78.4rouwanda-shop.store/live/918454578001/index.m3u8?t=hY6lFWVqs01l25PnZ8Oe5g&e=1746694034
 
+#EXTINF:-1, Bein Sports 1 HD 🇶🇦
+http://het116a.4rouwanda-shop.store/live/918454578001/index.m3u8
+
 #EXTINF:-1, Bein Sports 2 HD 🇶🇦
 http://bdd78.4rouwanda-shop.store/live/69854211/index.m3u8?t=dSkWDwmedPFMXpeUPlbssA&e=1746690538
 
+#EXTINF:-1, Bein Sports 2 HD 🇶🇦
+http://het102a.4rouwanda-shop.store/live/69854211/index.m3u8
+
 #EXTINF:-1, Bein Sports 3 HD 🇶🇦
 http://het105a.4rouwanda-shop.store/live/645587700/index.m3u8?t=TFp8X6N2osKzUDGdNu8i8g&e=1746696608
+
+#EXTINF:-1, Bein Sports 3 HD 🇶🇦
+http://bdd78.4rouwanda-shop.store/live/645587700/index.m3u8
+
+#EXTINF:-1, Bein Sports 4 HD 🇶🇦
+http://het111a.4rouwanda-shop.store/live/0103088447/index.m3u8
 
 #EXTINF:-1, Bein Sports 4 HD 🇶🇦
 http://het113a.4rouwanda-shop.store/live/9787488847/index.m3u8?t=9-KEqe-vrK0X2FiG6npPsw&e=1746696675
@@ -162,8 +174,14 @@ http://pl.seetv.cc/play/1104/1E20008EF0CBB6F/video.m3u8
 #EXTINF:-1, Bein Sports 5 HD 🇶🇦
 http://het116a.4rouwanda-shop.store/live/610303030/index.m3u8?t=nRmQGBbF7BPTMcslPC8-tg&e=1746696995
 
+#EXTINF:-1, Bein Sports 5 HD 🇶🇦
+http://bdd78.4rouwanda-shop.store/live/610303030/index.m3u8
+
 #EXTINF:-1, Bein Sports 6 HD 🇶🇦
 http://het120a.4rouwanda-shop.store/live/1515000000/index.m3u8?t=D-6Qfcx-joQNm2IilZzBXg&e=1746695319
+
+#EXTINF:-1, Bein Sports 6 HD 🇶🇦
+http://bdd78.4rouwanda-shop.store/live/1515000000/index.m3u8?t=HzA5wfyyXqwTdMUSZQqu_A&e=1748513199
 
 #EXTINF:-1, Bein Sports 7 HD 🇶🇦
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar7.m3u8
