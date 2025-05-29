@@ -246,6 +246,12 @@ https://32tech0steam0dp01.org/live/DE_DAZN1/chunks.m3u8
 #EXTINF:-1, DAZN 2 🇩🇪
 https://esx1new.newkso.ru/esx1/primadazn2pt/mono.m3u8
 
+#EXTINF:-1, DAZN 3 🇩🇪
+https://esx1new.newkso.ru/esx1/primadazn3pt/mono.m3u8
+
+#EXTINF:-1, DAZN 4 🇩🇪
+https://esx1new.newkso.ru/esx1/primadazn4pt/mono.m3u8
+
 #EXTINF:-1, ESPN VIVO 🇨🇴
 http://190.60.56.41:8000/play/a00z/index.m3u8
 
