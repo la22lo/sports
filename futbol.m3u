@@ -276,6 +276,9 @@ https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/chunklist_
 #EXTINF:-1,NOVA SPORT 5 🇨🇿
 http://116.202.237.33:8080/NS5/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 
+#EXTINF:-1, CANAL+ SPORT 2 HD 🇨🇿
+http://185.236.230.212:9982/play/a0b9
+
 #EXTINF:-1, Diema Sport HD 🇧🇬
 http://213.91.178.133:8000/play/a06q
 
