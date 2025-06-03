@@ -42,6 +42,9 @@ http://45.68.35.218:4001/play/a015/index.m3u8
 #EXTINF:-1, VIX LALIGA 🇲🇽
 http://45.68.35.218:4001/play/a01s/index.m3u8
 
+#EXTINF:-1, SKY SPORT LA LIGA 🇲🇽
+http://190.92.10.66:4000/play/a001/index.m3u8
+
 #EXTINF:-1, M LIGA 🇪🇸
 http://181.78.106.127:9000/play/ca027/index.m3u8
 
