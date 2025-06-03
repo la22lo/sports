@@ -318,6 +318,9 @@ https://esx1new.newkso.ru/esx1/primadazn3pt/mono.m3u8
 #EXTINF:-1, DAZN 4 🇩🇪
 https://esx1new.newkso.ru/esx1/primadazn4pt/mono.m3u8
 
+#EXTINF:-1, DAZN PRO LEAGUE 1 🇧🇪
+http://185.236.230.212:9982/play/a09q
+
 #EXTINF:-1, ESPN VIVO 🇨🇴
 http://190.60.56.41:8000/play/a00z/index.m3u8
 
