@@ -219,6 +219,42 @@ http://bdd78.4rouwanda-shop.store/live/1515000000/index.m3u8?t=HzA5wfyyXqwTdMUSZ
 #EXTINF:-1, Bein Sports 7 HD 🇶🇦
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar7.m3u8
 
+#EXTINF:-1, BeIn Sports 1 HD 🇫🇷
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/1490095787/index.m3u8
+
+#EXTINF:-1, BeIn Sports 2 HD 🇫🇷
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/3596486984/index.m3u8
+
+#EXTINF:-1, BeIn Sports 3 HD 🇫🇷
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/3758995179/index.m3u8
+
+#EXTINF:-1, Canal+ HD 🇫🇷
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/4177424223/index.m3u8
+
+#EXTINF:-1, Canal+ Foot HD 🇫🇷
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/3299673666/index.m3u8
+
+#EXTINF:-1, Canal+ Sport 360 HD 🇫🇷
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/3411759213/index.m3u8
+
+#EXTINF:-1, Canal+ Sport HD 🇫🇷
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/3280446601/index.m3u8
+
+#EXTINF:-1, Infosport+ HD 🇫🇷
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/3208238801/index.m3u8
+
+#EXTINF:-1, RMC Sport 1 HD 🇫🇷
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/2893363456/index.m3u8
+
+#EXTINF:-1, RMC Sport 2 HD 🇫🇷
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/2516059589/index.m3u8
+
+#EXTINF:-1, CANAL + SPORT 🇫🇷
+http://116.202.237.33:8080/CNLS3/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+
+#EXTINF:-1, CANAL + SPORT 2 🇫🇷
+http://116.202.237.33:8080/CNLS2/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+
 #EXTINF:-1, Матч! 🇷🇺
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 
@@ -320,12 +356,6 @@ http://213.91.178.133:8000/play/a0ar
 
 #EXTINF:-1, Max Sport 4 🇧🇬
 http://213.91.178.133:8000/play/a05n
-
-#EXTINF:-1, CANAL + SPORT 🇫🇷
-http://116.202.237.33:8080/CNLS3/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
-
-#EXTINF:-1, CANAL + SPORT 2 🇫🇷
-http://116.202.237.33:8080/CNLS2/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 
 #EXTINF:-1, ZIGGO SPORT 1 HD 🇳🇱
 http://185.236.230.212:9982/play/a09f
