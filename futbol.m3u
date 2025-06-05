@@ -498,6 +498,9 @@ http://190.102.139.129:8090/play/a083
 #EXTINF:-1, TELECOSTA GUATEMALA 🇬🇹
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
+#EXTINF:-1, SPORTV 🇧🇷
+https://dahfeboomanz.sbs/automatically/1
+
 #EXTINF:-1, ITV DEPORTES 🇲🇽
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 
