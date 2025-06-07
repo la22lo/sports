@@ -28,9 +28,6 @@ http://190.60.38.45:8000/play/a0hz/index.m3u8
 http://38.180.133.31:8000/play/a11m/index.m3u8
 
 #EXTINF:-1, TUDN 🇺🇸
-http://45.68.35.218:4001/play/a00x/index.m3u8
-
-#EXTINF:-1, TUDN 🇺🇸
 http://190.92.10.66:4000/play/a002/index.m3u8
 
 #EXTINF:-1, UNIVISION 🇺🇸
@@ -41,9 +38,6 @@ http://38.180.133.31:8000/play/a138/index.m3u8
 
 #EXTINF:-1, TELEAMAZONAS 🇪🇨
 http://38.180.133.31:8000/play/a11p/index.m3u8
-
-#EXTINF:-1, TUDN 🇲🇽
-http://45.228.234.173:9999/play/a069/index.m3u8
 
 #EXTINF:-1, F1 🇪🇸
 https://bigboss.bemtv.cn/STREAM/23021/chunks.m3u8
