@@ -636,6 +636,9 @@ http://ott-cdn.ucom.am/s83/03.m3u8
 #EXTINF:-1, AIO SPORT 🇶🇦
 https://cdn-azd2046.telewebion.com/ek/tv3/live/720p/index.m3u8?isp=NA&city=NA
 
+#EXTINF:-1, VARZESH TV 🇸🇦
+https://balance.footballii.ir/hls2/varzeshtv.m3u8
+
 #EXTINF:-1, IRIB TV3 🇸🇦
 https://cdn.telewebion.com/tv3/live/720p/index.m3u8
 
