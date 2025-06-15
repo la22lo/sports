@@ -751,3 +751,18 @@ https://sizdahomae2.sbs/automatically/1
 
 #EXTINF:-1,EUROSPORT 1 🇪🇸
 http://origi-JW-1.netvil43.store:80/RO-110/tracks-v1a1/mono.m3u8?token=c1lhc3Q1ZVhxcXJIZTU2c2ZhdTRtWlBiMkppd3k2K0EyNE9keU5xbG1YekRxb1d1Z1plV282T1dlNU9xZ3FxeGxaT3ZvNmFGbkxLSHZJV2ZrN3Fzbm93PQ%3D%3D
+
+#EXTINF:-1, Bein Sports 1 🇶🇦
+http://125x.org:8080/bn1hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Bein Sports 2 🇶🇦
+http://125x.org:8080/bn2hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Bein Sports 3 🇶🇦
+http://125x.org:8080/bn3hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Bein Sports 4 🇶🇦
+http://125x.org:8080/bn4hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Bein Sports 6 🇶🇦
+http://125x.org:8080/bn6hd/tracks-v1a1/mono.m3u8
