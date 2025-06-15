@@ -737,6 +737,9 @@ http://pl.seetv.cc/play/922/1E20008EF0CBB6F/video.m3u8
 #EXTINF:-1,TNT SPORTS 2 🇬🇧
 http://pl.seetv.cc/play/923/1E20008EF0CBB6F/video.m3u8
 
+#EXTINF:-1,MC 🇸🇦
+https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlistBU_1_.m3u8
+
 #EXTINF:-1,ESPN 🇦🇷
 https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8
 
