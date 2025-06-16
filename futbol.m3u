@@ -366,6 +366,9 @@ https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/34117
 #EXTINF:-1, Canal+ Sport HD 🇫🇷
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/3280446601/index.m3u8
 
+#EXTINF:-1, Canal+ Sport 1 HD 🇫🇷
+http://azers.online/play/live.php?mac=00:1A:79:46:E7:E4&stream=1155540&extension=ts&play_token=RgTd5r3rbc
+
 #EXTINF:-1, Infosport+ HD 🇫🇷
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/3208238801/index.m3u8
 
@@ -474,8 +477,14 @@ http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2523/index.m3u8
 #EXTINF:-1, Digi Sport 2 🇷🇴
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2522/index.m3u8
 
+#EXTINF:-1, Digi Sport 2 🇷🇴
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium401
+
 #EXTINF:-1, Digi Sport 3 🇷🇴
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2524/index.m3u8
+
+#EXTINF:-1, Digi Sport 3 🇷🇴
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium402
 
 #EXTINF:-1, Digi Sport 4 🇷🇴
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2538/index.m3u8
