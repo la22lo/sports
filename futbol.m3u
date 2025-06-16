@@ -21,6 +21,21 @@ http://45.228.234.173:9999/play/a00l/index.m3u8
 #EXTINF:-1, AZTECA GUATE 🇬🇹
 http://38.180.133.31:8000/play/a0oa/index.m3u8
 
+#EXTINF:-1, TUDN 🇺🇸
+http://190.92.10.66:4000/play/a002/index.m3u8
+
+#EXTINF:-1, UNIVISION 🇺🇸
+http://190.92.10.66:4000/play/a005/index.m3u8
+
+#EXTINF:-1, DSPORTS 1 🇦🇷
+http://38.211.242.128:8001/play/a09s/index.m3u8
+
+#EXTINF:-1, DSPORTS 2 🇦🇷
+http://38.211.242.128:8001/play/a05g/index.m3u8
+
+#EXTINF:-1, DSPORTS + 🇦🇷
+http://38.211.242.128:8001/play/a05h/index.m3u8
+
 #EXTINF:-1, WIN SPORTS 🇨🇴
 http://200.59.188.3:8000/play/a03y
 
@@ -29,12 +44,6 @@ http://190.60.38.45:8000/play/a0hz/index.m3u8
 
 #EXTINF:-1, WIN SPORTS 🇨🇴
 http://38.180.133.31:8000/play/a11m/index.m3u8
-
-#EXTINF:-1, TUDN 🇺🇸
-http://190.92.10.66:4000/play/a002/index.m3u8
-
-#EXTINF:-1, UNIVISION 🇺🇸
-http://190.92.10.66:4000/play/a005/index.m3u8
 
 #EXTINF:-1, TELEAMAZONAS 🇪🇨
 http://38.180.133.31:8000/play/a138/index.m3u8
