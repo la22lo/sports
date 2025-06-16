@@ -33,6 +33,9 @@ https://sizdahomae2.sbs/automatically/1
 #EXTINF:-1,DAZN 🇸🇦
 https://sizdekemoina.sbs/automatically/1
 
+#EXTINF:-1,DAZN 🇸🇦
+https://live-ak.vimeocdn.com/exp=1750107367~acl=%2F49dbb38d-e753-4860-aeab-e0727e6b57d0%2F%2A~hmac=7b128476d50d374329de199c83cbe53459d0e5681d36b245ae3bf90a32ad4658/49dbb38d-e753-4860-aeab-e0727e6b57d0/chunklist_b3256000.m3u8?max_segments=10
+
 #EXTINF:-1, TUDN 🇺🇸
 http://190.92.10.66:4000/play/a002/index.m3u8
 
