@@ -132,6 +132,12 @@ http://bdd78.4rouwanda-shop.store/live/918454578001/index.m3u8?t=mSyGELLpov4FaJB
 #EXTINF:-1, Bien sport 1 🇶🇦
 http://cdnvine.com:8080/bn1hd/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, Bien sport 1 🇶🇦
+http://125.209.88.166:45793/BRN/beINSP11.stream/chunklist_w319570480.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+
 #EXTINF:-1, ESPN 2 🇦🇷
 http://181.205.130.194:4000/play/a07i
 
