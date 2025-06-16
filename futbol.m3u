@@ -21,6 +21,9 @@ http://45.228.234.173:9999/play/a00l/index.m3u8
 #EXTINF:-1, AZTECA GUATE 🇬🇹
 http://38.180.133.31:8000/play/a0oa/index.m3u8
 
+#EXTINF:-1,MC 🇸🇦
+https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlistBU_1_.m3u8
+
 #EXTINF:-1,DAZN 🇸🇦
 https://sizdahomae2.sbs/automatically/1
 
@@ -847,9 +850,6 @@ http://pl.seetv.cc/play/922/1E20008EF0CBB6F/video.m3u8
 
 #EXTINF:-1,TNT SPORTS 2 🇬🇧
 http://pl.seetv.cc/play/923/1E20008EF0CBB6F/video.m3u8
-
-#EXTINF:-1,MC 🇸🇦
-https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlistBU_1_.m3u8
 
 #EXTINF:-1,FOX SOCCER PLUS 🇦🇷
 https://ddy6new.newkso.ru/ddy6/premium756/mono.m3u8
