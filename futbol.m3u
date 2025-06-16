@@ -36,6 +36,12 @@ http://38.211.242.128:8001/play/a05g/index.m3u8
 #EXTINF:-1, DSPORTS + 🇦🇷
 http://38.211.242.128:8001/play/a05h/index.m3u8
 
+#EXTINF:-1,ESPN 🇦🇷
+https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8
+
+#EXTINF:-1, ESPN 🇦🇷
+http://181.205.130.194:4000/play/a07i
+
 #EXTINF:-1, MASR2 🇶🇦
 https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 
@@ -823,9 +829,6 @@ http://pl.seetv.cc/play/923/1E20008EF0CBB6F/video.m3u8
 
 #EXTINF:-1,MC 🇸🇦
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlistBU_1_.m3u8
-
-#EXTINF:-1,ESPN 🇦🇷
-https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8
 
 #EXTINF:-1,FOX SOCCER PLUS 🇦🇷
 https://ddy6new.newkso.ru/ddy6/premium756/mono.m3u8
