@@ -36,21 +36,6 @@ http://38.211.242.128:8001/play/a05g/index.m3u8
 #EXTINF:-1, DSPORTS + 🇦🇷
 http://38.211.242.128:8001/play/a05h/index.m3u8
 
-#EXTINF:-1, WIN SPORTS 🇨🇴
-http://200.59.188.3:8000/play/a03y
-
-#EXTINF:-1, WIN SPORTS 🇨🇴
-http://190.60.38.45:8000/play/a0hz/index.m3u8
-
-#EXTINF:-1, WIN SPORTS 🇨🇴
-http://38.180.133.31:8000/play/a11m/index.m3u8
-
-#EXTINF:-1, TELEAMAZONAS 🇪🇨
-http://38.180.133.31:8000/play/a138/index.m3u8
-
-#EXTINF:-1, TELEAMAZONAS 🇪🇨
-http://38.180.133.31:8000/play/a11p/index.m3u8
-
 #EXTINF:-1, MASR2 🇶🇦
 https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 
@@ -71,6 +56,21 @@ https://d3o3cim6uzorb4.cloudfront.net/out/v1/f683685242b549f48ea8a5171e3e993a/in
 
 #EXTINF:-1, MASR 🇶🇦
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
+
+#EXTINF:-1, WIN SPORTS 🇨🇴
+http://200.59.188.3:8000/play/a03y
+
+#EXTINF:-1, WIN SPORTS 🇨🇴
+http://190.60.38.45:8000/play/a0hz/index.m3u8
+
+#EXTINF:-1, WIN SPORTS 🇨🇴
+http://38.180.133.31:8000/play/a11m/index.m3u8
+
+#EXTINF:-1, TELEAMAZONAS 🇪🇨
+http://38.180.133.31:8000/play/a138/index.m3u8
+
+#EXTINF:-1, TELEAMAZONAS 🇪🇨
+http://38.180.133.31:8000/play/a11p/index.m3u8
 
 #EXTINF:-1, TELEFE 🇦🇷
 http://200.115.120.1:8000/play/ca016/index.m3u8
