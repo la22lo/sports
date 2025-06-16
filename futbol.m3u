@@ -681,6 +681,12 @@ https://balance.footballii.ir/hls2/varzeshtv.m3u8
 #EXTINF:-1, IRIB TV3 🇸🇦
 https://cdn.telewebion.com/tv3/live/720p/index.m3u8
 
+#EXTINF:-1, ONTIME SPORTS HD 🇪🇬
+http://149.62.177.103:8000/play/a08d
+
+#EXTINF:-1, ONTIME SPORTS 2 🇪🇬
+http://149.62.177.103:8000/play/a08e
+
 #EXTINF:-1,ALFAJR 🇪🇬
 http://platform.topuphost.com:8577/live/alfajr.stream/playlist.m3u8
 
