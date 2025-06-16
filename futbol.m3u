@@ -81,6 +81,12 @@ https://d3o3cim6uzorb4.cloudfront.net/out/v1/f683685242b549f48ea8a5171e3e993a/in
 #EXTINF:-1, MASR 🇶🇦
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
 
+#EXTINF:-1, KAZAJISTAN SPORT 🇰🇿
+https://qazaqstantv-stream.qazcdn.com:443/qazaqstantv/qazaqstantv/tracks-v4a1/mono.ts.m3u8
+
+#EXTINF:-1, KAZAJISTAN SPORT 🇰🇿
+https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
+
 #EXTINF:-1, WIN SPORTS 🇨🇴
 http://200.59.188.3:8000/play/a03y
 
