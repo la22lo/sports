@@ -333,6 +333,12 @@ http://bdd78.4rouwanda-shop.store/live/610303030/index.m3u8
 #EXTINF:-1, Bein Sports 5 HD 🇶🇦
 http://54.36.62.43:80/play/xZLF1R_fqr1wrf6C4I6XVxCXZOiKgocw8u0f88-r_c-VJka83OWwepwCRvR4y3ti/ts
 
+#EXTINF:-1, Bein Sports 5 🇶🇦
+https://abcc.yallashooot.store:8181/bein5/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Bein Sports 5 🇶🇦
+https://abcc.yallashooot.store:8181/bein5/index.m3u8
+
 #EXTINF:-1, Bein Sports 6 HD 🇶🇦
 http://het120a.4rouwanda-shop.store/live/1515000000/index.m3u8?t=D-6Qfcx-joQNm2IilZzBXg&e=1746695319
 
