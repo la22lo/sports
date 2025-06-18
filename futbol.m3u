@@ -18,6 +18,12 @@ http://45.228.234.173:9999/play/a00l/index.m3u8
 #EXTINF:-1, AZTECA GUATE 🇬🇹
 http://38.180.133.31:8000/play/a0oa/index.m3u8
 
+#EXTINF:-1, TNT DAZN 🇬🇧
+https://nohddaezronnaz.sbs/automatically/1
+
+#EXTINF:-1, TNT DAZN 🇬🇧
+https://panmertnabz.sbs/automatically/1
+
 #EXTINF:-1,DAZN 🇸🇦
 https://abcc.yallashooot.store:8181/dnaz/index.m3u8
 
@@ -35,9 +41,6 @@ http://190.92.10.66:4000/play/a002/index.m3u8
 
 #EXTINF:-1, UNIVISION 🇺🇸
 http://190.92.10.66:4000/play/a005/index.m3u8
-
-#EXTINF:-1, TNT DAZN 🇬🇧
-https://nohddaezronnaz.sbs/automatically/1
 
 #EXTINF:-1, DSPORTS 1 🇦🇷
 http://200.59.188.3:8000/play/a0xe
