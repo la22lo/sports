@@ -252,6 +252,18 @@ http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Матч! 🇷🇺
 https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
 
+#EXTINF:-1, Матч! 🇷🇺
+http://178.217.72.66:8080/Match_HD/video.m3u8
+
+#EXTINF:-1, Матч! Футбол 1 HD 🇷🇺
+http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
+
+#EXTINF:-1, Матч! Футбол 2 HD 🇷🇺
+http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
+
+#EXTINF:-1, Матч! Футбол 3 HD 🇷🇺
+http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
+
 #EXTINF:-1, Матч! Футбол 3 HD 🇷🇺
 http://185.57.68.33/110/mpegts
 
