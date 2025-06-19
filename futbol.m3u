@@ -9,15 +9,6 @@ http://190.92.10.66:4000/play/a008/index.m3u8
 #EXTINF:-1,DIRECTV SPORT 🇦🇷
 http://104.238.205.28:8989/278758_.m3u8
 
-#EXTINF:-1, AZTECA GUATE 🇬🇹
-http://45.228.234.173:9999/play/a03z/index.m3u8
-
-#EXTINF:-1, AZTECA GUATE 🇬🇹
-http://45.228.234.173:9999/play/a00l/index.m3u8
-
-#EXTINF:-1, AZTECA GUATE 🇬🇹
-http://38.180.133.31:8000/play/a0oa/index.m3u8
-
 #EXTINF:-1, TNT DAZN 🇬🇧
 https://nohddaezronnaz.sbs/automatically/1
 
@@ -44,6 +35,15 @@ https://sizdekemoina.sbs/automatically/1
 
 #EXTINF:-1, DAZN 1 🇩🇪
 https://32tech0steam0dp01.org/live/DE_DAZN1/chunks.m3u8
+
+#EXTINF:-1, AZTECA GUATE 🇬🇹
+http://45.228.234.173:9999/play/a03z/index.m3u8
+
+#EXTINF:-1, AZTECA GUATE 🇬🇹
+http://45.228.234.173:9999/play/a00l/index.m3u8
+
+#EXTINF:-1, AZTECA GUATE 🇬🇹
+http://38.180.133.31:8000/play/a0oa/index.m3u8
 
 #EXTINF:-1, TUDN 🇺🇸
 http://190.92.10.66:4000/play/a002/index.m3u8
