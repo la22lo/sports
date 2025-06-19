@@ -300,6 +300,15 @@ http://78.130.250.2:8023/play/a02v/index.m3u8
 #EXTINF:-1,CANAL+ SPORT 2 HD 🇵🇱
 http://78.130.250.2:8023/play/a02w/index.m3u8
 
+#EXTINF:-1, POLSAT SPORT 1 🇵🇱
+http://185.236.229.62:9981/play/a07n
+
+#EXTINF:-1, POLSAT SPORT 2 🇵🇱
+http://185.236.229.62:9981/play/a07q
+
+#EXTINF:-1, POLSAT SPORT 3 🇵🇱
+http://185.236.229.62:9981/play/a06m
+
 #EXTINF:-1, BELARUS 5 🇧🇾
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
 
