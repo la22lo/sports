@@ -294,6 +294,12 @@ http://185.236.229.62:9981/play/a04c
 #EXTINF:-1,CANAL+ SPORT 2 HD 🇵🇱
 http://185.236.229.62:9981/play/a05t
 
+#EXTINF:-1, CANAL+ SPORT HD 🇵🇱
+http://78.130.250.2:8023/play/a02v/index.m3u8
+
+#EXTINF:-1,CANAL+ SPORT 2 HD 🇵🇱
+http://78.130.250.2:8023/play/a02w/index.m3u8
+
 #EXTINF:-1, BELARUS 5 🇧🇾
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
 
