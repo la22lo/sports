@@ -54,6 +54,9 @@ http://190.92.10.66:4000/play/a005/index.m3u8
 #EXTINF:-1, DSPORTS 1 🇦🇷
 http://200.59.188.3:8000/play/a0xe
 
+#EXTINF:-1, DSPORTS 2 🇦🇷
+http://181.78.106.127:9000/play/ca026/index.m3u8
+
 #EXTINF:-1, ESPN 2 🇦🇷
 http://181.205.130.194:4000/play/a07i
 
