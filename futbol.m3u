@@ -108,6 +108,9 @@ http://190.92.10.66:4000/play/a003/index.m3u8
 #EXTINF:-1, SKY SPORT LA LIGA 🇲🇽
 http://190.92.10.66:4000/play/a001/index.m3u8
 
+#EXTINF:-1, SKY SPORT LA LIGA 🇲🇽
+http://181.78.106.127:9000/play/ca030/index.m3u8
+
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://thevdm.xyz:25461/Vargasfam99/fBTVegQTCz/19888
 
