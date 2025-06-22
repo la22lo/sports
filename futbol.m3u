@@ -48,6 +48,9 @@ http://38.180.133.31:8000/play/a0oa/index.m3u8
 #EXTINF:-1, TUDN 🇺🇸
 http://190.92.10.66:4000/play/a002/index.m3u8
 
+#EXTINF:-1, TUDN 🇺🇸
+http://190.83.2.178:8009/play/a06j/index.m3u8
+
 #EXTINF:-1, UNIVISION 🇺🇸
 http://190.92.10.66:4000/play/a005/index.m3u8
 
