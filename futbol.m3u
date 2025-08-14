@@ -147,9 +147,6 @@ http://185.236.230.212:9982/play/a09w
 #EXTINF:-1, JOJ SPORT HD 🇸🇰
 http://185.236.230.212:9982/play/a0ax
 
-#EXTINF:-1, DIRECTV SPORT 🇦🇷
-http://104.238.205.28:8989/278758_.m3u8
-
 #EXTINF:-1, ESPN VIVO 🇨🇴
 http://190.60.56.41:8000/play/a00z/index.m3u8
 
@@ -195,14 +192,8 @@ http://200.115.120.1:8000/play/ca016/index.m3u8
 #EXTINF:-1,TV2 🇪🇸
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
-#EXTINF:-1,TELEDEPORTE 🇪🇸
-https://32tech0steam0dp01.org/live/ES_TeledeporteHD/chunks.m3u8
-
 #EXTINF:-1,GOLTV 🇪🇸
 http://176.65.146.237:8401/play/a09k/index.m3u8
-
-#EXTINF:-1,VAMOS 🇪🇸
-https://wikinew.newkso.ru/wiki/movistarvamos/mono.m3u8
 
 #EXTINF:-1,EUROSPORT 1 🇪🇸
 http://185.189.225.157/EuroSport1/index.m3u8
@@ -240,9 +231,6 @@ http://190.92.10.66:4000/play/a008/index.m3u8
 #EXTINF:-1, AZTECA GUATE 🇬🇹
 http://38.180.133.31:8000/play/a0oa/index.m3u8
 
-#EXTINF:-1,TYC SPORT 🇦🇷
-http://54.36.62.43:80/play/xZLF1R_fqr1wrf6C4I6XV2wnUMmBXaNlvNxC0zniu6Uy6fyY38bbiOM2b_HjBxqp/ts
-
 #EXTINF:-1, TELECOSTA GUATEMALA 🇬🇹
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
@@ -273,23 +261,11 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports
 #EXTINF:-1, AYM SPORT 🇺🇸
 https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
 
-#EXTINF:-1, ARENA Sport 1 🇨🇿
-http://78.130.250.2:8023/play/a02o/index.m3u8
-
 #EXTINF:-1, SPORTYTV 🇨🇿
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
 
-#EXTINF:-1, SPORT RU 🇷🇺
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
-
 #EXTINF:-1, X SPORT 🇷🇺
 http://iptv.prosto.tv:7000/ch109/video.m3u8
-
-#EXTINF:-1, Суспільне Спорт 🇷🇺
-http://95.67.12.81:10625
-
-#EXTINF:-1, Суспільне Спорт 🇷🇺
-http://95.67.12.81:10625
 
 #EXTINF:-1, o2 Cпорт 🇷🇺
 http://45.143.108.110:4200/o2
@@ -321,38 +297,14 @@ https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 #EXTINF:-1, SoloCalcioᴴᴰ 🇮🇹 
 https://bit.ly/48XfUCc?profile=inspirationFreetv.m3u8
 
-#EXTINF:-1, SoloCalcioᴴᴰ 🇮🇹 
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
-
-#EXTINF:-1, SPORT ITALIA 🇮🇹
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
-
 #EXTINF:-1, SPORT ITALIA 🇮🇹
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
-
-#EXTINF:-1, SPORT ITALIA 🇮🇹
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
-
-#EXTINF:-1, L'Equipe Live 1 🇫🇷
-https://jmp2.uk/sam-FRBC4200004XH.m3u8
-
-#EXTINF:-1, L'Equipe Live 2 🇫🇷
-https://jmp2.uk/sam-FRBC4200005X2.m3u8
 
 #EXTINF:-1, Sport en Franceᴴᴰ 🇫🇷 
 https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
 
 #EXTINF:-1, INFOSPORT 🇫🇷 
 http://212.102.60.80/Infosport/index.m3u8
-
-#EXTINF:-1, Scooore 🇩🇪
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/660e97bce8fba8000853d43flivestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc861668-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=55465346-19d5-4828-9cf1-a9dc5950fa5e&profilesFromStream=true
-
-#EXTINF:-1, Scooore 🇩🇪
-https://jmp2.uk/sam-ATBD26000124P.m3u8
-
-#EXTINF:-1,GEO SUPER 🇮🇳
-http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 
 #EXTINF:-1,STAR SPORTS 1 🇮🇳
 http://41.205.93.154/STARSPORTS1/index.m3u8
@@ -369,17 +321,8 @@ http://149.62.177.103:8000/play/a08e
 #EXTINF:-1,ALFAJR 🇪🇬
 http://platform.topuphost.com:8577/live/alfajr.stream/playlist.m3u8
 
-#EXTINF:-1, SHARJJAH SPORT 🇸🇦
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-
 #EXTINF:-1, RTA SPORT 🇸🇦
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
-
-#EXTINF:-1, MBC Masr 2 🇸🇦
-https://shls-masr2-enc.edgenextcdn.net:443/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
-
-#EXTINF:-1, MBC Masr 2 🇸🇦
-https://shls-masr2-enc.edgenextcdn.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_6.m3u8
 
 #EXTINF:-1, MASR 🇶🇦
 https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_46.m3u8
@@ -399,46 +342,18 @@ http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:-1, LAX SPORTS 🇺🇸
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 
-#EXTINF:-1, TENNIS
-https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 
-#EXTINF:-1, TENNIS
-https://d3qg0hadt0dkov.cloudfront.net:443/amgtennisus/playlist1080_p.m3u8
 
 
 
 #EXTINF:-1, ESPN 1 NORTE 🇩🇴
 http://45.71.254.1:8000/play/a0e6/index.m3u8
 
-#EXTINF:-1, Bien sport 1 🇶🇦
-https://dffgtrdb.vffddd.online:8880/bein1/index.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-https://dffgtrdb.vffddd.online:8880/bein1/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:-1, Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 
-#EXTINF:-1, PERSIANA SPORT 🇮🇷
-https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
-
 #EXTINF:-1, ESPN VIVO 🇦🇷
 http://45.71.254.1:8000/play/a038/index.m3u8
-
-#EXTINF:-1, TNTSports1 🇬🇧
-https://32tech0steam0dp01.org/live/UK_TNTSports1FHD/chunks.m3u8
-
-#EXTINF:-1, MAX Sport 3 HD 🇧🇬
-http://213.91.178.133:8000/play/a0ar
-
-#EXTINF:-1, TEN SPORTS 🇮🇳
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-
-#EXTINF:-1,TVP Sport HD 🇵🇱
-http://185.236.229.62:9981/play/a05l
-
-#EXTINF:-1,TVP 1 🇵🇱
-http://185.236.229.62:9981/play/a05i
 
 #EXTINF:-1, Ring 🇧🇬
 http://87.246.60.6:11021
@@ -452,14 +367,8 @@ http://190.102.246.93:9005/play/a029
 #EXTINF:-1, ESPN 3 🇨🇴
 http://190.102.246.93:9005/play/a02l
 
-#EXTINF:-1,FOX SOCCER PLUS 🇦🇷
-https://ddy6new.newkso.ru/ddy6/premium756/mono.m3u8
-
 #EXTINF:-1,EUROSPORT 1 🇪🇸
 http://origi-JW-1.netvil43.store:80/RO-110/tracks-v1a1/mono.m3u8?token=c1lhc3Q1ZVhxcXJIZTU2c2ZhdTRtWlBiMkppd3k2K0EyNE9keU5xbG1YekRxb1d1Z1plV282T1dlNU9xZ3FxeGxaT3ZvNmFGbkxLSHZJV2ZrN3Fzbm93PQ%3D%3D
-
-#EXTINF:-1,TEN SPORT 🇮🇳
-https://ddy6new.newkso.ru/ddy6/premium741/mono.m3u8
 
 #EXTINF:-1, Bein Sports 1 🇶🇦
 http://125x.org:8080/bn1hd/tracks-v1a1/mono.m3u8
