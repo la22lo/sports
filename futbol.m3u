@@ -75,11 +75,23 @@ http://178.217.72.66:8080/Match_HD/video.m3u8
 #EXTINF:-1, Матч! Футбол 1 HD 🇷🇺
 http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
 
+#EXTINF:-1, Матч! Футбол 1 HD 🇷🇺
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/222/index.m3u8
+
 #EXTINF:-1, Матч! Футбол 2 HD 🇷🇺
 http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
 
+#EXTINF:-1, Матч! Футбол 2 HD 🇷🇺
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/211/index.m3u8
+
+#EXTINF:-1, Матч! Футбол 2 HD 🇷🇺
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/530/index.m3u8
+
 #EXTINF:-1, Матч! Футбол 3 HD 🇷🇺
 http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
+
+#EXTINF:-1, Матч! Футбол 3 HD 🇷🇺
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/206/index.m3u8
 
 #EXTINF:-1, Матч! Футбол 3 HD 🇷🇺
 http://185.57.68.33/110/mpegts
