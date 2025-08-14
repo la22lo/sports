@@ -330,6 +330,9 @@ http://212.102.60.80/Infosport/index.m3u8
 #EXTINF:-1,STAR SPORTS 1 🇮🇳
 http://41.205.93.154/STARSPORTS1/index.m3u8
 
+#EXTINF:-1,TEN SPORTS 🇮🇳
+https://app.hughag.store/api/6b9c461155/playlist.m3u8
+
 #EXTINF:-1, WOW TV EL SALVADOR 🇸🇻
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
