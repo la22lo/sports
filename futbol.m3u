@@ -1,55 +1,11 @@
 #EXTM3U
 
+
 #EXTINF:-1,UNIMAS 🇺🇸
 http://172.93.102.112:8989/158753_.m3u8
 
-#EXTINF:-1,DEPORTES TVC 🇭🇳
-http://190.92.10.66:4000/play/a008/index.m3u8
-
-#EXTINF:-1,DIRECTV SPORT 🇦🇷
-http://104.238.205.28:8989/278758_.m3u8
-
-#EXTINF:-1, TNT DAZN 🇬🇧
-https://nohddaezronnaz.sbs/automatically/1
-
-#EXTINF:-1, TNT DAZN 🇬🇧
-https://panmertnabz.sbs/automatically/1
-
-#EXTINF:-1, TNT DAZN 🇬🇧
-https://panjferizzzvs4t.sbs/automatically/1
-
-#EXTINF:-1, TNT DAZN 🇬🇧
-https://shishnebiza.sbs/automatically/1
-
-#EXTINF:-1,DAZN 🇸🇦
-https://abcc.yallashooot.store:8181/dnaz/index.m3u8
-
-#EXTINF:-1,DAZN 🇸🇦
-https://abcc.yallashooot.store:8181/dnaz/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1,DAZN 🇸🇦
-https://sizdahomae2.sbs/automatically/1
-
-#EXTINF:-1,DAZN 🇸🇦
-https://sizdekemoina.sbs/automatically/1
-
-#EXTINF:-1, DAZN 1 🇩🇪
-https://32tech0steam0dp01.org/live/DE_DAZN1/chunks.m3u8
-
-#EXTINF:-1, AZTECA GUATE 🇬🇹
-http://45.228.234.173:9999/play/a03z/index.m3u8
-
-#EXTINF:-1, AZTECA GUATE 🇬🇹
-http://45.228.234.173:9999/play/a00l/index.m3u8
-
-#EXTINF:-1, AZTECA GUATE 🇬🇹
-http://38.180.133.31:8000/play/a0oa/index.m3u8
-
 #EXTINF:-1, TUDN 🇺🇸
 http://190.92.10.66:4000/play/a002/index.m3u8
-
-#EXTINF:-1, TUDN 🇺🇸
-http://190.83.2.178:8009/play/a06j/index.m3u8
 
 #EXTINF:-1, TUDN 🇺🇸
 http://190.61.116.155:7000/play/a0b9
@@ -58,37 +14,23 @@ http://190.61.116.155:7000/play/a0b9
 http://190.92.10.66:4000/play/a005/index.m3u8
 
 #EXTINF:-1, DSPORTS 1 🇦🇷
-http://200.59.188.3:8000/play/a0xe
-
-#EXTINF:-1, DSPORTS 1 🇦🇷
-http://181.198.67.62:8000/play/a1a6
-
-#EXTINF:-1, DSPORTS 1 🇦🇷
-http://104.238.205.28:8989/278758_.m3u8
-
-#EXTINF:-1, DSPORTS 1 🇦🇷
-http://38.211.242.128:8001/play/a09s/index.m3u8
-
-#EXTINF:-1, DSPORTS 1 🇦🇷
 http://190.117.20.37:8000/play/a08d/index.m3u8
 
 #EXTINF:-1, DSPORTS 1 🇦🇷
 http://179.63.6.17:9000/play/a08e
 
-#EXTINF:-1, DSPORTS 1 🇦🇷
-http://190.102.149.68:1234/play/a1as/index.m3u8
-
 #EXTINF:-1, DSPORTS 2 🇦🇷
 http://181.78.106.127:9000/play/ca026/index.m3u8
-
-#EXTINF:-1, ESPN 🇦🇷
-https://val03.ride.com.ar/tvmia/an21/chunks.m3u8
 
 #EXTINF:-1, ESPN 2 🇦🇷
 http://181.205.130.194:4000/play/a07i
 
-#EXTINF:-1, MASR2 🇶🇦
-https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1,DEPORTES TVC 🇭🇳
+http://190.92.10.66:4000/play/a008/index.m3u8
+
+#EXTINF:-1, AZTECA GUATE 🇬🇹
+http://38.180.133.31:8000/play/a0oa/index.m3u8
+
 
 #EXTINF:-1, MASR 🇶🇦
 https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_46.m3u8
@@ -102,12 +44,6 @@ https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index
 #EXTINF:-1, MASR 🇶🇦
 https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 
-#EXTINF:-1, MASR 🇶🇦
-https://d3o3cim6uzorb4.cloudfront.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-
-#EXTINF:-1, MASR 🇶🇦
-https://d3o3cim6uzorb4.cloudfront.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
-
 #EXTINF:-1, KAZAJISTAN SPORT 🇰🇿
 https://qazaqstantv-stream.qazcdn.com:443/qazaqstantv/qazaqstantv/tracks-v4a1/mono.ts.m3u8
 
@@ -115,13 +51,7 @@ https://qazaqstantv-stream.qazcdn.com:443/qazaqstantv/qazaqstantv/tracks-v4a1/mo
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
 
 #EXTINF:-1, WIN SPORTS 🇨🇴
-http://200.59.188.3:8000/play/a03y
-
-#EXTINF:-1, WIN SPORTS 🇨🇴
 http://190.60.38.45:8000/play/a0hz/index.m3u8
-
-#EXTINF:-1, TELEAMAZONAS 🇪🇨
-http://38.180.133.31:8000/play/a138/index.m3u8
 
 #EXTINF:-1, TELEAMAZONAS 🇪🇨
 http://38.180.133.31:8000/play/a11p/index.m3u8
@@ -129,8 +59,6 @@ http://38.180.133.31:8000/play/a11p/index.m3u8
 #EXTINF:-1, TELEFE 🇦🇷
 http://200.115.120.1:8000/play/ca016/index.m3u8
 
-#EXTINF:-1, F1 🇪🇸
-https://bigboss.bemtv.cn/STREAM/23021/chunks.m3u8
 
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://190.92.10.66:4000/play/a003/index.m3u8
