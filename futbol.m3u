@@ -45,6 +45,12 @@ https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1, Turkmenistan Sport 🇹🇲
 http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 
+#EXTINF:-1, Premier Sport 1 UK 🇬🇧
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmUzYTQyNGU1ODZjLWE1OTgtYTE5NC1lYzcwLWEyZmVjOTk1/master.m3u8
+
+#EXTINF:-1, Premier Sport 2 UK 🇬🇧
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjE4YmE5OWMzMmQxLTEwNjktZTM0NC1jOTY0LTNlOGM3ZDU2/master.m3u8
+
 #EXTINF:-1, Canal+ Sport 1 HD 🇫🇷
 http://azers.online/play/live.php?mac=00:1A:79:46:E7:E4&stream=1155540&extension=ts&play_token=RgTd5r3rbc
 
