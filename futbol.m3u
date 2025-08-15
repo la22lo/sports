@@ -39,6 +39,9 @@ https://tiger-hub.vercel.app/DAZN-LaLiga/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Матч! Футбол 2 HD 🇷🇺
 http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
 
+#EXTINF:-1, Матч! Футбол 2 SD 🇷🇺
+http://77.235.1.19:8000/play/a003/index.m3u8
+
 #EXTINF:-1, Матч! Футбол 2 HD 🇷🇺
 http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/211/index.m3u8
 
@@ -133,6 +136,9 @@ http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
 
 #EXTINF:-1, Матч! 🇷🇺
+http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+
+#EXTINF:-1, Матч! 🇷🇺
 http://178.217.72.66:8080/Match_HD/video.m3u8
 
 #EXTINF:-1, Матч! Футбол 1 HD 🇷🇺
@@ -141,8 +147,14 @@ http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
 #EXTINF:-1, Матч! Футбол 1 HD 🇷🇺
 http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/222/index.m3u8
 
+#EXTINF:-1, Матч! Футбол 1 SD 🇷🇺
+http://77.235.1.19:8000/play/a002/index.m3u8
+
 #EXTINF:-1, Матч! Футбол 2 HD 🇷🇺
 http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
+
+#EXTINF:-1, Матч! Футбол 2 SD 🇷🇺
+http://77.235.1.19:8000/play/a003/index.m3u8
 
 #EXTINF:-1, Матч! Футбол 2 HD 🇷🇺
 http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/211/index.m3u8
