@@ -192,14 +192,26 @@ https://looooooool.footfast.net/event/134.m3u8
 #EXTINF:-1, ARENA PREM 2 🇷🇸
 https://looooooool.footfast.net/event/135.m3u8
 
+#EXTINF:-1, ARENA PREM 2 🇷🇸
+https://tiger-hub.vercel.app/Arena-Sports/Premium_2/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1, ARENA PREM 3 🇷🇸
 https://looooooool.footfast.net/event/139.m3u8
 
 #EXTINF:-1, ARENA 2 🇷🇸
 https://looooooool.footfast.net/event/433.m3u8
 
+#EXTINF:-1, ARENA 2 🇷🇸
+https://tiger-hub.vercel.app/Arena-Sports/2/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1, ARENA 3 🇷🇸
 https://looooooool.footfast.net/event/434.m3u8
+
+#EXTINF:-1, ARENA 3 🇷🇸
+https://tiger-hub.vercel.app/Arena-Sports/3/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, ARENA 6 🇷🇸
+https://tiger-hub.vercel.app/Arena-Sports/6/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1, CANAL+ Sport 🇵🇱
 http://116.202.237.33:8080/CNLS1/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
