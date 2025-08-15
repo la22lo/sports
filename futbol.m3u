@@ -471,6 +471,12 @@ https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
 #EXTINF:-1, INFOSPORT 🇫🇷 
 http://212.102.60.80/Infosport/index.m3u8
 
+#EXTINF:-1, beINSports 1 TRUE 🇹🇭
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
+
+#EXTINF:-1, beINSports 2 TRUE 🇹🇭
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
+
 #EXTINF:-1,STAR SPORTS 1 🇮🇳
 http://41.205.93.154/STARSPORTS1/index.m3u8
 
