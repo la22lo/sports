@@ -610,6 +610,21 @@ http://190.102.246.93:9005/play/a02l
 #EXTINF:-1,EUROSPORT 1 🇪🇸
 http://origi-JW-1.netvil43.store:80/RO-110/tracks-v1a1/mono.m3u8?token=c1lhc3Q1ZVhxcXJIZTU2c2ZhdTRtWlBiMkppd3k2K0EyNE9keU5xbG1YekRxb1d1Z1plV282T1dlNU9xZ3FxeGxaT3ZvNmFGbkxLSHZJV2ZrN3Fzbm93PQ%3D%3D
 
+#EXTINF:-1, TNT Sports 1 🇬🇧
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTE5MmVjYzhmYTE3LWZkMDgtZDQ2NC0xMzU3LWE5MmE0Mzk3/master.m3u8
+
+#EXTINF:-1, TNT Sports 2 🇬🇧
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGY2YTlkMjFlMzNiLTNlN2ItZTQ4NC1jMWVjLWY5ZjU0Mzg5/master.m3u8
+
+#EXTINF:-1, TNT Sports 3 🇬🇧
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZDU3NjA3NzY4OTFjLWRkNzktMjE4NC1lN2E1LTkwNWRmY2Fm/master.m3u8
+
+#EXTINF:-1, TNT Sports 4 🇬🇧
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MzMyYzk1MGY3ZWIyLWM3NzgtNjNkNC1jODNhLWZmYjRjYzg1/master.m3u8
+
+#EXTINF:-1, TNT Sports 5 🇬🇧
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGE3MDdjOWNmOGNhLWY1MjktYmRiNC1kYjY4LTQwMTQ3OWZj/master.m3u8
+
 #EXTINF:-1, Bein Sports 1 🇶🇦
 http://125x.org:8080/bn1hd/tracks-v1a1/mono.m3u8
 
