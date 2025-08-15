@@ -495,6 +495,9 @@ http://149.62.177.103:8000/play/a08e
 #EXTINF:-1,ALFAJR 🇪🇬
 http://platform.topuphost.com:8577/live/alfajr.stream/playlist.m3u8
 
+#EXTINF:-1, NETO SPORTS 🇸🇦
+https://netohls.wns.live/hls/stream.m3u8
+
 #EXTINF:-1, RTA SPORT 🇸🇦
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
