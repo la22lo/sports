@@ -93,6 +93,9 @@ https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1, Turkmenistan Sport 🇹🇲
 http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 
+#EXTINF:-1, BEIN SPORT 🇬🇧
+http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
+
 #EXTINF:-1, BEIN 1 ENG 🇬🇧
 https://looooooool.footfast.net/event/61.m3u8
 
@@ -249,8 +252,14 @@ http://116.202.237.33:8080/NS5/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b0
 #EXTINF:-1,NOVA SPORT 5 🇨🇿
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2558/index.m3u8
 
+#EXTINF:-1, Arena Sport 1 🇨🇿
+http://78.130.250.2:8023/play/a02o/index.m3u8
+
 #EXTINF:-1, CANAL+ SPORT 2 HD 🇨🇿
 http://185.236.230.212:9982/play/a0b9
+
+#EXTINF:-1, CANAL+ SPORT 2 HD 🇨🇿
+http://78.130.250.2:8023/play/a02w/index.m3u8
 
 #EXTINF:-1, CT SPORT HD 🇨🇿
 http://185.236.230.212:9982/play/a0b3
@@ -272,6 +281,15 @@ http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2524/index.m3u8
 
 #EXTINF:-1, Digi Sport 4 🇷🇴
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2538/index.m3u8
+
+#EXTINF:-1, Diema Sport 🇧🇬
+http://87.118.142.91:6064/play/a06n
+
+#EXTINF:-1, Diema Sport 2 🇧🇬
+http://87.118.142.91:6064/play/a071
+
+#EXTINF:-1, Diema Sport 3 🇧🇬
+http://87.118.142.91:6064/play/a06y
 
 #EXTINF:-1, ZIGGO SPORT LIVE 🇳🇱
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2560/index.m3u8 
@@ -297,8 +315,14 @@ https://kusnadipepenk.github.io/ntn/ele1.m3u8
 #EXTINF:-1, DAZN 1 🇩🇪
 http://tooontv.com:999/live/ere3444h/agape/53387.ts
 
+#EXTINF:-1, DAZN 1 🇩🇪
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmY4Yjc0ZDFiNzdhLTYzN2EtNzIwNC0wNmEyLWEzM2EwMDM2/master.m3u8
+
 #EXTINF:-1, DAZN 2 🇩🇪
 http://tooontv.com:999/live/ere3444h/agape/53386.ts
+
+#EXTINF:-1, DAZN 2 🇩🇪
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDczNGRiNWVkN2QwLWU3NGItNmRkNC0wYjhiLTFjNmM2NTBj/master.m3u8
 
 #EXTINF:-1, DAZN PRO LEAGUE 1 🇧🇪
 http://185.236.230.212:9982/play/a09q
