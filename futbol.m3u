@@ -372,6 +372,9 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports
 #EXTINF:-1, AYM SPORT 🇺🇸
 https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
 
+#EXTINF:-1, SkySports 2 New Zealand 🇳🇿
+https://tiger-hub.vercel.app/SkySports-2_NZ/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, SPORTYTV 🇨🇿
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
 
