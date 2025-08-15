@@ -84,6 +84,9 @@ http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2534/index.m3u8
 #EXTINF:-1, Dazn 5 🇵🇹
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2535/index.m3u8
 
+#EXTINF:-1, Sport TV 1 🇵🇹
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjVlNWIwODJkNzc2LTNjZTgtMTNmNC1mM2Q3LWUzMjU5OTNh/master.m3u8
+
 #EXTINF:-1,4Sports 🇸🇦
 https://hls.pokertvfa.live/hls/stream.m3u8
 
@@ -175,7 +178,16 @@ http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/31613/index.m3u8
 http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/31614/index.m3u8
 
 #EXTINF:-1, Setanta Sport 🇺🇦
-http://tooontv.com:999/live/ere3444h/agape/1038.ts
+http://tooontv.com:999/live/ere3444h/agape/1038.
+
+#EXTINF:-1, Setanta Sport 🇺🇦
+http://158.160.149.81:8080/4536/index.m3u8
+
+#EXTINF:-1, Setanta Sport 🇺🇦
+http://95.85.109.219:7000/play/a067
+
+#EXTINF:-1, Setanta Sport 2 🇺🇦
+http://95.85.109.219:7000/play/a068
 
 #EXTINF:-1, BELARUS 5 🇧🇾
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
