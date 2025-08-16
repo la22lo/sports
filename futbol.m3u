@@ -12,9 +12,6 @@ https://hls.evaulthub.com/live/laliga/video1_stream.m3u8
 #EXTINF:-1, La Liga 🇺🇸
 https://e584260258e2.us-west-2.playback.live-video.net/api/video/v1/us-west-2.415668460634.channel.JuqCJIrOVSSA.m3u8
 
-#EXTINF:-1, La Liga UK 🇬🇧
-https://d4.merichunidya.com:1686/hls/laligauk.m3u8?md5=4_ocwOZz-PjFcXSiJLFyKA&expires=1755194146
-
 #EXTINF:-1, ML 🇪🇸
 https://tiger-hub.vercel.app/LaLiga_TV/tracks-v1a1/mono.m3u8
 
