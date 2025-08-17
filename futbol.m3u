@@ -225,6 +225,9 @@ http://158.160.149.81:8080/8829/index.m3u8
 #EXTINF:-1, Setanta Sport 🇺🇦
 http://95.85.109.219:7000/play/a067
 
+#EXTINF:-1, Setanta Sport 🇺🇦
+http://217.174.225.146/hls/ch004_720/index.m3u8
+
 #EXTINF:-1, Setanta Sport 2 🇺🇦
 http://95.85.109.219:7000/play/a068
 
