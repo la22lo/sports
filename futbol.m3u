@@ -351,6 +351,9 @@ http://78.130.250.2:8023/play/a02w/index.m3u8
 #EXTINF:-1, CT SPORT HD 🇨🇿
 http://185.236.230.212:9982/play/a0b3
 
+#EXTINF:-1, CT SPORT HD 🇨🇿
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+
 #EXTINF:-1, SPORT 1 HD 🇨🇿
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 
