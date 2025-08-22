@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1, DSPORTS 1 🇦🇷
+http://190.117.20.37:8000/play/a08d/index.m3u8
+
+#EXTINF:-1, DSPORTS 1 🇦🇷
+http://179.63.6.17:9000/play/a08e
+
+#EXTINF:-1, DSPORTS 2 🇦🇷
+http://181.78.106.127:9000/play/ca026/index.m3u8
+
 #EXTINF:-1, SKY SPORT LA LIGA 🇲🇽
 http://181.78.106.127:9000/play/ca030/index.m3u8
 
