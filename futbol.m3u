@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, Матч! Футбол 2 SD 🇷🇺
+http://77.235.1.19:8000/play/a003/index.m3u8
+
 #EXTINF:-1, DSPORTS 1 🇦🇷
 http://190.117.20.37:8000/play/a08d/index.m3u8
 
