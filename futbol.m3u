@@ -636,6 +636,9 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjU5NGU0NzYw
 #EXTINF:-1, ESPN 🇺🇸
 https://tiger-hub.vercel.app/ESPN/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, ESPN 🇺🇸
+http://51.89.148.37:8080/catena-9-103-streamer-espn_1_fhd/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+
 #EXTINF:-1, SPORT NETWORK 🇺🇸
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports.m3u8
 
