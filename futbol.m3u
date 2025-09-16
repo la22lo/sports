@@ -9,6 +9,9 @@ http://het104a.4rouwanda-shop.store:80/live/978480008877005/index.m3u8
 #EXTINF:-1, Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 
+#EXTINF:-1, TNT SPORT 1 🇬🇧
+https://s@calciomania.digital/live/foot2/chunks.m3u8
+
 #EXTINF:-1, ESPN 1 NORTE 🇩🇴
 http://45.71.254.1:8000/play/a0e6/index.m3u8
 
