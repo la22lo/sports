@@ -12,6 +12,9 @@ https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 #EXTINF:-1, TNT SPORT 1 🇬🇧
 https://s@calciomania.digital/live/foot2/chunks.m3u8
 
+#EXTINF: ESPN 🇦🇷
+http://45.228.234.30:16000/play/a01k/index.m3u8
+
 #EXTINF:-1, ESPN 1 NORTE 🇩🇴
 http://45.71.254.1:8000/play/a0e6/index.m3u8
 
