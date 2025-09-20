@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,ESPN DEPORTES 🇺🇸
+http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
+
 #EXTINF:-1, beIN SPORTS HD 1 🇶🇦
 http://het104a.4rouwanda-shop.store:80/live/918454578001/index.m3u8
 
@@ -41,9 +44,6 @@ http://181.78.106.127:9000/play/ca026/index.m3u8
 
 #EXTINF:-1, SKY SPORT LA LIGA 🇲🇽
 http://181.78.106.127:9000/play/ca030/index.m3u8
-
-#EXTINF:-1,ESPN DEPORTES 🇺🇸
-http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 https://hls.evaulthub.com/live/laliga/video1_stream.m3u8
