@@ -1,56 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, TNT SPORT 1 🇬🇧
-https://d5svgrvrc65ed.cloudfront.net/out/v1/701c78700ea94c6e965038338833cde6/index_1.m3u8
-
-#EXTINF:-1, TNT SPORT 1 🇬🇧
-https://fitzonehub.click/live/foot2/chunks.m3u8
-
-#EXTINF:-1, TNT SPORT 1 🇬🇧
-https://sportstvnow.org/1111.m3u8
-
-#EXTINF:-1, beIN SPORTS HD 1 🇶🇦
-https://customer-1k57ooxtud0ceemv.cloudflarestream.com/2f1c88b1e0d40bac9aa0feb8132a155f/manifest/video.m3u8
-
-#EXTINF:-1, beIN SPORTS HD 1 🇶🇦
-https://customer-1k57ooxtud0ceemv.cloudflarestream.com/2f1c88b1e0d40bac9aa0feb8132a155f/manifest/stream_t1812d983204ce7fa5f95dba14d79943d_r1204164932.m3u8?llhlsHBs=0.9
-
-#EXTINF:-1, Setanta Georgia 🇬🇪
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-
-#EXTINF:-1, beIN SPORTS HD 1 🇶🇦
-http://het119a.4rouwanda-shop.store/live/918454578001/index.m3u8?fbclid=PAQ0xDSwMMZyFleHRuA2FlbQIxMQABp8GyT-z9PY4kXrrfonICd7iUOg9Y7K8z5tUOT4Qso7l7Fk5doN8ayuj0TqsP_aem_cPVzXdQaQA8LNLSXcq6AzA
-
-#EXTINF:-1, beIN SPORTS HD 1 🇶🇦
-http://het104a.4rouwanda-shop.store:80/live/918454578001/index.m3u8
-
-#EXTINF:-1, beIN SPORTS SD 1 🇶🇦
-http://het104a.4rouwanda-shop.store:80/live/978480008877005/index.m3u8
-
-#EXTINF:-1, Sport5 🇮🇱
-https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
-
-#EXTINF:-1, TNT SPORT 1 🇬🇧
-https://s@calciomania.digital/live/foot2/chunks.m3u8
-
-#EXTINF:-1,ESPN 🇦🇷
-http://200.12.41.194:8000/play/a060/index.m3u8
-
-#EXTINF:-1,ESPN 🇦🇷
-http://45.228.234.30:16000/play/a01k/index.m3u8
-
-#EXTINF:-1, ESPN 1 NORTE 🇩🇴
-http://45.71.254.1:8000/play/a0e6/index.m3u8
-
-#EXTINF:11,ESPN 2 🇦🇷
-http://45.228.234.30:16000/play/a01l/index.m3u8
-
-
-
-
-
-
-
 #EXTINF:-1, PREMIER 🇬🇧
 https://s@calciomania.digital/live/foot1/chunks.m3u8
 
@@ -810,6 +759,52 @@ https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 
 
 
+
+
+#EXTINF:-1, TNT SPORT 1 🇬🇧
+https://d5svgrvrc65ed.cloudfront.net/out/v1/701c78700ea94c6e965038338833cde6/index_1.m3u8
+
+#EXTINF:-1, TNT SPORT 1 🇬🇧
+https://fitzonehub.click/live/foot2/chunks.m3u8
+
+#EXTINF:-1, TNT SPORT 1 🇬🇧
+https://sportstvnow.org/1111.m3u8
+
+#EXTINF:-1, beIN SPORTS HD 1 🇶🇦
+https://customer-1k57ooxtud0ceemv.cloudflarestream.com/2f1c88b1e0d40bac9aa0feb8132a155f/manifest/video.m3u8
+
+#EXTINF:-1, beIN SPORTS HD 1 🇶🇦
+https://customer-1k57ooxtud0ceemv.cloudflarestream.com/2f1c88b1e0d40bac9aa0feb8132a155f/manifest/stream_t1812d983204ce7fa5f95dba14d79943d_r1204164932.m3u8?llhlsHBs=0.9
+
+#EXTINF:-1, Setanta Georgia 🇬🇪
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+
+#EXTINF:-1, beIN SPORTS HD 1 🇶🇦
+http://het119a.4rouwanda-shop.store/live/918454578001/index.m3u8?fbclid=PAQ0xDSwMMZyFleHRuA2FlbQIxMQABp8GyT-z9PY4kXrrfonICd7iUOg9Y7K8z5tUOT4Qso7l7Fk5doN8ayuj0TqsP_aem_cPVzXdQaQA8LNLSXcq6AzA
+
+#EXTINF:-1, beIN SPORTS HD 1 🇶🇦
+http://het104a.4rouwanda-shop.store:80/live/918454578001/index.m3u8
+
+#EXTINF:-1, beIN SPORTS SD 1 🇶🇦
+http://het104a.4rouwanda-shop.store:80/live/978480008877005/index.m3u8
+
+#EXTINF:-1, Sport5 🇮🇱
+https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
+
+#EXTINF:-1, TNT SPORT 1 🇬🇧
+https://s@calciomania.digital/live/foot2/chunks.m3u8
+
+#EXTINF:-1,ESPN 🇦🇷
+http://200.12.41.194:8000/play/a060/index.m3u8
+
+#EXTINF:-1,ESPN 🇦🇷
+http://45.228.234.30:16000/play/a01k/index.m3u8
+
+#EXTINF:-1, ESPN 1 NORTE 🇩🇴
+http://45.71.254.1:8000/play/a0e6/index.m3u8
+
+#EXTINF:11,ESPN 2 🇦🇷
+http://45.228.234.30:16000/play/a01l/index.m3u8
 
 
 #EXTINF:-1, ESPN VIVO 🇦🇷
