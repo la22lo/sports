@@ -13,6 +13,9 @@ http://176.119.29.7:80/0c55573d-12d8-43af-823b-25c94d67b190.m3u8?md5=V6ymFri4EVX
 http://51.89.148.37:8080/catena-9-100-streamer-bein_sports_1_fhd/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 
 #EXTINF:-1, beIN SPORTS HD 1 🇶🇦
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/JiZPCkw_o3m5U6I88hSGUTlgCYBCmim6My6VIeGkAG6AGuRYWNoDZ8wkf3GWFkWFqTpixtOCvVHv_OJI9xSBCw/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
+
+#EXTINF:-1, beIN SPORTS HD 1 🇶🇦
 http://het104a.4rouwanda-shop.store:80/live/918454578001/index.m3u8
 
 #EXTINF:-1, beIN SPORTS SD 1 🇶🇦
