@@ -788,6 +788,9 @@ https://fitzonehub.click/live/foot2/chunks.m3u8
 #EXTINF:-1, TNT SPORT 1 🇬🇧
 https://sportstvnow.org/1111.m3u8
 
+#EXTINF:-1, TNT SPORT 1 🇬🇧
+http://178.33.239.54:8080/509/index.m3u8
+
 #EXTINF:-1, beIN SPORTS HD 1 🇶🇦
 https://customer-1k57ooxtud0ceemv.cloudflarestream.com/2f1c88b1e0d40bac9aa0feb8132a155f/manifest/video.m3u8
 
