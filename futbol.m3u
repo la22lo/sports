@@ -168,6 +168,9 @@ http://185.57.68.33:8091/110/playlist.m3u8
 #EXTINF:-1, Футбол 3 (SD) 🇷🇺
 http://185.57.68.33:80/110/index.m3u8
 
+#EXTINF:-1, Okko Спорт 🇷🇺
+http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
+
 #EXTINF:-1, SETANTA SPORT 1 HD 🇺🇦
 http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
 
