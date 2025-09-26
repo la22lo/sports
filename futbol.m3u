@@ -177,6 +177,12 @@ http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, SETANTA SPORT 2 HD 🇺🇦
 http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, SETANTA SPORT 1 HD 🇺🇦
+http://94.43.1.138:8081/setanta1/index.m3u8
+
+#EXTINF:-1, SETANTA SPORT 2 HD 🇺🇦
+http://94.43.1.138:8081/setanta2/index.m3u8
+
 #EXTINF:-1, Megogo Футбол 1 HD 🇺🇦
 http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/31483/index.m3u8
 
