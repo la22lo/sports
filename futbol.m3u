@@ -12,9 +12,6 @@ http://51.89.148.37:8080/catena-9-100-streamer-bein_sports_1_fhd/tracks-v1a1a2a3
 #EXTINF:-1, TSN SPORTS 5 🇨🇦
 http://212.102.60.231/TSN_5/index.m3u8
 
-#EXTINF:-1, MAX SPORT 4 🇧🇬
-http://213.169.39.30:5130
-
 #EXTINF:-1, Матч! 🇷🇺
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 
@@ -26,6 +23,9 @@ http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_
 
 #EXTINF:-1, IDMANTV 🇹🇷
 http://88.99.64.228/IdmanTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, MAX SPORT 4 🇧🇬
+http://213.169.39.30:5130
 
 #EXTINF:-1, beIN SPORTS HD 1 🇶🇦
 http://het104a.4rouwanda-shop.store:80/live/918454578001/index.m3u8
