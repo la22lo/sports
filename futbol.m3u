@@ -138,6 +138,12 @@ https://tiger-hub.vercel.app/Premier_Sports-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Premier Sport 2 UK 🇬🇧
 https://tiger-hub.vercel.app/Premier_Sports-2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, PremierSports1 🇬🇧
+https://7pal.short.gy/prsport1
+
+#EXTINF:-1, PremierSports2 🇬🇧
+https://7pal.short.gy/prsport2
+
 #EXTINF:-1, CANAL + SPORT 🇫🇷
 http://116.202.237.33:8080/CNLS3/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 
