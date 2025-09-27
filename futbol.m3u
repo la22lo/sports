@@ -27,6 +27,9 @@ http://88.99.64.228/IdmanTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1, LA LIGA TV 🇬🇧
 https://s@storage.googleapis.com/unixtovostrtgvcnm4/mux_video_ts/index-1.m3u8
 
+#EXTINF:-1,KOORA TV 🇶🇦
+https://d1p1uxf5m271rr.cloudfront.net/kooora/d4f9ab7dsssde5abein111?ts=1758981585&nonce=btxI1qy9&token=1816156330
+
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://213.169.39.30:5130
 
