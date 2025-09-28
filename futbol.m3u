@@ -13,9 +13,6 @@ http://181.119.103.113:12500/play/a0di/index.m3u8
 http://181.78.117.219:8000/play/a00b/index.m3u8
 
 #EXTINF:-1, beIN SPORTS HD 1 🇶🇦
-http://176.119.29.7:80/0c55573d-12d8-43af-823b-25c94d67b190.m3u8?md5=V6ymFri4EVXELp66KZLYVA&expires=1750309589
-
-#EXTINF:-1, beIN SPORTS HD 1 🇶🇦
 http://51.89.148.37:8080/catena-9-100-streamer-bein_sports_1_fhd/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 
 #EXTINF:-1, Матч! 🇷🇺
@@ -35,6 +32,9 @@ http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://213.169.39.30:5130
+
+#EXTINF:-1, beIN SPORTS HD 1 🇶🇦
+http://176.119.29.7:80/0c55573d-12d8-43af-823b-25c94d67b190.m3u8?md5=V6ymFri4EVXELp66KZLYVA&expires=1750309589
 
 #EXTINF:-1, beIN SPORTS HD 1 🇶🇦
 http://het104a.4rouwanda-shop.store:80/live/918454578001/index.m3u8
