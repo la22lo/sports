@@ -18,6 +18,10 @@ http://172.93.102.112:8989/158753_.m3u8
 #EXTINF:-1, beIN SPORTS HD 1 🇶🇦
 http://het119a.4rouwanda-shop.store/live/918454578001/index.m3u8?fbclid=PAQ0xDSwMMZyFleHRuA2FlbQIxMQABp8GyT-z9PY4kXrrfonICd7iUOg9Y7K8z5tUOT4Qso7l7Fk5doN8ayuj0TqsP_aem_cPVzXdQaQA8LNLSXcq6AzA
 
+#EXTINF:-1, ESPN VIVO 🇦🇷
+http://45.71.254.1:8000/play/a038/index.m3u8
+
+
 
 
 
@@ -638,27 +642,8 @@ http://45.71.254.1:8000/play/a0e6/index.m3u8
 #EXTINF:11,ESPN 2 🇦🇷
 http://45.228.234.30:16000/play/a01l/index.m3u8
 
-
-#EXTINF:-1, ESPN VIVO 🇦🇷
-http://45.71.254.1:8000/play/a038/index.m3u8
-
 #EXTINF:-1, Ring 🇧🇬
 http://87.246.60.6:11021
-
-#EXTINF:-1, SONY TEN 1 HD 🇮🇳
-https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
-
-#EXTINF:-1, SONY TEN 2 HD 🇮🇳
-https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
-
-#EXTINF:-1, SONY TEN 3 HD 🇮🇳
-https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
-
-#EXTINF:-1, SONY TEN 4 HD 🇮🇳
-https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
-
-#EXTINF:-1, SONY TEN 5 HD 🇮🇳
-https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 #EXTINF:-1, ESPN PREMIUM 🇦🇷
 http://190.102.246.93:9005/play/a00x
