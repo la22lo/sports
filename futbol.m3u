@@ -15,7 +15,8 @@ http://181.78.117.219:8000/play/a00b/index.m3u8
 #EXTINF:-1,UNIMAS 🇺🇸
 http://172.93.102.112:8989/158753_.m3u8
 
-
+#EXTINF:-1, beIN SPORTS HD 1 🇶🇦
+http://het119a.4rouwanda-shop.store/live/918454578001/index.m3u8?fbclid=PAQ0xDSwMMZyFleHRuA2FlbQIxMQABp8GyT-z9PY4kXrrfonICd7iUOg9Y7K8z5tUOT4Qso7l7Fk5doN8ayuj0TqsP_aem_cPVzXdQaQA8LNLSXcq6AzA
 
 
 
@@ -616,23 +617,8 @@ https://sportstvnow.org/1111.m3u8
 #EXTINF:-1, TNT SPORT 1 🇬🇧
 http://178.33.239.54:8080/509/index.m3u8
 
-#EXTINF:-1, beIN SPORTS HD 1 🇶🇦
-https://customer-1k57ooxtud0ceemv.cloudflarestream.com/2f1c88b1e0d40bac9aa0feb8132a155f/manifest/video.m3u8
-
-#EXTINF:-1, beIN SPORTS HD 1 🇶🇦
-https://customer-1k57ooxtud0ceemv.cloudflarestream.com/2f1c88b1e0d40bac9aa0feb8132a155f/manifest/stream_t1812d983204ce7fa5f95dba14d79943d_r1204164932.m3u8?llhlsHBs=0.9
-
 #EXTINF:-1, Setanta Georgia 🇬🇪
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-
-#EXTINF:-1, beIN SPORTS HD 1 🇶🇦
-http://het119a.4rouwanda-shop.store/live/918454578001/index.m3u8?fbclid=PAQ0xDSwMMZyFleHRuA2FlbQIxMQABp8GyT-z9PY4kXrrfonICd7iUOg9Y7K8z5tUOT4Qso7l7Fk5doN8ayuj0TqsP_aem_cPVzXdQaQA8LNLSXcq6AzA
-
-#EXTINF:-1, beIN SPORTS HD 1 🇶🇦
-http://het104a.4rouwanda-shop.store:80/live/918454578001/index.m3u8
-
-#EXTINF:-1, beIN SPORTS SD 1 🇶🇦
-http://het104a.4rouwanda-shop.store:80/live/978480008877005/index.m3u8
 
 #EXTINF:-1, Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
