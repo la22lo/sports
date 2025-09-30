@@ -3,6 +3,10 @@
 #EXTINF:-1, beIN SPORTS HD 1 🇶🇦
 http://51.89.148.37:8080/catena-9-100-streamer-bein_sports_1_fhd/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 
+#EXTINF:-1, MAX SPORT 3 🇧🇬
+http://213.169.39.30:5142
+
+
 
 
 
@@ -681,20 +685,6 @@ http://87.246.60.6:11021
 #EXTINF:-1, RING HD 🇧🇬
 http://213.169.39.30:5210
 
-#EXTINF:-1, TNT Sports 1 🇬🇧
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTE5MmVjYzhmYTE3LWZkMDgtZDQ2NC0xMzU3LWE5MmE0Mzk3/master.m3u8
-
-#EXTINF:-1, TNT Sports 2 🇬🇧
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGY2YTlkMjFlMzNiLTNlN2ItZTQ4NC1jMWVjLWY5ZjU0Mzg5/master.m3u8
-
-#EXTINF:-1, TNT Sports 3 🇬🇧
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZDU3NjA3NzY4OTFjLWRkNzktMjE4NC1lN2E1LTkwNWRmY2Fm/master.m3u8
-
-#EXTINF:-1, TNT Sports 4 🇬🇧
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MzMyYzk1MGY3ZWIyLWM3NzgtNjNkNC1jODNhLWZmYjRjYzg1/master.m3u8
-
-#EXTINF:-1, TNT Sports 5 🇬🇧
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGE3MDdjOWNmOGNhLWY1MjktYmRiNC1kYjY4LTQwMTQ3OWZj/master.m3u8
 
 
 
