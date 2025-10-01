@@ -33,7 +33,8 @@ http://212.102.60.231:80/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1, Sony Ten 5 🇮🇳
 http://stvlive.net:8080/sonyten5/index.m3u8
 
-
+#EXTINF:-1, Sony Ten 5 🇮🇳
+http://103.175.242.10:8080/sonyten5/index.m3u8
 
 
 
