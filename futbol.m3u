@@ -1,56 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, beIN SPORTS HD 1 🇶🇦
-http://51.89.148.37:8080/catena-9-100-streamer-bein_sports_1_fhd/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
-
-#EXTINF:-1, Setanta Sport 1 🇬🇪
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-
-#EXTINF:-1, SIRTV 🇶🇦
-https://d3vv5zgkcssg5m.cloudfront.net/kooora/d4f9ab7dsssfsds5abein111?ts=1759344894&nonce=tzlZyn2&token=698951669
-
-#EXTINF:-1, SIRTV 🇶🇦
-https://d28soor02c80fr.cloudfront.net/kooora/d4f9ab7dsd5abein111en?ts=1759344918&nonce=1iZBynq&token=1153317999
-
-#EXTINF:-1, SIRTV 🇶🇦
-https://d3vv5zgkcssg5m.cloudfront.net/kooora/d4f9ab7dsssfsds5abein111_sd?ts=1759344894&nonce=BuGujwGf&token=110003313
-
-#EXTINF:-1, beIN SPORTS HD 1 🇶🇦
-http://142.132.133.190:1935/live/BATIFA-TV/playlist.m3u8
-
-#EXTINF:-1, TNT SPORT 2 🇬🇧
-https://s@saz.blitzen.store/tnt2.m3u8
-
-#EXTINF:-1, MAX SPORT 3 🇧🇬
-http://213.169.39.30:5142
-
-#EXTINF:-1, ESPN 🇦🇷
-http://181.78.117.219:8000/play/a00b/index.m3u8
-
-#EXTINF:-1,UNIMAS 🇺🇸
-http://172.93.102.112:8989/158753_.m3u8
-
-#EXTINF:-1, beIN SPORTS HD 1 🇶🇦
-http://het119a.4rouwanda-shop.store/live/918454578001/index.m3u8?fbclid=PAQ0xDSwMMZyFleHRuA2FlbQIxMQABp8GyT-z9PY4kXrrfonICd7iUOg9Y7K8z5tUOT4Qso7l7Fk5doN8ayuj0TqsP_aem_cPVzXdQaQA8LNLSXcq6AzA
-
-#EXTINF:-1, ESPN VIVO 🇦🇷
-http://45.71.254.1:8000/play/a038/index.m3u8
-
-#EXTINF:-1, ESPN VIVO 🇦🇷
-https://cdn01.oplay.tv/espn/index.m3u8
-
-#EXTINF:-1, CBS SPORT 🇺🇸
-http://212.102.60.231:80/CBS_SPORTS_NETWORK/index.m3u8
-
-#EXTINF:-1, Sony Ten 5 🇮🇳
-http://stvlive.net:8080/sonyten5/index.m3u8
-
-#EXTINF:-1, Sony Ten 5 🇮🇳
-http://103.175.242.10:8080/sonyten5/index.m3u8
-
-
-
-
 #EXTINF:-1, IDMANTV 🇹🇷
 http://88.99.64.228/IdmanTV/tracks-v1a1/mono.m3u8
 
@@ -633,7 +582,53 @@ https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 
 
 
+#EXTINF:-1, beIN SPORTS HD 1 🇶🇦
+http://51.89.148.37:8080/catena-9-100-streamer-bein_sports_1_fhd/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 
+#EXTINF:-1, Setanta Sport 1 🇬🇪
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+
+#EXTINF:-1, SIRTV 🇶🇦
+https://d3vv5zgkcssg5m.cloudfront.net/kooora/d4f9ab7dsssfsds5abein111?ts=1759344894&nonce=tzlZyn2&token=698951669
+
+#EXTINF:-1, SIRTV 🇶🇦
+https://d28soor02c80fr.cloudfront.net/kooora/d4f9ab7dsd5abein111en?ts=1759344918&nonce=1iZBynq&token=1153317999
+
+#EXTINF:-1, SIRTV 🇶🇦
+https://d3vv5zgkcssg5m.cloudfront.net/kooora/d4f9ab7dsssfsds5abein111_sd?ts=1759344894&nonce=BuGujwGf&token=110003313
+
+#EXTINF:-1, beIN SPORTS HD 1 🇶🇦
+http://142.132.133.190:1935/live/BATIFA-TV/playlist.m3u8
+
+#EXTINF:-1, TNT SPORT 2 🇬🇧
+https://s@saz.blitzen.store/tnt2.m3u8
+
+#EXTINF:-1, MAX SPORT 3 🇧🇬
+http://213.169.39.30:5142
+
+#EXTINF:-1, ESPN 🇦🇷
+http://181.78.117.219:8000/play/a00b/index.m3u8
+
+#EXTINF:-1,UNIMAS 🇺🇸
+http://172.93.102.112:8989/158753_.m3u8
+
+#EXTINF:-1, beIN SPORTS HD 1 🇶🇦
+http://het119a.4rouwanda-shop.store/live/918454578001/index.m3u8?fbclid=PAQ0xDSwMMZyFleHRuA2FlbQIxMQABp8GyT-z9PY4kXrrfonICd7iUOg9Y7K8z5tUOT4Qso7l7Fk5doN8ayuj0TqsP_aem_cPVzXdQaQA8LNLSXcq6AzA
+
+#EXTINF:-1, ESPN VIVO 🇦🇷
+http://45.71.254.1:8000/play/a038/index.m3u8
+
+#EXTINF:-1, ESPN VIVO 🇦🇷
+https://cdn01.oplay.tv/espn/index.m3u8
+
+#EXTINF:-1, CBS SPORT 🇺🇸
+http://212.102.60.231:80/CBS_SPORTS_NETWORK/index.m3u8
+
+#EXTINF:-1, Sony Ten 5 🇮🇳
+http://stvlive.net:8080/sonyten5/index.m3u8
+
+#EXTINF:-1, Sony Ten 5 🇮🇳
+http://103.175.242.10:8080/sonyten5/index.m3u8
 
 #EXTINF:-1, TNT SPORT 1 🇬🇧
 https://d5svgrvrc65ed.cloudfront.net/out/v1/701c78700ea94c6e965038338833cde6/index_1.m3u8
