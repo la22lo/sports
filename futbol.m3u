@@ -33,6 +33,9 @@ http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://213.169.39.30:5130
 
+#EXTINF:-1, MAX SPORT 4 🇧🇬
+http://77.46.130.252:99/maxsport4
+
 #EXTINF:-1, HYP 🇪🇸
 http://89.29.219.116:9981/stream/channelid/2145421054?profile=pass
 
@@ -342,14 +345,26 @@ http://88.212.15.19/live/test_sport_2/playlist.m3u8
 #EXTINF:-1, MAX SPORT 1 🇧🇬
 http://213.169.39.30:5138
 
+#EXTINF:-1, MAX SPORT 1 🇧🇬
+http://77.46.130.252:99/maxsport1
+
 #EXTINF:-1, MAX SPORT 2 🇧🇬
 http://213.169.39.30:5140
+
+#EXTINF:-1, MAX SPORT 2 🇧🇬
+http://77.46.130.252:99/maxsport2
 
 #EXTINF:-1, MAX SPORT 3 🇧🇬
 http://213.169.39.30:5142
 
+#EXTINF:-1, MAX SPORT 3 🇧🇬
+http://77.46.130.252:99/maxsport3
+
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://213.169.39.30:5130
+
+#EXTINF:-1, MAX SPORT 4 🇧🇬
+http://77.46.130.252:99/maxsport4
 
 #EXTINF:-1, Nova Sport 🇧🇬
 http://213.169.39.30:5102
