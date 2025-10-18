@@ -150,6 +150,15 @@ http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2534/index.m3u8
 #EXTINF:-1, Dazn 5 🇵🇹
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2535/index.m3u8
 
+#EXTINF:-1, BEIN 1 🇫🇷
+http://145.239.5.177/557/mpegts
+
+#EXTINF:-1, BEIN 2 🇫🇷
+http://145.239.5.177/558/mpegts
+
+#EXTINF:-1, BEIN 3 🇫🇷
+http://145.239.5.177/559/mpegts
+
 #EXTINF:-1,4Sports 🇸🇦
 https://hls.pokertvfa.live/hls/stream.m3u8
 
