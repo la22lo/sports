@@ -48,6 +48,12 @@ http://89.29.219.116:9981/stream/channelid/366103458?profile=pass
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 https://balance.footballii.ir/hls2/bein1.m3u8
 
+#EXTINF:-1, beIN SPORTS 1 🇶🇦
+https://ab.footballii.ir/hls2/bein1_src.m3u8
+
+#EXTINF:-1, beIN SPORTS 1 🇶🇦
+https://ab.footballii.ir/hls2/bein1_low.m3u8
+
 #EXTINF:-1, beIN SPORTS HD 1 🇶🇦
 http://het104a.4rouwanda-shop.store:80/live/918454578001/index.m3u8
 
