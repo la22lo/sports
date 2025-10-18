@@ -45,6 +45,9 @@ http://89.29.219.116:9981/stream/channelid/2145421054?profile=pass
 #EXTINF:-1, HYP 🇪🇸
 http://89.29.219.116:9981/stream/channelid/366103458?profile=pass
 
+#EXTINF:-1, beIN SPORTS 1 🇶🇦
+https://balance.footballii.ir/hls2/bein1.m3u8
+
 #EXTINF:-1, beIN SPORTS HD 1 🇶🇦
 http://het104a.4rouwanda-shop.store:80/live/918454578001/index.m3u8
 
@@ -594,8 +597,14 @@ https://app.hughag.store/api/6b9c461155/playlist.m3u8
 #EXTINF:-1,  Varzesh TV 🇸🇦
 https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
 
+#EXTINF:-1,  Varzesh TV 🇸🇦
+https://balance.footballii.ir/hls2/varzeshtv.m3u8
+
 #EXTINF:-1, NETO SPORTS 🇸🇦
 https://netohls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1, TV3 🇸🇦
+https://balance.footballii.ir/hls2/tv3.m3u8
 
 #EXTINF:-1, RTA SPORT 🇸🇦
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
