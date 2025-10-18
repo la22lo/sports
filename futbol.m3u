@@ -33,6 +33,12 @@ http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://213.169.39.30:5130
 
+#EXTINF:-1, HYP 🇪🇸
+http://89.29.219.116:9981/stream/channelid/2145421054?profile=pass
+
+#EXTINF:-1, HYP 🇪🇸
+http://89.29.219.116:9981/stream/channelid/366103458?profile=pass
+
 #EXTINF:-1, beIN SPORTS HD 1 🇶🇦
 http://het104a.4rouwanda-shop.store:80/live/918454578001/index.m3u8
 
