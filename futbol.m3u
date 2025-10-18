@@ -153,6 +153,9 @@ http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2535/index.m3u8
 #EXTINF:-1, BEIN 1 🇫🇷
 http://145.239.5.177/557/mpegts
 
+#EXTINF:-1, BEIN 1 🇫🇷
+http://5.9.119.146:8883/beinfr1/index.m3u8
+
 #EXTINF:-1, BEIN 2 🇫🇷
 http://145.239.5.177/558/mpegts
 
