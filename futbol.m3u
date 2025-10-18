@@ -9,6 +9,9 @@ https://paco@v8.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8?token=UxbWUt
 #EXTINF:-1, DAZN La Liga 🇪🇸
 http://89.29.219.116:9981/stream/channelid/681459364?profile=pass
 
+#EXTINF:-1, DAZN La Liga 🇪🇸
+http://89.29.219.116:9981/stream/channelid/973965293?profile=pass
+
 #EXTINF:-1, beIN SPORTS HD 1 🇶🇦
 http://51.89.148.37:8080/catena-9-100-streamer-bein_sports_1_fhd/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 
