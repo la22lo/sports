@@ -225,6 +225,9 @@ https://7pal.short.gy/prsport2
 #EXTINF:-1, CANAL + SPORT 🇫🇷
 http://116.202.237.33:8080/CNLS3/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 
+#EXTINF:-1, CANAL + Sport 🇫🇷
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+
 #EXTINF:-1, CANAL + SPORT 2 🇫🇷
 http://116.202.237.33:8080/CNLS2/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 
@@ -440,6 +443,9 @@ http://178.23.88.55/Nova_Sport/index.m3u8
 
 #EXTINF:-1, NOVA SPORT 1 HD 🇨🇿
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2555/index.m3u8
+
+#EXTINF:-1, NOVA SPORT 2 🇨🇿
+http://91.219.133.62:1234/udp/239.1.2.91:1234
 
 #EXTINF:-1,NOVA SPORT 5 🇨🇿
 http://116.202.237.33:8080/NS5/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
@@ -657,6 +663,9 @@ https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
 #EXTINF:-1, SkySports 2 New Zealand 🇳🇿
 https://tiger-hub.vercel.app/SkySports-2_NZ/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, SKY SPORT 8 🇳🇿
+http://135.125.238.26:8080/catena-36-1149997-streamer-nz_sky_sport_8/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
+
 #EXTINF:-1, SPORTYTV 🇨🇿
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
 
@@ -755,6 +764,12 @@ http://51.89.148.37:8080/catena-9-100-streamer-bein_sports_1_fhd/tracks-v1a1a2a3
 
 #EXTINF:-1, Setanta Sport 1 🇬🇪
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+
+#EXTINF:-1, ESPN 1 NORTE 🇵🇦
+http://45.71.254.1:8000/play/a0e6/index.m3u8
+
+#EXTINF:-1, ESPN 2 NORTE 🇵🇦
+http://45.71.254.1:8000/play/a0e7/index.m3u8
 
 #EXTINF:-1, SIRTV 🇶🇦
 https://d3vv5zgkcssg5m.cloudfront.net/kooora/d4f9ab7dsssfsds5abein111?ts=1759344894&nonce=tzlZyn2&token=698951669
