@@ -309,6 +309,21 @@ https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1, Беларусь 5 🇧🇾
 https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/chunklist_w278966610_b1460000_sleng.m3u8
 
+#EXTINF:-1,Arena_Sport_1 HD 🇷🇸
+http://78.108.251.7/Arena_Sport_1/index.m3u8
+
+#EXTINF:-1,Arena_Sport_2 HD 🇷🇸
+http://78.108.251.7/Arena_Sport_2/index.m3u8
+
+#EXTINF:-1,Arena_Sport_3 HD 🇷🇸
+http://78.108.251.7/Arena_Sport_3/index.m3u8
+
+#EXTINF:-1,Arena_Sport_4 HD 🇷🇸
+http://78.108.251.7/Arena_Sport_4/index.m3u8
+
+#EXTINF:-1,Arena_Sport_5 HD 🇷🇸
+http://78.108.251.7/Arena_Sport_5/index.m3u8
+
 #EXTINF:-1, ARENA PREM 2 🇷🇸
 https://tiger-hub.vercel.app/Arena-Sports/Premium_2/tracks-v1a1/mono.ts.m3u8
 
