@@ -333,6 +333,9 @@ https://tiger-hub.vercel.app/Arena-Sports/7/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, ARENA 8 🇷🇸
 https://tiger-hub.vercel.app/Arena-Sports/8/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1, RTSH Sport 🇦🇱
+http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
+
 #EXTINF:-1, CANAL+ Sport 🇵🇱
 http://116.202.237.33:8080/CNLS1/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 
