@@ -369,6 +369,48 @@ https://tiger-hub.vercel.app/Arena-Sports/7/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, ARENA 8 🇷🇸
 https://tiger-hub.vercel.app/Arena-Sports/8/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1,Arena_Sport_1 HD 🇷🇸
+http://185.166.252.230/Arena1/index.m3u8
+
+#EXTINF:-1,Arena_Sport_2 HD 🇷🇸
+http://185.166.252.230/Arena2/index.m3u8
+
+#EXTINF:-1,Arena_Sport_3 HD 🇷🇸
+http://185.166.252.230/Arena3/index.m3u8
+
+#EXTINF:-1,Arena_Sport_4 HD 🇷🇸
+http://185.166.252.230/Arena4/index.m3u8
+
+#EXTINF:-1,Arena_Sport_5 HD 🇷🇸
+http://185.166.252.230/Arena5/index.m3u8
+
+#EXTINF:-1,Arena_Sport_6 HD 🇷🇸
+http://185.166.252.230/Arena6/index.m3u8
+
+#EXTINF:-1,Arena_Sport_7 HD 🇷🇸
+http://185.166.252.230/Arena7/index.m3u8
+
+#EXTINF:-1,Arena_Sport_8 HD 🇷🇸
+http://185.166.252.230/Arena8/index.m3u8
+
+#EXTINF:-1,Arena_Sport_9 HD 🇷🇸
+http://185.166.252.230/Arena9/index.m3u8
+
+#EXTINF:-1,Arena_Sport_10 HD 🇷🇸
+http://185.166.252.230/Arena10/index.m3u8
+
+#EXTINF:-1, MAXSPORT_1 🇭🇷
+http://185.166.252.230/MaxSport1/index.m3u8
+
+#EXTINF:-1, MAXSPORT_1 🇭🇷
+http://23.88.66.93/MAXSPORT_1/index.m3u8
+
+#EXTINF:-1, MAXSPORT_2 🇭🇷
+http://185.166.252.230/MaxSport2/index.m3u8
+
+#EXTINF:-1, MAXSPORT_2 🇭🇷
+http://23.88.66.93/MAXSPORT_2/index.m3u8
+
 #EXTINF:-1, RTSH Sport 🇦🇱
 http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
 
