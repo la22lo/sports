@@ -186,6 +186,9 @@ http://5.9.119.146:8883/sf1_bein_hd3_fr/index.m3u8
 #EXTINF:-1,4Sports 🇸🇦
 https://hls.pokertvfa.live/hls/stream.m3u8
 
+#EXTINF:-1, SOLH SPORT 🇦🇫
+http://cors.tundracast.com:2000/https://wo.cma.footballii.ir/hls2/solh.m3u8
+
 #EXTINF:-1, Turkmenistan Sport 🇹🇲
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
