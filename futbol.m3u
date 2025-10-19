@@ -177,6 +177,27 @@ http://145.239.5.177/559/mpegts
 #EXTINF:-1, BEIN 3 🇫🇷
 http://5.9.119.146:8883/sf1_bein_hd3_fr/index.m3u8
 
+#EXTINF:-1,RMC Sport 1 🇫🇷
+http://5.9.119.146:8883/rmc1/index.m3u8
+
+#EXTINF:-1,RMC Sport 1 🇫🇷
+http://178.33.239.54:8080/524/index.m3u8
+
+#EXTINF:-1,Canal+ Sport 🇫🇷
+http://178.33.239.54:8080/541/index.m3u8
+
+#EXTINF:-1,Canal+ Sport 2 🇫🇷
+http://178.33.239.54:8080/544/index.m3u8
+
+#EXTINF:-1,Canal+ Sport 3 🇫🇷
+http://178.33.239.54:8080/545/index.m3u8
+
+#EXTINF:-1,Canal+ Sport 360 🇫🇷
+http://178.33.239.54:8080/700/index.m3u8
+
+#EXTINF:-1,L'Équipe 🇫🇷
+https://tvradiozap.eu/tools/dm-m3u8.php/x2lefik.m3u8
+
 #EXTINF:-1,4Sports 🇸🇦
 https://hls.pokertvfa.live/hls/stream.m3u8
 
