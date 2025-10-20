@@ -246,17 +246,26 @@ http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_
 #EXTINF:-1, Матч! Футбол 1 HD 🇷🇺
 http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/222/index.m3u8
 
+#EXTINF:-1, МАТЧ! ФУТБOЛ 1HD 🇷🇺
+http://188.191.160.238:7780/udp/239.195.3.16:1234
+
 #EXTINF:-1, Матч! Футбол 2 HD 🇷🇺
 http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/211/index.m3u8
 
 #EXTINF:-1, Матч! Футбол 2 HD 🇷🇺
 http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/530/index.m3u8
 
+#EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
+http://188.191.160.238:7780/udp/239.195.3.17:1234
+
 #EXTINF:-1, Матч! Футбол 3 HD 🇷🇺
 http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/206/index.m3u8
 
 #EXTINF:-1, Матч! Футбол 3 HD 🇷🇺
 http://185.57.68.33:8091/110/playlist.m3u8
+
+#EXTINF:-1, МАТЧ! ФУТБOЛ 3HD 🇷🇺
+http://188.191.160.238:7780/udp/239.195.3.18:1234
 
 #EXTINF:-1, Футбол 3 (SD) 🇷🇺
 http://185.57.68.33:80/110/index.m3u8
