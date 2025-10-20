@@ -234,6 +234,12 @@ http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
 #EXTINF:-1, CANAL + SPORT 2 🇫🇷
 http://116.202.237.33:8080/CNLS2/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 
+#EXTINF:-1, Setenta Sport 1 🇷🇺
+http://cdntv.online/low/9mlxywika2/1021.m3u8
+
+#EXTINF:-1, Setenta Sport 2 🇷🇺
+http://cdntv.online/low/9mlxywika2/1022.m3u8
+
 #EXTINF:-1, Матч! 🇷🇺
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 
@@ -243,11 +249,17 @@ https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
 #EXTINF:-1, Матч! 🇷🇺
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 
+#EXTINF:-1, Матч! 🇷🇺
+http://cdntv.online/low/9mlxywika2/48.m3u8
+
 #EXTINF:-1, Матч! Футбол 1 HD 🇷🇺
 http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/222/index.m3u8
 
 #EXTINF:-1, МАТЧ! ФУТБOЛ 1HD 🇷🇺
 http://188.191.160.238:7780/udp/239.195.3.16:1234
+
+#EXTINF:-1, Матч! Футбол 1 HD 🇷🇺
+http://cdntv.online/low/9mlxywika2/55.m3u8
 
 #EXTINF:-1, Матч! Футбол 2 HD 🇷🇺
 http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/211/index.m3u8
@@ -258,6 +270,9 @@ http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/530/index.m3u8
 #EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
 http://188.191.160.238:7780/udp/239.195.3.17:1234
 
+#EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
+http://cdntv.online/low/9mlxywika2/56.m3u8
+
 #EXTINF:-1, Матч! Футбол 3 HD 🇷🇺
 http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/206/index.m3u8
 
@@ -266,6 +281,9 @@ http://185.57.68.33:8091/110/playlist.m3u8
 
 #EXTINF:-1, МАТЧ! ФУТБOЛ 3HD 🇷🇺
 http://188.191.160.238:7780/udp/239.195.3.18:1234
+
+#EXTINF:-1, МАТЧ! ФУТБOЛ 3HD 🇷🇺
+http://cdntv.online/low/9mlxywika2/57.m3u8
 
 #EXTINF:-1, Футбол 3 (SD) 🇷🇺
 http://185.57.68.33:80/110/index.m3u8
@@ -344,6 +362,9 @@ https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 
 #EXTINF:-1, Беларусь 5 🇧🇾
 https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/chunklist_w278966610_b1460000_sleng.m3u8
+
+#EXTINF:-1, Беларусь 5 🇧🇾
+http://cdntv.online/low/9mlxywika2/778.m3u8
 
 #EXTINF:-1,Arena_Sport_1 HD 🇷🇸
 http://78.108.251.7/Arena_Sport_1/index.m3u8
@@ -510,11 +531,17 @@ http://213.169.39.30:5138
 #EXTINF:-1, MAX SPORT 1 🇧🇬
 http://77.46.130.252:99/maxsport1
 
+#EXTINF:-1, MAX SPORT 1 🇧🇬
+http://92.247.25.42:11176/
+
 #EXTINF:-1, MAX SPORT 2 🇧🇬
 http://213.169.39.30:5140
 
 #EXTINF:-1, MAX SPORT 2 🇧🇬
 http://77.46.130.252:99/maxsport2
+
+#EXTINF:-1, MAX SPORT 2 🇧🇬
+http://92.247.25.42:11177/
 
 #EXTINF:-1, MAX SPORT 3 🇧🇬
 http://213.169.39.30:5142
@@ -522,11 +549,26 @@ http://213.169.39.30:5142
 #EXTINF:-1, MAX SPORT 3 🇧🇬
 http://77.46.130.252:99/maxsport3
 
+#EXTINF:-1, MAX SPORT 3 🇧🇬
+http://92.247.25.42:11178/
+
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://213.169.39.30:5130
 
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://77.46.130.252:99/maxsport4
+
+#EXTINF:-1, MAX SPORT 4 🇧🇬
+http://92.247.25.42:11173/
+
+#EXTINF:-1, Diema Sport 1 🇧🇬
+http://92.247.25.42:11170/
+
+#EXTINF:-1, Diema Sport 2 🇧🇬
+http://92.247.25.42:11172/
+
+#EXTINF:-1, Diema Sport 3 🇧🇬
+http://92.247.25.42:11171/
 
 #EXTINF:-1, Nova Sport 🇧🇬
 http://213.169.39.30:5102
@@ -543,8 +585,14 @@ http://213.169.39.30:5216
 #EXTINF:-1, Digi Sport 1 🇷🇴
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2523/index.m3u8
 
+#EXTINF:-1, Digi Sport 1 🇷🇴
+http://91.201.172.14:35005/
+
 #EXTINF:-1, Digi Sport 2 🇷🇴
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2522/index.m3u8
+
+#EXTINF:-1, Digi Sport 2 🇷🇴
+http://91.201.172.14:35006/
 
 #EXTINF:-1, Digi Sport 3 🇷🇴
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2524/index.m3u8
