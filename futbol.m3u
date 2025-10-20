@@ -429,6 +429,24 @@ https://tiger-hub.vercel.app/SPORT-ZONE/K-Sports_3/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, RTSH Sport 🇦🇱
 http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
 
+#EXTINF:-1, Super Sport 1 🇦🇱
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
+
+#EXTINF:-1, Super Sport 1 🇦🇱
+http://@195.181.169.152:8080/Super_Sport_1_HD_AL/index.m3u8?token=test
+
+#EXTINF:-1, Super Sport 2 🇦🇱
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
+
+#EXTINF:-1, Super Sport 2 🇦🇱
+http://@195.181.169.152:8080/Super_Sport_2_HD_AL/index.m3u8?token=test
+
+#EXTINF:-1, Super Sport 3 🇦🇱
+http://@195.181.169.152:8080/Super_Sport_3_HD_AL/index.m3u8?token=test
+
+#EXTINF:-1, Super Sport 4 🇦🇱
+http://@195.181.169.152:8080/Super_Sport_4_HD_AL/index.m3u8?token=test
+
 #EXTINF:-1, CANAL+ Sport 🇵🇱
 http://116.202.237.33:8080/CNLS1/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 
