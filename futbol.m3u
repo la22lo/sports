@@ -1,5 +1,18 @@
 #EXTM3U
 
+#EXTINF:-1, beIN SPORTS 1 🇶🇦
+https://ab.footballii.ir/hls2/bein1_src.m3u8
+
+#EXTINF:-1, beIN SPORTS 1 🇶🇦
+https://ab.footballii.ir/hls2/bein1_low.m3u8
+
+#EXTINF:-1, beIN SPORTS 1 🇶🇦
+https://balance.footballii.ir/hls2/bein1.m3u8
+
+
+
+
+
 #EXTINF:-1, IDMANTV 🇹🇷
 http://88.99.64.228/IdmanTV/tracks-v1a1/mono.m3u8
 
