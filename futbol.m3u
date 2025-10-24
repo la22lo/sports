@@ -69,6 +69,9 @@ http://@195.181.169.152:8080/Super_Sport_1_HD_AL/index.m3u8?token=test
 #EXTINF:-1, Eleven Sport 1 🇵🇱
 https://fusion4k.aayushmansinghrajpurohit95.workers.dev/2030.m3u8
 
+#EXTINF:-1, Arena Sport 3 🇭🇷
+https://fusion4k.aayushmansinghrajpurohit95.workers.dev/7074.m3u8
+
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://213.169.39.30:5130
 
@@ -414,8 +417,26 @@ http://23.88.66.93/MAXSPORT_2/index.m3u8
 #EXTINF:-1, ARENA SPORT 1 🇭🇷
 https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/842.m3u8
 
+#EXTINF:-1, ARENA SPORT 1 🇭🇷
+https://fusion4k.aayushmansinghrajpurohit95.workers.dev/7072.m3u8
+
 #EXTINF:-1, ARENA SPORT 2 🇭🇷
 https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/843.m3u8
+
+#EXTINF:-1, ARENA SPORT 2 🇭🇷
+https://fusion4k.aayushmansinghrajpurohit95.workers.dev/7073.m3u8
+
+#EXTINF:-1, Arena Sport 3 🇭🇷
+https://fusion4k.aayushmansinghrajpurohit95.workers.dev/7074.m3u8
+
+#EXTINF:-1, Arena Sport 4 🇭🇷
+https://fusion4k.aayushmansinghrajpurohit95.workers.dev/7075.m3u8
+
+#EXTINF:-1, Arena Sport 5 🇭🇷
+https://fusion4k.aayushmansinghrajpurohit95.workers.dev/7076.m3u8
+
+#EXTINF:-1, Arena Sport 6 🇭🇷
+https://fusion4k.aayushmansinghrajpurohit95.workers.dev/7077.m3u8
 
 #EXTINF:-1, K Sports 1 🌏
 https://tiger-hub.vercel.app/SPORT-ZONE/K-Sports_1/tracks-v1a1/mono.ts.m3u8
