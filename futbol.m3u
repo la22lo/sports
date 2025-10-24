@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, IDMANTV 🇹🇷
-http://88.99.64.228/IdmanTV/tracks-v1a1/mono.m3u8
+https://str.yodacdn.net/idman/index.m3u8
 
 #EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
 http://cdntv.online/low/9mlxywika2/56.m3u8
@@ -74,6 +74,9 @@ http://het104a.4rouwanda-shop.store:80/live/978480008877005/index.m3u8
 
 #EXTINF:-1, beIN SPORTS HD 1 🇶🇦
 http://het119a.4rouwanda-shop.store/live/918454578001/index.m3u8?fbclid=PAQ0xDSwMMZyFleHRuA2FlbQIxMQABp8GyT-z9PY4kXrrfonICd7iUOg9Y7K8z5tUOT4Qso7l7Fk5doN8ayuj0TqsP_aem_cPVzXdQaQA8LNLSXcq6AzA
+
+#EXTINF:-1, IDMANTV 🇹🇷
+http://88.99.64.228/IdmanTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, DSPORTS 1 🇦🇷
 http://172.93.102.112:8989/279390_.m3u8
