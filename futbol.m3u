@@ -27,6 +27,12 @@ http://cdntv.online/low/9mlxywika2/778.m3u8
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 
+#EXTINF:-1, Super Sport 1 🇦🇱
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
+
+#EXTINF:-1, Super Sport 1 🇦🇱
+http://@195.181.169.152:8080/Super_Sport_1_HD_AL/index.m3u8?token=test
+
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://213.169.39.30:5130
 
