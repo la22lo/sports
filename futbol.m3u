@@ -1,25 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, beIN SPORTS 1 🇶🇦
-https://ab.footballii.ir/hls2/bein1_src.m3u8
-
-#EXTINF:-1, beIN SPORTS 1 🇶🇦
-https://ab.footballii.ir/hls2/bein1_low.m3u8
-
-#EXTINF:-1, beIN SPORTS 1 🇶🇦
-https://balance.footballii.ir/hls2/bein1.m3u8
-
-#EXTINF:-1, ESPN 1 NORTE 🇵🇦
-http://45.71.254.1:8000/play/a0e6/index.m3u8
-
-#EXTINF:-1, ESPN 1 NORTE 🇵🇦
-https://cdn01.oplay.tv/espn/index.m3u8
-
-#EXTINF:-1, Digi Sport 1 🇷🇴
-http://91.201.172.14:35005/
-
-
-
 #EXTINF:-1, IDMANTV 🇹🇷
 http://88.99.64.228/IdmanTV/tracks-v1a1/mono.m3u8
 
@@ -868,15 +848,29 @@ https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 
 
 
+#EXTINF:-1, beIN SPORTS 1 🇶🇦
+https://ab.footballii.ir/hls2/bein1_src.m3u8
+
+#EXTINF:-1, beIN SPORTS 1 🇶🇦
+https://ab.footballii.ir/hls2/bein1_low.m3u8
+
+#EXTINF:-1, beIN SPORTS 1 🇶🇦
+https://balance.footballii.ir/hls2/bein1.m3u8
+
+#EXTINF:-1, ESPN 1 NORTE 🇵🇦
+http://45.71.254.1:8000/play/a0e6/index.m3u8
+
+#EXTINF:-1, ESPN 1 NORTE 🇵🇦
+https://cdn01.oplay.tv/espn/index.m3u8
+
+#EXTINF:-1, Digi Sport 1 🇷🇴
+http://91.201.172.14:35005/
 
 #EXTINF:-1, beIN SPORTS HD 1 🇶🇦
 http://51.89.148.37:8080/catena-9-100-streamer-bein_sports_1_fhd/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 
 #EXTINF:-1, Setanta Sport 1 🇬🇪
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-
-#EXTINF:-1, ESPN 1 NORTE 🇵🇦
-http://45.71.254.1:8000/play/a0e6/index.m3u8
 
 #EXTINF:-1, ESPN 2 NORTE 🇵🇦
 http://45.71.254.1:8000/play/a0e7/index.m3u8
