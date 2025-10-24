@@ -3,17 +3,8 @@
 #EXTINF:-1, IDMANTV 🇹🇷
 http://88.99.64.228/IdmanTV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, Матч! 🇷🇺
-http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, Матч! 🇷🇺
-https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
-
-#EXTINF:-1, Матч! 🇷🇺
-http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-
-#EXTINF:-1, Матч! 🇷🇺
-http://cdntv.online/low/9mlxywika2/48.m3u8
+#EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
+http://cdntv.online/low/9mlxywika2/56.m3u8
 
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 https://balance.footballii.ir/hls2/bein1.m3u8
@@ -30,6 +21,24 @@ http://5.9.119.146:8883/beinfr1/index.m3u8
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 
+#EXTINF:-1, MAX SPORT 4 🇧🇬
+http://213.169.39.30:5130
+
+#EXTINF:-1, MAX SPORT 4 🇧🇬
+http://77.46.130.252:99/maxsport4
+
+#EXTINF:-1, Матч! 🇷🇺
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Матч! 🇷🇺
+https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
+
+#EXTINF:-1, Матч! 🇷🇺
+http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+
+#EXTINF:-1, Матч! 🇷🇺
+http://cdntv.online/low/9mlxywika2/48.m3u8
+
 #EXTINF:-1, DAZN La Liga 🇪🇸
 http://89.29.219.116:9981/stream/channelid/681459364?profile=pass
 
@@ -38,12 +47,6 @@ http://89.29.219.116:9981/stream/channelid/973965293?profile=pass
 
 #EXTINF:-1, M La Liga 🇪🇸
 http://89.29.219.116:9981/stream/channelid/681574283?profile=pass
-
-#EXTINF:-1, MAX SPORT 4 🇧🇬
-http://213.169.39.30:5130
-
-#EXTINF:-1, MAX SPORT 4 🇧🇬
-http://77.46.130.252:99/maxsport4
 
 #EXTINF:-1, HYP 🇪🇸
 http://89.29.219.116:9981/stream/channelid/2145421054?profile=pass
