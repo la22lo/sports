@@ -441,6 +441,9 @@ http://@195.181.169.152:8080/Super_Sport_3_HD_AL/index.m3u8?token=test
 #EXTINF:-1, Super Sport 4 🇦🇱
 http://@195.181.169.152:8080/Super_Sport_4_HD_AL/index.m3u8?token=test
 
+#EXTINF:-1, CBC SPORT 🇦🇿
+https://fusion4k.aayushmansinghrajpurohit95.workers.dev/477943.m3u8
+
 #EXTINF:-1, NOVA SPORT 1 HD 🇨🇿
 http://185.236.230.212:9982/play/a0an
 
