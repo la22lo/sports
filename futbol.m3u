@@ -648,8 +648,17 @@ http://176.65.146.237:8401/play/a09k/index.m3u8
 #EXTINF:-1, REAL MADRID TV 🇪🇸
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
+#EXTINF:-1, REAL MADRID TV 🇪🇸
+http://172.93.102.112:8989/278854_.m3u8
+
 #EXTINF:-1,La liga Inside 🇪🇸
 https://is.gd/P9HFAg?LaligaInside.m3u8
+
+#EXTINF:-1,VAMOS 🇪🇸
+http://172.93.102.112:8989/278843_.m3u8
+
+#EXTINF:-1,TD 🇪🇸
+http://172.93.102.112:8989/278856_.m3u8
 
 #EXTINF:-1,BEIN SPORT EXTRA Ñ 🇪🇸
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
