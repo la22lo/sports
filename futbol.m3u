@@ -114,6 +114,9 @@ http://89.29.219.116:9981/stream/channelid/681459364?profile=pass
 #EXTINF:-1, DAZN La Liga 🇪🇸
 http://89.29.219.116:9981/stream/channelid/973965293?profile=pass
 
+#EXTINF:-1, DAZN La Liga 🇪🇸
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=147097&extension=ts
+
 #EXTINF:-1, M La Liga 🇪🇸
 http://89.29.219.116:9981/stream/channelid/681574283?profile=pass
 
