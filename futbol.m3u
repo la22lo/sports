@@ -42,6 +42,12 @@ https://str2.yodacdn.net/idman/tracks-v1a1/mono.m3u8
 #EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
 http://cdntv.online/low/9mlxywika2/56.m3u8
 
+#EXTINF:-1, SKY SPORT LALIGA 🇲🇽
+http://190.14.10.19:16000/play/a09u/index.m3u8
+
+#EXTINF:-1, SKY SPORT LALIGA 🇲🇽
+http://181.78.109.48:9998/play/a06r/index.m3u8
+
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 https://balance.footballii.ir/hls2/bein1.m3u8
 
