@@ -276,6 +276,12 @@ https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1, Turkmenistan Sport 🇹🇲
 http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 
+#EXTINF:-1, Bein sports 1 ENG 🇬🇧
+https://tiger-hub.vercel.app/Bein-sports_1_ENG/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Bein sports 2 ENG 🇬🇧
+https://tiger-hub.vercel.app/Bein-sports_2_ENG/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, Premier Sport 1 UK 🇬🇧
 https://tiger-hub.vercel.app/Premier_Sports-1/tracks-v1a1/mono.m3u8
 
