@@ -765,6 +765,9 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1,HT SPOR 🇹🇷
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 
+#EXTINF:-1,DAZN TV 🇬🇧
+https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
+
 #EXTINF:-1,SERVUS TV 🇩🇪
 https://s6.hopslan.com/servus22/tracks-v1a1/mono.m3u8
 
