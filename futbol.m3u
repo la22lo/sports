@@ -117,11 +117,17 @@ http://89.29.219.116:9981/stream/channelid/973965293?profile=pass
 #EXTINF:-1, DAZN La Liga 🇪🇸
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=147097&extension=ts
 
+#EXTINF:-1, DAZN La Liga 🇪🇸
+https://tiger-hub.vercel.app/DAZN-LaLiga/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, M La Liga 🇪🇸
 http://89.29.219.116:9981/stream/channelid/681574283?profile=pass
 
 #EXTINF:-1, M La Liga 🇪🇸
 http://172.93.102.112:8989/278844_.m3u8
+
+#EXTINF:-1, M La Liga 🇪🇸
+https://tiger-hub.vercel.app/LaLiga_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, HYP 🇪🇸
 http://89.29.219.116:9981/stream/channelid/2145421054?profile=pass
