@@ -804,8 +804,20 @@ https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ad
 #EXTINF:-1, INFOSPORT 🇫🇷 
 http://212.102.60.80/Infosport/index.m3u8
 
+#EXTINF:-1,Bein 1 🇹🇭
+https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/195bein1.m3u8
+
+#EXTINF:-1,Bein 2 🇹🇭
+https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/195bein2.m3u8
+
 #EXTINF:-1,True Vision Sports 🇹🇭
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=191873&extension=m3u8
+
+#EXTINF:-1,True Tennis 🇹🇭
+https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/195tennis.m3u8
+
+#EXTINF:-1,SPOTV 2 🇮🇩
+https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/195sportv2.m3u8
 
 #EXTINF:-1,STAR SPORTS 1 🇮🇳
 http://41.205.93.154/STARSPORTS1/index.m3u8
