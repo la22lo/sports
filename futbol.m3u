@@ -103,6 +103,9 @@ http://77.46.130.252:99/maxsport4
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Матч! 🇷🇺
+https://streaming.televizor-24-tochka.ru/live/6.m3u8
+
+#EXTINF:-1, Матч! 🇷🇺
 https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
 
 #EXTINF:-1, Матч! 🇷🇺
@@ -305,6 +308,9 @@ http://cdntv.online/low/9mlxywika2/1022.m3u8
 
 #EXTINF:-1, Матч! 🇷🇺
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Матч! 🇷🇺
+https://streaming.televizor-24-tochka.ru/live/6.m3u8
 
 #EXTINF:-1, Матч! 🇷🇺
 https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
