@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1, IDMANTV 🇹🇷
+https://str.yodacdn.net/idman/index.m3u8
+
+#EXTINF:-1, IDMANTV 🇹🇷
+http://149.255.154.198/idman/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, IDMANTV 🇹🇷
+https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, IDMANTV 🇹🇷
+https://str2.yodacdn.net/idman/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
+http://cdntv.online/low/9mlxywika2/56.m3u8
+
 #EXTINF:-1,VIX LALIGA 🇪🇸
 http://172.93.102.112:8989/279308_.m3u8
 
@@ -30,20 +45,6 @@ http://cors.tundracast.com:2000/https://wo.cma.footballii.ir/hls2/solh.m3u8
 #EXTINF:-1, SKY SPORT LALIGA 🇲🇽
 http://190.92.10.66:4000/play/a001/index.m3u8
 
-#EXTINF:-1, IDMANTV 🇹🇷
-https://str.yodacdn.net/idman/index.m3u8
-
-#EXTINF:-1, IDMANTV 🇹🇷
-http://149.255.154.198/idman/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, IDMANTV 🇹🇷
-https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, IDMANTV 🇹🇷
-https://str2.yodacdn.net/idman/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
-http://cdntv.online/low/9mlxywika2/56.m3u8
 
 #EXTINF:-1, SKY SPORT LALIGA 🇲🇽
 http://190.14.10.19:16000/play/a09u/index.m3u8
