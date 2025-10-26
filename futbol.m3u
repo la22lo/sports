@@ -153,9 +153,6 @@ http://het104a.4rouwanda-shop.store:80/live/978480008877005/index.m3u8
 #EXTINF:-1, beIN SPORTS HD 1 🇶🇦
 http://het119a.4rouwanda-shop.store/live/918454578001/index.m3u8?fbclid=PAQ0xDSwMMZyFleHRuA2FlbQIxMQABp8GyT-z9PY4kXrrfonICd7iUOg9Y7K8z5tUOT4Qso7l7Fk5doN8ayuj0TqsP_aem_cPVzXdQaQA8LNLSXcq6AzA
 
-#EXTINF:-1, IDMANTV 🇹🇷
-http://88.99.64.228/IdmanTV/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1, DSPORTS 1 🇦🇷
 http://172.93.102.112:8989/279390_.m3u8
 
@@ -272,6 +269,9 @@ https://hls.pokertvfa.live/hls/stream.m3u8
 
 #EXTINF:-1, SOLH SPORT 🇦🇫
 http://cors.tundracast.com:2000/https://wo.cma.footballii.ir/hls2/solh.m3u8
+
+#EXTINF:-1, PERSIANA SPORT 🇮🇷
+https://af.ayas.ir/hls2/persiana.m3u8
 
 #EXTINF:-1, Turkmenistan Sport 🇹🇲
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
