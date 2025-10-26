@@ -18,27 +18,6 @@ http://cdntv.online/low/9mlxywika2/56.m3u8
 #EXTINF:-1, SOLH SPORT 🇦🇫
 http://cors.tundracast.com:2000/https://wo.cma.footballii.ir/hls2/solh.m3u8
 
-#EXTINF:-1,VIX LALIGA 🇪🇸
-http://172.93.102.112:8989/279308_.m3u8
-
-#EXTINF:-1,VIX LALIGA 🇪🇸
-http://190.61.116.105:8002/play/a0gh/index.m3u8
-
-#EXTINF:-1,VIX LALIGA 🇪🇸
-http://38.159.227.123:8000/play/a0a7/index.m3u8
-
-#EXTINF:-1,ESPN DEPORTES 🇺🇸
-https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/476956.m3u8
-
-#EXTINF:-1,ESPN DEPORTES 🇺🇸
-https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/763.m3u8
-
-#EXTINF:-1,ESPN DEPORTES 🇺🇸
-https://fusion4k.aayushmansinghrajpurohit95.workers.dev/476956.m3u8
-
-#EXTINF:-1,ESPN DEPORTES 🇺🇸
-https://fusion4k.aayushmansinghrajpurohit95.workers.dev/763.m3u8
-
 #EXTINF:-1, LALIGATV 🇬🇧
 https://fusion4k.aayushmansinghrajpurohit95.workers.dev/8640.m3u8
 
@@ -137,6 +116,27 @@ http://172.93.102.112:8989/278844_.m3u8
 
 #EXTINF:-1, M La Liga 🇪🇸
 https://tiger-hub.vercel.app/LaLiga_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,VIX LALIGA 🇪🇸
+http://172.93.102.112:8989/279308_.m3u8
+
+#EXTINF:-1,VIX LALIGA 🇪🇸
+http://190.61.116.105:8002/play/a0gh/index.m3u8
+
+#EXTINF:-1,VIX LALIGA 🇪🇸
+http://38.159.227.123:8000/play/a0a7/index.m3u8
+
+#EXTINF:-1,ESPN DEPORTES 🇺🇸
+https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/476956.m3u8
+
+#EXTINF:-1,ESPN DEPORTES 🇺🇸
+https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/763.m3u8
+
+#EXTINF:-1,ESPN DEPORTES 🇺🇸
+https://fusion4k.aayushmansinghrajpurohit95.workers.dev/476956.m3u8
+
+#EXTINF:-1,ESPN DEPORTES 🇺🇸
+https://fusion4k.aayushmansinghrajpurohit95.workers.dev/763.m3u8
 
 #EXTINF:-1, HYP 🇪🇸
 http://89.29.219.116:9981/stream/channelid/2145421054?profile=pass
