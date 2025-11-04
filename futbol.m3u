@@ -15,14 +15,17 @@ https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 #EXTINF:-1, Setanta Georgia 🇬🇪
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 
-#EXTINF:-1, beIN SPORTS 2 🇶🇦
-https://balance.footballii.ir/hls2/mam.m3u8
+#EXTINF:-1, Prima Sport 1 🇷🇴
+https://fusion4k.aayushmansinghrajpurohit95.workers.dev/474072.m3u8
 
 #EXTINF:-1, MAX SPORT 3 🇧🇬
 http://77.46.130.252:99/maxsport3
 
 #EXTINF:-1, MAX SPORT 3 🇧🇬
 http://92.247.25.42:11178/
+
+#EXTINF:-1, beIN SPORTS 2 🇶🇦
+https://balance.footballii.ir/hls2/mam.m3u8
 
 #EXTINF:-1, IDMANTV 🇹🇷
 https://str.yodacdn.net/idman/index.m3u8
