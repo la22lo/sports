@@ -6,6 +6,9 @@ https://vip.mustafatv.xyz:443/live/vip/vip/2.m3u8
 #EXTINF:-1, SOLH SPORT 🇦🇫
 http://cors.tundracast.com:2000/https://wo.cma.footballii.ir/hls2/solh.m3u8
 
+#EXTINF:-1, Digi Sport 1 🇷🇴
+http://91.201.172.14:35005/
+
 #EXTINF:-1, Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 
