@@ -3,6 +3,9 @@
 #EXTINF:-1, M LC 🇪🇸
 http://172.93.102.112:8989/278845_.m3u8
 
+#EXTINF:-1, M LC 🇪🇸
+http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/165359.ts
+
 #EXTINF:-1, Setanta Georgia 🇬🇪
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 
@@ -452,6 +455,9 @@ http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Setanta Sport 🇺🇦
 http://217.174.225.146/hls/ch004_720/index.m3u8
+
+#EXTINF:-1, Setanta Sport 🇺🇦
+http://ott.watch/stream/D3FX33QMIH1/313.m3u8
 
 #EXTINF:-1, Суспільне Kiev Спорт HD 🇺🇦
 https://tva.in.ua/live/susp-sport.m3u8?key=fas-tv.com
