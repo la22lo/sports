@@ -9,6 +9,9 @@ https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 #EXTINF:-1,TUDNMX.HD1 🇺🇸
 http://181.78.106.127:9000/play/ca025/index.m3u8
 
+#EXTINF:-1, ESPN 1 🇦🇷
+http://38.44.109.41:8003/play/a02v
+
 #EXTINF:-1,Canal+ Sport 🇫🇷
 http://178.33.239.54:8080/541/index.m3u8
 
