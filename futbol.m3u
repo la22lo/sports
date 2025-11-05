@@ -438,6 +438,9 @@ http://46.149.191.217:9010/play/a019
 #EXTINF:-1, Okko Спорт 🇷🇺
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 
+#EXTINF:-1, SETANTA SPORT 1 🇷🇺
+http://95.85.109.219:7000/play/a067
+
 #EXTINF:-1, SETANTA SPORT 1 HD 🇺🇦
 http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
 
@@ -452,6 +455,9 @@ https://tva.in.ua/live/susp-sport.m3u8?key=fas-tv.com
 
 #EXTINF:-1, Setanta Sport 1 🇬🇪
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+
+#EXTINF:-1, Setanta Sport 2 🇬🇪
+http://94.43.1.138:8081/setanta2/index.m3u8
 
 #EXTINF:-1, BELARUS 5 🇧🇾
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
