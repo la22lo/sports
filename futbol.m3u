@@ -12,6 +12,9 @@ http://178.33.239.54:8080/541/index.m3u8
 #EXTINF:-1, CANAL + Sport 🇫🇷
 http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
 
+#EXTINF:-1, beIN SPORTS 1 🇶🇦
+https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/6920.m3u8
+
 #EXTINF:-1, beIN SPORTS 2 🇶🇦
 https://vip.mustafatv.xyz:443/live/vip/vip/2.m3u8
 
