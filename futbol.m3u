@@ -9,8 +9,8 @@ http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 #EXTINF:-1, Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 
-#EXTINF:-1,TUDNMX.HD1 🇺🇸
-http://181.78.106.127:9000/play/ca025/index.m3u8
+#EXTINF:-1, MEGA4K 🇸🇦
+https://balance.footballii.ir/hls2/mega4k2.m3u8
 
 #EXTINF:-1, ESPN 1 🇦🇷
 http://38.44.109.41:8003/play/a02v
@@ -38,6 +38,9 @@ http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
 
 #EXTINF:-1, ESPN 1 NORTE 🇵🇦
 http://45.71.254.1:8000/play/a0e6/index.m3u8
+
+#EXTINF:-1,TUDNMX.HD1 🇺🇸
+http://181.78.106.127:9000/play/ca025/index.m3u8
 
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 https://ab.footballii.ir/hls2/bein1_src.m3u8
