@@ -6,6 +6,9 @@ http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 #EXTINF:-1, Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 
+#EXTINF:-1,TUDNMX.HD1 🇺🇸
+http://181.78.106.127:9000/play/ca025/index.m3u8
+
 #EXTINF:-1,Canal+ Sport 🇫🇷
 http://178.33.239.54:8080/541/index.m3u8
 
