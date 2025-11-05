@@ -252,6 +252,9 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 #EXTINF:-1, DSPORTS 2 🇦🇷
 http://181.78.106.127:9000/play/ca026/index.m3u8
 
+#EXTINF:-1, DSports Plus 🇦🇷
+http://blast.lat:8080/live/cmy.fredyayala/Q3GVgyJaBGEG/249532.ts
+
 #EXTINF:-1, SKY SPORT LA LIGA 🇲🇽
 http://181.78.106.127:9000/play/ca030/index.m3u8
 
