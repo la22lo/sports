@@ -27,6 +27,9 @@ http://200.12.41.194:8000/play/a060/index.m3u8
 #EXTINF:-1,ESPN 🇦🇷
 http://45.228.234.30:16000/play/a01k/index.m3u8
 
+#EXTINF:-1, ESPN 🇦🇷
+http://181.78.117.219:8000/play/a00b/index.m3u8
+
 #EXTINF:-1,Canal+ Sport 🇫🇷
 http://178.33.239.54:8080/541/index.m3u8
 
@@ -975,17 +978,9 @@ http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
 
 
-#EXTINF:-1, ESPN 2 NORTE 🇵🇦
-http://45.71.254.1:8000/play/a0e7/index.m3u8
-
-#EXTINF:-1, TNT SPORT 2 🇬🇧
-https://s@saz.blitzen.store/tnt2.m3u8
 
 #EXTINF:-1, MAX SPORT 3 🇧🇬
 http://213.169.39.30:5142
-
-#EXTINF:-1, ESPN 🇦🇷
-http://181.78.117.219:8000/play/a00b/index.m3u8
 
 #EXTINF:-1,UNIMAS 🇺🇸
 http://172.93.102.112:8989/158753_.m3u8
