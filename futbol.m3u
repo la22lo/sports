@@ -6,6 +6,12 @@ http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 #EXTINF:-1, Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 
+#EXTINF:-1,Canal+ Sport 🇫🇷
+http://178.33.239.54:8080/541/index.m3u8
+
+#EXTINF:-1, CANAL + Sport 🇫🇷
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+
 #EXTINF:-1, beIN SPORTS 2 🇶🇦
 https://vip.mustafatv.xyz:443/live/vip/vip/2.m3u8
 
@@ -14,12 +20,6 @@ http://cors.tundracast.com:2000/https://wo.cma.footballii.ir/hls2/solh.m3u8
 
 #EXTINF:-1, Digi Sport 1 🇷🇴
 http://91.201.172.14:35005/
-
-#EXTINF:-1,Canal+ Sport 🇫🇷
-http://178.33.239.54:8080/541/index.m3u8
-
-#EXTINF:-1, CANAL + Sport 🇫🇷
-http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
 
 #EXTINF:-1, Prima Sport 1 🇷🇴
 https://fusion4k.aayushmansinghrajpurohit95.workers.dev/474072.m3u8
