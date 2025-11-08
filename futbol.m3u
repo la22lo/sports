@@ -252,6 +252,30 @@ http://145.239.5.177/559/mpegts
 #EXTINF:-1, BEIN 3 🇫🇷
 http://5.9.119.146:8883/sf1_bein_hd3_fr/index.m3u8
 
+#EXTINF:-1, Bein FR 1 🇫🇷
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/156415
+
+#EXTINF:-1, Bein FR 2 🇫🇷
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33517
+
+#EXTINF:-1, Bein FR 3 🇫🇷
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33518
+
+#EXTINF:-1, Bein MAX 4 🇫🇷
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33519
+
+#EXTINF:-1, Bein MAX 5 🇫🇷
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33520
+
+#EXTINF:-1, Bein MAX 6 🇫🇷
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/85338
+
+#EXTINF:-1, Bein MAX 7 🇫🇷
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33235
+
+#EXTINF:-1, Bein MAX 8 🇫🇷
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33523
+
 #EXTINF:-1,RMC Sport 1 🇫🇷
 http://5.9.119.146:8883/rmc1/index.m3u8
 
