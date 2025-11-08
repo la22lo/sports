@@ -1,22 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, IDMANTV 🇹🇷
-https://str.yodacdn.net/idman/index.m3u8
-
-#EXTINF:-1, IDMANTV 🇹🇷
-http://149.255.154.198/idman/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, IDMANTV 🇹🇷
 https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, IDMANTV 🇹🇷
-https://str2.yodacdn.net/idman/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, TINJIN 🇨🇳
-https://live.sport888.tv/sport/202_4303297_1.m3u8
-
-#EXTINF:-1, TINJIN 🇨🇳
-https://play.live8818.com/nami/hd-en-6MuSsYdpydUAwowmB9.m3u8
 
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://104.243.40.13:8989/279426_.m3u8
