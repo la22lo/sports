@@ -387,8 +387,14 @@ http://95.85.109.219:7000/play/a067
 #EXTINF:-1, SETANTA SPORT 1 HD 🇺🇦
 http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, SETANTA SPORT 1 HD 🇺🇦
+http://ott.watch/stream/D3FX33QMIH1/234.m3u8
+
 #EXTINF:-1, SETANTA SPORT 2 HD 🇺🇦
 http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, SETANTA SPORT 2 HD 🇺🇦
+http://ott.watch/stream/D3FX33QMIH1/235.m3u8
 
 #EXTINF:-1, Setanta Sport 🇺🇦
 http://217.174.225.146/hls/ch004_720/index.m3u8
