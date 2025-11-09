@@ -693,6 +693,21 @@ http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294054&extension=
 #EXTINF:-1, 2TV Sport 🇳🇴
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 
+#EXTINF:-1, 5 SPORT 🇮🇱
+http://38gb.pro/live/1100788991/14811/198905.m3u8
+
+#EXTINF:-1, 5 SPORT 🇮🇱
+http://38gb.pro/live/1100788991/14811/198907.m3u8
+
+#EXTINF:-1, 5 SPORT 🇮🇱
+http://38gb.pro/live/1100788991/14811/198909.m3u8
+
+#EXTINF:-1, 5 SPORT + 🇮🇱
+http://38gb.pro/live/1100788991/14811/198908.m3u8
+
+#EXTINF:-1, 5 SPORT GOLD 🇮🇱
+http://38gb.pro/live/1100788991/14811/198910.m3u8
+
 #EXTINF:-1, DAZN PRO LEAGUE 1 🇧🇪
 http://185.236.230.212:9982/play/a09q
 
