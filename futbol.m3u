@@ -657,6 +657,9 @@ http://190.61.116.105:8002/play/a0gh/index.m3u8
 #EXTINF:-1, TIGO SPORTS 🇧🇴
 http://38.159.227.123:8000/play/a0a7/index.m3u8
 
+#EXTINF:-1, CAZE TV 1 🇧🇷
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
 #EXTINF:-1,TV2 🇪🇸
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
