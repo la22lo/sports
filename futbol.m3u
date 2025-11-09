@@ -588,6 +588,12 @@ http://46.149.191.217:9010/play/a017
 #EXTINF:-1, M4 sport 🇭🇺
 http://dvr1.kablova.tv/M4/index.m3u8
 
+#EXTINF:-1, Bluesport 1 🇨🇭
+http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=1071028&extension=ts&play_token=NdIqdP4qPt
+
+#EXTINF:-1, Bluesport 2 🇨🇭
+http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=1071027&extension=ts&play_token=JRNRNa8mpn
+
 #EXTINF:-1, ZIGGO SPORT 1 🇳🇱
 http://185.236.230.212:9982/play/a09f
 
