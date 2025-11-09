@@ -76,9 +76,6 @@ http://77.46.130.252:99/maxsport4
 http://91.201.172.14:35005/
 
 #EXTINF:-1, Prima Sport 1 🇷🇴
-https://fusion4k.aayushmansinghrajpurohit95.workers.dev/474072.m3u8
-
-#EXTINF:-1, Prima Sport 1 🇷🇴
 https://hulky116.lokix1.cfd/puk1/usergenrx0cir27aq.m3u8
 
 #EXTINF:-1, Беларусь 5 🇧🇾
@@ -92,12 +89,6 @@ http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
 
 #EXTINF:-1, Super Sport 1 🇦🇱
 http://@195.181.169.152:8080/Super_Sport_1_HD_AL/index.m3u8?token=test
-
-#EXTINF:-1, Eleven Sport 1 🇵🇱
-https://fusion4k.aayushmansinghrajpurohit95.workers.dev/2030.m3u8
-
-#EXTINF:-1, Arena Sport 3 🇭🇷
-https://fusion4k.aayushmansinghrajpurohit95.workers.dev/7074.m3u8
 
 #EXTINF:-1, Матч! 🇷🇺
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
@@ -149,12 +140,6 @@ https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/476956.m3u8
 
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/763.m3u8
-
-#EXTINF:-1,ESPN DEPORTES 🇺🇸
-https://fusion4k.aayushmansinghrajpurohit95.workers.dev/476956.m3u8
-
-#EXTINF:-1,ESPN DEPORTES 🇺🇸
-https://fusion4k.aayushmansinghrajpurohit95.workers.dev/763.m3u8
 
 #EXTINF:-1, HYP 🇪🇸
 http://172.93.102.112:8989/278842_.m3u8
@@ -534,26 +519,8 @@ http://23.88.66.93/MAXSPORT_2/index.m3u8
 #EXTINF:-1, ARENA SPORT 1 🇭🇷
 https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/842.m3u8
 
-#EXTINF:-1, ARENA SPORT 1 🇭🇷
-https://fusion4k.aayushmansinghrajpurohit95.workers.dev/7072.m3u8
-
 #EXTINF:-1, ARENA SPORT 2 🇭🇷
 https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/843.m3u8
-
-#EXTINF:-1, ARENA SPORT 2 🇭🇷
-https://fusion4k.aayushmansinghrajpurohit95.workers.dev/7073.m3u8
-
-#EXTINF:-1, Arena Sport 3 🇭🇷
-https://fusion4k.aayushmansinghrajpurohit95.workers.dev/7074.m3u8
-
-#EXTINF:-1, Arena Sport 4 🇭🇷
-https://fusion4k.aayushmansinghrajpurohit95.workers.dev/7075.m3u8
-
-#EXTINF:-1, Arena Sport 5 🇭🇷
-https://fusion4k.aayushmansinghrajpurohit95.workers.dev/7076.m3u8
-
-#EXTINF:-1, Arena Sport 6 🇭🇷
-https://fusion4k.aayushmansinghrajpurohit95.workers.dev/7077.m3u8
 
 #EXTINF:-1, K Sports 1 🌏
 https://tiger-hub.vercel.app/SPORT-ZONE/K-Sports_1/tracks-v1a1/mono.ts.m3u8
@@ -584,9 +551,6 @@ http://@195.181.169.152:8080/Super_Sport_3_HD_AL/index.m3u8?token=test
 
 #EXTINF:-1, Super Sport 4 🇦🇱
 http://@195.181.169.152:8080/Super_Sport_4_HD_AL/index.m3u8?token=test
-
-#EXTINF:-1, CBC SPORT 🇦🇿
-https://fusion4k.aayushmansinghrajpurohit95.workers.dev/477943.m3u8
 
 #EXTINF:-1, NOVA SPORT 1 HD 🇨🇿
 http://185.236.230.212:9982/play/a0an
@@ -1038,7 +1002,6 @@ https://af.ayas.ir/hls2/persiana.m3u8
 
 #EXTINF:-1, beIN SPORTS 2 🇶🇦
 https://balance.footballii.ir/hls2/mam.m3u8
-
 
 #EXTINF:-1, MAX SPORT 3 🇧🇬
 http://213.169.39.30:5142
