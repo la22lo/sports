@@ -129,15 +129,6 @@ http://38gb.pro/live/1100788991/14811/197973.m3u8
 #EXTINF:-1, HYP 🇪🇸
 http://172.93.102.112:8989/278842_.m3u8
 
-#EXTINF:-1, beIN SPORTS HD 1 🇶🇦
-http://het104a.4rouwanda-shop.store:80/live/918454578001/index.m3u8
-
-#EXTINF:-1, beIN SPORTS SD 1 🇶🇦
-http://het104a.4rouwanda-shop.store:80/live/978480008877005/index.m3u8
-
-#EXTINF:-1, beIN SPORTS HD 1 🇶🇦
-http://het119a.4rouwanda-shop.store/live/918454578001/index.m3u8?fbclid=PAQ0xDSwMMZyFleHRuA2FlbQIxMQABp8GyT-z9PY4kXrrfonICd7iUOg9Y7K8z5tUOT4Qso7l7Fk5doN8ayuj0TqsP_aem_cPVzXdQaQA8LNLSXcq6AzA
-
 #EXTINF:-1, DSPORTS 1 🇦🇷
 http://172.93.102.112:8989/279390_.m3u8
 
@@ -152,48 +143,6 @@ http://blast.lat:8080/live/cmy.fredyayala/Q3GVgyJaBGEG/249532.ts
 
 #EXTINF:-1, SKY SPORT LA LIGA 🇲🇽
 http://181.78.106.127:9000/play/ca030/index.m3u8
-
-#EXTINF:-1, beIN SPORTS HD 1 🇶🇦
-http://het104a.4rouwanda-shop.store:80/live/918454578001/index.m3u8
-
-#EXTINF:-1, beIN SPORTS HD 2 🇶🇦
-http://het104a.4rouwanda-shop.store/live/69854211/index.m3u8
-
-#EXTINF:-1, beIN SPORTS HD 3 🇶🇦
-http://het104a.4rouwanda-shop.store/live/645587700/index.m3u8
-
-#EXTINF:-1, beIN SPORTS HD 4 🇶🇦
-http://het104a.4rouwanda-shop.store/live/9787488847/index.m3u8
-
-#EXTINF:-1, beIN SPORTS HD 5 🇶🇦
-http://het104a.4rouwanda-shop.store/live/610303030/index.m3u8
-
-#EXTINF:-1, beIN SPORTS SD 5 🇶🇦
-http://het104a.4rouwanda-shop.store:80/live/115451004/index.m3u8
-
-#EXTINF:-1, beIN SPORTS HD 6 🇶🇦
-http://het104a.4rouwanda-shop.store/live/1515000000/index.m3u8
-
-#EXTINF:-1, beIN SPORTS SD 1 🇶🇦
-http://het104a.4rouwanda-shop.store:80/live/978480008877005/index.m3u8
-
-#EXTINF:-1, beIN SPORTS SD 2 🇶🇦
-http://het104a.4rouwanda-shop.store/live/10011244/index.m3u8
-
-#EXTINF:-1, beIN SPORTS SD 3 🇶🇦
-http://het104a.4rouwanda-shop.store/live/161988840/index.m3u8
-
-#EXTINF:-1, beIN SPORTS SD 4 🇶🇦
-http://het104a.4rouwanda-shop.store/live/0103088447/index.m3u8
-
-#EXTINF:-1, beIN SPORTS SD 5 🇶🇦
-http://het104a.4rouwanda-shop.store:80/live/115451004/index.m3u8
-
-#EXTINF:-1, beIN SPORTS SD 6 🇶🇦
-http://het104a.4rouwanda-shop.store/live/788550011/index.m3u8
-
-#EXTINF:-1, Bien sport 1 🇶🇦
-http://het119a.4rouwanda-shop.store/live/918454578001/index.m3u8?fbclid=PAQ0xDSwMMZudleHRuA2FlbQIxMQABp8GyT-z9PY4kXrrfonICd7iUOg9Y7K8z5tUOT4Qso7l7Fk5doN8ayuj0TqsP_aem_cPVzXdQaQA8LNLSXcq6AzA
 
 #EXTINF:-1, ESPN 2 🇦🇷
 http://181.205.130.194:4000/play/a07i
