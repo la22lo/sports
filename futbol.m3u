@@ -237,12 +237,6 @@ http://cors.tundracast.com:2000/https://wo.cma.footballii.ir/hls2/solh.m3u8
 #EXTINF:-1, PERSIANA SPORT 🇮🇷
 https://af.ayas.ir/hls2/persiana.m3u8
 
-#EXTINF:-1, Turkmenistan Sport 🇹🇲
-https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-
-#EXTINF:-1, Turkmenistan Sport 🇹🇲
-http://217.174.225.146/legacyhls/ch004_720/index.m3u8
-
 #EXTINF:-1, Bein sports 1 ENG 🇬🇧
 https://tiger-hub.vercel.app/Bein-sports_1_ENG/tracks-v1a1/mono.m3u8
 
