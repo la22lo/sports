@@ -553,6 +553,12 @@ http://@195.181.169.152:8080/Super_Sport_3_HD_AL/index.m3u8?token=test
 http://@195.181.169.152:8080/Super_Sport_4_HD_AL/index.m3u8?token=test
 
 #EXTINF:-1, NOVA SPORT 1 HD 🇨🇿
+http://38gb.pro/live/1100788991/14811/198930.m3u8
+
+#EXTINF:-1, NOVA SPORT 1 HD 🇨🇿
+http://38gb.pro/live/1100788991/14811/198929.m3u8
+
+#EXTINF:-1, NOVA SPORT 1 HD 🇨🇿
 http://185.236.230.212:9982/play/a0an
 
 #EXTINF:-1, NOVA SPORT 1 HD 🇨🇿
