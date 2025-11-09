@@ -450,21 +450,6 @@ http://185.166.252.230/MaxSport2/index.m3u8
 #EXTINF:-1, MAXSPORT_2 🇭🇷
 http://23.88.66.93/MAXSPORT_2/index.m3u8
 
-#EXTINF:-1, ARENA SPORT 1 🇭🇷
-https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/842.m3u8
-
-#EXTINF:-1, ARENA SPORT 2 🇭🇷
-https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/843.m3u8
-
-#EXTINF:-1, K Sports 1 🌏
-https://tiger-hub.vercel.app/SPORT-ZONE/K-Sports_1/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1, K Sports 2 🌏
-https://tiger-hub.vercel.app/SPORT-ZONE/K-Sports_2/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1, K Sports 3 🌏
-https://tiger-hub.vercel.app/SPORT-ZONE/K-Sports_3/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:-1, RTSH Sport 🇦🇱
 http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
 
