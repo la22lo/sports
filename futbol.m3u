@@ -90,12 +90,6 @@ https://ab.footballii.ir/hls2/bein1_src.m3u8
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 https://ab.footballii.ir/hls2/bein1_low.m3u8
 
-#EXTINF:-1, Super Sport 1 🇦🇱
-http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
-
-#EXTINF:-1, Super Sport 1 🇦🇱
-http://@195.181.169.152:8080/Super_Sport_1_HD_AL/index.m3u8?token=test
-
 #EXTINF:-1, Матч! 🇷🇺
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 
@@ -549,20 +543,8 @@ http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
 #EXTINF:-1, Super Sport 1 🇦🇱
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
 
-#EXTINF:-1, Super Sport 1 🇦🇱
-http://@195.181.169.152:8080/Super_Sport_1_HD_AL/index.m3u8?token=test
-
 #EXTINF:-1, Super Sport 2 🇦🇱
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
-
-#EXTINF:-1, Super Sport 2 🇦🇱
-http://@195.181.169.152:8080/Super_Sport_2_HD_AL/index.m3u8?token=test
-
-#EXTINF:-1, Super Sport 3 🇦🇱
-http://@195.181.169.152:8080/Super_Sport_3_HD_AL/index.m3u8?token=test
-
-#EXTINF:-1, Super Sport 4 🇦🇱
-http://@195.181.169.152:8080/Super_Sport_4_HD_AL/index.m3u8?token=test
 
 #EXTINF:-1, NOVA SPORT 1 HD 🇨🇿
 http://38gb.pro/live/1100788991/14811/198930.m3u8
