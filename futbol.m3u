@@ -360,6 +360,12 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1, Setanta Sport 🇺🇦
 http://ott.watch/stream/D3FX33QMIH1/313.m3u8
 
+#EXTINF:-1, Setanta Sports HD EpL 🇺🇦
+http://ott.watch/stream/D3FX33QMIH1/313.m3u8
+
+#EXTINF:-1, Setanta Sports+ HD F 🇺🇦
+http://ott.watch/stream/D3FX33QMIH1/390.m3u8
+
 #EXTINF:-1, Суспільне Kiev Спорт HD 🇺🇦
 https://tva.in.ua/live/susp-sport.m3u8?key=fas-tv.com
 
