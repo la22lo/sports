@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1, M La Liga 🇪🇸
+http://172.93.102.112:8989/278844_.m3u8
+
+#EXTINF:-1, IDMANTV 🇹🇷
+https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, IDMANTV 🇹🇷
+https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8?token=7b2231548857bf0a078bb6387e8830040aa18cee-1ee342667d60c2ac2e8f0c594cf33331-1753218237000000-1753207437000
+
+#EXTINF:-1, IDMANTV 🇹🇷
+https://goldvod.org/live/hpgdisco/123456/196.m3u8
+
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://104.243.40.13:8989/279426_.m3u8
 
@@ -86,15 +98,6 @@ http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2522/index.m3u8
 
 #EXTINF:-1, S Sport 1 🇹🇷
 https://dga1op10s1u3lep.617cc29522c890.click/live/selcukssport/playlist.m3u8
-
-#EXTINF:-1, IDMANTV 🇹🇷
-https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, IDMANTV 🇹🇷
-https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8?token=7b2231548857bf0a078bb6387e8830040aa18cee-1ee342667d60c2ac2e8f0c594cf33331-1753218237000000-1753207437000
-
-#EXTINF:-1, IDMANTV 🇹🇷
-https://goldvod.org/live/hpgdisco/123456/196.m3u8
 
 #EXTINF:-1, Беларусь 5 🇧🇾
 http://cdntv.online/low/9mlxywika2/778.m3u8
