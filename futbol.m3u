@@ -18,12 +18,6 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
 #EXTINF:-1,  Varzesh TV 🇸🇦
 https://balance.footballii.ir/hls2/varzeshtv.m3u8
 
-#EXTINF:-1,ESPN DEPORTES 🇺🇸
-http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8
-
-#EXTINF:-1, S Sport 1 🇹🇷
-https://dga1op10s1u3lep.617cc29522c890.click/live/selcukssport/playlist.m3u8
-
 #EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
 http://ott.watch/stream/D3FX33QMIH1/142.m3u8
 
@@ -83,6 +77,9 @@ http://91.201.172.14:35006/
 
 #EXTINF:-1, Digi Sport 2 🇷🇴
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2522/index.m3u8
+
+#EXTINF:-1, S Sport 1 🇹🇷
+https://dga1op10s1u3lep.617cc29522c890.click/live/selcukssport/playlist.m3u8
 
 #EXTINF:-1, IDMANTV 🇹🇷
 https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8
