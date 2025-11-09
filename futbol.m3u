@@ -780,6 +780,9 @@ https://tiger-hub.vercel.app/ESPN/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Fubo Sports 🇺🇸
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=175758&extension=ts
 
+#EXTINF:-1, CBS Sports Golazo Network 🇺🇸
+https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e4845f0b-8107-11f0-9a74-4e73f98cfba2
+
 #EXTINF:-1, AYM SPORT 🇺🇸
 https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
 
