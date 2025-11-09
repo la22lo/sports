@@ -18,6 +18,9 @@ http://38gb.pro/live/1100788991/14811/197903.m3u8
 #EXTINF:-1, DAZN La Liga 🇪🇸
 http://38gb.pro/live/1100788991/14811/197904.m3u8
 
+#EXTINF:-1, SKY SPORT LALIGA 🇲🇽
+http://45.164.151.197:8000/play/sky/index.m3u8
+
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 
