@@ -585,6 +585,9 @@ http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 #EXTINF:-1, SPORT 2 HD 🇨🇿
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
 
+#EXTINF:-1, SPORT 2 HD 🇨🇿
+http://185.98.211.8:81/sport2/index.m3u8?token=test
+
 #EXTINF:-1,  Arena_Sport 🇨🇿
 http://178.23.88.55/Arena_sport/index.m3u8
 
@@ -959,6 +962,15 @@ https://vs1759.vcdn.biz/519f03ad03fe54e0d772b98cf1be2087_megogo/live/hls/b/4000/
 
 #EXTINF:-1, Q Sport Kyrgyzstan HD 🇰🇬
 http://95.85.109.219:7000/play/a05u
+
+#EXTINF:-1, BEIN 1 TRUE VISIONS 🇮🇩
+https://ww.dooballfree.vip/live/bein1/playlist.m3u8
+
+#EXTINF:-1, BEIN 2 TRUE VISIONS 🇮🇩
+https://ww.dooballfree.vip/live/bein2/playlist.m3u8
+
+#EXTINF:-1, BEIN 3 TRUE VISIONS 🇮🇩
+https://ww.dooballfree.vip/live/bein3/playlist.m3u8
 
 #EXTINF:-1, Astro Football HD 🇹🇭
 https://smart.bengaldigital.live/AstroFootball/index.m3u8
