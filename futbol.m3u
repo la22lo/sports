@@ -582,6 +582,15 @@ http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 #EXTINF:-1, SPORT 2 HD 🇨🇿
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
 
+#EXTINF:-1,  Arena_Sport 🇨🇿
+http://178.23.88.55/Arena_sport/index.m3u8
+
+#EXTINF:-1, Sport 1 HD 🇨🇿
+http://178.23.88.55/Sport1/index.m3u8
+
+#EXTINF:-1, Eurosport_2 🇨🇿
+http://178.23.88.55/Eurosport_2/index.m3u8
+
 #EXTINF:-1, MAX SPORT 1 🇧🇬
 http://213.169.39.30:5138
 
@@ -750,6 +759,9 @@ http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294036&extension=
 #EXTINF:-1, 2TV Sport 🇳🇴
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 
+#EXTINF:-1,  ORF+ 🇦🇹
+http://212.186.45.34:9981/stream/channelid/906723447?profile=pass
+
 #EXTINF:-1, 5 SPORT 🇮🇱
 http://38gb.pro/live/1100788991/14811/198905.m3u8
 
@@ -798,6 +810,12 @@ http://45.167.255.254:8010/play/a047/index.m3u8
 #EXTINF:-1, Azteca Deportes 🇲🇽
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6flivestitch/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1,  FOX 🇲🇽
+https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94d852f8374/playlist.m3u8
+
+#EXTINF:-1,  Vip Sports  🇦🇷
+http://104.238.222.251:8989/278802_.m3u8
+
 #EXTINF:-1, TELEFE 🇦🇷
 http://200.115.120.1:8000/play/ca016/index.m3u8
 
@@ -809,6 +827,15 @@ http://190.61.116.105:8002/play/a0gh/index.m3u8
 
 #EXTINF:-1, TIGO SPORTS 🇧🇴
 http://38.159.227.123:8000/play/a0a7/index.m3u8
+
+#EXTINF:-1,  TIGO SPORTS 🇭🇳
+http://45.190.185.204:8990/play/a0ep/index.m3u8
+
+#EXTINF:-1,  Tigo Sports  🇦🇷
+http://181.78.50.91:4000/play/a05r/index.m3u8
+
+#EXTINF:-1,  Tigo Sports  🇬🇹
+http://181.209.194.14:8001/play/a05r/index.m3u8
 
 #EXTINF:-1, CAZE TV 1 🇧🇷
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
@@ -923,6 +950,15 @@ https://ww.dooballfree.vip/live/tsp2/playlist.m3u8
 
 #EXTINF:-1, True Football 7 HD Thailand 🇹🇭
 https://ww.dooballfree.vip/live/tsp7/playlist.m3u8
+
+#EXTINF:-1, T Sports HD 🇧🇩 
+http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8
+
+#EXTINF:-1, Astro Cricket Sports HD 🇧🇩 
+http://103.240.44.26/Astro-Cricket/index.fmp4.m3u8
+
+#EXTINF:-1, SONY TEN 1 🇮🇳
+http://103.240.44.26/Sony-Ten-1-HD/index.fmp4.m3u8
 
 #EXTINF:-1,SPORTS TV 🇹🇷
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
