@@ -97,6 +97,9 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/156415
 http://line.extraott-iptv.com:88/2755789541/1300714776/189891
 
 #EXTINF:-1, MAX SPORT 4 🇧🇬
+http://85.11.144.6:6060/play/a012/index.m3u8
+
+#EXTINF:-1, MAX SPORT 4 🇧🇬
 http://213.169.39.30:5130
 
 #EXTINF:-1, MAX SPORT 4 🇧🇬
@@ -609,6 +612,9 @@ http://77.46.130.252:99/maxsport2
 #EXTINF:-1, MAX SPORT 2 🇧🇬
 http://92.247.25.42:11177/
 
+#EXTINF:-1, MAX SPORT 2 🇧🇬
+http://85.11.144.6:6060/play/a01i/index.m3u8
+
 #EXTINF:-1, MAX SPORT 3 🇧🇬
 http://213.169.39.30:5142
 
@@ -626,6 +632,9 @@ http://77.46.130.252:99/maxsport4
 
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://92.247.25.42:11173/
+
+#EXTINF:-1, MAX SPORT 4 🇧🇬
+http://85.11.144.6:6060/play/a012/index.m3u8
 
 #EXTINF:-1, Diema Sport 1 🇧🇬
 http://92.247.25.42:11170/
