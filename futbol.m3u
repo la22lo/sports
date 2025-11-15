@@ -537,6 +537,9 @@ http://185.166.252.230/MaxSport1/index.m3u8
 #EXTINF:-1, MAXSPORT_1 🇭🇷
 http://23.88.66.93/MAXSPORT_1/index.m3u8
 
+#EXTINF:-1, MAXSPORT_1 🇭🇷
+http://23.88.66.93/Eurosport1/index.m3u8
+
 #EXTINF:-1, MAXSPORT_2 🇭🇷
 http://185.166.252.230/MaxSport2/index.m3u8
 
