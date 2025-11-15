@@ -54,6 +54,12 @@ http://45.164.151.197:8000/play/sky/index.m3u8
 #EXTINF:-1, SKY SPORT LALIGA 🇲🇽
 https://tvjrflix.appsjr.pro/temporal/redirect.php?url=http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/281171.m3u8
 
+#EXTINF:-1, Spiler2 TV 🇭🇺
+http://46.149.191.217:9021/play/a029
+
+#EXTINF:-1, Spiler2 TV 🇭🇺
+http://46.149.191.217:9021/play/a02d
+
 #EXTINF:-1, LALIGA TV 🇬🇧
 https://s@storage.googleapis.com/iuytryfbcsfcw5/mux_video_ts/index-1.m3u8
 
@@ -842,6 +848,18 @@ http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2560/index.m3u8
 
 #EXTINF:-1, ZIGGO SPORT 6 HD 🇳🇱
 http://185.236.230.212:9982/play/a09a
+
+#EXTINF:-1, Spiler1 TV 🇭🇺
+http://46.149.191.217:9003/play/a01p
+
+#EXTINF:-1, Spiler2 TV 🇭🇺
+http://46.149.191.217:9021/play/a029
+
+#EXTINF:-1, Spiler2 TV 🇭🇺
+http://46.149.191.217:9021/play/a02d
+
+#EXTINF:-1, M4 Sport 🇭🇺
+http://46.149.191.217:9010/play/a017
 
 #EXTINF:-1, 4Football 🇸🇪
 http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294054&extension=ts&play_token=dKKpb8gzTG
