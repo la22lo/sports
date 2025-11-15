@@ -459,6 +459,18 @@ http://cdntv.online/low/9mlxywika2/778.m3u8
 #EXTINF:-1, Беларусь 5 🇧🇾
 http://de.online24.pm/play/1467/0E5BF0B5A9755BD/video.m3u8
 
+#EXTINF:-1, Go3 Sport 1 HD 🇱🇹
+http://de.online24.pm/play/6709/0E5BF0B5A9755BD/video.m3u8
+
+#EXTINF:-1, Go3 Sport 2 HD 🇱🇹
+http://de.online24.pm/play/6710/0E5BF0B5A9755BD/video.m3u8
+
+#EXTINF:-1, Go3 Sport 3 HD 🇱🇹
+http://de.online24.pm/play/6711/0E5BF0B5A9755BD/video.m3u8
+
+#EXTINF:-1, Go3 Sport Open HD 🇱🇹
+http://de.online24.pm/play/6712/0E5BF0B5A9755BD/video.m3u8
+
 #EXTINF:-1,Arena_Sport P1 🇷🇸
 https://tiger-hub.vercel.app/Arena-Sports/Premium-1/tracks-v1a1/mono.ts.m3u8
 
@@ -608,6 +620,72 @@ http://178.23.88.55/Sport1/index.m3u8
 
 #EXTINF:-1, Eurosport_2 🇨🇿
 http://178.23.88.55/Eurosport_2/index.m3u8
+
+#EXTINF:-1 ,Nova Sport 1 🇨🇿
+http://185.188.188.237:5000/live/novasport1/playlist.m3u8
+
+#EXTINF:-1,Nova Sport 2 🇨🇿
+http://185.188.188.237:5000/live/novasport2/playlist.m3u8
+
+#EXTINF:-1,Nova Sport 3 🇨🇿
+http://185.188.188.237:5000/live/novasport3/playlist.m3u8
+
+#EXTINF:-1,Nova Sport 4 🇨🇿
+http://185.188.188.237:5000/live/novasport4/playlist.m3u8
+
+#EXTINF:-1,Nova Sport 5 🇨🇿
+http://185.188.188.237:5000/live/novasport5/playlist.m3u8
+
+#EXTINF:-1,Nova Sport 5 SK 🇸🇰
+http://185.236.230.212:9982/play/a09w
+
+#EXTINF:-1,Nova Sport 5 🇨🇿
+http://116.202.237.33:8080/NS5/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+
+#EXTINF:-1,Nova Sport 6 🇨🇿
+http://116.202.237.33:8080/NS6/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+
+#EXTINF:-1,Nova Sport 1 HD 🇨🇿
+https://176.116.105.82/Nova_Sport1_HD/index.m3u8
+
+#EXTINF:-1,Nova Sport 2 SK HD 🇸🇰
+https://176.116.105.82/NovaSport2_HD/index.m3u8
+
+#EXTINF:-1,Nova Sport 3 SK HD 🇸🇰
+https://176.116.105.82/NovaSport3_HD/index.m3u8
+
+#EXTINF:-1,Nova Sport 4 SK HD 🇸🇰
+https://176.116.105.82/NovaSport4_HD/index.m3u8
+
+#EXTINF:-1,Nova Sport 5 SK HD 🇸🇰
+https://176.116.105.82/NovaSport5_HD/index.m3u8
+
+#EXTINF:-1,Nova Sport 6 HD 🇨🇿
+https://176.116.105.82/NovaSport6_HD/index.m3u8
+
+#EXTINF:-1,CANAL+ Sport 🇨🇿
+http://gr.seetv.cc/play/1135/FB4F94DA00C3BE0/video.m3u8
+
+#EXTINF:-1,CANAL+ Sport 🇸🇰
+http://gr.seetv.cc/play/1136/FB4F94DA00C3BE0/video.m3u8
+
+#EXTINF:-1,CANAL+ Sport 2 🇸🇰
+http://gr.seetv.cc/play/1137/FB4F94DA00C3BE0/video.m3u8
+
+#EXTINF:-1, ARENA SPORT 1 🇨🇿
+http://88.212.15.19/live/test_arenasport/playlist.m3u8
+
+#EXTINF:-1, ARENA SPORT 2 🇨🇿
+http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
+
+#EXTINF:-1, ONEPLAY 1 🇨🇿
+http://185.112.249.46:9981/stream/channelid/177253733?profile=pass
+
+#EXTINF:-1, ONEPLAY 2 🇨🇿
+http://185.112.249.46:9981/stream/channelid/1716506983?profile=pass
+
+#EXTINF:-1, ONEPLAY 3 🇨🇿
+http://185.112.249.46:9981/stream/channelid/1597775099?profile=pass
 
 #EXTINF:-1, MAX SPORT 1 🇧🇬
 http://213.169.39.30:5138
