@@ -837,6 +837,9 @@ http://45.87.35.12:7115/stream
 #EXTINF:-1, Eleven Sports 4 🇵🇱
 http://45.87.35.12:7116/stream
 
+#EXTINF:-1, TVP Sport HD 🇵🇱
+http://45.87.35.12:7030/stream
+
 #EXTINF:-1, Spiler1 TV 🇭🇺
 http://46.149.191.217:9003/play/a01p
 
