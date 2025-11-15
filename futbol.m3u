@@ -234,6 +234,21 @@ http://145.239.5.177/559/mpegts
 #EXTINF:-1, BEIN 3 🇫🇷
 http://5.9.119.146:8883/sf1_bein_hd3_fr/index.m3u8
 
+#EXTINF:-1, Bein Sport 1 🇫🇷
+http://99.27.51.147:8080/BeinSport/index.m3u8
+
+#EXTINF:-1, Bein Sport 1 🇫🇷
+http://145.239.5.177:80/557/index.m3u8
+
+#EXTINF:-1, Bein Sport 2 🇫🇷
+http://145.239.5.177:80/558/index.m3u8
+
+#EXTINF:-1, Bein Sport 3 🇫🇷
+http://99.27.51.147:8080/BeinSport3/index.m3u8
+
+#EXTINF:-1, Bein Sport 3 🇫🇷
+http://145.239.5.177:80/559/index.m3u8
+
 #EXTINF:-1, Bein FR 1 🇫🇷
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/156415
 
