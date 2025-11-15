@@ -456,6 +456,9 @@ https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/chunklist_
 #EXTINF:-1, Беларусь 5 🇧🇾
 http://cdntv.online/low/9mlxywika2/778.m3u8
 
+#EXTINF:-1, Беларусь 5 🇧🇾
+http://de.online24.pm/play/1467/0E5BF0B5A9755BD/video.m3u8
+
 #EXTINF:-1,Arena_Sport P1 🇷🇸
 https://tiger-hub.vercel.app/Arena-Sports/Premium-1/tracks-v1a1/mono.ts.m3u8
 
@@ -662,6 +665,15 @@ http://92.247.25.42:11172/
 
 #EXTINF:-1, Diema Sport 3 🇧🇬
 http://92.247.25.42:11171/
+
+#EXTINF:-1, Diema Sport HD 🇧🇬
+http://de.online24.pm/play/51002/0E5BF0B5A9755BD/video.m3u8
+
+#EXTINF:-1, Diema Sport 2 HD 🇧🇬
+http://de.online24.pm/play/51003/0E5BF0B5A9755BD/video.m3u8
+
+#EXTINF:-1, Diema Sport 3 HD 🇧🇬
+http://de.online24.pm/play/51004/0E5BF0B5A9755BD/video.m3u8
 
 #EXTINF:-1, Nova Sport 🇧🇬
 http://213.169.39.30:5102
