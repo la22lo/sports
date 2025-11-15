@@ -813,7 +813,28 @@ http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2538/index.m3u8
 #EXTINF:-1, Prima Sport 1 🇷🇴
 https://hulky116.lokix1.cfd/puk1/usergenrx0cir27aq.m3u8
 
-#EXTINF:-1, M4 sport 🇭🇺
+#EXTINF:-1, Eleven Sports 1 🇵🇱
+http://45.87.35.12:7113/stream
+
+#EXTINF:-1, Eleven Sports 2 🇵🇱
+http://45.87.35.12:7114/stream
+
+#EXTINF:-1, Eleven Sports 3 🇵🇱
+http://45.87.35.12:7115/stream
+
+#EXTINF:-1, Eleven Sports 4 🇵🇱
+http://45.87.35.12:7116/stream
+
+#EXTINF:-1, Spiler1 TV 🇭🇺
+http://46.149.191.217:9003/play/a01p
+
+#EXTINF:-1, Spiler2 TV 🇭🇺
+http://46.149.191.217:9021/play/a029
+
+#EXTINF:-1, Spiler2 TV 🇭🇺
+http://46.149.191.217:9021/play/a02d
+
+#EXTINF:-1, M4 Sport 🇭🇺
 http://46.149.191.217:9010/play/a017
 
 #EXTINF:-1, M4 sport 🇭🇺
@@ -848,18 +869,6 @@ http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2560/index.m3u8
 
 #EXTINF:-1, ZIGGO SPORT 6 HD 🇳🇱
 http://185.236.230.212:9982/play/a09a
-
-#EXTINF:-1, Spiler1 TV 🇭🇺
-http://46.149.191.217:9003/play/a01p
-
-#EXTINF:-1, Spiler2 TV 🇭🇺
-http://46.149.191.217:9021/play/a029
-
-#EXTINF:-1, Spiler2 TV 🇭🇺
-http://46.149.191.217:9021/play/a02d
-
-#EXTINF:-1, M4 Sport 🇭🇺
-http://46.149.191.217:9010/play/a017
 
 #EXTINF:-1, 4Football 🇸🇪
 http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294054&extension=ts&play_token=dKKpb8gzTG
