@@ -999,6 +999,42 @@ http://103.240.44.26/Astro-Cricket/index.fmp4.m3u8
 #EXTINF:-1, SONY TEN 1 🇮🇳
 http://103.240.44.26/Sony-Ten-1-HD/index.fmp4.m3u8
 
+#EXTINF:-1,Tivibu Spor 1 🇹🇷
+http://65.108.239.207/t1/index.m3u8
+
+#EXTINF:-1,Tivibu Spor 2 🇹🇷
+http://65.108.239.207/t2/index.m3u8
+
+#EXTINF:-1,Tivibu Spor 3 🇹🇷
+http://65.108.239.207/t3/index.m3u8
+
+#EXTINF:-1,Tivibu Spor 4 🇹🇷
+http://65.108.239.207/t4/index.m3u8
+
+#EXTINF:-1,tabii sport 1 🇹🇷
+http://65.108.239.207/tabi1/index.m3u8
+
+#EXTINF:-1,tabii sport 2 🇹🇷
+http://65.108.239.207/tabi2/index.m3u8
+
+#EXTINF:-1,tabii sport 3 🇹🇷
+http://65.108.239.207/tabi3/index.m3u8
+
+#EXTINF:-1,tabii sport 4 🇹🇷
+http://65.108.239.207/tabi4/index.m3u8
+
+#EXTINF:-1,tabii sport 5 🇹🇷
+http://65.108.239.207/tabi5/index.m3u8
+
+#EXTINF:-1,tabii sport 6 🇹🇷
+http://65.108.239.207/tabi6/index.m3u8
+
+#EXTINF:-1,smart1 🇹🇷
+http://65.108.239.207/smart1/index.m3u8
+
+#EXTINF:-1,smart2 🇹🇷
+http://65.108.239.207/smart2/index.m3u8
+
 #EXTINF:-1,SPORTS TV 🇹🇷
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
@@ -1055,6 +1091,12 @@ http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
 
 #EXTINF:-1,KTV SPORTS 🇮🇳
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+
+#EXTINF:-1, FOX SPORT 🇮🇳 
+https://foxenglish.pages.dev/playlist.m3u8
+
+#EXTINF:-1, FOX SPORT 🇮🇳 
+https://hugh.cdn.rumble.cloud/live/t5qc33px/slot-89/ne5u-izq9/chunklist.m3u8
 
 #EXTINF:-1, Futbol TV 🇹🇭
 https://vod.splay.uz/live_splay/original/FutbolTV/tracks-v1a1/mono.m3u8
@@ -1233,6 +1275,9 @@ http://213.169.39.30:5210
 
 #EXTINF:-1, SKY SPORT LALIGA 🇲🇽
 http://38gb.pro/live/1100788991/14811/197962.m3u8
+
+#EXTINF:-1, TNT SPORT 3 🇬🇧
+http://gr.seetv.cc/play/934/FB4F94DA00C3BE0/video.m3u8
 
 #EXTINF:-1, DAZN La Liga 🇪🇸
 http://38gb.pro/live/1100788991/14811/197903.m3u8
