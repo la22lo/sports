@@ -573,6 +573,21 @@ http://185.166.252.230/Arena9/index.m3u8
 #EXTINF:-1,Arena_Sport_10 HD 🇷🇸
 http://185.166.252.230/Arena10/index.m3u8
 
+#EXTINF:-1,  Arena 1 HD 🇷🇸
+http://85.11.144.9:50999/21
+
+#EXTINF:-1,  Arena 2 HD 🇷🇸
+http://85.11.144.9:50999/22
+
+#EXTINF:-1,  Arena 3 HD 🇷🇸
+http://85.11.144.9:50999/23
+
+#EXTINF:-1,  Arena 4 HD 🇷🇸
+http://85.11.144.9:50999/24
+
+#EXTINF:-1,  Arena 5 HD 🇷🇸
+http://85.11.144.9:50999/25 
+
 #EXTINF:-1, MAXSPORT_1 🇭🇷
 http://185.166.252.230/MaxSport1/index.m3u8
 
