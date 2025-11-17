@@ -1,16 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
-http://ott.watch/stream/D3FX33QMIH1/142.m3u8
-
-#EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
 http://cdntv.online/low/9mlxywika2/56.m3u8
 
 #EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
 http://188.191.160.238:7780/udp/239.195.3.17:1234
-
-#EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
-http://cdntv.online/low/9mlxywika2/56.m3u8
 
 #EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
 http://195.191.208.5:8087/udp/238.9.1.15:1234
@@ -24,12 +18,6 @@ https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8
 #EXTINF:-1, IDMANTV 🇹🇷
 https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8?token=7b2231548857bf0a078bb6387e8830040aa18cee-1ee342667d60c2ac2e8f0c594cf33331-1753218237000000-1753207437000
 
-#EXTINF:-1, IDMANTV 🇹🇷
-https://goldvod.org/live/hpgdisco/123456/196.m3u8
-
-#EXTINF:-1, IDMANTV 🇹🇷
-http://de.online24.pm/play/439/0E5BF0B5A9755BD/video.m3u8
-
 #EXTINF:-1, SUPER SPORTS LA LIGA 🇿🇦
 http://145.239.5.177:80/565/index.m3u8
 
@@ -41,12 +29,6 @@ http://131.161.83.249:8031/play/a07f
 
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://46.151.196.243:80/play/ZcGYC1mvTUxgtBD7K_MCNgjV2TY8doY3wUWCWHEdAbA
-
-#EXTINF:-1,ESPN DEPORTES 🇺🇸
-https://tvpass.org/live/espn-deportes/sd
-
-#EXTINF:-1, SKY SPORT LALIGA 🇲🇽
-http://45.164.151.197:8000/play/sky/index.m3u8
 
 #EXTINF:-1, SKY SPORT LALIGA 🇲🇽
 https://tvjrflix.appsjr.pro/temporal/redirect.php?url=http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/281171.m3u8
@@ -68,12 +50,6 @@ http://cors.tundracast.com:2000/https://wo.cma.footballii.ir/hls2/solh.m3u8
 
 #EXTINF:-1, 4Football 🇸🇪
 http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294054&extension=ts&play_token=dKKpb8gzTG
-
-#EXTINF:-1, beIN SPORTS 2 🇶🇦
-https://vip.mustafatv.xyz:443/live/vip/vip/2.m3u8
-
-#EXTINF:-1, beIN SPORTS 2 🇶🇦
-https://balance.footballii.ir/hls2/bein2.m3u8
 
 #EXTINF:-1, beIN SPORTS 2 🇶🇦
 https://ab.footballii.ir/hls2/bein2_src.m3u8
@@ -98,9 +74,6 @@ http://145.239.5.177/557/mpegts
 
 #EXTINF:-1, Bein FR 1 🇫🇷
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/156415
-
-#EXTINF:-1, Premier Sport 2 UK 🇬🇧
-http://line.extraott-iptv.com:88/2755789541/1300714776/189891
 
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://85.11.144.6:6060/play/a012/index.m3u8
