@@ -873,6 +873,12 @@ http://45.87.35.12:7115/stream
 #EXTINF:-1, Eleven Sports 4 🇵🇱
 http://45.87.35.12:7116/stream
 
+#EXTINF:-1, ELEVEN 1 🇵🇱
+https://7pal.short.gy/11sports1
+
+#EXTINF:-1, ELEVEN 2 🇵🇱
+http://xv5myned.otttv.pw/iptv/88EYGGKCK5RASE2LR8XWTRTR/2517/index.m3u8
+
 #EXTINF:-1, TVP Sport HD 🇵🇱
 http://45.87.35.12:7030/stream
 
@@ -1083,6 +1089,18 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1,BEIN SPORT EXTRA Ñ 🇪🇸
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
+#EXTINF:-1, ESPN 3 🇦🇷
+http://205.235.6.29:8000/play/a0w0/index.m3u8
+
+#EXTINF:-1, ESPN 4 🇦🇷
+http://190.0.247.38:8000/play/a069
+
+#EXTINF:-1, ESPN 5 🇦🇷
+http://205.235.6.29:8000/play/a0vw/index.m3u8
+
+#EXTINF:-1, ESPN 5 🇦🇷
+http://190.0.247.38:8000/play/a012
+
 #EXTINF:-1, DSPORTS 1 🇦🇷
 http://190.117.20.37:8000/play/a08d/index.m3u8
 
@@ -1095,6 +1113,21 @@ http://181.205.130.194:4000/play/a07i
 #EXTINF:-1, TELECOSTA GUATEMALA 🇬🇹
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
+#EXTINF:-1, WIN SPORT 🇨🇴
+http://205.235.6.29:8000/play/a0ve/index.m3u8
+
+#EXTINF:-1, WIN SPORT 🇨🇴
+http://190.0.247.38:8000/play/a06a
+
+#EXTINF:-1, WIN SPORT 🇨🇴
+http://190.0.247.38:8000/play/a068
+
+#EXTINF:-1, Win Sports+ HD 🇨🇴
+http://205.235.6.29:8000/play/a0ve/index.m3u8
+
+#EXTINF:-1, EDCF 🇪🇨
+http://205.235.6.29:8000/play/a0vh/index.m3u8
+
 #EXTINF:-1, ITV DEPORTES 🇲🇽
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 
@@ -1104,11 +1137,23 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1,TELEMUNDO 🇲🇽
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 
+#EXTINF:-1, TELEMUNDO 🇲🇽
+https://tvpass.org/live/TelemundoEast/sd
+
 #EXTINF:-1,UNIMAS 🇺🇸
 http://172.93.102.112:8989/158753_.m3u8
 
 #EXTINF:-1, ESPN 🇺🇸
 https://tiger-hub.vercel.app/ESPN/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Fox Sports 1 🇺🇸
+https://tvpass.org/live/FoxSports1/sd
+
+#EXTINF:-1, Fox Sports 1 🇺🇸
+http://xv5myned.otttv.pw/iptv/88EYGGKCK5RASE2LR8XWTRTR/7322/index.m3u8
+
+#EXTINF:-1, Fox Sports 2 🇺🇸
+https://tvpass.org/live/FoxSports2/sd
 
 #EXTINF:-1,Fubo Sports 🇺🇸
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=175758&extension=ts
@@ -1130,6 +1175,21 @@ https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
 
 #EXTINF:-1, PSN 5 Sports 🇺🇸
 https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
+
+#EXTINF:-1,TSN1 🇨🇦
+https://tvpass.org/live/tsn1/sd
+
+#EXTINF:-1,TSN2 🇨🇦
+https://tvpass.org/live/tsn2/sd
+
+#EXTINF:-1,TSN3 🇨🇦
+https://tvpass.org/live/tsn3/sd
+
+#EXTINF:-1,TSN4 🇨🇦
+https://tvpass.org/live/tsn4/sd
+
+#EXTINF:-1,TSN5 🇨🇦
+https://tvpass.org/live/tsn5/sd
 
 #EXTINF:-1, SkySports 2 New Zealand 🇳🇿
 https://tiger-hub.vercel.app/SkySports-2_NZ/tracks-v1a1/mono.m3u8
@@ -1241,6 +1301,9 @@ https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ad
 
 #EXTINF:-1, TR Sport (480p) 🇮🇹
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
+
+#EXTINF:-1, + FOOT 🇫🇷
+http://145.239.5.177:80/556/index.m3u8
 
 #EXTINF:-1, INFOSPORT 🇫🇷 
 http://212.102.60.80/Infosport/index.m3u8
