@@ -9,6 +9,9 @@ http://188.191.160.238:7780/udp/239.195.3.17:1234
 #EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
 http://195.191.208.5:8087/udp/238.9.1.15:1234
 
+#EXTINF:-1, Матч! Футбол 2 HD 🇷🇺
+https://mhd128.iptv2022.com/p/OGSbsnWAKIeLmorzjakB9A,1763668633/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1, M La Liga 🇪🇸
 http://172.93.102.112:8989/278844_.m3u8
 
@@ -375,14 +378,23 @@ http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_
 #EXTINF:-1, Матч! Футбол 1 HD 🇷🇺
 http://ott.watch/stream/D3FX33QMIH1/130.m3u8
 
+#EXTINF:-1, Матч! Футбол 1 HD 🇷🇺
+https://mhd128.iptv2022.com/p/vr_-rIDTy9tl1GPF0Fd0FA,1763668633/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1, МАТЧ! ФУТБOЛ 1HD 🇷🇺
 http://cdntv.online/low/9mlxywika2/55.m3u8
 
 #EXTINF:-1, Матч! Футбол 2 HD 🇷🇺
 http://ott.watch/stream/D3FX33QMIH1/142.m3u8
 
+#EXTINF:-1, Матч! Футбол 2 HD 🇷🇺
+https://mhd128.iptv2022.com/p/OGSbsnWAKIeLmorzjakB9A,1763668633/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1, Матч! Футбол 3 HD 🇷🇺
 http://ott.watch/stream/D3FX33QMIH1/185.m3u8
+
+#EXTINF:-1, Матч! Футбол 3 HD 🇷🇺
+https://mhd128.iptv2022.com/p/OW9wW6KGXF0wK77d-EBViw,1763668633/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1, Матч! 🇷🇺
 http://cdntv.online/low/9mlxywika2/48.m3u8
