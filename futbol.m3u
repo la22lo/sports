@@ -1119,6 +1119,9 @@ http://205.235.6.29:8000/play/a0ve/index.m3u8
 #EXTINF:-1, EDCF 🇪🇨
 http://205.235.6.29:8000/play/a0vh/index.m3u8
 
+#EXTINF:-1, ESPN 🇧🇷
+https://d1muf25xa11so8hp20.s27-usa-cloudfront-net.online/token/69d214da1958723d9b2d22d27e79fbe9/espn.m3u8
+
 #EXTINF:-1, ITV DEPORTES 🇲🇽
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 
@@ -1206,6 +1209,12 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1, UZ SPORT 🇺🇿
 https://vs1759.vcdn.biz/519f03ad03fe54e0d772b98cf1be2087_megogo/live/hls/b/4000/u_sid/0/o/140085841/rsid/e31ac304-6b51-4858-8220-2426f7ba0679/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/213.230.87.109*asn/u_srvc/83576/u_did/web_A3X9Ki7uk5l71nHQLj1IQyMVwDVRnQLz/type.live/chunklist-sid8417518138264452615-b4000000-a72531.m3u8
 
+#EXTINF:-1,  Sport UZ HD 🇺🇿
+https://iptv.itv.uz/hls/live/t/s-h_eJcxHPNAlMQ1i1YiiA/e/1763668641/1004/index.m3u8?ip=213.183.48.252
+
+#EXTINF:-1,  FUTBOL TV 🇺🇿
+https://iptv.itv.uz/hls/live/t/cil3xRcQloAo-4d8oS5TtQ/e/1763668641/1010/index.m3u8?ip=213.183.48.252
+
 #EXTINF:-1, Q Sport Kyrgyzstan HD 🇰🇬
 http://95.85.109.219:7000/play/a05u
 
@@ -1233,8 +1242,29 @@ http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8
 #EXTINF:-1, Astro Cricket Sports HD 🇧🇩 
 http://103.240.44.26/Astro-Cricket/index.fmp4.m3u8
 
+#EXTINF:-1, T SPORT 🇮🇳
+http://103.240.44.26/T-Sports-HD/index.m3u8
+
+#EXTINF:-1, T SPORT 🇮🇳
+http://66.102.120.18:8000/play/a032/index.m3u8
+
 #EXTINF:-1, SONY TEN 1 🇮🇳
 http://103.240.44.26/Sony-Ten-1-HD/index.fmp4.m3u8
+
+#EXTINF:-1, SONY SPORTS TEN 1 HD 🇮🇳
+http://66.102.120.18:8000/play/a00e/index.m3u8
+
+#EXTINF:-1, SONY SPORTS TEN 2 HD 🇮🇳
+http://66.102.120.18:8000/play/a01y/index.m3u8
+
+#EXTINF:-1, SONY SPORTS TEN 3 HD 🇮🇳
+http://66.102.120.18:8000/play/a00z/index.m3u8
+
+#EXTINF:-1, SONY SPORTS TEN 5 HD 🇮🇳
+http://66.102.120.18:8000/play/a010/index.m3u8
+
+#EXTINF:-1, TEN SPORTS 🇮🇳
+http://66.102.120.18:8000/play/a018/index.m3u8
 
 #EXTINF:-1,Tivibu Spor 1 🇹🇷
 http://65.108.239.207/t1/index.m3u8
