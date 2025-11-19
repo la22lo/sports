@@ -513,8 +513,32 @@ http://46.149.191.217:9010/play/a019
 #EXTINF:-1, Okko Спорт 🇷🇺
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 
+#EXTINF:-1, Окко Футбол HD 🇷🇺
+http://50.7.28.226/9170/index.m3u8
+
+#EXTINF:-1, Окко Футбол HD 🇷🇺
+http://boxviptv.net:25461/Mhmn0028/3U3smSKML8/1608
+
+#EXTINF:-1, Окко Футбол 2 HD 🇷🇺
+http://50.7.28.226/9183/index.m3u8
+
+#EXTINF:-1, Окко Футбол 2 HD 🇷🇺
+http://boxviptv.net:25461/Mhmn0028/3U3smSKML8/1610
+
 #EXTINF:-1, SETANTA SPORT 1 🇷🇺
 http://95.85.109.219:7000/play/a067
+
+#EXTINF:-1, Setanta Sport 1 HD 🇷🇺
+http://50.7.28.226/8379/index.m3u8
+
+#EXTINF:-1, Setanta Sport 1 HD 🇷🇺
+http://boxviptv.net:25461/Mhmn0028/3U3smSKML8/1112
+
+#EXTINF:-1, Setanta Sport 2 HD 🇷🇺
+http://50.7.28.226/8676/index.m3u8
+
+#EXTINF:-1, Setanta Sport 2 HD 🇷🇺
+http://boxviptv.net:25461/Mhmn0028/3U3smSKML8/1113
 
 #EXTINF:-1, МАТЧ! ИГРА 🇷🇺
 http://195.191.208.5:8087/udp/238.9.1.12:1234
@@ -543,6 +567,24 @@ http://ott.watch/stream/D3FX33QMIH1/313.m3u8
 #EXTINF:-1, Setanta Sports+ HD F 🇺🇦
 http://ott.watch/stream/D3FX33QMIH1/390.m3u8
 
+#EXTINF:-1, Setanta Sports+ Ukraine HD 🇺🇦
+http://boxviptv.net:25461/Mhmn0028/3U3smSKML8/207
+
+#EXTINF:-1,  Megogo Спорт HD 🇺🇦
+http://boxviptv.net:25461/Mhmn0028/3U3smSKML8/1603
+
+#EXTINF:-1,  Megogo Спорт 1 HD 🇺🇦
+http://boxviptv.net:25461/Mhmn0028/3U3smSKML8/1604
+
+#EXTINF:-1,  Megogo Спорт 2 HD 🇺🇦
+http://boxviptv.net:25461/Mhmn0028/3U3smSKML8/1281
+
+#EXTINF:-1,  Megogo Спорт 3 HD 🇺🇦
+http://boxviptv.net:25461/Mhmn0028/3U3smSKML8/1605
+
+#EXTINF:-1,  Megogo Спорт 4 HD 🇺🇦
+http://boxviptv.net:25461/Mhmn0028/3U3smSKML8/1606
+
 #EXTINF:-1, Суспільне Kiev Спорт HD 🇺🇦
 https://tva.in.ua/live/susp-sport.m3u8?key=fas-tv.com
 
@@ -551,6 +593,12 @@ http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 
 #EXTINF:-1, Setanta Sport 2 🇬🇪
 http://94.43.1.138:8081/setanta2/index.m3u8
+
+#EXTINF:-1,  Setanta Qazaqstan 🇰🇿
+http://boxviptv.net:25461/Mhmn0028/3U3smSKML8/1100
+
+#EXTINF:-1,  Беларусь 5 HD 🇧🇾
+http://50.7.28.226/8694/index.m3u8
 
 #EXTINF:-1, BELARUS 5 🇧🇾
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
@@ -579,11 +627,23 @@ http://de.online24.pm/play/6709/0E5BF0B5A9755BD/video.m3u8
 #EXTINF:-1, Go3 Sport 2 HD 🇱🇹
 http://de.online24.pm/play/6710/0E5BF0B5A9755BD/video.m3u8
 
+#EXTINF:-1, Go3 Sport 2 HD LV 🇱🇻
+http://94.232.127.28:8080/tvplaysportsplus/index.m3u8
+
 #EXTINF:-1, Go3 Sport 3 HD 🇱🇹
 http://de.online24.pm/play/6711/0E5BF0B5A9755BD/video.m3u8
 
 #EXTINF:-1, Go3 Sport Open HD 🇱🇹
 http://de.online24.pm/play/6712/0E5BF0B5A9755BD/video.m3u8
+
+#EXTINF:-1,  SPORT 1 🇱🇹
+http://94.232.127.28:8080/sport1/index.m3u8
+
+#EXTINF:-1,  SPORT 1 🇱🇹
+http://50.7.28.226/8379/index.m3u8
+
+#EXTINF:-1,  FAST SPORTS HD 🇦🇲
+http://66.102.120.18:8000/play/a05f/index.m3u8
 
 #EXTINF:-1,Arena_Sport P1 🇷🇸
 https://tiger-hub.vercel.app/Arena-Sports/Premium-1/tracks-v1a1/mono.ts.m3u8
