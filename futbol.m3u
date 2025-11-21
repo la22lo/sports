@@ -1179,6 +1179,9 @@ http://190.61.116.105:8002/play/a0gh/index.m3u8
 #EXTINF:-1, TIGO SPORTS 🇧🇴
 http://38.159.227.123:8000/play/a0a7/index.m3u8
 
+#EXTINF:-1, TIGO SPORTS 🇧🇴
+http://201.174.175.3:8000/play/a0u0/index.m3u8
+
 #EXTINF:-1,  TIGO SPORTS 🇭🇳
 http://45.190.185.204:8990/play/a0ep/index.m3u8
 
@@ -1376,6 +1379,9 @@ https://ww.dooballfree.vip/live/tsp7/playlist.m3u8
 
 #EXTINF:-1, T Sports HD 🇧🇩 
 http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8
+
+#EXTINF:-1, T Sports HD 🇧🇩 
+https://live.matribhumitv.com/matribhumi-sports/index.m3u8
 
 #EXTINF:-1, Astro Cricket Sports HD 🇧🇩 
 http://103.240.44.26/Astro-Cricket/index.fmp4.m3u8
