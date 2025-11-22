@@ -156,6 +156,9 @@ http://cdntv.online/low/9mlxywika2/48.m3u8
 #EXTINF:-1, Матч! 🇷🇺
 http://95.47.156.60:8000/play/3/index.m3u8
 
+#EXTINF:-1, Матч! 🇷🇺
+http://46.8.46.14/match/index.m3u8
+
 #EXTINF:-1, DAZN La Liga 🇪🇸
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=147097&extension=ts
 
