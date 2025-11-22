@@ -24,6 +24,9 @@ http://188.190.222.53/Match_Futbol_2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,  Матч! Футбол 2 HD 🇷🇺
 http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyNSA3OjU3OjE4IFBNJmhhc2hfdmFsdWU9TWhEcjhIZTdzWjNqeXh0c3Bwci9hZz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 
+#EXTINF:-1,  Матч! Футбол 2 HD 🇷🇺
+http://195.191.208.11:8087/udp/238.2.49.15:1234
+
 #EXTINF:-1, M La Liga 🇪🇸
 http://172.93.102.112:8989/278844_.m3u8
 
