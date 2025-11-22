@@ -831,6 +831,12 @@ http://91.219.133.62:1234/udp/239.1.2.91:1234
 #EXTINF:-1,NOVA SPORT 5 🇨🇿
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2558/index.m3u8
 
+#EXTINF:-1,ARENA SPORT 1 🇨🇿
+https://176.116.105.82/Arena_Sport1_HD/index.m3u8
+
+#EXTINF:-1,ARENA SPORT 1 🇨🇿
+https://176.116.105.82/Arena_Sport2_HD/index.m3u8
+
 #EXTINF:-1, CANAL+ SPORT 2 HD 🇨🇿
 http://185.236.230.212:9982/play/a0b9
 
@@ -843,11 +849,17 @@ http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1, SPORT 1 HD 🇨🇿
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 
+#EXTINF:-1, SPORT 1 HD 🇨🇿
+https://176.116.105.82/Sport1_HD/index.m3u8
+
 #EXTINF:-1, SPORT 2 HD 🇨🇿
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
 
 #EXTINF:-1, SPORT 2 HD 🇨🇿
 http://185.98.211.8:81/sport2/index.m3u8?token=test
+
+#EXTINF:-1, SPORT 2 HD 🇨🇿
+https://176.116.105.82/Sport2_HD/index.m3u8
 
 #EXTINF:-1,  Arena_Sport 🇨🇿
 http://178.23.88.55/Arena_sport/index.m3u8
