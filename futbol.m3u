@@ -1270,6 +1270,15 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65cf60d16
 #EXTINF:-1,  FOX 🇲🇽
 https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94d852f8374/playlist.m3u8
 
+#EXTINF:-1,  TYC Sports  🇦🇷
+https://cdnlatam.sysedge-delivery.com/TYC_SPORTS_CACHE_2/index.m3u8
+
+#EXTINF:-1, ESPN PREMIUM  🇦🇷
+https://cdnlatam.sysedge-delivery.com/ESPN_PREMIUM_HD/index.m3u8
+
+#EXTINF:-1,  TNT Sports  🇦🇷
+https://cdnlatam.sysedge-delivery.com/TNT_SPORTS_HD/index.m3u8
+
 #EXTINF:-1,  Vip Sports  🇦🇷
 http://104.238.222.251:8989/278802_.m3u8
 
