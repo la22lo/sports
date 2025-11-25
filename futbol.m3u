@@ -9,6 +9,18 @@ http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/165359.ts
 #EXTINF:-1,Nova Sport 4 🇨🇿
 http://185.188.188.237:5000/live/novasport4/playlist.m3u8
 
+#EXTINF:-1, Setanta Sport 1 🇬🇪
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+
+#EXTINF:-1, Setanta Sport 1 🇬🇪
+http://2.57.217.85:8000/play/a09e/index.m3u8
+
+#EXTINF:-1, Setanta Sport 1 🇬🇪
+http://2.57.217.85:8000/play/a008/index.m3u8
+
+#EXTINF:-1, Setanta Sport 1 🇬🇪
+http://2.57.217.85:8000/play/a05m/index.m3u8
+
 #EXTINF:-1, CANAL + Sport 🇫🇷
 http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
 
@@ -45,17 +57,6 @@ http://92.247.25.42:11178/
 #EXTINF:-1, MAX SPORT 3 🇧🇬
 http://85.11.144.6:6060/play/a09y/index.m3u8
 
-#EXTINF:-1, Setanta Sport 1 🇬🇪
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-
-#EXTINF:-1, Setanta Sport 1 🇬🇪
-http://2.57.217.85:8000/play/a09e/index.m3u8
-
-#EXTINF:-1, Setanta Sport 1 🇬🇪
-http://2.57.217.85:8000/play/a008/index.m3u8
-
-#EXTINF:-1, Setanta Sport 1 🇬🇪
-http://2.57.217.85:8000/play/a05m/index.m3u8
 
 
 
@@ -1677,8 +1678,6 @@ http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
 
 
-#EXTINF:-1, Setanta Georgia 🇬🇪
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 
 #EXTINF:-1, Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
@@ -1727,9 +1726,6 @@ http://45.71.254.1:8000/play/a038/index.m3u8
 
 #EXTINF:-1, ESPN VIVO 🇦🇷
 https://cdn01.oplay.tv/espn/index.m3u8
-
-#EXTINF:-1, Setanta Georgia 🇬🇪
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 
 #EXTINF:-1, Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
