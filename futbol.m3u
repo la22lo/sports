@@ -30,6 +30,9 @@ https://ab.footballii.ir/hls2/bein1_src.m3u8
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
 
+#EXTINF:-1, TNT SPORT 3 🇬🇧
+http://gr.seetv.cc/play/934/FB4F94DA00C3BE0/video.m3u8
+
 #EXTINF:-1, MAX SPORT 3 🇧🇬
 http://213.169.39.30:5142
 
@@ -1698,12 +1701,6 @@ http://45.228.234.30:16000/play/a01k/index.m3u8
 #EXTINF:-1, ESPN 🇦🇷
 http://181.78.117.219:8000/play/a00b/index.m3u8
 
-#EXTINF:-1, ESPN 1 NORTE 🇵🇦
-http://45.71.254.1:8000/play/a0e6/index.m3u8
-
-#EXTINF:-1,TUDNMX.HD1 🇺🇸
-http://181.78.106.127:9000/play/ca025/index.m3u8
-
 #EXTINF:-1, Digi Sport 1 🇷🇴
 http://91.201.172.14:35005/
 
@@ -1718,9 +1715,6 @@ https://af.ayas.ir/hls2/persiana.m3u8
 
 #EXTINF:-1, beIN SPORTS 2 🇶🇦
 https://balance.footballii.ir/hls2/mam.m3u8
-
-#EXTINF:-1, MAX SPORT 3 🇧🇬
-http://213.169.39.30:5142
 
 #EXTINF:-1,UNIMAS 🇺🇸
 http://172.93.102.112:8989/158753_.m3u8
@@ -1758,8 +1752,6 @@ http://213.169.39.30:5210
 #EXTINF:-1, SKY SPORT LALIGA 🇲🇽
 http://38gb.pro/live/1100788991/14811/197962.m3u8
 
-#EXTINF:-1, TNT SPORT 3 🇬🇧
-http://gr.seetv.cc/play/934/FB4F94DA00C3BE0/video.m3u8
 
 
 
