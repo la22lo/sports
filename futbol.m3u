@@ -24,6 +24,19 @@ https://ab.footballii.ir/hls2/bein1_src.m3u8
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
 
+#EXTINF:-1, MAX SPORT 3 🇧🇬
+http://213.169.39.30:5142
+
+#EXTINF:-1, MAX SPORT 3 🇧🇬
+http://77.46.130.252:99/maxsport3
+
+#EXTINF:-1, MAX SPORT 3 🇧🇬
+http://92.247.25.42:11178/
+
+#EXTINF:-1, MAX SPORT 3 🇧🇬
+http://85.11.144.6:6060/play/a09y/index.m3u8
+
+
 
 
 
@@ -1643,17 +1656,6 @@ http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
 
 
-#EXTINF:-1, M LC 🇪🇸
-http://38gb.pro/live/1100788991/14811/197981.m3u8
-
-#EXTINF:-1, M LC 🇪🇸
-http://38gb.pro/live/1100788991/14811/197982.m3u8
-
-#EXTINF:-1, M LC 🇪🇸
-http://172.93.102.112:8989/278845_.m3u8
-
-#EXTINF:-1, M LC 🇪🇸
-http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/165359.ts
 
 #EXTINF:-1, Setanta Georgia 🇬🇪
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
@@ -1699,12 +1701,6 @@ http://cors.tundracast.com:2000/https://wo.cma.footballii.ir/hls2/solh.m3u8
 
 #EXTINF:-1, Prima Sport 1 🇷🇴
 https://fusion4k.aayushmansinghrajpurohit95.workers.dev/474072.m3u8
-
-#EXTINF:-1, MAX SPORT 3 🇧🇬
-http://77.46.130.252:99/maxsport3
-
-#EXTINF:-1, MAX SPORT 3 🇧🇬
-http://92.247.25.42:11178/
 
 #EXTINF:-1, PERSIANA SPORT 🇮🇷
 https://af.ayas.ir/hls2/persiana.m3u8
@@ -1754,11 +1750,6 @@ http://38gb.pro/live/1100788991/14811/197962.m3u8
 #EXTINF:-1, TNT SPORT 3 🇬🇧
 http://gr.seetv.cc/play/934/FB4F94DA00C3BE0/video.m3u8
 
-#EXTINF:-1, DAZN La Liga 🇪🇸
-http://38gb.pro/live/1100788991/14811/197903.m3u8
-
-#EXTINF:-1, DAZN La Liga 🇪🇸
-http://38gb.pro/live/1100788991/14811/197904.m3u8
 
 
 
