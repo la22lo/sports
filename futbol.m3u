@@ -60,6 +60,12 @@ http://92.247.25.42:11178/
 #EXTINF:-1, MAX SPORT 3 🇧🇬
 http://85.11.144.6:6060/play/a09y/index.m3u8
 
+#EXTINF:-1, Digi Sport 1 🇷🇴
+http://91.201.172.14:35005/
+
+#EXTINF:-1, Prima Sport 1 🇷🇴
+https://fusion4k.aayushmansinghrajpurohit95.workers.dev/474072.m3u8
+
 
 
 
@@ -172,9 +178,6 @@ http://77.46.130.252:99/maxsport4
 
 #EXTINF:-1, Digi Sport 2 🇷🇴
 http://91.201.172.14:35006/
-
-#EXTINF:-1, Digi Sport 2 🇷🇴
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2522/index.m3u8
 
 #EXTINF:-1, S Sport 1 🇹🇷
 https://dga1op10s1u3lep.617cc29522c890.click/live/selcukssport/playlist.m3u8
@@ -1080,22 +1083,10 @@ http://213.169.39.30:5136
 http://213.169.39.30:5216
 
 #EXTINF:-1, Digi Sport 1 🇷🇴
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2523/index.m3u8
-
-#EXTINF:-1, Digi Sport 1 🇷🇴
 http://91.201.172.14:35005/
 
 #EXTINF:-1, Digi Sport 2 🇷🇴
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2522/index.m3u8
-
-#EXTINF:-1, Digi Sport 2 🇷🇴
 http://91.201.172.14:35006/
-
-#EXTINF:-1, Digi Sport 3 🇷🇴
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2524/index.m3u8
-
-#EXTINF:-1, Digi Sport 4 🇷🇴
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2538/index.m3u8
 
 #EXTINF:-1, Prima Sport 1 🇷🇴
 https://hulky116.lokix1.cfd/puk1/usergenrx0cir27aq.m3u8
@@ -1703,14 +1694,8 @@ http://45.228.234.30:16000/play/a01k/index.m3u8
 #EXTINF:-1, ESPN 🇦🇷
 http://181.78.117.219:8000/play/a00b/index.m3u8
 
-#EXTINF:-1, Digi Sport 1 🇷🇴
-http://91.201.172.14:35005/
-
 #EXTINF:-1, SOLH SPORT 🇦🇫
 http://cors.tundracast.com:2000/https://wo.cma.footballii.ir/hls2/solh.m3u8
-
-#EXTINF:-1, Prima Sport 1 🇷🇴
-https://fusion4k.aayushmansinghrajpurohit95.workers.dev/474072.m3u8
 
 #EXTINF:-1, PERSIANA SPORT 🇮🇷
 https://af.ayas.ir/hls2/persiana.m3u8
