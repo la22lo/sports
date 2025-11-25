@@ -21,6 +21,9 @@ http://2.57.217.85:8000/play/a008/index.m3u8
 #EXTINF:-1, Setanta Sport 1 🇬🇪
 http://2.57.217.85:8000/play/a05m/index.m3u8
 
+#EXTINF:-1, ESPN 🇦🇷
+http://200.106.13.204:8000/play/a00i/index.m3u8
+
 #EXTINF:-1, CANAL + Sport 🇫🇷
 http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
 
