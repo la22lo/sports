@@ -6,6 +6,23 @@ http://172.93.102.112:8989/278845_.m3u8
 #EXTINF:-1, M LC 🇪🇸
 http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/165359.ts
 
+#EXTINF:-1, beIN SPORTS 1 🇶🇦
+https://ab.footballii.ir/hls2/bein1_src.m3u8
+
+#EXTINF:-1, beIN SPORTS 1 🇶🇦
+https://ab.footballii.ir/hls2/bein1_low.m3u8
+
+#EXTINF:-1, beIN SPORTS 1 🇶🇦
+https://balance.footballii.ir/hls2/bein1.m3u8
+
+#EXTINF:-1, beIN SPORTS 1 🇶🇦
+http://135.125.109.73:9000/beinsport1_.m3u8
+
+
+
+
+
+
 #EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
 http://cdntv.online/low/9mlxywika2/56.m3u8
 
