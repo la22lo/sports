@@ -3,6 +3,15 @@
 #EXTINF:-1,Nova Sport 4 🇨🇿
 http://185.188.188.237:5000/live/novasport4/playlist.m3u8
 
+#EXTINF:-1, TUDN 🇲🇽
+https://s@abigail.009292.xyz/tudn.m3u8
+
+#EXTINF:-1, TNT SPORT 5 🇬🇧
+https://s@storage.googleapis.com/mmassime/mux_video_ts/index-1.m3u8
+
+#EXTINF:-1, TNT SPORT 5 🇬🇧
+https://s@storage.googleapis.com/poitunigerting4/mux_video_ts1/index-1.m3u8
+
 #EXTINF:-1, ESPN 🇦🇷
 http://200.106.13.204:8000/play/a00i/index.m3u8
 
