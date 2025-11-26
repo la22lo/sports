@@ -15,6 +15,9 @@ http://38.44.109.41:8003/play/
 #EXTINF:-1, ESPN 🇦🇷
 http://181.118.156.46:8000/play/a04g/index.m3u8
 
+#EXTINF:-1, ESPN 🇦🇷
+https://cdnlatam.sysedge-delivery.com/ESPN_HD_CACHE1/index.m3u8
+
 #EXTINF:-1, ESPN 2 🇨🇴
 http://200.10.30.241:8000/play/a01r/index.m3u8
 
