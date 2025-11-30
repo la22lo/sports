@@ -1374,6 +1374,9 @@ https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
 #EXTINF:-1, PSN 5 Sports 🇺🇸
 https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 
+#EXTINF:-1, ESPNews 🇺🇸
+https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
+
 #EXTINF:-1,TSN1 🇨🇦
 https://tvpass.org/live/tsn1/sd
 
@@ -1517,6 +1520,9 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #EXTINF:-1,HT SPOR 🇹🇷
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
+
+#EXTINF:-1, HTSpor TV 🇹🇷
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 
 #EXTINF:-1,DAZN TV 🇬🇧
 https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
