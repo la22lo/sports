@@ -1464,6 +1464,18 @@ http://66.102.120.18:8000/play/a032/index.m3u8
 #EXTINF:-1, SONY TEN 1 🇮🇳
 http://103.240.44.26/Sony-Ten-1-HD/index.fmp4.m3u8
 
+#EXTINF:-1, Sony Sports Ten 1 🇮🇳
+http://87.255.35.150:18926
+
+#EXTINF:-1, Sony Sports Ten 2 🇮🇳
+http://87.255.35.150:18927
+
+#EXTINF:-1, Sony Sports Ten 3 🇮🇳
+http://87.255.35.150:18848
+
+#EXTINF:-1, Sony Sports Ten 5 🇮🇳
+http://87.255.35.150:18818
+
 #EXTINF:-1, SONY SPORTS TEN 1 HD 🇮🇳
 http://66.102.120.18:8000/play/a00e/index.m3u8
 
@@ -1679,6 +1691,18 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142757
 
 #EXTINF:-1,BEIN 3 🇶🇦
 https://balance.footballii.ir/hls2/bein3.m3u8
+
+#EXTINF:-1, Sony Sports Ten 1 🇮🇳
+http://87.255.35.150:18926
+
+#EXTINF:-1, Sony Sports Ten 2 🇮🇳
+http://87.255.35.150:18927
+
+#EXTINF:-1, Sony Sports Ten 3 🇮🇳
+http://87.255.35.150:18848
+
+#EXTINF:-1, Sony Sports Ten 5 🇮🇳
+http://87.255.35.150:18818
 
 #EXTINF:-1, CANAL + Sport 🇫🇷
 http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
