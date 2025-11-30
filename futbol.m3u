@@ -13,16 +13,7 @@ http://195.191.208.5:8087/udp/238.9.1.15:1234
 http://195.191.208.11:8087/udp/238.9.64.205:1234
 
 #EXTINF:-1,  Матч! Футбол 2 HD 🇷🇺
-http://50.7.28.226/8237/index.m3u8
-
-#EXTINF:-1,  Матч! Футбол 2 HD 🇷🇺
-http://188.190.222.53/Match_Futbol_2/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1,  Матч! Футбол 2 HD 🇷🇺
 http://195.191.208.11:8087/udp/238.2.49.15:1234
-
-#EXTINF:-1,  Матч! Футбол 2 HD 🇷🇺
-http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjkvMjAyNSA3OjU2OjU5IFBNJmhhc2hfdmFsdWU9WUV2ZmFkRXZUVXh1UTVIc2ZJVVlSdz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 
 #EXTINF:-1, SCTV 22 - SSPORT 1 🇻🇳
 https://liveh34.vtvprime.vn/hls/SCTV22/03.m3u8
