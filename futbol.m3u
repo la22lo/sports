@@ -3,14 +3,8 @@
 #EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
 http://188.191.160.238:7780/udp/239.195.3.17:1234
 
-#EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
-http://195.191.208.5:8087/udp/238.9.1.15:1234
-
-#EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
-http://195.191.208.11:8087/udp/238.9.64.205:1234
-
-#EXTINF:-1,  Матч! Футбол 2 HD 🇷🇺
-http://195.191.208.11:8087/udp/238.2.49.15:1234
+#EXTINF:-1,ESPN DEPORTES 🇺🇸
+http://148.113.207.98:8000/play/a004/index.m3u8
 
 #EXTINF:-1, SCTV 22 - SSPORT 1 🇻🇳
 https://liveh34.vtvprime.vn/hls/SCTV22/03.m3u8
@@ -26,9 +20,6 @@ https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, IDMANTV 🇹🇷
 https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8?token=7b2231548857bf0a078bb6387e8830040aa18cee-1ee342667d60c2ac2e8f0c594cf33331-1753218237000000-1753207437000
-
-#EXTINF:-1,ESPN DEPORTES 🇺🇸
-http://148.113.207.98:8000/play/a004/index.m3u8
 
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://104.243.40.13:8989/279426_.m3u8
