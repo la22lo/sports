@@ -60,6 +60,27 @@ http://135.125.109.73:9000/beinsport8_.m3u8
 #EXTINF:-1, bein_sd_9 🇶🇦
 http://135.125.109.73:9000/beinsport9_.m3u8
 
+#EXTINF:-1,  bein_sd_1 🇶🇦
+https://sdmmt162.provegooott.com/1_.m3u8
+
+#EXTINF:-1,  bein_sd_2 🇶🇦
+https://sdmmt162.provegooott.com/2_.m3u8
+
+#EXTINF:-1,  bein_sd_3 🇶🇦
+https://sdmmt162.provegooott.com/3_.m3u8
+
+#EXTINF:-1,  bein_sd_4 🇶🇦
+https://sdmmt162.provegooott.com/4_.m3u8
+
+#EXTINF:-1,  bein_sd_5 🇶🇦
+https://sdmmt162.provegooott.com/5_.m3u8
+
+#EXTINF:-1,  bein_sd_6 🇶🇦
+https://sdmmt162.provegooott.com/6_.m3u8
+
+#EXTINF:-1,  bein_sd_7 🇶🇦
+https://sdmmt162.provegooott.com/7_.m3u8
+
 #EXTINF:-1, Spiler2 TV 🇭🇺
 http://46.149.191.217:9021/play/a029
 
