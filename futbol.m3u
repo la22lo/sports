@@ -1636,6 +1636,9 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
 https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
 
 #EXTINF:-1,  Varzesh TV 🇸🇦
+https://wo.cma.footballii.ir/hls2/varzeshtv.m3u8
+
+#EXTINF:-1,  Varzesh TV 🇸🇦
 https://balance.footballii.ir/hls2/varzeshtv.m3u8
 
 #EXTINF:-1, NETO SPORTS 🇸🇦
@@ -1643,6 +1646,9 @@ https://netohls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1, TV3 🇸🇦
 https://balance.footballii.ir/hls2/tv3.m3u8
+
+#EXTINF:-1, TV3 🇸🇦
+https://wo.cma.footballii.ir/hls2/tv3.m3u8
 
 #EXTINF:-1, MMN Sport 🇸🇦
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
