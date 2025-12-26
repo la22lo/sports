@@ -1458,6 +1458,9 @@ http://103.240.44.26/T-Sports-HD/index.m3u8
 #EXTINF:-1, T SPORT 🇮🇳
 http://66.102.120.18:8000/play/a032/index.m3u8
 
+#EXTINF:-1, T SPORT 🇮🇳
+http://stvlive.net:8080/tsports1/index.m3u8
+
 #EXTINF:-1, SONY TEN 1 🇮🇳
 http://103.240.44.26/Sony-Ten-1-HD/index.fmp4.m3u8
 
