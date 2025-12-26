@@ -1770,6 +1770,15 @@ http://gr.seetv.cc/play/934/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:-1, TNT SPORT 3 🇬🇧
 https://s@broadcasthub.click/hls/kvJmq6EB26a/index.m3u8
 
+#EXTINF:-1, TNT SPORTS 1 🇬🇧
+http://178.33.239.54:8080/509/index.m3u8
+
+#EXTINF:-1, TNT SPORTS 2 🇬🇧
+http://178.33.239.54:8080/510/index.m3u8
+
+#EXTINF:-1, TNT SPORTS 3 🇬🇧
+http://178.33.239.54:8080/511/index.m3u8
+
 #EXTINF:-1, MAX SPORT 3 🇧🇬
 http://213.169.39.30:5142
 
