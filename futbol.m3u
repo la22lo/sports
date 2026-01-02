@@ -1017,6 +1017,9 @@ http://213.169.39.30:5136
 #EXTINF:-1, Diema Sport 3 🇧🇬
 http://213.169.39.30:5216
 
+#EXTINF:-1, PRIMA SPORT 3 🇷🇴
+http://cors.tundracast.com:2000/http://176.97.112.25:8880/primasport3/index.m3u8
+
 #EXTINF:-1, Digi Sport 1 🇷🇴
 http://91.201.172.14:35005/
 
@@ -1433,6 +1436,15 @@ https://ww.dooballfree.vip/live/bein2/playlist.m3u8
 
 #EXTINF:-1, BEIN 3 TRUE VISIONS 🇮🇩
 https://ww.dooballfree.vip/live/bein3/playlist.m3u8
+
+#EXTINF:-1, BEIN 1 TRUE VISIONS 🇮🇩
+http://cors.tundracast.com:2000/http://119.59.118.159/live/ch15/Mariogogo007/index.m3u8
+
+#EXTINF:-1, BEIN 2 TRUE VISIONS 🇮🇩
+http://cors.tundracast.com:2000/http://119.59.118.159/live/ch16/Mariogogo007/index.m3u8
+
+#EXTINF:-1, BEIN 3 TRUE VISIONS 🇮🇩
+http://cors.tundracast.com:2000/http://119.59.118.159/live/ch17/Mariogogo007/index.m3u8
 
 #EXTINF:-1, Astro Football HD 🇹🇭
 https://smart.bengaldigital.live/AstroFootball/index.m3u8
