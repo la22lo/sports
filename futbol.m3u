@@ -1386,6 +1386,9 @@ https://tvpass.org/live/tsn4/sd
 #EXTINF:-1,TSN5 🇨🇦
 https://tvpass.org/live/tsn5/sd
 
+#EXTINF:-1,TSN3 🇨🇦
+https://stream.decentdoubts.net/807/index.m3u8?token=M0lLeXQ4ZWIxNkxJZ0p1cmhhMjBtTWlvMDhsK3h0NS9zb21keGF5am5vSERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm0wNStDbnJOOXJJM0puSytpbkE9PQ==
+
 #EXTINF:-1, SkySports 2 New Zealand 🇳🇿
 https://tiger-hub.vercel.app/SkySports-2_NZ/tracks-v1a1/mono.m3u8
 
