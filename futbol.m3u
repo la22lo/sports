@@ -1611,6 +1611,9 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1,T SPORTS 🇮🇳
 https://cdn.bdixtv24.vip/tsports/index.m3u8
 
+#EXTINF:-1,T SPORTS 🇮🇳
+http://stvlive.net:8080/tsports1/index.m3u8
+
 #EXTINF:-1,A SPORTS 🇮🇳
 http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/804
 
@@ -1751,6 +1754,15 @@ http://87.255.35.150:18848
 
 #EXTINF:-1, Sony Sports Ten 5 🇮🇳
 http://87.255.35.150:18818
+
+#EXTINF:-1, Sony Ten 1 🇮🇳
+http://stvlive.net:8080/sonyten1/index.m3u8
+
+#EXTINF:-1, Sony Ten 2 🇮🇳
+http://stvlive.net:8080/sonyten2/index.m3u8
+
+#EXTINF:-1, Sony Ten 5 🇮🇳
+http://stvlive.net:8080/sonyten5/index.m3u8
 
 #EXTINF:-1, CANAL + Sport 🇫🇷
 http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
