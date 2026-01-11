@@ -6,6 +6,9 @@ https://3.3lok3.site/hls/aloka1/stream.m3u8
 #EXTINF:-1, SUPERCOPA 🇦🇪
 https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/EO-X390-LyaHKU09u0f1OzvLIvrkWFwB23WYMae5USUpgg_gxt_qmHmm_5p0JogCAS2uVLIrWrHNsDfpgULsnQ/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type=live
 
+#EXTINF:-1, TNT SPORT 4 🇬🇧
+https://storage.googleapis.com/mnbvvxasdqqd/mux_video_ts/index-1.m3u8
+
 #EXTINF:-1, Super Sport 2 🇦🇱
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
 
