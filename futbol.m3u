@@ -21,6 +21,9 @@ http://live.btv.mx:2424/stream/280080/smAVz_uhytj5REM-4pYNZbkrcB2
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://148.113.207.98:8000/play/a004/index.m3u8
 
+#EXTINF:-1,ESPN DEPORTES 🇺🇸
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8
+
 #EXTINF:-1, L`Equipe 🇫🇷
 http://157.143.44.195/play/a0fw
 
