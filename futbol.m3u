@@ -33,6 +33,9 @@ http://46.151.196.243:80/play/ZcGYC1mvTUxgtBD7K_MCNgjV2TY8doY3wUWCWHEdAbA
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
+#EXTINF:-1,LM 🇪🇸
+https://broadcasthub.click/hls/4eLyr2RZq7v/index.m3u8
+
 #EXTINF:-1,  bein_sd_1 🇶🇦
 http://135.125.109.73:9000/beinsport1_.m3u8
 
