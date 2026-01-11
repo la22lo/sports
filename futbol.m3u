@@ -24,6 +24,9 @@ http://148.113.207.98:8000/play/a004/index.m3u8
 #EXTINF:-1, L`Equipe 🇫🇷
 http://157.143.44.195/play/a0fw
 
+#EXTINF:-1, VEN 🇻🇪
+http://51.222.111.105:25461/ppv/01112026/19
+
 #EXTINF:-1, SCTV 22 - SSPORT 1 🇻🇳
 https://liveh34.vtvprime.vn/hls/SCTV22/03.m3u8
 
