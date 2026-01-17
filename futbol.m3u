@@ -1,17 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, SUPERCOPA 🇦🇪
-https://3.3lok3.site/hls/aloka1/stream.m3u8
-
-#EXTINF:-1, SUPERCOPA 🇦🇪
-https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/EO-X390-LyaHKU09u0f1OzvLIvrkWFwB23WYMae5USUpgg_gxt_qmHmm_5p0JogCAS2uVLIrWrHNsDfpgULsnQ/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1, TNT SPORT 4 🇬🇧
-https://storage.googleapis.com/mnbvvxasdqqd/mux_video_ts/index-1.m3u8
-
-#EXTINF:-1, Super Sport 2 🇦🇱
-http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
-
 #EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
 http://188.191.160.238:7780/udp/239.195.3.17:1234
 
@@ -20,9 +8,6 @@ http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 
 #EXTINF:-1, ESPN DEPORTES 🇺🇸
 http://sg2fku6e.megogo.xyz/iptv/S3TMS94R9UMTNF/19166/index.m3u8
-
-#EXTINF:-1, Win Sports + 🇨🇴
-http://live.btv.mx:2424/stream/280080/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://148.113.207.98:8000/play/a004/index.m3u8
@@ -1368,6 +1353,9 @@ http://205.235.6.29:8000/play/a0ve/index.m3u8
 #EXTINF:-1, WIN SPORT 🇨🇴
 http://190.0.247.38:8000/play/a06a
 
+#EXTINF:-1, Win Sports + 🇨🇴
+http://live.btv.mx:2424/stream/280080/smAVz_uhytj5REM-4pYNZbkrcB2
+
 #EXTINF:-1, WIN SPORT 🇨🇴
 http://190.0.247.38:8000/play/a068
 
@@ -1724,6 +1712,9 @@ https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1109
 
 #EXTINF:-1, Telewebion Sport 3 🇸🇦
 https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1103.telewebion.com/ek/sport3/live/1080p/index.m3u8
+
+#EXTINF:-1, Arab Channel 🇦🇪
+https://3.3lok3.site/hls/aloka1/stream.m3u8
 
 #EXTINF:-1, MASR 🇶🇦
 https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_46.m3u8
