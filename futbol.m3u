@@ -12,6 +12,9 @@ http://sg2fku6e.megogo.xyz/iptv/S3TMS94R9UMTNF/19166/index.m3u8
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 
+#EXTINF:-1, bein_sd_2 🇶🇦
+http://135.125.109.73:9000/beinsport2_.m3u8
+
 #EXTINF:-1, SCTV 22 - SSPORT 1 🇻🇳
 https://liveh34.vtvprime.vn/hls/SCTV22/03.m3u8
 
