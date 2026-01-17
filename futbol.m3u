@@ -15,15 +15,6 @@ http://148.113.207.98:8000/play/a004/index.m3u8
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 
-#EXTINF:-1, L`Equipe 🇫🇷
-http://157.143.44.195/play/a0fw
-
-#EXTINF:-1, L`Equipe 🇫🇷
-https://jmp2.uk/stvp-FR200016Y5
-
-#EXTINF:-1, Flow Sport 🇦🇷
-http://200.80.230.123:8000/play/a0bf/index.m3u8
-
 #EXTINF:-1, Sportdigital 🇩🇪
 https://jmp2.uk/stvp-ATAJ0500433A
 
@@ -1619,6 +1610,12 @@ https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ad
 
 #EXTINF:-1, TR Sport (480p) 🇮🇹
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
+
+#EXTINF:-1, L`Equipe 🇫🇷
+http://157.143.44.195/play/a0fw
+
+#EXTINF:-1, L`Equipe 🇫🇷
+https://jmp2.uk/stvp-FR200016Y5
 
 #EXTINF:-1, + FOOT 🇫🇷
 http://145.239.5.177:80/556/index.m3u8
