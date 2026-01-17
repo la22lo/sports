@@ -15,18 +15,6 @@ http://148.113.207.98:8000/play/a004/index.m3u8
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 
-#EXTINF:-1, Sportdigital 🇩🇪
-https://jmp2.uk/stvp-ATAJ0500433A
-
-#EXTINF:-1, VEN 🇻🇪
-http://51.222.111.105:25461/ppv/01112026/19
-
-#EXTINF:-1, VENEVISION 🇻🇪
-http://190.97.235.91:8000/play/a00y?b=1
-
-#EXTINF:-1, MERIDIANO 🇻🇪
-http://190.97.235.91:8000/play/a00z?b=1
-
 #EXTINF:-1, SCTV 22 - SSPORT 1 🇻🇳
 https://liveh34.vtvprime.vn/hls/SCTV22/03.m3u8
 
@@ -1100,6 +1088,9 @@ https://broadcasthub.click/hls/fiVIihmSW94P/index.m3u8?st=c3ofcIGWn_tyvfu8fhKqrw
 
 #EXTINF:-1, GP 🇩🇪
 https://s6.hopslan.com/servus1/index.m3u8
+
+#EXTINF:-1, Sportdigital 🇩🇪
+https://jmp2.uk/stvp-ATAJ0500433A
 
 #EXTINF:-1, Bluesport 1 🇨🇭
 http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=1071028&extension=ts&play_token=NdIqdP4qPt
