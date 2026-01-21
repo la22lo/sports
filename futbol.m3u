@@ -3,6 +3,9 @@
 #EXTINF:-1, bein_sd_2 🇶🇦
 http://135.125.109.73:9000/beinsport2_.m3u8
 
+#EXTINF:-1, 101TV 🇸🇦
+https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/LduRUI4ATxT6tcbV6P7jfgNYWVu05LFfrIas4xbe_86fMpJP1mqkox7pzUVVHpnOMGHHXDU_JD_Bk4JVU-wE5A/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type=live
+
 #EXTINF:-1, TUDN 🇲🇽
 https://601.shadow-ran.online/tudn.m3u8
 
