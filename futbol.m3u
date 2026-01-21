@@ -3,26 +3,8 @@
 #EXTINF:-1, bein_sd_2 🇶🇦
 http://135.125.109.73:9000/beinsport2_.m3u8
 
-#EXTINF:-1, 101TV 🇬🇧
-https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/TJVoSCGY8oAJV2fmf5GZpw3dmMvyoRG3q4AiZlhQZ6KWefjXtbhWGKat2tGVbAkNFn1VzbO0QcJ03ham7H_BiQ/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type=live
-
 #EXTINF:-1, TUDN 🇲🇽
 https://601.shadow-ran.online/tudn.m3u8
-
-#EXTINF:-1, SKY SPORT AUSTRIA 4 🇦🇹
-https://s@broadcasthub.click/hls/L7Tc05o1sLD/index.m3u8
-
-#EXTINF:-1, SKY SPORT AUSTRIA 4 🇦🇹
-https://s@broadcasthub.click/hls/L7Tc05o1sLD/index.m3u8
-
-#EXTINF:-1, TNT SPORT 2 🇬🇧
-https://s@broadcasthub.click/hls/0Wm95aOWfZf5/index.m3u8
-
-#EXTINF:-1, LC 🇬🇧
-https://s@d2viuugibex102.cloudfront.net/status/2/fronts.woff2?7425f3
-
-#EXTINF:-1, TNT SPORT 2 🇬🇧
-https://storage.googleapis.com/overtirongpick2/mux_video_ts1/index-1.m3u8
 
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://77.46.130.252:99/maxsport4
