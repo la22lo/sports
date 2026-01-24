@@ -1,17 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, bein_sd_2 🇶🇦
-http://135.125.109.73:9000/beinsport2_.m3u8
-
-#EXTINF:-1, 101TV 🇸🇦
-https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/LduRUI4ATxT6tcbV6P7jfgNYWVu05LFfrIas4xbe_86fMpJP1mqkox7pzUVVHpnOMGHHXDU_JD_Bk4JVU-wE5A/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1, TUDN 🇲🇽
-https://601.shadow-ran.online/tudn.m3u8
-
-#EXTINF:-1, MAX SPORT 4 🇧🇬
-http://77.46.130.252:99/maxsport4
-
 #EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
 http://188.191.160.238:7780/udp/239.195.3.17:1234
 
@@ -35,6 +23,9 @@ https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, IDMANTV 🇹🇷
 https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8?token=7b2231548857bf0a078bb6387e8830040aa18cee-1ee342667d60c2ac2e8f0c594cf33331-1753218237000000-1753207437000
+
+#EXTINF:-1, MAX SPORT 4 🇧🇬
+http://77.46.130.252:99/maxsport4
 
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://104.243.40.13:8989/279426_.m3u8
