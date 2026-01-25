@@ -1728,6 +1728,9 @@ http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:-1, Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 
+#EXTINF:-1, Sport5 🇮🇱
+https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8
+
 #EXTINF:-1,Nova Sport 4 🇨🇿
 http://185.188.188.237:5000/live/novasport4/playlist.m3u8
 
