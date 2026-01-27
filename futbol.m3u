@@ -12,6 +12,9 @@ http://84.54.128.52:9090/play/1004/index.m3u8
 #EXTINF:-1, Qazaqstan Sport SD 🇰🇿
 https://stream.qaztv.kz/live/stream9/index.m3u8
 
+#EXTINF:-1, Art Sport 2 HD 🇽🇰
+http://169.150.223.25/ArtSport2/index.m3u8
+
 #EXTINF:-1, Liga de Campeones HD 🇪🇸
 http://live.btv.mx:2424/stream/278845/smAVz_uhytj5REM-4pYNZbkrcB2
 
