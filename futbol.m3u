@@ -22,6 +22,9 @@ http://188.191.160.238:7780/udp/239.195.3.17:1234
 http://91.207.115.228:5000/c115
 
 #EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
+http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS8yNy8yMDI2IDc6MDk6NTUgUE0maGFzaF92YWx1ZT1rUHo4WUhWVGdXZXc5WWh3L0dUckNnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+
+#EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
 http://193.25.8.59:8000/fut2
 
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
