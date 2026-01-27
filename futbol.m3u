@@ -3,6 +3,12 @@
 #EXTINF:-1, bein_sd_4 🇶🇦
 http://135.125.109.73:9000/beinsport4_.m3u8
 
+#EXTINF:-1, bTV Action HD 🇧🇬
+http://84.54.128.52:9090/play/13004/index.m3u8
+
+#EXTINF:-1, bTV Action 🇧🇬
+http://84.54.128.52:9090/play/1004/index.m3u8
+
 #EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
 http://188.191.160.238:7780/udp/239.195.3.17:1234
 
