@@ -21,6 +21,9 @@ http://188.191.160.238:7780/udp/239.195.3.17:1234
 #EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
 http://91.207.115.228:5000/c115
 
+#EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
+http://193.25.8.59:8000/fut2
+
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 
