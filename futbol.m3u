@@ -18,6 +18,9 @@ http://live.btv.mx:2424/stream/278845/smAVz_uhytj5REM-4pYNZbkrcB2
 #EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
 http://188.191.160.238:7780/udp/239.195.3.17:1234
 
+#EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
+http://91.207.115.228:5000/c115
+
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 
