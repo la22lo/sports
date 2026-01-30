@@ -1192,19 +1192,22 @@ https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 http://212.186.45.34:9981/stream/channelid/906723447?profile=pass
 
 #EXTINF:-1, 5 SPORT 🇮🇱
-http://38gb.pro/live/1100788991/14811/198905.m3u8
+http://185.132.134.159:80/sport1/index.m3u8
+
+#EXTINF:-1, 2 SPORT 🇮🇱
+http://185.132.134.159:80/sport2/index.m3u8
+
+#EXTINF:-1, 3 SPORT 🇮🇱
+http://185.132.134.159:80/sport3/index.m3u8
+
+#EXTINF:-1, 4 SPORT 🇮🇱
+http://185.132.134.159:80/sport4/index.m3u8
 
 #EXTINF:-1, 5 SPORT 🇮🇱
-http://38gb.pro/live/1100788991/14811/198907.m3u8
+http://185.132.134.159:80/sport5/index.m3u8
 
-#EXTINF:-1, 5 SPORT 🇮🇱
-http://38gb.pro/live/1100788991/14811/198909.m3u8
-
-#EXTINF:-1, 5 SPORT + 🇮🇱
-http://38gb.pro/live/1100788991/14811/198908.m3u8
-
-#EXTINF:-1, 5 SPORT GOLD 🇮🇱
-http://38gb.pro/live/1100788991/14811/198910.m3u8
+#EXTINF:-1, 6 SPORT 🇮🇱
+http://185.132.134.159:80/sport6/index.m3u8
 
 #EXTINF:-1, DAZN PRO LEAGUE 1 🇧🇪
 http://185.236.230.212:9982/play/a09q
