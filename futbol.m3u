@@ -1,26 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, bein_sd_4 🇶🇦
-http://135.125.109.73:9000/beinsport4_.m3u8
-
-#EXTINF:-1, bTV Action HD 🇧🇬
-http://84.54.128.52:9090/play/13004/index.m3u8
-
-#EXTINF:-1, bTV Action 🇧🇬
-http://84.54.128.52:9090/play/1004/index.m3u8
-
-#EXTINF:-1, Qazaqstan Sport SD 🇰🇿
-https://stream.qaztv.kz/live/stream9/index.m3u8
-
-#EXTINF:-1, Art Sport 2 HD 🇽🇰
-http://169.150.223.25/ArtSport2/index.m3u8
-
-#EXTINF:-1, Liga de Campeones HD 🇪🇸
-http://live.btv.mx:2424/stream/278845/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1, bein sd 4 🇶🇦
-https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/6923.m3u8
-
 #EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
 http://188.191.160.238:7780/udp/239.195.3.17:1234
 
@@ -849,6 +828,9 @@ http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
 #EXTINF:-1, Super Sport 2 🇦🇱
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
 
+#EXTINF:-1, Art Sport 2 HD 🇽🇰
+http://169.150.223.25/ArtSport2/index.m3u8
+
 #EXTINF:-1, NOVA SPORT 1 HD 🇨🇿
 http://38gb.pro/live/1100788991/14811/198930.m3u8
 
@@ -1061,6 +1043,12 @@ http://213.169.39.30:5136
 
 #EXTINF:-1, Diema Sport 3 🇧🇬
 http://213.169.39.30:5216
+
+#EXTINF:-1, bTV Action HD 🇧🇬
+http://84.54.128.52:9090/play/13004/index.m3u8
+
+#EXTINF:-1, bTV Action 🇧🇬
+http://84.54.128.52:9090/play/1004/index.m3u8
 
 #EXTINF:-1, PRIMA SPORT 3 🇷🇴
 http://cors.tundracast.com:2000/http://176.97.112.25:8880/primasport3/index.m3u8
