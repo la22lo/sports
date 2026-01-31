@@ -15,6 +15,9 @@ http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 #EXTINF:-1, SKY SPORT LALIGA 🇲🇽
 http://179.60.224.196:8000/play/a0i7/index.m3u8
 
+#EXTINF:-1, SKY SPORT LALIGA 🇲🇽
+http://167.250.223.26:8085/play/a00d/index.m3u8
+
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 https://marcosdos@daffodil.xn--1000-ugoa0hsb9a0hb.com/dep.m3u8
 
@@ -608,6 +611,9 @@ http://live.btv.mx:2424/stream/280080/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1, WIN SPORT 🇨🇴
 http://190.0.247.38:8000/play/a068
+
+#EXTINF:-1, WIN SPORT 🇨🇴
+http://181.205.205.173:8888/play/a0h0/index.m3u8
 
 #EXTINF:-1,TELEMUNDO 🇲🇽
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
