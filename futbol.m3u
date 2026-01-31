@@ -12,6 +12,9 @@ https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/espn-deportes/mo
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 
+#EXTINF:-1, SKY SPORT LALIGA 🇲🇽
+http://179.60.224.196:8000/play/a0i7/index.m3u8
+
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 https://s@hls.theblacks.site/hls/788614e5-277c-44f3-b924-4f0834c987a0/index.m3u8
 
@@ -20,6 +23,9 @@ https://daffodil.exylcraft.us/dep.m3u8
 
 #EXTINF:-1,S LIGA 🇿🇦
 https://s@broadcasthub.click/hls/3Azr5ovcJUE2/index.m3u8
+
+#EXTINF:-1, LIG 🇪🇸
+http://200.115.120.1:8000/play/ca124/index.m3u8
 
 #EXTINF:-1, BATIFA SPORT 🇶🇦
 https://6476e46b58f91.streamlock.net/liveTrans/batifa/chunklist_w632227207.m3u8
