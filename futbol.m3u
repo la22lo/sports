@@ -99,59 +99,8 @@ http://cdntv.online/low/9mlxywika2/48.m3u8
 #EXTINF:-1, Матч! 🇷🇺
 http://95.47.156.60:8000/play/3/index.m3u8
 
-#EXTINF:-1, Матч! 🇷🇺
-http://46.8.46.14/match/index.m3u8
-
-#EXTINF:-1, DAZN La Liga 🇪🇸
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=147097&extension=ts
-
-#EXTINF:-1, DAZN La Liga 🇪🇸
-https://tiger-hub.vercel.app/DAZN-LaLiga/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, M La Liga 🇪🇸
-http://38gb.pro/live/1100788991/14811/197974.m3u8
-
-#EXTINF:-1, M La Liga 🇪🇸
-http://38gb.pro/live/1100788991/14811/197980.m3u8
-
-#EXTINF:-1, M La Liga 🇪🇸
-http://172.93.102.112:8989/278844_.m3u8
-
-#EXTINF:-1, M La Liga 🇪🇸
-https://tiger-hub.vercel.app/LaLiga_TV/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, HYP 🇪🇸
-http://38gb.pro/live/1100788991/14811/197970.m3u8
-
-#EXTINF:-1, HYP 🇪🇸
-http://38gb.pro/live/1100788991/14811/197973.m3u8
-
-#EXTINF:-1, HYP 🇪🇸
-http://172.93.102.112:8989/278842_.m3u8
-
-#EXTINF:-1, M HYP 🇪🇸
-https://s@broadcasthub.click/hls/CJ9AwYimdyUo/index.m3u8
-
-#EXTINF:-1, DSPORTS 1 🇦🇷
-http://172.93.102.112:8989/279390_.m3u8
-
-#EXTINF:-1, DSPORTS 1 🇦🇷
-http://38.183.182.166:8000/play/a125/index.m3u8
-
 #EXTINF:-1, DSPORTS 1 🇦🇷
 http://201.230.121.85:8000/play/a0yv/index.m3u8
-
-#EXTINF:-1, DSPORTS 1 🇦🇷
-http://205.235.6.29:8000/play/a0vh
-
-#EXTINF:-1, DSPORTS 2 🇦🇷
-http://181.78.106.127:9000/play/ca026/index.m3u8
-
-#EXTINF:-1, DSports Plus 🇦🇷
-http://blast.lat:8080/live/cmy.fredyayala/Q3GVgyJaBGEG/249532.ts
-
-#EXTINF:-1, SKY SPORT LA LIGA 🇲🇽
-http://181.78.106.127:9000/play/ca030/index.m3u8
 
 #EXTINF:-1, ESPN 2 🇦🇷
 http://181.205.130.194:4000/play/a07i
@@ -174,35 +123,11 @@ http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2534/index.m3u8
 #EXTINF:-1, Dazn 5 🇵🇹
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2535/index.m3u8
 
-#EXTINF:-1, beIN4k 🇶🇦
-https://7pal.short.gp/bein-uhd
-
-#EXTINF:-1, BEIN 1 🇫🇷
-http://145.239.5.177/557/mpegts
-
-#EXTINF:-1, BEIN 1 🇫🇷
-http://5.9.119.146:8883/beinfr1/index.m3u8
-
-#EXTINF:-1, BEIN 2 🇫🇷
-http://145.239.5.177/558/mpegts
-
-#EXTINF:-1, BEIN 2 🇫🇷
-http://5.9.119.146:8883/beinfr2/index.m3u8
-
 #EXTINF:-1, BEIN 3 🇫🇷
 http://145.239.5.177/559/mpegts
 
-#EXTINF:-1, BEIN 3 🇫🇷
-http://5.9.119.146:8883/sf1_bein_hd3_fr/index.m3u8
-
 #EXTINF:-1, Bein Sport 1 🇫🇷
 http://99.27.51.147:8080/BeinSport/index.m3u8
-
-#EXTINF:-1, Bein Sport 1 🇫🇷
-http://145.239.5.177:80/557/index.m3u8
-
-#EXTINF:-1, Bein Sport 2 🇫🇷
-http://145.239.5.177:80/558/index.m3u8
 
 #EXTINF:-1, Bein Sport 3 🇫🇷
 http://99.27.51.147:8080/BeinSport3/index.m3u8
@@ -210,47 +135,11 @@ http://99.27.51.147:8080/BeinSport3/index.m3u8
 #EXTINF:-1, Bein Sport 3 🇫🇷
 http://145.239.5.177:80/559/index.m3u8
 
-#EXTINF:-1, Bein FR 1 🇫🇷
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/156415
-
-#EXTINF:-1, Bein FR 2 🇫🇷
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33517
-
-#EXTINF:-1, Bein FR 3 🇫🇷
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33518
-
-#EXTINF:-1, Bein MAX 4 🇫🇷
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33519
-
-#EXTINF:-1, Bein MAX 5 🇫🇷
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33520
-
-#EXTINF:-1, Bein MAX 6 🇫🇷
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/85338
-
-#EXTINF:-1, Bein MAX 7 🇫🇷
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33235
-
-#EXTINF:-1, Bein MAX 8 🇫🇷
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33523
-
-#EXTINF:-1,RMC Sport 1 🇫🇷
-http://5.9.119.146:8883/rmc1/index.m3u8
-
-#EXTINF:-1,RMC Sport 1 🇫🇷
-http://178.33.239.54:8080/524/index.m3u8
-
-#EXTINF:-1,Canal+ Sport 🇫🇷
-http://178.33.239.54:8080/541/index.m3u8
-
 #EXTINF:-1, CANAL + Sport 🇫🇷
 http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
 
 #EXTINF:-1,Canal+ Sport 360 🇫🇷
 http://178.33.239.54:8080/700/index.m3u8
-
-#EXTINF:-1,L'Équipe 🇫🇷
-https://tvradiozap.eu/tools/dm-m3u8.php/x2lefik.m3u8
 
 #EXTINF:-1,4Sports 🇸🇦
 https://hls.pokertvfa.live/hls/stream.m3u8
