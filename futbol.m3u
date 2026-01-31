@@ -270,8 +270,35 @@ http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
 #EXTINF:-1, Super Sport 1 🇦🇱
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
 
+#EXTINF:-1, Super Sport 1 🇦🇱
+http://195.181.169.152:8080/Super_Sport_1_HD_AL/video.m3u8?token=test
+
 #EXTINF:-1, Super Sport 2 🇦🇱
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
+
+#EXTINF:-1, Super Sport 2 🇦🇱
+http://195.181.169.152:8080/Super_Sport_2_HD_AL/video.m3u8?token=test
+
+#EXTINF:-1, Super Sport 2 🇦🇱
+http://79.127.207.193/Supersport2/playlist.m3u8
+
+#EXTINF:-1, Super Sport 3 🇦🇱
+http://79.127.207.193/Supersport3/playlist.m3u8
+
+#EXTINF:-1, Super Sport 3 🇦🇱
+http://195.181.169.152:8080/Super_Sport_3_HD_AL/video.m3u8?token=test
+
+#EXTINF:-1, Super Sport 4 🇦🇱
+http://195.181.169.152:8080/Super_Sport_4_HD_AL/video.m3u8?token=test
+
+#EXTINF:-1, Super Sport 4 🇦🇱
+http://79.127.207.193/Supersport4/playlist.m3u8
+
+#EXTINF:-1, Super Sport 5 🇦🇱
+http://79.127.207.193/Supersport5/playlist.m3u8
+
+#EXTINF:-1, Super Sport 6 🇦🇱
+http://79.127.207.193/Supersport6/playlist.m3u8
 
 #EXTINF:-1, Art Sport 2 HD 🇽🇰
 http://169.150.223.25/ArtSport2/index.m3u8
@@ -335,6 +362,12 @@ http://84.54.128.52:9090/play/13004/index.m3u8
 
 #EXTINF:-1, bTV Action 🇧🇬
 http://84.54.128.52:9090/play/1004/index.m3u8
+
+#EXTINF:-1,RING 🇧🇬
+http://84.54.128.52:9090/play/4001/index.m3u8
+
+#EXTINF:-1, BNT 3 HD SPORT 🇧🇬
+http://84.54.128.52:9090/play/13001/index.m3u8
 
 #EXTINF:-1, M4 Sport 🇭🇺
 http://46.149.191.217:9010/play/a017
