@@ -240,6 +240,45 @@ http://94.43.1.138:8081/setanta2/index.m3u8
 #EXTINF:-1, Беларусь 5 🇧🇾
 http://cdntv.online/low/9mlxywika2/778.m3u8
 
+#EXTINF:-1, Arena Premium 1 HD 🇷🇸
+http://169.150.223.25/ArenaPremium1HD/index.m3u8
+
+#EXTINF:-1, Arena Premium 2 HD 🇷🇸
+http://169.150.223.25/ArenaPremium2HD/index.m3u8
+
+#EXTINF:-1, Arena Premium 3 HD 🇷🇸
+http://169.150.223.25/ArenaPremium3HD/index.m3u8
+
+#EXTINF:-1, Arena Sport 1 HD 🇷🇸
+http://169.150.223.25/ArenaSport1HD/index.m3u8
+
+#EXTINF:-1, Arena Sport 2 HD 🇷🇸
+http://169.150.223.25/ArenaSport2HD/index.m3u8
+
+#EXTINF:-1, Arena Sport 3 HD 🇷🇸
+http://169.150.223.25/ArenaSport3HD/index.m3u8
+
+#EXTINF:-1, Arena Sport 4 HD 🇷🇸
+http://169.150.223.25/ArenaSport4HD/index.m3u8
+
+#EXTINF:-1, Arena Sport 5 HD 🇷🇸
+http://169.150.223.25/ArenaSport5HD/index.m3u8
+
+#EXTINF:-1, Arena Sport 6 HD 🇷🇸
+http://169.150.223.25/ArenaSport6HD/index.m3u8
+
+#EXTINF:-1, Arena Sport 7 HD 🇷🇸
+http://169.150.223.25/ArenaSport7HD/index.m3u8
+
+#EXTINF:-1, Arena Sport 8 HD 🇷🇸
+http://169.150.223.25/ArenaSport8HD/index.m3u8
+
+#EXTINF:-1, Arena Sport 9 HD 🇷🇸
+http://169.150.223.25/ArenaSporto9HD/index.m3u8
+
+#EXTINF:-1, Arena Sport 10 HD 🇷🇸
+http://169.150.223.25/ArenaSport10HD/index.m3u8
+
 #EXTINF:-1,Arena_Sport_1 HD 🇷🇸
 http://78.108.251.7/Arena_Sport_1/index.m3u8
 
