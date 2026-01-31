@@ -339,8 +339,50 @@ http://79.127.207.193/Supersport5/playlist.m3u8
 #EXTINF:-1, Super Sport 6 🇦🇱
 http://79.127.207.193/Supersport6/playlist.m3u8
 
+#EXTINF:-1, Super Sport 1 🇦🇱
+http://169.150.223.25/Supersport1/index.m3u8
+
+#EXTINF:-1, Super Sport 2 🇦🇱
+http://169.150.223.25/Supersport2/index.m3u8
+
+#EXTINF:-1, Super Sport 3 🇦🇱
+http://169.150.223.25/Supersport3/index.m3u8
+
+#EXTINF:-1, Super Sport 4 🇦🇱
+http://169.150.223.25/Supersport4/index.m3u8
+
+#EXTINF:-1, Super Sport 5 🇦🇱
+http://169.150.223.25/Supersport5/index.m3u8
+
+#EXTINF:-1, Super Sport 6 🇦🇱
+http://169.150.223.25/Supersport6/index.m3u8
+
+#EXTINF:-1, Super Sport 7 🇦🇱
+http://169.150.223.25/Supersport7/index.m3u8
+
+#EXTINF:-1, Tring Sport 1 🇦🇱
+http://169.150.223.25/TringSport1HD/index.m3u8
+
+#EXTINF:-1, Tring Sport 2 🇦🇱
+http://169.150.223.25/TringSport2HD/index.m3u8
+
+#EXTINF:-1, Art Sport 1 HD 🇽🇰
+http://169.150.223.25/ArtSport1HD/index.m3u8
+
 #EXTINF:-1, Art Sport 2 HD 🇽🇰
 http://169.150.223.25/ArtSport2/index.m3u8
+
+#EXTINF:-1, Art Sport 3 HD 🇽🇰
+http://169.150.223.25/ArtSport3/index.m3u8
+
+#EXTINF:-1, Art Sport 4 HD 🇽🇰
+http://169.150.223.25/ArtSport4/index.m3u8
+
+#EXTINF:-1, Art Sport 5 HD 🇽🇰
+http://169.150.223.25/ArtSport5/index.m3u8
+
+#EXTINF:-1, Art Sport 6 HD 🇽🇰
+http://169.150.223.25/ArtSport6/index.m3u8
 
 #EXTINF:-1, NOVA SPORT 1 HD 🇨🇿
 http://178.23.88.55/Nova_Sport/index.m3u8
