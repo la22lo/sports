@@ -9,11 +9,17 @@ http://193.25.8.59:8000/fut2
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 
+#EXTINF:-1,ESPN DEPORTES 🇺🇸
+http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
+
 #EXTINF:-1, BATIFA SPORT 🇶🇦
 https://6476e46b58f91.streamlock.net/liveTrans/batifa/chunklist_w632227207.m3u8
 
 #EXTINF:-1, SCTV 22 - SSPORT 1 🇻🇳
 https://liveh34.vtvprime.vn/hls/SCTV22/03.m3u8
+
+#EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
+http://cdntv.online/low/9mlxywika2/56.m3u8
 
 #EXTINF:-1, TDM Desporto 🇲🇴
 http://cdn6.163189.xyz/163189/amty
@@ -27,20 +33,14 @@ https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8?token=7b223154
 #EXTINF:-1, MAX SPORT 4 🇧🇬
 http://77.46.130.252:99/maxsport4
 
-#EXTINF:-1,ESPN DEPORTES 🇺🇸
-http://104.243.40.13:8989/279426_.m3u8
+#EXTINF:-1, SKY SPORT LALIGA 🇲🇽
+http://190.92.10.66:4000/play/a001/index.m3u8
 
-#EXTINF:-1,ESPN DEPORTES 🇺🇸
-http://131.161.83.249:8031/play/a07f
+#EXTINF:-1, SKY SPORT LALIGA 🇲🇽
+http://190.14.10.19:16000/play/a09u/index.m3u8
 
-#EXTINF:-1,ESPN DEPORTES 🇺🇸
-http://46.151.196.243:80/play/ZcGYC1mvTUxgtBD7K_MCNgjV2TY8doY3wUWCWHEdAbA
-
-#EXTINF:-1,ESPN DEPORTES 🇺🇸
-https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
-
-#EXTINF:-1,LM 🇪🇸
-https://broadcasthub.click/hls/4eLyr2RZq7v/index.m3u8
+#EXTINF:-1, SKY SPORT LALIGA 🇲🇽
+http://181.78.109.48:9998/play/a06r/index.m3u8
 
 #EXTINF:-1,  bein_sd_1 🇶🇦
 http://135.125.109.73:9000/beinsport1_.m3u8
@@ -69,110 +69,17 @@ http://135.125.109.73:9000/beinsport8_.m3u8
 #EXTINF:-1, bein_sd_9 🇶🇦
 http://135.125.109.73:9000/beinsport9_.m3u8
 
-#EXTINF:-1, BEIN SPORT 2 🇶🇦
-http://lspapp.site/BEIN-SPORT2/video.m3u8
-
-#EXTINF:-1, BEIN SPORT 3 🇶🇦
-http://lspapp.site/BEIN-SPORT3/video.m3u8
-
-#EXTINF:-1, BATIFA SPORT 🇶🇦
-https://6476e46b58f91.streamlock.net/liveTrans/batifa/chunklist_w632227207.m3u8
-
-#EXTINF:-1, Spiler2 TV 🇭🇺
-http://46.149.191.217:9021/play/a029
-
-#EXTINF:-1, Spiler2 TV 🇭🇺
-http://46.149.191.217:9021/play/a02d
-
 #EXTINF:-1,  Varzesh TV 🇸🇦
 https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
-
-#EXTINF:-1,  Varzesh TV 🇸🇦
-https://balance.footballii.ir/hls2/varzeshtv.m3u8
-
-#EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
-http://cdntv.online/low/9mlxywika2/56.m3u8
 
 #EXTINF:-1, 4Football 🇸🇪
 http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294054&extension=ts&play_token=dKKpb8gzTG
 
-#EXTINF:-1, beIN SPORTS 2 🇶🇦
-https://ab.footballii.ir/hls2/bein2_src.m3u8
-
-#EXTINF:-1, beIN SPORTS 2 🇶🇦
-https://ab.footballii.ir/hls2/bein2_low.m3u8 
-
-#EXTINF:-1, beIN SPORTS 2 🇶🇦
-https://balance.footballii.ir/hls2/bein2.m3u8
-
-#EXTINF:-1,BeIN Sport 1 HD 🇶🇦
-http://s.only4.tv/5588/index.m3u8?token=jZqqvnnqCs
-
-#EXTINF:-1,BeIN Sport 6 HD 🇶🇦
-http://s.only4.tv/5593/index.m3u8?token=jZqqvnnqCs
-
-#EXTINF:-1,Bein Sports 7 HD 🇶🇦
-http://s.only4.tv/9015/index.m3u8?token=jZqqvnnqCs
-
-#EXTINF:-1, SKY SPORT LALIGA 🇲🇽
-http://190.92.10.66:4000/play/a001/index.m3u8
-
-#EXTINF:-1, SKY SPORT LALIGA 🇲🇽
-http://190.14.10.19:16000/play/a09u/index.m3u8
-
-#EXTINF:-1, SKY SPORT LALIGA 🇲🇽
-http://181.78.109.48:9998/play/a06r/index.m3u8
-
-#EXTINF:-1, SKY SPORT LALIGA 🇲🇽
-http://tv.zapping.life:8080/abelardo2020/ES4G1y3eXX/9599
-
-#EXTINF:-1, BEIN 1 🇫🇷
-http://5.9.119.146:8883/beinfr1/index.m3u8
-
-#EXTINF:-1, BEIN 1 🇫🇷
-http://145.239.5.177/557/mpegts
-
-#EXTINF:-1, Bein FR 1 🇫🇷
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/156415
-
-#EXTINF:-1, BEIN 1 🇫🇷
-http://178.33.239.54:8080/512/index.m3u8
-
-#EXTINF:-1, BEIN 2 🇫🇷
-http://178.33.239.54:8080/513/index.m3u8
-
-#EXTINF:-1, MAX SPORT 4 🇧🇬
-http://85.11.144.6:6060/play/a012/index.m3u8
-
-#EXTINF:-1, MAX SPORT 4 🇧🇬
-http://213.169.39.30:5130
-
-#EXTINF:-1, MAX SPORT 4 🇧🇬
-http://77.46.130.252:99/maxsport4
-
 #EXTINF:-1, Digi Sport 2 🇷🇴
 http://91.201.172.14:35006/
 
-#EXTINF:-1, S Sport 1 🇹🇷
-https://dga1op10s1u3lep.617cc29522c890.click/live/selcukssport/playlist.m3u8
-
-#EXTINF:-1, S Sport 2 🇹🇷
-http://65.108.239.207/ss2/index.m3u8
-
 #EXTINF:-1, Беларусь 5 🇧🇾
 http://cdntv.online/low/9mlxywika2/778.m3u8
-
-#EXTINF:-1,ESPN DEPORTES 🇺🇸
-http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
-
-#EXTINF:-1, beIN SPORTS 1 🇶🇦
-https://ab.footballii.ir/hls2/bein1_src.m3u8
-
-#EXTINF:-1, beIN SPORTS 1 🇶🇦
-https://ab.footballii.ir/hls2/bein1_low.m3u8
-
-#EXTINF:-1, beIN SPORTS 1 🇶🇦
-https://balance.footballii.ir/hls2/bein1.m3u8
 
 #EXTINF:-1, beIN SPORTS 1 🇶🇦
 http://135.125.109.73:9000/beinsport1_.m3u8
