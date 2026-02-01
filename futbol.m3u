@@ -378,8 +378,20 @@ http://169.150.223.25/Supersport7/index.m3u8
 #EXTINF:-1, Tring Sport 1 🇦🇱
 http://169.150.223.25/TringSport1HD/index.m3u8
 
+#EXTINF:-1, Tring Sport 1 🇦🇱
+http://79.127.207.193:80/TringSport1HD/playlist.m3u8
+
 #EXTINF:-1, Tring Sport 2 🇦🇱
 http://169.150.223.25/TringSport2HD/index.m3u8
+
+#EXTINF:-1, Tring Sport 2 🇦🇱
+http://79.127.207.193:80/TringSport2HD/playlist.m3u8
+
+#EXTINF:-1, Tring Sport 3 🇦🇱
+http://195.181.169.152:8080/Tring_Sport_3_HD_AL/video.m3u8?token=test
+
+#EXTINF:-1, Tring Sport 4 🇦🇱
+http://195.181.169.152:8080/Tring_Sport_4_HD_AL/video.m3u8?token=test
 
 #EXTINF:-1, Art Sport 1 HD 🇽🇰
 http://169.150.223.25/ArtSport1HD/index.m3u8
