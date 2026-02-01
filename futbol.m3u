@@ -267,32 +267,62 @@ http://169.150.223.25/ArenaPremium3HD/index.m3u8
 #EXTINF:-1, Arena Sport 1 HD 🇷🇸
 http://169.150.223.25/ArenaSport1HD/index.m3u8
 
+#EXTINF:-1, Arena Sport 1 HD 🇷🇸
+http://79.127.207.193:80/ArenaSport1HD/playlist.m3u8
+
 #EXTINF:-1, Arena Sport 2 HD 🇷🇸
 http://169.150.223.25/ArenaSport2HD/index.m3u8
+
+#EXTINF:-1, Arena Sport 2 HD 🇷🇸
+http://79.127.207.193:80/ArenaSport2HD/playlist.m3u8
 
 #EXTINF:-1, Arena Sport 3 HD 🇷🇸
 http://169.150.223.25/ArenaSport3HD/index.m3u8
 
+#EXTINF:-1, Arena Sport 3 HD 🇷🇸
+http://79.127.207.193:80/ArenaSport3HD/playlist.m3u8
+
 #EXTINF:-1, Arena Sport 4 HD 🇷🇸
 http://169.150.223.25/ArenaSport4HD/index.m3u8
+
+#EXTINF:-1, Arena Sport 4 HD 🇷🇸
+http://79.127.207.193:80/ArenaSport4HD/playlist.m3u8
 
 #EXTINF:-1, Arena Sport 5 HD 🇷🇸
 http://169.150.223.25/ArenaSport5HD/index.m3u8
 
+#EXTINF:-1, Arena Sport 5 HD 🇷🇸
+http://79.127.207.193:80/ArenaSport5HD/playlist.m3u8
+
 #EXTINF:-1, Arena Sport 6 HD 🇷🇸
 http://169.150.223.25/ArenaSport6HD/index.m3u8
+
+#EXTINF:-1, Arena Sport 6 HD 🇷🇸
+http://79.127.207.193:80/ArenaSport6HD/playlist.m3u8
 
 #EXTINF:-1, Arena Sport 7 HD 🇷🇸
 http://169.150.223.25/ArenaSport7HD/index.m3u8
 
+#EXTINF:-1, Arena Sport 7 HD 🇷🇸
+http://79.127.207.193:80/ArenaSport7HD/playlist.m3u8
+
 #EXTINF:-1, Arena Sport 8 HD 🇷🇸
 http://169.150.223.25/ArenaSport8HD/index.m3u8
+
+#EXTINF:-1, Arena Sport 8 HD 🇷🇸
+http://79.127.207.193:80/ArenaSport8HD/playlist.m3u8
 
 #EXTINF:-1, Arena Sport 9 HD 🇷🇸
 http://169.150.223.25/ArenaSporto9HD/index.m3u8
 
+#EXTINF:-1, Arena Sport 9 HD 🇷🇸
+http://79.127.207.193:80/ArenaSport9HD/playlist.m3u8
+
 #EXTINF:-1, Arena Sport 10 HD 🇷🇸
 http://169.150.223.25/ArenaSport10HD/index.m3u8
+
+#EXTINF:-1, Arena Sport 10 HD 🇷🇸
+http://79.127.207.193:80/ArenaSport10HD/playlist.m3u8
 
 #EXTINF:-1,Arena_Sport_1 HD 🇷🇸
 http://78.108.251.7/Arena_Sport_1/index.m3u8
