@@ -225,6 +225,9 @@ http://5.188.221.43:8080/play/match
 #EXTINF:-1, Матч! 🇷🇺
 http://cdntv.online/low/9mlxywika2/48.m3u8
 
+#EXTINF:-1, Матч! 🇷🇺
+http://95.47.155.244:8001/play/a003
+
 #EXTINF:-1, МАТЧ! ФУТБOЛ 1HD 🇷🇺
 http://193.25.8.59:8000/fut
 
@@ -444,6 +447,9 @@ http://195.181.169.152:8080/Tring_Sport_3_HD_AL/video.m3u8?token=test
 #EXTINF:-1, Tring Sport 4 🇦🇱
 http://195.181.169.152:8080/Tring_Sport_4_HD_AL/video.m3u8?token=test
 
+#EXTINF:-1, RTSH Sport 🇦🇱
+http://217.73.139.200:5443/play/a01d
+
 #EXTINF:-1, Art Sport 1 HD 🇽🇰
 http://169.150.223.25/ArtSport1HD/index.m3u8
 
@@ -477,6 +483,12 @@ http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 #EXTINF:-1, Sport 1 HD 🇨🇿
 http://178.23.88.55/Sport1/index.m3u8
 
+#EXTINF:-1, Nova Sport 1 🇨🇿
+http://dvr2.kablova.tv/Nova_Sport/mpegts
+
+#EXTINF:-1, Sport 1 🇨🇿
+http://dvr2.kablova.tv/Sport1/index.m3u8
+
 #EXTINF:-1, SPORT 2 HD 🇨🇿
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
 
@@ -506,6 +518,12 @@ http://185.112.249.46:9981/stream/channelid/1597775099?profile=pass
 
 #EXTINF:-1, MAX SPORT 1 🇧🇬
 http://77.46.130.252:99/maxsport1
+
+#EXTINF:-1, JOJ Sport 1 🇸🇰
+http://dvr2.kablova.tv/JOJ_Sport/index.m3u8
+
+#EXTINF:-1, JOJ Sport 2 🇸🇰
+http://dvr3.kablova.tv/JOJ_Sport_2/index.m3u8
 
 #EXTINF:-1, MAX SPORT 2 🇧🇬
 http://77.46.130.252:99/maxsport2
@@ -642,6 +660,9 @@ http://77.137.40.221:8000/play/a001
 #EXTINF:-1, Azteca Deportes 🇲🇽
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6flivestitch/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1, Teleamazonas 🇻🇪
+http://190.242.59.52:8000/play/a05p/index.m3u8
+
 #EXTINF:-1, TELEFE 🇦🇷
 http://200.115.120.1:8000/play/ca016/index.m3u8
 
@@ -704,6 +725,9 @@ https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 
 #EXTINF:-1, CBS Sports Golazo Network 🇺🇸
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e4845f0b-8107-11f0-9a74-4e73f98cfba2
+
+#EXTINF:-1, CBC SPORTS 🇺🇸
+https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
 #EXTINF:-1, AYM SPORT 🇺🇸
 https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
@@ -779,6 +803,9 @@ https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 
 #EXTINF:-1, HTSpor TV 🇹🇷
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+
+#EXTINF:-1, EKOL SPORTS 🇹🇷
+https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
 
 #EXTINF:-1, SoloCalcioᴴᴰ 🇮🇹 
 https://bit.ly/48XfUCc?profile=inspirationFreetv.m3u8
