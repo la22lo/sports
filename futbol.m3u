@@ -87,6 +87,24 @@ http://135.125.109.73:9000/beinsport8_.m3u8
 #EXTINF:-1, bein_sd_9 🇶🇦
 http://135.125.109.73:9000/beinsport9_.m3u8
 
+#EXTINF:-1, BEIN SPORT 1 🇶🇦
+http://77.137.40.221:8000/play/a01e
+
+#EXTINF:-1, BEIN SPORT 2 🇶🇦
+http://77.137.40.221:8000/play/a01g
+
+#EXTINF:-1, BEIN SPORT 3 🇶🇦
+http://77.137.40.221:8000/play/a01h
+
+#EXTINF:-1, BEIN SPORT 4 🇶🇦
+http://77.137.40.221:8000/play/a01i
+
+#EXTINF:-1, BEIN SPORT 5 🇶🇦
+http://77.137.40.221:8000/play/a01j
+
+#EXTINF:-1, BEIN SPORT 6 🇶🇦
+http://77.137.40.221:8000/play/a01k
+
 #EXTINF:-1,  Varzesh TV 🇸🇦
 https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
 
