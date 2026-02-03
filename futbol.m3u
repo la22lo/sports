@@ -834,6 +834,39 @@ https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index
 #EXTINF:-1, MASR 🇶🇦
 https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 
+#EXTINF:-1, beIN SPORTS 🇲🇦
+http://154.197.91.169:8000/play/a0f3/index.m3u8
+
+#EXTINF:-1,  Arryadia HD1 🇲🇦
+http://154.197.91.169:8000/play/a0hu/index.m3u8
+
+#EXTINF:-1,  Arryadia HD2 🇲🇦
+http://154.197.91.169:8000/play/a0hv/index.m3u8
+
+#EXTINF:-1,  Arryadia HD3 🇲🇦
+http://154.197.91.169:8000/play/a0hw/index.m3u8
+
+#EXTINF:-1, Thmanyah 1 🇲🇦
+http://154.197.91.169:8000/play/a0ii/index.m3u8
+
+#EXTINF:-1, Thmanyah 1 🇲🇦
+http://154.197.91.169:8000/play/a0hk/index.m3u8
+
+#EXTINF:-1, Thmanyah 2 🇲🇦
+http://154.197.91.169:8000/play/a0ij/index.m3u8
+
+#EXTINF:-1, Thmanyah 2 🇲🇦
+http://154.197.91.169:8000/play/a0hl/index.m3u8
+
+#EXTINF:-1, Thmanyah 3 🇲🇦
+http://154.197.91.169:8000/play/a0ik/index.m3u8
+
+#EXTINF:-1, Thmanyah 3 🇲🇦
+http://154.197.91.169:8000/play/a0hm/index.m3u8
+
+#EXTINF:-1, YAS Sports HD 🇲🇦
+http://154.197.91.169:8000/play/a0ie/index.m3u8
+
 #EXTINF:-1, Africa 24 Sport 🇳🇬
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 
