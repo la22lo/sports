@@ -612,6 +612,33 @@ http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2558/index.m3u8
 #EXTINF:-1, 6 SPORT 🇮🇱
 http://185.132.134.159:80/sport6/index.m3u8
 
+#EXTINF:-1, 1 SPORT 🇮🇱
+http://77.137.40.221:8000/play/a016
+
+#EXTINF:-1, 2 SPORT 🇮🇱
+http://77.137.40.221:8000/play/a019
+
+#EXTINF:-1, 3 SPORT 🇮🇱
+http://77.137.40.221:8000/play/a01a
+
+#EXTINF:-1, 4 SPORT 🇮🇱
+http://77.137.40.221:8000/play/a01b
+
+#EXTINF:-1, 5 SPORT 🇮🇱
+http://77.137.40.221:8000/play/a01c
+
+#EXTINF:-1, SPORT ONE HD 🇮🇱
+http://77.137.40.221:8000/play/a01d
+
+#EXTINF:-1, SPORT ONE 2 HD 🇮🇱
+http://77.137.40.221:8000/play/a01f
+
+#EXTINF:-1,  SPORT5LIVEHD 🇮🇱
+http://77.137.40.221:8000/play/a00i
+
+#EXTINF:-1, SPORT5PLUSHD 🇮🇱
+http://77.137.40.221:8000/play/a001
+
 #EXTINF:-1, Azteca Deportes 🇲🇽
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6flivestitch/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
