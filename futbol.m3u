@@ -144,6 +144,9 @@ http://201.230.121.85:8000/play/a0yv/index.m3u8
 #EXTINF:-1, DSPORTS 1 🇦🇷
 http://190.117.20.37:8000/play/a08d/index.m3u8
 
+#EXTINF:-1, DSPORTS 1 🇦🇷
+http://190.117.20.39:8000/play/a08d/index.m3u8
+
 #EXTINF:-1, ESPN 🇦🇷
 http://45.173.74.2:2010/play/a08a/index.m3u8
 
