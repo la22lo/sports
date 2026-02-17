@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,Setanta Sport 2 🇬🇪
+http://94.43.1.138:8081/setanta2/index.m3u8
+
 #EXTINF:-1,bein_sd_1 🇶🇦
 http://135.125.109.73:9000/beinsport1_.m3u8
 
