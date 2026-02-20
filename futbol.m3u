@@ -430,6 +430,27 @@ http://23.88.66.93/Eurosport1/index.m3u8
 http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
 
 #EXTINF:-1, Super Sport 1 🇦🇱
+http://79.127.207.193:80/Supersport1/playlist.m3u8
+
+#EXTINF:-1, Super Sport 2 🇦🇱
+http://79.127.207.193:80/Supersport2/playlist.m3u8
+
+#EXTINF:-1, Super Sport 3 🇦🇱
+http://79.127.207.193:80/Supersport3/playlist.m3u8
+
+#EXTINF:-1, Super Sport 4 🇦🇱
+http://79.127.207.193:80/Supersport4/playlist.m3u8
+
+#EXTINF:-1, Super Sport 5 🇦🇱
+http://79.127.207.193:80/Supersport5/playlist.m3u8
+
+#EXTINF:-1, Super Sport 6 🇦🇱
+http://79.127.207.193:80/Supersport6/playlist.m3u8
+
+#EXTINF:-1, Super Sport 7 🇦🇱
+http://79.127.207.193:80/Supersport7/playlist.m3u8
+
+#EXTINF:-1, Super Sport 1 🇦🇱
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
 
 #EXTINF:-1, Super Sport 1 🇦🇱
