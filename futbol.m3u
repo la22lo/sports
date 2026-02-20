@@ -522,6 +522,18 @@ http://195.181.169.152:8080/Tring_Sport_3_HD_AL/video.m3u8?token=test
 #EXTINF:-1, Tring Sport 4 🇦🇱
 http://195.181.169.152:8080/Tring_Sport_4_HD_AL/video.m3u8?token=test
 
+#EXTINF:-1, KSport 1 HD 🇦🇱
+http://79.127.207.193:80/KSport1/playlist.m3u8
+
+#EXTINF:-1, KSport 2 HD 🇦🇱
+http://79.127.207.193:80/KSport2/playlist.m3u8
+
+#EXTINF:-1, KSport 3 HD 🇦🇱
+http://79.127.207.193:80/KSport3/playlist.m3u8
+
+#EXTINF:-1, KSport 4 HD 🇦🇱
+http://79.127.207.193:80/KSport4/playlist.m3u8
+
 #EXTINF:-1, RTSH Sport 🇦🇱
 http://217.73.139.200:5443/play/a01d
 
