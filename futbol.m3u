@@ -333,6 +333,15 @@ http://169.150.223.25/ArenaPremium2HD/index.m3u8
 #EXTINF:-1, Arena Premium 3 HD 🇷🇸
 http://169.150.223.25/ArenaPremium3HD/index.m3u8
 
+#EXTINF:-1, Arena Premium 1 HD 🇷🇸
+http://79.127.207.193:80/ArenaPremium1HD/playlist.m3u8
+
+#EXTINF:-1, Arena Premium 2 HD 🇷🇸
+http://79.127.207.193:80/ArenaPremium2HD/playlist.m3u8
+
+#EXTINF:-1, Arena Premium 3 HD 🇷🇸
+http://79.127.207.193:80/ArenaPremium3HD/playlist.m3u8
+
 #EXTINF:-1, Arena Sport 1 HD 🇷🇸
 http://169.150.223.25/ArenaSport1HD/index.m3u8
 
