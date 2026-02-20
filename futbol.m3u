@@ -543,6 +543,24 @@ http://169.150.223.25/ArtSport5/index.m3u8
 #EXTINF:-1, Art Sport 6 HD 🇽🇰
 http://169.150.223.25/ArtSport6/index.m3u8
 
+#EXTINF:-1, Art Sport 1 HD 🇽🇰
+http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
+
+#EXTINF:-1, Art Sport 2 HD 🇽🇰
+http://79.127.207.193:80/ArtSport2/playlist.m3u8
+
+#EXTINF:-1, Art Sport 3 HD 🇽🇰
+http://79.127.207.193:80/ArtSport3/playlist.m3u8
+
+#EXTINF:-1, Art Sport 4 HD 🇽🇰
+http://79.127.207.193:80/ArtSport4/playlist.m3u8
+
+#EXTINF:-1, Art Sport 5 HD 🇽🇰
+http://79.127.207.193:80/ArtSport5/playlist.m3u8
+
+#EXTINF:-1, Art Sport 6 HD 🇽🇰
+http://79.127.207.193:80/ArtSport6/playlist.m3u8
+
 #EXTINF:-1, NOVA SPORT 1 HD 🇨🇿
 http://178.23.88.55/Nova_Sport/index.m3u8
 
