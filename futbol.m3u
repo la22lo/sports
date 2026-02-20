@@ -1,44 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,Setanta Sport 2 🇬🇪
-http://94.43.1.138:8081/setanta2/index.m3u8
-
-#EXTINF:-1,5 SPORT 🇮🇱
-http://185.132.134.159:80/sport5/index.m3u8
-
-#EXTINF:-1,Arena Premium 1 HD 🇷🇸
-http://169.150.223.25/ArenaPremium1HD/index.m3u8
-
-#EXTINF:-1,bein_sd_1 🇶🇦
-http://135.125.109.73:9000/beinsport1_.m3u8
-
-#EXTINF:-1,bein 1 🇶🇦
-http://135.125.109.73:9000/beinsport1_.m3u8
-
-#EXTINF:-1,Tabi 🇹🇷
-https://paco@spring-block-9b5e.baybayesraerol.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
-
-#EXTINF:-1,ZIGGO SPORT 🇳🇱
-https://paco@fes.feswalki.site/simpch7/tracks-v1a1/mono.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g3IiwiaXAiOiIwLjAuMC4wIiwiZXhwIjoxNzcxMzU5MDkyLCJyYW5kIjoiNGJkZjFkOGJjZjQ2NDQ2YyJ9.8525ce4ed424041605c6c5efc317a5e7c323d5defc064c528279870277edd323
-
-#EXTINF:-1,LIVE5 🇨🇳
-https://Tdo@live5.msrktz.app/live/97312754.m3u8
-
-#EXTINF:-1,CBC Sport 🇺🇸
-https://paco@d37wczqm9lv2qo.cloudfront.net/svg/n2/javascript.json
-
-#EXTINF:-1,CBC Sport 🇺🇸
-https://paco@storage.googleapis.com/buuncaamw/mux_video_ts/index-1.m3u8
-
-#EXTINF:-1,CBC Sport 🇺🇸
-https://storage.googleapis.com/unicovertungdf2/mux_video_ts/index-1.m3u8
-
-#EXTINF:-1,101TV 🇶🇦
-https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/sfWPJYzYW9s87waCoBPT5x7weu3HmCzVELm63N_fW9H_AjvsbnFMRzlYeBtEAalZ5NChafocxFNquiVv89nVdw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1,MAX SPORT 3 🇧🇬
-http://77.46.130.252:99/maxsport3
-
 #EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
 http://188.191.160.238:7780/udp/239.195.3.17:1234
 
@@ -1010,6 +971,44 @@ http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
 
 
+#EXTINF:-1,Setanta Sport 2 🇬🇪
+http://94.43.1.138:8081/setanta2/index.m3u8
+
+#EXTINF:-1,5 SPORT 🇮🇱
+http://185.132.134.159:80/sport5/index.m3u8
+
+#EXTINF:-1,Arena Premium 1 HD 🇷🇸
+http://169.150.223.25/ArenaPremium1HD/index.m3u8
+
+#EXTINF:-1,bein_sd_1 🇶🇦
+http://135.125.109.73:9000/beinsport1_.m3u8
+
+#EXTINF:-1,bein 1 🇶🇦
+http://135.125.109.73:9000/beinsport1_.m3u8
+
+#EXTINF:-1,Tabi 🇹🇷
+https://paco@spring-block-9b5e.baybayesraerol.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
+
+#EXTINF:-1,ZIGGO SPORT 🇳🇱
+https://paco@fes.feswalki.site/simpch7/tracks-v1a1/mono.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g3IiwiaXAiOiIwLjAuMC4wIiwiZXhwIjoxNzcxMzU5MDkyLCJyYW5kIjoiNGJkZjFkOGJjZjQ2NDQ2YyJ9.8525ce4ed424041605c6c5efc317a5e7c323d5defc064c528279870277edd323
+
+#EXTINF:-1,LIVE5 🇨🇳
+https://Tdo@live5.msrktz.app/live/97312754.m3u8
+
+#EXTINF:-1,CBC Sport 🇺🇸
+https://paco@d37wczqm9lv2qo.cloudfront.net/svg/n2/javascript.json
+
+#EXTINF:-1,CBC Sport 🇺🇸
+https://paco@storage.googleapis.com/buuncaamw/mux_video_ts/index-1.m3u8
+
+#EXTINF:-1,CBC Sport 🇺🇸
+https://storage.googleapis.com/unicovertungdf2/mux_video_ts/index-1.m3u8
+
+#EXTINF:-1,101TV 🇶🇦
+https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/sfWPJYzYW9s87waCoBPT5x7weu3HmCzVELm63N_fW9H_AjvsbnFMRzlYeBtEAalZ5NChafocxFNquiVv89nVdw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+
+#EXTINF:-1,MAX SPORT 3 🇧🇬
+http://77.46.130.252:99/maxsport3
 
 #EXTINF:-1, Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
