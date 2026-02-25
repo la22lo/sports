@@ -9,6 +9,9 @@ http://185.132.134.159:80/sport5/index.m3u8
 #EXTINF:-1,5 SPORT 🇮🇱
 http://77.137.40.221:8000/play/a01c
 
+#EXTINF:-1,bein_sd_2 🇶🇦
+https://balance.footballii.ir/hls2/bein2.m3u8
+
 #EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
 http://188.191.160.238:7780/udp/239.195.3.17:1234
 
