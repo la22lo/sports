@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, 5 SPORT 🇮🇱
+http://185.132.134.159:80/sport5/index.m3u8
+
 #EXTINF:-1, bein_sd_2 🇶🇦
 http://135.125.109.73:9000/beinsport2_.m3u8
 
