@@ -6,6 +6,9 @@ http://188.191.160.238:7780/udp/239.195.3.17:1234
 #EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
 http://193.25.8.59:8000/fut2
 
+#EXTINF:-1, S SPORT 🇹🇷
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivess1.m3u8
+
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 
