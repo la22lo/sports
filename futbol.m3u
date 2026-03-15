@@ -897,8 +897,14 @@ https://jmp2.uk/stvp-FR200016Y5
 #EXTINF:-1, INFOSPORT 🇫🇷 
 http://212.102.60.80/Infosport/index.m3u8
 
+#EXTINF:-1, NOW SPORTS 1 🇭🇰
+https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
+
 #EXTINF:-1, NOW SPORTS 2 🇭🇰
 https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
+
+#EXTINF:-1, NOW SPORTS 3 🇭🇰
+https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
 
 #EXTINF:-1, Fox Sports 🇮🇳
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
