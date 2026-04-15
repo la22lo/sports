@@ -9,6 +9,12 @@ http://77.137.40.221:8000/play/a01c
 #EXTINF:-1, BEIN SPORT 1 🇶🇦
 http://77.137.40.221:8000/play/a01e
 
+#EXTINF:-1, LC 🇪🇸
+http://37.49.225.201:8691/live/6193039STIK/seG9pfKM/807.m3u8
+
+#EXTINF:-1, LC 🇪🇸
+http://37.49.225.201:8691/live/6193039STIK/seG9pfKM/810.m3u8
+
 #EXTINF:-1, МАТЧ! ФУТБOЛ 2HD 🇷🇺
 http://188.191.160.238:7780/udp/239.195.3.17:1234
 
