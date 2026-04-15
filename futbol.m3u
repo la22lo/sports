@@ -78,36 +78,6 @@ http://181.78.109.48:9998/play/a06r/index.m3u8
 #EXTINF:-1, OTT CLUB 🇷🇺
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6554/index.m3u8
 
-#EXTINF:-1,  bein_sd_1 🇶🇦
-http://135.125.109.73:9000/beinsport1_.m3u8
-
-#EXTINF:-1, bein_sd_2 🇶🇦
-http://135.125.109.73:9000/beinsport2_.m3u8
-
-#EXTINF:-1,bein_sd_2 🇶🇦
-https://balance.footballii.ir/hls2/bein2.m3u8
-
-#EXTINF:-1, bein_sd_3 🇶🇦
-http://135.125.109.73:9000/beinsport3_.m3u8
-
-#EXTINF:-1, bein_sd_4 🇶🇦
-http://135.125.109.73:9000/beinsport4_.m3u8
-
-#EXTINF:-1, bein_sd_5 🇶🇦
-http://135.125.109.73:9000/beinsport5_.m3u8
-
-#EXTINF:-1, bein_sd_6 🇶🇦
-http://135.125.109.73:9000/beinsport6_.m3u8
-
-#EXTINF:-1, bein_sd_7 🇶🇦
-http://135.125.109.73:9000/beinsport7_.m3u8
-
-#EXTINF:-1, bein_sd_8 🇶🇦
-http://135.125.109.73:9000/beinsport8_.m3u8
-
-#EXTINF:-1, bein_sd_9 🇶🇦
-http://135.125.109.73:9000/beinsport9_.m3u8
-
 #EXTINF:-1, BEIN SPORT 1 🇶🇦
 http://77.137.40.221:8000/play/a01e
 
