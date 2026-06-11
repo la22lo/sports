@@ -15,6 +15,12 @@ https://bluesport.fun/live/blue_sport_1/index.m3u8
 #EXTINF:-1, ENGLISH CHANNEL 🇬🇧
 https://lbgo.bozztv.com/ssh101/ssh101/test1001/chunks.m3u8
 
+#EXTINF:-1, BEIN 1 🇫🇷
+http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
+
+#EXTINF:-1, BEIN 1 🇫🇷
+http://145.239.5.177:80/559/index.m3u8
+
 #EXTINF:-1, 5 SPORT 🇮🇱
 http://185.132.134.159:80/sport5/index.m3u8
 
