@@ -9,10 +9,13 @@ https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/h6T7bZ0AvqgNG6XoT
 #EXTINF:-1, PERSIANA SPORTS 🇮🇷
 https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
 
+#EXTINF:-1, BLUE SPORT 1 🇮🇷
+https://bluesport.fun/live/blue_sport_1/index.m3u8
+
 #EXTINF:-1, 5 SPORT 🇮🇱
 http://185.132.134.159:80/sport5/index.m3u8
 
-#EXTINF:-1, 5 SPORT 🇮🇱
+#EXTINF:-1, BLUE SPORT 🇮🇱
 http://77.137.40.221:8000/play/a01c
 
 #EXTINF:-1, BEIN SPORT 1 🇶🇦
