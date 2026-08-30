@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, APARAT SPORTS 🇶🇦
+https://cp11.adabmedia.com/hls2/sport.m3u8
+
 #EXTINF:-1, PERSIANA SPORTS 🇮🇷
 https://live12.ir/sp/hls.html?link=http://cp11.adabmedia.com/hls2/persiana.m3u8
 
